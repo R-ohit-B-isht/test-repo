@@ -19,6 +19,7 @@ function filteredShoes() {
       if (state.type === "nomesh") return !/mesh|not stated/i.test(s.fullSpec.upperMaterial);
       if (state.type === "high") return /high|6-inch|hi-neck|jungle/i.test(s.fullSpec.ankleHeight);
       if (state.type === "waterres") return /repellent|resistant|splash|shower/i.test(s.fullSpec.waterproofing);
+      if (state.type === "tss") return s.brand === "The Souled Store";
       return true;
     })
     .sort(SORT_STRATEGIES[state.sort]);

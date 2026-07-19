@@ -2,12 +2,11 @@
 // the requester specifically wants to avoid mesh uppers that let sand and
 // dirt in, and values looks, comfort and materials.
 const WEIGHTS = {
-  sealing: 0.25,
-  comfort: 0.20,
-  grip: 0.20,
-  build: 0.15,
-  looks: 0.10,
-  value: 0.10,
+  sealing: 0.28,
+  comfort: 0.22,
+  grip: 0.22,
+  build: 0.17,
+  looks: 0.11,
 };
 
 const CRITERIA_LABELS = {
@@ -16,7 +15,6 @@ const CRITERIA_LABELS = {
   grip: "Grip & Trail Traction",
   build: "Build & Materials",
   looks: "Looks & Design",
-  value: "Value for Money",
 };
 
 function overallScore(s) {
