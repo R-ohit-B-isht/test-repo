@@ -86,6 +86,15 @@ function fullSpecHtml(s) {
   return `<details class="detail-specs full-specs"><summary>Full spec sheet (all details)</summary>${sections}</details>`;
 }
 
+function galleryHtml(s) {
+  if (!s.images || !s.images.length) return "";
+  const main = `<img class="gallery-main" src="${s.images[0]}" alt="${s.brand} ${s.model}" loading="lazy" onerror="this.closest('.gallery').style.display='none'">`;
+  const thumbs = s.images.length > 1
+    ? `<div class="gallery-thumbs">${s.images.map((u, i) => `<img class="gallery-thumb${i === 0 ? " active" : ""}" src="${u}" alt="View ${i + 1}" loading="lazy" data-src="${u}" onerror="this.remove()">`).join("")}</div>`
+    : "";
+  return `<div class="gallery">${main}${thumbs}</div>`;
+}
+
 function buyHtml(s) {
   if (!s.buyUrl) return "";
   return `<a class="buy-btn" href="${s.buyUrl}" target="_blank" rel="noopener noreferrer">Buy on ${s.buyStore} \u2197</a>`;
@@ -102,6 +111,7 @@ function cardHtml(s, i) {
       <div class="brand">${s.brand}</div>
       <h2>${s.model}</h2>
     </div>
+    ${galleryHtml(s)}
     <div class="price">${formatINR(s.price)}</div>
     <span class="verdict ${v.cls}">${v.label} \u2014 ${score}/100</span>
     ${casual ? '<span class="verdict v-avg">Casual sneaker \u2014 not trail gear</span>' : ""}
@@ -146,6 +156,14 @@ function render() {
   document.querySelectorAll("#table th[data-sort]").forEach((th) =>
     th.addEventListener("click", () => setSort(th.dataset.sort))
   );
+  document.querySelectorAll(".gallery").forEach((g) => {
+    g.addEventListener("click", (e) => {
+      const t = e.target;
+      if (!t.classList.contains("gallery-thumb")) return;
+      g.querySelector(".gallery-main").src = t.dataset.src;
+      g.querySelectorAll(".gallery-thumb").forEach((x) => x.classList.toggle("active", x === t));
+    });
+  });
 }
 
 function setSort(key) {

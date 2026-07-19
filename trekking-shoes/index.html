@@ -3,62 +3,74 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Best Trekking Shoes Under ₹3,000 in India — Comparison & Scores</title>
+  <title>Trekking Shoes Under ₹3,000 — India, Ranked</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Doto:wght@400..700&family=Space+Grotesk:wght@300;400;500&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <div class="dev-banner">DEV MODE — score table logged to console</div>
+  <div class="dev-banner">[DEV MODE] SCORE TABLE LOGGED TO CONSOLE</div>
   <header>
-    <h1>Best Trekking Shoes Under ₹3,000 in India — Ranked</h1>
-    <p>200 trekking / hiking shoes sold in India under ~₹3,000 — 18 fully-researched picks (Quechua/Decathlon,
-      Wildcraft, Red Tape Ozark, Bacca Bucci, ASIAN, Unistar, Campus, Action, plus <strong>The Souled Store</strong>
-      sneakers you asked about, flagged: casual, not trail gear) and 182 more real Flipkart hiking/trekking
-      listings scraped live in the browser — those makers publish no construction specs, so they carry
-      "Not stated in listing" fields and conservative scores. Everything is scored with
-      <strong>dust &amp; water sealing weighted highest</strong>, since sand and dirt getting through
-      mesh uppers is your key complaint, alongside comfort, grip, materials and looks.</p>
-    <span class="badge">Dust/water sealing weighted highest (25%)</span>
-    <span class="badge">Mesh uppers penalised</span>
-    <span class="badge">Prices as of 19 Jul 2026</span>
-    <span class="badge">All 200 backed by live listings — nothing invented</span>
+    <div class="masthead">
+      <span class="label">TREKKING SHOES / INDIA / UNDER ₹3,000</span>
+      <span class="label">RESEARCHED 19 JUL 2026</span>
+    </div>
+    <div class="hero">
+      <span class="hero-number">200</span>
+      <div class="hero-side">
+        <h1>Shoes ranked.<br>Sand stays out.</h1>
+        <p class="hero-sub">18 fully-researched picks — Quechua, Wildcraft, Red Tape Ozark, Bacca Bucci,
+          ASIAN, Unistar, Campus, Action, plus The Souled Store (flagged: casual, not trail gear) —
+          and 182 live Flipkart hiking/trekking listings scraped in the browser. Unpublished specs say
+          "Not stated in listing"; nothing is invented. Dust &amp; water sealing is weighted highest,
+          because mesh uppers letting sand in is the whole point.</p>
+      </div>
+    </div>
+    <div class="masthead tags">
+      <span class="tag">SEALING 25%</span>
+      <span class="tag">MESH PENALISED</span>
+      <span class="tag">LIVE PRICES</span>
+      <span class="tag">NOTHING INVENTED</span>
+    </div>
   </header>
 
   <div class="controls">
-    <select id="sort">
-      <option value="score">Sort: Overall score</option>
-      <option value="sealing">Sort: Dust &amp; water sealing</option>
-      <option value="comfort">Sort: Comfort</option>
-      <option value="looks">Sort: Looks</option>
-      <option value="priceAsc">Sort: Price (low → high)</option>
-      <option value="priceDesc">Sort: Price (high → low)</option>
-      <option value="brand">Sort: Brand</option>
+    <select id="sort" aria-label="Sort">
+      <option value="score">SORT: OVERALL SCORE</option>
+      <option value="sealing">SORT: DUST &amp; WATER SEALING</option>
+      <option value="comfort">SORT: COMFORT</option>
+      <option value="looks">SORT: LOOKS</option>
+      <option value="priceAsc">SORT: PRICE LOW→HIGH</option>
+      <option value="priceDesc">SORT: PRICE HIGH→LOW</option>
+      <option value="brand">SORT: BRAND</option>
     </select>
-    <select id="type">
-      <option value="all">Filter: All</option>
-      <option value="nomesh">No-mesh upper (sand-proof)</option>
-      <option value="high">High ankle</option>
-      <option value="waterres">Water-resistant</option>
+    <select id="type" aria-label="Filter">
+      <option value="all">FILTER: ALL</option>
+      <option value="nomesh">NO-MESH UPPER (SAND-PROOF)</option>
+      <option value="high">HIGH ANKLE</option>
+      <option value="waterres">WATER-RESISTANT</option>
     </select>
-    <label>Max price <input type="range" id="maxPrice" min="500" max="3000" step="100" value="3000" />
-      <span id="maxPriceLabel">₹3,000</span></label>
-    <span id="count" class="badge"></span>
+    <label class="label">MAX PRICE <input type="range" id="maxPrice" min="500" max="3000" step="100" value="3000" />
+      <span id="maxPriceLabel" class="mono-val">₹3,000</span></label>
+    <span id="count" class="tag"></span>
   </div>
 
   <main>
-    <h2 class="section-title">Ranked Picks</h2>
+    <h2 class="section-title">RANKED PICKS</h2>
     <div id="cards" class="grid"></div>
 
-    <h2 class="section-title">Full Comparison Table — every spec, side by side</h2>
-    <p class="note">All spec fields for every shoe. Click column headers to sort; scroll right to see every spec (first columns stay pinned on desktop; on mobile the table scrolls freely).</p>
+    <h2 class="section-title">FULL COMPARISON TABLE</h2>
+    <p class="note">Every spec field, side by side. Click column headers to sort; first columns stay pinned on desktop.</p>
     <div id="table" class="table-wrap"></div>
   </main>
 
   <footer>
-    Scores are weighted: Dust &amp; Water Sealing 25% · Comfort 20% · Grip 20% · Build &amp; Materials 15% · Looks 10% · Value 10%.<br />
-    Prices researched on 19 Jul 2026 — Decathlon.in, Flipkart, baccabucci.com and thesouledstore.com verified live in the browser;
-    Amazon.in cross-checked via search results and price trackers. Prices change frequently — verify before buying.<br />
-    Where a maker publishes no figure it is marked "Not officially published" — never guessed.
-    Note: no shoe under ₹3,000 in India has a true waterproof membrane; the closest options are flagged.
+    <span class="label">WEIGHTS</span> Sealing 25 · Comfort 20 · Grip 20 · Build 15 · Looks 10 · Value 10<br />
+    <span class="label">SOURCES</span> Decathlon.in, Flipkart, baccabucci.com, thesouledstore.com — verified live in the browser, 19 Jul 2026.
+    Amazon.in cross-checked via search results and price trackers. Prices change — verify before buying.<br />
+    <span class="label">HONESTY</span> Unpublished figures are marked "Not officially published" — never guessed.
+    No shoe under ₹3,000 in India has a true waterproof membrane; the closest options are flagged.
   </footer>
 
   <script src="data.js"></script>
