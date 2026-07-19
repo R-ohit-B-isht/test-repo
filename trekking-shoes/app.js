@@ -16,7 +16,7 @@ function filteredShoes() {
     .filter((s) => s.price <= state.maxPrice)
     .filter((s) => {
       if (state.type === "all") return true;
-      if (state.type === "nomesh") return !/mesh/i.test(s.fullSpec.upperMaterial);
+      if (state.type === "nomesh") return !/mesh|not stated/i.test(s.fullSpec.upperMaterial);
       if (state.type === "high") return /high|6-inch|hi-neck|jungle/i.test(s.fullSpec.ankleHeight);
       if (state.type === "waterres") return /repellent|resistant|splash|shower/i.test(s.fullSpec.waterproofing);
       return true;
