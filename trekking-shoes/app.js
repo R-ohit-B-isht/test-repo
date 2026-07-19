@@ -1,12 +1,12 @@
 // Rendering + interaction. Strategy pattern for sorting; re-render on state change.
 const SORT_STRATEGIES = {
-  score: (a, b) => overallScore(b) - overallScore(a),
-  sealing: (a, b) => b.scores.sealing - a.scores.sealing || overallScore(b) - overallScore(a),
-  comfort: (a, b) => b.scores.comfort - a.scores.comfort || overallScore(b) - overallScore(a),
-  looks: (a, b) => b.scores.looks - a.scores.looks || overallScore(b) - overallScore(a),
-  priceAsc: (a, b) => a.price - b.price,
-  priceDesc: (a, b) => b.price - a.price,
-  brand: (a, b) => a.brand.localeCompare(b.brand),
+  score: (a, b) => overallScore(b) - overallScore(a) || b.scores.sealing - a.scores.sealing || a.price - b.price,
+  sealing: (a, b) => b.scores.sealing - a.scores.sealing || overallScore(b) - overallScore(a) || a.price - b.price,
+  comfort: (a, b) => b.scores.comfort - a.scores.comfort || overallScore(b) - overallScore(a) || a.price - b.price,
+  looks: (a, b) => b.scores.looks - a.scores.looks || overallScore(b) - overallScore(a) || a.price - b.price,
+  priceAsc: (a, b) => a.price - b.price || overallScore(b) - overallScore(a),
+  priceDesc: (a, b) => b.price - a.price || overallScore(b) - overallScore(a),
+  brand: (a, b) => a.brand.localeCompare(b.brand) || overallScore(b) - overallScore(a),
 };
 
 const state = { sort: "score", type: "all", maxPrice: 3000 };
