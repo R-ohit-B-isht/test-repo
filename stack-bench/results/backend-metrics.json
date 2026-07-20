@@ -1,0 +1,232 @@
+{
+  "node-express": {
+    "cold_start_ms": 71,
+    "rss_idle_mb": 54.96484375,
+    "rps": 7306,
+    "p99_ms": 16.69,
+    "rss_load_mb": 115.15625,
+    "sse200_cpu_pct": 3.6,
+    "rss_sse200_mb": 63.328125,
+    "measured": true
+  },
+  "node-fastify": {
+    "cold_start_ms": 107,
+    "rss_idle_mb": 58.15625,
+    "rps": 12856,
+    "p99_ms": 9.47,
+    "rss_load_mb": 91.92578125,
+    "sse200_cpu_pct": 2,
+    "rss_sse200_mb": 91.921875,
+    "measured": true
+  },
+  "node-hono": {
+    "cold_start_ms": 66,
+    "rss_idle_mb": 53.9765625,
+    "rps": 11776,
+    "p99_ms": 10.23,
+    "rss_load_mb": 89.0234375,
+    "sse200_cpu_pct": 5,
+    "rss_sse200_mb": 96.203125,
+    "measured": true
+  },
+  "node-nestjs": {
+    "cold_start_ms": 172,
+    "rss_idle_mb": 74.0859375,
+    "rps": 7077,
+    "p99_ms": 17.26,
+    "rss_load_mb": 150.984375,
+    "sse200_cpu_pct": 2.2,
+    "rss_sse200_mb": 154.765625,
+    "measured": true
+  },
+  "bun-hono": {
+    "cold_start_ms": 23,
+    "rss_idle_mb": 43.2421875,
+    "rps": 26995,
+    "p99_ms": 4.58,
+    "rss_load_mb": 68.24609375,
+    "sse200_cpu_pct": 7.1,
+    "rss_sse200_mb": 62.98046875,
+    "measured": true
+  },
+  "bun-elysia": {
+    "cold_start_ms": 46,
+    "rss_idle_mb": 58.56640625,
+    "rps": 29095,
+    "p99_ms": 4.21,
+    "rss_load_mb": 64.31640625,
+    "sse200_cpu_pct": 3.5,
+    "rss_sse200_mb": 71.23046875,
+    "measured": true
+  },
+  "deno-oak": {
+    "cold_start_ms": 64,
+    "rss_idle_mb": 63.75,
+    "rps": 27294,
+    "p99_ms": 3.07,
+    "rss_load_mb": 110.171875,
+    "sse200_cpu_pct": 3,
+    "rss_sse200_mb": 124.734375,
+    "measured": true
+  },
+  "go-nethttp": {
+    "cold_start_ms": 21,
+    "rss_idle_mb": 6.2890625,
+    "rps": 97868,
+    "p99_ms": 5.22,
+    "rss_load_mb": 12.9609375,
+    "sse200_cpu_pct": 2.2,
+    "rss_sse200_mb": 14.28515625,
+    "measured": true
+  },
+  "go-fiber": {
+    "cold_start_ms": 22,
+    "rss_idle_mb": 6.8203125,
+    "rps": 71755,
+    "p99_ms": 5.97,
+    "rss_load_mb": 12.71875,
+    "sse200_cpu_pct": 2,
+    "rss_sse200_mb": 15.01953125,
+    "measured": true
+  },
+  "go-echo": {
+    "cold_start_ms": 21,
+    "rss_idle_mb": 7.33203125,
+    "rps": 97382,
+    "p99_ms": 5.35,
+    "rss_load_mb": 13.75390625,
+    "sse200_cpu_pct": 2.2,
+    "rss_sse200_mb": 15.76171875,
+    "measured": true
+  },
+  "go-gin": {
+    "cold_start_ms": 21,
+    "rss_idle_mb": 9.625,
+    "rps": 54416,
+    "p99_ms": 5.18,
+    "rss_load_mb": 18.91796875,
+    "sse200_cpu_pct": 2.1,
+    "rss_sse200_mb": 19.29296875,
+    "measured": true
+  },
+  "rust-axum": {
+    "cold_start_ms": 22,
+    "rss_idle_mb": 1.375,
+    "rps": 56672,
+    "p99_ms": 4.34,
+    "rss_load_mb": 7.359375,
+    "sse200_cpu_pct": 1.5,
+    "rss_sse200_mb": 9.13671875,
+    "measured": true
+  },
+  "rust-actix": {
+    "cold_start_ms": 21,
+    "rss_idle_mb": 4.27734375,
+    "rps": 94795,
+    "p99_ms": 6.62,
+    "rss_load_mb": 7.875,
+    "sse200_cpu_pct": 1.7,
+    "rss_sse200_mb": 7.875,
+    "measured": true
+  },
+  "py-fastapi": {
+    "cold_start_ms": 299,
+    "rss_idle_mb": 192.796875,
+    "rps": 1323,
+    "p99_ms": 79.92,
+    "rss_load_mb": 195.41015625,
+    "sse200_cpu_pct": 5.8,
+    "rss_sse200_mb": 201.59765625,
+    "measured": true
+  },
+  "py-flask": {
+    "cold_start_ms": 105,
+    "rss_idle_mb": 131.8125,
+    "rps": 6557,
+    "p99_ms": 22.21,
+    "rss_load_mb": 134.76171875,
+    "sse200_cpu_pct": 1.6,
+    "rss_sse200_mb": 134.76171875,
+    "measured": true
+  },
+  "py-django": {
+    "cold_start_ms": 129,
+    "rss_idle_mb": 159.51171875,
+    "rps": 6050,
+    "p99_ms": 27.3,
+    "rss_load_mb": 169.796875,
+    "sse200_cpu_pct": 2.2,
+    "rss_sse200_mb": 169.796875,
+    "measured": true
+  },
+  "csharp-aspnet": {
+    "cold_start_ms": 200,
+    "rss_idle_mb": 66.85546875,
+    "rps": 50136,
+    "p99_ms": 5.58,
+    "rss_load_mb": 185.68359375,
+    "sse200_cpu_pct": 2.5,
+    "rss_sse200_mb": 196.2265625,
+    "measured": true
+  },
+  "java-spring": {
+    "cold_start_ms": 1226,
+    "rss_idle_mb": 208.65234375,
+    "rps": 41766,
+    "p99_ms": 8.66,
+    "rss_load_mb": 384.78515625,
+    "sse200_cpu_pct": 7.8,
+    "rss_sse200_mb": 415.55078125,
+    "measured": true
+  },
+  "elixir-phoenix": {
+    "cold_start_ms": 475,
+    "rss_idle_mb": 86.328125,
+    "rps": 6020,
+    "p99_ms": 19.99,
+    "rss_load_mb": 184.26953125,
+    "sse200_cpu_pct": 7.9,
+    "rss_sse200_mb": 135.640625,
+    "measured": true
+  },
+  "php-laravel": {
+    "cold_start_ms": 237,
+    "rss_idle_mb": 152.0546875,
+    "rps": 638,
+    "p99_ms": 564.03,
+    "rss_load_mb": 341.34375,
+    "sse200_cpu_pct": 0,
+    "rss_sse200_mb": 341.546875,
+    "measured": true
+  },
+  "ruby-rails": {
+    "cold_start_ms": 561,
+    "rss_idle_mb": 360.58203125,
+    "rps": 2495,
+    "p99_ms": 61.99,
+    "rss_load_mb": 518.01171875,
+    "sse200_cpu_pct": 5.7,
+    "rss_sse200_mb": 546.25390625,
+    "measured": true
+  },
+  "java-vertx": {
+    "cold_start_ms": 269,
+    "rss_idle_mb": 86.22265625,
+    "rps": 70790,
+    "p99_ms": 2.91,
+    "rss_load_mb": 777.1796875,
+    "sse200_cpu_pct": 3.9,
+    "rss_sse200_mb": 801.40625,
+    "measured": true
+  },
+  "deno-fresh": {
+    "cold_start_ms": 47,
+    "rss_idle_mb": 59.0546875,
+    "rps": 24766,
+    "p99_ms": 3.38,
+    "rss_load_mb": 133.76953125,
+    "sse200_cpu_pct": 1.9,
+    "rss_sse200_mb": 152.30078125,
+    "measured": true
+  }
+}

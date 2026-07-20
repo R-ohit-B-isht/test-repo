@@ -1,0 +1,7 @@
+/home/ubuntu/stack-bench/backends/csharp-minimal/publish/csharp-minimal
+/home/ubuntu/stack-bench/backends/csharp-minimal/publish/appsettings.Development.json
+/home/ubuntu/stack-bench/backends/csharp-minimal/publish/appsettings.json
+/home/ubuntu/stack-bench/backends/csharp-minimal/publish/csharp-minimal.dll
+/home/ubuntu/stack-bench/backends/csharp-minimal/publish/csharp-minimal.deps.json
+/home/ubuntu/stack-bench/backends/csharp-minimal/publish/csharp-minimal.runtimeconfig.json
+/home/ubuntu/stack-bench/backends/csharp-minimal/publish/csharp-minimal.pdb

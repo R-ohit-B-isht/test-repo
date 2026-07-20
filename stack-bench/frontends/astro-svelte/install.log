@@ -1,0 +1,13 @@
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: 'chokidar@5.0.0',
+npm warn EBADENGINE   required: { node: '>= 20.19.0' },
+npm warn EBADENGINE   current: { node: 'v20.18.1', npm: '10.8.2' }
+npm warn EBADENGINE }
+npm warn EBADENGINE Unsupported engine {
+npm warn EBADENGINE   package: 'readdirp@5.0.0',
+npm warn EBADENGINE   required: { node: '>= 20.19.0' },
+npm warn EBADENGINE   current: { node: 'v20.18.1', npm: '10.8.2' }
+npm warn EBADENGINE }
+npm warn deprecated tsconfck@3.1.6: unmaintained
+
+added 298 packages in 8s

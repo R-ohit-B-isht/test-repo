@@ -1,0 +1,14 @@
+{
+  "name": "fe-htmx",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build --base=/fe/htmx/"
+  },
+  "dependencies": {
+    "htmx.org": "^1.9.12"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}

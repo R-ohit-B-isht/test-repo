@@ -1,0 +1,30 @@
+16:27:19 [vite] Forced re-optimization of dependencies
+16:27:19 [content] Syncing content
+16:27:19 [content] Synced content
+16:27:19 [types] Generated 133ms
+16:27:19 [build] output: "static"
+16:27:19 [build] mode: "static"
+16:27:19 [build] directory: /home/ubuntu/stack-bench/frontends/astro-svelte/dist/
+16:27:19 [build] Collecting build info...
+16:27:19 [build] ✓ Completed in 142ms.
+16:27:19 [build] Building static entrypoints...
+16:27:20 [vite] ✓ built in 482ms
+16:27:20 [build] ✓ Completed in 510ms.
+
+ building client (vite) 
+16:27:20 [vite] transforming...
+16:27:20 [vite] ✓ 107 modules transformed.
+16:27:20 [vite] rendering chunks...
+16:27:20 [vite] computing gzip size...
+16:27:20 [vite] dist/_astro/client.svelte.BHmv5RQG.js   1.13 kB │ gzip:  0.63 kB
+16:27:20 [vite] dist/_astro/Table.Bs_9BBrJ.js           6.08 kB │ gzip:  2.94 kB
+16:27:20 [vite] dist/_astro/render.UDqLOGV_.js         29.44 kB │ gzip: 11.43 kB
+16:27:20 [vite] ✓ built in 271ms
+
+ generating static routes 
+16:27:20 ▶ src/pages/index.astro
+16:27:20   └─ /index.html (+6ms) 
+16:27:20 ✓ Completed in 12ms.
+
+16:27:20 [build] 1 page(s) built in 946ms
+16:27:20 [build] Complete!

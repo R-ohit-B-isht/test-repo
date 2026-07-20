@@ -1,0 +1,446 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>CEO Console — Stack Benchmark Report</title>
+<style>
+:root{--bg:#0d1117;--card:#161b22;--line:#21262d;--fg:#c9d1d9;--dim:#8b949e;--acc:#58a6ff;--lit:#d29922}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:14px/1.5 system-ui,-apple-system,sans-serif;padding:32px;max-width:1400px;margin:auto}
+h1{font-size:26px;font-weight:600}h2{font-size:19px;margin-top:44px;border-bottom:1px solid var(--line);padding-bottom:6px}h3{font-size:15px;color:var(--acc)}
+table{border-collapse:collapse;width:100%;font-size:12.5px;margin:14px 0}
+th,td{border:1px solid var(--line);padding:5px 8px;text-align:left;vertical-align:top}
+th{background:var(--card);position:sticky;top:0}
+td.name{font-weight:600;white-space:nowrap}
+tr:nth-child(even){background:#10151c}
+tr.litrow{color:var(--lit)}
+.chart{margin:10px 0 26px}
+.brow{display:flex;align-items:center;gap:8px;margin:3px 0}
+.blabel{width:210px;text-align:right;font-size:12px;color:var(--dim);flex-shrink:0}
+.btrack{flex:1;background:var(--card);border-radius:3px;height:14px;overflow:hidden}
+.bfill{display:block;height:100%;background:linear-gradient(90deg,#1f6feb,#58a6ff)}
+.bfill.lit{background:linear-gradient(90deg,#9e6a03,#d29922)}
+.bval{width:110px;font-size:12px;color:var(--fg)}
+.bna{color:var(--dim);font-size:12px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:18px 22px;margin:14px 0}
+.win{border-left:3px solid var(--acc)}
+code{background:var(--card);padding:1px 5px;border-radius:4px;font-size:12px}
+ul{margin:6px 0}
+.dim{color:var(--dim)}
+sup{color:var(--lit)}
+</style></head><body>
+<h1>CEO Console — Technology Stack Benchmark</h1>
+<p class="dim">Generated 2026-07-20T17:38:28.813Z · 8 vCPU, 31GB RAM, Linux 5.15 (Devin VM) · workload: GET /api/events - SSE stream, 10 events/sec; GET /api/rows - 200-row JSON (7 columns); POST /api/action - JSON echo. Frontend renders live feed + sortable 200-row table updating from SSE. All 21 frontends and all 23 backends were measured locally (version/deployment caveats in section 4). Section 3 deep-dives Astro 5 (the chosen frontend): island combinations and end-to-end pairings with all 23 backends.</p>
+
+<div class="card win"><h3>Chosen direction: Astro 5</h3>
+With Astro 5 locked as the frontend, the measured pairing data (section 3) says: use a <b>plain-script or Solid island</b> (0.9–9&nbsp;kB gzip, 73–110&nbsp;ms 10k render), and pair with <b>Go/Echo</b> (cheapest on Railway), <b>Node/Fastify</b> (TS-first), or <b>Phoenix</b> (many-user live-push future). Avoid the React island unless you need React libraries — it costs 46&nbsp;kB and ~2.2x the render time for identical code.<br><br>
+<b>Full recommended stack (all layers measured, sections 3c–3h):</b> Astro 5 + Preact island · <b>@preact/signals or nanostores</b> for state · <b>uPlot</b> charts (Lightweight Charts/D3 the only close seconds) · <b>TanStack Table + Virtual</b> via preact/compat · <b>Go Echo + pgx</b> (sqlc for type-safety) · SSE (built-in auto-reconnect measured) with optional <b>Postgres LISTEN/NOTIFY</b> push (+~1&nbsp;ms) · brotli precompression · <b>5.9&nbsp;MB real Docker image</b>.</div>
+<div class="card win"><h3>Winners</h3>
+<b>(a) Single-user internal console:</b> <b>Svelte 5 (Vite) or Preact + Fastify/Hono on Node</b> — but honestly, at one user every measured stack is instant; pick React (Vite) + Fastify if you want maximum AI-agent &amp; hiring familiarity at negligible cost (46&nbsp;kB gzip, 46&nbsp;ms TTI).<br><br>
+<b>(b) Growth to multi-view live dashboard:</b> <b>React 18 (Vite SPA) + Node/Fastify</b>, with SolidJS as the performance-ceiling alternative (5.2&nbsp;kB, 105&nbsp;ms 10k-row render, flat heap under SSE). React's ecosystem (charting, tables, virtualization) and AI familiarity dominate long-term cost. Avoid SSR meta-frameworks (Next/Nuxt) — they add build weight and deploy complexity with no benefit for an authenticated live dashboard.<br><br>
+<b>(c) API/control-plane backend on Railway:</b> <b>Go (net/http or Echo)</b> — 97k RPS, 6&nbsp;MB RSS, 21&nbsp;ms cold start, ~12&nbsp;MB image, stdlib-stable. If the team is TypeScript-first: <b>Node + Fastify</b> (12.9k RPS is far beyond a console's needs; best Postgres/ecosystem story). Bun+Elysia/Hono is the measured TS performance king (29k RPS) but younger operationally.</div>
+
+<h2>1. Frontends — measured results (all 21 measured locally)</h2>
+<table><thead><tr>
+<th>Frontend</th><th>Bundle gzip (kB)</th><th>Cold load (ms)</th><th>TTI (ms)</th><th>10k-row render (ms)</th><th>Heap after 45s SSE (MB)</th><th>Build (s)</th><th>Railway fit</th><th>TypeScript</th><th>Ecosystem</th><th>Hiring / AI familiarity</th><th>Maintenance risk</th>
+</tr></thead><tbody><tr>
+<td class="name">Astro 5</td><td>0.9</td><td>6</td><td>34</td><td>73</td><td>1.33</td><td>1.1</td>
+<td>static build; trivial</td><td>first-class</td><td>medium, growing fast</td><td>medium</td><td>low</td></tr><tr>
+<td class="name">Vanilla JS</td><td>1.4</td><td>7</td><td>33</td><td>72</td><td>1.22</td><td>0.3</td>
+<td>any static host; trivial</td><td>manual (tsc setup)</td><td>n/a (platform)</td><td>universal</td><td>none (no deps)</td></tr><tr>
+<td class="name">VanJS 1.5</td><td>2.6</td><td>8</td><td>42</td><td>143</td><td>1.25</td><td>0.3</td>
+<td>trivial</td><td>ok</td><td>tiny</td><td>low</td><td>high (one maintainer)</td></tr><tr>
+<td class="name">SolidJS 1.9</td><td>5.1</td><td>9</td><td>38</td><td>105</td><td>2.28</td><td>0.5</td>
+<td>static build; trivial</td><td>first-class</td><td>small-medium</td><td>medium-low; AI agents decent (JSX)</td><td>medium (small core team)</td></tr><tr>
+<td class="name">SolidStart 1</td><td>6.2</td><td>9</td><td>34</td><td>109</td><td>2.17</td><td>3.9</td>
+<td>ok (vinxi node or static)</td><td>first-class</td><td>small</td><td>low</td><td>medium-high (young)</td></tr><tr>
+<td class="name">Preact 10</td><td>6.6</td><td>7</td><td>55</td><td>128</td><td>5.19</td><td>0.3</td>
+<td>static build; trivial</td><td>first-class</td><td>large (React compat)</td><td>high (React skills transfer)</td><td>low</td></tr><tr>
+<td class="name">Lit 3</td><td>8.1</td><td>11</td><td>41</td><td>217</td><td>2.3</td><td>0.4</td>
+<td>static build; trivial</td><td>first-class</td><td>medium (web components)</td><td>medium-low</td><td>low (Google)</td></tr><tr>
+<td class="name">Inferno 8</td><td>9.7</td><td>9</td><td>34</td><td>87</td><td>4.38</td><td>0.4</td>
+<td>trivial</td><td>ok</td><td>very small</td><td>low (React-like helps)</td><td>high (minimal maintenance)</td></tr><tr>
+<td class="name">Mithril 2</td><td>11</td><td>10</td><td>41</td><td>128</td><td>7.74</td><td>0.4</td>
+<td>trivial</td><td>ok (community types)</td><td>small</td><td>low</td><td>medium (slow development)</td></tr><tr>
+<td class="name">Svelte 5 (Vite)</td><td>14.2</td><td>12</td><td>47</td><td>310</td><td>5.84</td><td>0.8</td>
+<td>static build; trivial</td><td>first-class</td><td>medium, growing</td><td>medium; AI agents good</td><td>low</td></tr><tr>
+<td class="name">htmx 1.9</td><td>17.3</td><td>10</td><td>38</td><td>86</td><td>1.62</td><td>0.5</td>
+<td>trivial (server-rendered)</td><td>n/a (attributes)</td><td>small but loud</td><td>medium (backend devs like it)</td><td>low (tiny, stable API)</td></tr><tr>
+<td class="name">Alpine.js 3</td><td>17.5</td><td>12</td><td>84</td><td>8244</td><td>6.88</td><td>0.4</td>
+<td>trivial</td><td>weak</td><td>small</td><td>medium</td><td>low</td></tr><tr>
+<td class="name">Qwik 1.12</td><td>25</td><td>12</td><td>45</td><td>197</td><td>2.58</td><td>0.5</td>
+<td>ok</td><td>first-class</td><td>small</td><td>low</td><td>medium-high (Builder.io pivot)</td></tr><tr>
+<td class="name">Vue 3 (Vite)</td><td>25.5</td><td>17</td><td>45</td><td>128</td><td>6.76</td><td>0.6</td>
+<td>static build; trivial</td><td>first-class</td><td>very large</td><td>high</td><td>low</td></tr><tr>
+<td class="name">SvelteKit 2</td><td>34.7</td><td>8</td><td>60</td><td>330</td><td>6.06</td><td>2.2</td>
+<td>good (adapter-node or static)</td><td>first-class</td><td>medium</td><td>medium</td><td>low</td></tr><tr>
+<td class="name">React 18 (Vite)</td><td>45.7</td><td>12</td><td>46</td><td>309</td><td>3.51</td><td>0.7</td>
+<td>static build; trivial</td><td>first-class</td><td>largest</td><td>best-in-class; AI agents strongest here</td><td>very low</td></tr><tr>
+<td class="name">Nuxt 3</td><td>59.2</td><td>14</td><td>48</td><td>146</td><td>2.36</td><td>2.5</td>
+<td>good (node preset or static)</td><td>first-class</td><td>large (Vue)</td><td>medium-high</td><td>low-medium</td></tr><tr>
+<td class="name">Angular 19</td><td>71.9</td><td>40</td><td>76</td><td>212</td><td>3.72</td><td>1.8</td>
+<td>static build; trivial</td><td>native</td><td>large, enterprise</td><td>medium-high (enterprise pool)</td><td>low (Google LTS)</td></tr><tr>
+<td class="name">React Router 7 (Remix)</td><td>89.4</td><td>10</td><td>63</td><td>346</td><td>6.21</td><td>1.3</td>
+<td>good (SPA mode = static)</td><td>first-class</td><td>large (React)</td><td>high</td><td>low-medium (Remix->RR7 rebrand churn)</td></tr><tr>
+<td class="name">Ember 5</td><td>189.6</td><td>50</td><td>99</td><td>675</td><td>11.22</td><td>8.1</td>
+<td>static build</td><td>good</td><td>medium, shrinking</td><td>low</td><td>medium (declining mindshare)</td></tr><tr>
+<td class="name">Next.js 15</td><td>224.8</td><td>36</td><td>68</td><td>327</td><td>7.98</td><td>8.4</td>
+<td>good (node server or static export); heavier build</td><td>first-class</td><td>largest (React)</td><td>best-in-class</td><td>low, but framework churn (app router, RSC)</td></tr></tbody></table>
+
+<h3>Production bundle size, gzip (kB) — lower is better</h3>
+<div class="chart"><div class="brow"><span class="blabel">Astro 5</span><span class="btrack"><span class="bfill" style="width:1.5%"></span></span><span class="bval">0.9 kB</span></div><div class="brow"><span class="blabel">Vanilla JS</span><span class="btrack"><span class="bfill" style="width:1.5%"></span></span><span class="bval">1.4 kB</span></div><div class="brow"><span class="blabel">VanJS 1.5</span><span class="btrack"><span class="bfill" style="width:1.5%"></span></span><span class="bval">2.6 kB</span></div><div class="brow"><span class="blabel">SolidJS 1.9</span><span class="btrack"><span class="bfill" style="width:2.268683274021352%"></span></span><span class="bval">5.1 kB</span></div><div class="brow"><span class="blabel">SolidStart 1</span><span class="btrack"><span class="bfill" style="width:2.7580071174377223%"></span></span><span class="bval">6.2 kB</span></div><div class="brow"><span class="blabel">Preact 10</span><span class="btrack"><span class="bfill" style="width:2.93594306049822%"></span></span><span class="bval">6.6 kB</span></div><div class="brow"><span class="blabel">Lit 3</span><span class="btrack"><span class="bfill" style="width:3.6032028469750883%"></span></span><span class="bval">8.1 kB</span></div><div class="brow"><span class="blabel">Inferno 8</span><span class="btrack"><span class="bfill" style="width:4.314946619217081%"></span></span><span class="bval">9.7 kB</span></div><div class="brow"><span class="blabel">Mithril 2</span><span class="btrack"><span class="bfill" style="width:4.893238434163701%"></span></span><span class="bval">11 kB</span></div><div class="brow"><span class="blabel">Svelte 5 (Vite)</span><span class="btrack"><span class="bfill" style="width:6.3167259786476855%"></span></span><span class="bval">14.2 kB</span></div><div class="brow"><span class="blabel">htmx 1.9</span><span class="btrack"><span class="bfill" style="width:7.695729537366549%"></span></span><span class="bval">17.3 kB</span></div><div class="brow"><span class="blabel">Alpine.js 3</span><span class="btrack"><span class="bfill" style="width:7.784697508896797%"></span></span><span class="bval">17.5 kB</span></div><div class="brow"><span class="blabel">Qwik 1.12</span><span class="btrack"><span class="bfill" style="width:11.120996441281138%"></span></span><span class="bval">25 kB</span></div><div class="brow"><span class="blabel">Vue 3 (Vite)</span><span class="btrack"><span class="bfill" style="width:11.34341637010676%"></span></span><span class="bval">25.5 kB</span></div><div class="brow"><span class="blabel">SvelteKit 2</span><span class="btrack"><span class="bfill" style="width:15.435943060498222%"></span></span><span class="bval">34.7 kB</span></div><div class="brow"><span class="blabel">React 18 (Vite)</span><span class="btrack"><span class="bfill" style="width:20.32918149466192%"></span></span><span class="bval">45.7 kB</span></div><div class="brow"><span class="blabel">Nuxt 3</span><span class="btrack"><span class="bfill" style="width:26.334519572953734%"></span></span><span class="bval">59.2 kB</span></div><div class="brow"><span class="blabel">Angular 19</span><span class="btrack"><span class="bfill" style="width:31.983985765124558%"></span></span><span class="bval">71.9 kB</span></div><div class="brow"><span class="blabel">React Router 7 (Remix)</span><span class="btrack"><span class="bfill" style="width:39.768683274021356%"></span></span><span class="bval">89.4 kB</span></div><div class="brow"><span class="blabel">Ember 5</span><span class="btrack"><span class="bfill" style="width:84.34163701067615%"></span></span><span class="bval">189.6 kB</span></div><div class="brow"><span class="blabel">Next.js 15</span><span class="btrack"><span class="bfill" style="width:100%"></span></span><span class="bval">224.8 kB</span></div></div>
+
+<h3>Time to interactive, cold load (ms, median of 3) — lower is better</h3>
+<div class="chart"><div class="brow"><span class="blabel">Vanilla JS</span><span class="btrack"><span class="bfill" style="width:33.33333333333333%"></span></span><span class="bval">33 ms</span></div><div class="brow"><span class="blabel">SolidStart 1</span><span class="btrack"><span class="bfill" style="width:34.34343434343434%"></span></span><span class="bval">34 ms</span></div><div class="brow"><span class="blabel">Astro 5</span><span class="btrack"><span class="bfill" style="width:34.34343434343434%"></span></span><span class="bval">34 ms</span></div><div class="brow"><span class="blabel">Inferno 8</span><span class="btrack"><span class="bfill" style="width:34.34343434343434%"></span></span><span class="bval">34 ms</span></div><div class="brow"><span class="blabel">SolidJS 1.9</span><span class="btrack"><span class="bfill" style="width:38.38383838383838%"></span></span><span class="bval">38 ms</span></div><div class="brow"><span class="blabel">htmx 1.9</span><span class="btrack"><span class="bfill" style="width:38.38383838383838%"></span></span><span class="bval">38 ms</span></div><div class="brow"><span class="blabel">Lit 3</span><span class="btrack"><span class="bfill" style="width:41.41414141414141%"></span></span><span class="bval">41 ms</span></div><div class="brow"><span class="blabel">Mithril 2</span><span class="btrack"><span class="bfill" style="width:41.41414141414141%"></span></span><span class="bval">41 ms</span></div><div class="brow"><span class="blabel">VanJS 1.5</span><span class="btrack"><span class="bfill" style="width:42.42424242424242%"></span></span><span class="bval">42 ms</span></div><div class="brow"><span class="blabel">Vue 3 (Vite)</span><span class="btrack"><span class="bfill" style="width:45.45454545454545%"></span></span><span class="bval">45 ms</span></div><div class="brow"><span class="blabel">Qwik 1.12</span><span class="btrack"><span class="bfill" style="width:45.45454545454545%"></span></span><span class="bval">45 ms</span></div><div class="brow"><span class="blabel">React 18 (Vite)</span><span class="btrack"><span class="bfill" style="width:46.464646464646464%"></span></span><span class="bval">46 ms</span></div><div class="brow"><span class="blabel">Svelte 5 (Vite)</span><span class="btrack"><span class="bfill" style="width:47.474747474747474%"></span></span><span class="bval">47 ms</span></div><div class="brow"><span class="blabel">Nuxt 3</span><span class="btrack"><span class="bfill" style="width:48.484848484848484%"></span></span><span class="bval">48 ms</span></div><div class="brow"><span class="blabel">Preact 10</span><span class="btrack"><span class="bfill" style="width:55.55555555555556%"></span></span><span class="bval">55 ms</span></div><div class="brow"><span class="blabel">SvelteKit 2</span><span class="btrack"><span class="bfill" style="width:60.60606060606061%"></span></span><span class="bval">60 ms</span></div><div class="brow"><span class="blabel">React Router 7 (Remix)</span><span class="btrack"><span class="bfill" style="width:63.63636363636363%"></span></span><span class="bval">63 ms</span></div><div class="brow"><span class="blabel">Next.js 15</span><span class="btrack"><span class="bfill" style="width:68.68686868686868%"></span></span><span class="bval">68 ms</span></div><div class="brow"><span class="blabel">Angular 19</span><span class="btrack"><span class="bfill" style="width:76.76767676767676%"></span></span><span class="bval">76 ms</span></div><div class="brow"><span class="blabel">Alpine.js 3</span><span class="btrack"><span class="bfill" style="width:84.84848484848484%"></span></span><span class="bval">84 ms</span></div><div class="brow"><span class="blabel">Ember 5</span><span class="btrack"><span class="bfill" style="width:100%"></span></span><span class="bval">99 ms</span></div></div>
+
+<h3>10,000-row table render (ms) — lower is better</h3>
+<div class="chart"><div class="brow"><span class="blabel">Vanilla JS</span><span class="btrack"><span class="bfill" style="width:1.5%"></span></span><span class="bval">72 ms</span></div><div class="brow"><span class="blabel">Astro 5</span><span class="btrack"><span class="bfill" style="width:1.5%"></span></span><span class="bval">73 ms</span></div><div class="brow"><span class="blabel">htmx 1.9</span><span class="btrack"><span class="bfill" style="width:1.5%"></span></span><span class="bval">86 ms</span></div><div class="brow"><span class="blabel">Inferno 8</span><span class="btrack"><span class="bfill" style="width:1.5%"></span></span><span class="bval">87 ms</span></div><div class="brow"><span class="blabel">SolidJS 1.9</span><span class="btrack"><span class="bfill" style="width:1.5%"></span></span><span class="bval">105 ms</span></div><div class="brow"><span class="blabel">SolidStart 1</span><span class="btrack"><span class="bfill" style="width:1.5%"></span></span><span class="bval">109 ms</span></div><div class="brow"><span class="blabel">Preact 10</span><span class="btrack"><span class="bfill" style="width:1.5526443474041727%"></span></span><span class="bval">128 ms</span></div><div class="brow"><span class="blabel">Vue 3 (Vite)</span><span class="btrack"><span class="bfill" style="width:1.5526443474041727%"></span></span><span class="bval">128 ms</span></div><div class="brow"><span class="blabel">Mithril 2</span><span class="btrack"><span class="bfill" style="width:1.5526443474041727%"></span></span><span class="bval">128 ms</span></div><div class="brow"><span class="blabel">VanJS 1.5</span><span class="btrack"><span class="bfill" style="width:1.7345948568655993%"></span></span><span class="bval">143 ms</span></div><div class="brow"><span class="blabel">Nuxt 3</span><span class="btrack"><span class="bfill" style="width:1.7709849587578845%"></span></span><span class="bval">146 ms</span></div><div class="brow"><span class="blabel">Qwik 1.12</span><span class="btrack"><span class="bfill" style="width:2.3896166909267347%"></span></span><span class="bval">197 ms</span></div><div class="brow"><span class="blabel">Angular 19</span><span class="btrack"><span class="bfill" style="width:2.571567200388161%"></span></span><span class="bval">212 ms</span></div><div class="brow"><span class="blabel">Lit 3</span><span class="btrack"><span class="bfill" style="width:2.6322173702086364%"></span></span><span class="bval">217 ms</span></div><div class="brow"><span class="blabel">React 18 (Vite)</span><span class="btrack"><span class="bfill" style="width:3.7481804949053856%"></span></span><span class="bval">309 ms</span></div><div class="brow"><span class="blabel">Svelte 5 (Vite)</span><span class="btrack"><span class="bfill" style="width:3.7603105288694807%"></span></span><span class="bval">310 ms</span></div><div class="brow"><span class="blabel">Next.js 15</span><span class="btrack"><span class="bfill" style="width:3.9665211062590973%"></span></span><span class="bval">327 ms</span></div><div class="brow"><span class="blabel">SvelteKit 2</span><span class="btrack"><span class="bfill" style="width:4.002911208151383%"></span></span><span class="bval">330 ms</span></div><div class="brow"><span class="blabel">React Router 7 (Remix)</span><span class="btrack"><span class="bfill" style="width:4.196991751576904%"></span></span><span class="bval">346 ms</span></div><div class="brow"><span class="blabel">Ember 5</span><span class="btrack"><span class="bfill" style="width:8.187772925764191%"></span></span><span class="bval">675 ms</span></div><div class="brow"><span class="blabel">Alpine.js 3</span><span class="btrack"><span class="bfill" style="width:100%"></span></span><span class="bval">8244 ms</span></div></div>
+
+<h3>JS heap after 45s of SSE updates (MB) — lower is better</h3>
+<div class="chart"><div class="brow"><span class="blabel">Vanilla JS</span><span class="btrack"><span class="bfill" style="width:10.873440285204989%"></span></span><span class="bval">1.22 MB</span></div><div class="brow"><span class="blabel">VanJS 1.5</span><span class="btrack"><span class="bfill" style="width:11.140819964349376%"></span></span><span class="bval">1.25 MB</span></div><div class="brow"><span class="blabel">Astro 5</span><span class="btrack"><span class="bfill" style="width:11.853832442067736%"></span></span><span class="bval">1.33 MB</span></div><div class="brow"><span class="blabel">htmx 1.9</span><span class="btrack"><span class="bfill" style="width:14.43850267379679%"></span></span><span class="bval">1.62 MB</span></div><div class="brow"><span class="blabel">SolidStart 1</span><span class="btrack"><span class="bfill" style="width:19.340463458110516%"></span></span><span class="bval">2.17 MB</span></div><div class="brow"><span class="blabel">SolidJS 1.9</span><span class="btrack"><span class="bfill" style="width:20.32085561497326%"></span></span><span class="bval">2.28 MB</span></div><div class="brow"><span class="blabel">Lit 3</span><span class="btrack"><span class="bfill" style="width:20.49910873440285%"></span></span><span class="bval">2.3 MB</span></div><div class="brow"><span class="blabel">Nuxt 3</span><span class="btrack"><span class="bfill" style="width:21.03386809269162%"></span></span><span class="bval">2.36 MB</span></div><div class="brow"><span class="blabel">Qwik 1.12</span><span class="btrack"><span class="bfill" style="width:22.994652406417114%"></span></span><span class="bval">2.58 MB</span></div><div class="brow"><span class="blabel">React 18 (Vite)</span><span class="btrack"><span class="bfill" style="width:31.283422459893046%"></span></span><span class="bval">3.51 MB</span></div><div class="brow"><span class="blabel">Angular 19</span><span class="btrack"><span class="bfill" style="width:33.155080213903744%"></span></span><span class="bval">3.72 MB</span></div><div class="brow"><span class="blabel">Inferno 8</span><span class="btrack"><span class="bfill" style="width:39.03743315508021%"></span></span><span class="bval">4.38 MB</span></div><div class="brow"><span class="blabel">Preact 10</span><span class="btrack"><span class="bfill" style="width:46.25668449197861%"></span></span><span class="bval">5.19 MB</span></div><div class="brow"><span class="blabel">Svelte 5 (Vite)</span><span class="btrack"><span class="bfill" style="width:52.04991087344028%"></span></span><span class="bval">5.84 MB</span></div><div class="brow"><span class="blabel">SvelteKit 2</span><span class="btrack"><span class="bfill" style="width:54.010695187165766%"></span></span><span class="bval">6.06 MB</span></div><div class="brow"><span class="blabel">React Router 7 (Remix)</span><span class="btrack"><span class="bfill" style="width:55.3475935828877%"></span></span><span class="bval">6.21 MB</span></div><div class="brow"><span class="blabel">Vue 3 (Vite)</span><span class="btrack"><span class="bfill" style="width:60.24955436720142%"></span></span><span class="bval">6.76 MB</span></div><div class="brow"><span class="blabel">Alpine.js 3</span><span class="btrack"><span class="bfill" style="width:61.31907308377896%"></span></span><span class="bval">6.88 MB</span></div><div class="brow"><span class="blabel">Mithril 2</span><span class="btrack"><span class="bfill" style="width:68.98395721925134%"></span></span><span class="bval">7.74 MB</span></div><div class="brow"><span class="blabel">Next.js 15</span><span class="btrack"><span class="bfill" style="width:71.12299465240642%"></span></span><span class="bval">7.98 MB</span></div><div class="brow"><span class="blabel">Ember 5</span><span class="btrack"><span class="bfill" style="width:100%"></span></span><span class="bval">11.22 MB</span></div></div>
+
+<h3>Production build time (s) — lower is better</h3>
+<div class="chart"><div class="brow"><span class="blabel">Vanilla JS</span><span class="btrack"><span class="bfill" style="width:3.571428571428571%"></span></span><span class="bval">0.3 s</span></div><div class="brow"><span class="blabel">Preact 10</span><span class="btrack"><span class="bfill" style="width:3.571428571428571%"></span></span><span class="bval">0.3 s</span></div><div class="brow"><span class="blabel">VanJS 1.5</span><span class="btrack"><span class="bfill" style="width:3.571428571428571%"></span></span><span class="bval">0.3 s</span></div><div class="brow"><span class="blabel">Alpine.js 3</span><span class="btrack"><span class="bfill" style="width:4.761904761904762%"></span></span><span class="bval">0.4 s</span></div><div class="brow"><span class="blabel">Lit 3</span><span class="btrack"><span class="bfill" style="width:4.761904761904762%"></span></span><span class="bval">0.4 s</span></div><div class="brow"><span class="blabel">Mithril 2</span><span class="btrack"><span class="bfill" style="width:4.761904761904762%"></span></span><span class="bval">0.4 s</span></div><div class="brow"><span class="blabel">Inferno 8</span><span class="btrack"><span class="bfill" style="width:4.761904761904762%"></span></span><span class="bval">0.4 s</span></div><div class="brow"><span class="blabel">SolidJS 1.9</span><span class="btrack"><span class="bfill" style="width:5.952380952380952%"></span></span><span class="bval">0.5 s</span></div><div class="brow"><span class="blabel">Qwik 1.12</span><span class="btrack"><span class="bfill" style="width:5.952380952380952%"></span></span><span class="bval">0.5 s</span></div><div class="brow"><span class="blabel">htmx 1.9</span><span class="btrack"><span class="bfill" style="width:5.952380952380952%"></span></span><span class="bval">0.5 s</span></div><div class="brow"><span class="blabel">Vue 3 (Vite)</span><span class="btrack"><span class="bfill" style="width:7.142857142857142%"></span></span><span class="bval">0.6 s</span></div><div class="brow"><span class="blabel">React 18 (Vite)</span><span class="btrack"><span class="bfill" style="width:8.333333333333332%"></span></span><span class="bval">0.7 s</span></div><div class="brow"><span class="blabel">Svelte 5 (Vite)</span><span class="btrack"><span class="bfill" style="width:9.523809523809524%"></span></span><span class="bval">0.8 s</span></div><div class="brow"><span class="blabel">Astro 5</span><span class="btrack"><span class="bfill" style="width:13.095238095238097%"></span></span><span class="bval">1.1 s</span></div><div class="brow"><span class="blabel">React Router 7 (Remix)</span><span class="btrack"><span class="bfill" style="width:15.476190476190476%"></span></span><span class="bval">1.3 s</span></div><div class="brow"><span class="blabel">Angular 19</span><span class="btrack"><span class="bfill" style="width:21.428571428571427%"></span></span><span class="bval">1.8 s</span></div><div class="brow"><span class="blabel">SvelteKit 2</span><span class="btrack"><span class="bfill" style="width:26.190476190476193%"></span></span><span class="bval">2.2 s</span></div><div class="brow"><span class="blabel">Nuxt 3</span><span class="btrack"><span class="bfill" style="width:29.761904761904763%"></span></span><span class="bval">2.5 s</span></div><div class="brow"><span class="blabel">SolidStart 1</span><span class="btrack"><span class="bfill" style="width:46.42857142857142%"></span></span><span class="bval">3.9 s</span></div><div class="brow"><span class="blabel">Ember 5</span><span class="btrack"><span class="bfill" style="width:96.42857142857142%"></span></span><span class="bval">8.1 s</span></div><div class="brow"><span class="blabel">Next.js 15</span><span class="btrack"><span class="bfill" style="width:100%"></span></span><span class="bval">8.4 s</span></div></div>
+
+<div class="card"><b>Frontend notes (honest reading):</b><ul>
+<li>At 200 rows + 10 events/sec, <b>every framework is comfortably fast</b> — TTI spread is 33–99&nbsp;ms on localhost. Differences only matter at 10k rows.</li>
+<li><b>Alpine.js collapses at 10k rows (8.2&nbsp;s)</b> — its DOM-scanning reactivity is wrong for large tables. htmx is fine here only because our harness renders the table with a plain innerHTML helper; idiomatic htmx would server-render fragments.</li>
+<li><b>VanJS</b> looks great on size (2.6&nbsp;kB) but its naive full re-render pattern took 3.9&nbsp;s total on 10k rows with SSE churn.</li>
+<li>Fastest 10k renders: vanilla/astro-script (~72&nbsp;ms), htmx-helper (86&nbsp;ms), Inferno (87&nbsp;ms), SolidJS (105&nbsp;ms). React-family re-render cost is visible (React 309&nbsp;ms, RR7 346&nbsp;ms) but still fine.</li>
+<li>Meta-frameworks pay in build time and bundle (Next 230&nbsp;kB gzip, 8.4&nbsp;s builds; Ember 194&nbsp;kB) with zero benefit for this app class.</li>
+<li>Heap: growth over the 45s soak was &lt;10&nbsp;MB everywhere; no leaks observed. Mithril/Next/Vue grew most (SSE-driven redraws); Solid/Lit/Qwik stayed flat.</li>
+<li>These orderings agree directionally with js-framework-benchmark (krausest) — e.g. vanilla &lt; Solid/Inferno &lt; Svelte/Vue &lt; React &lt; Angular/Ember on row creation.</li>
+</ul></div>
+
+<h2>2. Backends — measured results (all 23 measured locally)</h2>
+<table><thead><tr>
+<th>Backend</th><th>RPS (JSON, 64c)</th><th>p99 (ms)</th><th>RSS idle (MB)</th><th>RSS load (MB)</th><th>200 SSE CPU %</th><th>Cold start (ms)</th><th>Image (MB)</th><th>Railway fit</th><th>Hiring / AI</th><th>Maintenance risk</th>
+</tr></thead><tbody><tr class="">
+<td class="name">Go net/http</td>
+<td>97,868</td>
+<td>5.22</td>
+<td>6</td>
+<td>13</td>
+<td>2.2</td>
+<td>21</td>
+<td>~12 (scratch + 7.5MB static binary) [estimated]</td>
+<td>excellent (tiny image, instant start)</td><td>high</td><td>very low (stdlib)</td></tr><tr class="">
+<td class="name">Go + Echo 4</td>
+<td>97,382</td>
+<td>5.35</td>
+<td>7</td>
+<td>14</td>
+<td>2.2</td>
+<td>21</td>
+<td>~15 (scratch + 10MB binary) [estimated]</td>
+<td>excellent</td><td>medium-high</td><td>low</td></tr><tr class="">
+<td class="name">Rust + Actix-web 4</td>
+<td>94,795</td>
+<td>6.62</td>
+<td>4</td>
+<td>8</td>
+<td>1.7</td>
+<td>21</td>
+<td>~12 (distroless + 7MB binary) [estimated]</td>
+<td>excellent but slow CI builds</td><td>medium-low</td><td>low</td></tr><tr class="">
+<td class="name">Go + Fiber 2</td>
+<td>71,755</td>
+<td>5.97</td>
+<td>7</td>
+<td>13</td>
+<td>2</td>
+<td>22</td>
+<td>~16 (scratch + 11MB binary) [estimated]</td>
+<td>excellent</td><td>medium</td><td>low-medium (fasthttp quirks)</td></tr><tr class="">
+<td class="name">Java + Vert.x 4.5</td>
+<td>70,790</td>
+<td>2.91</td>
+<td>86</td>
+<td>777</td>
+<td>3.9</td>
+<td>269</td>
+<td>~290 (temurin:17-jre + 8MB fat jar) [estimated]</td>
+<td>ok (docker)</td><td>low-medium</td><td>low (Eclipse)</td></tr><tr class="">
+<td class="name">Rust + Axum 0.8</td>
+<td>56,672</td>
+<td>4.34</td>
+<td>1</td>
+<td>7</td>
+<td>1.5</td>
+<td>22</td>
+<td>~10 (distroless + 5MB binary) [estimated]</td>
+<td>excellent (tiny image) but slow CI builds</td><td>medium-low; AI agents good on Axum</td><td>low</td></tr><tr class="">
+<td class="name">Go + Gin</td>
+<td>54,416</td>
+<td>5.18</td>
+<td>10</td>
+<td>19</td>
+<td>2.1</td>
+<td>21</td>
+<td>~17 (scratch + 12MB binary) [estimated]</td>
+<td>excellent</td><td>high</td><td>low</td></tr><tr class="">
+<td class="name">C# ASP.NET Core 8 minimal API</td>
+<td>50,136</td>
+<td>5.58</td>
+<td>67</td>
+<td>186</td>
+<td>2.5</td>
+<td>200</td>
+<td>~220 (aspnet:8.0 runtime) [estimated]</td>
+<td>good (docker); moderate image</td><td>high (enterprise)</td><td>very low (Microsoft LTS)</td></tr><tr class="">
+<td class="name">Java + Spring Boot (MVC)</td>
+<td>41,766</td>
+<td>8.66</td>
+<td>209</td>
+<td>385</td>
+<td>7.8</td>
+<td>1226</td>
+<td>~320 (temurin:17-jre + 22MB fat jar) [estimated]</td>
+<td>ok; big memory + image, slow cold start</td><td>high (enterprise)</td><td>very low</td></tr><tr class="">
+<td class="name">Bun + Elysia 1.2</td>
+<td>29,095</td>
+<td>4.21</td>
+<td>59</td>
+<td>64</td>
+<td>3.5</td>
+<td>46</td>
+<td>~135 (oven/bun:alpine) [estimated]</td>
+<td>good</td><td>low-medium</td><td>medium</td></tr><tr class="">
+<td class="name">Deno + Oak 17</td>
+<td>27,294</td>
+<td>3.07</td>
+<td>64</td>
+<td>110</td>
+<td>3</td>
+<td>64</td>
+<td>~145 (denoland/deno:alpine) [estimated]</td>
+<td>ok (deno deploy is more natural)</td><td>low-medium</td><td>medium</td></tr><tr class="">
+<td class="name">Bun + Hono 4</td>
+<td>26,995</td>
+<td>4.58</td>
+<td>43</td>
+<td>68</td>
+<td>7.1</td>
+<td>23</td>
+<td>~130 (oven/bun:alpine) [estimated]</td>
+<td>good (bun runtime supported)</td><td>medium</td><td>medium (Bun still maturing)</td></tr><tr class="">
+<td class="name">Deno + Fresh 2</td>
+<td>24,766</td>
+<td>3.38</td>
+<td>59</td>
+<td>134</td>
+<td>1.9</td>
+<td>47</td>
+<td>~150 (denoland/deno + _fresh build) [estimated]</td>
+<td>ok</td><td>low</td><td>medium</td></tr><tr class="">
+<td class="name">Node + Fastify 5</td>
+<td>12,856</td>
+<td>9.47</td>
+<td>58</td>
+<td>92</td>
+<td>2</td>
+<td>107</td>
+<td>~180 (node:20-alpine + deps) [estimated]</td>
+<td>first-class</td><td>high</td><td>low</td></tr><tr class="">
+<td class="name">Node + Hono 4</td>
+<td>11,776</td>
+<td>10.23</td>
+<td>54</td>
+<td>89</td>
+<td>5</td>
+<td>66</td>
+<td>~175 (node:20-alpine + deps) [estimated]</td>
+<td>first-class; same code runs on Bun/Deno/Workers</td><td>medium-high</td><td>low</td></tr><tr class="">
+<td class="name">Node + Express 4</td>
+<td>7,306</td>
+<td>16.69</td>
+<td>55</td>
+<td>115</td>
+<td>3.6</td>
+<td>71</td>
+<td>~180 (node:20-alpine + deps) [estimated]</td>
+<td>first-class (nixpacks auto)</td><td>best-in-class</td><td>low (v4 in maintenance; v5 slow)</td></tr><tr class="">
+<td class="name">Node + NestJS 10</td>
+<td>7,077</td>
+<td>17.26</td>
+<td>74</td>
+<td>151</td>
+<td>2.2</td>
+<td>172</td>
+<td>~230 (node:20-alpine + deps) [estimated]</td>
+<td>first-class</td><td>high</td><td>low</td></tr><tr class="">
+<td class="name">Python + Flask (gunicorn 4w)</td>
+<td>6,557</td>
+<td>22.21</td>
+<td>132</td>
+<td>135</td>
+<td>1.6</td>
+<td>105</td>
+<td>~170 (python:3.12-slim + deps) [estimated]</td>
+<td>first-class; SSE ties up sync workers (real constraint)</td><td>high</td><td>low</td></tr><tr class="">
+<td class="name">Python + Django (gunicorn 4w)</td>
+<td>6,050</td>
+<td>27.3</td>
+<td>160</td>
+<td>170</td>
+<td>2.2</td>
+<td>129</td>
+<td>~210 (python:3.12-slim + deps) [estimated]</td>
+<td>first-class; SSE needs ASGI/daphne in practice</td><td>high</td><td>very low</td></tr><tr class="">
+<td class="name">Elixir + Phoenix</td>
+<td>6,020</td>
+<td>19.99</td>
+<td>86</td>
+<td>184</td>
+<td>7.9</td>
+<td>475</td>
+<td>~120 (alpine mix release) [estimated]</td>
+<td>good (official template)</td><td>low-medium; LiveView is a unique fit for live dashboards</td><td>low</td></tr><tr class="">
+<td class="name">Ruby + Rails 7.1</td>
+<td>2,495</td>
+<td>61.99</td>
+<td>361</td>
+<td>518</td>
+<td>5.7</td>
+<td>561</td>
+<td>~500 (ruby:slim + bundle) [estimated]</td>
+<td>ok; SSE via ActionController::Live ties up puma threads</td><td>high</td><td>low</td></tr><tr class="">
+<td class="name">Python + FastAPI (uvicorn)</td>
+<td>1,323</td>
+<td>79.92</td>
+<td>193</td>
+<td>195</td>
+<td>5.8</td>
+<td>299</td>
+<td>~190 (python:3.12-slim + deps) [estimated]</td>
+<td>first-class</td><td>best-in-class for Python</td><td>low</td></tr><tr class="">
+<td class="name">PHP + Laravel 10</td>
+<td>638</td>
+<td>564.03</td>
+<td>152</td>
+<td>341</td>
+<td>0</td>
+<td>237</td>
+<td>~200 (php:fpm-alpine + nginx + vendor) [estimated]</td>
+<td>ok; SSE awkward under php-fpm (needs Octane/Reverb)</td><td>high</td><td>low</td></tr></tbody></table>
+
+<h3>Requests/sec on 200-row JSON endpoint (oha, 5s, 64 conns) — higher is better</h3>
+<div class="chart"><div class="brow"><span class="blabel">Go net/http</span><span class="btrack"><span class="bfill" style="width:100%"></span></span><span class="bval">97,868</span></div><div class="brow"><span class="blabel">Go + Echo 4</span><span class="btrack"><span class="bfill" style="width:99.50341276004414%"></span></span><span class="bval">97,382</span></div><div class="brow"><span class="blabel">Rust + Actix-web 4</span><span class="btrack"><span class="bfill" style="width:96.86005640250133%"></span></span><span class="bval">94,795</span></div><div class="brow"><span class="blabel">Go + Fiber 2</span><span class="btrack"><span class="bfill" style="width:73.31814280459395%"></span></span><span class="bval">71,755</span></div><div class="brow"><span class="blabel">Java + Vert.x 4.5</span><span class="btrack"><span class="bfill" style="width:72.3321208157927%"></span></span><span class="bval">70,790</span></div><div class="brow"><span class="blabel">Rust + Axum 0.8</span><span class="btrack"><span class="bfill" style="width:57.9065680304083%"></span></span><span class="bval">56,672</span></div><div class="brow"><span class="blabel">Go + Gin</span><span class="btrack"><span class="bfill" style="width:55.60142232394654%"></span></span><span class="bval">54,416</span></div><div class="brow"><span class="blabel">C# ASP.NET Core 8 minimal API</span><span class="btrack"><span class="bfill" style="width:51.22818490211305%"></span></span><span class="bval">50,136</span></div><div class="brow"><span class="blabel">Java + Spring Boot (MVC)</span><span class="btrack"><span class="bfill" style="width:42.67584910287326%"></span></span><span class="bval">41,766</span></div><div class="brow"><span class="blabel">Bun + Elysia 1.2</span><span class="btrack"><span class="bfill" style="width:29.72881840846855%"></span></span><span class="bval">29,095</span></div><div class="brow"><span class="blabel">Deno + Oak 17</span><span class="btrack"><span class="bfill" style="width:27.88858462418768%"></span></span><span class="bval">27,294</span></div><div class="brow"><span class="blabel">Bun + Hono 4</span><span class="btrack"><span class="bfill" style="width:27.58307107532595%"></span></span><span class="bval">26,995</span></div><div class="brow"><span class="blabel">Deno + Fresh 2</span><span class="btrack"><span class="bfill" style="width:25.30551354886173%"></span></span><span class="bval">24,766</span></div><div class="brow"><span class="blabel">Node + Fastify 5</span><span class="btrack"><span class="bfill" style="width:13.13606081661013%"></span></span><span class="bval">12,856</span></div><div class="brow"><span class="blabel">Node + Hono 4</span><span class="btrack"><span class="bfill" style="width:12.032533616708218%"></span></span><span class="bval">11,776</span></div><div class="brow"><span class="blabel">Node + Express 4</span><span class="btrack"><span class="bfill" style="width:7.465157150447542%"></span></span><span class="bval">7,306</span></div><div class="brow"><span class="blabel">Node + NestJS 10</span><span class="btrack"><span class="bfill" style="width:7.231168512690562%"></span></span><span class="bval">7,077</span></div><div class="brow"><span class="blabel">Python + Flask (gunicorn 4w)</span><span class="btrack"><span class="bfill" style="width:6.69984060162668%"></span></span><span class="bval">6,557</span></div><div class="brow"><span class="blabel">Python + Django (gunicorn 4w)</span><span class="btrack"><span class="bfill" style="width:6.181795888339396%"></span></span><span class="bval">6,050</span></div><div class="brow"><span class="blabel">Elixir + Phoenix</span><span class="btrack"><span class="bfill" style="width:6.151142355008787%"></span></span><span class="bval">6,020</span></div><div class="brow"><span class="blabel">Ruby + Rails 7.1</span><span class="btrack"><span class="bfill" style="width:2.54935218866228%"></span></span><span class="bval">2,495</span></div><div class="brow"><span class="blabel">Python + FastAPI (uvicorn)</span><span class="btrack"><span class="bfill" style="width:1.5%"></span></span><span class="bval">1,323</span></div><div class="brow"><span class="blabel">PHP + Laravel 10</span><span class="btrack"><span class="bfill" style="width:1.5%"></span></span><span class="bval">638</span></div></div>
+
+<h3>RSS idle (MB) — lower is better</h3>
+<div class="chart"><div class="brow"><span class="blabel">Rust + Axum 0.8</span><span class="btrack"><span class="bfill" style="width:1.5%"></span></span><span class="bval">1.4 MB</span></div><div class="brow"><span class="blabel">Rust + Actix-web 4</span><span class="btrack"><span class="bfill" style="width:1.5%"></span></span><span class="bval">4.3 MB</span></div><div class="brow"><span class="blabel">Go net/http</span><span class="btrack"><span class="bfill" style="width:1.747088186356073%"></span></span><span class="bval">6.3 MB</span></div><div class="brow"><span class="blabel">Go + Fiber 2</span><span class="btrack"><span class="bfill" style="width:1.8857459789240152%"></span></span><span class="bval">6.8 MB</span></div><div class="brow"><span class="blabel">Go + Echo 4</span><span class="btrack"><span class="bfill" style="width:2.024403771491958%"></span></span><span class="bval">7.3 MB</span></div><div class="brow"><span class="blabel">Go + Gin</span><span class="btrack"><span class="bfill" style="width:2.6622296173044924%"></span></span><span class="bval">9.6 MB</span></div><div class="brow"><span class="blabel">Bun + Hono 4</span><span class="btrack"><span class="bfill" style="width:11.980033277870216%"></span></span><span class="bval">43.2 MB</span></div><div class="brow"><span class="blabel">Node + Hono 4</span><span class="btrack"><span class="bfill" style="width:14.975041597337768%"></span></span><span class="bval">54 MB</span></div><div class="brow"><span class="blabel">Node + Express 4</span><span class="btrack"><span class="bfill" style="width:15.252357182473656%"></span></span><span class="bval">55 MB</span></div><div class="brow"><span class="blabel">Node + Fastify 5</span><span class="btrack"><span class="bfill" style="width:16.139767054908486%"></span></span><span class="bval">58.2 MB</span></div><div class="brow"><span class="blabel">Bun + Elysia 1.2</span><span class="btrack"><span class="bfill" style="width:16.25069328896284%"></span></span><span class="bval">58.6 MB</span></div><div class="brow"><span class="blabel">Deno + Fresh 2</span><span class="btrack"><span class="bfill" style="width:16.38935108153078%"></span></span><span class="bval">59.1 MB</span></div><div class="brow"><span class="blabel">Deno + Oak 17</span><span class="btrack"><span class="bfill" style="width:17.69273433166944%"></span></span><span class="bval">63.8 MB</span></div><div class="brow"><span class="blabel">C# ASP.NET Core 8 minimal API</span><span class="btrack"><span class="bfill" style="width:18.55241264559068%"></span></span><span class="bval">66.9 MB</span></div><div class="brow"><span class="blabel">Node + NestJS 10</span><span class="btrack"><span class="bfill" style="width:20.54908485856905%"></span></span><span class="bval">74.1 MB</span></div><div class="brow"><span class="blabel">Java + Vert.x 4.5</span><span class="btrack"><span class="bfill" style="width:23.904603438713252%"></span></span><span class="bval">86.2 MB</span></div><div class="brow"><span class="blabel">Elixir + Phoenix</span><span class="btrack"><span class="bfill" style="width:23.932334997226842%"></span></span><span class="bval">86.3 MB</span></div><div class="brow"><span class="blabel">Python + Flask (gunicorn 4w)</span><span class="btrack"><span class="bfill" style="width:36.550194120909595%"></span></span><span class="bval">131.8 MB</span></div><div class="brow"><span class="blabel">PHP + Laravel 10</span><span class="btrack"><span class="bfill" style="width:42.17970049916805%"></span></span><span class="bval">152.1 MB</span></div><div class="brow"><span class="blabel">Python + Django (gunicorn 4w)</span><span class="btrack"><span class="bfill" style="width:44.2318358291736%"></span></span><span class="bval">159.5 MB</span></div><div class="brow"><span class="blabel">Python + FastAPI (uvicorn)</span><span class="btrack"><span class="bfill" style="width:53.46644481419855%"></span></span><span class="bval">192.8 MB</span></div><div class="brow"><span class="blabel">Java + Spring Boot (MVC)</span><span class="btrack"><span class="bfill" style="width:57.87576261785912%"></span></span><span class="bval">208.7 MB</span></div><div class="brow"><span class="blabel">Ruby + Rails 7.1</span><span class="btrack"><span class="bfill" style="width:100%"></span></span><span class="bval">360.6 MB</span></div></div>
+
+<h3>Cold start to first response (ms) — lower is better</h3>
+<div class="chart"><div class="brow"><span class="blabel">Go net/http</span><span class="btrack"><span class="bfill" style="width:1.7128874388254487%"></span></span><span class="bval">21 ms</span></div><div class="brow"><span class="blabel">Go + Echo 4</span><span class="btrack"><span class="bfill" style="width:1.7128874388254487%"></span></span><span class="bval">21 ms</span></div><div class="brow"><span class="blabel">Go + Gin</span><span class="btrack"><span class="bfill" style="width:1.7128874388254487%"></span></span><span class="bval">21 ms</span></div><div class="brow"><span class="blabel">Rust + Actix-web 4</span><span class="btrack"><span class="bfill" style="width:1.7128874388254487%"></span></span><span class="bval">21 ms</span></div><div class="brow"><span class="blabel">Go + Fiber 2</span><span class="btrack"><span class="bfill" style="width:1.794453507340946%"></span></span><span class="bval">22 ms</span></div><div class="brow"><span class="blabel">Rust + Axum 0.8</span><span class="btrack"><span class="bfill" style="width:1.794453507340946%"></span></span><span class="bval">22 ms</span></div><div class="brow"><span class="blabel">Bun + Hono 4</span><span class="btrack"><span class="bfill" style="width:1.8760195758564437%"></span></span><span class="bval">23 ms</span></div><div class="brow"><span class="blabel">Bun + Elysia 1.2</span><span class="btrack"><span class="bfill" style="width:3.7520391517128875%"></span></span><span class="bval">46 ms</span></div><div class="brow"><span class="blabel">Deno + Fresh 2</span><span class="btrack"><span class="bfill" style="width:3.8336052202283852%"></span></span><span class="bval">47 ms</span></div><div class="brow"><span class="blabel">Deno + Oak 17</span><span class="btrack"><span class="bfill" style="width:5.220228384991843%"></span></span><span class="bval">64 ms</span></div><div class="brow"><span class="blabel">Node + Hono 4</span><span class="btrack"><span class="bfill" style="width:5.383360522022838%"></span></span><span class="bval">66 ms</span></div><div class="brow"><span class="blabel">Node + Express 4</span><span class="btrack"><span class="bfill" style="width:5.791190864600326%"></span></span><span class="bval">71 ms</span></div><div class="brow"><span class="blabel">Python + Flask (gunicorn 4w)</span><span class="btrack"><span class="bfill" style="width:8.564437194127244%"></span></span><span class="bval">105 ms</span></div><div class="brow"><span class="blabel">Node + Fastify 5</span><span class="btrack"><span class="bfill" style="width:8.72756933115824%"></span></span><span class="bval">107 ms</span></div><div class="brow"><span class="blabel">Python + Django (gunicorn 4w)</span><span class="btrack"><span class="bfill" style="width:10.522022838499185%"></span></span><span class="bval">129 ms</span></div><div class="brow"><span class="blabel">Node + NestJS 10</span><span class="btrack"><span class="bfill" style="width:14.02936378466558%"></span></span><span class="bval">172 ms</span></div><div class="brow"><span class="blabel">C# ASP.NET Core 8 minimal API</span><span class="btrack"><span class="bfill" style="width:16.31321370309951%"></span></span><span class="bval">200 ms</span></div><div class="brow"><span class="blabel">PHP + Laravel 10</span><span class="btrack"><span class="bfill" style="width:19.33115823817292%"></span></span><span class="bval">237 ms</span></div><div class="brow"><span class="blabel">Java + Vert.x 4.5</span><span class="btrack"><span class="bfill" style="width:21.941272430668842%"></span></span><span class="bval">269 ms</span></div><div class="brow"><span class="blabel">Python + FastAPI (uvicorn)</span><span class="btrack"><span class="bfill" style="width:24.388254486133768%"></span></span><span class="bval">299 ms</span></div><div class="brow"><span class="blabel">Elixir + Phoenix</span><span class="btrack"><span class="bfill" style="width:38.743882544861336%"></span></span><span class="bval">475 ms</span></div><div class="brow"><span class="blabel">Ruby + Rails 7.1</span><span class="btrack"><span class="bfill" style="width:45.758564437194124%"></span></span><span class="bval">561 ms</span></div><div class="brow"><span class="blabel">Java + Spring Boot (MVC)</span><span class="btrack"><span class="bfill" style="width:100%"></span></span><span class="bval">1226 ms</span></div></div>
+
+<h3>CPU % while holding 200 SSE connections at 10 ev/s — lower is better</h3>
+<div class="chart"><div class="brow"><span class="blabel">PHP + Laravel 10</span><span class="btrack"><span class="bfill" style="width:1.5%"></span></span><span class="bval">0 %</span></div><div class="brow"><span class="blabel">Rust + Axum 0.8</span><span class="btrack"><span class="bfill" style="width:18.987341772151897%"></span></span><span class="bval">1.5 %</span></div><div class="brow"><span class="blabel">Python + Flask (gunicorn 4w)</span><span class="btrack"><span class="bfill" style="width:20.253164556962027%"></span></span><span class="bval">1.6 %</span></div><div class="brow"><span class="blabel">Rust + Actix-web 4</span><span class="btrack"><span class="bfill" style="width:21.51898734177215%"></span></span><span class="bval">1.7 %</span></div><div class="brow"><span class="blabel">Deno + Fresh 2</span><span class="btrack"><span class="bfill" style="width:24.050632911392402%"></span></span><span class="bval">1.9 %</span></div><div class="brow"><span class="blabel">Node + Fastify 5</span><span class="btrack"><span class="bfill" style="width:25.316455696202528%"></span></span><span class="bval">2 %</span></div><div class="brow"><span class="blabel">Go + Fiber 2</span><span class="btrack"><span class="bfill" style="width:25.316455696202528%"></span></span><span class="bval">2 %</span></div><div class="brow"><span class="blabel">Go + Gin</span><span class="btrack"><span class="bfill" style="width:26.582278481012654%"></span></span><span class="bval">2.1 %</span></div><div class="brow"><span class="blabel">Node + NestJS 10</span><span class="btrack"><span class="bfill" style="width:27.848101265822784%"></span></span><span class="bval">2.2 %</span></div><div class="brow"><span class="blabel">Go net/http</span><span class="btrack"><span class="bfill" style="width:27.848101265822784%"></span></span><span class="bval">2.2 %</span></div><div class="brow"><span class="blabel">Go + Echo 4</span><span class="btrack"><span class="bfill" style="width:27.848101265822784%"></span></span><span class="bval">2.2 %</span></div><div class="brow"><span class="blabel">Python + Django (gunicorn 4w)</span><span class="btrack"><span class="bfill" style="width:27.848101265822784%"></span></span><span class="bval">2.2 %</span></div><div class="brow"><span class="blabel">C# ASP.NET Core 8 minimal API</span><span class="btrack"><span class="bfill" style="width:31.645569620253163%"></span></span><span class="bval">2.5 %</span></div><div class="brow"><span class="blabel">Deno + Oak 17</span><span class="btrack"><span class="bfill" style="width:37.974683544303794%"></span></span><span class="bval">3 %</span></div><div class="brow"><span class="blabel">Bun + Elysia 1.2</span><span class="btrack"><span class="bfill" style="width:44.303797468354425%"></span></span><span class="bval">3.5 %</span></div><div class="brow"><span class="blabel">Node + Express 4</span><span class="btrack"><span class="bfill" style="width:45.56962025316456%"></span></span><span class="bval">3.6 %</span></div><div class="brow"><span class="blabel">Java + Vert.x 4.5</span><span class="btrack"><span class="bfill" style="width:49.36708860759494%"></span></span><span class="bval">3.9 %</span></div><div class="brow"><span class="blabel">Node + Hono 4</span><span class="btrack"><span class="bfill" style="width:63.291139240506325%"></span></span><span class="bval">5 %</span></div><div class="brow"><span class="blabel">Ruby + Rails 7.1</span><span class="btrack"><span class="bfill" style="width:72.15189873417721%"></span></span><span class="bval">5.7 %</span></div><div class="brow"><span class="blabel">Python + FastAPI (uvicorn)</span><span class="btrack"><span class="bfill" style="width:73.41772151898734%"></span></span><span class="bval">5.8 %</span></div><div class="brow"><span class="blabel">Bun + Hono 4</span><span class="btrack"><span class="bfill" style="width:89.87341772151898%"></span></span><span class="bval">7.1 %</span></div><div class="brow"><span class="blabel">Java + Spring Boot (MVC)</span><span class="btrack"><span class="bfill" style="width:98.73417721518987%"></span></span><span class="bval">7.8 %</span></div><div class="brow"><span class="blabel">Elixir + Phoenix</span><span class="btrack"><span class="bfill" style="width:100%"></span></span><span class="bval">7.9 %</span></div></div>
+
+<div class="card"><b>Backend notes (honest reading):</b><ul>
+<li><b>Go and Rust are in a different league</b> (55–98k RPS, 1–10&nbsp;MB RSS, ~21&nbsp;ms cold start) — but a single-user console needs ~10 RPS. This headroom is free insurance, not a requirement.</li>
+<li><b>Bun (Elysia/Hono) and Deno (Oak) measured ~2.2x Node throughput</b> on identical Hono code — real, but operationally younger runtimes.</li>
+<li><b>FastAPI's 1.3k RPS is a serialization artifact</b>: default JSONResponse + jsonable_encoder on 200 dicts. With ORJSONResponse it typically lands near Flask/Django (~6k here). Python is fine for this app either way.</li>
+<li><b>Sync WSGI (Flask/Django + gunicorn) has a hard SSE ceiling</b>: 4 workers × 8 threads = 32 concurrent streams; our 200-connection test saturated it. For SSE on Python use ASGI (uvicorn/daphne). This is the most decision-relevant backend finding.</li>
+<li>Spring Boot works fine but costs 209&nbsp;MB idle / 385&nbsp;MB under load and 1.2&nbsp;s cold start — the wrong shape for a small Railway service.</li>
+<li>Everything measured held 200 concurrent SSE connections at &lt;8% of one core — SSE at this scale is trivial for any async runtime.</li>
+<li><b>Vert.x measured 70.8k RPS at 2.9&nbsp;ms p99</b> — top JVM performer as TechEmpower predicts — but the JVM ballooned to 777&nbsp;MB under load (no -Xmx cap set).</li>
+<li><b>Phoenix measured 6k RPS (~ Flask/Django tier)</b> on JSON, holding 200 SSE connections easily — BEAM + LiveView remains architecturally ideal for live dashboards. Measured on Phoenix 1.6/Elixir 1.16/OTP 24 (apt Erlang); current Phoenix 1.7/OTP 27 should do somewhat better.</li>
+<li><b>Laravel (638 RPS, p99 564&nbsp;ms) was measured on the PHP dev server</b> (artisan serve + 8 CLI workers, PHP 8.1) — a real production php-fpm or Octane deployment is significantly faster; treat this row as a lower bound. Its 200-SSE test also saturated the 8 worker slots (CPU ~0% because connections stalled).</li>
+<li><b>Rails 7.1 measured 2.5k RPS</b> (puma 4x16, Ruby 3.0 without YJIT) at 361&nbsp;MB idle — workable but the heaviest footprint per unit of throughput measured.</li>
+</ul></div>
+
+<h2>3. Deep dive: Astro 5 as the chosen frontend</h2>
+<h3>3a. Astro island combinations (all measured)</h3>
+<table><thead><tr><th>Astro variant</th><th>Bundle gzip (kB)</th><th>Cold load (ms)</th><th>TTI (ms)</th><th>10k-row render (ms)</th><th>Heap after 45s SSE (MB)</th><th>Build (s)</th></tr></thead><tbody><tr><td class="name">Astro 5 + plain script (no island)</td><td>0.9</td><td>6</td><td>34</td><td>73</td><td>1.33</td><td>1.1</td></tr><tr><td class="name">Astro 5 + solid island (client:only)</td><td>8.9</td><td>9</td><td>38</td><td>110</td><td>2.28</td><td>1.7</td></tr><tr><td class="name">Astro 5 + preact island (client:only)</td><td>10.6</td><td>10</td><td>58</td><td>158</td><td>5.74</td><td>1.5</td></tr><tr><td class="name">Astro 5 + svelte island (client:only)</td><td>14.7</td><td>8</td><td>46</td><td>332</td><td>5.57</td><td>1.8</td></tr><tr><td class="name">Astro 5 + vue island (client:only)</td><td>29.8</td><td>7</td><td>47</td><td>165</td><td>10</td><td>1.5</td></tr><tr><td class="name">Astro 5 + react island (client:only)</td><td>46.4</td><td>7</td><td>59</td><td>239</td><td>2.62</td><td>1.8</td></tr></tbody></table>
+<h3>Bundle gzip by island choice (kB) — lower is better</h3>
+<div class="chart"><div class="brow"><span class="blabel">Astro 5 + plain script (no island)</span><span class="btrack"><span class="bfill" style="width:1.9396551724137931%"></span></span><span class="bval">0.9 kB</span></div><div class="brow"><span class="blabel">Astro 5 + solid island (client:only)</span><span class="btrack"><span class="bfill" style="width:19.181034482758623%"></span></span><span class="bval">8.9 kB</span></div><div class="brow"><span class="blabel">Astro 5 + preact island (client:only)</span><span class="btrack"><span class="bfill" style="width:22.844827586206897%"></span></span><span class="bval">10.6 kB</span></div><div class="brow"><span class="blabel">Astro 5 + svelte island (client:only)</span><span class="btrack"><span class="bfill" style="width:31.68103448275862%"></span></span><span class="bval">14.7 kB</span></div><div class="brow"><span class="blabel">Astro 5 + vue island (client:only)</span><span class="btrack"><span class="bfill" style="width:64.22413793103449%"></span></span><span class="bval">29.8 kB</span></div><div class="brow"><span class="blabel">Astro 5 + react island (client:only)</span><span class="btrack"><span class="bfill" style="width:100%"></span></span><span class="bval">46.4 kB</span></div></div>
+<h3>10k-row render by island choice (ms) — lower is better</h3>
+<div class="chart"><div class="brow"><span class="blabel">Astro 5 + plain script (no island)</span><span class="btrack"><span class="bfill" style="width:21.987951807228914%"></span></span><span class="bval">73 ms</span></div><div class="brow"><span class="blabel">Astro 5 + solid island (client:only)</span><span class="btrack"><span class="bfill" style="width:33.13253012048193%"></span></span><span class="bval">110 ms</span></div><div class="brow"><span class="blabel">Astro 5 + preact island (client:only)</span><span class="btrack"><span class="bfill" style="width:47.59036144578313%"></span></span><span class="bval">158 ms</span></div><div class="brow"><span class="blabel">Astro 5 + vue island (client:only)</span><span class="btrack"><span class="bfill" style="width:49.6987951807229%"></span></span><span class="bval">165 ms</span></div><div class="brow"><span class="blabel">Astro 5 + react island (client:only)</span><span class="btrack"><span class="bfill" style="width:71.98795180722891%"></span></span><span class="bval">239 ms</span></div><div class="brow"><span class="blabel">Astro 5 + svelte island (client:only)</span><span class="btrack"><span class="bfill" style="width:100%"></span></span><span class="bval">332 ms</span></div></div>
+<div class="card"><b>Astro island notes:</b><ul>
+<li>The plain-script variant is the floor: 0.9&nbsp;kB gzip, 73&nbsp;ms 10k render — Astro adds essentially zero runtime when you don't ship an island.</li>
+<li><b>Solid island is the best framework island</b>: 8.9&nbsp;kB gzip, 110&nbsp;ms 10k render, flat heap — nearly plain-script performance with real reactivity.</li>
+<li>Preact island (10.6&nbsp;kB, 158&nbsp;ms) is the best React-API option; the React island costs 46&nbsp;kB gzip and 239&nbsp;ms for identical code.</li>
+<li>Vue island: 29.8&nbsp;kB, 165&nbsp;ms but the largest SSE-soak heap (10&nbsp;MB); Svelte island: 14.7&nbsp;kB but slowest 10k render of the islands (332&nbsp;ms — keyed each-block overhead).</li>
+<li>All variants use <code>client:only</code> (pure CSR island), matching the SPA console use case.</li>
+</ul></div>
+
+<h3>3b. Astro × all 23 backends, end-to-end (measured via static-serve + /api proxy)</h3>
+<p class="dim">Each backend ran behind an identical Node static+proxy shim serving the Astro build; the browser measured real fetch/POST/SSE behavior. The shim adds a constant ~0.5-1&nbsp;ms to every row — fair for comparison, slightly pessimistic in absolute terms.</p>
+<table><thead><tr><th>Backend (serving Astro console)</th><th>Page TTI (ms)</th><th>Rows fetch (ms, avg 5)</th><th>POST action RTT (ms, avg 20)</th><th>SSE first event (ms)</th><th>SSE jitter vs 100ms tick (ms, σ over 30)</th></tr></thead><tbody><tr><td class="name">Go + Gin</td><td>23</td><td>4.7</td><td>1.82</td><td>102.8</td><td>0.42</td></tr><tr><td class="name">Go net/http</td><td>35</td><td>2.66</td><td>1.85</td><td>101.9</td><td>1.07</td></tr><tr><td class="name">Deno + Fresh 2</td><td>23</td><td>2.54</td><td>1.86</td><td>103.7</td><td>1.59</td></tr><tr><td class="name">Go + Fiber 2</td><td>23</td><td>4.52</td><td>1.9</td><td>1</td><td>0.55</td></tr><tr><td class="name">Bun + Hono 4</td><td>30</td><td>5</td><td>1.91</td><td>2.1</td><td>0.81</td></tr><tr><td class="name">Go + Echo 4</td><td>35</td><td>2.88</td><td>1.91</td><td>103.3</td><td>0.33</td></tr><tr><td class="name">Bun + Elysia 1.2</td><td>32</td><td>2.68</td><td>1.93</td><td>103</td><td>0.5</td></tr><tr><td class="name">Rust + Actix-web 4</td><td>34</td><td>2.84</td><td>2.08</td><td>5.6</td><td>0.95</td></tr><tr><td class="name">Python + Django (gunicorn 4w)</td><td>23</td><td>5.2</td><td>2.1</td><td>2.6</td><td>0.63</td></tr><tr><td class="name">Node + Hono 4</td><td>47</td><td>2.86</td><td>2.17</td><td>2.8</td><td>1.08</td></tr><tr><td class="name">Elixir + Phoenix</td><td>32</td><td>5.44</td><td>2.22</td><td>2.3</td><td>1.07</td></tr><tr><td class="name">Deno + Oak 17</td><td>35</td><td>2.84</td><td>2.32</td><td>103</td><td>1.27</td></tr><tr><td class="name">Rust + Axum 0.8</td><td>35</td><td>2.64</td><td>2.34</td><td>43.4</td><td>7.3</td></tr><tr><td class="name">C# ASP.NET Core 8 minimal API</td><td>36</td><td>2.94</td><td>2.46</td><td>2.1</td><td>1.81</td></tr><tr><td class="name">Python + Flask (gunicorn 4w)</td><td>36</td><td>3.6</td><td>2.55</td><td>2.1</td><td>1.07</td></tr><tr><td class="name">Node + Fastify 5</td><td>25</td><td>2.74</td><td>2.66</td><td>102.6</td><td>0.7</td></tr><tr><td class="name">Java + Vert.x 4.5</td><td>27</td><td>3.54</td><td>2.75</td><td>104.1</td><td>0.77</td></tr><tr><td class="name">Node + Express 4</td><td>45</td><td>3.16</td><td>2.8</td><td>102.2</td><td>0.67</td></tr><tr><td class="name">Java + Spring Boot (MVC)</td><td>24</td><td>6.56</td><td>2.88</td><td>5</td><td>1</td></tr><tr><td class="name">Ruby + Rails 7.1</td><td>23</td><td>4.18</td><td>3.22</td><td>210.1</td><td>141.59</td></tr><tr><td class="name">Node + NestJS 10</td><td>27</td><td>2.82</td><td>3.28</td><td>102</td><td>1.13</td></tr><tr><td class="name">PHP + Laravel 10</td><td>30</td><td>11.94</td><td>7.8</td><td>5.1</td><td>0.38</td></tr><tr><td class="name">Python + FastAPI (uvicorn)</td><td>24</td><td>47.86</td><td>44</td><td>59.5</td><td>7.52</td></tr></tbody></table>
+<h3>POST action round-trip through the Astro console (ms) — lower is better</h3>
+<div class="chart"><div class="brow"><span class="blabel">Go + Gin</span><span class="btrack"><span class="bfill" style="width:4.136363636363637%"></span></span><span class="bval">1.82 ms</span></div><div class="brow"><span class="blabel">Go net/http</span><span class="btrack"><span class="bfill" style="width:4.204545454545454%"></span></span><span class="bval">1.85 ms</span></div><div class="brow"><span class="blabel">Deno + Fresh 2</span><span class="btrack"><span class="bfill" style="width:4.2272727272727275%"></span></span><span class="bval">1.86 ms</span></div><div class="brow"><span class="blabel">Go + Fiber 2</span><span class="btrack"><span class="bfill" style="width:4.318181818181818%"></span></span><span class="bval">1.9 ms</span></div><div class="brow"><span class="blabel">Bun + Hono 4</span><span class="btrack"><span class="bfill" style="width:4.340909090909091%"></span></span><span class="bval">1.91 ms</span></div><div class="brow"><span class="blabel">Go + Echo 4</span><span class="btrack"><span class="bfill" style="width:4.340909090909091%"></span></span><span class="bval">1.91 ms</span></div><div class="brow"><span class="blabel">Bun + Elysia 1.2</span><span class="btrack"><span class="bfill" style="width:4.386363636363636%"></span></span><span class="bval">1.93 ms</span></div><div class="brow"><span class="blabel">Rust + Actix-web 4</span><span class="btrack"><span class="bfill" style="width:4.7272727272727275%"></span></span><span class="bval">2.08 ms</span></div><div class="brow"><span class="blabel">Python + Django (gunicorn 4w)</span><span class="btrack"><span class="bfill" style="width:4.772727272727273%"></span></span><span class="bval">2.1 ms</span></div><div class="brow"><span class="blabel">Node + Hono 4</span><span class="btrack"><span class="bfill" style="width:4.931818181818182%"></span></span><span class="bval">2.17 ms</span></div><div class="brow"><span class="blabel">Elixir + Phoenix</span><span class="btrack"><span class="bfill" style="width:5.045454545454546%"></span></span><span class="bval">2.22 ms</span></div><div class="brow"><span class="blabel">Deno + Oak 17</span><span class="btrack"><span class="bfill" style="width:5.2727272727272725%"></span></span><span class="bval">2.32 ms</span></div><div class="brow"><span class="blabel">Rust + Axum 0.8</span><span class="btrack"><span class="bfill" style="width:5.3181818181818175%"></span></span><span class="bval">2.34 ms</span></div><div class="brow"><span class="blabel">C# ASP.NET Core 8 minimal API</span><span class="btrack"><span class="bfill" style="width:5.590909090909091%"></span></span><span class="bval">2.46 ms</span></div><div class="brow"><span class="blabel">Python + Flask (gunicorn 4w)</span><span class="btrack"><span class="bfill" style="width:5.795454545454545%"></span></span><span class="bval">2.55 ms</span></div><div class="brow"><span class="blabel">Node + Fastify 5</span><span class="btrack"><span class="bfill" style="width:6.045454545454546%"></span></span><span class="bval">2.66 ms</span></div><div class="brow"><span class="blabel">Java + Vert.x 4.5</span><span class="btrack"><span class="bfill" style="width:6.25%"></span></span><span class="bval">2.75 ms</span></div><div class="brow"><span class="blabel">Node + Express 4</span><span class="btrack"><span class="bfill" style="width:6.363636363636363%"></span></span><span class="bval">2.8 ms</span></div><div class="brow"><span class="blabel">Java + Spring Boot (MVC)</span><span class="btrack"><span class="bfill" style="width:6.545454545454545%"></span></span><span class="bval">2.88 ms</span></div><div class="brow"><span class="blabel">Ruby + Rails 7.1</span><span class="btrack"><span class="bfill" style="width:7.318181818181818%"></span></span><span class="bval">3.22 ms</span></div><div class="brow"><span class="blabel">Node + NestJS 10</span><span class="btrack"><span class="bfill" style="width:7.454545454545454%"></span></span><span class="bval">3.28 ms</span></div><div class="brow"><span class="blabel">PHP + Laravel 10</span><span class="btrack"><span class="bfill" style="width:17.727272727272727%"></span></span><span class="bval">7.8 ms</span></div><div class="brow"><span class="blabel">Python + FastAPI (uvicorn)</span><span class="btrack"><span class="bfill" style="width:100%"></span></span><span class="bval">44 ms</span></div></div>
+<div class="card"><b>Pairing notes (honest reading):</b><ul>
+<li><b>At single-user scale the backend choice barely matters for feel</b>: TTI is 23–47&nbsp;ms and POST RTT 1.8–3.3&nbsp;ms for almost every pairing. Choose on operational grounds (RAM, cold start, image size, team skills) from section 2.</li>
+<li>Exceptions visible even at 1 user: <b>FastAPI</b> (44–48&nbsp;ms rows/POST — default-serializer overhead), <b>Laravel dev-server</b> (7.8–11.9&nbsp;ms), and <b>Rails SSE jitter of ±142&nbsp;ms</b> around the 100&nbsp;ms tick (puma thread scheduling + sleep-loop streaming) — the live feed visibly stutters on Rails.</li>
+<li>SSE 'first event' spread (1–104&nbsp;ms) is mostly phase: some backends emit an event immediately on connect, others wait one 100&nbsp;ms tick. Not a quality signal.</li>
+<li>Every backend held a stable 10&nbsp;Hz SSE stream with ≤2&nbsp;ms jitter except Rails (±142&nbsp;ms) and the two flagged above.</li>
+<li>Best-fit pairings for an Astro console on Railway: <b>Astro + Go/Echo</b> (cheapest, instant), <b>Astro + Fastify</b> (TS-first), <b>Astro + Phoenix</b> (if the feed becomes many-user push-heavy).</li>
+</ul></div>
+
+<h3>3c. Library layer: charts &amp; tables on Astro+Preact (all measured)</h3>
+<table><thead><tr><th>Chart library (in Astro+Preact island)</th><th>Bundle gzip (kB, whole page)</th><th>TTI (ms)</th><th>Update cost @10Hz SSE (avg ms, n≈150)</th><th>Update p99 (ms)</th></tr></thead><tbody><tr><td class="name">D3 7 raw (SVG path)</td><td>27.4</td><td>60</td><td>0.089</td><td>0.2</td></tr><tr><td class="name">uPlot 1.6 (canvas)</td><td>32.6</td><td>75</td><td>0.013</td><td>0.1</td></tr><tr><td class="name">Chart.js 4 (canvas)</td><td>54.7</td><td>100</td><td>1.085</td><td>1.9</td></tr><tr><td class="name">Lightweight Charts 4 (canvas)</td><td>60.5</td><td>47</td><td>0.089</td><td>0.2</td></tr><tr><td class="name">Observable Plot 0.6 (SVG, full re-plot)</td><td>98.1</td><td>74</td><td>0.762</td><td>1.4</td></tr><tr><td class="name">Recharts 2 (React, preact/compat)</td><td>116.8</td><td>75</td><td>2.893</td><td>4.2</td></tr><tr><td class="name">ApexCharts 4 (SVG)</td><td>162</td><td>93</td><td>4.248</td><td>7.1</td></tr><tr><td class="name">ECharts 5 (canvas)</td><td>344.5</td><td>124</td><td>1.503</td><td>2.7</td></tr><tr><td class="name">Plotly.js 2 (WebGL/SVG)</td><td>1385.5</td><td>643</td><td>4.387</td><td>7.7</td></tr></tbody></table>
+<div class="card"><b>Chart library notes:</b><ul>
+<li><b>uPlot wins outright</b>: 33.4&nbsp;kB page (22.8&nbsp;kB of it uPlot), 0.013&nbsp;ms per 10&nbsp;Hz SSE update — ~80x cheaper than Chart.js, built exactly for streaming time-series.</li>
+<li>Chart.js (56&nbsp;kB, 1.09&nbsp;ms/update) and Observable Plot (100&nbsp;kB, 0.76&nbsp;ms/update, full SVG re-plot of ≤300 pts) are both fine at 10&nbsp;Hz; Plot's re-plot cost grows with point count.</li>
+<li>ECharts costs 353&nbsp;kB gzip — 10x uPlot — only worth it if you need its exotic chart types.</li>
+<li><b>Round 2 (all 9 chart libs measured):</b> Lightweight Charts (62&nbsp;kB, 0.089&nbsp;ms/update) and raw D3 (28&nbsp;kB, 0.089&nbsp;ms/update) are the only libs near uPlot; ApexCharts (166&nbsp;kB, 4.2&nbsp;ms/update, p99 7.1&nbsp;ms) and Plotly (1.4&nbsp;MB gzip, 643&nbsp;ms TTI, 4.4&nbsp;ms/update) are the worst streaming choices; Recharts (120&nbsp;kB, 2.9&nbsp;ms/update incl. React render) ran fine on preact/compat but costs 200x uPlot per frame.</li>
+</ul>
+<b>Table libraries (measured, 10k rows):</b>
+<table><thead><tr><th>Table library (10k rows)</th><th>Bundle gzip (kB, whole page)</th><th>Initial 10k render (ms)</th><th>Sort click (ms)</th></tr></thead><tbody><tr><td class="name">TanStack Table 8 + Virtual 3 (preact/compat)</td><td>32.8</td><td>106</td><td>17.6</td></tr><tr><td class="name">AG Grid Community 33</td><td>256</td><td>126</td><td>29.2</td></tr><tr><td class="name">Plain Preact (unvirtualized baseline)</td><td>10.6</td><td>158</td><td>—</td></tr></tbody></table>
+<ul>
+<li>preact/compat ran TanStack Table + Virtual without issues (compat concern resolved empirically).</li>
+<li><b>TanStack wins</b>: 106&nbsp;ms initial 10k render / 17.6&nbsp;ms sort at 33.6&nbsp;kB — AG Grid Community matches functionality with far more built-in UI, but costs 256&nbsp;kB gzip (7.6x) and ~26&nbsp;ms slower initial render. Pick AG Grid only if you want its full feature set (filtering UI, column menus) without building it.</li>
+</ul>
+<b>State management (measured, 200-row table updated from 10&nbsp;Hz SSE):</b>
+<table><thead><tr><th>State layer (Astro+Preact island, 200-row table)</th><th>Bundle gzip (kB, whole page)</th><th>TTI (ms)</th><th>Update+render cost @10Hz SSE (avg ms)</th><th>p99 (ms)</th></tr></thead><tbody><tr><td class="name">nanostores + @nanostores/preact</td><td>11</td><td>59</td><td>0.718</td><td>3.4</td></tr><tr><td class="name">Preact hooks (useState) baseline</td><td>10.6</td><td>62</td><td>0.736</td><td>2.5</td></tr><tr><td class="name">Jotai 2 (preact/compat)</td><td>16.9</td><td>60</td><td>0.77</td><td>1.5</td></tr><tr><td class="name">Zustand 5 (preact/compat)</td><td>15.2</td><td>60</td><td>0.809</td><td>1.7</td></tr><tr><td class="name">@preact/signals 2</td><td>10.1</td><td>58</td><td>0.816</td><td>2.3</td></tr></tbody></table>
+<ul>
+<li><b>They are all equivalent at this scale</b> (0.72–0.82&nbsp;ms per event, within noise) — the cost is Preact's re-render of 200 rows, not the store. Choose on ergonomics: <b>@preact/signals</b> is the idiomatic Preact choice (fine-grained updates matter at bigger scale), <b>nanostores</b> is the Astro-idiomatic choice (shares state across islands, +0.4&nbsp;kB), Zustand/Jotai work via compat but add 5–7&nbsp;kB for no measured benefit here.</li>
+</ul></div>
+
+<h3>3d. Real Postgres: Go Echo driver comparison (measured)</h3>
+<p class="dim">Go Echo backend querying a real Postgres 16 (docker, localhost:5433), 200-row table (7 cols), oha 5s x 64 conns</p>
+<table><thead><tr><th>Echo + Postgres endpoint</th><th>Driver</th><th>RPS (oha 5s × 64)</th><th>p99 (ms)</th></tr></thead><tbody><tr><td class="name">echo_pgx_pool</td><td>jackc/pgx/v5 pgxpool</td><td>13,742</td><td>10.65</td></tr><tr><td class="name">echo_database_sql_libpq</td><td>database/sql + lib/pq (MaxOpenConns=16)</td><td>8,851</td><td>25.2</td></tr><tr><td class="name">echo_in_memory_baseline</td><td>none (static slice)</td><td>92,142</td><td>5.64</td></tr></tbody></table>
+<div class="card"><b>Postgres notes:</b> pgx pool is ~1.55x database/sql+lib/pq on this query and ~7x below the no-DB ceiling; the DB round-trip, not Echo, dominates once a real query is on the path. localhost Postgres - Railway private networking adds ~0.5-2ms per query.</div>
+
+<h3>3e. Go backend libraries on Echo (all measured)</h3>
+<p class="dim">Go Echo (go-echo-libs, port 3071), oha 5s x 64 conns, 200-row payload; real Postgres 16 (docker, localhost:5433) for DB layers</p>
+
+<table><thead><tr><th>Go JSON encoder (200-row payload)</th><th>RPS</th><th>p99 (ms)</th></tr></thead><tbody><tr><td class="name">stdlib_encoding_json</td><td>65,637</td><td>5.34</td></tr><tr><td class="name">goccy_go_json</td><td>74,809</td><td>5.5</td></tr><tr><td class="name">bytedance_sonic</td><td>101,701</td><td>3.71</td></tr></tbody></table>
+<table><thead><tr><th>Echo DB layer (real Postgres, 200-row query)</th><th>RPS</th><th>p99 (ms)</th></tr></thead><tbody><tr><td class="name">pgx_v5_pool</td><td>15,400</td><td>9.01</td></tr><tr><td class="name">pgx_v5_pool_prepared</td><td>15,428</td><td>8.92</td></tr><tr><td class="name">sqlx_libpq</td><td>9,251</td><td>23.56</td></tr><tr><td class="name">gorm_prepare_stmt</td><td>8,224</td><td>26.54</td></tr></tbody></table>
+<table><thead><tr><th>Middleware / validation</th><th>RPS</th><th>p99 (ms)</th></tr></thead><tbody><tr><td class="name">no_middleware_stdlib_json</td><td>65,637</td><td>5.34</td></tr><tr><td class="name">logger_recover_gzip</td><td>24,237</td><td>12</td></tr><tr><td class="name">post_bind_plus_go_playground_validator</td><td>258,081</td><td>2.1</td></tr></tbody></table>
+<div class="card"><b>Backend library notes:</b><ul>
+<li><b>JSON encoder</b>: sonic is 1.55x stdlib (101.7k vs 65.6k RPS) and go-json 1.14x — but on the real-DB path the query dominates, so stdlib is fine; swap in sonic only for large hot JSON endpoints.</li>
+<li><b>DB layer</b>: pgx pool 15.4k RPS &gt; sqlx+lib/pq 9.3k &gt; GORM 8.2k on the identical query — GORM costs ~47% of pgx's throughput for ORM convenience. Explicit prepared statements add nothing (pgxpool already auto-caches). sqlc generates code over pgx, so it performs like raw pgx with type-safety — the recommended sweet spot.</li>
+<li><b>Middleware</b>: logger+recover are near-free; per-request <b>gzip</b> drops the 200-row endpoint from 65.6k to 24.2k RPS — enable gzip only for large payloads or let a CDN/proxy do it.</li>
+<li><b>Validation</b>: go-playground/validator on the POST path still ran at 258k RPS — negligible; always validate.</li>
+</ul></div>
+
+<h3>3f. Realtime transport: SSE vs WebSocket vs Postgres LISTEN/NOTIFY (measured)</h3>
+<table><thead><tr><th>Transport (Go Echo, 10 ev/s per conn)</th><th>Conns</th><th>Delivery avg (ms)</th><th>p99 (ms)</th><th>Server CPU %</th></tr></thead><tbody><tr><td class="name">sse_plain</td><td>200</td><td>0.18</td><td>1</td><td>6.8</td></tr><tr><td class="name">websocket</td><td>200</td><td>0.358</td><td>1</td><td>1.7</td></tr><tr><td class="name">sse_pg_notify</td><td>50</td><td>1.134</td><td>2</td><td>2.3</td></tr></tbody></table>
+<div class="card"><b>Transport notes:</b><ul>
+<li>At 200 concurrent connections × 10&nbsp;ev/s, <b>both SSE and WebSocket deliver in &lt;1&nbsp;ms p99</b>. WebSocket used less CPU (1.7% vs 6.8%) because SSE writes text-framed HTTP chunks; both are trivial for one user.</li>
+<li><b>Postgres LISTEN/NOTIFY → SSE adds ~1&nbsp;ms</b> end-to-end (avg 1.1&nbsp;ms, p99 2&nbsp;ms) — a clean way to push DB changes to the console without polling. Caveat: this naive impl holds one Postgres connection per SSE client; production should hold ONE LISTEN connection and fan out in-process.</li>
+<li><b>SSE auto-reconnect (measured)</b>: killed the server mid-stream for 3.0&nbsp;s — EventSource reconnected by itself and events resumed 3.1&nbsp;s after restart (total gap 6.2&nbsp;s, 2 retry attempts), with zero client code. This built-in resilience is SSE's main advantage over WebSocket (which needs manual reconnect logic).</li>
+</ul></div>
+
+<h3>3g. Brotli vs gzip static serving (measured)</h3>
+<table><thead><tr><th>Astro build (JS+CSS)</th><th>Raw (kB)</th><th>gzip -9 (kB)</th><th>brotli -q11 (kB)</th><th>brotli saves vs gzip</th></tr></thead><tbody><tr><td class="name">astro-preact</td><td>24.1</td><td>10.6</td><td>9.5</td><td>10.1%</td></tr><tr><td class="name">chart-uplot</td><td>74.1</td><td>32.6</td><td>29.6</td><td>9.2%</td></tr><tr><td class="name">table-tanstack</td><td>102.8</td><td>32.8</td><td>29.5</td><td>9.8%</td></tr></tbody></table>
+<div class="card">Brotli -q11 saves ~9–10% over gzip -9 on these bundles — worth precompressing at build time (near-zero effort with a Vite/Astro plugin), irrelevant to feel on a fast connection at these sizes (&lt;35&nbsp;kB pages).</div>
+
+<h3>3h. Real Docker images — all 23 backends built &amp; measured</h3>
+<table><thead><tr><th>Backend</th><th>Measured image (MB, uncompressed)</th><th>Earlier estimate (MB)</th></tr></thead><tbody><tr><td class="name">go-nethttp</td><td>5.5</td><td>~12 (scratch + 7.5MB static binary) [estimated]</td></tr><tr><td class="name">go-fiber</td><td>5.7</td><td>~16 (scratch + 11MB binary) [estimated]</td></tr><tr><td class="name">go-echo</td><td>5.9</td><td>~15 (scratch + 10MB binary) [estimated]</td></tr><tr><td class="name">go-gin</td><td>13.8</td><td>~17 (scratch + 12MB binary) [estimated]</td></tr><tr><td class="name">elixir-phoenix</td><td>28.1</td><td>~120 (alpine mix release) [estimated]</td></tr><tr><td class="name">rust-axum</td><td>73.2</td><td>~10 (distroless + 5MB binary) [estimated]</td></tr><tr><td class="name">rust-actix</td><td>77.5</td><td>~12 (distroless + 7MB binary) [estimated]</td></tr><tr><td class="name">bun-hono</td><td>99</td><td>~130 (oven/bun:alpine) [estimated]</td></tr><tr><td class="name">bun-elysia</td><td>101.2</td><td>~135 (oven/bun:alpine) [estimated]</td></tr><tr><td class="name">deno-oak</td><td>114.9</td><td>~145 (denoland/deno:alpine) [estimated]</td></tr><tr><td class="name">deno-fresh</td><td>115.3</td><td>~150 (denoland/deno + _fresh build) [estimated]</td></tr><tr><td class="name">py-flask</td><td>128.3</td><td>~170 (python:3.12-slim + deps) [estimated]</td></tr><tr><td class="name">node-hono</td><td>131.2</td><td>~175 (node:20-alpine + deps) [estimated]</td></tr><tr><td class="name">node-express</td><td>132.5</td><td>~180 (node:20-alpine + deps) [estimated]</td></tr><tr><td class="name">py-fastapi</td><td>135.6</td><td>~190 (python:3.12-slim + deps) [estimated]</td></tr><tr><td class="name">node-fastify</td><td>138.1</td><td>~180 (node:20-alpine + deps) [estimated]</td></tr><tr><td class="name">py-django</td><td>153.4</td><td>~210 (python:3.12-slim + deps) [estimated]</td></tr><tr><td class="name">php-laravel</td><td>186.3</td><td>~200 (php:fpm-alpine + nginx + vendor) [estimated]</td></tr><tr><td class="name">csharp-minimal</td><td>207.7</td><td>-</td></tr><tr><td class="name">java-vertx</td><td>287.4</td><td>~290 (temurin:17-jre + 8MB fat jar) [estimated]</td></tr><tr><td class="name">java-spring</td><td>299.8</td><td>~320 (temurin:17-jre + 22MB fat jar) [estimated]</td></tr><tr><td class="name">node-nestjs</td><td>313.3</td><td>~230 (node:20-alpine + deps) [estimated]</td></tr><tr><td class="name">ruby-rails</td><td>530.9</td><td>~500 (ruby:slim + bundle) [estimated]</td></tr></tbody></table>
+<div class="card"><b>Image notes:</b> Go scratch images are <b>5.5–13.8&nbsp;MB</b> — 10–20x smaller than everything except Phoenix's mix release (28&nbsp;MB). Rust's 73–78&nbsp;MB is the debian-slim runtime base, not the binary (~5&nbsp;MB) — a musl/distroless build lands near Go. Node/Bun/Deno/Python cluster at 99–154&nbsp;MB, JVM at ~290–300&nbsp;MB, Rails at 531&nbsp;MB. Sizes are uncompressed; registry pulls are typically 2–3x smaller. The earlier estimates were directionally right but understated interpreter images.</div>
+
+<h2>4. Measurement noise &amp; method caveats</h2>
+<div class="card"><ul><li>Localhost benchmarks on a shared VM: numbers have run-to-run noise (~5-15%); treat orderings of nearby bars as ties.</li><li>SSE memory soak was 45s (not 5min) per frontend to fit the time budget; all frames arrive at 10/s so heap growth is near-linear to observe leaks. Labeled as such.</li><li>FastAPI measured with default JSONResponse (jsonable_encoder dominates); ORJSONResponse typically gives 5-10x more RPS on this payload.</li><li>Flask/Django ran gunicorn 4 workers x 8 threads: 200 concurrent SSE connections exceed the 32-slot sync capacity - most connections stalled. This is a real deployment constraint of sync WSGI, not a measurement artifact.</li><li>Docker image sizes: all 23 backends now have REAL built images (docker build, uncompressed size); the earlier estimated column is retained for comparison. Rust images use debian-slim runtime (~65MB base) - musl/distroless would land near the Go numbers. Registry-compressed sizes are typically 2-3x smaller.</li><li>Chart update cost = synchronous JS time per SSE event with 300 retained points; Recharts/state-management costs measured through requestAnimationFrame (includes render commit).</li><li>Realtime transport test: 200 concurrent SSE/WebSocket conns at 10 ev/s each; LISTEN/NOTIFY test used 50 conns (one Postgres conn per LISTEN in this naive impl - production should fan out from a single LISTEN connection).</li><li>All 23 backends measured locally. Version caveats: Phoenix 1.6 on Elixir 1.16/OTP 24 (apt Erlang); Laravel 10 on PHP 8.1 via artisan serve + PHP_CLI_SERVER_WORKERS=8 (dev server - production php-fpm/Octane is faster); Rails 7.1 on Ruby 3.0 (system ruby, no YJIT - YJIT typically +15-30%).</li><li>Frontend numbers for 21 frameworks are all locally measured; js-framework-benchmark (krausest) agrees directionally with our 10k-row ordering.</li></ul>
+<p class="dim">Env: 8 vCPU, 31GB RAM, Linux 5.15 (Devin VM) · node v20.18.1, bun 1.3.14, deno 2.9.3, go 1.23.4, stable 2026-06, python 3.10.12, java 17 (temurin), dotnet 8.0.423 · oha 1.15 (5s, 64 conns, /api/rows 200-row JSON) · Playwright Chromium, cold contexts, median of 3</p></div>
+
+<h2>5. Recommendations in full</h2>
+<div class="card win">
+<b>(a) Single-user internal CEO console (ship this):</b>
+<ul><li><b>Frontend: React 18 + Vite SPA</b> (or Svelte 5 if you value the 3x smaller bundle over ecosystem). Static build served by the backend — no meta-framework.</li>
+<li><b>Backend: Node 20 + Fastify</b> (12.9k RPS, first-class TS, SSE trivial, biggest talent/AI pool) serving both API and the static frontend from one Railway service + Railway Postgres.</li>
+<li>Total measured footprint: ~58&nbsp;MB RSS, 107&nbsp;ms cold start, 46&nbsp;kB gzip frontend, TTI &lt;50&nbsp;ms.</li></ul>
+<b>(b) Growth path to multi-view live dashboard:</b>
+<ul><li>Same stack scales: add react-router (client-side), TanStack Table/Query + a virtualized table for &gt;5k rows (our 10k unvirtualized render was 309&nbsp;ms — virtualize before it matters).</li><li>Performance-ceiling alternative: <b>SolidJS</b> (best measured update performance + flat heap), at ecosystem/hiring cost.</li><li>If the dashboard becomes many-user and push-heavy, <b>Elixir Phoenix LiveView</b> is the architectural best-fit (literature, not measured).</li></ul>
+<b>(c) API/control-plane backend on Railway:</b>
+<ul><li><b>Go + Echo or stdlib net/http</b>: 97k RPS, 6–7&nbsp;MB RSS, 21&nbsp;ms cold start, ~12&nbsp;MB scratch image, decades-stable stdlib. Cheapest possible Railway bill.</li><li>TypeScript-first team: <b>Fastify</b>; performance-hungry TS: <b>Bun + Elysia</b> (29k RPS measured) accepting runtime youth.</li><li>Avoid for this shape: Spring Boot (RAM/cold start), sync WSGI Python if SSE matters, Rails/Laravel (SSE awkward in default deployment).</li></ul>
+</div>
+<p class="dim">Raw data: results.json in the same bundle. Benchmark harness: stack-bench repo zip (mock API + 21 frontend + 18 backend implementations + measurement scripts).</p>
+</body></html>

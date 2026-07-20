@@ -1,0 +1,15 @@
+{
+  "name": "fe-inferno",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build --base=/fe/inferno/"
+  },
+  "dependencies": {
+    "inferno": "^8.2.3",
+    "inferno-create-element": "^8.2.3"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}

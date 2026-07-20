@@ -1,0 +1,262 @@
+{
+  "vanilla": {
+    "load_ms": 7,
+    "tti_ms": 33,
+    "fcp_ms": null,
+    "table10k_ms": 71.70000000006985,
+    "load10k_total_ms": 73,
+    "mem_after_soak_mb": 9.5367431640625,
+    "soak_sec": 45,
+    "measured": true
+  },
+  "react": {
+    "load_ms": 12,
+    "tti_ms": 46,
+    "fcp_ms": 40,
+    "table10k_ms": 308.79999999993015,
+    "load10k_total_ms": 771,
+    "mem_after_soak_mb": 9.5367431640625,
+    "soak_sec": 45,
+    "measured": true
+  },
+  "preact": {
+    "load_ms": 7,
+    "tti_ms": 55,
+    "fcp_ms": 24,
+    "table10k_ms": 127.5,
+    "load10k_total_ms": 730,
+    "mem_after_soak_mb": 9.5367431640625,
+    "soak_sec": 45,
+    "measured": true
+  },
+  "vue": {
+    "load_ms": 17,
+    "tti_ms": 45,
+    "fcp_ms": 36,
+    "table10k_ms": 127.5,
+    "load10k_total_ms": 786,
+    "mem_after_soak_mb": 9.5367431640625,
+    "soak_sec": 45,
+    "measured": true
+  },
+  "svelte": {
+    "load_ms": 12,
+    "tti_ms": 47,
+    "fcp_ms": 36,
+    "table10k_ms": 310.30000000004657,
+    "load10k_total_ms": 863,
+    "mem_after_soak_mb": 9.5367431640625,
+    "soak_sec": 45,
+    "measured": true
+  },
+  "solid": {
+    "load_ms": 9,
+    "tti_ms": 38,
+    "fcp_ms": null,
+    "table10k_ms": 105.10000000009313,
+    "load10k_total_ms": 577,
+    "mem_after_soak_mb": 9.5367431640625,
+    "soak_sec": 45,
+    "measured": true
+  },
+  "lit": {
+    "load_ms": 11,
+    "tti_ms": 41,
+    "fcp_ms": 8,
+    "table10k_ms": 217.4000000001397,
+    "load10k_total_ms": 765,
+    "mem_after_soak_mb": 9.5367431640625,
+    "soak_sec": 45,
+    "measured": true
+  },
+  "mithril": {
+    "load_ms": 10,
+    "tti_ms": 41,
+    "fcp_ms": 36,
+    "table10k_ms": 128.30000000004657,
+    "load10k_total_ms": 614,
+    "mem_after_soak_mb": 9.5367431640625,
+    "soak_sec": 45,
+    "measured": true
+  },
+  "inferno": {
+    "load_ms": 9,
+    "tti_ms": 34,
+    "fcp_ms": null,
+    "table10k_ms": 86.89999999990687,
+    "load10k_total_ms": 608,
+    "mem_after_soak_mb": 9.5367431640625,
+    "soak_sec": 45,
+    "measured": true
+  },
+  "vanjs": {
+    "load_ms": 8,
+    "tti_ms": 42,
+    "fcp_ms": 16,
+    "table10k_ms": 143,
+    "load10k_total_ms": 3935,
+    "mem_after_soak_mb": 9.5367431640625,
+    "soak_sec": 45,
+    "measured": true
+  },
+  "alpine": {
+    "load_ms": 12,
+    "tti_ms": 84,
+    "fcp_ms": 40,
+    "table10k_ms": 8243.899999999907,
+    "load10k_total_ms": 8622,
+    "mem_after_soak_mb": 9.5367431640625,
+    "soak_sec": 45,
+    "measured": true
+  },
+  "htmx": {
+    "load_ms": 10,
+    "tti_ms": 38,
+    "fcp_ms": null,
+    "table10k_ms": 85.80000000004657,
+    "load10k_total_ms": 88,
+    "mem_after_soak_mb": 9.5367431640625,
+    "soak_sec": 45,
+    "measured": true
+  },
+  "next": {
+    "load_ms": 36,
+    "tti_ms": 68,
+    "fcp_ms": 32,
+    "table10k_ms": 326.69999999995343,
+    "load10k_total_ms": 714,
+    "mem_after_soak_mb": 9.5367431640625,
+    "soak_sec": 45,
+    "measured": true
+  },
+  "nuxt": {
+    "load_ms": 14,
+    "tti_ms": 48,
+    "fcp_ms": null,
+    "table10k_ms": 146.39999999990687,
+    "load10k_total_ms": 793,
+    "mem_after_soak_mb": 9.5367431640625,
+    "soak_sec": 45,
+    "measured": true
+  },
+  "sveltekit": {
+    "load_ms": 8,
+    "tti_ms": 60,
+    "fcp_ms": 32,
+    "table10k_ms": 329.89999999990687,
+    "load10k_total_ms": 865,
+    "mem_after_soak_mb": 9.5367431640625,
+    "soak_sec": 45,
+    "measured": true
+  },
+  "solidstart": {
+    "load_ms": 9,
+    "tti_ms": 34,
+    "fcp_ms": null,
+    "table10k_ms": 109,
+    "load10k_total_ms": 508,
+    "mem_after_soak_mb": 9.5367431640625,
+    "soak_sec": 45,
+    "measured": true
+  },
+  "react-router": {
+    "load_ms": 10,
+    "tti_ms": 63,
+    "fcp_ms": 36,
+    "table10k_ms": 346.30000000004657,
+    "load10k_total_ms": 745,
+    "mem_after_soak_mb": 9.5367431640625,
+    "soak_sec": 45,
+    "measured": true
+  },
+  "astro": {
+    "load_ms": 6,
+    "tti_ms": 34,
+    "fcp_ms": null,
+    "table10k_ms": 72.80000000004657,
+    "load10k_total_ms": 76,
+    "mem_after_soak_mb": 9.5367431640625,
+    "soak_sec": 45,
+    "measured": true
+  },
+  "qwik": {
+    "load_ms": 12,
+    "tti_ms": 45,
+    "fcp_ms": 16,
+    "table10k_ms": 196.5,
+    "load10k_total_ms": 595,
+    "mem_after_soak_mb": 9.5367431640625,
+    "soak_sec": 45,
+    "measured": true
+  },
+  "angular": {
+    "load_ms": 40,
+    "tti_ms": 76,
+    "fcp_ms": 52,
+    "table10k_ms": 211.5,
+    "load10k_total_ms": 731,
+    "mem_after_soak_mb": 9.5367431640625,
+    "soak_sec": 45,
+    "measured": true
+  },
+  "ember-app": {
+    "load_ms": 50,
+    "tti_ms": 99,
+    "fcp_ms": 60,
+    "table10k_ms": 674.5,
+    "load10k_total_ms": 2390,
+    "mem_after_soak_mb": 16.307830810546875,
+    "soak_sec": 45,
+    "measured": true
+  },
+  "astro-react": {
+    "load_ms": 7,
+    "tti_ms": 59,
+    "fcp_ms": 12,
+    "table10k_ms": 238.69999999998254,
+    "load10k_total_ms": 687,
+    "mem_after_soak_mb": 9.5367431640625,
+    "soak_sec": 45,
+    "measured": true
+  },
+  "astro-preact": {
+    "load_ms": 10,
+    "tti_ms": 58,
+    "fcp_ms": 28,
+    "table10k_ms": 157.9999999999709,
+    "load10k_total_ms": 787,
+    "mem_after_soak_mb": 10.10894775390625,
+    "soak_sec": 45,
+    "measured": true
+  },
+  "astro-vue": {
+    "load_ms": 7,
+    "tti_ms": 47,
+    "fcp_ms": 40,
+    "table10k_ms": 165.39999999996508,
+    "load10k_total_ms": 842,
+    "mem_after_soak_mb": 9.5367431640625,
+    "soak_sec": 45,
+    "measured": true
+  },
+  "astro-svelte": {
+    "load_ms": 8,
+    "tti_ms": 46,
+    "fcp_ms": 28,
+    "table10k_ms": 331.70000000001164,
+    "load10k_total_ms": 868,
+    "mem_after_soak_mb": 9.5367431640625,
+    "soak_sec": 45,
+    "measured": true
+  },
+  "astro-solid": {
+    "load_ms": 9,
+    "tti_ms": 38,
+    "fcp_ms": 32,
+    "table10k_ms": 109.79999999998836,
+    "load10k_total_ms": 504,
+    "mem_after_soak_mb": 9.5367431640625,
+    "soak_sec": 45,
+    "measured": true
+  }
+}

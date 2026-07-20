@@ -1,0 +1,9 @@
+<div style="font-family:system-ui;background:#111;color:#eee">
+<h1>ember console</h1>
+<button id="act" type="button" {{on "click" this.act}}>Run action</button> <span>{{this.actres}}</span>
+<ul>{{#each this.feed as |e|}}<li>{{e}}</li>{{/each}}</ul>
+<table><tbody>
+<tr>{{#each this.cols as |c|}}<th style="cursor:pointer" {{on "click" (fn this.sortBy c)}}>{{c}}</th>{{/each}}</tr>
+{{#each this.sorted key="id" as |r|}}<tr>{{#each this.cols as |c|}}<td>{{get r c}}</td>{{/each}}</tr>{{/each}}
+</tbody></table>
+</div>

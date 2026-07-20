@@ -1,0 +1,14 @@
+{
+  "name": "fe-chart-plot",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "astro build"
+  },
+  "dependencies": {
+    "astro": "^5.1.1",
+    "@astrojs/preact": "^4.0.0",
+    "preact": "^10.25.0",
+    "@observablehq/plot": "^0.6.16"
+  }
+}

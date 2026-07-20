@@ -1,0 +1,23 @@
+go: finding module for package github.com/lib/pq
+go: finding module for package github.com/jackc/pgx/v5/pgxpool
+go: finding module for package github.com/labstack/echo/v4
+go: downloading github.com/lib/pq v1.12.3
+go: downloading github.com/jackc/pgx v3.6.2+incompatible
+go: downloading github.com/jackc/pgx/v5 v5.10.0
+go: toolchain upgrade needed to resolve github.com/jackc/pgx/v5/pgxpool
+go: github.com/jackc/pgx/v5@v5.10.0 requires go >= 1.25.0; switching to go1.25.12
+go: finding module for package github.com/lib/pq
+go: finding module for package github.com/jackc/pgx/v5/pgxpool
+go: finding module for package github.com/labstack/echo/v4
+go: found github.com/jackc/pgx/v5/pgxpool in github.com/jackc/pgx/v5 v5.10.0
+go: found github.com/labstack/echo/v4 in github.com/labstack/echo/v4 v4.15.4
+go: found github.com/lib/pq in github.com/lib/pq v1.12.3
+go: downloading github.com/jackc/puddle/v2 v2.2.2
+go: downloading github.com/stretchr/testify v1.11.1
+go: downloading github.com/jackc/pgpassfile v1.0.0
+go: downloading github.com/jackc/pgservicefile v0.0.0-20240606120523-5a60cdf6a761
+go: downloading github.com/davecgh/go-spew v1.1.1
+go: downloading github.com/pmezard/go-difflib v1.0.0
+go: downloading gopkg.in/yaml.v3 v3.0.1
+go: downloading golang.org/x/sync v0.17.0
+go: downloading golang.org/x/sync v0.21.0

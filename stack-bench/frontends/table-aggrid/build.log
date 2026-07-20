@@ -1,0 +1,36 @@
+17:11:04 [content] Syncing content
+17:11:04 [content] Synced content
+17:11:04 [types] Generated 70ms
+17:11:04 [build] output: "static"
+17:11:04 [build] mode: "static"
+17:11:04 [build] directory: /home/ubuntu/stack-bench/frontends/table-aggrid/dist/
+17:11:04 [build] Collecting build info...
+17:11:04 [build] ✓ Completed in 81ms.
+17:11:04 [build] Building static entrypoints...
+17:11:05 [vite] ✓ built in 365ms
+17:11:05 [build] ✓ Completed in 390ms.
+
+ building client (vite) 
+17:11:05 [vite] transforming...
+17:11:05 [vite] ✓ 11 modules transformed.
+17:11:06 [vite] rendering chunks...
+17:11:06 [vite] computing gzip size...
+17:11:06 [vite] dist/_astro/hooks.module.DgakmSIW.js      1.88 kB │ gzip:   0.85 kB
+17:11:06 [vite] dist/_astro/client.DctNXsad.js            2.31 kB │ gzip:   1.25 kB
+17:11:06 [vite] dist/_astro/signals.module.CrLYok3U.js    7.85 kB │ gzip:   3.04 kB
+17:11:06 [vite] dist/_astro/preact.module.6wYYbtvx.js    10.61 kB │ gzip:   4.50 kB
+17:11:06 [vite] dist/_astro/Island.BM8s3xlj.js          909.11 kB │ gzip: 252.63 kB
+17:11:06 [WARN] [vite] 
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+17:11:06 [vite] ✓ built in 1.07s
+
+ generating static routes 
+17:11:06 ▶ src/pages/index.astro
+17:11:06   └─ /index.html (+6ms) 
+17:11:06 ✓ Completed in 13ms.
+
+17:11:06 [build] 1 page(s) built in 1.57s
+17:11:06 [build] Complete!

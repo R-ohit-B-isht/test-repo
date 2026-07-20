@@ -1,0 +1,10 @@
+{
+  "name": "be-fastify",
+  "private": true,
+  "dependencies": {
+    "fastify": "^5.2.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}

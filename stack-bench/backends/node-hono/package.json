@@ -1,0 +1,12 @@
+{
+  "name": "be-node-hono",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "hono": "^4.6.15",
+    "@hono/node-server": "^1.13.7"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}

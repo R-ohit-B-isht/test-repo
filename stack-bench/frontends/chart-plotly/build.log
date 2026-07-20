@@ -1,0 +1,36 @@
+17:10:36 [content] Syncing content
+17:10:36 [content] Synced content
+17:10:36 [types] Generated 87ms
+17:10:36 [build] output: "static"
+17:10:36 [build] mode: "static"
+17:10:36 [build] directory: /home/ubuntu/stack-bench/frontends/chart-plotly/dist/
+17:10:36 [build] Collecting build info...
+17:10:36 [build] ✓ Completed in 96ms.
+17:10:36 [build] Building static entrypoints...
+17:10:36 [vite] ✓ built in 356ms
+17:10:36 [build] ✓ Completed in 381ms.
+
+ building client (vite) 
+17:10:36 [vite] transforming...
+17:10:44 [vite] ✓ 14 modules transformed.
+17:10:44 [vite] rendering chunks...
+17:10:45 [vite] computing gzip size...
+17:10:45 [vite] dist/_astro/hooks.module.DgakmSIW.js        1.88 kB │ gzip:     0.85 kB
+17:10:45 [vite] dist/_astro/client.cknMqYr_.js              2.31 kB │ gzip:     1.25 kB
+17:10:45 [vite] dist/_astro/signals.module.CrLYok3U.js      7.85 kB │ gzip:     3.04 kB
+17:10:45 [vite] dist/_astro/preact.module.6wYYbtvx.js      10.61 kB │ gzip:     4.50 kB
+17:10:45 [vite] dist/_astro/Island.q8oBzw7E.js          4,682.96 kB │ gzip: 1,418.39 kB
+17:10:45 [WARN] [vite] 
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+17:10:45 [vite] ✓ built in 8.59s
+
+ generating static routes 
+17:10:45 ▶ src/pages/index.astro
+17:10:45   └─ /index.html (+7ms) 
+17:10:45 ✓ Completed in 19ms.
+
+17:10:45 [build] 1 page(s) built in 9.09s
+17:10:45 [build] Complete!

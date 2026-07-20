@@ -1,0 +1,4 @@
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  csharp-minimal -> /home/ubuntu/stack-bench/backends/csharp-minimal/bin/Release/net8.0/csharp-minimal.dll
+  csharp-minimal -> /home/ubuntu/stack-bench/backends/csharp-minimal/publish/

@@ -1,0 +1,24 @@
+[0m[32mTask[0m [0m[36mbuild[0m vite build
+vite v7.3.6 building client environment for production...
+transforming...
+✓ 26 modules transformed.
+rendering chunks...
+computing gzip size...
+_fresh/client/.vite/manifest.json                        0.63 kB │ gzip:  0.24 kB
+_fresh/client/assets/client-entry-PRjVyscb.css           1.83 kB │ gzip:  0.89 kB
+_fresh/client/assets/fresh-island__Counter-D-UK5ovv.js   0.82 kB │ gzip:  0.50 kB
+_fresh/client/assets/preact.module-CFY3bjan.js          11.07 kB │ gzip:  4.69 kB
+_fresh/client/assets/client-entry-CkSqseZs.js           34.10 kB │ gzip: 13.04 kB
+✓ built in 686ms
+vite v7.3.6 building ssr environment for production...
+transforming...
+✓ 189 modules transformed.
+rendering chunks...
+_fresh/server/.vite/manifest.json                              1.43 kB
+_fresh/server/assets/_fresh-route___api_action-CXMNL06Y.mjs    0.48 kB
+_fresh/server/assets/_fresh-route___api_name_-CGq2LBhg.mjs     0.50 kB
+_fresh/server/assets/_fresh-route___api_rows-AhQk37VX.mjs      0.80 kB
+_fresh/server/assets/_fresh-route___api_events-B60nky2O.mjs    0.92 kB
+_fresh/server/assets/_fresh-route___index-BTeVc2p_.mjs        13.86 kB
+_fresh/server/server-entry.mjs                               226.56 kB
+✓ built in 1.27s

@@ -1,0 +1,1 @@
+import {defineConfig} from 'astro/config';import preact from '@astrojs/preact';export default defineConfig({base:'/fe/table-aggrid',outDir:'dist',integrations:[preact()]});

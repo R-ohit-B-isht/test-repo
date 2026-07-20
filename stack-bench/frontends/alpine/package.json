@@ -1,0 +1,14 @@
+{
+  "name": "fe-alpine",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build --base=/fe/alpine/"
+  },
+  "dependencies": {
+    "alpinejs": "^3.14.8"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}

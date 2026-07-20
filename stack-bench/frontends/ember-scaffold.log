@@ -1,0 +1,52 @@
+installing app
+Ember CLI v5.12.0
+
+Creating a new Ember app in /home/ubuntu/stack-bench/frontends/ember-app:
+  create .editorconfig
+  create .ember-cli
+  create .eslintignore
+  create .eslintrc.js
+  create .github/workflows/ci.yml
+  create .prettierignore
+  create .prettierrc.js
+  create .stylelintignore
+  create .stylelintrc.js
+  create .template-lintrc.js
+  create .watchmanconfig
+  create README.md
+  create app/app.js
+  create app/components/.gitkeep
+  create app/controllers/.gitkeep
+  create app/helpers/.gitkeep
+  create app/index.html
+  create app/models/.gitkeep
+  create app/router.js
+  create app/routes/.gitkeep
+  create app/styles/app.css
+  create app/templates/application.hbs
+  create config/ember-cli-update.json
+  create config/environment.js
+  create config/optional-features.json
+  create config/targets.js
+  create ember-cli-build.js
+  create .gitignore
+  create package.json
+  create public/robots.txt
+  create testem.js
+  create tests/helpers/index.js
+  create tests/index.html
+  create tests/integration/.gitkeep
+  create tests/test-helper.js
+  create tests/unit/.gitkeep
+
+Installing packages... This might take a couple of minutes.
+- npm: Installing dependencies ...
+npm: Installed dependencies
+
+Successfully created project ember-app.
+Get started by typing:
+
+  $ cd ember-app
+  $ npm start
+
+Happy coding!

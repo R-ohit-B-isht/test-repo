@@ -1,0 +1,232 @@
+{
+  "node-express": {
+    "load_ms": 16,
+    "tti_ms": 45,
+    "rows_ms": 3.16,
+    "post_rtt_ms": 2.8,
+    "sse_first_ms": 102.2,
+    "sse_jitter_ms": 0.67,
+    "sse_events": 31,
+    "measured": true
+  },
+  "node-fastify": {
+    "load_ms": 8,
+    "tti_ms": 25,
+    "rows_ms": 2.74,
+    "post_rtt_ms": 2.66,
+    "sse_first_ms": 102.6,
+    "sse_jitter_ms": 0.7,
+    "sse_events": 31,
+    "measured": true
+  },
+  "node-hono": {
+    "load_ms": 18,
+    "tti_ms": 47,
+    "rows_ms": 2.86,
+    "post_rtt_ms": 2.17,
+    "sse_first_ms": 2.8,
+    "sse_jitter_ms": 1.08,
+    "sse_events": 31,
+    "measured": true
+  },
+  "node-nestjs": {
+    "load_ms": 8,
+    "tti_ms": 27,
+    "rows_ms": 2.82,
+    "post_rtt_ms": 3.28,
+    "sse_first_ms": 102,
+    "sse_jitter_ms": 1.13,
+    "sse_events": 31,
+    "measured": true
+  },
+  "bun-hono": {
+    "load_ms": 10,
+    "tti_ms": 30,
+    "rows_ms": 5,
+    "post_rtt_ms": 1.91,
+    "sse_first_ms": 2.1,
+    "sse_jitter_ms": 0.81,
+    "sse_events": 31,
+    "measured": true
+  },
+  "bun-elysia": {
+    "load_ms": 8,
+    "tti_ms": 32,
+    "rows_ms": 2.68,
+    "post_rtt_ms": 1.93,
+    "sse_first_ms": 103,
+    "sse_jitter_ms": 0.5,
+    "sse_events": 31,
+    "measured": true
+  },
+  "deno-oak": {
+    "load_ms": 8,
+    "tti_ms": 35,
+    "rows_ms": 2.84,
+    "post_rtt_ms": 2.32,
+    "sse_first_ms": 103,
+    "sse_jitter_ms": 1.27,
+    "sse_events": 31,
+    "measured": true
+  },
+  "deno-fresh": {
+    "load_ms": 8,
+    "tti_ms": 23,
+    "rows_ms": 2.54,
+    "post_rtt_ms": 1.86,
+    "sse_first_ms": 103.7,
+    "sse_jitter_ms": 1.59,
+    "sse_events": 31,
+    "measured": true
+  },
+  "go-nethttp": {
+    "load_ms": 7,
+    "tti_ms": 35,
+    "rows_ms": 2.66,
+    "post_rtt_ms": 1.85,
+    "sse_first_ms": 101.9,
+    "sse_jitter_ms": 1.07,
+    "sse_events": 31,
+    "measured": true
+  },
+  "go-fiber": {
+    "load_ms": 7,
+    "tti_ms": 23,
+    "rows_ms": 4.52,
+    "post_rtt_ms": 1.9,
+    "sse_first_ms": 1,
+    "sse_jitter_ms": 0.55,
+    "sse_events": 31,
+    "measured": true
+  },
+  "go-echo": {
+    "load_ms": 8,
+    "tti_ms": 35,
+    "rows_ms": 2.88,
+    "post_rtt_ms": 1.91,
+    "sse_first_ms": 103.3,
+    "sse_jitter_ms": 0.33,
+    "sse_events": 31,
+    "measured": true
+  },
+  "go-gin": {
+    "load_ms": 7,
+    "tti_ms": 23,
+    "rows_ms": 4.7,
+    "post_rtt_ms": 1.82,
+    "sse_first_ms": 102.8,
+    "sse_jitter_ms": 0.42,
+    "sse_events": 31,
+    "measured": true
+  },
+  "rust-axum": {
+    "load_ms": 8,
+    "tti_ms": 35,
+    "rows_ms": 2.64,
+    "post_rtt_ms": 2.34,
+    "sse_first_ms": 43.4,
+    "sse_jitter_ms": 7.3,
+    "sse_events": 31,
+    "measured": true
+  },
+  "rust-actix": {
+    "load_ms": 8,
+    "tti_ms": 34,
+    "rows_ms": 2.84,
+    "post_rtt_ms": 2.08,
+    "sse_first_ms": 5.6,
+    "sse_jitter_ms": 0.95,
+    "sse_events": 31,
+    "measured": true
+  },
+  "py-fastapi": {
+    "load_ms": 8,
+    "tti_ms": 24,
+    "rows_ms": 47.86,
+    "post_rtt_ms": 44,
+    "sse_first_ms": 59.5,
+    "sse_jitter_ms": 7.52,
+    "sse_events": 31,
+    "measured": true
+  },
+  "py-flask": {
+    "load_ms": 10,
+    "tti_ms": 36,
+    "rows_ms": 3.6,
+    "post_rtt_ms": 2.55,
+    "sse_first_ms": 2.1,
+    "sse_jitter_ms": 1.07,
+    "sse_events": 31,
+    "measured": true
+  },
+  "py-django": {
+    "load_ms": 8,
+    "tti_ms": 23,
+    "rows_ms": 5.2,
+    "post_rtt_ms": 2.1,
+    "sse_first_ms": 2.6,
+    "sse_jitter_ms": 0.63,
+    "sse_events": 31,
+    "measured": true
+  },
+  "csharp-aspnet": {
+    "load_ms": 8,
+    "tti_ms": 36,
+    "rows_ms": 2.94,
+    "post_rtt_ms": 2.46,
+    "sse_first_ms": 2.1,
+    "sse_jitter_ms": 1.81,
+    "sse_events": 31,
+    "measured": true
+  },
+  "java-spring": {
+    "load_ms": 8,
+    "tti_ms": 24,
+    "rows_ms": 6.56,
+    "post_rtt_ms": 2.88,
+    "sse_first_ms": 5,
+    "sse_jitter_ms": 1,
+    "sse_events": 31,
+    "measured": true
+  },
+  "java-vertx": {
+    "load_ms": 9,
+    "tti_ms": 27,
+    "rows_ms": 3.54,
+    "post_rtt_ms": 2.75,
+    "sse_first_ms": 104.1,
+    "sse_jitter_ms": 0.77,
+    "sse_events": 31,
+    "measured": true
+  },
+  "elixir-phoenix": {
+    "load_ms": 12,
+    "tti_ms": 32,
+    "rows_ms": 5.44,
+    "post_rtt_ms": 2.22,
+    "sse_first_ms": 2.3,
+    "sse_jitter_ms": 1.07,
+    "sse_events": 31,
+    "measured": true
+  },
+  "php-laravel": {
+    "load_ms": 11,
+    "tti_ms": 30,
+    "rows_ms": 11.94,
+    "post_rtt_ms": 7.8,
+    "sse_first_ms": 5.1,
+    "sse_jitter_ms": 0.38,
+    "sse_events": 31,
+    "measured": true
+  },
+  "ruby-rails": {
+    "load_ms": 7,
+    "tti_ms": 23,
+    "rows_ms": 4.18,
+    "post_rtt_ms": 3.22,
+    "sse_first_ms": 210.1,
+    "sse_jitter_ms": 141.59,
+    "sse_events": 31,
+    "measured": true
+  }
+}

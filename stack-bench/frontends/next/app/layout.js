@@ -1,0 +1,2 @@
+export const metadata={title:'next CEO console'};
+export default function RootLayout({children}){return <html><body style={{fontFamily:'system-ui',background:'#111',color:'#eee'}}>{children}</body></html>;}

@@ -1,0 +1,1 @@
+module.exports={output:'export',basePath:'/fe/next',distDir:'dist-next'};

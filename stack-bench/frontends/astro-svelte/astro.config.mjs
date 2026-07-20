@@ -1,0 +1,1 @@
+import {defineConfig} from 'astro/config';import svelte from '@astrojs/svelte';export default defineConfig({base:'/fe/astro-svelte',outDir:'dist',integrations:[svelte()]});

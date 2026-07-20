@@ -1,0 +1,16 @@
+vite v6.4.3 building for production...
+transforming...
+✓ 5 modules transformed.
+✗ Build failed in 51ms
+error during build:
+[vite-plugin-svelte] [plugin vite-plugin-svelte] src/App.svelte (8:7): src/App.svelte:8:7 `<tr>` cannot be a child of `<table>`. `<table>` only allows these children: `<caption>`, `<colgroup>`, `<tbody>`, `<thead>`, `<tfoot>`, `<style>`, `<script>`, `<template>`. The browser will 'repair' the HTML (by moving, removing, or inserting elements) which breaks Svelte's assumptions about the structure of your components.
+https://svelte.dev/e/node_invalid_placement
+file: src/App.svelte:8:7 (/home/ubuntu/stack-bench/frontends/svelte/src/App.svelte)
+
+  6 |  let sorted=$derived(sortRows(rows,key,dir));
+  7 |  </script>
+  8 |  <table><tr>{#each COLS as c}<th onclick={()=>{dir=key===c?-dir:1;key=c;}}>{c}</th>{/each}</tr>
+                                                                                                     ^
+  9 |  {#each sorted as r (r.id)}<tr>{#each COLS as c}<td>{r[c]}</td>{/each}</tr>{/each}</table>
+
+

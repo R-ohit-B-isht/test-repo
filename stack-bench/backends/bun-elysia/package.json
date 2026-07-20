@@ -1,0 +1,8 @@
+{
+  "name": "be-bun-elysia",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "elysia": "^1.2.9"
+  }
+}

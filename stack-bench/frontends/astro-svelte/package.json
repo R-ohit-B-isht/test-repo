@@ -1,0 +1,13 @@
+{
+  "name": "fe-astro-svelte",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "astro build"
+  },
+  "dependencies": {
+    "astro": "^5.1.1",
+    "@astrojs/svelte": "^7.0.0",
+    "svelte": "^5.16.0"
+  }
+}

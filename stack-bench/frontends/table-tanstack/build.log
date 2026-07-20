@@ -1,0 +1,31 @@
+16:51:06 [content] Syncing content
+16:51:06 [content] Synced content
+16:51:06 [types] Generated 78ms
+16:51:06 [build] output: "static"
+16:51:06 [build] mode: "static"
+16:51:06 [build] directory: /home/ubuntu/stack-bench/frontends/table-tanstack/dist/
+16:51:06 [build] Collecting build info...
+16:51:06 [build] ✓ Completed in 88ms.
+16:51:06 [build] Building static entrypoints...
+16:51:06 [vite] ✓ built in 351ms
+16:51:06 [build] ✓ Completed in 376ms.
+
+ building client (vite) 
+16:51:06 [vite] transforming...
+16:51:07 [vite] ✓ 17 modules transformed.
+16:51:07 [vite] rendering chunks...
+16:51:07 [vite] computing gzip size...
+16:51:07 [vite] dist/_astro/client.Iw_JPPzz.js           2.31 kB │ gzip:  1.25 kB
+16:51:07 [vite] dist/_astro/hooks.module.BaW6WDMr.js     2.70 kB │ gzip:  1.19 kB
+16:51:07 [vite] dist/_astro/signals.module.D5LX1eID.js   7.85 kB │ gzip:  3.04 kB
+16:51:07 [vite] dist/_astro/preact.module.Bo1bAbag.js   10.73 kB │ gzip:  4.54 kB
+16:51:07 [vite] dist/_astro/Island.5gqUqkcw.js          81.73 kB │ gzip: 23.64 kB
+16:51:07 [vite] ✓ built in 265ms
+
+ generating static routes 
+16:51:07 ▶ src/pages/index.astro
+16:51:07   └─ /index.html (+5ms) 
+16:51:07 ✓ Completed in 12ms.
+
+16:51:07 [build] 1 page(s) built in 750ms
+16:51:07 [build] Complete!

@@ -1,0 +1,11 @@
+{
+  "name": "fe-vanilla",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build --base=/fe/vanilla/"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}

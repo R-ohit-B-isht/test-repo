@@ -1,0 +1,35 @@
+npm warn deprecated glob@10.4.5: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me
+⚡  We will scaffold your app in a few seconds..
+
+[32mCREATE[39m node-nestjs/.eslintrc.js (663 bytes)
+[32mCREATE[39m node-nestjs/.prettierrc (51 bytes)
+[32mCREATE[39m node-nestjs/README.md (5205 bytes)
+[32mCREATE[39m node-nestjs/nest-cli.json (171 bytes)
+[32mCREATE[39m node-nestjs/package.json (1947 bytes)
+[32mCREATE[39m node-nestjs/tsconfig.build.json (97 bytes)
+[32mCREATE[39m node-nestjs/tsconfig.json (546 bytes)
+[32mCREATE[39m node-nestjs/src/app.controller.ts (274 bytes)
+[32mCREATE[39m node-nestjs/src/app.module.ts (249 bytes)
+[32mCREATE[39m node-nestjs/src/app.service.ts (142 bytes)
+[32mCREATE[39m node-nestjs/src/main.ts (228 bytes)
+[32mCREATE[39m node-nestjs/src/app.controller.spec.ts (617 bytes)
+[32mCREATE[39m node-nestjs/test/jest-e2e.json (183 bytes)
+[32mCREATE[39m node-nestjs/test/app.e2e-spec.ts (630 bytes)
+
+- Installation in progress... ☕
+✔ Installation in progress... ☕
+
+🚀  Successfully created project node-nestjs
+👉  Get started with the following commands:
+
+$ cd node-nestjs
+$ npm run start
+
+                                         
+                          Thanks for installing Nest 🙏
+                 Please consider donating to our open collective
+                        to help us maintain this package.
+                                         
+                                         
+                   🍷  Donate: https://opencollective.com/nest
+                                         

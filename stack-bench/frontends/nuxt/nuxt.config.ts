@@ -1,0 +1,1 @@
+export default defineNuxtConfig({ssr:false,app:{baseURL:'/fe/nuxt/'},nitro:{output:{publicDir:'dist'}}});

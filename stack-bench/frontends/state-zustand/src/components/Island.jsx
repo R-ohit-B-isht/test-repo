@@ -1,0 +1,22 @@
+import {useEffect} from 'preact/hooks';
+import {create} from 'zustand';
+const useStore=create((set)=>({rows:[],setRows:(rows)=>set({rows}),applyEv:(ev)=>set((s)=>({rows:s.rows.map(r=>r.id===ev.row_id?{...r,latency_ms:ev.latency_ms,status:ev.status}:r)}))}));
+import {h} from 'preact';
+import {COLS,getN,wireCommon,markReady} from '../shared.js';
+
+function Rows({rows}){
+  return h('table',null,h('tbody',null,rows.map(r=>h('tr',{key:r.id},COLS.map(c=>h('td',{key:c},String(r[c])))))));
+}
+function instrument(update){
+  return (ev)=>{const t0=performance.now();update(ev);requestAnimationFrame(()=>window.__stateUpdateMs.push(performance.now()-t0));};
+}
+
+export default function Island(){
+  const rows=useStore(s=>s.rows);
+  useEffect(()=>{
+    window.__stateUpdateMs=[];
+    fetch('/api/rows?n='+getN()).then(r=>r.json()).then(d=>{useStore.getState().setRows(d);requestAnimationFrame(()=>markReady());});
+    wireCommon(instrument(ev=>useStore.getState().applyEv(ev)));
+  },[]);
+  return h(Rows,{rows});
+}

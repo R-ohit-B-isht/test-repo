@@ -1,0 +1,15 @@
+{
+  "name": "fe-sveltekit",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@sveltejs/kit": "^2.15.1",
+    "@sveltejs/adapter-static": "^3.0.8",
+    "@sveltejs/vite-plugin-svelte": "^5.0.0",
+    "svelte": "^5.16.0",
+    "vite": "^6.0.0"
+  }
+}

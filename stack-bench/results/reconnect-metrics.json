@@ -1,0 +1,9 @@
+{
+  "events_before_kill": 29,
+  "server_down_ms": 3005,
+  "gap_ms": 6209,
+  "resume_after_restart_ms": 3106,
+  "reconnect_error_events": 2,
+  "resumed": true,
+  "note": "EventSource reconnects automatically (default ~1-3s backoff); no client code needed. Gap = last event before kill -> first after restart."
+}

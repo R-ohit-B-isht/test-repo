@@ -1,0 +1,18 @@
+vite v6.4.3 building for production...
+transforming...
+✓ 11 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                                                          0.38 kB │ gzip:  0.27 kB
+dist/assets/bundle-graph-DgvoMQN4.json                                                   0.45 kB │ gzip:  0.27 kB
+dist/q-manifest.json                                                                     4.46 kB │ gzip:  1.05 kB
+dist/assets/main.tsx_Table_component_table_tbody_tr_th_onClick_1QXdE3tF6eM-BxW5pFEq.js   0.17 kB │ gzip:  0.16 kB
+dist/assets/index-CtrO44Q9.js                                                            0.30 kB │ gzip:  0.24 kB
+dist/assets/main.tsx_Table_component_useVisibleTask_kYsxF0GIXCc-B1vIyuDk.js              0.43 kB │ gzip:  0.29 kB
+dist/assets/main.tsx_Table_component_bq0dc0fyhxM-B-fj--C8.js                             0.75 kB │ gzip:  0.44 kB
+dist/assets/shared-CB6Bs53o.js                                                           0.89 kB │ gzip:  0.55 kB
+dist/assets/preload-helper-BWp3Av0I.js                                                   1.29 kB │ gzip:  0.73 kB
+dist/assets/preloader-C-Y9QxqI.js                                                        2.51 kB │ gzip:  1.44 kB
+dist/assets/qwikloader-naDMFAHy.js                                                       3.10 kB │ gzip:  1.68 kB
+dist/assets/core.min-ChzOuR58.js                                                        48.24 kB │ gzip: 19.44 kB
+✓ built in 295ms

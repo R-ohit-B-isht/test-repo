@@ -1,0 +1,14 @@
+{
+  "name": "fe-mithril",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build --base=/fe/mithril/"
+  },
+  "dependencies": {
+    "mithril": "^2.2.11"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}

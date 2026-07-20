@@ -1,0 +1,17 @@
+vite v6.4.3 building for production...
+
+The HTML provided is malformed and will yield unexpected output when evaluated by a browser.
+
+User HTML:
+ <table><tr></tr></table>
+Browser HTML:
+ <table><tbody><tr></tr></tbody></table>
+Original HTML:
+ <table><tr></tr></table>
+transforming...
+✓ 7 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                 0.54 kB │ gzip: 0.37 kB
+dist/assets/index-QByRyTba.js  11.29 kB │ gzip: 4.78 kB
+✓ built in 185ms

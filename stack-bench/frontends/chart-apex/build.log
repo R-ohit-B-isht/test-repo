@@ -1,0 +1,36 @@
+17:10:07 [content] Syncing content
+17:10:07 [content] Synced content
+17:10:07 [types] Generated 172ms
+17:10:07 [build] output: "static"
+17:10:07 [build] mode: "static"
+17:10:07 [build] directory: /home/ubuntu/stack-bench/frontends/chart-apex/dist/
+17:10:07 [build] Collecting build info...
+17:10:07 [build] ✓ Completed in 182ms.
+17:10:07 [build] Building static entrypoints...
+17:10:08 [vite] ✓ built in 354ms
+17:10:08 [build] ✓ Completed in 378ms.
+
+ building client (vite) 
+17:10:08 [vite] transforming...
+17:10:08 [vite] ✓ 11 modules transformed.
+17:10:08 [vite] rendering chunks...
+17:10:08 [vite] computing gzip size...
+17:10:08 [vite] dist/_astro/hooks.module.DgakmSIW.js      1.88 kB │ gzip:   0.85 kB
+17:10:08 [vite] dist/_astro/client.clmddohY.js            2.30 kB │ gzip:   1.25 kB
+17:10:08 [vite] dist/_astro/signals.module.CrLYok3U.js    7.85 kB │ gzip:   3.04 kB
+17:10:08 [vite] dist/_astro/preact.module.6wYYbtvx.js    10.61 kB │ gzip:   4.50 kB
+17:10:08 [vite] dist/_astro/Island.hR6yekPW.js          576.22 kB │ gzip: 156.53 kB
+17:10:08 [WARN] [vite] 
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+17:10:08 [vite] ✓ built in 841ms
+
+ generating static routes 
+17:10:09 ▶ src/pages/index.astro
+17:10:09   └─ /index.html (+5ms) 
+17:10:09 ✓ Completed in 13ms.
+
+17:10:09 [build] 1 page(s) built in 1.42s
+17:10:09 [build] Complete!

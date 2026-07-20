@@ -1,0 +1,1463 @@
+{
+  "generated_at": "2026-07-20T17:38:28.813Z",
+  "environment": {
+    "machine": "8 vCPU, 31GB RAM, Linux 5.15 (Devin VM)",
+    "node": "v20.18.1",
+    "bun": "1.3.14",
+    "deno": "2.9.3",
+    "go": "1.23.4",
+    "rust": "stable 2026-06",
+    "python": "3.10.12",
+    "java": "17 (temurin)",
+    "dotnet": "8.0.423",
+    "load_tool": "oha 1.15 (5s, 64 conns, /api/rows 200-row JSON)",
+    "browser": "Playwright Chromium, cold contexts, median of 3",
+    "caveats": [
+      "Localhost benchmarks on a shared VM: numbers have run-to-run noise (~5-15%); treat orderings of nearby bars as ties.",
+      "SSE memory soak was 45s (not 5min) per frontend to fit the time budget; all frames arrive at 10/s so heap growth is near-linear to observe leaks. Labeled as such.",
+      "FastAPI measured with default JSONResponse (jsonable_encoder dominates); ORJSONResponse typically gives 5-10x more RPS on this payload.",
+      "Flask/Django ran gunicorn 4 workers x 8 threads: 200 concurrent SSE connections exceed the 32-slot sync capacity - most connections stalled. This is a real deployment constraint of sync WSGI, not a measurement artifact.",
+      "Docker image sizes: all 23 backends now have REAL built images (docker build, uncompressed size); the earlier estimated column is retained for comparison. Rust images use debian-slim runtime (~65MB base) - musl/distroless would land near the Go numbers. Registry-compressed sizes are typically 2-3x smaller.",
+      "Chart update cost = synchronous JS time per SSE event with 300 retained points; Recharts/state-management costs measured through requestAnimationFrame (includes render commit).",
+      "Realtime transport test: 200 concurrent SSE/WebSocket conns at 10 ev/s each; LISTEN/NOTIFY test used 50 conns (one Postgres conn per LISTEN in this naive impl - production should fan out from a single LISTEN connection).",
+      "All 23 backends measured locally. Version caveats: Phoenix 1.6 on Elixir 1.16/OTP 24 (apt Erlang); Laravel 10 on PHP 8.1 via artisan serve + PHP_CLI_SERVER_WORKERS=8 (dev server - production php-fpm/Octane is faster); Rails 7.1 on Ruby 3.0 (system ruby, no YJIT - YJIT typically +15-30%).",
+      "Frontend numbers for 21 frameworks are all locally measured; js-framework-benchmark (krausest) agrees directionally with our 10k-row ordering."
+    ]
+  },
+  "workload": {
+    "sse": "GET /api/events - SSE stream, 10 events/sec",
+    "list": "GET /api/rows - 200-row JSON (7 columns)",
+    "action": "POST /api/action - JSON echo",
+    "frontend": "live feed (last 20 events) + sortable 200-row table updated from SSE; 10k-row variant via ?n=10000"
+  },
+  "frontends": {
+    "vanilla": {
+      "label": "Vanilla JS",
+      "ts": "manual (tsc setup)",
+      "ecosystem": "n/a (platform)",
+      "hiring_ai": "universal",
+      "maintenance_risk": "none (no deps)",
+      "railway_fit": "any static host; trivial",
+      "notes": "fastest possible; you write everything yourself",
+      "measured": true,
+      "bundle_gzip_kb": 1.4,
+      "bundle_raw_kb": 2.7,
+      "build_s": 0.3,
+      "load_ms": 7,
+      "tti_ms": 33,
+      "table10k_ms": 72,
+      "heap_after_soak_mb": 1.22,
+      "heap_initial_mb": 1.67
+    },
+    "react": {
+      "label": "React 18 (Vite)",
+      "ts": "first-class",
+      "ecosystem": "largest",
+      "hiring_ai": "best-in-class; AI agents strongest here",
+      "maintenance_risk": "very low",
+      "railway_fit": "static build; trivial",
+      "notes": "",
+      "measured": true,
+      "bundle_gzip_kb": 45.7,
+      "bundle_raw_kb": 141.2,
+      "build_s": 0.7,
+      "load_ms": 12,
+      "tti_ms": 46,
+      "table10k_ms": 309,
+      "heap_after_soak_mb": 3.51,
+      "heap_initial_mb": 2.54
+    },
+    "preact": {
+      "label": "Preact 10",
+      "ts": "first-class",
+      "ecosystem": "large (React compat)",
+      "hiring_ai": "high (React skills transfer)",
+      "maintenance_risk": "low",
+      "railway_fit": "static build; trivial",
+      "notes": "React API at 1/10 the size",
+      "measured": true,
+      "bundle_gzip_kb": 6.6,
+      "bundle_raw_kb": 15.1,
+      "build_s": 0.3,
+      "load_ms": 7,
+      "tti_ms": 55,
+      "table10k_ms": 128,
+      "heap_after_soak_mb": 5.19,
+      "heap_initial_mb": 2.12
+    },
+    "next": {
+      "label": "Next.js 15",
+      "ts": "first-class",
+      "ecosystem": "largest (React)",
+      "hiring_ai": "best-in-class",
+      "maintenance_risk": "low, but framework churn (app router, RSC)",
+      "railway_fit": "good (node server or static export); heavier build",
+      "notes": "SSR/RSC unnecessary for an internal SPA console",
+      "measured": true,
+      "bundle_gzip_kb": 224.8,
+      "bundle_raw_kb": 739.7,
+      "build_s": 8.4,
+      "load_ms": 36,
+      "tti_ms": 68,
+      "table10k_ms": 327,
+      "heap_after_soak_mb": 7.98,
+      "heap_initial_mb": 3.22
+    },
+    "react-router": {
+      "label": "React Router 7 (Remix)",
+      "ts": "first-class",
+      "ecosystem": "large (React)",
+      "hiring_ai": "high",
+      "maintenance_risk": "low-medium (Remix->RR7 rebrand churn)",
+      "railway_fit": "good (SPA mode = static)",
+      "notes": "",
+      "measured": true,
+      "bundle_gzip_kb": 89.4,
+      "bundle_raw_kb": 268.5,
+      "build_s": 1.3,
+      "load_ms": 10,
+      "tti_ms": 63,
+      "table10k_ms": 346,
+      "heap_after_soak_mb": 6.21,
+      "heap_initial_mb": 3.09
+    },
+    "vue": {
+      "label": "Vue 3 (Vite)",
+      "ts": "first-class",
+      "ecosystem": "very large",
+      "hiring_ai": "high",
+      "maintenance_risk": "low",
+      "railway_fit": "static build; trivial",
+      "notes": "",
+      "measured": true,
+      "bundle_gzip_kb": 25.5,
+      "bundle_raw_kb": 63.6,
+      "build_s": 0.6,
+      "load_ms": 17,
+      "tti_ms": 45,
+      "table10k_ms": 128,
+      "heap_after_soak_mb": 6.76,
+      "heap_initial_mb": 2.42
+    },
+    "nuxt": {
+      "label": "Nuxt 3",
+      "ts": "first-class",
+      "ecosystem": "large (Vue)",
+      "hiring_ai": "medium-high",
+      "maintenance_risk": "low-medium",
+      "railway_fit": "good (node preset or static)",
+      "notes": "SSR unnecessary for this use case",
+      "measured": true,
+      "bundle_gzip_kb": 59.2,
+      "bundle_raw_kb": 155.2,
+      "build_s": 2.5,
+      "load_ms": 14,
+      "tti_ms": 48,
+      "table10k_ms": 146,
+      "heap_after_soak_mb": 2.36,
+      "heap_initial_mb": 2.88
+    },
+    "angular": {
+      "label": "Angular 19",
+      "ts": "native",
+      "ecosystem": "large, enterprise",
+      "hiring_ai": "medium-high (enterprise pool)",
+      "maintenance_risk": "low (Google LTS)",
+      "railway_fit": "static build; trivial",
+      "notes": "heavyweight for a small console",
+      "measured": true,
+      "bundle_gzip_kb": 71.9,
+      "bundle_raw_kb": 228.9,
+      "build_s": 1.8,
+      "load_ms": 40,
+      "tti_ms": 76,
+      "table10k_ms": 212,
+      "heap_after_soak_mb": 3.72,
+      "heap_initial_mb": 6.73
+    },
+    "svelte": {
+      "label": "Svelte 5 (Vite)",
+      "ts": "first-class",
+      "ecosystem": "medium, growing",
+      "hiring_ai": "medium; AI agents good",
+      "maintenance_risk": "low",
+      "railway_fit": "static build; trivial",
+      "notes": "runes rewrite settled in v5",
+      "measured": true,
+      "bundle_gzip_kb": 14.2,
+      "bundle_raw_kb": 36.6,
+      "build_s": 0.8,
+      "load_ms": 12,
+      "tti_ms": 47,
+      "table10k_ms": 310,
+      "heap_after_soak_mb": 5.84,
+      "heap_initial_mb": 3.51
+    },
+    "sveltekit": {
+      "label": "SvelteKit 2",
+      "ts": "first-class",
+      "ecosystem": "medium",
+      "hiring_ai": "medium",
+      "maintenance_risk": "low",
+      "railway_fit": "good (adapter-node or static)",
+      "notes": "",
+      "measured": true,
+      "bundle_gzip_kb": 34.7,
+      "bundle_raw_kb": 83.7,
+      "build_s": 2.2,
+      "load_ms": 8,
+      "tti_ms": 60,
+      "table10k_ms": 330,
+      "heap_after_soak_mb": 6.06,
+      "heap_initial_mb": 3.88
+    },
+    "solid": {
+      "label": "SolidJS 1.9",
+      "ts": "first-class",
+      "ecosystem": "small-medium",
+      "hiring_ai": "medium-low; AI agents decent (JSX)",
+      "maintenance_risk": "medium (small core team)",
+      "railway_fit": "static build; trivial",
+      "notes": "top-tier fine-grained reactivity perf",
+      "measured": true,
+      "bundle_gzip_kb": 5.1,
+      "bundle_raw_kb": 11.5,
+      "build_s": 0.5,
+      "load_ms": 9,
+      "tti_ms": 38,
+      "table10k_ms": 105,
+      "heap_after_soak_mb": 2.28,
+      "heap_initial_mb": 2.4
+    },
+    "solidstart": {
+      "label": "SolidStart 1",
+      "ts": "first-class",
+      "ecosystem": "small",
+      "hiring_ai": "low",
+      "maintenance_risk": "medium-high (young)",
+      "railway_fit": "ok (vinxi node or static)",
+      "notes": "",
+      "measured": true,
+      "bundle_gzip_kb": 6.2,
+      "bundle_raw_kb": 14.4,
+      "build_s": 3.9,
+      "load_ms": 9,
+      "tti_ms": 34,
+      "table10k_ms": 109,
+      "heap_after_soak_mb": 2.17,
+      "heap_initial_mb": 2.42
+    },
+    "qwik": {
+      "label": "Qwik 1.12",
+      "ts": "first-class",
+      "ecosystem": "small",
+      "hiring_ai": "low",
+      "maintenance_risk": "medium-high (Builder.io pivot)",
+      "railway_fit": "ok",
+      "notes": "resumability irrelevant for a long-lived dashboard tab",
+      "measured": true,
+      "bundle_gzip_kb": 25,
+      "bundle_raw_kb": 56.7,
+      "build_s": 0.5,
+      "load_ms": 12,
+      "tti_ms": 45,
+      "table10k_ms": 197,
+      "heap_after_soak_mb": 2.58,
+      "heap_initial_mb": 2.73
+    },
+    "astro": {
+      "label": "Astro 5",
+      "ts": "first-class",
+      "ecosystem": "medium, growing fast",
+      "hiring_ai": "medium",
+      "maintenance_risk": "low",
+      "railway_fit": "static build; trivial",
+      "notes": "islands model; here it's just a static shell + script",
+      "measured": true,
+      "bundle_gzip_kb": 0.9,
+      "bundle_raw_kb": 1.8,
+      "build_s": 1.1,
+      "load_ms": 6,
+      "tti_ms": 34,
+      "table10k_ms": 73,
+      "heap_after_soak_mb": 1.33,
+      "heap_initial_mb": 1.73
+    },
+    "htmx": {
+      "label": "htmx 1.9",
+      "ts": "n/a (attributes)",
+      "ecosystem": "small but loud",
+      "hiring_ai": "medium (backend devs like it)",
+      "maintenance_risk": "low (tiny, stable API)",
+      "railway_fit": "trivial (server-rendered)",
+      "notes": "client-side JSON table isn't idiomatic htmx; shines with server-rendered fragments",
+      "measured": true,
+      "bundle_gzip_kb": 17.3,
+      "bundle_raw_kb": 50.6,
+      "build_s": 0.5,
+      "load_ms": 10,
+      "tti_ms": 38,
+      "table10k_ms": 86,
+      "heap_after_soak_mb": 1.62,
+      "heap_initial_mb": 1.92
+    },
+    "alpine": {
+      "label": "Alpine.js 3",
+      "ts": "weak",
+      "ecosystem": "small",
+      "hiring_ai": "medium",
+      "maintenance_risk": "low",
+      "railway_fit": "trivial",
+      "notes": "template-scan reactivity collapses at 10k rows (measured)",
+      "measured": true,
+      "bundle_gzip_kb": 17.5,
+      "bundle_raw_kb": 47.6,
+      "build_s": 0.4,
+      "load_ms": 12,
+      "tti_ms": 84,
+      "table10k_ms": 8244,
+      "heap_after_soak_mb": 6.88,
+      "heap_initial_mb": 12.37
+    },
+    "lit": {
+      "label": "Lit 3",
+      "ts": "first-class",
+      "ecosystem": "medium (web components)",
+      "hiring_ai": "medium-low",
+      "maintenance_risk": "low (Google)",
+      "railway_fit": "static build; trivial",
+      "notes": "",
+      "measured": true,
+      "bundle_gzip_kb": 8.1,
+      "bundle_raw_kb": 21,
+      "build_s": 0.4,
+      "load_ms": 11,
+      "tti_ms": 41,
+      "table10k_ms": 217,
+      "heap_after_soak_mb": 2.3,
+      "heap_initial_mb": 2.21
+    },
+    "ember-app": {
+      "label": "Ember 5",
+      "ts": "good",
+      "ecosystem": "medium, shrinking",
+      "hiring_ai": "low",
+      "maintenance_risk": "medium (declining mindshare)",
+      "railway_fit": "static build",
+      "notes": "largest bundle measured",
+      "measured": true,
+      "bundle_gzip_kb": 189.6,
+      "bundle_raw_kb": 636.2,
+      "build_s": 8.1,
+      "load_ms": 50,
+      "tti_ms": 99,
+      "table10k_ms": 675,
+      "heap_after_soak_mb": 11.22,
+      "heap_initial_mb": 6.5
+    },
+    "mithril": {
+      "label": "Mithril 2",
+      "ts": "ok (community types)",
+      "ecosystem": "small",
+      "hiring_ai": "low",
+      "maintenance_risk": "medium (slow development)",
+      "railway_fit": "trivial",
+      "notes": "",
+      "measured": true,
+      "bundle_gzip_kb": 11,
+      "bundle_raw_kb": 28.1,
+      "build_s": 0.4,
+      "load_ms": 10,
+      "tti_ms": 41,
+      "table10k_ms": 128,
+      "heap_after_soak_mb": 7.74,
+      "heap_initial_mb": 2.14
+    },
+    "inferno": {
+      "label": "Inferno 8",
+      "ts": "ok",
+      "ecosystem": "very small",
+      "hiring_ai": "low (React-like helps)",
+      "maintenance_risk": "high (minimal maintenance)",
+      "railway_fit": "trivial",
+      "notes": "fastest 10k render among React-likes (measured)",
+      "measured": true,
+      "bundle_gzip_kb": 9.7,
+      "bundle_raw_kb": 25.1,
+      "build_s": 0.4,
+      "load_ms": 9,
+      "tti_ms": 34,
+      "table10k_ms": 87,
+      "heap_after_soak_mb": 4.38,
+      "heap_initial_mb": 2.14
+    },
+    "vanjs": {
+      "label": "VanJS 1.5",
+      "ts": "ok",
+      "ecosystem": "tiny",
+      "hiring_ai": "low",
+      "maintenance_risk": "high (one maintainer)",
+      "railway_fit": "trivial",
+      "notes": "~1.5kB total; full re-render pattern hurts at 10k rows with SSE",
+      "measured": true,
+      "bundle_gzip_kb": 2.6,
+      "bundle_raw_kb": 5,
+      "build_s": 0.3,
+      "load_ms": 8,
+      "tti_ms": 42,
+      "table10k_ms": 143,
+      "heap_after_soak_mb": 1.25,
+      "heap_initial_mb": 1.71
+    }
+  },
+  "backends": {
+    "node-express": {
+      "label": "Node + Express 4",
+      "ts": "good (@types)",
+      "ecosystem": "largest",
+      "hiring_ai": "best-in-class",
+      "maintenance_risk": "low (v4 in maintenance; v5 slow)",
+      "railway_fit": "first-class (nixpacks auto)",
+      "measured": true,
+      "cold_start_ms": 71,
+      "rss_idle_mb": 54.96484375,
+      "rps": 7306,
+      "p99_ms": 16.69,
+      "rss_load_mb": 115.15625,
+      "sse200_cpu_pct": 3.6,
+      "rss_sse200_mb": 63.328125,
+      "image_mb_est": "~180 (node:20-alpine + deps) [estimated]",
+      "image_mb_measured": 132.5
+    },
+    "node-fastify": {
+      "label": "Node + Fastify 5",
+      "ts": "first-class",
+      "ecosystem": "large",
+      "hiring_ai": "high",
+      "maintenance_risk": "low",
+      "railway_fit": "first-class",
+      "measured": true,
+      "cold_start_ms": 107,
+      "rss_idle_mb": 58.15625,
+      "rps": 12856,
+      "p99_ms": 9.47,
+      "rss_load_mb": 91.92578125,
+      "sse200_cpu_pct": 2,
+      "rss_sse200_mb": 91.921875,
+      "image_mb_est": "~180 (node:20-alpine + deps) [estimated]",
+      "image_mb_measured": 138.1
+    },
+    "node-hono": {
+      "label": "Node + Hono 4",
+      "ts": "first-class",
+      "ecosystem": "medium, fast-growing",
+      "hiring_ai": "medium-high",
+      "maintenance_risk": "low",
+      "railway_fit": "first-class; same code runs on Bun/Deno/Workers",
+      "measured": true,
+      "cold_start_ms": 66,
+      "rss_idle_mb": 53.9765625,
+      "rps": 11776,
+      "p99_ms": 10.23,
+      "rss_load_mb": 89.0234375,
+      "sse200_cpu_pct": 5,
+      "rss_sse200_mb": 96.203125,
+      "image_mb_est": "~175 (node:20-alpine + deps) [estimated]",
+      "image_mb_measured": 131.2
+    },
+    "node-nestjs": {
+      "label": "Node + NestJS 10",
+      "ts": "native",
+      "ecosystem": "large, enterprise",
+      "hiring_ai": "high",
+      "maintenance_risk": "low",
+      "railway_fit": "first-class",
+      "measured": true,
+      "cold_start_ms": 172,
+      "rss_idle_mb": 74.0859375,
+      "rps": 7077,
+      "p99_ms": 17.26,
+      "rss_load_mb": 150.984375,
+      "sse200_cpu_pct": 2.2,
+      "rss_sse200_mb": 154.765625,
+      "image_mb_est": "~230 (node:20-alpine + deps) [estimated]",
+      "image_mb_measured": 313.3
+    },
+    "bun-hono": {
+      "label": "Bun + Hono 4",
+      "ts": "first-class",
+      "ecosystem": "medium",
+      "hiring_ai": "medium",
+      "maintenance_risk": "medium (Bun still maturing)",
+      "railway_fit": "good (bun runtime supported)",
+      "measured": true,
+      "cold_start_ms": 23,
+      "rss_idle_mb": 43.2421875,
+      "rps": 26995,
+      "p99_ms": 4.58,
+      "rss_load_mb": 68.24609375,
+      "sse200_cpu_pct": 7.1,
+      "rss_sse200_mb": 62.98046875,
+      "image_mb_est": "~130 (oven/bun:alpine) [estimated]",
+      "image_mb_measured": 99
+    },
+    "bun-elysia": {
+      "label": "Bun + Elysia 1.2",
+      "ts": "native (end-to-end types)",
+      "ecosystem": "small",
+      "hiring_ai": "low-medium",
+      "maintenance_risk": "medium",
+      "railway_fit": "good",
+      "measured": true,
+      "cold_start_ms": 46,
+      "rss_idle_mb": 58.56640625,
+      "rps": 29095,
+      "p99_ms": 4.21,
+      "rss_load_mb": 64.31640625,
+      "sse200_cpu_pct": 3.5,
+      "rss_sse200_mb": 71.23046875,
+      "image_mb_est": "~135 (oven/bun:alpine) [estimated]",
+      "image_mb_measured": 101.2
+    },
+    "deno-oak": {
+      "label": "Deno + Oak 17",
+      "ts": "native",
+      "ecosystem": "small-medium",
+      "hiring_ai": "low-medium",
+      "maintenance_risk": "medium",
+      "railway_fit": "ok (deno deploy is more natural)",
+      "measured": true,
+      "cold_start_ms": 64,
+      "rss_idle_mb": 63.75,
+      "rps": 27294,
+      "p99_ms": 3.07,
+      "rss_load_mb": 110.171875,
+      "sse200_cpu_pct": 3,
+      "rss_sse200_mb": 124.734375,
+      "image_mb_est": "~145 (denoland/deno:alpine) [estimated]",
+      "image_mb_measured": 114.9
+    },
+    "go-nethttp": {
+      "label": "Go net/http",
+      "ts": "n/a (Go)",
+      "ecosystem": "large",
+      "hiring_ai": "high",
+      "maintenance_risk": "very low (stdlib)",
+      "railway_fit": "excellent (tiny image, instant start)",
+      "measured": true,
+      "cold_start_ms": 21,
+      "rss_idle_mb": 6.2890625,
+      "rps": 97868,
+      "p99_ms": 5.22,
+      "rss_load_mb": 12.9609375,
+      "sse200_cpu_pct": 2.2,
+      "rss_sse200_mb": 14.28515625,
+      "image_mb_est": "~12 (scratch + 7.5MB static binary) [estimated]",
+      "image_mb_measured": 5.5
+    },
+    "go-fiber": {
+      "label": "Go + Fiber 2",
+      "ts": "n/a (Go)",
+      "ecosystem": "medium",
+      "hiring_ai": "medium",
+      "maintenance_risk": "low-medium (fasthttp quirks)",
+      "railway_fit": "excellent",
+      "measured": true,
+      "cold_start_ms": 22,
+      "rss_idle_mb": 6.8203125,
+      "rps": 71755,
+      "p99_ms": 5.97,
+      "rss_load_mb": 12.71875,
+      "sse200_cpu_pct": 2,
+      "rss_sse200_mb": 15.01953125,
+      "image_mb_est": "~16 (scratch + 11MB binary) [estimated]",
+      "image_mb_measured": 5.7
+    },
+    "go-echo": {
+      "label": "Go + Echo 4",
+      "ts": "n/a (Go)",
+      "ecosystem": "medium",
+      "hiring_ai": "medium-high",
+      "maintenance_risk": "low",
+      "railway_fit": "excellent",
+      "measured": true,
+      "cold_start_ms": 21,
+      "rss_idle_mb": 7.33203125,
+      "rps": 97382,
+      "p99_ms": 5.35,
+      "rss_load_mb": 13.75390625,
+      "sse200_cpu_pct": 2.2,
+      "rss_sse200_mb": 15.76171875,
+      "image_mb_est": "~15 (scratch + 10MB binary) [estimated]",
+      "image_mb_measured": 5.9
+    },
+    "go-gin": {
+      "label": "Go + Gin",
+      "ts": "n/a (Go)",
+      "ecosystem": "large (most popular Go web fw)",
+      "hiring_ai": "high",
+      "maintenance_risk": "low",
+      "railway_fit": "excellent",
+      "measured": true,
+      "cold_start_ms": 21,
+      "rss_idle_mb": 9.625,
+      "rps": 54416,
+      "p99_ms": 5.18,
+      "rss_load_mb": 18.91796875,
+      "sse200_cpu_pct": 2.1,
+      "rss_sse200_mb": 19.29296875,
+      "image_mb_est": "~17 (scratch + 12MB binary) [estimated]",
+      "image_mb_measured": 13.8
+    },
+    "rust-axum": {
+      "label": "Rust + Axum 0.8",
+      "ts": "n/a (Rust)",
+      "ecosystem": "medium (tokio)",
+      "hiring_ai": "medium-low; AI agents good on Axum",
+      "maintenance_risk": "low",
+      "railway_fit": "excellent (tiny image) but slow CI builds",
+      "measured": true,
+      "cold_start_ms": 22,
+      "rss_idle_mb": 1.375,
+      "rps": 56672,
+      "p99_ms": 4.34,
+      "rss_load_mb": 7.359375,
+      "sse200_cpu_pct": 1.5,
+      "rss_sse200_mb": 9.13671875,
+      "image_mb_est": "~10 (distroless + 5MB binary) [estimated]",
+      "image_mb_measured": 73.2
+    },
+    "rust-actix": {
+      "label": "Rust + Actix-web 4",
+      "ts": "n/a (Rust)",
+      "ecosystem": "medium",
+      "hiring_ai": "medium-low",
+      "maintenance_risk": "low",
+      "railway_fit": "excellent but slow CI builds",
+      "measured": true,
+      "cold_start_ms": 21,
+      "rss_idle_mb": 4.27734375,
+      "rps": 94795,
+      "p99_ms": 6.62,
+      "rss_load_mb": 7.875,
+      "sse200_cpu_pct": 1.7,
+      "rss_sse200_mb": 7.875,
+      "image_mb_est": "~12 (distroless + 7MB binary) [estimated]",
+      "image_mb_measured": 77.5
+    },
+    "py-fastapi": {
+      "label": "Python + FastAPI (uvicorn)",
+      "ts": "n/a (py types)",
+      "ecosystem": "very large",
+      "hiring_ai": "best-in-class for Python",
+      "maintenance_risk": "low",
+      "railway_fit": "first-class",
+      "measured": true,
+      "cold_start_ms": 299,
+      "rss_idle_mb": 192.796875,
+      "rps": 1323,
+      "p99_ms": 79.92,
+      "rss_load_mb": 195.41015625,
+      "sse200_cpu_pct": 5.8,
+      "rss_sse200_mb": 201.59765625,
+      "image_mb_est": "~190 (python:3.12-slim + deps) [estimated]",
+      "image_mb_measured": 135.6
+    },
+    "py-flask": {
+      "label": "Python + Flask (gunicorn 4w)",
+      "ts": "n/a",
+      "ecosystem": "very large",
+      "hiring_ai": "high",
+      "maintenance_risk": "low",
+      "railway_fit": "first-class; SSE ties up sync workers (real constraint)",
+      "measured": true,
+      "cold_start_ms": 105,
+      "rss_idle_mb": 131.8125,
+      "rps": 6557,
+      "p99_ms": 22.21,
+      "rss_load_mb": 134.76171875,
+      "sse200_cpu_pct": 1.6,
+      "rss_sse200_mb": 134.76171875,
+      "image_mb_est": "~170 (python:3.12-slim + deps) [estimated]",
+      "image_mb_measured": 128.3
+    },
+    "py-django": {
+      "label": "Python + Django (gunicorn 4w)",
+      "ts": "n/a",
+      "ecosystem": "very large",
+      "hiring_ai": "high",
+      "maintenance_risk": "very low",
+      "railway_fit": "first-class; SSE needs ASGI/daphne in practice",
+      "measured": true,
+      "cold_start_ms": 129,
+      "rss_idle_mb": 159.51171875,
+      "rps": 6050,
+      "p99_ms": 27.3,
+      "rss_load_mb": 169.796875,
+      "sse200_cpu_pct": 2.2,
+      "rss_sse200_mb": 169.796875,
+      "image_mb_est": "~210 (python:3.12-slim + deps) [estimated]",
+      "image_mb_measured": 153.4
+    },
+    "java-spring": {
+      "label": "Java + Spring Boot (MVC)",
+      "ts": "n/a (Java)",
+      "ecosystem": "largest enterprise",
+      "hiring_ai": "high (enterprise)",
+      "maintenance_risk": "very low",
+      "railway_fit": "ok; big memory + image, slow cold start",
+      "measured": true,
+      "cold_start_ms": 1226,
+      "rss_idle_mb": 208.65234375,
+      "rps": 41766,
+      "p99_ms": 8.66,
+      "rss_load_mb": 384.78515625,
+      "sse200_cpu_pct": 7.8,
+      "rss_sse200_mb": 415.55078125,
+      "image_mb_est": "~320 (temurin:17-jre + 22MB fat jar) [estimated]",
+      "image_mb_measured": 299.8
+    },
+    "csharp-aspnet": {
+      "label": "C# ASP.NET Core 8 minimal API",
+      "ts": "n/a (C#)",
+      "ecosystem": "large",
+      "hiring_ai": "high (enterprise)",
+      "maintenance_risk": "very low (Microsoft LTS)",
+      "railway_fit": "good (docker); moderate image",
+      "measured": true,
+      "cold_start_ms": 200,
+      "rss_idle_mb": 66.85546875,
+      "rps": 50136,
+      "p99_ms": 5.58,
+      "rss_load_mb": 185.68359375,
+      "sse200_cpu_pct": 2.5,
+      "rss_sse200_mb": 196.2265625,
+      "image_mb_est": "~220 (aspnet:8.0 runtime) [estimated]",
+      "image_mb_measured": null
+    },
+    "java-vertx": {
+      "label": "Java + Vert.x 4.5",
+      "ts": "n/a",
+      "ecosystem": "medium",
+      "hiring_ai": "low-medium",
+      "maintenance_risk": "low (Eclipse)",
+      "railway_fit": "ok (docker)",
+      "measured": true,
+      "cold_start_ms": 269,
+      "rss_idle_mb": 86.22265625,
+      "rps": 70790,
+      "p99_ms": 2.91,
+      "rss_load_mb": 777.1796875,
+      "sse200_cpu_pct": 3.9,
+      "rss_sse200_mb": 801.40625,
+      "image_mb_est": "~290 (temurin:17-jre + 8MB fat jar) [estimated]",
+      "image_mb_measured": 287.4
+    },
+    "elixir-phoenix": {
+      "label": "Elixir + Phoenix",
+      "ts": "n/a (Elixir)",
+      "ecosystem": "medium",
+      "hiring_ai": "low-medium; LiveView is a unique fit for live dashboards",
+      "maintenance_risk": "low",
+      "railway_fit": "good (official template)",
+      "notes": "measured on Phoenix 1.6 / Elixir 1.16 / OTP 24 (apt Erlang)",
+      "measured": true,
+      "cold_start_ms": 475,
+      "rss_idle_mb": 86.328125,
+      "rps": 6020,
+      "p99_ms": 19.99,
+      "rss_load_mb": 184.26953125,
+      "sse200_cpu_pct": 7.9,
+      "rss_sse200_mb": 135.640625,
+      "image_mb_est": "~120 (alpine mix release) [estimated]",
+      "image_mb_measured": 28.1
+    },
+    "php-laravel": {
+      "label": "PHP + Laravel 10",
+      "ts": "n/a",
+      "ecosystem": "very large",
+      "hiring_ai": "high",
+      "maintenance_risk": "low",
+      "railway_fit": "ok; SSE awkward under php-fpm (needs Octane/Reverb)",
+      "notes": "measured with artisan serve + PHP_CLI_SERVER_WORKERS=8 (dev server, no opcache-fpm); production php-fpm/Octane is faster",
+      "measured": true,
+      "cold_start_ms": 237,
+      "rss_idle_mb": 152.0546875,
+      "rps": 638,
+      "p99_ms": 564.03,
+      "rss_load_mb": 341.34375,
+      "sse200_cpu_pct": 0,
+      "rss_sse200_mb": 341.546875,
+      "image_mb_est": "~200 (php:fpm-alpine + nginx + vendor) [estimated]",
+      "image_mb_measured": 186.3
+    },
+    "ruby-rails": {
+      "label": "Ruby + Rails 7.1",
+      "ts": "n/a",
+      "ecosystem": "very large",
+      "hiring_ai": "high",
+      "maintenance_risk": "low",
+      "railway_fit": "ok; SSE via ActionController::Live ties up puma threads",
+      "notes": "measured Rails 7.1 API mode, puma 4 workers x 16 threads",
+      "measured": true,
+      "cold_start_ms": 561,
+      "rss_idle_mb": 360.58203125,
+      "rps": 2495,
+      "p99_ms": 61.99,
+      "rss_load_mb": 518.01171875,
+      "sse200_cpu_pct": 5.7,
+      "rss_sse200_mb": 546.25390625,
+      "image_mb_est": "~500 (ruby:slim + bundle) [estimated]",
+      "image_mb_measured": 530.9
+    },
+    "deno-fresh": {
+      "label": "Deno + Fresh 2",
+      "ts": "native",
+      "ecosystem": "small",
+      "hiring_ai": "low",
+      "maintenance_risk": "medium",
+      "railway_fit": "ok",
+      "measured": true,
+      "cold_start_ms": 47,
+      "rss_idle_mb": 59.0546875,
+      "rps": 24766,
+      "p99_ms": 3.38,
+      "rss_load_mb": 133.76953125,
+      "sse200_cpu_pct": 1.9,
+      "rss_sse200_mb": 152.30078125,
+      "image_mb_est": "~150 (denoland/deno + _fresh build) [estimated]",
+      "image_mb_measured": 115.3
+    }
+  },
+  "astro_variants": {
+    "astro": {
+      "label": "Astro 5 + plain script (no island)",
+      "measured": true,
+      "bundle_gzip_kb": 0.9,
+      "build_s": 1.1,
+      "load_ms": 6,
+      "tti_ms": 34,
+      "table10k_ms": 73,
+      "heap_after_soak_mb": 1.33
+    },
+    "astro-react": {
+      "label": "Astro 5 + react island (client:only)",
+      "measured": true,
+      "bundle_gzip_kb": 46.4,
+      "build_s": 1.8,
+      "load_ms": 7,
+      "tti_ms": 59,
+      "table10k_ms": 239,
+      "heap_after_soak_mb": 2.62
+    },
+    "astro-preact": {
+      "label": "Astro 5 + preact island (client:only)",
+      "measured": true,
+      "bundle_gzip_kb": 10.6,
+      "build_s": 1.5,
+      "load_ms": 10,
+      "tti_ms": 58,
+      "table10k_ms": 158,
+      "heap_after_soak_mb": 5.74
+    },
+    "astro-vue": {
+      "label": "Astro 5 + vue island (client:only)",
+      "measured": true,
+      "bundle_gzip_kb": 29.8,
+      "build_s": 1.5,
+      "load_ms": 7,
+      "tti_ms": 47,
+      "table10k_ms": 165,
+      "heap_after_soak_mb": 10
+    },
+    "astro-svelte": {
+      "label": "Astro 5 + svelte island (client:only)",
+      "measured": true,
+      "bundle_gzip_kb": 14.7,
+      "build_s": 1.8,
+      "load_ms": 8,
+      "tti_ms": 46,
+      "table10k_ms": 332,
+      "heap_after_soak_mb": 5.57
+    },
+    "astro-solid": {
+      "label": "Astro 5 + solid island (client:only)",
+      "measured": true,
+      "bundle_gzip_kb": 8.9,
+      "build_s": 1.7,
+      "load_ms": 9,
+      "tti_ms": 38,
+      "table10k_ms": 110,
+      "heap_after_soak_mb": 2.28
+    }
+  },
+  "astro_backend_pairings": {
+    "node-express": {
+      "load_ms": 16,
+      "tti_ms": 45,
+      "rows_ms": 3.16,
+      "post_rtt_ms": 2.8,
+      "sse_first_ms": 102.2,
+      "sse_jitter_ms": 0.67,
+      "sse_events": 31,
+      "measured": true
+    },
+    "node-fastify": {
+      "load_ms": 8,
+      "tti_ms": 25,
+      "rows_ms": 2.74,
+      "post_rtt_ms": 2.66,
+      "sse_first_ms": 102.6,
+      "sse_jitter_ms": 0.7,
+      "sse_events": 31,
+      "measured": true
+    },
+    "node-hono": {
+      "load_ms": 18,
+      "tti_ms": 47,
+      "rows_ms": 2.86,
+      "post_rtt_ms": 2.17,
+      "sse_first_ms": 2.8,
+      "sse_jitter_ms": 1.08,
+      "sse_events": 31,
+      "measured": true
+    },
+    "node-nestjs": {
+      "load_ms": 8,
+      "tti_ms": 27,
+      "rows_ms": 2.82,
+      "post_rtt_ms": 3.28,
+      "sse_first_ms": 102,
+      "sse_jitter_ms": 1.13,
+      "sse_events": 31,
+      "measured": true
+    },
+    "bun-hono": {
+      "load_ms": 10,
+      "tti_ms": 30,
+      "rows_ms": 5,
+      "post_rtt_ms": 1.91,
+      "sse_first_ms": 2.1,
+      "sse_jitter_ms": 0.81,
+      "sse_events": 31,
+      "measured": true
+    },
+    "bun-elysia": {
+      "load_ms": 8,
+      "tti_ms": 32,
+      "rows_ms": 2.68,
+      "post_rtt_ms": 1.93,
+      "sse_first_ms": 103,
+      "sse_jitter_ms": 0.5,
+      "sse_events": 31,
+      "measured": true
+    },
+    "deno-oak": {
+      "load_ms": 8,
+      "tti_ms": 35,
+      "rows_ms": 2.84,
+      "post_rtt_ms": 2.32,
+      "sse_first_ms": 103,
+      "sse_jitter_ms": 1.27,
+      "sse_events": 31,
+      "measured": true
+    },
+    "deno-fresh": {
+      "load_ms": 8,
+      "tti_ms": 23,
+      "rows_ms": 2.54,
+      "post_rtt_ms": 1.86,
+      "sse_first_ms": 103.7,
+      "sse_jitter_ms": 1.59,
+      "sse_events": 31,
+      "measured": true
+    },
+    "go-nethttp": {
+      "load_ms": 7,
+      "tti_ms": 35,
+      "rows_ms": 2.66,
+      "post_rtt_ms": 1.85,
+      "sse_first_ms": 101.9,
+      "sse_jitter_ms": 1.07,
+      "sse_events": 31,
+      "measured": true
+    },
+    "go-fiber": {
+      "load_ms": 7,
+      "tti_ms": 23,
+      "rows_ms": 4.52,
+      "post_rtt_ms": 1.9,
+      "sse_first_ms": 1,
+      "sse_jitter_ms": 0.55,
+      "sse_events": 31,
+      "measured": true
+    },
+    "go-echo": {
+      "load_ms": 8,
+      "tti_ms": 35,
+      "rows_ms": 2.88,
+      "post_rtt_ms": 1.91,
+      "sse_first_ms": 103.3,
+      "sse_jitter_ms": 0.33,
+      "sse_events": 31,
+      "measured": true
+    },
+    "go-gin": {
+      "load_ms": 7,
+      "tti_ms": 23,
+      "rows_ms": 4.7,
+      "post_rtt_ms": 1.82,
+      "sse_first_ms": 102.8,
+      "sse_jitter_ms": 0.42,
+      "sse_events": 31,
+      "measured": true
+    },
+    "rust-axum": {
+      "load_ms": 8,
+      "tti_ms": 35,
+      "rows_ms": 2.64,
+      "post_rtt_ms": 2.34,
+      "sse_first_ms": 43.4,
+      "sse_jitter_ms": 7.3,
+      "sse_events": 31,
+      "measured": true
+    },
+    "rust-actix": {
+      "load_ms": 8,
+      "tti_ms": 34,
+      "rows_ms": 2.84,
+      "post_rtt_ms": 2.08,
+      "sse_first_ms": 5.6,
+      "sse_jitter_ms": 0.95,
+      "sse_events": 31,
+      "measured": true
+    },
+    "py-fastapi": {
+      "load_ms": 8,
+      "tti_ms": 24,
+      "rows_ms": 47.86,
+      "post_rtt_ms": 44,
+      "sse_first_ms": 59.5,
+      "sse_jitter_ms": 7.52,
+      "sse_events": 31,
+      "measured": true
+    },
+    "py-flask": {
+      "load_ms": 10,
+      "tti_ms": 36,
+      "rows_ms": 3.6,
+      "post_rtt_ms": 2.55,
+      "sse_first_ms": 2.1,
+      "sse_jitter_ms": 1.07,
+      "sse_events": 31,
+      "measured": true
+    },
+    "py-django": {
+      "load_ms": 8,
+      "tti_ms": 23,
+      "rows_ms": 5.2,
+      "post_rtt_ms": 2.1,
+      "sse_first_ms": 2.6,
+      "sse_jitter_ms": 0.63,
+      "sse_events": 31,
+      "measured": true
+    },
+    "csharp-aspnet": {
+      "load_ms": 8,
+      "tti_ms": 36,
+      "rows_ms": 2.94,
+      "post_rtt_ms": 2.46,
+      "sse_first_ms": 2.1,
+      "sse_jitter_ms": 1.81,
+      "sse_events": 31,
+      "measured": true
+    },
+    "java-spring": {
+      "load_ms": 8,
+      "tti_ms": 24,
+      "rows_ms": 6.56,
+      "post_rtt_ms": 2.88,
+      "sse_first_ms": 5,
+      "sse_jitter_ms": 1,
+      "sse_events": 31,
+      "measured": true
+    },
+    "java-vertx": {
+      "load_ms": 9,
+      "tti_ms": 27,
+      "rows_ms": 3.54,
+      "post_rtt_ms": 2.75,
+      "sse_first_ms": 104.1,
+      "sse_jitter_ms": 0.77,
+      "sse_events": 31,
+      "measured": true
+    },
+    "elixir-phoenix": {
+      "load_ms": 12,
+      "tti_ms": 32,
+      "rows_ms": 5.44,
+      "post_rtt_ms": 2.22,
+      "sse_first_ms": 2.3,
+      "sse_jitter_ms": 1.07,
+      "sse_events": 31,
+      "measured": true
+    },
+    "php-laravel": {
+      "load_ms": 11,
+      "tti_ms": 30,
+      "rows_ms": 11.94,
+      "post_rtt_ms": 7.8,
+      "sse_first_ms": 5.1,
+      "sse_jitter_ms": 0.38,
+      "sse_events": 31,
+      "measured": true
+    },
+    "ruby-rails": {
+      "load_ms": 7,
+      "tti_ms": 23,
+      "rows_ms": 4.18,
+      "post_rtt_ms": 3.22,
+      "sse_first_ms": 210.1,
+      "sse_jitter_ms": 141.59,
+      "sse_events": 31,
+      "measured": true
+    }
+  },
+  "lib_benchmarks": {
+    "chart-chartjs": {
+      "label": "Chart.js 4 (canvas)",
+      "bundle_gzip_kb": 54.7,
+      "tti_ms": 100,
+      "measured": true,
+      "update": {
+        "n": 149,
+        "avg_ms": 1.085,
+        "p99_ms": 1.9
+      }
+    },
+    "chart-uplot": {
+      "label": "uPlot 1.6 (canvas)",
+      "bundle_gzip_kb": 32.6,
+      "tti_ms": 75,
+      "measured": true,
+      "update": {
+        "n": 149,
+        "avg_ms": 0.013,
+        "p99_ms": 0.1
+      }
+    },
+    "chart-echarts": {
+      "label": "ECharts 5 (canvas)",
+      "bundle_gzip_kb": 344.5,
+      "tti_ms": 124,
+      "measured": true,
+      "update": {
+        "n": 149,
+        "avg_ms": 1.503,
+        "p99_ms": 2.7
+      }
+    },
+    "chart-plot": {
+      "label": "Observable Plot 0.6 (SVG, full re-plot)",
+      "bundle_gzip_kb": 98.1,
+      "tti_ms": 74,
+      "measured": true,
+      "update": {
+        "n": 149,
+        "avg_ms": 0.762,
+        "p99_ms": 1.4
+      }
+    },
+    "table-tanstack": {
+      "label": "TanStack Table 8 + Virtual 3 (preact/compat)",
+      "bundle_gzip_kb": 32.8,
+      "tti_ms": 57,
+      "measured": true,
+      "load10k_total_ms": 112,
+      "table10k_ms": 106.30000000004657,
+      "sort10k_ms": 17.6
+    },
+    "chart-apex": {
+      "label": "ApexCharts 4 (SVG)",
+      "bundle_gzip_kb": 162,
+      "tti_ms": 93,
+      "measured": true,
+      "update": {
+        "n": 149,
+        "avg_ms": 4.248,
+        "p99_ms": 7.1
+      }
+    },
+    "chart-lwc": {
+      "label": "Lightweight Charts 4 (canvas)",
+      "bundle_gzip_kb": 60.5,
+      "tti_ms": 47,
+      "measured": true,
+      "update": {
+        "n": 149,
+        "avg_ms": 0.089,
+        "p99_ms": 0.2
+      }
+    },
+    "chart-d3": {
+      "label": "D3 7 raw (SVG path)",
+      "bundle_gzip_kb": 27.4,
+      "tti_ms": 60,
+      "measured": true,
+      "update": {
+        "n": 149,
+        "avg_ms": 0.089,
+        "p99_ms": 0.2
+      }
+    },
+    "chart-plotly": {
+      "label": "Plotly.js 2 (WebGL/SVG)",
+      "bundle_gzip_kb": 1385.5,
+      "tti_ms": 643,
+      "measured": true,
+      "update": {
+        "n": 149,
+        "avg_ms": 4.387,
+        "p99_ms": 7.7
+      }
+    },
+    "chart-recharts": {
+      "label": "Recharts 2 (React, preact/compat)",
+      "bundle_gzip_kb": 116.8,
+      "tti_ms": 75,
+      "measured": true,
+      "update": {
+        "n": 149,
+        "avg_ms": 2.893,
+        "p99_ms": 4.2
+      }
+    },
+    "table-aggrid": {
+      "label": "AG Grid Community 33",
+      "bundle_gzip_kb": 256,
+      "tti_ms": 129,
+      "measured": true,
+      "load10k_total_ms": 134,
+      "table10k_ms": 125.89999999990687,
+      "sort10k_ms": 29.2
+    },
+    "state-hooks": {
+      "label": "Preact hooks (useState) baseline",
+      "bundle_gzip_kb": 10.6,
+      "tti_ms": 62,
+      "measured": true,
+      "update": {
+        "n": 149,
+        "avg_ms": 0.736,
+        "p99_ms": 2.5
+      }
+    },
+    "state-signals": {
+      "label": "@preact/signals 2",
+      "bundle_gzip_kb": 10.1,
+      "tti_ms": 58,
+      "measured": true,
+      "update": {
+        "n": 150,
+        "avg_ms": 0.816,
+        "p99_ms": 2.3
+      }
+    },
+    "state-zustand": {
+      "label": "Zustand 5 (preact/compat)",
+      "bundle_gzip_kb": 15.2,
+      "tti_ms": 60,
+      "measured": true,
+      "update": {
+        "n": 149,
+        "avg_ms": 0.809,
+        "p99_ms": 1.7
+      }
+    },
+    "state-jotai": {
+      "label": "Jotai 2 (preact/compat)",
+      "bundle_gzip_kb": 16.9,
+      "tti_ms": 60,
+      "measured": true,
+      "update": {
+        "n": 149,
+        "avg_ms": 0.77,
+        "p99_ms": 1.5
+      }
+    },
+    "state-nanostores": {
+      "label": "nanostores + @nanostores/preact",
+      "bundle_gzip_kb": 11,
+      "tti_ms": 59,
+      "measured": true,
+      "update": {
+        "n": 149,
+        "avg_ms": 0.718,
+        "p99_ms": 3.4
+      }
+    }
+  },
+  "postgres_driver_bench": {
+    "setup": "Go Echo backend querying a real Postgres 16 (docker, localhost:5433), 200-row table (7 cols), oha 5s x 64 conns",
+    "endpoints": {
+      "echo_pgx_pool": {
+        "rps": 13742,
+        "p99_ms": 10.65,
+        "driver": "jackc/pgx/v5 pgxpool"
+      },
+      "echo_database_sql_libpq": {
+        "rps": 8851,
+        "p99_ms": 25.2,
+        "driver": "database/sql + lib/pq (MaxOpenConns=16)"
+      },
+      "echo_in_memory_baseline": {
+        "rps": 92142,
+        "p99_ms": 5.64,
+        "driver": "none (static slice)"
+      }
+    },
+    "notes": "pgx pool is ~1.55x database/sql+lib/pq on this query and ~7x below the no-DB ceiling; the DB round-trip, not Echo, dominates once a real query is on the path. localhost Postgres - Railway private networking adds ~0.5-2ms per query."
+  },
+  "go_backend_libs": {
+    "setup": "Go Echo (go-echo-libs, port 3071), oha 5s x 64 conns, 200-row payload; real Postgres 16 (docker, localhost:5433) for DB layers",
+    "json_encoders": {
+      "stdlib_encoding_json": {
+        "rps": 65637,
+        "p99_ms": 5.34
+      },
+      "goccy_go_json": {
+        "rps": 74809,
+        "p99_ms": 5.5
+      },
+      "bytedance_sonic": {
+        "rps": 101701,
+        "p99_ms": 3.71
+      }
+    },
+    "middleware": {
+      "no_middleware_stdlib_json": {
+        "rps": 65637,
+        "p99_ms": 5.34
+      },
+      "logger_recover_gzip": {
+        "rps": 24237,
+        "p99_ms": 12,
+        "note": "gzip per-request compression dominates the cost; logger+recover alone are near-free"
+      }
+    },
+    "validation": {
+      "post_bind_plus_go_playground_validator": {
+        "rps": 258081,
+        "p99_ms": 2.1,
+        "note": "validation adds negligible cost on the POST path"
+      }
+    },
+    "db_layers": {
+      "pgx_v5_pool": {
+        "rps": 15400,
+        "p99_ms": 9.01
+      },
+      "pgx_v5_pool_prepared": {
+        "rps": 15428,
+        "p99_ms": 8.92,
+        "note": "pgxpool auto-caches prepared statements; explicit prep adds nothing here"
+      },
+      "sqlx_libpq": {
+        "rps": 9251,
+        "p99_ms": 23.56
+      },
+      "gorm_prepare_stmt": {
+        "rps": 8224,
+        "p99_ms": 26.54
+      },
+      "note": "sqlc generates code on top of pgx/database-sql, so its runtime cost tracks the underlying driver (~pgx numbers)"
+    }
+  },
+  "realtime_transports": {
+    "sse_plain": {
+      "conns": 200,
+      "latency": {
+        "n": 60273,
+        "avg_ms": 0.18,
+        "p50_ms": 0,
+        "p99_ms": 1
+      },
+      "server_cpu_pct": 6.8
+    },
+    "websocket": {
+      "conns": 200,
+      "latency": {
+        "n": 42000,
+        "avg_ms": 0.358,
+        "p50_ms": 0,
+        "p99_ms": 1
+      },
+      "server_cpu_pct": 1.7
+    },
+    "sse_pg_notify": {
+      "conns": 50,
+      "latency": {
+        "n": 11275,
+        "avg_ms": 1.134,
+        "p50_ms": 1,
+        "p99_ms": 2
+      },
+      "server_cpu_pct": 2.3,
+      "note": "50 conns: per-connection LISTEN uses one Postgres conn each; production should fan out from a single LISTEN connection"
+    }
+  },
+  "sse_reconnect": {
+    "events_before_kill": 29,
+    "server_down_ms": 3005,
+    "gap_ms": 6209,
+    "resume_after_restart_ms": 3106,
+    "reconnect_error_events": 2,
+    "resumed": true,
+    "note": "EventSource reconnects automatically (default ~1-3s backoff); no client code needed. Gap = last event before kill -> first after restart."
+  },
+  "compression": {
+    "astro-preact": {
+      "raw_kb": 24.1,
+      "gzip_kb": 10.6,
+      "brotli_kb": 9.5,
+      "brotli_vs_gzip_pct": 10.1
+    },
+    "chart-uplot": {
+      "raw_kb": 74.1,
+      "gzip_kb": 32.6,
+      "brotli_kb": 29.6,
+      "brotli_vs_gzip_pct": 9.2
+    },
+    "table-tanstack": {
+      "raw_kb": 102.8,
+      "gzip_kb": 32.8,
+      "brotli_kb": 29.5,
+      "brotli_vs_gzip_pct": 9.8
+    }
+  },
+  "docker_images_measured": {
+    "go-nethttp": 5.5,
+    "go-fiber": 5.7,
+    "go-echo": 5.9,
+    "go-gin": 13.8,
+    "rust-axum": 73.2,
+    "rust-actix": 77.5,
+    "node-express": 132.5,
+    "node-fastify": 138.1,
+    "node-hono": 131.2,
+    "node-nestjs": 313.3,
+    "bun-hono": 99,
+    "bun-elysia": 101.2,
+    "deno-oak": 114.9,
+    "deno-fresh": 115.3,
+    "py-fastapi": 135.6,
+    "py-flask": 128.3,
+    "py-django": 153.4,
+    "java-spring": 299.8,
+    "java-vertx": 287.4,
+    "csharp-minimal": 207.7,
+    "elixir-phoenix": 28.1,
+    "php-laravel": 186.3,
+    "ruby-rails": 530.9
+  }
+}

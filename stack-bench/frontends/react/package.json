@@ -1,0 +1,15 @@
+{
+  "name": "fe-react",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build --base=/fe/react/"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}

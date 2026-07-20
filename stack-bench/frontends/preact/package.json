@@ -1,0 +1,14 @@
+{
+  "name": "fe-preact",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build --base=/fe/preact/"
+  },
+  "dependencies": {
+    "preact": "^10.25.0"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}

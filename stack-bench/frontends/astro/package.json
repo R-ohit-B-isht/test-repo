@@ -1,0 +1,11 @@
+{
+  "name": "fe-astro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "astro build"
+  },
+  "dependencies": {
+    "astro": "^5.1.1"
+  }
+}

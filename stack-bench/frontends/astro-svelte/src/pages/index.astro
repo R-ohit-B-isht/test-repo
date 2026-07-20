@@ -1,0 +1,9 @@
+---
+import Table from '../components/Table.svelte';
+---
+<html><head><title>astro island console</title></head>
+<body style="font-family:system-ui;background:#111;color:#eee">
+<h1>astro console</h1>
+<button id="act">Run action</button> <span id="actres"></span><ul id="feed"></ul>
+<div id="app"><Table client:only="svelte" /></div>
+</body></html>

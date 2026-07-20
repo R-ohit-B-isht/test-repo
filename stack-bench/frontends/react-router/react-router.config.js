@@ -1,0 +1,1 @@
+export default {ssr:false,basename:'/fe/react-router'};

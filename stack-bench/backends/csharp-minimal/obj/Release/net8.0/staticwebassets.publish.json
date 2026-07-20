@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zwhFkevPZHaoiHp/jraIcS6spHFQIPDlHX4BnLxsQfE=",
+  "Source": "csharp-minimal",
+  "BasePath": "_content/csharp-minimal",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

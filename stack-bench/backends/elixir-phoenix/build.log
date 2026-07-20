@@ -1,0 +1,170 @@
+==> phoenix_template
+Compiling 4 files (.ex)
+Generated phoenix_template app
+==> phoenix_view
+Compiling 1 file (.ex)
+Generated phoenix_view app
+===> Analyzing applications...
+===> Compiling ranch
+===> Analyzing applications...
+===> Compiling telemetry
+==> telemetry_metrics
+Compiling 7 files (.ex)
+Generated telemetry_metrics app
+===> Analyzing applications...
+===> Compiling telemetry_poller
+==> jason
+Compiling 10 files (.ex)
+Generated jason app
+==> castore
+Compiling 1 file (.ex)
+Generated castore app
+==> expo
+Compiling 2 files (.erl)
+Compiling 22 files (.ex)
+Generated expo app
+==> gettext
+Compiling 18 files (.ex)
+Generated gettext app
+==> phoenix_pubsub
+Compiling 12 files (.ex)
+Generated phoenix_pubsub app
+===> Analyzing applications...
+===> Compiling cowlib
+===> Analyzing applications...
+===> Compiling cowboy
+===> Analyzing applications...
+===> Compiling cowboy_telemetry
+==> mime
+Compiling 1 file (.ex)
+Generated mime app
+==> plug_crypto
+Compiling 5 files (.ex)
+Generated plug_crypto app
+==> plug
+Compiling 1 file (.erl)
+Compiling 42 files (.ex)
+Generated plug app
+==> plug_cowboy
+Compiling 5 files (.ex)
+Generated plug_cowboy app
+==> phoenix
+Compiling 69 files (.ex)
+     warning: missing parentheses for expression following "do:" keyword. Parentheses are required to solve ambiguity inside keywords.
+
+     This error happens when you have function calls without parentheses inside keywords. For example:
+
+         function(arg, one: nested_call a, b, c)
+         function(arg, one: if expr, do: :this, else: :that)
+
+     In the examples above, we don't know if the arguments "b" and "c" apply to the function "function" or "nested_call". Or if the keywords "do" and "else" apply to the function "function" or "if". You can solve this by explicitly adding parentheses:
+
+         function(arg, one: if(expr, do: :this, else: :that))
+         function(arg, one: nested_call(a, b, c))
+
+     Ambiguity found at:
+     │
+ 998 │   defp get_disposition_type(other), do: raise ArgumentError, "expected :disposition to be :attachment or :inline, got: #{inspect(other)}"
+     │   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     │
+     └─ lib/phoenix/controller.ex:998
+
+    warning: Logger.warn/1 is deprecated. Use Logger.warning/2 instead
+    │
+ 50 │             Logger.warn(
+    │                    ~
+    │
+    └─ lib/phoenix/code_reloader/server.ex:50:20: Phoenix.CodeReloader.Server.handle_call/3
+
+    warning: Logger.warn/1 is deprecated. Use Logger.warning/2 instead
+    │
+ 34 │             Logger.warn("no configuration found for otp_app #{inspect(otp_app)} and module #{inspect(mod)}")
+    │                    ~
+    │
+    └─ lib/phoenix/endpoint/supervisor.ex:34:20: Phoenix.Endpoint.Supervisor.init/1
+
+    warning: Logger.warn/1 is deprecated. Use Logger.warning/2 instead
+    │
+ 57 │       Logger.warn(":instrumenters configuration for #{inspect(mod)} is deprecated and has no effect")
+    │              ~
+    │
+    └─ lib/phoenix/endpoint/supervisor.ex:57:14: Phoenix.Endpoint.Supervisor.init/1
+
+    warning: Logger.warn/1 is deprecated. Use Logger.warning/2 instead
+    │
+ 78 │       Logger.warn """
+    │              ~
+    │
+    └─ lib/phoenix/endpoint/supervisor.ex:78:14: Phoenix.Endpoint.Supervisor.pubsub_children/2
+
+     warning: Logger.warn/1 is deprecated. Use Logger.warning/2 instead
+     │
+ 264 │       Logger.warn("url: [host: ...] configuration value #{inspect(host)} for #{inspect(endpoint)} is invalid")
+     │              ~
+     │
+     └─ lib/phoenix/endpoint/supervisor.ex:264:14: Phoenix.Endpoint.Supervisor.build_url/2
+
+      warning: Logger.warn/1 is deprecated. Use Logger.warning/2 instead
+      │
+ 1009 │       Logger.warn "send_download/3 has been invoked during an AJAX request. " <>
+      │              ~
+      │
+      └─ lib/phoenix/controller.ex:1009:14: Phoenix.Controller.warn_if_ajax/1
+
+    warning: missing parentheses for expression following "do:" keyword. Parentheses are required to solve ambiguity inside keywords.
+
+    This error happens when you have function calls without parentheses inside keywords. For example:
+
+        function(arg, one: nested_call a, b, c)
+        function(arg, one: if expr, do: :this, else: :that)
+
+    In the examples above, we don't know if the arguments "b" and "c" apply to the function "function" or "nested_call". Or if the keywords "do" and "else" apply to the function "function" or "if". You can solve this by explicitly adding parentheses:
+
+        function(arg, one: if(expr, do: :this, else: :that))
+        function(arg, one: nested_call(a, b, c))
+
+    Ambiguity found at:
+    │
+ 71 │     unless actions -- supported_actions == [], do: raise ArgumentError, """
+    │     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    │
+    └─ lib/phoenix/router/resource.ex:71
+
+     warning: Logger.warn/1 is deprecated. Use Logger.warning/2 instead
+     │
+ 653 │         Logger.warn fn -> "Ignoring unmatched topic \"#{topic}\" in #{inspect(socket.handler)}" end
+     │                ~
+     │
+     └─ lib/phoenix/socket.ex:653:16: Phoenix.Socket.handle_in/4
+
+Generated phoenix app
+warning: the :gettext compiler is no longer required in your mix.exs.
+
+Please find the following line in your mix.exs and remove the :gettext entry:
+
+    compilers: [..., :gettext, ...] ++ Mix.compilers(),
+
+  (gettext 0.26.2) lib/mix/tasks/compile.gettext.ex:5: Mix.Tasks.Compile.Gettext.run/1
+  (mix 1.16.3) lib/mix/task.ex:478: anonymous fn/3 in Mix.Task.run_task/5
+  (mix 1.16.3) lib/mix/tasks/compile.all.ex:122: Mix.Tasks.Compile.All.run_compiler/2
+  (mix 1.16.3) lib/mix/tasks/compile.all.ex:102: Mix.Tasks.Compile.All.compile/4
+  (mix 1.16.3) lib/mix/tasks/compile.all.ex:91: Mix.Tasks.Compile.All.with_logger_app/2
+  (mix 1.16.3) lib/mix/tasks/compile.all.ex:60: Mix.Tasks.Compile.All.run/1
+
+==> bench_phx
+Compiling 10 files (.ex)
+warning: defining a Gettext backend by calling
+
+    use Gettext, otp_app: ...
+
+is deprecated. To define a backend, call:
+
+    use Gettext.Backend, otp_app: :my_app
+
+Then, instead of importing your backend, call this in your module:
+
+    use Gettext, backend: MyApp.Gettext
+
+  lib/bench_phx_web/gettext.ex:23: BenchPhxWeb.Gettext (module)
+
+Generated bench_phx app

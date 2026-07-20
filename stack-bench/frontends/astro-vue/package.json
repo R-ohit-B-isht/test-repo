@@ -1,0 +1,13 @@
+{
+  "name": "fe-astro-vue",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "astro build"
+  },
+  "dependencies": {
+    "astro": "^5.1.1",
+    "@astrojs/vue": "^5.0.0",
+    "vue": "^3.5.13"
+  }
+}

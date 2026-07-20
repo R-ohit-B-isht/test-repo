@@ -1,0 +1,13 @@
+{
+  "name": "fe-solidstart",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vinxi build"
+  },
+  "dependencies": {
+    "@solidjs/start": "^1.0.11",
+    "solid-js": "^1.9.3",
+    "vinxi": "^0.5.1"
+  }
+}

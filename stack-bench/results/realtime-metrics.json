@@ -1,0 +1,33 @@
+{
+  "sse_plain": {
+    "conns": 200,
+    "latency": {
+      "n": 60273,
+      "avg_ms": 0.18,
+      "p50_ms": 0,
+      "p99_ms": 1
+    },
+    "server_cpu_pct": 6.8
+  },
+  "websocket": {
+    "conns": 200,
+    "latency": {
+      "n": 42000,
+      "avg_ms": 0.358,
+      "p50_ms": 0,
+      "p99_ms": 1
+    },
+    "server_cpu_pct": 1.7
+  },
+  "sse_pg_notify": {
+    "conns": 50,
+    "latency": {
+      "n": 11275,
+      "avg_ms": 1.134,
+      "p50_ms": 1,
+      "p99_ms": 2
+    },
+    "server_cpu_pct": 2.3,
+    "note": "50 conns: per-connection LISTEN uses one Postgres conn each; production should fan out from a single LISTEN connection"
+  }
+}

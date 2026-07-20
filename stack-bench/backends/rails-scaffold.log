@@ -1,0 +1,222 @@
+Based on the specified options, the following options will also be activated:
+
+  --skip-javascript [due to --api]
+  --skip-hotwire [due to --skip-javascript]
+  --skip-decrypted-diffs [due to --skip-git]
+  --skip-asset-pipeline [due to --api]
+
+      create  
+      create  README.md
+      create  Rakefile
+      create  .ruby-version
+      create  config.ru
+      create  Gemfile
+      create  app
+      create  app/assets/config/manifest.js
+      create  app/assets/stylesheets/application.css
+      create  app/channels/application_cable/channel.rb
+      create  app/channels/application_cable/connection.rb
+      create  app/controllers/application_controller.rb
+      create  app/helpers/application_helper.rb
+      create  app/jobs/application_job.rb
+      create  app/mailers/application_mailer.rb
+      create  app/models/application_record.rb
+      create  app/views/layouts/application.html.erb
+      create  app/views/layouts/mailer.html.erb
+      create  app/views/layouts/mailer.text.erb
+      create  app/assets/images
+      create  app/assets/images/.keep
+      create  app/controllers/concerns/.keep
+      create  app/models/concerns/.keep
+      create  bin
+      create  bin/rails
+      create  bin/rake
+      create  bin/setup
+      create  Dockerfile
+      create  .dockerignore
+      create  bin/docker-entrypoint
+      create  config
+      create  config/routes.rb
+      create  config/application.rb
+      create  config/environment.rb
+      create  config/puma.rb
+      create  config/environments
+      create  config/environments/development.rb
+      create  config/environments/production.rb
+      create  config/environments/test.rb
+      create  config/initializers
+      create  config/initializers/assets.rb
+      create  config/initializers/content_security_policy.rb
+      create  config/initializers/cors.rb
+      create  config/initializers/filter_parameter_logging.rb
+      create  config/initializers/inflections.rb
+      create  config/initializers/new_framework_defaults_7_1.rb
+      create  config/initializers/permissions_policy.rb
+      create  config/locales
+      create  config/locales/en.yml
+      create  config/master.key
+      create  config/boot.rb
+      create  lib
+      create  lib/tasks
+      create  lib/tasks/.keep
+      create  lib/assets
+      create  lib/assets/.keep
+      create  log
+      create  log/.keep
+      create  public
+      create  public/404.html
+      create  public/422.html
+      create  public/500.html
+      create  public/apple-touch-icon-precomposed.png
+      create  public/apple-touch-icon.png
+      create  public/favicon.ico
+      create  public/robots.txt
+      create  tmp
+      create  tmp/.keep
+      create  tmp/pids
+      create  tmp/pids/.keep
+      create  tmp/cache
+      create  tmp/cache/assets
+      create  vendor
+      create  vendor/.keep
+      create  storage
+      create  storage/.keep
+      create  tmp/storage
+      create  tmp/storage/.keep
+      remove  app/assets
+      remove  lib/assets
+      remove  tmp/cache/assets
+      remove  app/helpers
+      remove  test/helpers
+      remove  app/views
+      remove  public/404.html
+      remove  public/422.html
+      remove  public/500.html
+      remove  public/apple-touch-icon-precomposed.png
+      remove  public/apple-touch-icon.png
+      remove  public/favicon.ico
+      remove  config/initializers/assets.rb
+      remove  app/assets/config/manifest.js
+      remove  app/assets/config
+      remove  app/assets/stylesheets/application.css
+      remove  app/models/application_record.rb
+      remove  app/views/layouts/mailer.html.erb
+      remove  app/views/layouts/mailer.text.erb
+      remove  app/mailers
+      remove  test/mailers
+      remove  app/javascript/channels
+      remove  app/channels
+      remove  test/channels
+      remove  config/initializers/content_security_policy.rb
+      remove  config/initializers/permissions_policy.rb
+      remove  config/initializers/new_framework_defaults_7_1.rb
+         run  bundle install
+Fetching gem metadata from https://rubygems.org/...........
+Resolving dependencies....
+Following files may not be writable, so sudo is needed:
+  /usr/local/bin
+  /var/lib/gems/3.0.0
+  /var/lib/gems/3.0.0/build_info
+  /var/lib/gems/3.0.0/cache
+  /var/lib/gems/3.0.0/doc
+  /var/lib/gems/3.0.0/extensions
+  /var/lib/gems/3.0.0/gems
+  /var/lib/gems/3.0.0/plugins
+  /var/lib/gems/3.0.0/specifications
+Fetching rake 13.4.2
+Installing rake 13.4.2
+Using benchmark 0.5.0
+Using concurrent-ruby 1.3.8
+Using connection_pool 2.5.5
+Using logger 1.7.0
+Using securerandom 0.3.2
+Fetching base64 0.3.0
+Using builder 3.3.0
+Using erubi 1.13.1
+Using racc 1.8.1
+Using crass 1.0.7
+Using rack 3.2.6
+Using nio4r 2.7.5
+Using websocket-extensions 0.1.5
+Using zeitwerk 2.6.18
+Using timeout 0.6.1
+Using marcel 1.2.1
+Using mini_mime 1.1.5
+Fetching bigdecimal 4.1.2
+Using bundler 2.2.22
+Fetching drb 2.2.3
+Fetching cgi 0.5.2
+Fetching date 3.5.1
+Fetching mutex_m 0.3.0
+Fetching prettyprint 0.2.0
+Fetching minitest 5.26.1
+Installing base64 0.3.0
+Installing drb 2.2.3
+Installing mutex_m 0.3.0
+Installing cgi 0.5.2 with native extensions
+Installing prettyprint 0.2.0
+Fetching prism 1.9.0
+Installing date 3.5.1 with native extensions
+Installing bigdecimal 4.1.2 with native extensions
+Installing minitest 5.26.1
+Fetching stringio 3.2.0
+Using tsort 0.2.0
+Fetching io-console 0.8.2
+Using thor 1.5.0
+Using i18n 1.14.8
+Using tzinfo 2.0.6
+Using nokogiri 1.17.2 (x86_64-linux)
+Using rack-test 2.2.0
+Fetching net-protocol 0.2.2
+Fetching puma 8.0.2
+Installing io-console 0.8.2 with native extensions
+Installing stringio 3.2.0 with native extensions
+Installing net-protocol 0.2.2
+Installing prism 1.9.0 with native extensions
+Using rackup 2.3.1
+Using rack-session 2.1.2
+Using websocket-driver 0.8.2
+Fetching pp 0.6.4
+Installing puma 8.0.2 with native extensions
+Installing pp 0.6.4
+Using loofah 2.25.2
+Fetching net-pop 0.1.2
+Fetching net-smtp 0.5.1
+Installing net-pop 0.1.2
+Using rails-html-sanitizer 1.7.1
+Fetching erb 4.0.4.1
+Installing net-smtp 0.5.1
+Installing erb 4.0.4.1 with native extensions
+Fetching reline 0.6.3
+Installing reline 0.6.3
+Using activesupport 7.1.6
+Using rails-dom-testing 2.3.0
+Using globalid 1.4.0
+Using activemodel 7.1.6
+Using actionview 7.1.6
+Using activejob 7.1.6
+Using activerecord 7.1.6
+Using actionpack 7.1.6
+Using actioncable 7.1.6
+Using activestorage 7.1.6
+Using actiontext 7.1.6
+Fetching net-imap 0.4.25
+Fetching psych 5.4.0
+Installing psych 5.4.0 with native extensions
+Installing net-imap 0.4.25
+Using mail 2.9.1
+Using actionmailbox 7.1.6
+Using actionmailer 7.1.6
+Fetching rdoc 7.2.0
+Installing rdoc 7.2.0
+Fetching irb 1.18.0
+Installing irb 1.18.0
+Using railties 7.1.6
+Fetching debug 1.11.1
+Using rails 7.1.6
+Installing debug 1.11.1 with native extensions
+Bundle complete! 4 Gemfile dependencies, 68 gems now installed.
+Use `bundle info [gemname]` to see where a bundled gem is installed.
+         run  bundle lock --add-platform=x86_64-linux
+Writing lockfile to /home/ubuntu/stack-bench/backends/ruby-rails/Gemfile.lock
+         run  bundle binstubs bundler

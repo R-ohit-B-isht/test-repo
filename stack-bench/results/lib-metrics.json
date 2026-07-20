@@ -1,0 +1,142 @@
+{
+  "chart-chartjs": {
+    "tti_ms": 100,
+    "measured": true,
+    "update": {
+      "n": 149,
+      "avg_ms": 1.085,
+      "p99_ms": 1.9
+    }
+  },
+  "chart-uplot": {
+    "tti_ms": 75,
+    "measured": true,
+    "update": {
+      "n": 149,
+      "avg_ms": 0.013,
+      "p99_ms": 0.1
+    }
+  },
+  "chart-echarts": {
+    "tti_ms": 124,
+    "measured": true,
+    "update": {
+      "n": 149,
+      "avg_ms": 1.503,
+      "p99_ms": 2.7
+    }
+  },
+  "chart-plot": {
+    "tti_ms": 74,
+    "measured": true,
+    "update": {
+      "n": 149,
+      "avg_ms": 0.762,
+      "p99_ms": 1.4
+    }
+  },
+  "table-tanstack": {
+    "tti_ms": 57,
+    "measured": true,
+    "load10k_total_ms": 112,
+    "table10k_ms": 106.30000000004657,
+    "sort10k_ms": 17.6
+  },
+  "chart-apex": {
+    "tti_ms": 93,
+    "measured": true,
+    "update": {
+      "n": 149,
+      "avg_ms": 4.248,
+      "p99_ms": 7.1
+    }
+  },
+  "chart-lwc": {
+    "tti_ms": 47,
+    "measured": true,
+    "update": {
+      "n": 149,
+      "avg_ms": 0.089,
+      "p99_ms": 0.2
+    }
+  },
+  "chart-d3": {
+    "tti_ms": 60,
+    "measured": true,
+    "update": {
+      "n": 149,
+      "avg_ms": 0.089,
+      "p99_ms": 0.2
+    }
+  },
+  "chart-plotly": {
+    "tti_ms": 643,
+    "measured": true,
+    "update": {
+      "n": 149,
+      "avg_ms": 4.387,
+      "p99_ms": 7.7
+    }
+  },
+  "chart-recharts": {
+    "tti_ms": 75,
+    "measured": true,
+    "update": {
+      "n": 149,
+      "avg_ms": 2.893,
+      "p99_ms": 4.2
+    }
+  },
+  "table-aggrid": {
+    "tti_ms": 129,
+    "measured": true,
+    "load10k_total_ms": 134,
+    "table10k_ms": 125.89999999990687,
+    "sort10k_ms": 29.2
+  },
+  "state-hooks": {
+    "tti_ms": 62,
+    "measured": true,
+    "update": {
+      "n": 149,
+      "avg_ms": 0.736,
+      "p99_ms": 2.5
+    }
+  },
+  "state-signals": {
+    "tti_ms": 58,
+    "measured": true,
+    "update": {
+      "n": 150,
+      "avg_ms": 0.816,
+      "p99_ms": 2.3
+    }
+  },
+  "state-zustand": {
+    "tti_ms": 60,
+    "measured": true,
+    "update": {
+      "n": 149,
+      "avg_ms": 0.809,
+      "p99_ms": 1.7
+    }
+  },
+  "state-jotai": {
+    "tti_ms": 60,
+    "measured": true,
+    "update": {
+      "n": 149,
+      "avg_ms": 0.77,
+      "p99_ms": 1.5
+    }
+  },
+  "state-nanostores": {
+    "tti_ms": 59,
+    "measured": true,
+    "update": {
+      "n": 149,
+      "avg_ms": 0.718,
+      "p99_ms": 3.4
+    }
+  }
+}

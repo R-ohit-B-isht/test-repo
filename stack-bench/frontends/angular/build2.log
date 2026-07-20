@@ -1,0 +1,13 @@
+❯ Building...
+✔ Building...
+Initial chunk files   | Names         |  Raw size | Estimated transfer size
+main-NWFJHTAS.js      | main          | 199.27 kB |                54.13 kB
+polyfills-5CFQRCPP.js | polyfills     |  34.59 kB |                11.33 kB
+styles-5INURTSO.css   | styles        |   0 bytes |                 0 bytes
+
+                      | Initial total | 233.86 kB |                65.46 kB
+
+Application bundle generation complete. [1.331 seconds]
+
+Output location: /home/ubuntu/stack-bench/frontends/angular/dist/angular
+

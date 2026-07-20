@@ -1,0 +1,1 @@
+import {reactRouter} from '@react-router/dev/vite';export default {base:'/fe/react-router/',plugins:[reactRouter()]};

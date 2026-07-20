@@ -1,0 +1,1 @@
+import Table from './table.jsx';export default function Home(){return <div><h1>react-router console</h1><Table/></div>;}

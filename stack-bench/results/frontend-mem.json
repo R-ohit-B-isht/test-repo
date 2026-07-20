@@ -1,0 +1,132 @@
+{
+  "vanilla": {
+    "heap_initial_mb": 1.67,
+    "heap_after_soak_mb": 1.22,
+    "soak_sec": 45
+  },
+  "react": {
+    "heap_initial_mb": 2.54,
+    "heap_after_soak_mb": 3.51,
+    "soak_sec": 45
+  },
+  "preact": {
+    "heap_initial_mb": 2.12,
+    "heap_after_soak_mb": 5.19,
+    "soak_sec": 45
+  },
+  "vue": {
+    "heap_initial_mb": 2.42,
+    "heap_after_soak_mb": 6.76,
+    "soak_sec": 45
+  },
+  "svelte": {
+    "heap_initial_mb": 3.51,
+    "heap_after_soak_mb": 5.84,
+    "soak_sec": 45
+  },
+  "solid": {
+    "heap_initial_mb": 2.4,
+    "heap_after_soak_mb": 2.28,
+    "soak_sec": 45
+  },
+  "lit": {
+    "heap_initial_mb": 2.21,
+    "heap_after_soak_mb": 2.3,
+    "soak_sec": 45
+  },
+  "mithril": {
+    "heap_initial_mb": 2.14,
+    "heap_after_soak_mb": 7.74,
+    "soak_sec": 45
+  },
+  "inferno": {
+    "heap_initial_mb": 2.14,
+    "heap_after_soak_mb": 4.38,
+    "soak_sec": 45
+  },
+  "vanjs": {
+    "heap_initial_mb": 1.71,
+    "heap_after_soak_mb": 1.25,
+    "soak_sec": 45
+  },
+  "alpine": {
+    "heap_initial_mb": 12.37,
+    "heap_after_soak_mb": 6.88,
+    "soak_sec": 45
+  },
+  "htmx": {
+    "heap_initial_mb": 1.92,
+    "heap_after_soak_mb": 1.62,
+    "soak_sec": 45
+  },
+  "next": {
+    "heap_initial_mb": 3.22,
+    "heap_after_soak_mb": 7.98,
+    "soak_sec": 45
+  },
+  "nuxt": {
+    "heap_initial_mb": 2.88,
+    "heap_after_soak_mb": 2.36,
+    "soak_sec": 45
+  },
+  "sveltekit": {
+    "heap_initial_mb": 3.88,
+    "heap_after_soak_mb": 6.06,
+    "soak_sec": 45
+  },
+  "solidstart": {
+    "heap_initial_mb": 2.42,
+    "heap_after_soak_mb": 2.17,
+    "soak_sec": 45
+  },
+  "react-router": {
+    "heap_initial_mb": 3.09,
+    "heap_after_soak_mb": 6.21,
+    "soak_sec": 45
+  },
+  "astro": {
+    "heap_initial_mb": 1.73,
+    "heap_after_soak_mb": 1.33,
+    "soak_sec": 45
+  },
+  "qwik": {
+    "heap_initial_mb": 2.73,
+    "heap_after_soak_mb": 2.58,
+    "soak_sec": 45
+  },
+  "angular": {
+    "heap_initial_mb": 6.73,
+    "heap_after_soak_mb": 3.72,
+    "soak_sec": 45
+  },
+  "ember-app": {
+    "heap_initial_mb": 6.5,
+    "heap_after_soak_mb": 11.22,
+    "soak_sec": 45
+  },
+  "astro-react": {
+    "heap_initial_mb": 2.58,
+    "heap_after_soak_mb": 2.62,
+    "soak_sec": 45
+  },
+  "astro-preact": {
+    "heap_initial_mb": 2.17,
+    "heap_after_soak_mb": 5.74,
+    "soak_sec": 45
+  },
+  "astro-vue": {
+    "heap_initial_mb": 2.56,
+    "heap_after_soak_mb": 10,
+    "soak_sec": 45
+  },
+  "astro-svelte": {
+    "heap_initial_mb": 3.62,
+    "heap_after_soak_mb": 5.57,
+    "soak_sec": 45
+  },
+  "astro-solid": {
+    "heap_initial_mb": 2.47,
+    "heap_after_soak_mb": 2.28,
+    "soak_sec": 45
+  }
+}

@@ -1,0 +1,1 @@
+import {defineConfig} from 'astro/config';import vue from '@astrojs/vue';export default defineConfig({base:'/fe/astro-vue',outDir:'dist',integrations:[vue()]});

@@ -1,0 +1,9 @@
+{
+  "setup": "Go Echo backend querying a real Postgres 16 (docker, localhost:5433), 200-row table (7 cols), oha 5s x 64 conns",
+  "endpoints": {
+    "echo_pgx_pool": { "rps": 13742, "p99_ms": 10.65, "driver": "jackc/pgx/v5 pgxpool" },
+    "echo_database_sql_libpq": { "rps": 8851, "p99_ms": 25.2, "driver": "database/sql + lib/pq (MaxOpenConns=16)" },
+    "echo_in_memory_baseline": { "rps": 92142, "p99_ms": 5.64, "driver": "none (static slice)" }
+  },
+  "notes": "pgx pool is ~1.55x database/sql+lib/pq on this query and ~7x below the no-DB ceiling; the DB round-trip, not Echo, dominates once a real query is on the path. localhost Postgres - Railway private networking adds ~0.5-2ms per query."
+}

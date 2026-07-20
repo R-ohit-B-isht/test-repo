@@ -1,0 +1,117 @@
+{
+  "node-express": {
+    "cwd": "/home/ubuntu/stack-bench/backends/node-express",
+    "cmd": "node server.js",
+    "port": 3001
+  },
+  "node-fastify": {
+    "cwd": "/home/ubuntu/stack-bench/backends/node-fastify",
+    "cmd": "node server.js",
+    "port": 3002
+  },
+  "node-hono": {
+    "cwd": "/home/ubuntu/stack-bench/backends/node-hono",
+    "cmd": "node server.js",
+    "port": 3003
+  },
+  "node-nestjs": {
+    "cwd": "/home/ubuntu/stack-bench/backends/node-nestjs",
+    "cmd": "node dist/main.js",
+    "port": 3004
+  },
+  "bun-hono": {
+    "cwd": "/home/ubuntu/stack-bench/backends/bun-hono",
+    "cmd": "/home/ubuntu/.bun/bin/bun run server.js",
+    "port": 3005
+  },
+  "bun-elysia": {
+    "cwd": "/home/ubuntu/stack-bench/backends/bun-elysia",
+    "cmd": "/home/ubuntu/.bun/bin/bun run server.js",
+    "port": 3006
+  },
+  "deno-oak": {
+    "cwd": "/home/ubuntu/stack-bench/backends/deno-oak",
+    "cmd": "/home/ubuntu/.deno/bin/deno run --allow-net --allow-env server.ts",
+    "port": 3007
+  },
+  "go-nethttp": {
+    "cwd": "/home/ubuntu/stack-bench/backends/go-nethttp",
+    "cmd": "./server",
+    "port": 3010
+  },
+  "go-fiber": {
+    "cwd": "/home/ubuntu/stack-bench/backends/go-fiber",
+    "cmd": "./server",
+    "port": 3011
+  },
+  "go-echo": {
+    "cwd": "/home/ubuntu/stack-bench/backends/go-echo",
+    "cmd": "./server",
+    "port": 3012
+  },
+  "go-gin": {
+    "cwd": "/home/ubuntu/stack-bench/backends/go-gin",
+    "cmd": "./server",
+    "port": 3013
+  },
+  "rust-axum": {
+    "cwd": "/home/ubuntu/stack-bench/backends/rust-axum",
+    "cmd": "./target/release/bench-axum",
+    "port": 3020
+  },
+  "rust-actix": {
+    "cwd": "/home/ubuntu/stack-bench/backends/rust-actix",
+    "cmd": "./target/release/bench-actix",
+    "port": 3021
+  },
+  "py-fastapi": {
+    "cwd": "/home/ubuntu/stack-bench/backends/py-fastapi",
+    "cmd": "python3 -m uvicorn main:app --host 0.0.0.0 --port 3030 --workers 4 --log-level error",
+    "port": 3030
+  },
+  "py-flask": {
+    "cwd": "/home/ubuntu/stack-bench/backends/py-flask",
+    "cmd": "python3 -m gunicorn -w 4 -b 0.0.0.0:3031 --threads 8 main:app --log-level error",
+    "port": 3031
+  },
+  "py-django": {
+    "cwd": "/home/ubuntu/stack-bench/backends/py-django",
+    "cmd": "python3 -m gunicorn -w 4 -b 0.0.0.0:3032 --threads 8 app:application --log-level error",
+    "port": 3032
+  },
+  "csharp-aspnet": {
+    "cwd": "/home/ubuntu/stack-bench/backends/csharp-minimal",
+    "cmd": "/home/ubuntu/.dotnet/dotnet publish/csharp-minimal.dll",
+    "port": 3050
+  },
+  "java-spring": {
+    "cwd": "/home/ubuntu/stack-bench/backends/java-spring",
+    "cmd": "java -jar target/java-spring-0.0.1-SNAPSHOT.jar --server.port=3040",
+    "port": 3040
+  },
+  "elixir-phoenix": {
+    "cwd": "/home/ubuntu/stack-bench/backends/elixir-phoenix",
+    "cmd": "PATH=/opt/elixir116/bin:$PATH SECRET_KEY_BASE=devbenchsecretdevbenchsecretdevbenchsecretdevbenchsecretdevbench MIX_ENV=prod mix phx.server",
+    "port": 3060
+  },
+  "php-laravel": {
+    "cwd": "/home/ubuntu/stack-bench/backends/php-laravel",
+    "cmd": "PHP_CLI_SERVER_WORKERS=8 exec php artisan serve --host 0.0.0.0 --port 3062",
+    "port": 3062
+  },
+  "ruby-rails": {
+    "cwd": "/home/ubuntu/stack-bench/backends/ruby-rails",
+    "cmd": "RAILS_ENV=production SECRET_KEY_BASE=deadbeef RAILS_MAX_THREADS=16 WEB_CONCURRENCY=4 exec bin/rails server -p 3064 -e production",
+    "port": 3064
+  },
+  "java-vertx": {
+    "cwd": "/home/ubuntu/stack-bench/backends/java-vertx",
+    "cmd": "exec java -jar target/java-vertx-1.0.jar",
+    "port": 3063
+  },
+  "deno-fresh": {
+    "cwd": "/home/ubuntu/stack-bench/backends/deno-fresh",
+    "cmd": "exec /home/ubuntu/.deno/bin/deno serve -A --port 3061 _fresh/server.js",
+    "port": 3061
+  }
+}

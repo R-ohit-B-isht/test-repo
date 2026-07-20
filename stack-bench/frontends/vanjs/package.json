@@ -1,0 +1,14 @@
+{
+  "name": "fe-vanjs",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build --base=/fe/vanjs/"
+  },
+  "dependencies": {
+    "vanjs-core": "^1.5.2"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}

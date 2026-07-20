@@ -1,0 +1,1 @@
+import {defineConfig} from 'astro/config';import react from '@astrojs/react';export default defineConfig({base:'/fe/astro-react',outDir:'dist',integrations:[react()]});

@@ -1,0 +1,13 @@
+{
+  "name": "fe-astro-solid",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "astro build"
+  },
+  "dependencies": {
+    "astro": "^5.1.1",
+    "@astrojs/solid-js": "^5.0.0",
+    "solid-js": "^1.9.3"
+  }
+}

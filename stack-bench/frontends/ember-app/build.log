@@ -1,0 +1,18 @@
+- Building
+Environment: production
+- Building
+- building... 
+[BABEL] Note: The code generator has deoptimised the styling of /home/ubuntu/stack-bench/frontends/ember-app/ember/ember-template-compiler.js as it exceeds the max of 500KB.
+[BABEL] Note: The code generator has deoptimised the styling of /home/ubuntu/stack-bench/frontends/ember-app/ember/ember.js as it exceeds the max of 500KB.
+- cleaning up
+cleaning up...
+- cleaning up
+Built project successfully. Stored in "/home/ubuntu/stack-bench/frontends/ember-app/dist".
+File sizes:
+ - /home/ubuntu/stack-bench/frontends/ember-app/dist/assets/chunk.524.62b1c2696a8a5702d888.js: 4.32 kB (1.47 kB gzipped)
+ - /home/ubuntu/stack-bench/frontends/ember-app/dist/assets/chunk.582.aa4819d9e788548d1583.js: 5.7 kB (1.89 kB gzipped)
+ - /home/ubuntu/stack-bench/frontends/ember-app/dist/assets/chunk.922.28b6ec24f3fdd7a7ea8f.js: 192.15 kB (56.39 kB gzipped)
+ - /home/ubuntu/stack-bench/frontends/ember-app/dist/assets/ember-app-24bf4c3dcdcd58dcf54c13ac0370e835.js: 10.34 kB (2.68 kB gzipped)
+ - /home/ubuntu/stack-bench/frontends/ember-app/dist/assets/ember-app-d41d8cd98f00b204e9800998ecf8427e.css: 0 B
+ - /home/ubuntu/stack-bench/frontends/ember-app/dist/assets/vendor-1ede8e6d2aef44d5c549e4236b3e10f2.js: 437.55 kB (130.79 kB gzipped)
+ - /home/ubuntu/stack-bench/frontends/ember-app/dist/assets/vendor-d41d8cd98f00b204e9800998ecf8427e.css: 0 B
