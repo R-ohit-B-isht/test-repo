@@ -125,15 +125,11 @@ export default function ProductDetail() {
         <Label tone="secondary" className="mb-md block">
           SPECIFICATIONS
         </Label>
-        <div className="grid grid-cols-1 md:grid-cols-2">
+        <div className="grid grid-cols-1 gap-x-2xl md:grid-cols-2">
           {product.specs.map((spec, i) => (
             <div
               key={spec}
-              className={[
-                "flex items-center justify-between py-md",
-                i !== 0 ? "border-t border-border md:border-t-0" : "",
-                "md:border-b md:border-border",
-              ].join(" ")}
+              className="flex items-center justify-between border-b border-border py-md"
             >
               <Label tone="disabled">SPEC {String(i + 1).padStart(2, "0")}</Label>
               <span className="font-body text-body-sm text-text-primary">{spec}</span>

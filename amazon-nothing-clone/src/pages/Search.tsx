@@ -64,7 +64,7 @@ export default function SearchPage() {
           {query && (
             <button
               onClick={() => setQuery("")}
-              className="font-body text-label uppercase tracking-[0.08em] text-text-disabled hover:text-text-primary"
+              className="whitespace-nowrap font-body text-label uppercase tracking-[0.08em] text-text-disabled hover:text-text-primary"
             >
               [ X ]
             </button>
