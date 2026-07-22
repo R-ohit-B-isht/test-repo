@@ -1,0 +1,126 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+  Nothing design system tokens.
+  ---------------------------------------------------------------------------
+  FONTS: The real Nothing typefaces ("Ndot 57", "NType 82") are licensed and are
+  NOT bundled with this preview. The stacks below fall back to a monospace family
+  for body/data and a bold display family for hero type, per the skill's guidance.
+
+  >>> PRODUCTION: drop the licensed font files into /public/fonts and uncomment
+  the @font-face blocks below (names taken from
+  .agents/skills/nothing-design/references/platform-mapping.md). No other change
+  is needed — the font-family stacks already list "Ndot 57" / "NType 82" first.
+
+  @font-face {
+    font-family: "Ndot 57";
+    src: url("/fonts/NDot-57.otf") format("opentype");
+    font-weight: 400; font-style: normal; font-display: swap;
+  }
+  @font-face {
+    font-family: "NType 82";
+    src: url("/fonts/NType82-Regular.otf") format("opentype");
+    font-weight: 400; font-style: normal; font-display: swap;
+  }
+*/
+
+/* Dark mode = default canvas (OLED black, white data glowing). tokens.md §2 */
+:root,
+[data-theme="dark"] {
+  --black: #000000;
+  --surface: #111111;
+  --surface-raised: #1a1a1a;
+  --border: #222222;
+  --border-visible: #333333;
+  --text-disabled: #666666;
+  --text-secondary: #999999;
+  --text-primary: #e8e8e8;
+  --text-display: #ffffff;
+
+  --accent: #d71921;
+  --accent-subtle: rgba(215, 25, 33, 0.15);
+  --success: #4a9e5c;
+  --warning: #d4a843;
+  --interactive: #5b9bf6;
+
+  /* Segmented-bar empty block per components.md §11 */
+  --segment-empty: var(--border);
+  --dot-grid: rgba(51, 51, 51, 0.35);
+}
+
+/* Light mode = printed technical manual (off-white paper, black ink). */
+[data-theme="light"] {
+  --black: #f5f5f5;
+  --surface: #ffffff;
+  --surface-raised: #f0f0f0;
+  --border: #e8e8e8;
+  --border-visible: #cccccc;
+  --text-disabled: #999999;
+  --text-secondary: #666666;
+  --text-primary: #1a1a1a;
+  --text-display: #000000;
+
+  --accent: #d71921;
+  --accent-subtle: rgba(215, 25, 33, 0.12);
+  --success: #4a9e5c;
+  --warning: #d4a843;
+  --interactive: #007aff;
+
+  --segment-empty: #e0e0e0;
+  --dot-grid: rgba(0, 0, 0, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background-color: var(--black);
+  color: var(--text-primary);
+  font-family: "NType 82", "SF Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+  -webkit-font-smoothing: antialiased;
+  font-feature-settings: "tnum" 1; /* tabular numerals for data readouts */
+}
+
+/* Percussive, not fluid: subtle ease-out only, no spring/bounce. */
+@media (prefers-reduced-motion: no-preference) {
+  a,
+  button,
+  [data-transition] {
+    transition-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
+    transition-duration: 200ms;
+  }
+}
+
+/* Dot-matrix motif (tokens.md §6) — decorative background only. */
+.dot-grid {
+  background-image: radial-gradient(circle, var(--dot-grid) 1px, transparent 1px);
+  background-size: 16px 16px;
+}
+
+/* Focus-visible: border/text brightens, no shadow. */
+:focus-visible {
+  outline: 1px solid var(--text-display);
+  outline-offset: 2px;
+}
+
+/* Segmented, hardware-style scrollbar. */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: var(--black);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border-visible);
+}
