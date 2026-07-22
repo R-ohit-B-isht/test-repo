@@ -1,0 +1,149 @@
+/*
+ * Atlassian Design System token layer.
+ *
+ * FONTS: The real Atlassian product fonts ("Atlassian Sans", "Atlassian Mono")
+ * are LICENSED and are intentionally NOT bundled here. This preview uses the
+ * skill's modernized system-font fallback stacks. For production, register the
+ * licensed fonts via @font-face using the family names below (see
+ * .agents/skills/atlassian-design/references/platform-mapping.md §1), e.g.
+ *
+ *   @font-face { font-family: "Atlassian Sans"; src: url("/fonts/AtlassianSans-Regular.ttf"); font-weight: 400; }
+ *   @font-face { font-family: "Atlassian Sans"; src: url("/fonts/AtlassianSans-Bold.ttf");    font-weight: 700; }
+ *   @font-face { font-family: "Atlassian Mono"; src: url("/fonts/AtlassianMono-Regular.ttf"); font-weight: 400; }
+ *
+ * Do NOT use "Charlie Sans" (Atlassian's brand/marketing font, not product UI).
+ */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root,
+[data-theme='dark'] {
+  /* Neutral surfaces — near-black that lightens as it elevates */
+  --black: #1f1f21; /* elevation.surface / page */
+  --surface: #242528; /* elevation.surface.raised context */
+  --surface-sunken: #1a1a1c; /* elevation.surface.sunken (well) */
+  --surface-raised: #242528; /* elevation.surface.raised */
+  --surface-overlay: #2b2c2f; /* elevation.surface.overlay */
+
+  --border: #e3e4f21f; /* color.border (alpha) */
+  --border-visible: #7e8188; /* color.border.bold */
+  --border-focused: #669df1; /* color.border.focused */
+
+  --text-disabled: #e5e9f640; /* color.text.disabled */
+  --text-secondary: #a9abaf; /* color.text.subtle */
+  --text-primary: #cecfd2; /* color.text */
+  --text-display: #ffffff; /* headlines / hero numbers */
+
+  --accent: #669df1; /* color.background.brand.bold (dark) */
+  --accent-subtle: #1c2b42; /* color.background.selected (dark) */
+  --text-selected: #85b8ff; /* color.text.selected (dark) */
+  --interactive: #669df1; /* color.link (dark) */
+  --inverse: #1f1f21; /* color.text.inverse (dark) */
+
+  /* Semantic status — lozenge subtle bg + text (dark) */
+  --lz-neutral-bg: #2c2e33;
+  --lz-neutral-text: #c7c9ce;
+  --lz-success-bg: #1c3329;
+  --lz-success-text: #b3df72;
+  --lz-warning-bg: #332e1b;
+  --lz-warning-text: #f5cd47;
+  --lz-danger-bg: #42221f;
+  --lz-danger-text: #fd9891;
+  --lz-info-bg: #1c2b42;
+  --lz-info-text: #85b8ff;
+  --lz-discovery-bg: #2b273f;
+  --lz-discovery-text: #d8a0f7;
+
+  --success-bold: #94c748; /* color.background.success.bold (dark) */
+  --warning-bold: #fbc828;
+  --danger-bold: #f87168; /* color.background.danger.bold (dark) */
+
+  --elevation-shadow-raised: 0px 1px 1px rgba(3, 4, 4, 0.5), 0px 0px 1px rgba(3, 4, 4, 0.5);
+  --elevation-shadow-overlay: 0px 8px 12px rgba(3, 4, 4, 0.36), 0px 0px 1px rgba(3, 4, 4, 0.5);
+}
+
+[data-theme='light'] {
+  --black: #f8f8f8; /* elevation.surface.sunken / page */
+  --surface: #ffffff; /* elevation.surface */
+  --surface-sunken: #f1f2f4; /* elevation.surface.sunken (well) */
+  --surface-raised: #ffffff; /* elevation.surface.raised */
+  --surface-overlay: #ffffff; /* elevation.surface.overlay */
+
+  --border: #0b120e24; /* color.border (14% alpha) */
+  --border-visible: #7d818a; /* color.border.bold */
+  --border-focused: #1868db; /* color.border.focused */
+
+  --text-disabled: #080f214a; /* color.text.disabled */
+  --text-secondary: #505258; /* color.text.subtle */
+  --text-primary: #292a2e; /* color.text */
+  --text-display: #1e1f21; /* headlines / hero numbers */
+
+  --accent: #1868db; /* color.background.brand.bold */
+  --accent-subtle: #e9f2fe; /* color.background.selected */
+  --text-selected: #0c66e4; /* color.text.selected */
+  --interactive: #1868db; /* color.link */
+  --inverse: #ffffff; /* color.text.inverse */
+
+  --lz-neutral-bg: #dcdfe4;
+  --lz-neutral-text: #44474c;
+  --lz-success-bg: #dcfff1;
+  --lz-success-text: #216e4e;
+  --lz-warning-bg: #fff7d6;
+  --lz-warning-text: #974f0c;
+  --lz-danger-bg: #ffeceb;
+  --lz-danger-text: #ae2e24;
+  --lz-info-bg: #e9f2fe;
+  --lz-info-text: #0055cc;
+  --lz-discovery-bg: #f3e9fb;
+  --lz-discovery-text: #803fa5;
+
+  --success-bold: #5b7f24;
+  --warning-bold: #fbc828;
+  --danger-bold: #c9372c;
+
+  --elevation-shadow-raised: 0px 1px 1px rgba(30, 31, 33, 0.25), 0px 0px 1px rgba(30, 31, 33, 0.31);
+  --elevation-shadow-overlay: 0px 8px 12px rgba(30, 31, 33, 0.15), 0px 0px 1px rgba(30, 31, 33, 0.31);
+}
+
+/* Motion tokens — ADS easing curves, no spring/bounce */
+:root {
+  --ease-out-bold: cubic-bezier(0, 0.4, 0, 1);
+  --ease-in-out-bold: cubic-bezier(0.4, 0, 0, 1);
+  --ease-in-practical: cubic-bezier(0.6, 0, 0.8, 0.6);
+  --ease-out-practical: cubic-bezier(0.4, 1, 0.6, 1);
+  --duration-fast: 100ms;
+  --duration-medium: 250ms;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--black);
+  color: var(--text-primary);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Visible 2px focus ring on every interactive element (SKILL §2.10) */
+:where(a, button, input, select, textarea, [tabindex]):focus-visible {
+  outline: 2px solid var(--border-focused);
+  outline-offset: 2px;
+}
+
+/* Reduced motion: make transitions instant (SKILL §2.10 / motion) */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
