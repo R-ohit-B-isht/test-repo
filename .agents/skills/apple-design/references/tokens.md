@@ -17,9 +17,9 @@
 
 ### Loading requirements
 
-- On iOS/iPadOS/macOS the SF and New York fonts are **provided by the system** — reference them via the OS font APIs; you do not embed them.
-- The SF / New York fonts are **licensed for use on Apple platforms**. Do NOT download, self-host, or bundle the `.otf`/`.ttf` files into a web app or other output. On the web, use `-apple-system` / `system-ui` (which yields SF on Apple browsers) and the fallback stacks above; state this to the user.
-- Apple provides the SF fonts to designers for mockups (Apple Design Resources) — use them in Figma/Sketch, not in shipped non-Apple bundles.
+- On iOS/iPadOS/macOS the SF and New York fonts are **provided by the system** — reference them via the OS font APIs; no embedding needed.
+- On the web, the simplest reliable approach is `-apple-system` / `system-ui` (which yields SF on Apple browsers) with the fallback stacks above — non-Apple devices then get their own high-quality system font. If local SF font files are available in the project, they can be loaded with `@font-face` for a pixel-perfect look everywhere.
+- The SF and New York font files, the SF Symbols app, and full UI kits are freely downloadable from Apple Design Resources (developer.apple.com/design/resources/) — grab them for design work in Figma/Sketch.
 
 ### Type scale — Dynamic Type (iOS/iPadOS, Large = default content size)
 
@@ -117,6 +117,14 @@ Gray ramp (light / dark): `systemGray2` `#AEAEB2`/`#636366`, `Gray3` `#C7C7CC`/`
 
 **Identical across appearances:** the *token names* and roles, the tint concept, Dynamic Type styles, spacing, materials usage, and component shapes. Only the resolved values differ between light and dark.
 
+### Dark Mode specifics
+
+- Dark Mode is a **first-class system-wide preference** (Light / Dark / Auto). Respect the system setting — **do not offer an app-only appearance toggle** that ignores it (a preview site's `prefers-color-scheme` toggle for demo purposes is fine; a shipped app should follow the OS).
+- Dark values are **not simple inversions** of light — some colors invert, some don't. Always drive color from the semantic tokens (or asset-catalog **Color Sets** with light/dark variants), never hardcoded hex.
+- Dark Mode uses **two background levels**: a **base** and a lighter **elevated** level. Presented/modal content and popovers use the *elevated* backgrounds so they read as raised above the base; the system does this automatically for standard presentations.
+- Contrast: aim for ≥ 4.5:1 (7:1 for custom small text). With Increase Contrast + Reduce Transparency on, re-check that dark text isn't lost on dark backgrounds.
+- Slightly darken imported images that have white backgrounds so they don't "glow" in a dark context. Prefer SF Symbols and appearance-optimized assets.
+
 ---
 
 ## 3. SPACING & LAYOUT
@@ -137,6 +145,12 @@ Apple composes on an **8pt soft grid** (steps of 4/8). There is no fixed public 
 - **Minimum touch target: 44×44pt.** Space controls so their tap areas don't collide.
 - Respect the **safe area** (notch, Dynamic Island, home indicator) and the **readable content guide** for long text (don't run body text edge-to-edge on wide screens).
 - Default iPhone layout margin is 16pt; grouped-list content uses standard insets. Align to the margin rather than centering everything.
+
+### Adaptivity & size classes
+
+- Design **adaptive** layouts, don't just scale one size. iOS/iPadOS express context as **size classes** — compact vs regular width/height — and layouts should reflow between them (e.g. a stacked iPhone view becomes a split view / sidebar on iPad or landscape).
+- Support multitasking (Split View / Slide Over / Stage Manager) and window resizing on iPad/macOS; never assume a fixed screen size.
+- Keep key content within the **safe area** and honor device features (Dynamic Island, home indicator, rounded corners). On the web, mirror this with responsive breakpoints and `env(safe-area-inset-*)`.
 
 ---
 
@@ -202,3 +216,35 @@ Depth is a core theme. Two categories:
 - **Motion / transparency:** honor Reduce Motion and Reduce Transparency.
 - **Don't encode meaning in color alone.** Pair with text/symbol/shape.
 - **VoiceOver:** every control and meaningful image has a label; decorative art is hidden from assistive tech.
+
+---
+
+## 9. INTERNATIONALIZATION & RIGHT-TO-LEFT
+
+- Think in **leading/trailing**, not left/right. System frameworks flip standard layouts and components automatically for RTL languages (Arabic, Hebrew) — use standard layout so you get this for free.
+- **Mirror** directional things (back/forward chevrons, progress direction, sliders, text alignment). **Don't mirror** direction-agnostic glyphs: checkmarks, clock/time, media playback controls (play points to time, not reading order), and images whose meaning is fixed.
+- Align a paragraph by its **language**, not the current context; align UI text to match the interface direction.
+- Leave room for text expansion (localized strings can be much longer); never hardcode widths to fit English. Format numbers, dates, and currency with the locale.
+
+---
+
+## 10. FEEDBACK & HAPTICS
+
+- Give timely, appropriate feedback: activity spinners/progress for waits, subtle transient confirmations for success, inline messages for errors. Keep the UI responsive to touch.
+- Use **system haptics** (via the standard feedback generators / patterns) to reinforce meaningful events — selection changes, success/warning/error, and control interactions. Use standard, semantically-correct haptic patterns; don't invent buzzes or overuse them.
+- Pair haptics with visual (and where relevant audio) feedback — never rely on haptics alone. Respect the user's system settings.
+
+---
+
+## 11. APP ICONS & BRANDING
+
+- **App icon:** a single, simple, recognizable image on Apple's fixed **rounded-rectangle superellipse** grid — the system applies the mask, so supply a full-bleed square with **no transparency**, and avoid baking in the exact rounded corners. Avoid words/UI screenshots; provide light/dark/tinted variants where supported.
+- **Branding is restrained:** express the brand through tone, typography choices, and a considered accent/tint — not by plastering the logo across the UI or overriding standard controls. Don't display the logo in the nav bar where a title belongs. Let content, not chrome, carry the brand.
+
+---
+
+## 12. WRITING (VOICE & CAPITALIZATION)
+
+- **Capitalization:** **Title Case** for buttons, menu items, labels, and short titles; **sentence case** for body text, messages, and longer descriptive strings. Be consistent.
+- Be **clear and concise** — front-load the important words, avoid jargon, and don't repeat words already shown in a nearby heading/label (reduce cognitive load).
+- Use **consistent terminology** for the same concept throughout; write button labels that name the action they perform. Keep alerts short: a clear title, a brief message, and specific button verbs (e.g. "Delete" / "Keep") rather than "OK/Cancel" when a verb is clearer.

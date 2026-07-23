@@ -72,7 +72,7 @@ withAnimation(.spring(duration: 0.35)) { isExpanded.toggle() }
 
 ## 3. HTML / CSS / WEB
 
-On the web the SF fonts are **not embeddable** — use `-apple-system` / `system-ui` (renders SF on Apple browsers) with fallbacks. Drive appearance with `prefers-color-scheme`. Map semantic tokens to CSS custom properties (values from `tokens.md`).
+On the web, use `-apple-system` / `system-ui` (renders SF on Apple browsers) with fallbacks — or `@font-face` when local SF font files are available in the project. Drive appearance with `prefers-color-scheme`. Map semantic tokens to CSS custom properties (values from `tokens.md`).
 
 ```css
 :root {

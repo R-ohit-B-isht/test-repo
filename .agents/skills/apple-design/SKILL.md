@@ -7,7 +7,7 @@ description: Use when the user explicitly says "Apple style", "Apple Human Inter
 
 A senior product designer's toolkit trained in Apple's Human Interface Guidelines across iOS, iPadOS, and macOS. Content-first interfaces built on clarity, deference, and depth — the system fonts, system colors, materials, and SF Symbols doing the work. Light and dark appearance with equal rigor.
 
-**Before starting any design work, declare which fonts you're using and how to load them** (see `references/tokens.md` §1). On Apple platforms the San Francisco (SF Pro / SF Mono) and New York families are provided by the system; on the web they're licensed and must be handled with fallbacks. Never assume the SF fonts are embeddable in a non-Apple context.
+**Before starting any design work, declare which fonts you're using and how to load them** (see `references/tokens.md` §1). On Apple platforms the San Francisco (SF Pro / SF Mono) and New York families are provided by the system; on the web use the `-apple-system`/`system-ui` fallback stacks (or `@font-face` when local SF font files are available in the project).
 
 ---
 
@@ -138,6 +138,9 @@ Lead section → heaviest treatment. Secondary → different form. Tertiary → 
 - Don't shrink touch targets below 44×44pt or crowd the safe area / layout margins.
 - Don't invent custom chrome that mimics but subtly breaks standard controls (fake switches, fake nav bars). Use the real components.
 - Don't disable or fight Dynamic Type, Reduce Motion, Reduce Transparency, or Increase Contrast — honor them.
+- Don't add an app-only light/dark toggle that ignores the system appearance setting (a demo/preview `prefers-color-scheme` toggle is fine).
+- Don't assume left-to-right or a fixed screen size — think leading/trailing, let layouts adapt across size classes, and don't mirror direction-agnostic glyphs (checkmarks, clocks, media controls) in RTL.
+- Don't over-brand — no logo where a title belongs, no re-skinning standard controls; let content carry the brand.
 - Don't over-animate. Motion is fluid and purposeful (spring, interruptible), never gratuitous; provide a reduced alternative (cross-dissolve) for Reduce Motion.
 - Don't use arbitrary square or fully-sharp corners on controls — Apple corners are **continuous** (smooth "squircle") curvature, and nested corners should be concentric.
 
@@ -160,6 +163,6 @@ Lead section → heaviest treatment. Secondary → different form. Tertiary → 
 
 For detailed token values, component specs, and platform-specific guidance:
 
-- **`references/tokens.md`** — Fonts (SF Pro/SF Mono/New York), Dynamic Type scale, system + semantic colors (light + dark), spacing/layout, materials & vibrancy, motion, SF Symbols, corner radius
+- **`references/tokens.md`** — Fonts (SF Pro/SF Mono/New York), Dynamic Type scale, system + semantic colors (light + dark, Dark Mode specifics), spacing/layout + adaptivity/size classes, materials & vibrancy, motion, SF Symbols, corner radius, accessibility, RTL/internationalization, feedback & haptics, app icons & branding, writing/voice
 - **`references/components.md`** — Buttons, text fields, lists/tables, navigation & tab bars, segmented controls, switches/steppers, progress & activity, alerts/sheets/popovers, badges, charts, state patterns
 - **`references/platform-mapping.md`** — SwiftUI (primary), UIKit notes, HTML/CSS (light + dark, materials, reduced-motion), and Figma / Apple Design Resources conventions
