@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Induction Cooktops — India, Ranked</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Doto:wght@400..700&family=Space+Grotesk:wght@300;400;500&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="dev-banner">[DEV MODE] SCORE TABLE LOGGED TO CONSOLE</div>
+  <header>
+    <div class="masthead">
+      <span class="label">INDUCTION COOKTOPS / INDIA</span>
+      <span class="label">RESEARCHED 25 JUL 2026</span>
+    </div>
+    <div class="hero">
+      <span class="hero-number">358</span>
+      <div class="hero-side">
+        <h1>Cooktops ranked.<br>Specs verified.</h1>
+        <p class="hero-sub">358 induction cooktops sold in India — every Flipkart listing from Prestige, Philips,
+          Pigeon, Bajaj, Havells, Usha, Butterfly, Crompton, V-Guard, iBell, Milton, Longway, Candes and more,
+          visited live in the browser. Each one is scored from its own published spec sheet — wattage, control type,
+          preset menus, auto shut-off, worktop material, warranty — plus its real buyer rating and brand track record.
+          Power, safety and build &amp; reliability weighted highest, because appliances that look good on paper
+          but die early are the whole point. Infrared cooktops and built-in hobs excluded.</p>
+      </div>
+    </div>
+    <div class="masthead tags">
+      <span class="tag">POWER 24%</span>
+      <span class="tag">SAFETY 22%</span>
+      <span class="tag">BUILD 22%</span>
+      <span class="tag">LIVE PRICES</span>
+      <span class="tag">NOTHING INVENTED</span>
+    </div>
+  </header>
+
+  <div class="controls">
+    <select id="sort" aria-label="Sort">
+      <option value="score">SORT: OVERALL SCORE</option>
+      <option value="power">SORT: HEATING POWER</option>
+      <option value="safety">SORT: SAFETY</option>
+      <option value="build">SORT: BUILD &amp; RELIABILITY</option>
+      <option value="priceAsc">SORT: PRICE LOW→HIGH</option>
+      <option value="priceDesc">SORT: PRICE HIGH→LOW</option>
+      <option value="brand">SORT: BRAND</option>
+    </select>
+    <select id="type" aria-label="Filter">
+      <option value="all">FILTER: ALL</option>
+      <option value="w2000">2000W OR MORE</option>
+      <option value="touch">FEATHER-TOUCH CONTROLS</option>
+      <option value="preset">5+ PRESET MENUS</option>
+      <option value="autooff">AUTO SHUT-OFF CONFIRMED</option>
+    </select>
+    <label class="label">MAX PRICE <input type="range" id="maxPrice" min="700" max="14000" step="100" value="14000" />
+      <span id="maxPriceLabel" class="mono-val">₹14,000</span></label>
+    <span id="count" class="tag"></span>
+  </div>
+
+  <main>
+    <h2 class="section-title">RANKED PICKS</h2>
+    <div id="cards" class="grid"></div>
+
+    <h2 class="section-title">FULL COMPARISON TABLE</h2>
+    <p class="note">Every spec field, side by side. Click column headers to sort; first columns stay pinned on desktop.</p>
+    <div id="table" class="table-wrap"></div>
+  </main>
+
+  <footer>
+    <span class="label">WEIGHTS</span> Power 26 · Safety 24 · Build 24 · Usability 15 · Features 11 (looks &amp; design removed by request)<br />
+    <span class="label">SOURCES</span> Flipkart product pages — verified live in the browser, 25 Jul 2026. Prices change — verify before buying.<br />
+    <span class="label">HONESTY</span> Unpublished figures are marked "Not officially published" or "Not stated in listing" — never guessed.
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="scoring.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
