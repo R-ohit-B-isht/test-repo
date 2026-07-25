@@ -2,12 +2,11 @@
 // high — the requester has been burned by appliances that looked good on specs
 // but died early; heating power decides real cooking speed.
 const WEIGHTS = {
-  power: 0.24,
-  safety: 0.22,
-  build: 0.22,
-  usability: 0.14,
-  features: 0.10,
-  looks: 0.08,
+  power: 0.26,
+  safety: 0.24,
+  build: 0.24,
+  usability: 0.15,
+  features: 0.11,
 };
 
 const CRITERIA_LABELS = {
@@ -16,7 +15,6 @@ const CRITERIA_LABELS = {
   build: "Build & Reliability",
   usability: "Controls & Ease of Use",
   features: "Presets & Features",
-  looks: "Looks & Design",
 };
 
 function overallScore(s) {
