@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pink Tumblers Under ₹1,000 — India, Ranked</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Doto:wght@400..700&family=Space+Grotesk:wght@300;400;500&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="dev-banner">[DEV MODE] SCORE TABLE LOGGED TO CONSOLE</div>
+  <header>
+    <div class="masthead">
+      <span class="label">PINK TUMBLERS / INDIA / UNDER ₹1,000</span>
+      <span class="label">RESEARCHED 27 JUL 2026</span>
+    </div>
+    <div class="hero">
+      <span class="hero-number">464</span>
+      <div class="hero-side">
+        <h1>Pink tumblers ranked.<br>No spills, no guesses.</h1>
+        <p class="hero-sub">464 pink tumblers under ₹1,000 sold in India — 145 Flipkart listings visited live in the
+          browser plus 319 Amazon.in product pages fetched live (Milton, Cello, Borosil, Flair, InstaCuppa and
+          hundreds of marketplace brands). Each one is scored from its real listing signals — capacity, material,
+          vacuum/double-wall insulation, straw and lid type, leak-proof claims, live buyer rating, brand track
+          record — never invented specs. Insulation and lid seal weighted highest, because a tumbler that leaks
+          or goes lukewarm is useless. Myntra and Ajio block automated access from this network, so their
+          catalogues are excluded rather than guessed.</p>
+      </div>
+    </div>
+    <div class="masthead tags">
+      <span class="tag">INSULATION 26%</span>
+      <span class="tag">LID SEAL 22%</span>
+      <span class="tag">BUILD 22%</span>
+      <span class="tag">LIVE PRICES</span>
+      <span class="tag">NOTHING INVENTED</span>
+    </div>
+  </header>
+
+  <div class="controls">
+    <select id="sort" aria-label="Sort">
+      <option value="score">SORT: OVERALL SCORE</option>
+      <option value="insulation">SORT: INSULATION</option>
+      <option value="lid">SORT: LID &amp; SPILL-PROOFING</option>
+      <option value="capacity">SORT: CAPACITY</option>
+      <option value="priceAsc">SORT: PRICE LOW→HIGH</option>
+      <option value="priceDesc">SORT: PRICE HIGH→LOW</option>
+      <option value="brand">SORT: BRAND</option>
+    </select>
+    <select id="type" aria-label="Filter">
+      <option value="all">FILTER: ALL</option>
+      <option value="steel">STAINLESS STEEL</option>
+      <option value="insulated">INSULATED / DOUBLE-WALL</option>
+      <option value="straw">WITH STRAW</option>
+      <option value="big">900 ML OR MORE</option>
+      <option value="amazon">AMAZON LISTINGS</option>
+      <option value="flipkart">FLIPKART LISTINGS</option>
+    </select>
+    <label class="label">MAX PRICE <input type="range" id="maxPrice" min="100" max="1000" step="50" value="1000" />
+      <span id="maxPriceLabel" class="mono-val">₹1,000</span></label>
+    <span id="count" class="tag"></span>
+  </div>
+
+  <main>
+    <h2 class="section-title">RANKED PICKS</h2>
+    <div id="cards" class="grid"></div>
+
+    <h2 class="section-title">FULL COMPARISON TABLE</h2>
+    <p class="note">Every spec field, side by side. Click column headers to sort; first columns stay pinned on desktop.</p>
+    <div id="table" class="table-wrap"></div>
+  </main>
+
+  <footer>
+    <span class="label">WEIGHTS</span> Insulation 26 · Lid seal 22 · Build 22 · Capacity 16 · Convenience 14<br />
+    <span class="label">SOURCES</span> Flipkart product pages (browser-verified) and Amazon.in product pages (fetched live), 27 Jul 2026.
+    Myntra and Ajio block automated access from this network — their catalogues could not be verified and are excluded rather than guessed. Prices change — verify before buying.<br />
+    <span class="label">HONESTY</span> Unpublished figures are marked "Not stated in listing" — never guessed.
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="scoring.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
