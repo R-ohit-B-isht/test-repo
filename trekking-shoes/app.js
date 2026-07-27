@@ -20,6 +20,8 @@ function filteredShoes() {
       if (state.type === "high") return /high|6-inch|hi-neck|jungle/i.test(s.fullSpec.ankleHeight);
       if (state.type === "waterres") return /repellent|resistant|splash|shower/i.test(s.fullSpec.waterproofing);
       if (state.type === "tss") return s.brand === "The Souled Store";
+      if (state.type === "amazon") return s.buyStore === "Amazon";
+      if (state.type === "flipkart") return s.buyStore === "Flipkart";
       return true;
     })
     .sort(SORT_STRATEGIES[state.sort]);
