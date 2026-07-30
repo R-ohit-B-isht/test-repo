@@ -9,7 +9,7 @@ const SORT_STRATEGIES = {
   brand: (a, b) => a.brand.localeCompare(b.brand) || overallScore(b) - overallScore(a),
 };
 
-const state = { sort: "score", type: "all", maxPrice: 3000 };
+const state = { sort: "score", type: "all", maxPrice: 6000 };
 
 function filteredPacks() {
   return PACKS
@@ -18,6 +18,7 @@ function filteredPacks() {
       if (state.type === "all") return true;
       if (state.type === "raincover") return /yes/i.test(s.fullSpec.rainCover);
       if (state.type === "big") return parseInt(s.fullSpec.capacity) >= 50;
+      if (state.type === "huge") return parseInt(s.fullSpec.capacity) >= 75;
       if (state.type === "frame") return /internal|frame/i.test(s.fullSpec.frame) && !/not stated/i.test(s.fullSpec.frame);
       if (state.type === "amazon") return s.buyStore === "Amazon";
       if (state.type === "flipkart") return s.buyStore === "Flipkart";
