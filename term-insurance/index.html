@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Term Life Insurance for a 24-Year-Old (Cover Till 60) — India, Ranked</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Doto:wght@400..700&family=Space+Grotesk:wght@300;400;500&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="dev-banner">[DEV MODE] SCORE TABLE LOGGED TO CONSOLE</div>
+  <header>
+    <div class="masthead">
+      <span class="label">TERM LIFE INSURANCE / INDIA / AGE 24 → 60</span>
+      <span class="label">RESEARCHED 19 JUL 2026</span>
+    </div>
+    <div class="hero">
+      <span class="hero-number">24</span>
+      <div class="hero-side">
+        <h1>Plans ranked.<br>Families covered.</h1>
+        <p class="hero-sub">24 term life insurance plans sold in India, compared for a 24-year-old
+          buying cover till age 60 (a 36-year term). Every plan page was visited live in the browser on
+          Policybazaar; claim settlement ratios come from live Policybazaar plan cards and InsuranceDekho's
+          published CSR table, and starting premiums for ₹1 crore cover are shown where the plan card
+          publishes them. Claim settlement record is weighted highest — a term plan is only as good as its
+          payout when your family needs it. Premiums are personalised by age, health and smoking status, so
+          treat listed premiums as starting points, never final quotes. Nothing here is invented — unpublished
+          figures say so.</p>
+      </div>
+    </div>
+    <div class="masthead tags">
+      <span class="tag">CLAIMS 30%</span>
+      <span class="tag">PROTECTION 22%</span>
+      <span class="tag">TRUST 20%</span>
+      <span class="tag">LIVE PAGES</span>
+      <span class="tag">NOTHING INVENTED</span>
+    </div>
+  </header>
+
+  <div class="controls">
+    <select id="sort" aria-label="Sort">
+      <option value="score">SORT: OVERALL SCORE</option>
+      <option value="claims">SORT: CLAIM SETTLEMENT RECORD</option>
+      <option value="protection">SORT: RIDERS &amp; PROTECTION</option>
+      <option value="trust">SORT: INSURER TRACK RECORD</option>
+      <option value="priceAsc">SORT: PREMIUM LOW→HIGH</option>
+      <option value="priceDesc">SORT: PREMIUM HIGH→LOW</option>
+      <option value="brand">SORT: INSURER</option>
+    </select>
+    <select id="type" aria-label="Filter">
+      <option value="all">FILTER: ALL</option>
+      <option value="csr99">CSR 99% OR MORE</option>
+      <option value="quoted">STARTING PREMIUM PUBLISHED</option>
+      <option value="till85">COVER EXTENDABLE TO 85+</option>
+      <option value="tierA">BIG-SIX INSURERS</option>
+    </select>
+    <label class="label">MAX PREMIUM/MO <input type="range" id="maxPrice" min="400" max="600" step="10" value="600" />
+      <span id="maxPriceLabel" class="mono-val">₹600</span></label>
+    <span id="count" class="tag"></span>
+  </div>
+
+  <main>
+    <h2 class="section-title">RANKED PLANS</h2>
+    <div id="cards" class="grid"></div>
+
+    <h2 class="section-title">FULL COMPARISON TABLE</h2>
+    <p class="note">Every field, side by side. Click column headers to sort; first columns stay pinned on desktop.</p>
+    <div id="table" class="table-wrap"></div>
+  </main>
+
+  <footer>
+    <span class="label">WEIGHTS</span> Claims 30 · Protection 22 · Trust 20 · Flexibility 16 · Value 12<br />
+    <span class="label">SOURCES</span> Policybazaar plan pages visited live in the browser, 19 Jul 2026; CSR from live
+    Policybazaar plan cards and InsuranceDekho's published table (FY 2022-23 where noted). Premiums are indicative
+    starting figures for ₹1 crore cover — your quote depends on health, smoking status and exact term.<br />
+    <span class="label">HONESTY</span> Unpublished figures are marked "Not published on the compared pages" — never guessed.
+    This is a research aid, not financial advice.
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="scoring.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
