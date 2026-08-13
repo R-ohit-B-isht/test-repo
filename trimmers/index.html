@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Trimmers — India, Ranked</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Doto:wght@400..700&family=Space+Grotesk:wght@300;400;500&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="dev-banner">[DEV MODE] SCORE TABLE LOGGED TO CONSOLE</div>
+  <header>
+    <div class="masthead">
+      <span class="label">TRIMMERS / INDIA / BEARD &amp; GROOMING</span>
+      <span class="label">RESEARCHED 6 AUG 2026</span>
+    </div>
+    <div class="hero">
+      <span class="hero-number">1059</span>
+      <div class="hero-side">
+        <h1>Sharp picks.<br>Ranked honestly.</h1>
+        <p class="hero-sub">1,059 trimmers sold in India — beard, hair and grooming trimmers — 775 Flipkart listings
+          visited live in the browser plus 284 Amazon.in product pages fetched live (Philips, Mi/Xiaomi, boAt, Nova,
+          Havells, Syska, Realme, Braun, Ustraa, Beardo and marketplace brands). Each one is scored from its
+          real listing signals — claimed runtime, blade material, self-sharpening/zero-gap claims, length
+          settings, waterproofing, USB-C/fast charging, live buyer rating, brand track record — never invented
+          specs. Build &amp; reliability weighted highest, because a trimmer that dies or pulls hair is useless
+          regardless of the spec sheet.</p>
+      </div>
+    </div>
+    <div class="masthead tags">
+      <span class="tag">BUILD 26%</span>
+      <span class="tag">BLADES 22%</span>
+      <span class="tag">BATTERY 22%</span>
+      <span class="tag">LIVE PRICES</span>
+      <span class="tag">NOTHING INVENTED</span>
+    </div>
+  </header>
+
+  <div class="controls">
+    <select id="sort" aria-label="Sort">
+      <option value="score">SORT: OVERALL SCORE</option>
+      <option value="build">SORT: BUILD &amp; RELIABILITY</option>
+      <option value="blades">SORT: BLADE QUALITY</option>
+      <option value="battery">SORT: BATTERY &amp; CHARGING</option>
+      <option value="priceAsc">SORT: PRICE LOW→HIGH</option>
+      <option value="priceDesc">SORT: PRICE HIGH→LOW</option>
+      <option value="brand">SORT: BRAND</option>
+    </select>
+    <select id="type" aria-label="Filter">
+      <option value="all">FILTER: ALL</option>
+      <option value="runtime90">90+ MIN RUNTIME</option>
+      <option value="waterproof">WATERPROOF STATED</option>
+      <option value="usbc">USB-C CHARGING</option>
+      <option value="zerogap">ZERO-GAP BLADES</option>
+      <option value="display">BATTERY DISPLAY</option>
+      <option value="amazon">AMAZON LISTINGS</option>
+      <option value="flipkart">FLIPKART LISTINGS</option>
+    </select>
+    <label class="label">MAX PRICE <input type="range" id="maxPrice" min="200" max="10000" step="100" value="10000" />
+      <span id="maxPriceLabel" class="mono-val">₹10,000</span></label>
+    <span id="count" class="tag"></span>
+  </div>
+
+  <main>
+    <h2 class="section-title">RANKED PICKS</h2>
+    <div id="cards" class="grid"></div>
+
+    <h2 class="section-title">FULL COMPARISON TABLE</h2>
+    <p class="note">Every spec field, side by side. Click column headers to sort; first columns stay pinned on desktop.</p>
+    <div id="table" class="table-wrap"></div>
+  </main>
+
+  <footer>
+    <span class="label">WEIGHTS</span> Build 26 · Blades 22 · Battery 22 · Usability 16 · Features 14<br />
+    <span class="label">SOURCES</span> Flipkart product pages (browser-verified) and Amazon.in product pages (fetched live), 6 Aug 2026.
+    Prices change — verify before buying. Claimed runtimes/blade specs are the sellers' claims, not lab-tested figures.<br />
+    <span class="label">HONESTY</span> Unpublished figures are marked "Not stated in listing" — never guessed.
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="scoring.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
