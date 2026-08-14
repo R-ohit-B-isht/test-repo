@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Men's Skincare Routines — Ranked</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Doto:wght@400..700&family=Space+Grotesk:wght@300;400;500&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="dev-banner">[DEV MODE] SCORE TABLE LOGGED TO CONSOLE</div>
+  <header>
+    <div class="masthead">
+      <span class="label">SKINCARE / MEN / ROUTINES, NOT PRODUCTS</span>
+      <span class="label">RESEARCHED 14 AUG 2026</span>
+    </div>
+    <div class="hero">
+      <span class="hero-number">11</span>
+      <div class="hero-side">
+        <h1>What to do, when.<br>Ranked honestly.</h1>
+        <p class="hero-sub">11 published men's skincare routines — read live in the browser from the American
+          Academy of Dermatology, dermatologists quoted in Vogue, Healthline's medically-reviewed layering
+          guide, and derm-backed brand/clinic guides (CeraVe, Dermalogica, Evolve). Each one is transcribed
+          step-by-step exactly as the source prescribes it — what to do morning, evening and weekly — never
+          invented steps. Ranked with evidence &amp; authorship weighted highest, because a routine is only as
+          good as who's behind it. This is general published guidance, not a personal prescription — persistent
+          skin issues belong with a board-certified dermatologist.</p>
+      </div>
+    </div>
+    <div class="masthead tags">
+      <span class="tag">EVIDENCE 30%</span>
+      <span class="tag">COVERAGE 24%</span>
+      <span class="tag">ADHERENCE 20%</span>
+      <span class="tag">SOURCE-LINKED</span>
+      <span class="tag">NOTHING INVENTED</span>
+    </div>
+  </header>
+
+  <div class="controls">
+    <select id="sort" aria-label="Sort">
+      <option value="score">SORT: OVERALL SCORE</option>
+      <option value="evidence">SORT: EVIDENCE &amp; AUTHORSHIP</option>
+      <option value="coverage">SORT: COVERAGE</option>
+      <option value="adherence">SORT: SIMPLICITY</option>
+      <option value="timeAsc">SORT: QUICKEST FIRST</option>
+      <option value="timeDesc">SORT: MOST THOROUGH FIRST</option>
+    </select>
+    <select id="type" aria-label="Filter">
+      <option value="all">FILTER: ALL</option>
+      <option value="aad">AAD-AUTHORED ONLY</option>
+      <option value="spf">DAILY SPF BUILT IN</option>
+      <option value="exfoliation">INCLUDES EXFOLIATION</option>
+      <option value="actives">USES ACTIVE INGREDIENTS</option>
+      <option value="quick">QUICK (&le;6 STEPS/DAY)</option>
+      <option value="shaving">COVERS SHAVING</option>
+    </select>
+    <label class="label">MAX STEPS/DAY <input type="range" id="maxSteps" min="3" max="19" step="1" value="19" />
+      <span id="maxStepsLabel" class="mono-val">19 steps</span></label>
+    <span id="count" class="tag"></span>
+  </div>
+
+  <main>
+    <h2 class="section-title">RANKED ROUTINES</h2>
+    <div id="cards" class="grid"></div>
+
+    <h2 class="section-title">FULL COMPARISON TABLE</h2>
+    <p class="note">Every routine dimension, side by side. Click column headers to sort; first columns stay pinned on desktop.</p>
+    <div id="table" class="table-wrap"></div>
+  </main>
+
+  <footer>
+    <span class="label">WEIGHTS</span> Evidence 30 · Coverage 24 · Adherence 20 · Skin-type fit 14 · Time cost 12<br />
+    <span class="label">SOURCES</span> AAD patient guidance, Healthline (medically reviewed), Vogue (Drs. Camp &amp; Gratch),
+    CeraVe, Dermalogica and Evolve Telemedicine guides — all pages read live in the browser, 14 Aug 2026. Every card links to its source.<br />
+    <span class="label">HONESTY</span> Steps are transcribed from the sources, never invented; missing fields say "Not stated in source".
+    This is general published guidance, not medical advice — see a board-certified dermatologist for persistent concerns.
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="scoring.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
