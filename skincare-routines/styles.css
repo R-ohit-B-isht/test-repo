@@ -166,6 +166,35 @@ main { max-width: 1200px; margin: 0 auto; }
   color: var(--text-display);
   margin: 0;
 }
+.phase-badge {
+  display: inline-block;
+  font-family: "Space Mono", monospace;
+  font-size: 9px;
+  letter-spacing: 0.08em;
+  padding: 1px 6px;
+  margin-right: 8px;
+  border: 1px solid var(--border-visible);
+  color: var(--text-secondary);
+  white-space: nowrap;
+  vertical-align: middle;
+}
+.phase-cleanse { color: var(--interactive); border-color: var(--interactive); }
+.phase-prep { color: var(--text-primary); border-color: var(--text-secondary); }
+.phase-treat { color: var(--warning); border-color: var(--warning); }
+.phase-seal { color: var(--success); border-color: var(--success); }
+.phase-protect { color: var(--accent); border-color: var(--accent); }
+
+.cat-tag {
+  display: inline-block;
+  font-family: "Space Mono", monospace;
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  padding: 2px 8px;
+  margin-bottom: 8px;
+  border: 1px solid var(--border-visible);
+  color: var(--text-secondary);
+}
+
 .score-pill {
   float: right;
   font-family: "Space Mono", monospace;

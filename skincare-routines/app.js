@@ -8,11 +8,36 @@ const SORT_STRATEGIES = {
   timeDesc: (a, b) => b.stepsPerDay - a.stepsPerDay || overallScore(b) - overallScore(a),
 };
 
-const state = { sort: "score", type: "all", maxSteps: 19 };
+const state = { sort: "score", type: "all", category: "all", maxSteps: 19 };
+
+const CATEGORY_LABELS = {
+  core: "CORE DAILY",
+  global: "WORLD STYLE",
+  method: "NAMED METHOD",
+  occasion: "OCCASION",
+  concern: "CONCERN-DRIVEN",
+};
+
+// Phase classifier (Strategy-style lookup): explicit step.phase wins; otherwise
+// derived from the step name so every step gets a Cleanse→Prep→Treat→Seal→Protect label.
+const PHASE_RULES = [
+  ["SHAVE", /shave|razor/i],
+  ["PROTECT", /sunscreen|spf|sun protection/i],
+  ["CLEANSE", /cleanse|wash|micellar|remover|scrap|rinse|oil pull|bathe/i],
+  ["PREP", /toner|essence|mist|prep|7-skin|layer/i],
+  ["TREAT", /exfoli|retino|serum|treat|acid|spot|vitamin|mask|active|antioxidant/i],
+  ["SEAL", /moistur|cream|emulsion|balm|slug|occlusive|seal|eye|oil massage|hydrate/i],
+];
+function phaseOf(st) {
+  if (st.phase) return st.phase;
+  for (const [label, re] of PHASE_RULES) if (re.test(st.name)) return label;
+  return "CARE";
+}
 
 function filteredRoutines() {
   return ROUTINES
     .filter((s) => s.stepsPerDay <= state.maxSteps)
+    .filter((s) => state.category === "all" || s.category === state.category)
     .filter((s) => {
       if (state.type === "all") return true;
       if (state.type === "aad") return /AAD/.test(s.brand);
@@ -87,7 +112,7 @@ function fullSpecHtml(s) {
 function stepListHtml(title, steps) {
   if (!steps || !steps.length) return "";
   return `<div class="spec-section"><h4 class="spec-section-title">${title}</h4>
-    ${steps.map((st) => `<div class="detail-row"><span class="detail-key">${st.name}</span><span class="detail-val">${st.how}</span></div>`).join("")}</div>`;
+    ${steps.map((st) => `<div class="detail-row"><span class="detail-key"><span class="phase-badge phase-${phaseOf(st).toLowerCase()}">${phaseOf(st)}</span>${st.name}</span><span class="detail-val">${st.how}</span></div>`).join("")}</div>`;
 }
 
 function stepsHtml(s) {
@@ -110,6 +135,7 @@ function cardHtml(s, i) {
   return `<article class="card ${topPick ? "top-pick" : ""}">
     <span class="rank ${topPick ? "gold" : ""}">#${i + 1}${topPick ? " Top Pick" : ""}</span>
     <div><span class="score-pill">${score}</span>
+      <span class="cat-tag">${CATEGORY_LABELS[s.category] || ""}</span>
       <div class="brand">${s.brand}</div>
       <h2>${s.model}</h2>
     </div>
@@ -132,14 +158,15 @@ function tableHtml(items) {
   const specCols = FULL_SPEC_SECTIONS.flatMap((sec) =>
     Object.entries(sec.fields).map(([key, label]) => ({ key, label, section: sec.title }))
   );
-  const groupRow = `<tr class="group-row"><th class="sticky-col" colspan="2"></th><th colspan="2"></th>${FULL_SPEC_SECTIONS.map((sec) => `<th colspan="${Object.keys(sec.fields).length}" class="group-head">${sec.title}</th>`).join("")}<th></th></tr>`;
+  const groupRow = `<tr class="group-row"><th class="sticky-col" colspan="2"></th><th colspan="3"></th>${FULL_SPEC_SECTIONS.map((sec) => `<th colspan="${Object.keys(sec.fields).length}" class="group-head">${sec.title}</th>`).join("")}<th></th></tr>`;
   const head = `<tr>
     <th class="sticky-col" data-sort="score">Rank</th><th class="sticky-col sticky-col-2" data-sort="evidence">Routine</th>
-    <th data-sort="timeAsc">Time/day</th><th data-sort="score">Score</th>
+    <th>Category</th><th data-sort="timeAsc">Time/day</th><th data-sort="score">Score</th>
     ${specCols.map((c) => `<th>${c.label}</th>`).join("")}
     <th>Source</th></tr>`;
   const rows = items
     .map((s, i) => `<tr><td class="sticky-col">#${i + 1}</td><td class="sticky-col sticky-col-2">${s.brand} \u2014 ${s.model}</td>
+      <td>${CATEGORY_LABELS[s.category] || "\u2014"}</td>
       <td>${s.timePerDay}</td>
       <td class="score-cell">${overallScore(s)}</td>
       ${specCols.map((c) => `<td>${(s.fullSpec && s.fullSpec[c.key]) || "\u2014"}</td>`).join("")}
@@ -182,6 +209,7 @@ function initDevMode() {
 document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("sort").addEventListener("change", (e) => { state.sort = e.target.value; render(); });
   document.getElementById("type").addEventListener("change", (e) => { state.type = e.target.value; render(); });
+  document.getElementById("category").addEventListener("change", (e) => { state.category = e.target.value; render(); });
   document.getElementById("maxSteps").addEventListener("input", (e) => {
     state.maxSteps = Number(e.target.value);
     document.getElementById("maxStepsLabel").textContent = `${state.maxSteps} steps`;

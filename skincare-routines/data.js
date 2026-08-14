@@ -8,6 +8,7 @@
 const ROUTINES = [
   {
     id: "aad-essential",
+    category: "core",
     brand: "AAD (American Academy of Dermatology)",
     model: "Essential Daily Routine — cleanse, moisturize, protect",
     source: "AAD 'Face Washing 101' + AAD Sunscreen FAQs",
@@ -56,6 +57,7 @@ const ROUTINES = [
   },
   {
     id: "cerave-men",
+    category: "core",
     brand: "CeraVe (derm-quoted brand guide)",
     model: "Men's 3-Step AM / 3-Step PM \u2014 all skin types",
     source: "CeraVe 'A Men's Facial Skincare Routine for All Skin Types'",
@@ -104,6 +106,7 @@ const ROUTINES = [
   },
   {
     id: "dermalogica-4step",
+    category: "core",
     brand: "Dermalogica (skin-therapist guide)",
     model: "4-Step Men's Routine \u2014 anchored by daily exfoliation",
     source: "Dermalogica 'The 4-step men's skincare routine: a skin therapist's guide'",
@@ -153,6 +156,7 @@ const ROUTINES = [
   },
   {
     id: "vogue-5step",
+    category: "core",
     brand: "Vogue (two named dermatologists)",
     model: "5-Step Dermatologist Routine \u2014 exfoliate 2\u20133\u00d7/week",
     source: "Vogue 'What Is the Ideal Skincare Routine for Men?' (Drs. Camp & Gratch)",
@@ -203,6 +207,7 @@ const ROUTINES = [
   },
   {
     id: "evolve-full",
+    category: "core",
     brand: "Evolve Telemedicine (derm-compiled)",
     model: "Full Derm-Recommended Routine \u2014 with shaving & lifestyle",
     source: "Evolve 'Dermatologist Recommended Men's Skin Care Routines'",
@@ -255,6 +260,7 @@ const ROUTINES = [
   },
   {
     id: "healthline-10step",
+    category: "method",
     brand: "Healthline (medically reviewed)",
     model: "Full 10/11-Step Layering Routine \u2014 maximum coverage",
     source: "Healthline 'The Correct Order of Skin Care'",
@@ -319,6 +325,7 @@ const ROUTINES = [
   },
   {
     id: "aad-acne",
+    category: "concern",
     brand: "AAD (American Academy of Dermatology)",
     model: "Acne-Prone Skin Routine \u2014 6 derm rules",
     source: "AAD '6 At-Home Acne Tips From Dermatologists'",
@@ -369,6 +376,7 @@ const ROUTINES = [
   },
   {
     id: "aad-dry",
+    category: "concern",
     brand: "AAD (American Academy of Dermatology)",
     model: "Dry-Skin Repair Routine \u2014 moisture first",
     source: "AAD 'Dermatologists' top tips for relieving dry skin'",
@@ -420,6 +428,7 @@ const ROUTINES = [
   },
   {
     id: "aad-retinoid",
+    category: "concern",
     brand: "AAD (American Academy of Dermatology)",
     model: "Anti-Aging Retinoid Night Routine \u2014 slow ramp",
     source: "AAD 'Retinoid or retinol?' (Drs. Chapas, Badreshia-Bansal, Alster)",
@@ -469,6 +478,7 @@ const ROUTINES = [
   },
   {
     id: "aad-shave",
+    category: "occasion",
     brand: "AAD (American Academy of Dermatology)",
     model: "Shave-Day Routine \u2014 razor-bump prevention",
     source: "AAD 'How to prevent razor bumps'",
@@ -519,6 +529,7 @@ const ROUTINES = [
   },
   {
     id: "aad-facewash-min",
+    category: "core",
     brand: "AAD (American Academy of Dermatology)",
     model: "Bare-Minimum Face-Washing Discipline",
     source: "AAD 'Face Washing 101'",

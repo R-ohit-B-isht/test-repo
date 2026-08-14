@@ -13,20 +13,22 @@
   <div class="dev-banner">[DEV MODE] SCORE TABLE LOGGED TO CONSOLE</div>
   <header>
     <div class="masthead">
-      <span class="label">SKINCARE / MEN / ROUTINES, NOT PRODUCTS</span>
+      <span class="label">SKINCARE / ROUTINES FROM AROUND THE WORLD, NOT PRODUCTS</span>
       <span class="label">RESEARCHED 14 AUG 2026</span>
     </div>
     <div class="hero">
-      <span class="hero-number">11</span>
+      <span class="hero-number">25</span>
       <div class="hero-side">
-        <h1>What to do, when.<br>Ranked honestly.</h1>
-        <p class="hero-sub">11 published men's skincare routines — read live in the browser from the American
-          Academy of Dermatology, dermatologists quoted in Vogue, Healthline's medically-reviewed layering
-          guide, and derm-backed brand/clinic guides (CeraVe, Dermalogica, Evolve). Each one is transcribed
-          step-by-step exactly as the source prescribes it — what to do morning, evening and weekly — never
-          invented steps. Ranked with evidence &amp; authorship weighted highest, because a routine is only as
-          good as who's behind it. This is general published guidance, not a personal prescription — persistent
-          skin issues belong with a board-certified dermatologist.</p>
+        <h1>What to do, when — worldwide.<br>Ranked honestly.</h1>
+        <p class="hero-sub">25 published skincare routines from around the world — read live in the browser: the
+          American Academy of Dermatology, Cleveland Clinic and Mayo Clinic; Korea's 10-step and 7-skin methods;
+          Japan's 7-step kasanezuke layering; French pharmacy minimalism; India's Ayurvedic Dinacharya;
+          dermatologist-created methods (Skin Cycling, Slugging, Skinimalism); and occasion routines for
+          going out / big events, post-workout, long flights and shave day. Every step carries a phase label —
+          CLEANSE → PREP (toner/essence) → TREAT → SEAL (creams) → PROTECT (SPF) — and is transcribed exactly
+          as its source prescribes it, never invented. Ranked with evidence &amp; authorship weighted highest.
+          General published guidance, not a personal prescription — persistent skin issues belong with a
+          board-certified dermatologist.</p>
       </div>
     </div>
     <div class="masthead tags">
@@ -46,6 +48,14 @@
       <option value="adherence">SORT: SIMPLICITY</option>
       <option value="timeAsc">SORT: QUICKEST FIRST</option>
       <option value="timeDesc">SORT: MOST THOROUGH FIRST</option>
+    </select>
+    <select id="category" aria-label="Category">
+      <option value="all">CATEGORY: ALL</option>
+      <option value="core">CORE DAILY</option>
+      <option value="global">WORLD STYLES (K/J/FR/AYUR)</option>
+      <option value="method">NAMED METHODS</option>
+      <option value="occasion">OCCASIONS (EVENT/GYM/FLIGHT/SHAVE)</option>
+      <option value="concern">CONCERN-DRIVEN</option>
     </select>
     <select id="type" aria-label="Filter">
       <option value="all">FILTER: ALL</option>
@@ -72,13 +82,16 @@
 
   <footer>
     <span class="label">WEIGHTS</span> Evidence 30 · Coverage 24 · Adherence 20 · Skin-type fit 14 · Time cost 12<br />
-    <span class="label">SOURCES</span> AAD patient guidance, Healthline (medically reviewed), Vogue (Drs. Camp &amp; Gratch),
-    CeraVe, Dermalogica and Evolve Telemedicine guides — all pages read live in the browser, 14 Aug 2026. Every card links to its source.<br />
+    <span class="label">SOURCES</span> AAD patient guidance, Cleveland Clinic (Dr. Wu), Mayo Clinic, Healthline (medically
+    reviewed), Vogue (Drs. Camp &amp; Gratch), Dr. Whitney Bowe (Skin Cycling), Dr. Muneeb Shah (Slugging), Dr. Heather Rogers
+    (event prep), Dr. Nkem Ugonabo (Skinimalism), CeraVe, Dermalogica, Evolve, KoreaPeek, J-Beauty Decoded, French Girl Beauty,
+    Care to Beauty, OneKind, Healf, Zennora and Art of Vedas — all pages read live in the browser, 14 Aug 2026. Every card links to its source.<br />
     <span class="label">HONESTY</span> Steps are transcribed from the sources, never invented; missing fields say "Not stated in source".
     This is general published guidance, not medical advice — see a board-certified dermatologist for persistent concerns.
   </footer>
 
   <script src="data.js"></script>
+  <script src="data2.js"></script>
   <script src="scoring.js"></script>
   <script src="app.js"></script>
 </body>
