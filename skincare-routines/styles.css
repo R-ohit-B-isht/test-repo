@@ -92,6 +92,7 @@ header { max-width: 1200px; margin: 0 auto; padding-top: 24px; }
   padding-top: 24px;
 }
 .controls select {
+  max-width: 100%;
   background: transparent;
   color: var(--text-primary);
   border: 1px solid var(--border-visible);
