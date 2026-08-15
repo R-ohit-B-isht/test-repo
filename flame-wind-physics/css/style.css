@@ -1,19 +1,19 @@
-/* PYRE design system.
+/* BOREAL design system.
    Direction: editorial/blueprint dark UI — Linear-style dark gradients,
    Swiss numbered sections, single 14px notched-corner motif.
    Tokens: 8-pt spacing rhythm, 4 type sizes / 2 weights, 60-30-10 color. */
 
 :root {
   --ink: #05060a;
-  --paper: #ece5d8;
-  --mist: #8f8878;
-  --faint: rgba(236, 229, 216, 0.38);
-  --brand: #ff7a2b;
-  --brand-hot: #ffcf9a;
-  --brand-soft: rgba(255, 122, 43, 0.25);
-  --card: rgba(8, 10, 16, 0.78);
-  --line: rgba(255, 140, 60, 0.26);
-  --line-faint: rgba(236, 229, 216, 0.07);
+  --paper: #dfe9e4;
+  --mist: #7d8f88;
+  --faint: rgba(223, 233, 228, 0.38);
+  --brand: #4ef0a8;
+  --brand-hot: #c8ffe6;
+  --brand-soft: rgba(78, 240, 168, 0.25);
+  --card: rgba(6, 10, 14, 0.78);
+  --line: rgba(78, 240, 168, 0.26);
+  --line-faint: rgba(223, 233, 228, 0.07);
   --notch: polygon(0 0, calc(100% - 14px) 0, 100% 14px, 100% 100%, 14px 100%, 0 calc(100% - 14px));
   --ease: cubic-bezier(0.23, 1, 0.32, 1);
   --mono: ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
@@ -27,10 +27,9 @@
 html, body { width: 100%; height: 100%; overflow: hidden; background: var(--ink); }
 body { font-family: 'Segoe UI', system-ui, sans-serif; color: var(--paper); font-weight: 400; }
 
-canvas#fluid, canvas#embers {
+canvas#fluid {
   position: absolute; inset: 0; width: 100%; height: 100%; display: block;
 }
-canvas#embers { pointer-events: none; }
 
 .mono { font-family: var(--mono); font-variant-numeric: tabular-nums; }
 .dim { color: var(--faint); }
@@ -79,7 +78,7 @@ canvas#embers { pointer-events: none; }
 #brand h1 {
   font-size: clamp(40px, 8svw, 96px); font-weight: 700;
   letter-spacing: -0.01em; line-height: 0.9; text-transform: uppercase;
-  background: linear-gradient(100deg, var(--brand-hot) 10%, var(--brand) 58%, #b3341a);
+  background: linear-gradient(100deg, var(--brand-hot) 10%, var(--brand) 58%, #7a5cff);
   -webkit-background-clip: text; background-clip: text; color: transparent;
 }
 #brand p {
@@ -115,7 +114,7 @@ canvas#embers { pointer-events: none; }
 .chip:hover, .chip:focus-visible { border-color: var(--line); color: var(--paper); }
 .chip:active { transform: scale(0.97); }
 .chip.active {
-  background: rgba(255, 122, 43, 0.16); color: var(--brand-hot); border-color: var(--line);
+  background: rgba(78, 240, 168, 0.14); color: var(--brand-hot); border-color: var(--line);
 }
 .group { margin-top: 16px; }
 .group:first-of-type { margin-top: 0; padding-left: 28px; }
@@ -137,7 +136,7 @@ canvas#embers { pointer-events: none; }
 
 input[type=range] {
   width: 100%; appearance: none; -webkit-appearance: none; height: 2px;
-  background: linear-gradient(90deg, rgba(255, 122, 43, 0.15), var(--brand));
+  background: linear-gradient(90deg, rgba(78, 240, 168, 0.15), var(--brand));
   outline: none; cursor: pointer;
 }
 input[type=range]::-webkit-slider-thumb {
@@ -161,11 +160,11 @@ button.opt {
 button.opt:hover, button.opt:focus-visible { border-color: var(--line); color: var(--paper); }
 button.opt:active { transform: scale(0.97); }
 button.opt.active {
-  background: rgba(255, 122, 43, 0.16); color: var(--brand-hot);
-  border-color: var(--line); box-shadow: inset 0 0 12px rgba(255, 122, 43, 0.12);
+  background: rgba(78, 240, 168, 0.14); color: var(--brand-hot);
+  border-color: var(--line); box-shadow: inset 0 0 12px rgba(78, 240, 168, 0.12);
 }
 
-/* ---- anemometer ---- */
+/* ---- geomagnetic activity meter ---- */
 #windMeter {
   position: absolute; left: 24px; bottom: 48px; z-index: 5; width: 160px;
   animation: rise 0.7s var(--ease) 0.16s both;
@@ -177,13 +176,12 @@ button.opt.active {
   position: absolute; left: 50%; top: -3px; width: 1px; height: 8px;
   background: var(--mist);
 }
-#windBar {
-  position: absolute; top: 0; bottom: 0; left: 50%; width: 0;
+#kpBar {
+  position: absolute; top: 0; bottom: 0; left: 0; width: 0;
   background: var(--brand); box-shadow: 0 0 8px var(--brand-soft);
-  transition: width 0.12s linear;
+  transition: width 0.25s var(--ease);
 }
-#windBar.neg { transform: translateX(-100%); }
-#windMeter #windText {
+#windMeter #kpText {
   font-size: var(--fs-1); letter-spacing: 0.24em; text-transform: uppercase; color: var(--brand);
 }
 

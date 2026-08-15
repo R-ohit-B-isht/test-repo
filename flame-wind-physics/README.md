@@ -1,57 +1,37 @@
-# PYRE — Real-time 2D Fire & Wind Physics
+# BOREAL — Real-time Aurora Borealis Playground
 
-A static website that simulates fire the way it actually behaves: a GPU
-Navier–Stokes fluid solver with combustion, thermal buoyancy, vorticity
-confinement, blackbody radiation rendering, and a turbulent, gusty wind
-model that bends and tears the flames.
+A raymarched aurora borealis rendered in a single WebGL pass, with a full
+control surface for experimenting with the look of the sky.
 
-## Run
+Open `index.html` via any static server (ES modules require http://).
 
-Any static server works (ES modules require http):
+## Technique
 
-```
-python3 -m http.server 8000
-# open http://localhost:8000/flame-wind-physics/
-```
+- **Volume raymarch** — 50 samples per ray with polynomially increasing
+  stride, sample dithering and blending to remove banding.
+- **Band noise** — layered rotated triangle-wave noise (`triNoise2d`)
+  produces the large curtain bands and small trail turbulence, animated by
+  rotating the domain-warp offsets over time.
+- **Palette** — per-sample sinusoidal palette (classic green → violet with
+  altitude), with runtime hue shift and saturation controls.
+- **Stars** — multi-octave hashed point stars; **water reflection** — the
+  lower hemisphere re-marches the volume with a fade plus a noise-lit sea.
 
-Dev mode: append `?dev=1` for an instant storm/wind demo preset.
+## Controls
 
-## Interactions
-
-- **Drag** — stir the air (velocity splats into the fluid)
-- **Click** — ignite a fuel pocket
-- **Shift + drag** — stronger pure-wind strokes
-- **Presets** — campfire, torches, inferno, storm, smoulder (one-tap looks)
-- **Sources** — count (1–7), spread, size, intensity, flicker
-- **Wind** — strength, gustiness, turbulence
-- **Physics** — buoyancy, vorticity, cooling, air drag, pressure,
-  solver iterations
-- **Smoke** — amount, opacity, lifetime, warmth (cool grey ↔ warm brown)
-- **Render** — glow, embers toggle, **Storm** chaotic weather cycle
+- **Presets** — quiet arc, curtains, solar storm, polar dawn, moonless
+- **Aurora** — brightness, band scale, ripple speed, turbulence, curtain height
+- **Colour** — hue shift, saturation
+- **Sky & ground** — star brightness, water reflection strength
+- **Camera** — tilt, drift (auto sway), field of view; drag the sky to look around
 
 On mobile the panel becomes a bottom sheet with touch-sized controls.
-
-## Physics
-
-- Stable-fluids velocity step: semi-Lagrangian advection → buoyancy +
-  wind body force → vorticity confinement → pressure projection (Jacobi)
-- Fuel & temperature fields advected with the flow; combustion keeps
-  temperature at the burn point where fuel exists; Stefan–Boltzmann
-  (T⁴) radiative cooling
-- Wind: base flow with vertical shear profile, fractal-noise gust
-  envelope with air-mass inertia, spatial turbulence in the force pass
-- Display: temperature mapped through the Planckian (blackbody) locus,
-  filmic tonemap; light ember sparks ride the same wind field
+`?dev=1` jumps straight to the solar-storm preset.
 
 ## Sources & attribution
 
-- Fluid solver core adapted from
-  [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
-  (MIT © 2017 Pavel Dobryakov) — see `LICENSE`.
-- Combustion / blackbody technique studied from
-  [andrewkchan/fire-simulation](https://github.com/andrewkchan/fire-simulation)
-  and GPU Gems' "Fast Fluid Dynamics Simulation on the GPU".
-- Control-surface parameter set (sim resolution, diffusion, pressure,
-  vorticity, splat radius) mirrors the dat.GUI panel of
-  PavelDoGreat/WebGL-Fluid-Simulation, extended with fire-specific
-  controls (buoyancy, cooling, fuel, smoke).
+- Aurora volume march and band noise adapted from **"Auroras" by nimitz**
+  (https://www.shadertoy.com/view/XtGGRt), CC BY-NC-SA 3.0.
+- Star hash from **Dave_Hoskins** (https://www.shadertoy.com/view/4djSRW).
+- WebGL context/program helpers adapted from
+  **PavelDoGreat/WebGL-Fluid-Simulation** (MIT).
