@@ -3,418 +3,62 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Wind &amp; Flame — 2D Fire Physics Simulation</title>
-<style>
-  * { margin: 0; padding: 0; box-sizing: border-box; }
-  html, body { width: 100%; height: 100%; overflow: hidden; background: #05060a; font-family: 'Segoe UI', system-ui, sans-serif; }
-  #scene { position: absolute; inset: 0; width: 100%; height: 100%; display: block; }
-  #ui {
-    position: absolute; top: 16px; left: 16px; z-index: 10;
-    background: rgba(10, 12, 20, 0.72); backdrop-filter: blur(10px);
-    border: 1px solid rgba(255, 140, 40, 0.25); border-radius: 14px;
-    padding: 18px 20px; color: #e8e2d8; width: 300px;
-    box-shadow: 0 8px 32px rgba(0,0,0,0.5);
-    transition: transform 0.3s ease;
-  }
-  #ui.collapsed { transform: translateX(-270px); }
-  #ui h1 { font-size: 17px; font-weight: 600; letter-spacing: 0.5px; margin-bottom: 4px;
-    background: linear-gradient(90deg, #ffb347, #ff5e2b); -webkit-background-clip: text; background-clip: text; color: transparent; }
-  #ui p.sub { font-size: 11px; color: #9a927f; margin-bottom: 14px; }
-  .ctl { margin-bottom: 12px; }
-  .ctl label { display: flex; justify-content: space-between; font-size: 12px; color: #cfc7b8; margin-bottom: 4px; }
-  .ctl label span.val { color: #ffab5e; font-variant-numeric: tabular-nums; }
-  input[type=range] { width: 100%; appearance: none; height: 4px; border-radius: 2px;
-    background: linear-gradient(90deg, #3a2a1a, #ff7a2b); outline: none; cursor: pointer; }
-  input[type=range]::-webkit-slider-thumb { appearance: none; width: 14px; height: 14px; border-radius: 50%;
-    background: #ffb347; border: 2px solid #1a1208; box-shadow: 0 0 8px rgba(255,150,60,0.8); }
-  .row { display: flex; gap: 8px; }
-  button {
-    flex: 1; background: rgba(255, 120, 40, 0.12); color: #ffb98a;
-    border: 1px solid rgba(255, 140, 60, 0.35); border-radius: 8px;
-    padding: 7px 0; font-size: 12px; cursor: pointer; transition: background 0.2s;
-  }
-  button:hover { background: rgba(255, 120, 40, 0.28); }
-  button.active { background: rgba(255, 120, 40, 0.4); color: #fff; }
-  #toggleUi {
-    position: absolute; top: 14px; right: -14px; width: 28px; height: 28px; flex: none;
-    border-radius: 50%; padding: 0; font-size: 13px; background: #201510; z-index: 11;
-  }
-  #hint { position: absolute; bottom: 14px; left: 50%; transform: translateX(-50%);
-    color: rgba(230, 215, 190, 0.45); font-size: 12px; z-index: 5; pointer-events: none;
-    text-align: center; letter-spacing: 0.3px; }
-  #windArrow { position: absolute; top: 18px; right: 20px; z-index: 10; color: #ffd9a0;
-    font-size: 12px; text-align: center; background: rgba(10,12,20,0.6); padding: 8px 12px;
-    border-radius: 10px; border: 1px solid rgba(255,140,40,0.2); }
-  #windArrow svg { display: block; margin: 4px auto 0; }
-</style>
+<title>PYRE — Real-time 2D Fire &amp; Wind Physics</title>
+<meta name="description" content="GPU Navier–Stokes fire simulation with turbulent wind, combustion, buoyancy and blackbody rendering." />
+<link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
-<canvas id="scene"></canvas>
+<canvas id="fluid"></canvas>
+<canvas id="embers"></canvas>
 
-<div id="ui">
-  <button id="toggleUi" title="Toggle panel">≡</button>
-  <h1>Wind &amp; Flame</h1>
-  <p class="sub">Real-time 2D fire physics — particles, buoyancy &amp; turbulent wind</p>
+<header id="brand">
+  <span class="eyebrow">01 / SIMULATION</span>
+  <h1>PYRE</h1>
+  <p>Navier&ndash;Stokes fire &middot; turbulent wind &middot; blackbody radiation</p>
+</header>
 
+<aside id="panel">
+  <button id="panelToggle" aria-label="Toggle controls">&#8801;</button>
+  <span class="eyebrow">02 / WIND</span>
   <div class="ctl">
-    <label>Wind strength <span class="val" id="windVal">0.0</span></label>
+    <label>strength <span class="val" id="windVal">0.0</span></label>
     <input type="range" id="wind" min="-100" max="100" value="0" />
   </div>
   <div class="ctl">
-    <label>Gustiness <span class="val" id="gustVal">45</span></label>
-    <input type="range" id="gust" min="0" max="100" value="45" />
+    <label>gustiness <span class="val" id="gustVal">40</span></label>
+    <input type="range" id="gust" min="0" max="100" value="40" />
+  </div>
+  <span class="eyebrow">03 / FIRE</span>
+  <div class="ctl">
+    <label>fuel <span class="val" id="fuelVal">65</span></label>
+    <input type="range" id="fuel" min="10" max="100" value="65" />
   </div>
   <div class="ctl">
-    <label>Fire intensity <span class="val" id="fuelVal">70</span></label>
-    <input type="range" id="fuel" min="10" max="100" value="70" />
+    <label>vorticity <span class="val" id="vortVal">18</span></label>
+    <input type="range" id="vort" min="0" max="50" value="18" />
   </div>
   <div class="ctl">
-    <label>Turbulence <span class="val" id="turbVal">55</span></label>
-    <input type="range" id="turb" min="0" max="100" value="55" />
+    <label>cooling <span class="val" id="coolVal">55</span></label>
+    <input type="range" id="cool" min="10" max="100" value="55" />
   </div>
   <div class="row">
-    <button id="btnEmbers" class="active">Embers</button>
-    <button id="btnSmoke" class="active">Smoke</button>
-    <button id="btnStorm">Storm</button>
+    <button id="btnEmbers" class="opt active">embers</button>
+    <button id="btnStorm" class="opt">storm</button>
   </div>
-</div>
+</aside>
 
-<div id="windArrow">
-  wind
-  <svg width="46" height="20" viewBox="0 0 46 20">
-    <g id="arrowG" transform="translate(23,10)">
-      <line x1="-16" y1="0" x2="12" y2="0" stroke="#ffd9a0" stroke-width="2"/>
-      <path d="M12 0 L4 -5 L4 5 Z" fill="#ffd9a0"/>
-    </g>
-  </svg>
+<div id="windMeter">
+  <span class="eyebrow">WIND</span>
+  <div class="bar"><div id="windBar"></div></div>
   <span id="windText">calm</span>
 </div>
 
-<div id="hint">Move your mouse across the screen to blow wind &bull; click &amp; hold to ignite new flames</div>
+<footer id="hint">drag to stir the air &bull; click to ignite &bull; hold shift + drag for pure wind</footer>
 
-<script>
-'use strict';
-const canvas = document.getElementById('scene');
-const ctx = canvas.getContext('2d');
-let W, H, DPR;
-function resize() {
-  DPR = Math.min(window.devicePixelRatio || 1, 2);
-  W = window.innerWidth; H = window.innerHeight;
-  canvas.width = W * DPR; canvas.height = H * DPR;
-  ctx.setTransform(DPR, 0, 0, DPR, 0, 0);
-}
-window.addEventListener('resize', resize);
-resize();
+<div id="nogl" hidden>
+  <p>Your browser does not support the WebGL features required by this simulation.</p>
+</div>
 
-/* ---------- Simplex-style value noise for turbulent wind field ---------- */
-const PERM = new Uint8Array(512);
-(() => { const p = [...Array(256).keys()];
-  for (let i = 255; i > 0; i--) { const j = (Math.random() * (i + 1)) | 0; [p[i], p[j]] = [p[j], p[i]]; }
-  for (let i = 0; i < 512; i++) PERM[i] = p[i & 255];
-})();
-function fade(t) { return t * t * t * (t * (t * 6 - 15) + 10); }
-function grad(h, x, y) { const u = h & 1 ? -x : x, v = h & 2 ? -y : y; return u + v; }
-function noise2(x, y) {
-  const X = Math.floor(x) & 255, Y = Math.floor(y) & 255;
-  x -= Math.floor(x); y -= Math.floor(y);
-  const u = fade(x), v = fade(y);
-  const a = PERM[X] + Y, b = PERM[X + 1] + Y;
-  return lerp(v,
-    lerp(u, grad(PERM[a], x, y), grad(PERM[b], x - 1, y)),
-    lerp(u, grad(PERM[a + 1], x, y - 1), grad(PERM[b + 1], x - 1, y - 1)));
-}
-function lerp(t, a, b) { return a + t * (b - a); }
-// fractal brownian motion — layered noise = realistic turbulence
-function fbm(x, y) {
-  let v = 0, amp = 1, freq = 1, norm = 0;
-  for (let o = 0; o < 3; o++) { v += amp * noise2(x * freq, y * freq); norm += amp; amp *= 0.5; freq *= 2.1; }
-  return v / norm;
-}
-
-/* ---------- Controls ---------- */
-const S = { wind: 0, gust: 0.45, fuel: 0.7, turb: 0.55, embers: true, smoke: true, storm: false };
-const $ = id => document.getElementById(id);
-function bindRange(id, valId, key, scale, fmt) {
-  $(id).addEventListener('input', e => {
-    S[key] = e.target.value * scale;
-    $(valId).textContent = fmt(e.target.value);
-  });
-}
-bindRange('wind', 'windVal', 'wind', 0.01, v => (v / 10).toFixed(1));
-bindRange('gust', 'gustVal', 'gust', 0.01, v => v);
-bindRange('fuel', 'fuelVal', 'fuel', 0.01, v => v);
-bindRange('turb', 'turbVal', 'turb', 0.01, v => v);
-function bindToggle(id, key) {
-  $(id).addEventListener('click', e => { S[key] = !S[key]; e.target.classList.toggle('active', S[key]); });
-}
-bindToggle('btnEmbers', 'embers');
-bindToggle('btnSmoke', 'smoke');
-$('btnStorm').addEventListener('click', e => {
-  S.storm = !S.storm; e.target.classList.toggle('active', S.storm);
-});
-$('toggleUi').addEventListener('click', () => $('ui').classList.toggle('collapsed'));
-
-/* ---------- Mouse wind interaction ---------- */
-const mouse = { x: -9999, y: -9999, px: -9999, py: -9999, vx: 0, vy: 0, down: false };
-window.addEventListener('pointermove', e => {
-  if (mouse.px < -999) { mouse.px = e.clientX; mouse.py = e.clientY; }
-  mouse.x = e.clientX; mouse.y = e.clientY;
-});
-window.addEventListener('pointerdown', e => { mouse.down = true; mouse.x = e.clientX; mouse.y = e.clientY; });
-window.addEventListener('pointerup', () => { mouse.down = false; });
-window.addEventListener('pointerleave', () => { mouse.x = -9999; mouse.y = -9999; mouse.px = -9999; });
-
-/* ---------- Fire sources ---------- */
-function makeSources() {
-  const y = H - 40;
-  return [
-    { x: W * 0.5, y, w: 120, s: 1.4 },
-    { x: W * 0.22, y, w: 70, s: 0.9 },
-    { x: W * 0.78, y, w: 70, s: 0.9 },
-  ];
-}
-let sources = makeSources();
-window.addEventListener('resize', () => { sources = makeSources(); });
-const tempSources = []; // click-to-ignite
-
-/* ---------- Particles ---------- */
-const flames = [], embers = [], smoke = [];
-const MAX_FLAMES = 2200, MAX_EMBERS = 220, MAX_SMOKE = 420;
-
-function spawnFlame(src, dt) {
-  const count = Math.min(3, Math.ceil(src.s * S.fuel * 3.2 * dt * 60));
-  for (let i = 0; i < count; i++) {
-    if (flames.length >= MAX_FLAMES) return;
-    const spread = (Math.random() - 0.5) * src.w;
-    flames.push({
-      x: src.x + spread,
-      y: src.y + (Math.random() - 0.5) * 8,
-      vx: (Math.random() - 0.5) * 14,
-      vy: -30 - Math.random() * 55 * src.s,
-      life: 1,
-      decay: 0.55 + Math.random() * 0.75,
-      r: (5 + Math.random() * 9) * (0.7 + src.s * 0.35) * (1 - Math.abs(spread) / src.w * 0.55),
-      heat: 0.85 + Math.random() * 0.15,
-      wob: Math.random() * Math.PI * 2,
-    });
-  }
-}
-
-function spawnEmber(x, y) {
-  if (embers.length >= MAX_EMBERS) return;
-  embers.push({
-    x, y, vx: (Math.random() - 0.5) * 30, vy: -60 - Math.random() * 90,
-    life: 1, decay: 0.25 + Math.random() * 0.3,
-    r: 1 + Math.random() * 1.8, tw: Math.random() * Math.PI * 2,
-  });
-}
-
-function spawnSmoke(x, y) {
-  if (smoke.length >= MAX_SMOKE) return;
-  smoke.push({
-    x, y, vx: (Math.random() - 0.5) * 10, vy: -25 - Math.random() * 25,
-    life: 1, decay: 0.12 + Math.random() * 0.1,
-    r: 8 + Math.random() * 14, rot: Math.random() * Math.PI * 2,
-    spin: (Math.random() - 0.5) * 0.8,
-  });
-}
-
-/* ---------- Wind model ----------
-   total wind = base slider wind
-              + gust envelope (slow fbm over time — realistic gust cycles)
-              + local turbulence (fbm over space & time)
-              + mouse-driven airflow (velocity injection with radial falloff)
------------------------------------------------------------------------- */
-let t = 0;
-let gustPhase = 0;
-function windAt(x, y) {
-  const gustEnv = fbm(t * 0.18, 7.3) * 0.5 + fbm(t * 0.043, 13.7); // slow + med gust cycles
-  let base = S.wind * 260;
-  if (S.storm) base += Math.sin(t * 0.35) * 120 + 240 * fbm(t * 0.09, 3.1);
-  const gust = gustEnv * S.gust * 320;
-  // spatial turbulence — swirling local variation, stronger higher up (less ground drag)
-  const heightFactor = 0.35 + 0.65 * (1 - y / H);
-  const tx = fbm(x * 0.004 + t * 0.25, y * 0.004) * S.turb * 190 * heightFactor;
-  const ty = fbm(x * 0.004, y * 0.004 - t * 0.2 + 50) * S.turb * 80 * heightFactor;
-  let wx = (base + gust) * heightFactor + tx;
-  let wy = ty;
-  // mouse airflow
-  if (mouse.x > -999) {
-    const dx = x - mouse.x, dy = y - mouse.y;
-    const d2 = dx * dx + dy * dy, R = 170;
-    if (d2 < R * R) {
-      const fall = 1 - Math.sqrt(d2) / R;
-      wx += mouse.vx * 16 * fall;
-      wy += mouse.vy * 16 * fall;
-    }
-  }
-  return [wx, wy];
-}
-
-/* ---------- Physics update ---------- */
-function update(dt) {
-  t += dt;
-  // mouse velocity (smoothed)
-  if (mouse.px > -999) {
-    mouse.vx = mouse.vx * 0.82 + (mouse.x - mouse.px) * 0.18;
-    mouse.vy = mouse.vy * 0.82 + (mouse.y - mouse.py) * 0.18;
-    mouse.px = mouse.x; mouse.py = mouse.y;
-  } else { mouse.vx *= 0.9; mouse.vy *= 0.9; }
-
-  if (mouse.down && mouse.y < H - 20) {
-    tempSources.push({ x: mouse.x, y: mouse.y, w: 46, s: 0.8, life: 0.18 });
-  }
-
-  for (const src of sources) spawnFlame(src, dt);
-  for (let i = tempSources.length - 1; i >= 0; i--) {
-    const s = tempSources[i];
-    spawnFlame(s, dt);
-    s.life -= dt;
-    if (s.life <= 0) tempSources.splice(i, 1);
-  }
-
-  const windMag = Math.abs(windAt(W / 2, H * 0.6)[0]);
-
-  for (let i = flames.length - 1; i >= 0; i--) {
-    const p = flames[i];
-    const [wx, wy] = windAt(p.x, p.y);
-    // buoyancy: hotter = rises faster; drag toward wind velocity (air entrainment)
-    const buoy = -170 * p.heat * p.life;
-    p.vx += (wx - p.vx) * 2.4 * dt;
-    p.vy += (buoy + (wy - p.vy) * 1.4) * dt;
-    p.wob += dt * (6 + p.heat * 4);
-    p.x += (p.vx + Math.sin(p.wob) * 9 * p.life) * dt;
-    p.y += p.vy * dt;
-    p.life -= p.decay * dt;
-    p.heat *= 1 - 0.5 * dt;
-    // flame stretches downwind: shrink slower when windy (elongation illusion)
-    p.r *= 1 - (0.55 - Math.min(windMag / 900, 0.3)) * dt;
-    if (p.life <= 0 || p.r < 0.6) {
-      if (S.smoke && Math.random() < 0.14) spawnSmoke(p.x, p.y);
-      if (S.embers && Math.random() < 0.02) spawnEmber(p.x, p.y);
-      flames.splice(i, 1);
-    }
-  }
-
-  for (let i = embers.length - 1; i >= 0; i--) {
-    const p = embers[i];
-    const [wx, wy] = windAt(p.x, p.y);
-    p.vx += (wx * 1.25 - p.vx) * 1.9 * dt;      // light embers catch wind strongly
-    p.vy += (-55 + (wy - p.vy) * 1.2) * dt + 26 * dt; // slight gravity vs updraft
-    p.tw += dt * 12;
-    p.x += p.vx * dt; p.y += p.vy * dt;
-    p.life -= p.decay * dt;
-    if (p.life <= 0 || p.y < -20 || p.x < -50 || p.x > W + 50) embers.splice(i, 1);
-  }
-
-  for (let i = smoke.length - 1; i >= 0; i--) {
-    const p = smoke[i];
-    const [wx, wy] = windAt(p.x, p.y);
-    p.vx += (wx * 0.9 - p.vx) * 1.1 * dt;
-    p.vy += (-30 + (wy - p.vy) * 0.8) * dt;
-    p.rot += p.spin * dt;
-    p.x += p.vx * dt; p.y += p.vy * dt;
-    p.r += 14 * dt;   // smoke diffuses / expands
-    p.life -= p.decay * dt;
-    if (p.life <= 0 || p.y < -60) smoke.splice(i, 1);
-  }
-
-  return windMag;
-}
-
-/* ---------- Rendering ---------- */
-function flameColor(life, heat) {
-  // hot core (white-yellow) -> orange -> deep red -> fade
-  const e = life * heat;
-  if (e > 0.75) return `rgba(255,${230 + (e - 0.75) * 100 | 0},180,`;
-  if (e > 0.5) return `rgba(255,${140 + (e - 0.5) * 360 | 0},60,`;
-  if (e > 0.25) return `rgba(${200 + (e - 0.25) * 220 | 0},${50 + (e - 0.25) * 320 | 0},25,`;
-  return `rgba(${120 + e * 320 | 0},${20 + e * 100 | 0},18,`;
-}
-
-function render(windMag) {
-  // motion-blur fade
-  ctx.globalCompositeOperation = 'source-over';
-  ctx.fillStyle = 'rgba(5, 6, 10, 0.32)';
-  ctx.fillRect(0, 0, W, H);
-
-  // ground glow
-  ctx.globalCompositeOperation = 'lighter';
-  for (const src of sources) {
-    const g = ctx.createRadialGradient(src.x, src.y, 0, src.x, src.y, src.w * 2.4);
-    g.addColorStop(0, `rgba(255,110,30,${0.10 * S.fuel * src.s})`);
-    g.addColorStop(1, 'rgba(255,110,30,0)');
-    ctx.fillStyle = g;
-    ctx.fillRect(src.x - src.w * 2.4, src.y - src.w * 2.4, src.w * 4.8, src.w * 4.8);
-  }
-
-  // smoke (normal blend, behind flames)
-  if (smoke.length) {
-    ctx.globalCompositeOperation = 'source-over';
-    for (const p of smoke) {
-      const a = 0.16 * p.life;
-      ctx.save();
-      ctx.translate(p.x, p.y); ctx.rotate(p.rot);
-      const g = ctx.createRadialGradient(0, 0, 0, 0, 0, p.r);
-      g.addColorStop(0, `rgba(60,58,62,${a})`);
-      g.addColorStop(1, 'rgba(60,58,62,0)');
-      ctx.fillStyle = g;
-      ctx.beginPath(); ctx.ellipse(0, 0, p.r * 1.25, p.r, 0, 0, Math.PI * 2); ctx.fill();
-      ctx.restore();
-    }
-  }
-
-  // flames (additive blend, stretched along velocity for wind-swept look)
-  ctx.globalCompositeOperation = 'lighter';
-  for (const p of flames) {
-    const speed = Math.hypot(p.vx, p.vy);
-    const stretch = 1 + Math.min(speed / 260, 1.6);
-    const ang = Math.atan2(p.vy, p.vx);
-    const a = Math.min(p.life * 0.55, 0.5);
-    ctx.save();
-    ctx.translate(p.x, p.y); ctx.rotate(ang);
-    const g = ctx.createRadialGradient(0, 0, 0, 0, 0, p.r * stretch);
-    const c = flameColor(p.life, p.heat);
-    g.addColorStop(0, c + a + ')');
-    g.addColorStop(1, c + '0)');
-    ctx.fillStyle = g;
-    ctx.beginPath(); ctx.ellipse(0, 0, p.r * stretch, p.r, 0, 0, Math.PI * 2); ctx.fill();
-    ctx.restore();
-  }
-
-  // embers (bright twinkling sparks)
-  for (const p of embers) {
-    const tw = 0.55 + 0.45 * Math.sin(p.tw);
-    const a = p.life * tw;
-    ctx.fillStyle = `rgba(255,${170 + tw * 70 | 0},90,${a})`;
-    ctx.beginPath(); ctx.arc(p.x, p.y, p.r, 0, Math.PI * 2); ctx.fill();
-    ctx.fillStyle = `rgba(255,220,160,${a * 0.35})`;
-    ctx.beginPath(); ctx.arc(p.x, p.y, p.r * 2.6, 0, Math.PI * 2); ctx.fill();
-  }
-
-  ctx.globalCompositeOperation = 'source-over';
-
-  // wind indicator
-  const wdir = windAt(W / 2, H * 0.5)[0];
-  const mag = Math.min(Math.abs(wdir) / 500, 1);
-  document.getElementById('arrowG').setAttribute('transform',
-    `translate(23,10) scale(${wdir < 0 ? -1 : 1},1) scale(${0.4 + mag * 0.8},1)`);
-  document.getElementById('windText').textContent =
-    mag < 0.08 ? 'calm' : mag < 0.3 ? 'breeze' : mag < 0.6 ? 'gusty' : 'storm';
-}
-
-/* ---------- Main loop ---------- */
-let last = performance.now();
-function frame(now) {
-  const dt = Math.min((now - last) / 1000, 0.033);
-  last = now;
-  const windMag = update(dt);
-  render(windMag);
-  requestAnimationFrame(frame);
-}
-// dark initial fill
-ctx.fillStyle = '#05060a'; ctx.fillRect(0, 0, W, H);
-requestAnimationFrame(frame);
-</script>
+<script type="module" src="js/main.js"></script>
 </body>
 </html>

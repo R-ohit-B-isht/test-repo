@@ -1,0 +1,132 @@
+:root {
+  --ink: #05060a;
+  --paper: #e9e2d4;
+  --mist: #9a927f;
+  --brand: #ff7a2b;
+  --brand-soft: rgba(255, 122, 43, 0.25);
+  --card: rgba(10, 12, 20, 0.72);
+  --line: rgba(255, 140, 60, 0.28);
+  --notch: polygon(0 0, calc(100% - 14px) 0, 100% 14px, 100% 100%, 14px 100%, 0 calc(100% - 14px));
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html, body { width: 100%; height: 100%; overflow: hidden; background: var(--ink); }
+body { font-family: 'Segoe UI', system-ui, sans-serif; color: var(--paper); }
+
+canvas#fluid, canvas#embers {
+  position: absolute; inset: 0; width: 100%; height: 100%; display: block;
+}
+canvas#embers { pointer-events: none; }
+
+.eyebrow {
+  display: block;
+  font-family: ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
+  font-size: 10px; letter-spacing: 0.22em; text-transform: uppercase;
+  color: var(--mist); margin-bottom: 6px;
+}
+
+#brand {
+  position: absolute; top: 26px; left: 28px; z-index: 5; pointer-events: none;
+  mix-blend-mode: screen;
+}
+#brand h1 {
+  font-size: clamp(34px, 6svw, 72px); font-weight: 700;
+  letter-spacing: 0.06em; line-height: 0.95; text-transform: uppercase;
+  background: linear-gradient(100deg, #ffe4b0 10%, var(--brand) 60%, #b3341a);
+  -webkit-background-clip: text; background-clip: text; color: transparent;
+}
+#brand p {
+  margin-top: 8px; font-size: 11px; color: var(--mist); letter-spacing: 0.08em;
+}
+
+#panel {
+  position: absolute; top: 24px; right: 24px; z-index: 10; width: 262px;
+  background: var(--card); backdrop-filter: blur(12px);
+  border: 1px solid var(--line); clip-path: var(--notch);
+  padding: 18px 20px 14px;
+  transition: transform 0.34s cubic-bezier(0.23, 1, 0.32, 1), opacity 0.34s;
+}
+#panel.collapsed { transform: translateX(238px); opacity: 0.88; }
+#panel .eyebrow { margin-top: 10px; }
+#panel .eyebrow:first-of-type { margin-top: 0; }
+
+#panelToggle {
+  position: absolute; top: 8px; left: 8px; width: 26px; height: 26px;
+  background: transparent; color: var(--brand); border: none;
+  font-size: 15px; cursor: pointer; transition: transform 0.16s;
+}
+#panelToggle:active { transform: scale(0.97); }
+
+.ctl { margin: 8px 0 12px; }
+.ctl label {
+  display: flex; justify-content: space-between;
+  font-size: 12px; color: var(--paper); margin-bottom: 5px;
+  letter-spacing: 0.04em;
+}
+.ctl .val {
+  font-family: ui-monospace, Menlo, Consolas, monospace;
+  font-variant-numeric: tabular-nums; color: var(--brand);
+}
+
+input[type=range] {
+  width: 100%; appearance: none; -webkit-appearance: none; height: 3px;
+  background: linear-gradient(90deg, #33241a, var(--brand)); outline: none; cursor: pointer;
+}
+input[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none; width: 13px; height: 13px;
+  background: #ffcf9a; border: 2px solid var(--ink);
+  clip-path: var(--notch); cursor: grab;
+  box-shadow: 0 0 10px var(--brand-soft);
+}
+input[type=range]:focus-visible::-webkit-slider-thumb { outline: 2px solid var(--brand); }
+
+.row { display: flex; gap: 8px; margin-top: 12px; }
+button.opt {
+  flex: 1; padding: 7px 0; font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase;
+  font-family: ui-monospace, Menlo, Consolas, monospace;
+  background: rgba(255, 122, 43, 0.08); color: var(--paper);
+  border: 1px solid var(--line); clip-path: var(--notch);
+  cursor: pointer; transition: background 0.18s, transform 0.16s;
+}
+button.opt:hover { background: rgba(255, 122, 43, 0.22); }
+button.opt:active { transform: scale(0.97); }
+button.opt.active { background: rgba(255, 122, 43, 0.38); color: #fff; }
+
+#windMeter {
+  position: absolute; left: 28px; bottom: 44px; z-index: 5; width: 150px;
+}
+#windMeter .bar {
+  height: 3px; background: rgba(255, 255, 255, 0.1); margin: 4px 0 5px; position: relative;
+}
+#windBar {
+  position: absolute; top: 0; bottom: 0; left: 50%; width: 0;
+  background: var(--brand); box-shadow: 0 0 8px var(--brand-soft);
+  transition: width 0.12s linear;
+}
+#windBar.neg { transform: translateX(-100%); }
+#windMeter #windText {
+  font-family: ui-monospace, Menlo, Consolas, monospace;
+  font-size: 10px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--brand);
+}
+
+#hint {
+  position: absolute; bottom: 16px; left: 50%; transform: translateX(-50%);
+  z-index: 5; pointer-events: none; white-space: nowrap;
+  font-size: 11px; letter-spacing: 0.08em; color: rgba(233, 226, 212, 0.4);
+}
+
+#nogl {
+  position: absolute; inset: 0; z-index: 20; display: grid; place-items: center;
+  background: var(--ink); text-align: center; padding: 24px;
+}
+#nogl[hidden] { display: none; }
+
+@media (max-width: 640px) {
+  #panel { width: 220px; top: auto; bottom: 70px; }
+  #brand { top: 16px; left: 16px; }
+  #hint { display: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #panel, button.opt, #panelToggle { transition-duration: 0.01s; }
+}
