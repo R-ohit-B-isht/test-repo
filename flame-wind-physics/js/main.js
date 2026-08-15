@@ -42,7 +42,10 @@ if (DEV_MODE) {
   state.wind = 0.5;
   state.storm = true;
   document.getElementById('wind').value = 50;
-  document.getElementById('btnStorm').classList.add('active');
+  document.getElementById('windVal').textContent = '5.0';
+  const storm = document.getElementById('btnStorm');
+  storm.classList.add('active');
+  storm.setAttribute('aria-pressed', 'true');
 }
 
 window.addEventListener('resize', () => {

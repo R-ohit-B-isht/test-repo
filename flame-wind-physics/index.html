@@ -11,49 +11,74 @@
 <canvas id="fluid"></canvas>
 <canvas id="embers"></canvas>
 
+<div id="gridOverlay" aria-hidden="true">
+  <span class="cross tl"></span><span class="cross tr"></span>
+  <span class="cross bl"></span><span class="cross br"></span>
+</div>
+
+<header id="statusBar">
+  <span class="mono">PYRE / FIRE·WIND SOLVER</span>
+  <span class="mono dim">NAVIER&ndash;STOKES &middot; 192&sup2; GPU GRID</span>
+  <span class="mono" id="clock">00:00:00</span>
+</header>
+
 <header id="brand">
   <span class="eyebrow">01 / SIMULATION</span>
   <h1>PYRE</h1>
-  <p>Navier&ndash;Stokes fire &middot; turbulent wind &middot; blackbody radiation</p>
+  <p class="mono dim">turbulent wind &middot; combustion &middot; blackbody radiation</p>
 </header>
 
 <aside id="panel">
-  <button id="panelToggle" aria-label="Toggle controls">&#8801;</button>
-  <span class="eyebrow">02 / WIND</span>
-  <div class="ctl">
-    <label>strength <span class="val" id="windVal">0.0</span></label>
-    <input type="range" id="wind" min="-100" max="100" value="0" />
-  </div>
-  <div class="ctl">
-    <label>gustiness <span class="val" id="gustVal">40</span></label>
-    <input type="range" id="gust" min="0" max="100" value="40" />
-  </div>
-  <span class="eyebrow">03 / FIRE</span>
-  <div class="ctl">
-    <label>fuel <span class="val" id="fuelVal">65</span></label>
-    <input type="range" id="fuel" min="10" max="100" value="65" />
-  </div>
-  <div class="ctl">
-    <label>vorticity <span class="val" id="vortVal">18</span></label>
-    <input type="range" id="vort" min="0" max="50" value="18" />
-  </div>
-  <div class="ctl">
-    <label>cooling <span class="val" id="coolVal">55</span></label>
-    <input type="range" id="cool" min="10" max="100" value="55" />
-  </div>
-  <div class="row">
-    <button id="btnEmbers" class="opt active">embers</button>
-    <button id="btnStorm" class="opt">storm</button>
-  </div>
+  <button id="panelToggle" aria-label="Toggle controls" aria-expanded="true">&#8801;</button>
+
+  <section class="group">
+    <span class="eyebrow">02 / WIND</span>
+    <div class="ctl">
+      <label for="wind">strength <span class="val" id="windVal">0.0</span></label>
+      <input type="range" id="wind" min="-100" max="100" value="0" />
+    </div>
+    <div class="ctl">
+      <label for="gust">gustiness <span class="val" id="gustVal">40</span></label>
+      <input type="range" id="gust" min="0" max="100" value="40" />
+    </div>
+  </section>
+
+  <section class="group">
+    <span class="eyebrow">03 / FIRE</span>
+    <div class="ctl">
+      <label for="fuel">fuel <span class="val" id="fuelVal">65</span></label>
+      <input type="range" id="fuel" min="10" max="100" value="65" />
+    </div>
+    <div class="ctl">
+      <label for="vort">vorticity <span class="val" id="vortVal">18</span></label>
+      <input type="range" id="vort" min="0" max="50" value="18" />
+    </div>
+    <div class="ctl">
+      <label for="cool">cooling <span class="val" id="coolVal">55</span></label>
+      <input type="range" id="cool" min="10" max="100" value="55" />
+    </div>
+  </section>
+
+  <section class="group">
+    <span class="eyebrow">04 / MODES</span>
+    <div class="row">
+      <button id="btnEmbers" class="opt active" aria-pressed="true">embers</button>
+      <button id="btnStorm" class="opt" aria-pressed="false">storm</button>
+    </div>
+  </section>
 </aside>
 
 <div id="windMeter">
-  <span class="eyebrow">WIND</span>
-  <div class="bar"><div id="windBar"></div></div>
-  <span id="windText">calm</span>
+  <span class="eyebrow">05 / ANEMOMETER</span>
+  <div class="bar"><span class="tick"></span><div id="windBar"></div></div>
+  <span id="windText" class="mono">calm</span>
 </div>
 
-<footer id="hint">drag to stir the air &bull; click to ignite &bull; hold shift + drag for pure wind</footer>
+<footer id="hint" class="mono dim">
+  <span>drag &mdash; stir air</span>
+  <span>click &mdash; ignite</span>
+  <span>shift+drag &mdash; pure wind</span>
+</footer>
 
 <div id="nogl" hidden>
   <p>Your browser does not support the WebGL features required by this simulation.</p>

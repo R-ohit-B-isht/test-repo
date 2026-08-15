@@ -18,15 +18,25 @@ export function bindControls () {
   bind('vort', 'vortVal', (v) => { config.CURL = v; });
   bind('cool', 'coolVal', (v) => { config.COOLING = v / 55 * 1.4; });
 
-  $('btnEmbers').addEventListener('click', (e) => {
-    state.embers = !state.embers;
-    e.target.classList.toggle('active', state.embers);
+  const toggle = (id, fn) => {
+    $(id).addEventListener('click', (e) => {
+      const on = fn();
+      e.target.classList.toggle('active', on);
+      e.target.setAttribute('aria-pressed', String(on));
+    });
+  };
+  toggle('btnEmbers', () => (state.embers = !state.embers));
+  toggle('btnStorm', () => (state.storm = !state.storm));
+
+  $('panelToggle').addEventListener('click', (e) => {
+    const collapsed = $('panel').classList.toggle('collapsed');
+    e.target.setAttribute('aria-expanded', String(!collapsed));
   });
-  $('btnStorm').addEventListener('click', (e) => {
-    state.storm = !state.storm;
-    e.target.classList.toggle('active', state.storm);
-  });
-  $('panelToggle').addEventListener('click', () => $('panel').classList.toggle('collapsed'));
+
+  const clock = $('clock');
+  const tick = () => { clock.textContent = new Date().toLocaleTimeString('en-GB', { hour12: false }); };
+  tick();
+  setInterval(tick, 1000);
 }
 
 export function updateWindMeter (wind) {
