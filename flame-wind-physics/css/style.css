@@ -93,14 +93,30 @@ canvas#embers { pointer-events: none; }
 
 /* ---- control panel ---- */
 #panel {
-  position: absolute; top: 56px; right: 24px; z-index: 10; width: 264px;
+  position: absolute; top: 56px; right: 24px; bottom: 48px; z-index: 10; width: 264px;
   background: var(--card); backdrop-filter: blur(14px);
   border: 1px solid var(--line); clip-path: var(--notch);
   padding: 16px 20px 16px;
+  overflow-y: auto; overscroll-behavior: contain; scrollbar-width: thin;
+  scrollbar-color: var(--line) transparent;
   transition: transform 0.3s var(--ease), opacity 0.3s var(--ease);
   animation: rise 0.7s var(--ease) 0.08s both;
 }
-#panel.collapsed { transform: translateX(232px); opacity: 0.9; }
+#panel.collapsed { animation: none; transform: translateX(232px); opacity: 0.9; }
+
+.chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip {
+  padding: 6px 10px; font-size: var(--fs-1); letter-spacing: 0.12em; text-transform: uppercase;
+  font-family: var(--mono);
+  background: transparent; color: var(--faint);
+  border: 1px solid var(--line-faint); clip-path: var(--notch);
+  cursor: pointer; transition: background 0.18s var(--ease), color 0.18s var(--ease), border-color 0.18s var(--ease), transform 0.16s var(--ease);
+}
+.chip:hover, .chip:focus-visible { border-color: var(--line); color: var(--paper); }
+.chip:active { transform: scale(0.97); }
+.chip.active {
+  background: rgba(255, 122, 43, 0.16); color: var(--brand-hot); border-color: var(--line);
+}
 .group { margin-top: 16px; }
 .group:first-of-type { margin-top: 0; padding-left: 28px; }
 
@@ -185,9 +201,26 @@ button.opt.active {
 }
 #nogl[hidden] { display: none; }
 
+/* mobile: control panel becomes a bottom sheet with larger touch targets */
 @media (max-width: 640px) {
-  #panel { width: 216px; top: auto; bottom: 88px; }
-  #brand { top: 48px; left: 16px; }
+  #panel {
+    top: auto; right: 0; left: 0; bottom: 0; width: auto;
+    max-height: 46svh;
+    padding: 12px 16px calc(16px + env(safe-area-inset-bottom));
+    clip-path: polygon(0 14px, 14px 0, calc(100% - 14px) 0, 100% 14px, 100% 100%, 0 100%);
+    border-left: none; border-right: none; border-bottom: none;
+  }
+  #panel.collapsed { transform: translateY(calc(100% - 44px)); opacity: 1; }
+  #panelToggle { top: 6px; left: 50%; transform: translateX(-50%); width: 44px; height: 32px; }
+  #panelToggle:active { transform: translateX(-50%) scale(0.97); }
+  .group:first-of-type { padding-left: 0; padding-top: 24px; }
+  .ctl { margin: 10px 0 14px; }
+  input[type=range] { height: 4px; }
+  input[type=range]::-webkit-slider-thumb { width: 22px; height: 22px; }
+  button.opt, .chip { padding: 10px 12px; }
+  #brand { top: 44px; left: 16px; }
+  #brand h1 { font-size: clamp(36px, 14svw, 64px); }
+  #windMeter { bottom: auto; top: 44px; right: 16px; left: auto; width: 120px; }
   #hint { display: none; }
   #statusBar span:nth-child(2) { display: none; }
   .cross { display: none; }

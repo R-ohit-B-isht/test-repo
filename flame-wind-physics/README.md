@@ -21,8 +21,15 @@ Dev mode: append `?dev=1` for an instant storm/wind demo preset.
 - **Drag** — stir the air (velocity splats into the fluid)
 - **Click** — ignite a fuel pocket
 - **Shift + drag** — stronger pure-wind strokes
-- Panel sliders — wind strength, gustiness, fuel, vorticity, cooling
-- **Storm** toggle — chaotic high-wind weather cycle
+- **Presets** — campfire, torches, inferno, storm, smoulder (one-tap looks)
+- **Sources** — count (1–7), spread, size, intensity, flicker
+- **Wind** — strength, gustiness, turbulence
+- **Physics** — buoyancy, vorticity, cooling, air drag, pressure,
+  solver iterations
+- **Smoke** — amount, opacity, lifetime, warmth (cool grey ↔ warm brown)
+- **Render** — glow, embers toggle, **Storm** chaotic weather cycle
+
+On mobile the panel becomes a bottom sheet with touch-sized controls.
 
 ## Physics
 
@@ -44,3 +51,7 @@ Dev mode: append `?dev=1` for an instant storm/wind demo preset.
 - Combustion / blackbody technique studied from
   [andrewkchan/fire-simulation](https://github.com/andrewkchan/fire-simulation)
   and GPU Gems' "Fast Fluid Dynamics Simulation on the GPU".
+- Control-surface parameter set (sim resolution, diffusion, pressure,
+  vorticity, splat radius) mirrors the dat.GUI panel of
+  PavelDoGreat/WebGL-Fluid-Simulation, extended with fire-specific
+  controls (buoyancy, cooling, fuel, smoke).

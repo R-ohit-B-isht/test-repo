@@ -76,10 +76,10 @@ export class FireSolver {
   }
 
   // inject fuel + heat + smoke + upward kick at a point
-  ignite (x, y, power, radius) {
+  ignite (x, y, power, radius, smoke = 1.0) {
     this.splat(this.fuel, x, y, power, 0, 0, radius);
     this.splat(this.temperature, x, y, power * 0.8, 0, 0, radius);
-    this.splat(this.density, x, y, power * 0.35, 0, 0, radius * 2.2);
+    this.splat(this.density, x, y, power * 0.35 * smoke, 0, 0, radius * 2.2);
     this.splat(this.velocity, x, y, 0, power * 18.0, 0, radius);
   }
 
@@ -190,13 +190,16 @@ export class FireSolver {
     this.velocity.swap();
   }
 
-  render () {
+  render (look = {}) {
     const { gl, programs, blit } = this;
     const d = programs.display;
     d.bind();
     gl.uniform1i(d.uniforms.uTemperature, this.temperature.read.attach(0));
     gl.uniform1i(d.uniforms.uFuel, this.fuel.read.attach(1));
     gl.uniform1i(d.uniforms.uDensity, this.density.read.attach(2));
+    gl.uniform1f(d.uniforms.uGlow, look.glow ?? 1.0);
+    gl.uniform1f(d.uniforms.uSmokeOpacity, look.smokeOpacity ?? 1.0);
+    gl.uniform1f(d.uniforms.uSmokeWarmth, look.smokeWarmth ?? 0.35);
     blit(null);
   }
 }

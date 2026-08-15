@@ -32,7 +32,42 @@
   <button id="panelToggle" aria-label="Toggle controls" aria-expanded="true">&#8801;</button>
 
   <section class="group">
-    <span class="eyebrow">02 / WIND</span>
+    <span class="eyebrow">02 / PRESETS</span>
+    <div class="chips">
+      <button class="chip" id="preset-campfire">campfire</button>
+      <button class="chip" id="preset-torches">torches</button>
+      <button class="chip" id="preset-inferno">inferno</button>
+      <button class="chip" id="preset-storm">storm</button>
+      <button class="chip" id="preset-smoulder">smoulder</button>
+    </div>
+  </section>
+
+  <section class="group">
+    <span class="eyebrow">03 / SOURCES</span>
+    <div class="ctl">
+      <label for="srcCount">count <span class="val" id="srcCountVal">3</span></label>
+      <input type="range" id="srcCount" min="1" max="7" step="1" value="3" />
+    </div>
+    <div class="ctl">
+      <label for="srcSpread">spread <span class="val" id="srcSpreadVal">52</span></label>
+      <input type="range" id="srcSpread" min="10" max="90" value="52" />
+    </div>
+    <div class="ctl">
+      <label for="srcSize">size <span class="val" id="srcSizeVal">100</span></label>
+      <input type="range" id="srcSize" min="30" max="220" value="100" />
+    </div>
+    <div class="ctl">
+      <label for="fuel">intensity <span class="val" id="fuelVal">65</span></label>
+      <input type="range" id="fuel" min="10" max="100" value="65" />
+    </div>
+    <div class="ctl">
+      <label for="flicker">flicker <span class="val" id="flickerVal">50</span></label>
+      <input type="range" id="flicker" min="0" max="100" value="50" />
+    </div>
+  </section>
+
+  <section class="group">
+    <span class="eyebrow">04 / WIND</span>
     <div class="ctl">
       <label for="wind">strength <span class="val" id="windVal">0.0</span></label>
       <input type="range" id="wind" min="-100" max="100" value="0" />
@@ -41,13 +76,17 @@
       <label for="gust">gustiness <span class="val" id="gustVal">40</span></label>
       <input type="range" id="gust" min="0" max="100" value="40" />
     </div>
+    <div class="ctl">
+      <label for="turb">turbulence <span class="val" id="turbVal">16</span></label>
+      <input type="range" id="turb" min="0" max="40" value="16" />
+    </div>
   </section>
 
   <section class="group">
-    <span class="eyebrow">03 / FIRE</span>
+    <span class="eyebrow">05 / PHYSICS</span>
     <div class="ctl">
-      <label for="fuel">fuel <span class="val" id="fuelVal">65</span></label>
-      <input type="range" id="fuel" min="10" max="100" value="65" />
+      <label for="buoy">buoyancy <span class="val" id="buoyVal">75</span></label>
+      <input type="range" id="buoy" min="0" max="150" value="75" />
     </div>
     <div class="ctl">
       <label for="vort">vorticity <span class="val" id="vortVal">18</span></label>
@@ -57,10 +96,46 @@
       <label for="cool">cooling <span class="val" id="coolVal">55</span></label>
       <input type="range" id="cool" min="10" max="100" value="55" />
     </div>
+    <div class="ctl">
+      <label for="drag">air drag <span class="val" id="dragVal">15</span></label>
+      <input type="range" id="drag" min="0" max="80" value="15" />
+    </div>
+    <div class="ctl">
+      <label for="press">pressure <span class="val" id="pressVal">80</span></label>
+      <input type="range" id="press" min="0" max="100" value="80" />
+    </div>
+    <div class="ctl">
+      <label for="iters">solver iterations <span class="val" id="itersVal">20</span></label>
+      <input type="range" id="iters" min="10" max="60" step="1" value="20" />
+    </div>
   </section>
 
   <section class="group">
-    <span class="eyebrow">04 / MODES</span>
+    <span class="eyebrow">06 / SMOKE</span>
+    <div class="ctl">
+      <label for="smokeAmt">amount <span class="val" id="smokeAmtVal">100</span></label>
+      <input type="range" id="smokeAmt" min="0" max="200" value="100" />
+    </div>
+    <div class="ctl">
+      <label for="smokeOp">opacity <span class="val" id="smokeOpVal">100</span></label>
+      <input type="range" id="smokeOp" min="0" max="200" value="100" />
+    </div>
+    <div class="ctl">
+      <label for="smokeLife">lifetime <span class="val" id="smokeLifeVal">75</span></label>
+      <input type="range" id="smokeLife" min="10" max="99" value="75" />
+    </div>
+    <div class="ctl">
+      <label for="smokeWarm">warmth <span class="val" id="smokeWarmVal">35</span></label>
+      <input type="range" id="smokeWarm" min="0" max="100" value="35" />
+    </div>
+  </section>
+
+  <section class="group">
+    <span class="eyebrow">07 / RENDER</span>
+    <div class="ctl">
+      <label for="glow">glow <span class="val" id="glowVal">100</span></label>
+      <input type="range" id="glow" min="40" max="180" value="100" />
+    </div>
     <div class="row">
       <button id="btnEmbers" class="opt active" aria-pressed="true">embers</button>
       <button id="btnStorm" class="opt" aria-pressed="false">storm</button>
@@ -69,7 +144,7 @@
 </aside>
 
 <div id="windMeter">
-  <span class="eyebrow">05 / ANEMOMETER</span>
+  <span class="eyebrow">08 / ANEMOMETER</span>
   <div class="bar"><span class="tick"></span><div id="windBar"></div></div>
   <span id="windText" class="mono">calm</span>
 </div>

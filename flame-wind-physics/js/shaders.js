@@ -245,6 +245,9 @@ varying vec2 vUv;
 uniform sampler2D uTemperature;
 uniform sampler2D uFuel;
 uniform sampler2D uDensity;
+uniform float uGlow;
+uniform float uSmokeOpacity;
+uniform float uSmokeWarmth;
 
 vec3 blackbody (float t) {
   t *= 3000.0;
@@ -267,8 +270,9 @@ void main () {
   float smoke = texture2D(uDensity, vUv).x;
   float e = exp(-20.0 * max(fuel, 0.0));
   float visibility = ((1.0 - e) / (1.0 + e)) * 0.65 + 0.35;
-  vec3 fire = visibility * blackbody(clamp(temp, 0.0, 1.2));
-  vec3 smokeCol = vec3(0.23, 0.22, 0.24) * clamp(smoke, 0.0, 1.0) * (1.0 - clamp(temp * 2.0, 0.0, 1.0));
+  vec3 fire = uGlow * visibility * blackbody(clamp(temp, 0.0, 1.2));
+  vec3 smokeTint = mix(vec3(0.21, 0.22, 0.25), vec3(0.27, 0.21, 0.16), uSmokeWarmth);
+  vec3 smokeCol = smokeTint * clamp(smoke * uSmokeOpacity, 0.0, 1.4) * (1.0 - clamp(temp * 2.0, 0.0, 1.0));
   vec3 col = fire + smokeCol + vec3(0.0035, 0.004, 0.008);
   // filmic-ish tonemap
   col = col / (1.0 + col);
