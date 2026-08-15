@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>BOREAL — Real-time Aurora Borealis Playground</title>
+<meta name="description" content="Raymarched aurora borealis with live controls for curtains, colour, stars, reflection and camera." />
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+<canvas id="fluid"></canvas>
+
+<div id="gridOverlay" aria-hidden="true">
+  <span class="cross tl"></span><span class="cross tr"></span>
+  <span class="cross bl"></span><span class="cross br"></span>
+</div>
+
+<header id="statusBar">
+  <span class="mono">BOREAL / AURORA RENDERER</span>
+  <span class="mono dim">RAYMARCHED VOLUME &middot; 50 SAMPLES / RAY</span>
+  <span class="mono" id="clock">00:00:00</span>
+</header>
+
+<header id="brand">
+  <span class="eyebrow">01 / SKY</span>
+  <h1>BOREAL</h1>
+  <p class="mono dim">charged particles &middot; magnetic curtains &middot; polar night</p>
+</header>
+
+<aside id="panel">
+  <button id="panelToggle" aria-label="Toggle controls" aria-expanded="true">&#8801;</button>
+
+  <section class="group">
+    <span class="eyebrow">02 / PRESETS</span>
+    <div class="chips">
+      <button class="chip" id="preset-quiet">quiet arc</button>
+      <button class="chip" id="preset-curtains">curtains</button>
+      <button class="chip" id="preset-storm">solar storm</button>
+      <button class="chip" id="preset-dawn">polar dawn</button>
+      <button class="chip" id="preset-moonless">moonless</button>
+    </div>
+  </section>
+
+  <section class="group">
+    <span class="eyebrow">03 / AURORA</span>
+    <div class="ctl">
+      <label for="brightness">brightness <span class="val" id="brightnessVal">100</span></label>
+      <input type="range" id="brightness" min="20" max="200" value="100" />
+    </div>
+    <div class="ctl">
+      <label for="scale">band scale <span class="val" id="scaleVal">250</span></label>
+      <input type="range" id="scale" min="100" max="500" value="250" />
+    </div>
+    <div class="ctl">
+      <label for="speed">ripple speed <span class="val" id="speedVal">60</span></label>
+      <input type="range" id="speed" min="0" max="400" value="60" />
+    </div>
+    <div class="ctl">
+      <label for="detail">turbulence <span class="val" id="detailVal">100</span></label>
+      <input type="range" id="detail" min="20" max="200" value="100" />
+    </div>
+    <div class="ctl">
+      <label for="height">curtain height <span class="val" id="heightVal">100</span></label>
+      <input type="range" id="height" min="40" max="200" value="100" />
+    </div>
+  </section>
+
+  <section class="group">
+    <span class="eyebrow">04 / COLOUR</span>
+    <div class="ctl">
+      <label for="hue">hue shift <span class="val" id="hueVal">0</span></label>
+      <input type="range" id="hue" min="-150" max="300" value="0" />
+    </div>
+    <div class="ctl">
+      <label for="sat">saturation <span class="val" id="satVal">100</span></label>
+      <input type="range" id="sat" min="0" max="150" value="100" />
+    </div>
+  </section>
+
+  <section class="group">
+    <span class="eyebrow">05 / SKY &amp; GROUND</span>
+    <div class="ctl">
+      <label for="stars">stars <span class="val" id="starsVal">100</span></label>
+      <input type="range" id="stars" min="0" max="200" value="100" />
+    </div>
+    <div class="ctl">
+      <label for="refl">water reflection <span class="val" id="reflVal">100</span></label>
+      <input type="range" id="refl" min="0" max="150" value="100" />
+    </div>
+  </section>
+
+  <section class="group">
+    <span class="eyebrow">06 / CAMERA</span>
+    <div class="ctl">
+      <label for="tilt">tilt <span class="val" id="tiltVal">20</span></label>
+      <input type="range" id="tilt" min="-40" max="120" value="20" />
+    </div>
+    <div class="ctl">
+      <label for="drift">drift <span class="val" id="driftVal">20</span></label>
+      <input type="range" id="drift" min="0" max="100" value="20" />
+    </div>
+    <div class="ctl">
+      <label for="fov">field of view <span class="val" id="fovVal">130</span></label>
+      <input type="range" id="fov" min="60" max="250" value="130" />
+    </div>
+  </section>
+</aside>
+
+<div id="windMeter">
+  <span class="eyebrow">07 / GEOMAGNETIC</span>
+  <div class="bar"><span class="tick"></span><div id="kpBar"></div></div>
+  <span id="kpText" class="mono">quiet</span>
+</div>
+
+<footer id="hint" class="mono dim">
+  <span>drag &mdash; look around</span>
+  <span>presets &mdash; one-tap skies</span>
+</footer>
+
+<div id="nogl" hidden>
+  <p>Your browser does not support the WebGL features required by this renderer.</p>
+</div>
+
+<script type="module" src="js/main.js"></script>
+</body>
+</html>
