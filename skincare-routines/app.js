@@ -18,7 +18,7 @@ const CATEGORY_LABELS = {
   concern: "CONCERN-DRIVEN",
 };
 
-// Phase classifier (Strategy-style lookup), 15-phase model. Name-based rules run
+// Phase classifier (Strategy-style lookup), 21-phase model. Name-based rules run
 // first (most specific wins); a step's broad explicit tag (the old 7-phase set)
 // is the fallback when no granular rule matches.
 const PHASE_RULES = [
@@ -29,15 +29,21 @@ const PHASE_RULES = [
   ["STEAM", /steam|sauna|banya|hammam|heating room/i],
   ["MASSAGE", /massage|gua sha|roller|roll upward|kobido|venik|abhyanga|lymphatic|acupressure|face yoga|cheek puff|fish face|frown preventer|eye rejuvenator|upward strokes/i],
   ["EYE", /\beye\b|eye cream|eye care|under-?eye|eye mask/i],
-  ["MASK", /mask(?:s|ing)?\b|sheet mask|clay|mud|detox mask|purifying mask/i],
+  ["MASK", /mask(?:s|ing)?\b|sheet mask|clay|mud|detox mask|purifying mask|masque/i],
   ["EXFOLIATE", /exfoli|scrub|peel|kese|lulur|ubtan|dry-brush|polish|salicylic|glycolic|\bAHA\b|\bBHA\b|lactic|keratolytic|gentle file/i],
   ["TONE", /toner|tone\b|vinegar rinse|rose water|rosewater|floral|orange-blossom|astringent/i],
-  ["ESSENCE", /essence|7-skin|toner layers|keshousui|hydrating lotion|mist|humectant layer|hydration loading|load hydration|light hydrator|break-time hydration|go minimal|top-ups/i],
+  ["MIST", /mist|spritz|midday refresh|top-ups/i],
+  ["ESSENCE", /essence|7-skin|toner layers|keshousui|hydrating lotion|humectant layer|hydration loading|load hydration|light hydrator|break-time hydration|go minimal/i],
   ["OIL", /face oil|body oil|beard oil|argan|jojoba oil seal|olive-oil seal|night oil|oil nourish|oil lock-in|oil on top/i],
-  ["MASK", /masque/i],
-  ["TREAT", /retino|tretinoin|adapalene|serum|treat|spot|vitamin|niacinamide|active|antioxidant|peptide|cica|red-light|extraction|saffron|turmeric|tepezcohuite/i],
-  ["CLEANSE", /cleanse|wash|micellar|remover|scrap|rinse|oil pull|bathe|shower|soap|bath\b/i],
+  ["RETINOID", /retino|tretinoin|adapalene/i],
+  ["SPOT", /spot treat|spot$|targeted treatment|targeted care|targeted acti|OTC acne|antifungal/i],
+  ["SERUM", /serum|ampoule|vitamin c|niacinamide|antioxidant|peptide|cica/i],
+  ["REMOVE", /remover|makeup|oil-based|oil cleanse|oil \/ balm cleanse|balm cleanse|first cleanse|micellar/i],
+  ["BATHE", /bathe|shower|bath\b|milk \+ honey|coconut-milk/i],
+  ["TREAT", /treat|active|red-light|extraction|saffron|turmeric|tepezcohuite/i],
+  ["CLEANSE", /cleanse|wash|scrap|rinse|oil pull|soap/i],
   ["SEAL", /moistur|cream|emulsion|balm|slug|occlusive|seal|lotion|hydrate|nopal|aloe|shea|butter/i],
+  ["HABITS", /sleep|smok|hydration \+ nutrition|nutrition|stress|humidifier|sweat-wicking|healthy habits|lifestyle|hands off|never pick|don'ts/i],
 ];
 function phaseOf(st) {
   for (const [label, re] of PHASE_RULES) if (re.test(st.name)) return label;

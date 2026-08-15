@@ -194,6 +194,13 @@ main { max-width: 1200px; margin: 0 auto; }
 .phase-oil { color: #d8c878; border-color: #d8c878; }
 .phase-protect { color: var(--accent); border-color: var(--accent); }
 .phase-shave { color: #a8a8c8; border-color: #a8a8c8; }
+.phase-remove { color: #c8b89b; border-color: #c8b89b; }
+.phase-bathe { color: #88b8b0; border-color: #88b8b0; }
+.phase-mist { color: #a0c8e0; border-color: #a0c8e0; }
+.phase-serum { color: #e8c070; border-color: #e8c070; }
+.phase-retinoid { color: #e08878; border-color: #e08878; }
+.phase-spot { color: #d0a0b8; border-color: #d0a0b8; }
+.phase-habits { color: #98b898; border-color: #98b898; }
 
 .cat-tag {
   display: inline-block;
