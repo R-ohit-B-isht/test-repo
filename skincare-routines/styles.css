@@ -180,10 +180,20 @@ main { max-width: 1200px; margin: 0 auto; }
   vertical-align: middle;
 }
 .phase-cleanse { color: var(--interactive); border-color: var(--interactive); }
+.phase-exfoliate { color: #e0a458; border-color: #e0a458; }
+.phase-steam { color: #9bb8c8; border-color: #9bb8c8; }
+.phase-tone { color: var(--text-primary); border-color: var(--text-secondary); }
+.phase-essence { color: #8fd0c8; border-color: #8fd0c8; }
 .phase-prep { color: var(--text-primary); border-color: var(--text-secondary); }
 .phase-treat { color: var(--warning); border-color: var(--warning); }
+.phase-mask { color: #c9a0dc; border-color: #c9a0dc; }
+.phase-massage { color: #d98fa8; border-color: #d98fa8; }
+.phase-cold { color: #7fb8e8; border-color: #7fb8e8; }
+.phase-eye { color: #b8c88f; border-color: #b8c88f; }
 .phase-seal { color: var(--success); border-color: var(--success); }
+.phase-oil { color: #d8c878; border-color: #d8c878; }
 .phase-protect { color: var(--accent); border-color: var(--accent); }
+.phase-shave { color: #a8a8c8; border-color: #a8a8c8; }
 
 .cat-tag {
   display: inline-block;

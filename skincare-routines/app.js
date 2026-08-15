@@ -18,19 +18,30 @@ const CATEGORY_LABELS = {
   concern: "CONCERN-DRIVEN",
 };
 
-// Phase classifier (Strategy-style lookup): explicit step.phase wins; otherwise
-// derived from the step name so every step gets a Cleanse→Prep→Treat→Seal→Protect label.
+// Phase classifier (Strategy-style lookup), 15-phase model. Name-based rules run
+// first (most specific wins); a step's broad explicit tag (the old 7-phase set)
+// is the fallback when no granular rule matches.
 const PHASE_RULES = [
-  ["SHAVE", /shave|razor/i],
-  ["PROTECT", /sunscreen|spf|sun protection/i],
-  ["CLEANSE", /cleanse|wash|micellar|remover|scrap|rinse|oil pull|bathe/i],
-  ["PREP", /toner|essence|mist|prep|7-skin|layer/i],
-  ["TREAT", /exfoli|retino|serum|treat|acid|spot|vitamin|mask|active|antioxidant/i],
-  ["SEAL", /moistur|cream|emulsion|balm|slug|occlusive|seal|eye|oil massage|hydrate/i],
+  ["SHAVE", /shav|razor|beard-area/i],
+  ["TONE", /rose-water/i],
+  ["PROTECT", /sunscreen|spf|sun protection|slip:|slop:|slap:|seek:|slide:|thanaka/i],
+  ["COLD", /\bice|icing|plunge|cold bath|cold eye|cool cloth|cool care|de-puff/i],
+  ["STEAM", /steam|sauna|banya|hammam|heating room/i],
+  ["MASSAGE", /massage|gua sha|roller|roll upward|kobido|venik|abhyanga|lymphatic|acupressure|face yoga|cheek puff|fish face|frown preventer|eye rejuvenator|upward strokes/i],
+  ["EYE", /\beye\b|eye cream|eye care|under-?eye|eye mask/i],
+  ["MASK", /mask(?:s|ing)?\b|sheet mask|clay|mud|detox mask|purifying mask/i],
+  ["EXFOLIATE", /exfoli|scrub|peel|kese|lulur|ubtan|dry-brush|polish|salicylic|glycolic|\bAHA\b|\bBHA\b|lactic|keratolytic|gentle file/i],
+  ["TONE", /toner|tone\b|vinegar rinse|rose water|rosewater|floral|orange-blossom|astringent/i],
+  ["ESSENCE", /essence|7-skin|toner layers|keshousui|hydrating lotion|mist|humectant layer|hydration loading|load hydration|light hydrator|break-time hydration|go minimal|top-ups/i],
+  ["OIL", /face oil|body oil|beard oil|argan|jojoba oil seal|olive-oil seal|night oil|oil nourish|oil lock-in|oil on top/i],
+  ["MASK", /masque/i],
+  ["TREAT", /retino|tretinoin|adapalene|serum|treat|spot|vitamin|niacinamide|active|antioxidant|peptide|cica|red-light|extraction|saffron|turmeric|tepezcohuite/i],
+  ["CLEANSE", /cleanse|wash|micellar|remover|scrap|rinse|oil pull|bathe|shower|soap|bath\b/i],
+  ["SEAL", /moistur|cream|emulsion|balm|slug|occlusive|seal|lotion|hydrate|nopal|aloe|shea|butter/i],
 ];
 function phaseOf(st) {
-  if (st.phase) return st.phase;
   for (const [label, re] of PHASE_RULES) if (re.test(st.name)) return label;
+  if (st.phase) return st.phase;
   return "CARE";
 }
 
