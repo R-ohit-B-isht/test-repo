@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Electric Lighters — India, Ranked</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' fill='%23000'/%3E%3Ccircle cx='8' cy='8' r='4' fill='%23fff'/%3E%3C/svg%3E" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Doto:wght@400..700&family=Space+Grotesk:wght@300;400;500&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="dev-banner">[DEV MODE] SCORE TABLE LOGGED TO CONSOLE</div>
+  <header>
+    <div class="masthead">
+      <span class="label">ELECTRIC LIGHTERS / INDIA / ARC &amp; FLAMELESS</span>
+      <span class="label">RESEARCHED 18 AUG 2026</span>
+    </div>
+    <div class="hero">
+      <span class="hero-number">1573</span>
+      <div class="hero-side">
+        <h1>Sparks that last.<br>Ranked honestly.</h1>
+        <p class="hero-sub">1,573 electric (arc/plasma/flameless) lighters sold in India — 944 Flipkart listings
+          visited live in the browser plus 629 Amazon.in product pages fetched live (Pigeon, URBN, Portronics, Zippo-style arcs and marketplace brands). Each one is scored from its
+          real listing signals — arc type (single/dual), claimed battery capacity and uses per charge, USB-C vs
+          micro-USB charging, windproof claims, safety switches, body material, live buyer rating, brand track
+          record — never invented specs. Build &amp; reliability weighted highest, because a lighter that stops
+          sparking is useless regardless of the spec sheet.</p>
+      </div>
+    </div>
+    <div class="masthead tags">
+      <span class="tag">BUILD 26%</span>
+      <span class="tag">IGNITION 22%</span>
+      <span class="tag">BATTERY 22%</span>
+      <span class="tag">LIVE PRICES</span>
+      <span class="tag">NOTHING INVENTED</span>
+    </div>
+  </header>
+
+  <div class="controls">
+    <select id="sort" aria-label="Sort">
+      <option value="score">SORT: OVERALL SCORE</option>
+      <option value="build">SORT: BUILD &amp; RELIABILITY</option>
+      <option value="ignition">SORT: IGNITION &amp; WINDPROOF</option>
+      <option value="battery">SORT: BATTERY &amp; CHARGING</option>
+      <option value="priceAsc">SORT: PRICE LOW→HIGH</option>
+      <option value="priceDesc">SORT: PRICE HIGH→LOW</option>
+      <option value="brand">SORT: BRAND</option>
+    </select>
+    <select id="type" aria-label="Filter">
+      <option value="all">FILTER: ALL</option>
+      <option value="dualarc">DUAL ARC</option>
+      <option value="windproof">WINDPROOF / FLAMELESS</option>
+      <option value="usbc">USB-C CHARGING</option>
+      <option value="neck">LONG NECK / CANDLE</option>
+      <option value="display">BATTERY INDICATOR</option>
+      <option value="amazon">AMAZON LISTINGS</option>
+      <option value="flipkart">FLIPKART LISTINGS</option>
+    </select>
+    <label class="label">MAX PRICE <input type="range" id="maxPrice" min="100" max="5000" step="50" value="5000" />
+      <span id="maxPriceLabel" class="mono-val">₹5,000</span></label>
+    <span id="count" class="tag"></span>
+  </div>
+
+  <main>
+    <h2 class="section-title">RANKED PICKS</h2>
+    <div id="cards" class="grid"></div>
+
+    <h2 class="section-title">FULL COMPARISON TABLE</h2>
+    <p class="note">Every spec field, side by side. Click column headers to sort; first columns stay pinned on desktop.</p>
+    <div id="table" class="table-wrap"></div>
+  </main>
+
+  <footer>
+    <span class="label">WEIGHTS</span> Build 26 · Ignition 22 · Battery 22 · Safety 16 · Features 14<br />
+    <span class="label">SOURCES</span> Flipkart product pages (browser-verified) and Amazon.in product pages (fetched live), 18 Aug 2026.
+    Prices change — verify before buying. Battery/uses-per-charge figures are the sellers' claims, not lab-tested.<br />
+    <span class="label">HONESTY</span> Unpublished figures are marked "Not stated in listing" — never guessed.
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="scoring.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
