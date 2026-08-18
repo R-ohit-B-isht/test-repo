@@ -6,6 +6,734 @@
 // The requester's priority: keep sand/dirt/water OUT (avoid open mesh), plus
 // looks and comfort — see scoring.js weights.
 const SHOES = [
+ {
+  "id": "quechua-decathlon-mh500-mid-waterproof-hiking-shoes",
+  "brand": "Quechua (Decathlon)",
+  "model": "MH500 Mid Waterproof Hiking Shoes",
+  "price": 6999,
+  "upper": "Closed synthetic upper, membrane-lined (no open mesh)",
+  "sealing": "Waterproof membrane (Decathlon-lab tested, published)",
+  "ankle": "Mid ankle",
+  "outsole": "CROSSCONTACT rubber, 5mm lugs",
+  "highlight": "BEATS THE OLD #1 (Wildcraft Amphibia Sphere 2, 81.4): a true waterproof membrane — not just a DWR coating — verified live on the Decathlon product page, rated 4.7★ by 6.5k buyers. Costs more than the old ₹3k cap, added because you asked for better than #1.",
+  "pros": [
+   "True waterproof membrane published by the maker — a class above DWR-only uppers",
+   "Strong verified rating: 4.7★ (6.5k reviews, Decathlon)",
+   "CROSSCONTACT rubber, 5mm lugs outsole"
+  ],
+  "cons": [
+   "Above the original ₹3,000 cap (₹6,999)",
+   "Membrane shoes run warmer in Indian summer plains",
+   "Waterproofing claims are the maker’s, not lab-verified by us"
+  ],
+  "scores": {
+   "sealing": 9.3,
+   "grip": 8.8,
+   "comfort": 8.4,
+   "build": 8.6,
+   "looks": 8,
+   "value": 6.5
+  },
+  "fullSpec": {
+   "upperMaterial": "Closed synthetic, membrane-lined",
+   "waterproofing": "Waterproof membrane (Decathlon-lab tested, published)",
+   "dustSealing": "Excellent — membrane-lined closed upper",
+   "ankleHeight": "Mid ankle",
+   "outsole": "CROSSCONTACT rubber, 5mm lugs",
+   "midsole": "Cushioned EVA (per listing)",
+   "insole": "Cushioned footbed",
+   "toeProtection": "Rubber toe guard",
+   "closure": "Laces",
+   "weight": "490 g (per listing)",
+   "colours": "See listing",
+   "sizes": "See listing",
+   "bestFor": "Multi-day Himalayan treks in wet/mixed weather",
+   "warranty": "Decathlon 2-year warranty (published)",
+   "rating": "4.7★ (6.5k reviews, Decathlon, 18 Aug 2026)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://contents.mediadecathlon.com/p2315829/8bfa09a6903a3461b2355438ac12f38e/p2315829.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p2717005/0826edf99f1778a241ac37ec59659988/p2717005.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p3050091/8e102ec633d76d710102121d713f68ff/p3050091.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p3050096/f9ab79027ad86878b103f0fa0f2d4a2c/p3050096.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p3050108/f7cbd90b1d47112182127b3bfcec54ee/p3050108.jpg?format=auto&quality=70&f=3000x0"
+  ],
+  "buyUrl": "https://www.decathlon.in/p/8618769/men-waterproof-hiking-shoes-mid-ankle-with-cushion-comfort-",
+  "buyStore": "Decathlon"
+ },
+ {
+  "id": "quechua-decathlon-mh100-mid-waterproof-hiking-shoes",
+  "brand": "Quechua (Decathlon)",
+  "model": "MH100 Mid Waterproof Hiking Shoes",
+  "price": 4999,
+  "upper": "Closed synthetic upper, membrane-lined (no open mesh)",
+  "sealing": "Waterproof membrane (Decathlon-lab tested, published)",
+  "ankle": "Mid ankle",
+  "outsole": "Non-slip rubber outsole",
+  "highlight": "BEATS THE OLD #1 (Wildcraft Amphibia Sphere 2, 81.4): a true waterproof membrane — not just a DWR coating — verified live on the Decathlon product page, rated 4.6★ by 6.7k buyers. Costs more than the old ₹3k cap, added because you asked for better than #1.",
+  "pros": [
+   "True waterproof membrane published by the maker — a class above DWR-only uppers",
+   "Strong verified rating: 4.6★ (6.7k reviews, Decathlon)",
+   "Non-slip rubber outsole outsole"
+  ],
+  "cons": [
+   "Above the original ₹3,000 cap (₹4,999)",
+   "Membrane shoes run warmer in Indian summer plains",
+   "Waterproofing claims are the maker’s, not lab-verified by us"
+  ],
+  "scores": {
+   "sealing": 9,
+   "grip": 8.4,
+   "comfort": 8,
+   "build": 8.2,
+   "looks": 7.8,
+   "value": 6.5
+  },
+  "fullSpec": {
+   "upperMaterial": "Closed synthetic, membrane-lined",
+   "waterproofing": "Waterproof membrane (Decathlon-lab tested, published)",
+   "dustSealing": "Excellent — membrane-lined closed upper",
+   "ankleHeight": "Mid ankle",
+   "outsole": "Non-slip rubber outsole",
+   "midsole": "Cushioned EVA (per listing)",
+   "insole": "Cushioned footbed",
+   "toeProtection": "Rubber toe guard",
+   "closure": "Laces",
+   "weight": "440 g (per listing)",
+   "colours": "See listing",
+   "sizes": "See listing",
+   "bestFor": "Wet-weather day hikes and easy treks",
+   "warranty": "Decathlon 2-year warranty (published)",
+   "rating": "4.6★ (6.7k reviews, Decathlon, 18 Aug 2026)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://contents.mediadecathlon.com/p2771664/b649debb5f166402fa8790b98cdf748b/p2771664.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p2579131/5ef8e189f7d80c766b360ca9db4ded9f/p2579131.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p1828577/bc97f753d564f2edc0d2b327df74bb8e/p1828577.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p2771668/64a5a0990674d470353f0607cba79cc8/p2771668.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p2771664/b649debb5f166402fa8790b98cdf748b/p2771664.jpg?format=auto&quality=70&f=124x0"
+  ],
+  "buyUrl": "https://www.decathlon.in/p/8553119/men-mid-ankle-waterproof-hiking-shoes-with-non-slip-outsole",
+  "buyStore": "Decathlon"
+ },
+ {
+  "id": "quechua-decathlon-mh100-waterproof-hiking-shoes-low-ankle-",
+  "brand": "Quechua (Decathlon)",
+  "model": "MH100 Waterproof Hiking Shoes (low ankle)",
+  "price": 3999,
+  "upper": "Closed synthetic upper, membrane-lined (no open mesh)",
+  "sealing": "Waterproof membrane (Decathlon-lab tested, published)",
+  "ankle": "Low ankle",
+  "outsole": "Non-slip rubber outsole",
+  "highlight": "BEATS THE OLD #1 (Wildcraft Amphibia Sphere 2, 81.4): a true waterproof membrane — not just a DWR coating — verified live on the Decathlon product page, rated 4.7★ by 7.4k buyers. Costs more than the old ₹3k cap, added because you asked for better than #1.",
+  "pros": [
+   "True waterproof membrane published by the maker — a class above DWR-only uppers",
+   "Strong verified rating: 4.7★ (7.4k reviews, Decathlon)",
+   "Non-slip rubber outsole outsole"
+  ],
+  "cons": [
+   "Above the original ₹3,000 cap (₹3,999)",
+   "Membrane shoes run warmer in Indian summer plains",
+   "Waterproofing claims are the maker’s, not lab-verified by us"
+  ],
+  "scores": {
+   "sealing": 8.8,
+   "grip": 8.4,
+   "comfort": 8,
+   "build": 8.2,
+   "looks": 7.8,
+   "value": 6.5
+  },
+  "fullSpec": {
+   "upperMaterial": "Closed synthetic, membrane-lined",
+   "waterproofing": "Waterproof membrane (Decathlon-lab tested, published)",
+   "dustSealing": "Excellent — membrane-lined closed upper",
+   "ankleHeight": "Low ankle",
+   "outsole": "Non-slip rubber outsole",
+   "midsole": "Cushioned EVA (per listing)",
+   "insole": "Cushioned footbed",
+   "toeProtection": "Rubber toe guard",
+   "closure": "Laces",
+   "weight": "405 g (per listing)",
+   "colours": "See listing",
+   "sizes": "See listing",
+   "bestFor": "Wet-weather day hikes, everyday trail use",
+   "warranty": "Decathlon 2-year warranty (published)",
+   "rating": "4.7★ (7.4k reviews, Decathlon, 18 Aug 2026)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://contents.mediadecathlon.com/p2771676/b079d24161dfaa2dc805c5ed45136fc3/p2771676.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p1568336/2653ea67bf8b4c4eadb502c1631b1b67/p1568336.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p2771671/1a33da2ebeb7334adfb023ef769f02c0/p2771671.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p3050115/adf987338ca43f803b7cb9d92fbd25f3/p3050115.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p2771673/0feea39df8898284938bcf073368881f/p2771673.jpg?format=auto&quality=70&f=3000x0"
+  ],
+  "buyUrl": "https://www.decathlon.in/p/8503796/men-low-ankle-waterproof-hiking-shoes-with-non-slip-outsole",
+  "buyStore": "Decathlon"
+ },
+ {
+  "id": "quechua-decathlon-nh100-wp-waterproof-hiking-boots",
+  "brand": "Quechua (Decathlon)",
+  "model": "NH100 WP Waterproof Hiking Boots",
+  "price": 2999,
+  "upper": "Closed synthetic upper, membrane-lined (no open mesh)",
+  "sealing": "Waterproof membrane (published claim)",
+  "ankle": "High ankle",
+  "outsole": "Rubber outsole",
+  "highlight": "BEATS THE OLD #1 (Wildcraft Amphibia Sphere 2, 81.4): a true waterproof membrane — not just a DWR coating — verified live on the Decathlon product page, rated 4.6★ by 2.5k buyers. Costs more than the old ₹3k cap, added because you asked for better than #1.",
+  "pros": [
+   "True waterproof membrane published by the maker — a class above DWR-only uppers",
+   "Strong verified rating: 4.6★ (2.5k reviews, Decathlon)",
+   "Rubber outsole outsole"
+  ],
+  "cons": [
+   "At the top of the budget range",
+   "Membrane shoes run warmer in Indian summer plains",
+   "Waterproofing claims are the maker’s, not lab-verified by us"
+  ],
+  "scores": {
+   "sealing": 8.9,
+   "grip": 8,
+   "comfort": 7.8,
+   "build": 7.9,
+   "looks": 7.6,
+   "value": 7.5
+  },
+  "fullSpec": {
+   "upperMaterial": "Closed synthetic, membrane-lined",
+   "waterproofing": "Waterproof membrane (published claim)",
+   "dustSealing": "Excellent — membrane-lined closed upper",
+   "ankleHeight": "High ankle",
+   "outsole": "Rubber outsole",
+   "midsole": "Cushioned EVA (per listing)",
+   "insole": "Cushioned footbed",
+   "toeProtection": "Rubber toe guard",
+   "closure": "Laces",
+   "weight": "Not officially published",
+   "colours": "See listing",
+   "sizes": "See listing",
+   "bestFor": "Budget waterproof boot for casual hikes",
+   "warranty": "Decathlon 2-year warranty (published)",
+   "rating": "4.6★ (2.5k reviews, Decathlon, 18 Aug 2026)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://contents.mediadecathlon.com/p2838670/896b0e7fa6321eff82d28ea46a40cdbd/p2838670.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p2838672/23aa2378cc780a8ee558f5c86e7bb3e8/p2838672.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p2838669/72eab3ee3ea00029fc643166ee2883a0/p2838669.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p2838673/742e8f97246d6f1664097bf77f74e1dc/p2838673.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p2838676/67dfc5a951205a9b1b733600f40795d0/p2838676.jpg?format=auto&quality=70&f=3000x0"
+  ],
+  "buyUrl": "https://www.decathlon.in/p/8871780/men-s-waterproof-hiking-boots-nh100-wp-grey",
+  "buyStore": "Decathlon"
+ },
+ {
+  "id": "quechua-decathlon-nh100-warm-waterproof-winter-hiking-boots",
+  "brand": "Quechua (Decathlon)",
+  "model": "NH100 Warm Waterproof Winter Hiking Boots",
+  "price": 2999,
+  "upper": "Closed synthetic upper, membrane-lined (no open mesh)",
+  "sealing": "Waterproof membrane + warm lining (published)",
+  "ankle": "High ankle",
+  "outsole": "Snow-contact rubber outsole",
+  "highlight": "BEATS THE OLD #1 (Wildcraft Amphibia Sphere 2, 81.4): a true waterproof membrane — not just a DWR coating — verified live on the Decathlon product page, rated 4.8★ by 3.6k buyers. Costs more than the old ₹3k cap, added because you asked for better than #1.",
+  "pros": [
+   "True waterproof membrane published by the maker — a class above DWR-only uppers",
+   "Strong verified rating: 4.8★ (3.6k reviews, Decathlon)",
+   "Snow-contact rubber outsole outsole"
+  ],
+  "cons": [
+   "At the top of the budget range",
+   "Membrane shoes run warmer in Indian summer plains",
+   "Waterproofing claims are the maker’s, not lab-verified by us"
+  ],
+  "scores": {
+   "sealing": 9,
+   "grip": 8.1,
+   "comfort": 8,
+   "build": 8,
+   "looks": 7.6,
+   "value": 7.5
+  },
+  "fullSpec": {
+   "upperMaterial": "Closed synthetic, membrane-lined",
+   "waterproofing": "Waterproof membrane + warm lining (published)",
+   "dustSealing": "Excellent — membrane-lined closed upper",
+   "ankleHeight": "High ankle",
+   "outsole": "Snow-contact rubber outsole",
+   "midsole": "Cushioned EVA (per listing)",
+   "insole": "Cushioned footbed",
+   "toeProtection": "Rubber toe guard",
+   "closure": "Laces",
+   "weight": "Not officially published",
+   "colours": "See listing",
+   "sizes": "See listing",
+   "bestFor": "Cold/wet winter hikes and snow lines",
+   "warranty": "Decathlon 2-year warranty (published)",
+   "rating": "4.8★ (3.6k reviews, Decathlon, 18 Aug 2026)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://contents.mediadecathlon.com/p2779001/bd9a4742f9910b8cfa0dfac4c44c3df0/p2779001.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p2779010/57d2e2e14c92ccaa982b5ff47c5eda05/p2779010.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p2779016/001363d99cc1ac80b0279652c0558cc0/p2779016.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p2779012/2c33abfd81769f7d3e23b518a1846164/p2779012.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p2779013/5b50af744e869b5032b87c4126eba1c6/p2779013.jpg?format=auto&quality=70&f=3000x0"
+  ],
+  "buyUrl": "https://www.decathlon.in/p/8737445/men-s-waterproof-winter-hiking-boots-nh100-black",
+  "buyStore": "Decathlon"
+ },
+ {
+  "id": "quechua-decathlon-mh500-waterproof-hiking-shoes-low-ankle-",
+  "brand": "Quechua (Decathlon)",
+  "model": "MH500 Waterproof Hiking Shoes (low ankle)",
+  "price": 5999,
+  "upper": "Closed synthetic upper, membrane-lined (no open mesh)",
+  "sealing": "Waterproof membrane (Decathlon-lab tested, published)",
+  "ankle": "Low ankle",
+  "outsole": "CROSSCONTACT rubber, 5mm lugs",
+  "highlight": "BEATS THE OLD #1 (Wildcraft Amphibia Sphere 2, 81.4): a true waterproof membrane — not just a DWR coating — verified live on the Decathlon product page, rated 4.7★ by 5.1k buyers. Costs more than the old ₹3k cap, added because you asked for better than #1.",
+  "pros": [
+   "True waterproof membrane published by the maker — a class above DWR-only uppers",
+   "Strong verified rating: 4.7★ (5.1k reviews, Decathlon)",
+   "CROSSCONTACT rubber, 5mm lugs outsole"
+  ],
+  "cons": [
+   "Above the original ₹3,000 cap (₹5,999)",
+   "Membrane shoes run warmer in Indian summer plains",
+   "Waterproofing claims are the maker’s, not lab-verified by us"
+  ],
+  "scores": {
+   "sealing": 9,
+   "grip": 8.7,
+   "comfort": 8.3,
+   "build": 8.5,
+   "looks": 8,
+   "value": 6.5
+  },
+  "fullSpec": {
+   "upperMaterial": "Closed synthetic, membrane-lined",
+   "waterproofing": "Waterproof membrane (Decathlon-lab tested, published)",
+   "dustSealing": "Excellent — membrane-lined closed upper",
+   "ankleHeight": "Low ankle",
+   "outsole": "CROSSCONTACT rubber, 5mm lugs",
+   "midsole": "Cushioned EVA (per listing)",
+   "insole": "Cushioned footbed",
+   "toeProtection": "Rubber toe guard",
+   "closure": "Laces",
+   "weight": "445 g (per listing)",
+   "colours": "See listing",
+   "sizes": "See listing",
+   "bestFor": "Fast wet-weather hiking without boot weight",
+   "warranty": "Decathlon 2-year warranty (published)",
+   "rating": "4.7★ (5.1k reviews, Decathlon, 18 Aug 2026)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://contents.mediadecathlon.com/p2315782/e8ab64202c4453d4f3662ae6455c0dfc/p2315782.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p2315784/b6ee07d043f973cd66f3990eec08f67a/p2315784.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p2315783/cba559a2712d3aecd8b0be1b20489f76/p2315783.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p2315785/b418cfc007a0196d693222406ccd856d/p2315785.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p2579180/7ab1366318929c9dae38e7a315f589eb/p2579180.jpg?format=auto&quality=70&f=3000x0"
+  ],
+  "buyUrl": "https://www.decathlon.in/p/8618759/men-waterproof-hiking-shoes-low-ankle-with-cushion-comfort-",
+  "buyStore": "Decathlon"
+ },
+ {
+  "id": "quechua-decathlon-mh500-mid-warm-waterproof-hiking-boots",
+  "brand": "Quechua (Decathlon)",
+  "model": "MH500 Mid Warm Waterproof Hiking Boots",
+  "price": 8999,
+  "upper": "Closed synthetic upper, membrane-lined (no open mesh)",
+  "sealing": "Waterproof membrane + warm lining (published)",
+  "ankle": "Mid ankle",
+  "outsole": "CROSSCONTACT rubber",
+  "highlight": "BEATS THE OLD #1 (Wildcraft Amphibia Sphere 2, 81.4): a true waterproof membrane — not just a DWR coating — verified live on the Decathlon product page, rated 4.5★ by 902 buyers. Costs more than the old ₹3k cap, added because you asked for better than #1.",
+  "pros": [
+   "True waterproof membrane published by the maker — a class above DWR-only uppers",
+   "Strong verified rating: 4.5★ (902 reviews, Decathlon)",
+   "CROSSCONTACT rubber outsole"
+  ],
+  "cons": [
+   "Above the original ₹3,000 cap (₹8,999)",
+   "Membrane shoes run warmer in Indian summer plains",
+   "Waterproofing claims are the maker’s, not lab-verified by us"
+  ],
+  "scores": {
+   "sealing": 9.3,
+   "grip": 8.7,
+   "comfort": 8.4,
+   "build": 8.6,
+   "looks": 7.9,
+   "value": 5.5
+  },
+  "fullSpec": {
+   "upperMaterial": "Closed synthetic, membrane-lined",
+   "waterproofing": "Waterproof membrane + warm lining (published)",
+   "dustSealing": "Excellent — membrane-lined closed upper",
+   "ankleHeight": "Mid ankle",
+   "outsole": "CROSSCONTACT rubber",
+   "midsole": "Cushioned EVA (per listing)",
+   "insole": "Cushioned footbed",
+   "toeProtection": "Rubber toe guard",
+   "closure": "Laces",
+   "weight": "Not officially published",
+   "colours": "See listing",
+   "sizes": "See listing",
+   "bestFor": "Winter Himalayan treks",
+   "warranty": "Decathlon 2-year warranty (published)",
+   "rating": "4.5★ (902 reviews, Decathlon, 18 Aug 2026)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://contents.mediadecathlon.com/p2520579/5a7c575dd8d53c6a580b4f976f083d35/p2520579.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p3057454/2e0370ebaa2048a97546cf31be0b567a/p3057454.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p2515952/c1839d91c61658e5d65259ef298b5b58/p2515952.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p3057450/2a6566a56e8fb24beb17fd36d5404787/p3057450.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p2515975/9f6f3ab39dd8f2fcebffdbde64ff1431/p2515975.jpg?format=auto&quality=70&f=3000x0"
+  ],
+  "buyUrl": "https://www.decathlon.in/p/8665669/men-s-warm-and-waterproof-hiking-boots-mh500-black",
+  "buyStore": "Decathlon"
+ },
+ {
+  "id": "simond-decathlon-mt500-leather-waterproof-boots-vibram-",
+  "brand": "Simond (Decathlon)",
+  "model": "MT500 Leather Waterproof Boots (Vibram)",
+  "price": 16999,
+  "upper": "Full-grain leather, membrane-lined",
+  "sealing": "Waterproof membrane + full-grain leather (published)",
+  "ankle": "High ankle",
+  "outsole": "Vibram rubber",
+  "highlight": "BEATS THE OLD #1 (Wildcraft Amphibia Sphere 2, 81.4): a true waterproof membrane — not just a DWR coating — verified live on the Decathlon product page, rated 4.5★ by 624 buyers. Costs more than the old ₹3k cap, added because you asked for better than #1.",
+  "pros": [
+   "True waterproof membrane published by the maker — a class above DWR-only uppers",
+   "Strong verified rating: 4.5★ (624 reviews, Decathlon)",
+   "Vibram rubber outsole"
+  ],
+  "cons": [
+   "Above the original ₹3,000 cap (₹16,999)",
+   "Membrane shoes run warmer in Indian summer plains",
+   "Waterproofing claims are the maker’s, not lab-verified by us"
+  ],
+  "scores": {
+   "sealing": 9.5,
+   "grip": 9.3,
+   "comfort": 8.5,
+   "build": 9.2,
+   "looks": 8.2,
+   "value": 5.5
+  },
+  "fullSpec": {
+   "upperMaterial": "Full-grain leather",
+   "waterproofing": "Waterproof membrane + full-grain leather (published)",
+   "dustSealing": "Excellent — membrane-lined closed upper",
+   "ankleHeight": "High ankle",
+   "outsole": "Vibram rubber",
+   "midsole": "Cushioned EVA (per listing)",
+   "insole": "Cushioned footbed",
+   "toeProtection": "Rubber toe guard",
+   "closure": "Laces",
+   "weight": "600 g (per listing)",
+   "colours": "See listing",
+   "sizes": "See listing",
+   "bestFor": "Serious multi-day mountain trekking",
+   "warranty": "Decathlon 2-year warranty (published)",
+   "rating": "4.5★ (624 reviews, Decathlon, 18 Aug 2026)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://contents.mediadecathlon.com/p2792344/4e127f194de00d24e11dc838434923bb/p2792344.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p2771558/7bf656f4d7a94e7733b89cd3483f418f/p2771558.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p2771557/40b684d71513ddc78f200649c1f4e859/p2771557.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p2771559/352d670e153b6045cd46650475575e94/p2771559.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/s1398981/k$e9aa784315d5ad55c6ef53eb422f86aa/defaut.jpg?format=auto"
+  ],
+  "buyUrl": "https://www.decathlon.in/p/8786155/men-s-leather-boots-waterproof-vibram-mt500-brown",
+  "buyStore": "Decathlon"
+ },
+ {
+  "id": "quechua-decathlon-nh100-high-warm-waterproof-hiking-boots",
+  "brand": "Quechua (Decathlon)",
+  "model": "NH100 High Warm Waterproof Hiking Boots",
+  "price": 3999,
+  "upper": "Closed synthetic upper, membrane-lined (no open mesh)",
+  "sealing": "Waterproof membrane + warm lining (published)",
+  "ankle": "High ankle",
+  "outsole": "Rubber outsole",
+  "highlight": "BEATS THE OLD #1 (Wildcraft Amphibia Sphere 2, 81.4): a true waterproof membrane — not just a DWR coating — verified live on the Decathlon product page, rated 4.6★ by 854 buyers. Costs more than the old ₹3k cap, added because you asked for better than #1.",
+  "pros": [
+   "True waterproof membrane published by the maker — a class above DWR-only uppers",
+   "Strong verified rating: 4.6★ (854 reviews, Decathlon)",
+   "Rubber outsole outsole"
+  ],
+  "cons": [
+   "Above the original ₹3,000 cap (₹3,999)",
+   "Membrane shoes run warmer in Indian summer plains",
+   "Waterproofing claims are the maker’s, not lab-verified by us"
+  ],
+  "scores": {
+   "sealing": 9,
+   "grip": 8,
+   "comfort": 7.9,
+   "build": 8,
+   "looks": 7.6,
+   "value": 6.5
+  },
+  "fullSpec": {
+   "upperMaterial": "Closed synthetic, membrane-lined",
+   "waterproofing": "Waterproof membrane + warm lining (published)",
+   "dustSealing": "Excellent — membrane-lined closed upper",
+   "ankleHeight": "High ankle",
+   "outsole": "Rubber outsole",
+   "midsole": "Cushioned EVA (per listing)",
+   "insole": "Cushioned footbed",
+   "toeProtection": "Rubber toe guard",
+   "closure": "Laces",
+   "weight": "Not officially published",
+   "colours": "See listing",
+   "sizes": "See listing",
+   "bestFor": "Cold-weather casual hiking",
+   "warranty": "Decathlon 2-year warranty (published)",
+   "rating": "4.6★ (854 reviews, Decathlon, 18 Aug 2026)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://contents.mediadecathlon.com/p2771639/eb2c20c29aec43eb85b25e494e1ea9b2/p2771639.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p2047890/e9af68c46adbeaf85b9e54692eb19482/p2047890.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p2771638/0f1bddc7acefb25d7c74149eb9ab8fb4/p2771638.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p2771643/7957316d049023472a6ca17002d734f1/p2771643.jpg?format=auto&quality=70&f=3000x0",
+   "https://contents.mediadecathlon.com/p2771641/40714e610d066a12c300094c78edfc33/p2771641.jpg?format=auto&quality=70&f=3000x0"
+  ],
+  "buyUrl": "https://www.decathlon.in/p/8367617/men-s-warm-and-waterproof-hiking-boots-nh100-black",
+  "buyStore": "Decathlon"
+ },
+ {
+  "id": "columbia-peakfreak-ii-mid-outdry",
+  "brand": "Columbia",
+  "model": "Peakfreak II Mid OutDry",
+  "price": 12999,
+  "upper": "Closed synthetic upper, membrane-lined (no open mesh)",
+  "sealing": "OutDry waterproof-breathable membrane (Columbia, published)",
+  "ankle": "Mid ankle",
+  "outsole": "Adapt Trax rubber",
+  "highlight": "BEATS THE OLD #1 (Wildcraft Amphibia Sphere 2, 81.4): a true waterproof membrane — not just a DWR coating — verified live on the Flipkart product page. Costs more than the old ₹3k cap, added because you asked for better than #1.",
+  "pros": [
+   "True waterproof membrane published by the maker — a class above DWR-only uppers",
+   "Established outdoor brand with published construction specs",
+   "Adapt Trax rubber outsole"
+  ],
+  "cons": [
+   "Above the original ₹3,000 cap (₹12,999)",
+   "Membrane shoes run warmer in Indian summer plains",
+   "Few or no buyer ratings on this listing yet"
+  ],
+  "scores": {
+   "sealing": 9.4,
+   "grip": 9,
+   "comfort": 8.6,
+   "build": 8.9,
+   "looks": 8.3,
+   "value": 5.5
+  },
+  "fullSpec": {
+   "upperMaterial": "Closed synthetic, membrane-lined",
+   "waterproofing": "OutDry waterproof-breathable membrane (Columbia, published)",
+   "dustSealing": "Excellent — membrane-lined closed upper",
+   "ankleHeight": "Mid ankle",
+   "outsole": "Adapt Trax rubber",
+   "midsole": "Cushioned EVA (per listing)",
+   "insole": "Cushioned footbed",
+   "toeProtection": "Rubber toe guard",
+   "closure": "Laces",
+   "weight": "Not officially published",
+   "colours": "See listing",
+   "sizes": "See listing",
+   "bestFor": "Technical wet-weather trekking",
+   "warranty": "Not officially published",
+   "rating": "No ratings yet on Flipkart listing",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/r/o/q/10-bm2138-010-columbia-black-titanium-original-imah4qr8zdtjhmnx.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/r/z/x/10-bm2138-010-columbia-black-titanium-original-imah4qr8dphue2fq.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/d/l/t/10-bm2138-010-columbia-black-titanium-original-imah4qr8ceanu35h.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/m/3/o/10-bm2138-010-columbia-black-titanium-original-imah4qr84gzgdugh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/x/s/s/10-bm2138-010-columbia-black-titanium-original-imah4qr8kmwsjwqb.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/columbia-peakfreak-ii-mid-outdry-outdoors-men/p/itm4c54617856b9f",
+  "buyStore": "Flipkart"
+ },
+ {
+  "id": "columbia-peakfreak-ii-outdry",
+  "brand": "Columbia",
+  "model": "Peakfreak II OutDry",
+  "price": 11999,
+  "upper": "Closed synthetic upper, membrane-lined (no open mesh)",
+  "sealing": "OutDry waterproof-breathable membrane (Columbia, published)",
+  "ankle": "Low ankle",
+  "outsole": "Adapt Trax rubber",
+  "highlight": "BEATS THE OLD #1 (Wildcraft Amphibia Sphere 2, 81.4): a true waterproof membrane — not just a DWR coating — verified live on the Flipkart product page. Costs more than the old ₹3k cap, added because you asked for better than #1.",
+  "pros": [
+   "True waterproof membrane published by the maker — a class above DWR-only uppers",
+   "Established outdoor brand with published construction specs",
+   "Adapt Trax rubber outsole"
+  ],
+  "cons": [
+   "Above the original ₹3,000 cap (₹11,999)",
+   "Membrane shoes run warmer in Indian summer plains",
+   "Few or no buyer ratings on this listing yet"
+  ],
+  "scores": {
+   "sealing": 9.2,
+   "grip": 9,
+   "comfort": 8.6,
+   "build": 8.8,
+   "looks": 8.3,
+   "value": 5.5
+  },
+  "fullSpec": {
+   "upperMaterial": "Closed synthetic, membrane-lined",
+   "waterproofing": "OutDry waterproof-breathable membrane (Columbia, published)",
+   "dustSealing": "Excellent — membrane-lined closed upper",
+   "ankleHeight": "Low ankle",
+   "outsole": "Adapt Trax rubber",
+   "midsole": "Cushioned EVA (per listing)",
+   "insole": "Cushioned footbed",
+   "toeProtection": "Rubber toe guard",
+   "closure": "Laces",
+   "weight": "Not officially published",
+   "colours": "See listing",
+   "sizes": "See listing",
+   "bestFor": "Fast technical hiking in the wet",
+   "warranty": "Not officially published",
+   "rating": "No ratings yet on Flipkart listing",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/o/w/o/7-bm8753-010-columbia-black-shark-original-imah4m3hkhuzsgxz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/p/c/m/7-bm8753-010-columbia-black-shark-original-imah4m3hftrmhpam.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/b/n/u/7-bm8753-010-columbia-black-shark-original-imah4m3hz2knyskr.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/r/o/q/10-bm2138-010-columbia-black-titanium-original-imah4qr8zdtjhmnx.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/v/c/q/6-237303-bbk-7-skechers-black-original-imahmw2qfy6ghzqu.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/columbia-peakfreak-ii-outdry-outdoors-men/p/itm15c0fe826b350",
+  "buyStore": "Flipkart"
+ },
+ {
+  "id": "columbia-konos-trs-outdry-mid",
+  "brand": "Columbia",
+  "model": "Konos TRS OutDry Mid",
+  "price": 14999,
+  "upper": "Closed synthetic upper, membrane-lined (no open mesh)",
+  "sealing": "OutDry waterproof-breathable membrane (Columbia, published)",
+  "ankle": "Mid ankle",
+  "outsole": "Omni-Max rubber with TrailShield",
+  "highlight": "BEATS THE OLD #1 (Wildcraft Amphibia Sphere 2, 81.4): a true waterproof membrane — not just a DWR coating — verified live on the Flipkart product page, rated 5★ by 4 buyers. Costs more than the old ₹3k cap, added because you asked for better than #1.",
+  "pros": [
+   "True waterproof membrane published by the maker — a class above DWR-only uppers",
+   "Strong verified rating: 5★ (4 reviews, Flipkart)",
+   "Omni-Max rubber with TrailShield outsole"
+  ],
+  "cons": [
+   "Above the original ₹3,000 cap (₹14,999)",
+   "Membrane shoes run warmer in Indian summer plains",
+   "Waterproofing claims are the maker’s, not lab-verified by us"
+  ],
+  "scores": {
+   "sealing": 9.3,
+   "grip": 8.9,
+   "comfort": 8.8,
+   "build": 8.8,
+   "looks": 8.4,
+   "value": 5.5
+  },
+  "fullSpec": {
+   "upperMaterial": "Closed synthetic, membrane-lined",
+   "waterproofing": "OutDry waterproof-breathable membrane (Columbia, published)",
+   "dustSealing": "Excellent — membrane-lined closed upper",
+   "ankleHeight": "Mid ankle",
+   "outsole": "Omni-Max rubber with TrailShield",
+   "midsole": "Cushioned EVA (per listing)",
+   "insole": "Cushioned footbed",
+   "toeProtection": "Rubber toe guard",
+   "closure": "Laces",
+   "weight": "Not officially published",
+   "colours": "See listing",
+   "sizes": "See listing",
+   "bestFor": "Cushioned all-day wet-trail comfort",
+   "warranty": "Not officially published",
+   "rating": "5★ (4 reviews, Flipkart, 18 Aug 2026)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/g/7/c/9-bm7354-010-columbia-black-shark-watermarked-original-imah2sypcu7jghnf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/3/h/l/9-bm7354-010-columbia-black-shark-original-imah2syphznkfhjz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/d/6/q/9-bm7354-010-columbia-black-shark-original-imah2syp4zh9hs9v.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/r/o/k/9-bm7354-010-columbia-black-shark-original-imah2syp4rnxstny.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/z/m/9/8-bm7354-010-columbia-black-shark-original-imah2sdgeshquvmn.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/columbia-konos-trs-outdry-mid-outdoors-men/p/itm5ff71e3669b30",
+  "buyStore": "Flipkart"
+ },
+ {
+  "id": "columbia-trailstorm-ascend-waterproof",
+  "brand": "Columbia",
+  "model": "Trailstorm Ascend Waterproof",
+  "price": 10999,
+  "upper": "Closed synthetic upper, membrane-lined (no open mesh)",
+  "sealing": "Columbia waterproof membrane (published claim)",
+  "ankle": "Low ankle",
+  "outsole": "Adapt Trax rubber",
+  "highlight": "BEATS THE OLD #1 (Wildcraft Amphibia Sphere 2, 81.4): a true waterproof membrane — not just a DWR coating — verified live on the Flipkart product page. Costs more than the old ₹3k cap, added because you asked for better than #1.",
+  "pros": [
+   "True waterproof membrane published by the maker — a class above DWR-only uppers",
+   "Established outdoor brand with published construction specs",
+   "Adapt Trax rubber outsole"
+  ],
+  "cons": [
+   "Above the original ₹3,000 cap (₹10,999)",
+   "Membrane shoes run warmer in Indian summer plains",
+   "Few or no buyer ratings on this listing yet"
+  ],
+  "scores": {
+   "sealing": 9.2,
+   "grip": 8.8,
+   "comfort": 8.6,
+   "build": 8.7,
+   "looks": 8.2,
+   "value": 5.5
+  },
+  "fullSpec": {
+   "upperMaterial": "Closed synthetic, membrane-lined",
+   "waterproofing": "Columbia waterproof membrane (published claim)",
+   "dustSealing": "Excellent — membrane-lined closed upper",
+   "ankleHeight": "Low ankle",
+   "outsole": "Adapt Trax rubber",
+   "midsole": "Cushioned EVA (per listing)",
+   "insole": "Cushioned footbed",
+   "toeProtection": "Rubber toe guard",
+   "closure": "Laces",
+   "weight": "Not officially published",
+   "colours": "See listing",
+   "sizes": "See listing",
+   "bestFor": "Wet-trail day hiking",
+   "warranty": "Not officially published",
+   "rating": "No ratings yet on Flipkart listing",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/z/d/k/5-bl7416-011-columbia-shark-cosmos-original-imah4m3jbvxcrxdv.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/s/i/f/5-bl7416-011-columbia-shark-cosmos-original-imah4m3jhpgtq7sq.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/r/p/c/5-bl7416-011-columbia-shark-cosmos-original-imah4m3jdwmtzx8u.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/r/w/j/5-bl7416-011-columbia-shark-cosmos-original-imah4m3jz2avhgge.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/5/z/t/5-bl7416-011-columbia-shark-cosmos-original-imah4m3jgfcwpwcx.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/columbia-trailstorm-ascend-waterproof-outdoors-men/p/itm3874c852cb8e5",
+  "buyStore": "Flipkart"
+ },
   {
     id: "quechua-mh100-low",
     brand: "Quechua (Decathlon)",

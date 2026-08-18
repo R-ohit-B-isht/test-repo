@@ -9,7 +9,7 @@ const SORT_STRATEGIES = {
   brand: (a, b) => a.brand.localeCompare(b.brand) || overallScore(b) - overallScore(a),
 };
 
-const state = { sort: "score", type: "all", maxPrice: 3000 };
+const state = { sort: "score", type: "all", maxPrice: 17000 };
 
 function filteredShoes() {
   return SHOES
@@ -18,6 +18,7 @@ function filteredShoes() {
       if (state.type === "all") return true;
       if (state.type === "nomesh") return !/mesh|not stated/i.test(s.fullSpec.upperMaterial);
       if (state.type === "high") return /high|6-inch|hi-neck|jungle/i.test(s.fullSpec.ankleHeight);
+      if (state.type === "beats1") return /^BEATS THE OLD #1/.test(s.highlight);
       if (state.type === "waterres") return /repellent|resistant|splash|shower/i.test(s.fullSpec.waterproofing);
       if (state.type === "tss") return s.brand === "The Souled Store";
       if (state.type === "amazon") return s.buyStore === "Amazon";
