@@ -6,6 +6,118 @@
 // The requester's priority: keep sand/dirt/water OUT (avoid open mesh), plus
 // looks and comfort — see scoring.js weights.
 const SHOES = [
+{
+ "id": "wildcraft-site-amphibia-sphere-high-waterproof-brown",
+ "brand": "Wildcraft (wildcraft.com)",
+ "model": "Amphibia Sphere High Ankle Waterproof Shoes (new gen)",
+ "price": 7499,
+ "upper": "Water-resistant lightweight Nubuck leather (closed upper)",
+ "sealing": "Maker-labelled WATERPROOF shoe; water-resistant nubuck leather upper",
+ "ankle": "High ankle",
+ "outsole": "HYPAGRIP™ rubber (traction/slip-resistance, published)",
+ "highlight": "BEATS THE OLD #1 (Wildcraft Amphibia Sphere 2, 81.4): the newer-generation Amphibia Sphere from Wildcraft’s own site catalogue — maker-labelled WATERPROOF with nubuck leather upper vs the Sphere 2’s coated fabric, same HYPAGRIP outsole, CMEVA energy-return footbed. Verified live on wildcraft.com 19 Aug 2026.",
+ "pros": [
+  "Nubuck leather closed upper — sturdier sealing than the Sphere 2’s coated fabric",
+  "HYPAGRIP™ outsole + CMEVA energy-return footbed (published)",
+  "High ankle — stability and ingress protection"
+ ],
+ "cons": [
+  "No buyer reviews yet on wildcraft.com (0 reviews at check)",
+  "No waterproof membrane stated — leather + construction only",
+  "₹7,499 — well above the original ₹3k cap"
+ ],
+ "scores": {
+  "sealing": 8.4,
+  "grip": 8.4,
+  "comfort": 8,
+  "build": 8.3,
+  "looks": 8,
+  "value": 5.8
+ },
+ "fullSpec": {
+  "upperMaterial": "Water-resistant lightweight Nubuck leather",
+  "waterproofing": "Maker-labelled WATERPROOF; water-resistant nubuck (no membrane stated)",
+  "dustSealing": "Good — closed leather upper, high collar",
+  "ankleHeight": "High ankle",
+  "outsole": "HYPAGRIP™ rubber (traction/slip-resistance, published)",
+  "midsole": "CMEVA energy-returning footbed (published)",
+  "insole": "CMEVA footbed",
+  "toeProtection": "Not stated in listing",
+  "closure": "Laces",
+  "weight": "Not stated in listing",
+  "colours": "Brown, Black",
+  "sizes": "6–11 (listed)",
+  "bestFor": "Wet/rough trails needing leather durability and ankle support",
+  "warranty": "Not stated in listing",
+  "rating": "No reviews yet (wildcraft.com, 19 Aug 2026)",
+  "madeIn": "Not stated in listing"
+ },
+ "images": [
+  "https://wildcraft.com/media/catalog/product/1/_/1_4316.jpg?width=440&height=587",
+  "https://wildcraft.com/media/catalog/product/1/1/11_1542.jpg?width=440&height=587",
+  "https://wildcraft.com/media/catalog/product/1/1/11_1542.jpg?width=960",
+  "https://wildcraft.com/media/catalog/product/1/0/10_1593.jpg?width=440&height=587",
+  "https://wildcraft.com/media/catalog/product/1/3/13_884.jpg?width=440&height=587"
+ ],
+ "buyUrl": "https://wildcraft.com/men-amphibia-sphere-high-ankle-hiking-trekking-shoes-brown-52001-brown-new",
+ "buyStore": "Wildcraft"
+},
+{
+ "id": "wildcraft-site-terra-pro-ma-wp-tan",
+ "brand": "Wildcraft (wildcraft.com)",
+ "model": "Terra Pro Mid Ankle Waterproof Shoes (WP)",
+ "price": 6499,
+ "upper": "Nubuck waterproof leather (closed upper)",
+ "sealing": "Nubuck waterproof leather (maker-published)",
+ "ankle": "Mid ankle",
+ "outsole": "HYPAGRIP™ rubber (traction/slip-resistance, published)",
+ "highlight": "BEATS THE OLD #1 (Wildcraft Amphibia Sphere 2, 81.4): Wildcraft’s own-site Terra Pro WP — nubuck waterproof leather upper (a step above the Sphere 2’s DWR-coated fabric), HYPAGRIP outsole, CMEVA footbed. Verified live on wildcraft.com 19 Aug 2026.",
+ "pros": [
+  "Nubuck waterproof leather published by the maker",
+  "HYPAGRIP™ outsole + CMEVA energy-return footbed",
+  "Cheaper than the new-gen Amphibia Sphere (₹6,499)"
+ ],
+ "cons": [
+  "No buyer reviews yet on wildcraft.com (0 reviews at check)",
+  "Mid ankle — less ingress protection than a high boot",
+  "No waterproof membrane stated — leather only"
+ ],
+ "scores": {
+  "sealing": 8.3,
+  "grip": 8.4,
+  "comfort": 7.9,
+  "build": 8.2,
+  "looks": 7.8,
+  "value": 6
+ },
+ "fullSpec": {
+  "upperMaterial": "Nubuck waterproof leather",
+  "waterproofing": "Nubuck waterproof leather (maker-published; no membrane stated)",
+  "dustSealing": "Good — closed leather upper",
+  "ankleHeight": "Mid ankle",
+  "outsole": "HYPAGRIP™ rubber (traction/slip-resistance, published)",
+  "midsole": "CMEVA energy-returning footbed (published)",
+  "insole": "CMEVA footbed",
+  "toeProtection": "Not stated in listing",
+  "closure": "Laces",
+  "weight": "Not stated in listing",
+  "colours": "Tan",
+  "sizes": "See listing",
+  "bestFor": "Wet-trail day hikes needing leather durability",
+  "warranty": "Not stated in listing",
+  "rating": "No reviews yet (wildcraft.com, 19 Aug 2026)",
+  "madeIn": "Not stated in listing"
+ },
+ "images": [
+  "https://wildcraft.com/media/catalog/product/1/_/1_2015.jpg?width=440&height=587",
+  "https://wildcraft.com/media/catalog/product/2/_/2_1989.jpg?width=440&height=587",
+  "https://wildcraft.com/media/catalog/product/2/_/2_1989.jpg?width=960",
+  "https://wildcraft.com/media/catalog/product/3/_/3_1945.jpg?width=440&height=587",
+  "https://wildcraft.com/media/catalog/product/4/_/4_1918.jpg?width=440&height=587"
+ ],
+ "buyUrl": "https://wildcraft.com/men-hypagrip-low-ankle-shoe-terra-pro-ma-wp-51997-tan",
+ "buyStore": "Wildcraft"
+},
  {
   "id": "quechua-decathlon-mh500-mid-waterproof-hiking-shoes",
   "brand": "Quechua (Decathlon)",
