@@ -1,37 +1,39 @@
 // Rendering + interaction. Strategy pattern for sorting; re-render on state change.
 const SORT_STRATEGIES = {
-  score: (a, b) => overallScore(b) - overallScore(a),
-  power: (a, b) => b.scores.power - a.scores.power || overallScore(b) - overallScore(a),
-  battery: (a, b) => b.scores.battery - a.scores.battery || overallScore(b) - overallScore(a),
-  priceAsc: (a, b) => a.price - b.price,
-  priceDesc: (a, b) => b.price - a.price,
-  brand: (a, b) => a.brand.localeCompare(b.brand),
+  score: (a, b) => overallScore(b) - overallScore(a) || b.scores.build - a.scores.build || a.price - b.price,
+  build: (a, b) => b.scores.build - a.scores.build || overallScore(b) - overallScore(a) || a.price - b.price,
+  power: (a, b) => b.scores.power - a.scores.power || overallScore(b) - overallScore(a) || a.price - b.price,
+  battery: (a, b) => b.scores.battery - a.scores.battery || overallScore(b) - overallScore(a) || a.price - b.price,
+  priceAsc: (a, b) => a.price - b.price || overallScore(b) - overallScore(a),
+  priceDesc: (a, b) => b.price - a.price || overallScore(b) - overallScore(a),
+  brand: (a, b) => a.brand.localeCompare(b.brand) || overallScore(b) - overallScore(a),
 };
 
-const state = { sort: "score", type: "all", maxPrice: 5000 };
+const state = { sort: "score", type: "all", maxPrice: 20000 };
 
-function typeCategory(b) {
-  if (/type-c/i.test(b.charging)) return "typec";
-  return "microusb";
-}
-
-function filteredBlenders() {
-  return BLENDERS
-    .filter((b) => b.price <= state.maxPrice)
-    .filter((b) => {
+function filteredPacks() {
+  return PACKS
+    .filter((s) => s.price <= state.maxPrice)
+    .filter((s) => {
       if (state.type === "all") return true;
-      if (state.type === "ice") return /^(yes|claimed yes)/i.test(b.icecrush);
-      if (state.type === "typec") return typeCategory(b) === "typec";
-      if (state.type === "indian") return !/(USA|import)/i.test(b.brand);
+      if (state.type === "portable") return /Portable/.test(s.fullSpec.blenderType);
+      if (state.type === "hand") return /Hand/.test(s.fullSpec.blenderType);
+      if (state.type === "usbc") return /USB-C/.test(s.fullSpec.chargeType);
+      if (state.type === "sixblade") return /6 blades|[678] blades/.test(s.fullSpec.blades);
+      if (state.type === "bigjar") return /(?:[5-9]\d\d|\d{4}) ml/.test(s.fullSpec.jarCapacity);
+      if (state.type === "safety") return !/not stated/i.test(s.fullSpec.safety.toLowerCase());
+      if (state.type === "amazon") return s.buyStore === "Amazon";
+      if (state.type === "flipkart") return s.buyStore === "Flipkart";
       return true;
     })
     .sort(SORT_STRATEGIES[state.sort]);
 }
 
-function barRows(b) {
+
+function barRows(s) {
   return Object.keys(WEIGHTS)
     .map((k) => {
-      const v = b.scores[k];
+      const v = s.scores[k];
       return `<div class="bar-row"><span>${CRITERIA_LABELS[k]}</span>
         <div class="bar-track"><div class="bar-fill" style="width:${v * 10}%"></div></div>
         <span>${v.toFixed(1)}</span></div>`;
@@ -43,47 +45,33 @@ const FULL_SPEC_SECTIONS = [
   {
     title: "Blending",
     fields: {
-      motorWatts: "Motor power",
-      motorVoltage: "Motor voltage",
-      rpm: "Blade speed",
+      blenderType: "Type",
+      jarCapacity: "Jar capacity",
       blades: "Blades",
-      iceCrushing: "Ice crushing",
-      blendTime: "Blend cycle",
+      motor: "Motor",
     },
   },
   {
     title: "Battery & Charging",
     fields: {
-      batteryMah: "Battery",
-      blendsPerCharge: "Blends per charge",
-      chargePort: "Charging port",
-      chargeTime: "Charge time",
-      batteryIndicator: "Battery indicator",
+      battery: "Battery / power",
+      chargeType: "Charging",
     },
   },
   {
-    title: "Jar & Build",
+    title: "Build & Safety",
     fields: {
-      jarCapacity: "Jar capacity",
       jarMaterial: "Jar material",
-      lid: "Lid",
-      leakProof: "Leak-proof",
-      selfCleaning: "Self-cleaning",
-      safetyLock: "Safety lock",
-    },
-  },
-  {
-    title: "Physical",
-    fields: {
+      safety: "Safety features",
+      washable: "Washable / waterproof",
+      display: "Indicator",
       weight: "Weight",
-      dimensions: "Dimensions",
-      colours: "Colours",
     },
   },
   {
     title: "General",
     fields: {
-      bisCertified: "BIS certified",
+      bestFor: "Best for",
       warranty: "Warranty",
       rating: "User rating",
       madeIn: "Made in",
@@ -91,49 +79,59 @@ const FULL_SPEC_SECTIONS = [
   },
 ];
 
-function fullSpecHtml(b) {
-  if (!b.fullSpec) return "";
+function fullSpecHtml(s) {
+  if (!s.fullSpec) return "";
   const sections = FULL_SPEC_SECTIONS.map((sec) => {
     const rows = Object.keys(sec.fields)
-      .filter((k) => b.fullSpec[k])
-      .map((k) => `<div class="detail-row"><span class="detail-key">${sec.fields[k]}</span><span class="detail-val">${b.fullSpec[k]}</span></div>`)
+      .filter((k) => s.fullSpec[k])
+      .map((k) => `<div class="detail-row"><span class="detail-key">${sec.fields[k]}</span><span class="detail-val">${s.fullSpec[k]}</span></div>`)
       .join("");
     return rows ? `<div class="spec-section"><h4 class="spec-section-title">${sec.title}</h4>${rows}</div>` : "";
   }).join("");
   return `<details class="detail-specs full-specs"><summary>Full spec sheet (all details)</summary>${sections}</details>`;
 }
 
-function buyHtml(b) {
-  if (!b.buyUrl) return "";
-  return `<a class="buy-btn" href="${b.buyUrl}" target="_blank" rel="noopener noreferrer">Buy on ${b.buyStore} \u2197</a>`;
+function galleryHtml(s) {
+  if (!s.images || !s.images.length) return "";
+  const main = `<img class="gallery-main" src="${s.images[0]}" alt="${s.brand} ${s.model}" loading="lazy" onerror="this.closest('.gallery').style.display='none'">`;
+  const thumbs = s.images.length > 1
+    ? `<div class="gallery-thumbs">${s.images.map((u, i) => `<img class="gallery-thumb${i === 0 ? " active" : ""}" src="${u}" alt="View ${i + 1}" loading="lazy" data-src="${u}" onerror="this.remove()">`).join("")}</div>`
+    : "";
+  return `<div class="gallery">${main}${thumbs}</div>`;
 }
 
-function cardHtml(b, i) {
-  const score = overallScore(b);
+function buyHtml(s) {
+  if (!s.buyUrl) return "";
+  return `<a class="buy-btn" href="${s.buyUrl}" target="_blank" rel="noopener noreferrer">Buy on ${s.buyStore} \u2197</a>`;
+}
+
+function cardHtml(s, i) {
+  const score = overallScore(s);
   const v = verdict(score);
   const topPick = i === 0 && state.sort === "score";
-  return `<article class="card ${topPick ? "top-pick" : ""} ${b.id === "superstud-360" ? "warn-card" : ""}">
+  return `<article class="card ${topPick ? "top-pick" : ""}">
     <span class="rank ${topPick ? "gold" : ""}">#${i + 1}${topPick ? " Top Pick" : ""}</span>
     <div><span class="score-pill">${score}</span>
-      <div class="brand">${b.brand}</div>
-      <h2>${b.model}</h2>
+      <div class="brand">${s.brand}</div>
+      <h2>${s.model}</h2>
     </div>
-    <div class="price">${formatINR(b.price)}</div>
+    ${galleryHtml(s)}
+    <div class="price">${formatINR(s.price)}</div>
     <span class="verdict ${v.cls}">${v.label} \u2014 ${score}/100</span>
-    <p class="highlight">${b.highlight}</p>
-    <p class="specs"><strong>${b.motor}</strong> \u00B7 ${b.capacity} \u00B7 ${b.battery}<br>
-      ${b.charging} \u00B7 Ice: ${b.icecrush}</p>
-    <div class="bars">${barRows(b)}</div>
-    ${fullSpecHtml(b)}
+    <p class="highlight">${s.highlight}</p>
+    <p class="specs"><strong>${s.capacityLine}</strong> \u00B7 ${s.materialLine}<br>
+      ${s.featureLine}</p>
+    <div class="bars">${barRows(s)}</div>
+    ${fullSpecHtml(s)}
     <div class="pros-cons">
-      <ul class="pros">${b.pros.map((p) => `<li>${p}</li>`).join("")}</ul>
-      <ul class="cons">${b.cons.map((c) => `<li>${c}</li>`).join("")}</ul>
+      <ul class="pros">${s.pros.map((p) => `<li>${p}</li>`).join("")}</ul>
+      <ul class="cons">${s.cons.map((c) => `<li>${c}</li>`).join("")}</ul>
     </div>
-    ${buyHtml(b)}
+    ${buyHtml(s)}
   </article>`;
 }
 
-function tableHtml(blenders) {
+function tableHtml(items) {
   const specCols = FULL_SPEC_SECTIONS.flatMap((sec) =>
     Object.entries(sec.fields).map(([key, label]) => ({ key, label, section: sec.title }))
   );
@@ -141,26 +139,34 @@ function tableHtml(blenders) {
   const head = `<tr>
     <th class="sticky-col" data-sort="score">Rank</th><th class="sticky-col sticky-col-2" data-sort="brand">Brand / Model</th>
     <th data-sort="priceAsc">Price</th><th data-sort="score">Score</th>
-    ${specCols.map((c) => `<th${c.key === "motorWatts" ? ' data-sort="power"' : ""}${c.key === "batteryMah" ? ' data-sort="battery"' : ""}>${c.label}</th>`).join("")}
+    ${specCols.map((c) => `<th${c.key === "battery" ? ' data-sort="battery"' : ""}${c.key === "motor" ? ' data-sort="power"' : ""}>${c.label}</th>`).join("")}
     <th>Buy</th></tr>`;
-  const rows = blenders
-    .map((b, i) => `<tr><td class="sticky-col">#${i + 1}</td><td class="sticky-col sticky-col-2">${b.brand} ${b.model}</td>
-      <td>${formatINR(b.price)}</td>
-      <td class="score-cell">${overallScore(b)}</td>
-      ${specCols.map((c) => `<td>${(b.fullSpec && b.fullSpec[c.key]) || "\u2014"}</td>`).join("")}
-      <td>${b.buyUrl ? `<a class="buy-link" href="${b.buyUrl}" target="_blank" rel="noopener noreferrer">${b.buyStore}</a>` : "\u2014"}</td></tr>`)
+  const rows = items
+    .map((s, i) => `<tr><td class="sticky-col">#${i + 1}</td><td class="sticky-col sticky-col-2">${s.brand} ${s.model}</td>
+      <td>${formatINR(s.price)}</td>
+      <td class="score-cell">${overallScore(s)}</td>
+      ${specCols.map((c) => `<td>${(s.fullSpec && s.fullSpec[c.key]) || "\u2014"}</td>`).join("")}
+      <td>${s.buyUrl ? `<a class="buy-link" href="${s.buyUrl}" target="_blank" rel="noopener noreferrer">${s.buyStore}</a>` : "\u2014"}</td></tr>`)
     .join("");
   return `<table>${groupRow}${head}${rows}</table>`;
 }
 
 function render() {
-  const blenders = filteredBlenders();
-  document.getElementById("cards").innerHTML = blenders.map(cardHtml).join("");
-  document.getElementById("table").innerHTML = tableHtml(blenders);
-  document.getElementById("count").textContent = `${blenders.length} blenders`;
+  const items = filteredPacks();
+  document.getElementById("cards").innerHTML = items.map(cardHtml).join("");
+  document.getElementById("table").innerHTML = tableHtml(items);
+  document.getElementById("count").textContent = `${items.length} blenders`;
   document.querySelectorAll("#table th[data-sort]").forEach((th) =>
     th.addEventListener("click", () => setSort(th.dataset.sort))
   );
+  document.querySelectorAll(".gallery").forEach((g) => {
+    g.addEventListener("click", (e) => {
+      const t = e.target;
+      if (!t.classList.contains("gallery-thumb")) return;
+      g.querySelector(".gallery-main").src = t.dataset.src;
+      g.querySelectorAll(".gallery-thumb").forEach((x) => x.classList.toggle("active", x === t));
+    });
+  });
 }
 
 function setSort(key) {
@@ -173,16 +179,14 @@ function initDevMode() {
   const params = new URLSearchParams(location.search);
   if (params.get("dev") === "1") {
     document.body.classList.add("dev");
-    console.table(BLENDERS.map((b) => ({
-      model: `${b.brand} ${b.model}`,
-      price: b.price,
-      score: overallScore(b),
-      reliability: b.scores.reliability,
-      motor: b.fullSpec.motorWatts,
-      battery: b.fullSpec.batteryMah,
-      jar: b.fullSpec.jarCapacity,
-      port: b.fullSpec.chargePort,
-      warranty: b.fullSpec.warranty,
+    console.table(PACKS.map((s) => ({
+      model: `${s.brand} ${s.model}`,
+      price: s.price,
+      score: overallScore(s),
+      build: s.scores.build,
+      jar: s.fullSpec.jarCapacity,
+      battery: s.fullSpec.battery,
+      store: s.buyStore,
     })));
   }
 }
@@ -195,6 +199,8 @@ document.addEventListener("DOMContentLoaded", () => {
     document.getElementById("maxPriceLabel").textContent = formatINR(state.maxPrice);
     render();
   });
+  const hero = document.getElementById("heroNumber");
+  if (hero) hero.textContent = PACKS.length;
   initDevMode();
   render();
 });

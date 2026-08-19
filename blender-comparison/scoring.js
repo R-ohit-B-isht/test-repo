@@ -1,36 +1,34 @@
-// Weighted scoring model (out of 100). Reliability weighted highest —
-// the requester's previous blender (SUPERSTUD 360W) died twice despite
-// spec-sheet-topping numbers.
+// Weighted scoring model (out of 100). Build & reliability weighted highest —
+// a blender whose motor burns out or battery dies is useless regardless of
+// specs — then blending power (motor/blades), battery & charging, usability, features.
 const WEIGHTS = {
-  reliability: 0.25,
-  power: 0.20,
-  battery: 0.15,
-  value: 0.15,
-  support: 0.15,
-  capacity: 0.10,
+  build: 0.26,
+  power: 0.22,
+  battery: 0.22,
+  usability: 0.16,
+  features: 0.14,
 };
 
 const CRITERIA_LABELS = {
-  reliability: "Reliability & Build",
+  build: "Build & Reliability",
   power: "Blending Power",
-  battery: "Battery Life",
-  value: "Value for Money",
-  support: "Brand & Service (India)",
-  capacity: "Jar Capacity",
+  battery: "Battery & Charging",
+  usability: "Usability & Cleaning",
+  features: "Features & Safety",
 };
 
-function overallScore(b) {
+function overallScore(s) {
   const total = Object.keys(WEIGHTS).reduce(
-    (sum, k) => sum + b.scores[k] * WEIGHTS[k],
+    (sum, k) => sum + s.scores[k] * WEIGHTS[k],
     0
   );
   return Math.round(total * 100) / 10; // out of 100, 1 decimal
 }
 
 function verdict(score) {
-  if (score >= 80) return { label: "Outstanding", cls: "v-best" };
-  if (score >= 70) return { label: "Excellent", cls: "v-great" };
-  if (score >= 58) return { label: "Good", cls: "v-good" };
+  if (score >= 74) return { label: "Outstanding", cls: "v-best" };
+  if (score >= 66) return { label: "Excellent", cls: "v-great" };
+  if (score >= 56) return { label: "Good", cls: "v-good" };
   return { label: "Average", cls: "v-avg" };
 }
 

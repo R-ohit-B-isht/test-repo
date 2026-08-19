@@ -3,58 +3,82 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Best Portable Blenders in India — Comparison & Scores</title>
+  <title>Blenders — India, Ranked</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' fill='%23000'/%3E%3Ccircle cx='8' cy='8' r='4' fill='%23fff'/%3E%3C/svg%3E" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Doto:wght@400..700&family=Space+Grotesk:wght@300;400;500&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <div class="dev-banner">DEV MODE — score table logged to console</div>
+  <div class="dev-banner">[DEV MODE] SCORE TABLE LOGGED TO CONSOLE</div>
   <header>
-    <h1>Best Portable Blenders in India — Ranked</h1>
-    <p>50 USB-rechargeable portable blenders sold in India — InstaCuppa's full lineup, AGARO, Solara,
-      BlendLife, Butterfly, Wonderchef, Pigeon, Borosil, Lifelong, Kilig, Balzano, Cello, the newly-launched
-      <strong>BlendJet 2</strong>, the <strong>SUPERSTUD 360W</strong> you bought earlier (which stopped working
-      twice), plus the Flipkart/Amazon generic-import tier (Wanzhow, GUGGU, YAROH, Tenring &amp; co.) listed for
-      completeness with their claims flagged — scored across reliability, power, battery, value, brand support
-      and capacity.</p>
-    <span class="badge">Reliability weighted highest (25%)</span>
-    <span class="badge">Unverified wattage claims discounted</span>
-    <span class="badge">Prices as of 19 Jul 2026</span>
+    <div class="masthead">
+      <span class="label">BLENDERS / INDIA / PORTABLE &amp; HAND</span>
+      <span class="label">RESEARCHED 19 AUG 2026</span>
+    </div>
+    <div class="hero">
+      <span class="hero-number" id="heroNumber">0</span>
+      <div class="hero-side">
+        <h1>Blends that last.<br>Ranked honestly.</h1>
+        <p class="hero-sub">1,087 portable USB blenders, personal smoothie makers and hand blenders sold in India —
+          825 Flipkart listings visited live in the browser plus 262 Amazon.in product pages fetched live
+          (Philips, Bajaj, Butterfly, Wonderchef, AGARO, InstaCuppa and marketplace brands). Each one is scored
+          from its real listing signals — jar capacity, blade count, motor wattage/RPM, battery capacity,
+          USB-C vs micro-USB charging, safety-lock claims, live buyer rating, brand track record — never
+          invented specs. Build &amp; reliability weighted highest, because a blender whose motor gives up is
+          useless regardless of the spec sheet.</p>
+      </div>
+    </div>
+    <div class="masthead tags">
+      <span class="tag">BUILD 26%</span>
+      <span class="tag">POWER 22%</span>
+      <span class="tag">BATTERY 22%</span>
+      <span class="tag">LIVE PRICES</span>
+      <span class="tag">NOTHING INVENTED</span>
+    </div>
   </header>
 
   <div class="controls">
-    <select id="sort">
-      <option value="score">Sort: Overall score</option>
-      <option value="power">Sort: Blending power</option>
-      <option value="battery">Sort: Battery life</option>
-      <option value="priceAsc">Sort: Price (low → high)</option>
-      <option value="priceDesc">Sort: Price (high → low)</option>
-      <option value="brand">Sort: Brand</option>
+    <select id="sort" aria-label="Sort">
+      <option value="score">SORT: OVERALL SCORE</option>
+      <option value="build">SORT: BUILD &amp; RELIABILITY</option>
+      <option value="power">SORT: BLENDING POWER</option>
+      <option value="battery">SORT: BATTERY &amp; CHARGING</option>
+      <option value="priceAsc">SORT: PRICE LOW→HIGH</option>
+      <option value="priceDesc">SORT: PRICE HIGH→LOW</option>
+      <option value="brand">SORT: BRAND</option>
     </select>
-    <select id="type">
-      <option value="all">Filter: All</option>
-      <option value="ice">Can crush ice</option>
-      <option value="typec">USB Type-C</option>
-      <option value="indian">Indian brands (local warranty)</option>
+    <select id="type" aria-label="Filter">
+      <option value="all">FILTER: ALL</option>
+      <option value="portable">PORTABLE / RECHARGEABLE</option>
+      <option value="hand">HAND / IMMERSION</option>
+      <option value="usbc">USB-C CHARGING</option>
+      <option value="sixblade">6+ BLADES</option>
+      <option value="bigjar">BIG JAR (500 ML+)</option>
+      <option value="safety">SAFETY LOCK STATED</option>
+      <option value="amazon">AMAZON LISTINGS</option>
+      <option value="flipkart">FLIPKART LISTINGS</option>
     </select>
-    <label>Max price <input type="range" id="maxPrice" min="1000" max="5000" step="100" value="5000" />
-      <span id="maxPriceLabel">₹5,000</span></label>
-    <span id="count" class="badge"></span>
+    <label class="label">MAX PRICE <input type="range" id="maxPrice" min="150" max="20000" step="50" value="20000" />
+      <span id="maxPriceLabel" class="mono-val">₹20,000</span></label>
+    <span id="count" class="tag"></span>
   </div>
 
   <main>
-    <h2 class="section-title">Ranked Picks</h2>
+    <h2 class="section-title">RANKED PICKS</h2>
     <div id="cards" class="grid"></div>
 
-    <h2 class="section-title">Full Comparison Table — every spec, side by side</h2>
-    <p class="note">All spec fields for every blender. Click column headers to sort; scroll right to see every spec (first columns stay pinned on desktop; on mobile the table scrolls freely).</p>
+    <h2 class="section-title">FULL COMPARISON TABLE</h2>
+    <p class="note">Every spec field, side by side. Click column headers to sort; first columns stay pinned on desktop.</p>
     <div id="table" class="table-wrap"></div>
   </main>
 
   <footer>
-    Scores are weighted: Reliability 25% · Power 20% · Battery 15% · Value 15% · Brand &amp; Service 15% · Capacity 10%.<br />
-    Prices researched from Amazon.in, Flipkart and official brand stores on 19 Jul 2026; they change frequently — verify before buying.<br />
-    Specs taken from official brand pages and listings; where a maker publishes no figure it is marked
-    "Not officially published" — never guessed. Unbranded wattage/battery claims are treated as unverified.
+    <span class="label">WEIGHTS</span> Build 26 · Power 22 · Battery 22 · Usability 16 · Features 14<br />
+    <span class="label">SOURCES</span> Flipkart product pages (browser-verified) and Amazon.in product pages (fetched live), 19 Aug 2026.
+    Prices change — verify before buying. Wattage/mAh figures are the sellers' claims, not lab-tested.<br />
+    <span class="label">HONESTY</span> Unpublished figures are marked "Not stated in listing" — never guessed.
   </footer>
 
   <script src="data.js"></script>
