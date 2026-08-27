@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hair Dryers — India, Ranked</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' fill='%23000'/%3E%3Ccircle cx='8' cy='8' r='4' fill='%23fff'/%3E%3C/svg%3E" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Doto:wght@400..700&family=Space+Grotesk:wght@300;400;500&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="dev-banner">[DEV MODE] SCORE TABLE LOGGED TO CONSOLE</div>
+  <header>
+    <div class="masthead">
+      <span class="label">HAIR DRYERS / INDIA / ALL WATTAGES</span>
+      <span class="label">RESEARCHED 27 AUG 2026</span>
+    </div>
+    <div class="hero">
+      <span class="hero-number" id="heroCount">0</span>
+      <div class="hero-side">
+        <h1>Dry fast. Fry nothing.<br>Ranked honestly.</h1>
+        <p class="hero-sub" id="heroSub">Hair dryers sold in India — Flipkart listings
+          visited live in the browser plus Amazon.in product pages fetched live (Philips, Havells, Syska, Vega,
+          Panasonic, Agaro, Nova and marketplace brands). Each one is scored from its real listing signals —
+          wattage, heat/speed settings, cool shot, ionic/ceramic tech, foldability, diffuser/concentrator
+          attachments, warranty, live buyer rating, brand track record — never invented specs. Build &amp;
+          reliability weighted highest, because a dryer that dies or overheats is useless regardless of the
+          spec sheet.</p>
+      </div>
+    </div>
+    <div class="masthead tags">
+      <span class="tag">BUILD 26%</span>
+      <span class="tag">POWER 22%</span>
+      <span class="tag">HAIR CARE 22%</span>
+      <span class="tag">LIVE PRICES</span>
+      <span class="tag">NOTHING INVENTED</span>
+    </div>
+  </header>
+
+  <div class="controls">
+    <select id="sort" aria-label="Sort">
+      <option value="score">SORT: OVERALL SCORE</option>
+      <option value="build">SORT: BUILD &amp; RELIABILITY</option>
+      <option value="power">SORT: DRYING POWER</option>
+      <option value="care">SORT: HAIR CARE TECH</option>
+      <option value="priceAsc">SORT: PRICE LOW→HIGH</option>
+      <option value="priceDesc">SORT: PRICE HIGH→LOW</option>
+      <option value="brand">SORT: BRAND</option>
+    </select>
+    <select id="type" aria-label="Filter">
+      <option value="all">FILTER: ALL</option>
+      <option value="highwatt">1800W+ POWER</option>
+      <option value="ionic">IONIC / CERAMIC TECH</option>
+      <option value="coolshot">COOL SHOT</option>
+      <option value="foldable">FOLDABLE / TRAVEL</option>
+      <option value="diffuser">DIFFUSER INCLUDED</option>
+      <option value="amazon">AMAZON LISTINGS</option>
+      <option value="flipkart">FLIPKART LISTINGS</option>
+    </select>
+    <label class="label">MAX PRICE <input type="range" id="maxPrice" min="200" max="15000" step="100" value="15000" />
+      <span id="maxPriceLabel" class="mono-val">₹15,000</span></label>
+    <span id="count" class="tag"></span>
+  </div>
+
+  <main>
+    <h2 class="section-title">RANKED PICKS</h2>
+    <div id="cards" class="grid"></div>
+
+    <h2 class="section-title">FULL COMPARISON TABLE</h2>
+    <p class="note">Every spec field, side by side. Click column headers to sort; first columns stay pinned on desktop.</p>
+    <div id="table" class="table-wrap"></div>
+  </main>
+
+  <footer>
+    <span class="label">WEIGHTS</span> Build 26 · Drying Power 22 · Hair Care Tech 22 · Usability 16 · Features 14<br />
+    <span class="label">SOURCES</span> Flipkart product pages (browser-verified) and Amazon.in product pages (fetched live), 27 Aug 2026.
+    Prices change — verify before buying. Wattage/settings figures are the sellers' claims, not lab-tested.<br />
+    <span class="label">HONESTY</span> Unpublished figures are marked "Not stated in listing" — never guessed.
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="scoring.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
