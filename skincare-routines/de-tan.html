@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Body Wash — India, Ranked</title>
+  <title>De-Tan Products — India, Ranked</title>
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' fill='%23000'/%3E%3Ccircle cx='8' cy='8' r='4' fill='%23fff'/%3E%3C/svg%3E" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -14,31 +14,30 @@
   <div class="dev-banner">[DEV MODE] SCORE TABLE LOGGED TO CONSOLE</div>
   <nav class="site-nav">
     <a href="index.html" class="nav-link">&larr; ROUTINES</a>
-    <a href="body-wash.html" class="nav-link active" aria-current="page">BODY WASH</a>
-    <a href="de-tan.html" class="nav-link">DE-TAN &rarr;</a>
+    <a href="body-wash.html" class="nav-link">BODY WASH</a>
+    <a href="de-tan.html" class="nav-link active" aria-current="page">DE-TAN</a>
   </nav>
   <header>
     <div class="masthead">
-      <span class="label">BODY WASH / INDIA / ALL SKIN TYPES</span>
+      <span class="label">DE-TAN / INDIA / FACE &amp; BODY</span>
       <span class="label">RESEARCHED 19 JUL 2026</span>
     </div>
     <div class="hero">
       <span class="hero-number" id="heroCount">0</span>
       <div class="hero-side">
-        <h1>Lather up. No fluff.<br>Ranked honestly.</h1>
-        <p class="hero-sub" id="heroSub">Body washes and shower gels sold in India — Flipkart listings
-          visited live in the browser plus Amazon.in product pages fetched live (Fiama, Nivea, Dove, Pears,
-          mCaffeine, The Man Company, Beardo, WOW, Plum and marketplace brands). Each one is scored from its
-          real listing signals — volume &amp; price per 100ml, paraben/sulfate-free claims, pH balance,
-          derm-tested claims, key ingredients, live buyer rating, brand track record — never invented specs.
-          Brand trust &amp; rating weighted highest, because a wash from an unknown brand with no reviews is a
-          gamble regardless of the label claims.</p>
+        <h1>Tan happens.<br>Ranked honestly.</h1>
+        <p class="hero-sub" id="heroSub">De-tan packs, scrubs, creams, masks, kits and washes sold in India —
+          Flipkart listings visited live in the browser plus Amazon.in product pages fetched live (O3+, Lotus,
+          VLCC, mCaffeine, Mamaearth, Everyuth, Raaga, Jovees, UrbanBotanics and marketplace brands). Each one
+          is scored from its real listing signals — format, quantity &amp; price per 100g/ml, free-from claims,
+          actives like vitamin C / kojic / niacinamide, live buyer rating, brand track record — never invented
+          specs. Tan-removal results are the sellers' own claims, not lab-tested.</p>
       </div>
     </div>
     <div class="masthead tags">
       <span class="tag">TRUST 26%</span>
       <span class="tag">SKIN SAFETY 22%</span>
-      <span class="tag">INGREDIENTS 22%</span>
+      <span class="tag">ACTIVES 22%</span>
       <span class="tag">LIVE PRICES</span>
       <span class="tag">NOTHING INVENTED</span>
     </div>
@@ -49,18 +48,24 @@
       <option value="score">SORT: OVERALL SCORE</option>
       <option value="trust">SORT: BRAND TRUST &amp; RATING</option>
       <option value="skin">SORT: SKIN SAFETY</option>
-      <option value="value">SORT: VALUE (&#8377;/100ML)</option>
+      <option value="value">SORT: VALUE (&#8377;/100G)</option>
       <option value="priceAsc">SORT: PRICE LOW&#8594;HIGH</option>
       <option value="priceDesc">SORT: PRICE HIGH&#8594;LOW</option>
       <option value="brand">SORT: BRAND</option>
     </select>
     <select id="type" aria-label="Filter">
       <option value="all">FILTER: ALL</option>
-      <option value="sulfatefree">SULFATE / SLS-FREE</option>
-      <option value="parabenfree">PARABEN-FREE</option>
-      <option value="moisturizing">MOISTURIZING</option>
-      <option value="exfoliating">EXFOLIATING</option>
+      <option value="pack">FACE / BODY PACK</option>
+      <option value="scrub">SCRUB</option>
+      <option value="cream">CREAM / LOTION</option>
+      <option value="mask">MASK</option>
+      <option value="kit">KIT / COMBO</option>
+      <option value="wash">WASH / CLEANSER</option>
+      <option value="coffee">COFFEE</option>
+      <option value="ubtan">UBTAN</option>
+      <option value="actives">BRIGHTENING ACTIVES</option>
       <option value="natural">NATURAL / AYURVEDIC</option>
+      <option value="freefrom">FREE-FROM CLAIMS</option>
       <option value="men">FOR MEN</option>
       <option value="women">FOR WOMEN</option>
       <option value="amazon">AMAZON LISTINGS</option>
@@ -81,14 +86,14 @@
   </main>
 
   <footer>
-    <span class="label">WEIGHTS</span> Brand Trust 26 · Skin Safety 22 · Ingredients 22 · Value 16 · Experience 14<br />
+    <span class="label">WEIGHTS</span> Brand Trust 26 · Skin Safety 22 · Actives &amp; Ingredients 22 · Value 16 · Format 14<br />
     <span class="label">SOURCES</span> Flipkart product pages (browser-verified) and Amazon.in product pages (fetched live), 19 Jul 2026.
-    Prices change — verify before buying. Ingredient/skin-benefit claims are the sellers' own, not lab-tested or clinically verified.<br />
+    Prices change — verify before buying. De-tan/brightening claims are the sellers' own, not lab-tested or clinically verified.<br />
     <span class="label">HONESTY</span> Unpublished figures are marked "Not stated in listing" — never guessed.
   </footer>
 
-  <script src="bw-data.js"></script>
-  <script src="bw-scoring.js"></script>
-  <script src="bw-app.js"></script>
+  <script src="dt-data.js"></script>
+  <script src="dt-scoring.js"></script>
+  <script src="dt-app.js"></script>
 </body>
 </html>
