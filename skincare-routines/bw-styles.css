@@ -92,7 +92,6 @@ header { max-width: 1200px; margin: 0 auto; padding-top: 24px; }
   padding-top: 24px;
 }
 .controls select {
-  max-width: 100%;
   background: transparent;
   color: var(--text-primary);
   border: 1px solid var(--border-visible);
@@ -167,52 +166,6 @@ main { max-width: 1200px; margin: 0 auto; }
   color: var(--text-display);
   margin: 0;
 }
-.phase-badge {
-  display: inline-block;
-  font-family: "Space Mono", monospace;
-  font-size: 9px;
-  letter-spacing: 0.08em;
-  padding: 1px 6px;
-  margin-right: 8px;
-  border: 1px solid var(--border-visible);
-  color: var(--text-secondary);
-  white-space: nowrap;
-  vertical-align: middle;
-}
-.phase-cleanse { color: var(--interactive); border-color: var(--interactive); }
-.phase-exfoliate { color: #e0a458; border-color: #e0a458; }
-.phase-steam { color: #9bb8c8; border-color: #9bb8c8; }
-.phase-tone { color: var(--text-primary); border-color: var(--text-secondary); }
-.phase-essence { color: #8fd0c8; border-color: #8fd0c8; }
-.phase-prep { color: var(--text-primary); border-color: var(--text-secondary); }
-.phase-treat { color: var(--warning); border-color: var(--warning); }
-.phase-mask { color: #c9a0dc; border-color: #c9a0dc; }
-.phase-massage { color: #d98fa8; border-color: #d98fa8; }
-.phase-cold { color: #7fb8e8; border-color: #7fb8e8; }
-.phase-eye { color: #b8c88f; border-color: #b8c88f; }
-.phase-seal { color: var(--success); border-color: var(--success); }
-.phase-oil { color: #d8c878; border-color: #d8c878; }
-.phase-protect { color: var(--accent); border-color: var(--accent); }
-.phase-shave { color: #a8a8c8; border-color: #a8a8c8; }
-.phase-remove { color: #c8b89b; border-color: #c8b89b; }
-.phase-bathe { color: #88b8b0; border-color: #88b8b0; }
-.phase-mist { color: #a0c8e0; border-color: #a0c8e0; }
-.phase-serum { color: #e8c070; border-color: #e8c070; }
-.phase-retinoid { color: #e08878; border-color: #e08878; }
-.phase-spot { color: #d0a0b8; border-color: #d0a0b8; }
-.phase-habits { color: #98b898; border-color: #98b898; }
-
-.cat-tag {
-  display: inline-block;
-  font-family: "Space Mono", monospace;
-  font-size: 10px;
-  letter-spacing: 0.08em;
-  padding: 2px 8px;
-  margin-bottom: 8px;
-  border: 1px solid var(--border-visible);
-  color: var(--text-secondary);
-}
-
 .score-pill {
   float: right;
   font-family: "Space Mono", monospace;

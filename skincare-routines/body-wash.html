@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Body Wash — India, Ranked</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' fill='%23000'/%3E%3Ccircle cx='8' cy='8' r='4' fill='%23fff'/%3E%3C/svg%3E" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Doto:wght@400..700&family=Space+Grotesk:wght@300;400;500&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="bw-styles.css" />
+</head>
+<body>
+  <div class="dev-banner">[DEV MODE] SCORE TABLE LOGGED TO CONSOLE</div>
+  <nav class="site-nav">
+    <a href="index.html" class="nav-link">&larr; ROUTINES</a>
+    <a href="body-wash.html" class="nav-link active" aria-current="page">BODY WASH</a>
+  </nav>
+  <header>
+    <div class="masthead">
+      <span class="label">BODY WASH / INDIA / ALL SKIN TYPES</span>
+      <span class="label">RESEARCHED 19 JUL 2026</span>
+    </div>
+    <div class="hero">
+      <span class="hero-number" id="heroCount">0</span>
+      <div class="hero-side">
+        <h1>Lather up. No fluff.<br>Ranked honestly.</h1>
+        <p class="hero-sub" id="heroSub">Body washes and shower gels sold in India — Flipkart listings
+          visited live in the browser plus Amazon.in product pages fetched live (Fiama, Nivea, Dove, Pears,
+          mCaffeine, The Man Company, Beardo, WOW, Plum and marketplace brands). Each one is scored from its
+          real listing signals — volume &amp; price per 100ml, paraben/sulfate-free claims, pH balance,
+          derm-tested claims, key ingredients, live buyer rating, brand track record — never invented specs.
+          Brand trust &amp; rating weighted highest, because a wash from an unknown brand with no reviews is a
+          gamble regardless of the label claims.</p>
+      </div>
+    </div>
+    <div class="masthead tags">
+      <span class="tag">TRUST 26%</span>
+      <span class="tag">SKIN SAFETY 22%</span>
+      <span class="tag">INGREDIENTS 22%</span>
+      <span class="tag">LIVE PRICES</span>
+      <span class="tag">NOTHING INVENTED</span>
+    </div>
+  </header>
+
+  <div class="controls">
+    <select id="sort" aria-label="Sort">
+      <option value="score">SORT: OVERALL SCORE</option>
+      <option value="trust">SORT: BRAND TRUST &amp; RATING</option>
+      <option value="skin">SORT: SKIN SAFETY</option>
+      <option value="value">SORT: VALUE (&#8377;/100ML)</option>
+      <option value="priceAsc">SORT: PRICE LOW&#8594;HIGH</option>
+      <option value="priceDesc">SORT: PRICE HIGH&#8594;LOW</option>
+      <option value="brand">SORT: BRAND</option>
+    </select>
+    <select id="type" aria-label="Filter">
+      <option value="all">FILTER: ALL</option>
+      <option value="sulfatefree">SULFATE / SLS-FREE</option>
+      <option value="parabenfree">PARABEN-FREE</option>
+      <option value="moisturizing">MOISTURIZING</option>
+      <option value="exfoliating">EXFOLIATING</option>
+      <option value="natural">NATURAL / AYURVEDIC</option>
+      <option value="men">FOR MEN</option>
+      <option value="women">FOR WOMEN</option>
+      <option value="amazon">AMAZON LISTINGS</option>
+      <option value="flipkart">FLIPKART LISTINGS</option>
+    </select>
+    <label class="label">MAX PRICE <input type="range" id="maxPrice" min="50" max="5000" step="50" value="5000" />
+      <span id="maxPriceLabel" class="mono-val">&#8377;5,000</span></label>
+    <span id="count" class="tag"></span>
+  </div>
+
+  <main>
+    <h2 class="section-title">RANKED PICKS</h2>
+    <div id="cards" class="grid"></div>
+
+    <h2 class="section-title">FULL COMPARISON TABLE</h2>
+    <p class="note">Every spec field, side by side. Click column headers to sort; first columns stay pinned on desktop.</p>
+    <div id="table" class="table-wrap"></div>
+  </main>
+
+  <footer>
+    <span class="label">WEIGHTS</span> Brand Trust 26 · Skin Safety 22 · Ingredients 22 · Value 16 · Experience 14<br />
+    <span class="label">SOURCES</span> Flipkart product pages (browser-verified) and Amazon.in product pages (fetched live), 19 Jul 2026.
+    Prices change — verify before buying. Ingredient/skin-benefit claims are the sellers' own, not lab-tested or clinically verified.<br />
+    <span class="label">HONESTY</span> Unpublished figures are marked "Not stated in listing" — never guessed.
+  </footer>
+
+  <script src="bw-data.js"></script>
+  <script src="bw-scoring.js"></script>
+  <script src="bw-app.js"></script>
+</body>
+</html>
