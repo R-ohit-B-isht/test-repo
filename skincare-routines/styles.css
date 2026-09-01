@@ -450,3 +450,61 @@ body.dev .dev-banner { display: block; }
 .nav-link:hover { color: var(--text-primary); border-color: var(--text-secondary); }
 .nav-link:focus-visible { outline: 2px solid var(--interactive); outline-offset: 2px; }
 .nav-link.active { color: var(--text-display); border-color: var(--text-primary); }
+
+/* Category hub cards */
+.cat-hub {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(220px, 100%), 1fr));
+  gap: 16px;
+  margin: 0 0 56px;
+}
+
+.cat-card {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 20px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  text-decoration: none;
+  transition: border-color 200ms var(--ease), transform 160ms var(--ease);
+}
+
+.cat-card:hover {
+  border-color: var(--border-visible);
+}
+
+.cat-card:active {
+  transform: scale(0.97);
+}
+
+.cat-card:focus-visible {
+  outline: 2px solid var(--interactive);
+  outline-offset: 2px;
+}
+
+.cat-count {
+  font-family: "Doto", monospace;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 1;
+  color: var(--text-display);
+}
+
+.cat-name {
+  font-family: "Space Mono", monospace;
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  color: var(--accent);
+}
+
+.cat-desc {
+  font-size: 13px;
+  color: var(--text-secondary);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .cat-card { transition: none; }
+}
