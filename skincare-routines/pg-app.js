@@ -3,7 +3,6 @@ const SORT_STRATEGIES = {
   score: (a, b) => overallScore(b) - overallScore(a) || b.scores.trust - a.scores.trust || a.price - b.price,
   trust: (a, b) => b.scores.trust - a.scores.trust || overallScore(b) - overallScore(a) || a.price - b.price,
   skin: (a, b) => b.scores.skin - a.scores.skin || overallScore(b) - overallScore(a) || a.price - b.price,
-  value: (a, b) => b.scores.value - a.scores.value || overallScore(b) - overallScore(a) || a.price - b.price,
   priceAsc: (a, b) => a.price - b.price || overallScore(b) - overallScore(a),
   priceDesc: (a, b) => b.price - a.price || overallScore(b) - overallScore(a),
   brand: (a, b) => a.brand.localeCompare(b.brand) || overallScore(b) - overallScore(a),
@@ -141,7 +140,7 @@ function tableHtml(items) {
   const head = `<tr>
     <th class="sticky-col" data-sort="score">Rank</th><th class="sticky-col sticky-col-2" data-sort="brand">Brand / Model</th>
     <th>Step</th><th data-sort="priceAsc">Price</th><th data-sort="score">Score</th>
-    ${specCols.map((c) => `<th${c.key === "freeFrom" ? ' data-sort="skin"' : ""}${c.key === "pricePer100" ? ' data-sort="value"' : ""}>${c.label}</th>`).join("")}
+    ${specCols.map((c) => `<th${c.key === "freeFrom" ? ' data-sort="skin"' : ""}>${c.label}</th>`).join("")}
     <th>Buy</th></tr>`;
   const rows = items
     .map((s, i) => `<tr><td class="sticky-col">#${i + 1}</td><td class="sticky-col sticky-col-2">${s.brand} ${s.model}</td>

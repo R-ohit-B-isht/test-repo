@@ -1,18 +1,16 @@
 // Transparent scoring model for pigmentation/old-tan fading products. All inputs
 // come from real listing signals; nothing is invented.
 const WEIGHTS = {
-  trust: 0.26,
-  skin: 0.22,
-  ingredients: 0.22,
-  value: 0.16,
-  experience: 0.14,
+  trust: 0.30,
+  skin: 0.26,
+  ingredients: 0.26,
+  experience: 0.18,
 };
 
 const CRITERIA_LABELS = {
   trust: "Brand Trust & Rating",
   skin: "Skin Safety Claims",
   ingredients: "Actives & Ingredients",
-  value: "Value (₹/100g·ml)",
   experience: "Format & Coverage",
 };
 

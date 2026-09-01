@@ -1,19 +1,17 @@
 // Weighted scoring model (out of 100). Brand trust & buyer rating weighted highest —
 // a product from a brand with no track record and no reviews is a gamble regardless of
-// its claims — then skin safety, actives/ingredients, value, format & experience.
+// its claims — then skin safety, actives/ingredients, format & experience. Price is shown but not scored.
 const WEIGHTS = {
-  trust: 0.26,
-  skin: 0.22,
-  ingredients: 0.22,
-  value: 0.16,
-  experience: 0.14,
+  trust: 0.30,
+  skin: 0.26,
+  ingredients: 0.26,
+  experience: 0.18,
 };
 
 const CRITERIA_LABELS = {
   trust: "Brand Trust & Rating",
   skin: "Skin Safety Claims",
   ingredients: "Actives & Ingredients",
-  value: "Value (\u20B9/100g\u00B7ml)",
   experience: "Format & Experience",
 };
 
