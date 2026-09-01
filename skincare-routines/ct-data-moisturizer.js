@@ -105826,6 +105826,118 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "quench-b0gxfhwhgq",
+  "brand": "Quench",
+  "model": "Avocado Barrier Repair Moisturizer",
+  "price": 470,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "ceramides",
+  "featureLine": "Cream / gel",
+  "highlight": "Live Amazon listing rated 4.4★. Scored from its real listing signals — actives, format, quantity/value, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.4)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.9,
+   "skin": 4,
+   "ingredients": 5.1,
+   "value": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream / gel",
+   "keyIngredients": "ceramides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/6175JHP3jTL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71iV5991N5L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71EUS1vO4UL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71iXM5orHLL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61YtUDh+sZL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GXFHWHGQ",
+  "buyStore": "Amazon",
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "quench-b0f4jz2fq4",
+  "brand": "Quench",
+  "model": "moisturizer gel for men women, radiant glow & 24hr hydration with pentavitin, squalane, ch…",
+  "price": 550,
+  "capacityLine": "50 g",
+  "materialLine": "squalane",
+  "featureLine": "Cream / gel · Paraben-free · ₹1100/100g",
+  "highlight": "Live Amazon listing rated 4.4★. Scored from its real listing signals — actives, format, quantity/value, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)",
+   "Strong buyer rating (4.4)"
+  ],
+  "cons": [
+   "Pricey: ₹1100/100g"
+  ],
+  "scores": {
+   "trust": 6.4,
+   "skin": 5.3,
+   "ingredients": 4.9,
+   "value": 4.2,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹1100/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "squalane (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61C3jqnQ+dL._SL1350_.jpg",
+   "https://m.media-amazon.com/images/I/51B1TbC9JIL._SL1350_.jpg",
+   "https://m.media-amazon.com/images/I/71MK0BUUN4L._SL1350_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F4JZ2FQ4",
+  "buyStore": "Amazon",
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
   "id": "natural-ambience-hub-itm74075f8424c1d",
   "brand": "Natural ambience hub",
   "model": "High-Concentration Kojic Acid 2% Night Cream …",

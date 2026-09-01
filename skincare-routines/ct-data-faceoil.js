@@ -31708,6 +31708,61 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "quench-b0f4jz2fq4",
+  "brand": "Quench",
+  "model": "moisturizer gel for men women, radiant glow & 24hr hydration with pentavitin, squalane, ch…",
+  "price": 550,
+  "capacityLine": "50 g",
+  "materialLine": "squalane",
+  "featureLine": "Cream / gel · Paraben-free · ₹1100/100g",
+  "highlight": "Live Amazon listing rated 4.4★. Scored from its real listing signals — actives, format, quantity/value, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)",
+   "Strong buyer rating (4.4)"
+  ],
+  "cons": [
+   "Pricey: ₹1100/100g"
+  ],
+  "scores": {
+   "trust": 6.4,
+   "skin": 5.3,
+   "ingredients": 4.9,
+   "value": 4.2,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹1100/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "squalane (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61C3jqnQ+dL._SL1350_.jpg",
+   "https://m.media-amazon.com/images/I/51B1TbC9JIL._SL1350_.jpg",
+   "https://m.media-amazon.com/images/I/71MK0BUUN4L._SL1350_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F4JZ2FQ4",
+  "buyStore": "Amazon",
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
   "id": "plum-itm95136453cf953",
   "brand": "Plum",
   "model": "Sunscreen - SPF 50 PA+++ Squalane & Vitamin E Dewy-bright Su …",

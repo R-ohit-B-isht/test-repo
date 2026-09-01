@@ -4,6 +4,7 @@ const SORT_STRATEGIES = {
   score: (a, b) => overallScore(b) - overallScore(a) || b.scores.trust - a.scores.trust || a.price - b.price,
   trust: (a, b) => b.scores.trust - a.scores.trust || overallScore(b) - overallScore(a) || a.price - b.price,
   skin: (a, b) => b.scores.skin - a.scores.skin || overallScore(b) - overallScore(a) || a.price - b.price,
+  ingredients: (a, b) => b.scores.ingredients - a.scores.ingredients || overallScore(b) - overallScore(a) || a.price - b.price,
   priceAsc: (a, b) => a.price - b.price || overallScore(b) - overallScore(a),
   priceDesc: (a, b) => b.price - a.price || overallScore(b) - overallScore(a),
   brand: (a, b) => a.brand.localeCompare(b.brand) || overallScore(b) - overallScore(a),

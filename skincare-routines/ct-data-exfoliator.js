@@ -53515,6 +53515,61 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "quench-b09wvttfly",
+  "brand": "Quench",
+  "model": "Rice Water Gentle Exfoliation Cream Face Wash, Korean Face Wash for Glowing Skin, Brighten…",
+  "price": 224,
+  "capacityLine": "25 ml",
+  "materialLine": "rice water + aloe vera + vitamin E",
+  "featureLine": "Scrub / exfoliant · ₹896/100ml",
+  "highlight": "Live Amazon listing rated 4.5★. Scored from its real listing signals — actives, format, quantity/value, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.1,
+   "skin": 4,
+   "ingredients": 5.5,
+   "value": 4.7,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "25 ml",
+   "pricePer100": "₹896/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "rice water, aloe vera, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51FEMcv9IdL._SL1440_.jpg",
+   "https://m.media-amazon.com/images/I/51XQqG28DbL._SL1025_.jpg",
+   "https://m.media-amazon.com/images/I/714F54rxsIL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61UTwLsz0GL._SL1025_.jpg",
+   "https://m.media-amazon.com/images/I/710kk0ajwtL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B09WVTTFLY",
+  "buyStore": "Amazon",
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "mary-jo-k-itm7538a9e40546c",
   "brand": "MARY JO K",
   "model": "Exfoliating Toner | 5% AHA Formula | Refines Skin Textu …",

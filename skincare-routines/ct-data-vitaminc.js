@@ -74963,6 +74963,235 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "quench-b0cwpkzvmw",
+  "brand": "Quench",
+  "model": "Instaglow Vitamin C Sheet Mask Korean Face Mask for Glowing Skin, Revitalizes Dull & Tired…",
+  "price": 89,
+  "capacityLine": "20 ml",
+  "materialLine": "vitamin C",
+  "featureLine": "Sheet mask · ₹445/100ml",
+  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, quantity/value, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.4,
+   "skin": 4,
+   "ingredients": 5.1,
+   "value": 5.2,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "20 ml",
+   "pricePer100": "₹445/100ml",
+   "format": "Sheet mask",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71fVfGRYr4L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81U+y2sjsUL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71Zw5JW4eXL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61+sxiaFy8L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61CRxwTxKbL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CWPKZVMW",
+  "buyStore": "Amazon",
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "quenchglow-b0fl483r5b",
+  "brand": "QuenchGlow",
+  "model": "Premium Vitamin C Serum with Advance Glow Formula for Face - Brightening Serum - Boost Ski…",
+  "price": 275,
+  "capacityLine": "15 ml",
+  "materialLine": "vitamin C + hyaluronic acid + vitamin E",
+  "featureLine": "Serum · ₹1833/100ml",
+  "highlight": "Live Amazon listing rated 4.6★. Scored from its real listing signals — actives, format, quantity/value, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.6)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1833/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 6.2,
+   "value": 4.2,
+   "experience": 5.5
+  },
+  "fullSpec": {
+   "quantity": "15 ml",
+   "pricePer100": "₹1833/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, hyaluronic acid, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim, Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.6/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61D9G4iupLL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61D9g-XNNPL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/71Ipy9X4xkL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61LbbUBtK4L._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61kEOK8K4NL._SL1024_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FL483R5B",
+  "buyStore": "Amazon",
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "quenchglow-b0flvbw6w3",
+  "brand": "QuenchGlow",
+  "model": "Vitamin C Face Wash – Enriched with Vitamin E, Aloe Vera, Coconut Water, Green Tea & Hyalu…",
+  "price": 199,
+  "capacityLine": "100 ml",
+  "materialLine": "vitamin C + hyaluronic acid + green tea",
+  "featureLine": "Wash / cleanser · ₹199/100ml",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, quantity/value, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹199/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.2,
+   "skin": 4.7,
+   "ingredients": 7,
+   "value": 5.7,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹199/100ml",
+   "format": "Wash / cleanser",
+   "keyIngredients": "vitamin C, hyaluronic acid, green tea, aloe vera, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/610BftdNyOL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71yLvM7EImL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/712l5kijP3L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61lWUSa1WfL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61Ev8dYlGuL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FLVBW6W3",
+  "buyStore": "Amazon",
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "quenchglow-b0gky1g814",
+  "brand": "QuenchGlow",
+  "model": "Vitamin C Serum 15ml with Advanced Glow Formula + FREE Vitamin C Face Wash 100ml | Brighte…",
+  "price": 299,
+  "capacityLine": "15 ml",
+  "materialLine": "vitamin C + hyaluronic acid + green tea",
+  "featureLine": "Wash / cleanser · ₹1993/100ml",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, quantity/value, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1993/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 7,
+   "value": 4.2,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "15 ml",
+   "pricePer100": "₹1993/100ml",
+   "format": "Wash / cleanser",
+   "keyIngredients": "vitamin C, hyaluronic acid, green tea, aloe vera, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71PScdD6tUL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71iaQOUNZjL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51GEfcx9toL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/715UHchAX5L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71zNk449PYL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GKY1G814",
+  "buyStore": "Amazon",
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
   "id": "lacto-itm3d62e94b90fa8",
   "brand": "Lacto",
   "model": "Calamine Rice Face Toner | Glass Korean Skin|Vitamin C+Niac …",

@@ -64681,6 +64681,61 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "quench-b0cwpkzvmw",
+  "brand": "Quench",
+  "model": "Instaglow Vitamin C Sheet Mask Korean Face Mask for Glowing Skin, Revitalizes Dull & Tired…",
+  "price": 89,
+  "capacityLine": "20 ml",
+  "materialLine": "vitamin C",
+  "featureLine": "Sheet mask · ₹445/100ml",
+  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, quantity/value, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.4,
+   "skin": 4,
+   "ingredients": 5.1,
+   "value": 5.2,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "20 ml",
+   "pricePer100": "₹445/100ml",
+   "format": "Sheet mask",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71fVfGRYr4L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81U+y2sjsUL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71Zw5JW4eXL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61+sxiaFy8L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61CRxwTxKbL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CWPKZVMW",
+  "buyStore": "Amazon",
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "shivinaluxe-itmbdf5f051d3b2a",
   "brand": "shivinaluxe",
   "model": "Face Pack with Alpha Arbutin for Even Skin Tone and G …",

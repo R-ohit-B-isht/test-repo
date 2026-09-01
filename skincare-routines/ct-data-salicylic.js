@@ -72123,6 +72123,63 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "quench-b0943xngst",
+  "brand": "Quench",
+  "model": "Zit Away Acne Pimple Patches for Face | 24 Hydrocolloid Patches with Salicylic Acid & Cica…",
+  "price": 224,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "salicylic acid (BHA) + centella/cica + tea tree",
+  "featureLine": "Oil",
+  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, quantity/value, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.2)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.6,
+   "skin": 4,
+   "ingredients": 6.3,
+   "value": 4,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Oil",
+   "keyIngredients": "salicylic acid (BHA), centella/cica, tea tree, witch hazel (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71qoWGm+DfL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/713p56KDnoL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81oYwizyyIL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81jOEe49ShL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61YNQyCAUAL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0943XNGST",
+  "buyStore": "Amazon",
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "uruxa-itma9f0ec560b918",
   "brand": "uruxa",
   "model": "10% GLYCOLIC ACID + 1% SALICYLIC ACID + 1% GDL MULTIPURPOSE …",

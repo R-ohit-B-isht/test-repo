@@ -101120,6 +101120,64 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "quenchglow-b0gr46rgj4",
+  "brand": "QuenchGlow",
+  "model": "AcneControl & Glow Facial Serum | 2% Niacinamide + 5% Azelaic Acid | Fights Acne, Fades Ma…",
+  "price": 299,
+  "capacityLine": "20 ml",
+  "materialLine": "niacinamide + hyaluronic acid + licorice",
+  "featureLine": "Serum · ₹1495/100ml",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, quantity/value, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1495/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.7,
+   "skin": 4,
+   "ingredients": 6.3,
+   "value": 4.2,
+   "experience": 5.5
+  },
+  "fullSpec": {
+   "quantity": "20 ml",
+   "pricePer100": "₹1495/100ml",
+   "format": "Serum",
+   "keyIngredients": "niacinamide, hyaluronic acid, licorice, zinc (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61S6MnON5wL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/710GtGBN8DL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71UAGoIE2kL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71dMOD0hpFL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71Pa82JtTML._SL1254_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GR46RGJ4",
+  "buyStore": "Amazon",
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "geo-organix-itm388c593ed3fd6",
   "brand": "GEO ORGANIX",
   "model": "Vitamin C & Lactic Acid Face Mist 3% Niacinamide | Hy …",
