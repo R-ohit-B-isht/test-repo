@@ -3,12 +3,12 @@ import { AnimatePresence, motion } from 'framer-motion';
 import { X } from 'lucide-react';
 import { usePrefersReducedMotion } from '../../lib/format';
 
-interface Props { open: boolean; onClose: () => void; title: string; children: ReactNode; wide?: boolean }
+interface Props { open: boolean; onClose: () => void; title: string; children: ReactNode; wide?: boolean; footer?: ReactNode }
 
 const EASE = [0.23, 1, 0.32, 1] as const;
 
-/** Right-side sheet (bottom sheet on phones). Focus is trapped inside, Esc closes, body scroll locks. */
-export function Sheet({ open, onClose, title, children, wide }: Props) {
+/** Right-side sheet (bottom sheet on phones). Focus is trapped inside, Esc closes, body scroll locks. `footer` pins a Booking-style action bar under the scroll area. */
+export function Sheet({ open, onClose, title, children, wide, footer }: Props) {
   const panel = useRef<HTMLDivElement>(null);
   const reduced = usePrefersReducedMotion();
   useEffect(() => {
@@ -34,6 +34,7 @@ export function Sheet({ open, onClose, title, children, wide }: Props) {
               <button type="button" onClick={onClose} className="btn h-10 w-10 shrink-0 px-0" aria-label="Close"><X size={16} /></button>
             </div>
             <div className="scrollbar-thin flex-1 overflow-y-auto px-5 py-6 sm:px-8">{children}</div>
+            {footer && <div className="glass border-t border-line px-5 py-3 pb-[max(12px,env(safe-area-inset-bottom))] sm:px-8">{footer}</div>}
           </motion.div>
         </motion.div>
       )}

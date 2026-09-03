@@ -1,7 +1,17 @@
-import { ChevronDown, Search, SlidersHorizontal, X } from 'lucide-react';
+import { ArrowDownUp, Check, ChevronDown, Link2, Search, SlidersHorizontal, X } from 'lucide-react';
 import { useEffect, useState } from 'react';
+import { clsx } from 'clsx';
 import { SORT_KEYS, SORT_STRATEGIES, type SortKey } from '../../domain/sort';
 import type { CategoryIndex } from '../../domain/index';
+import { RadioMenu } from '../ui/RadioMenu';
+import { toast } from '../../state/toastStore';
+
+const SORT_OPTIONS = SORT_KEYS.map((k) => ({ value: k, label: SORT_STRATEGIES[k].label, hint: SORT_STRATEGIES[k].hint }));
+
+/** Copies the current URL (filters, sort and search all live in it) so a filtered view can be shared. */
+async function copyView(): Promise<boolean> {
+  try { await navigator.clipboard.writeText(window.location.href); return true; } catch { return false; }
+}
 
 interface Props {
   idx: CategoryIndex; featured: string[]; selected: string[]; live: { base: Uint32Array; byGroup: Map<string, Uint32Array> };
@@ -9,7 +19,7 @@ interface Props {
   onToggle: (tag: string) => void; onOpenFilters: () => void; activeCount: number; resultCount: number;
 }
 
-/** Search + featured chips (Etsy / Kayak) and an IMDb-style "N results · Sorted by ▾" line. Only tags that exist in the data appear. */
+/** Search + featured chips (Etsy / Kayak), an IMDb-style "N results · Sorted by ▾" line with a Booking-style single-choice sort menu, and a copy-link action. Only tags that exist in the data appear. */
 export function Toolbar({ idx, featured, selected, live, sort, onSort, query, onQuery, onToggle, onOpenFilters, activeCount, resultCount }: Props) {
   const [q, setQ] = useState(query);
   const [seen, setSeen] = useState(query);
@@ -50,14 +60,37 @@ export function Toolbar({ idx, featured, selected, live, sort, onSort, query, on
         <p className="text-[14px] text-secondary" aria-live="polite">
           <span className="mono font-extrabold text-display">{resultCount.toLocaleString('en-IN')}</span> of {idx.items.length.toLocaleString('en-IN')} listings
         </p>
-        <label className="relative flex items-center gap-1.5 text-[14px] text-secondary">
-          Sorted by
-          <select value={sort} onChange={(e) => onSort(e.target.value as SortKey)} className="appearance-none rounded-full bg-transparent py-1 pl-1 pr-6 font-extrabold text-display" aria-label="Sort by">
-            {SORT_KEYS.map((k) => <option key={k} value={k}>{SORT_STRATEGIES[k].label}</option>)}
-          </select>
-          <ChevronDown size={14} className="pointer-events-none absolute right-1 text-display" aria-hidden />
-        </label>
+        <div className="flex items-center gap-1">
+          <RadioMenu<SortKey> value={sort} options={SORT_OPTIONS} onChange={onSort} triggerLabel="Sort by" heading="Sort by"
+            triggerClassName="press flex h-9 items-center gap-1.5 rounded-full px-2 text-[14px] text-secondary hover:bg-raised"
+            trigger={(open) => (
+              <>
+                <ArrowDownUp size={14} aria-hidden />
+                <span className="hidden sm:inline">Sorted by</span>
+                <span className="font-extrabold text-display">{SORT_STRATEGIES[sort].label}</span>
+                <ChevronDown size={14} className={clsx('text-display transition-transform duration-200', open && 'rotate-180')} aria-hidden />
+              </>
+            )} />
+          <CopyLink />
+        </div>
       </div>
     </div>
+  );
+}
+
+/** Screenroom copy-button: swaps to a check for 1.6 s after a successful copy; toast carries the result. */
+function CopyLink() {
+  const [done, setDone] = useState(false);
+  useEffect(() => {
+    if (!done) return;
+    const t = setTimeout(() => setDone(false), 1600);
+    return () => clearTimeout(t);
+  }, [done]);
+  return (
+    <button type="button" aria-label="Copy link to this view" title="Copy link to this filtered view"
+      onClick={async () => { const ok = await copyView(); setDone(ok); toast(ok ? 'Link to this view copied' : 'Could not copy — copy the address bar instead'); }}
+      className={clsx('press flex h-9 w-9 items-center justify-center rounded-full transition-colors hover:bg-raised', done ? 'text-success' : 'text-secondary')}>
+      {done ? <Check size={15} strokeWidth={3} /> : <Link2 size={15} />}
+    </button>
   );
 }

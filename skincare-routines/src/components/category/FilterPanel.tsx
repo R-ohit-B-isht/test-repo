@@ -1,7 +1,7 @@
-import { useState } from 'react';
+import { useMemo, useState } from 'react';
 import { Check, ChevronDown, Search } from 'lucide-react';
 import { clsx } from 'clsx';
-import type { FacetGroupDef, FacetRow } from '../../lib/types';
+import type { FacetGroupDef, FacetRow, ProductRow } from '../../lib/types';
 import type { CategoryIndex } from '../../domain/index';
 import type { ViewState } from '../../state/useFilterState';
 import { rupees } from '../../lib/format';
@@ -27,7 +27,7 @@ export function FilterPanel({ idx, groups, order, live, state, onToggle, onToggl
   const priceCap = Math.ceil(idx.priceMax / 100) * 100;
   return (
     <div className="space-y-2">
-      <PriceFacet cap={priceCap} value={state.priceMax} onChange={onPrice} />
+      <PriceFacet cap={priceCap} value={state.priceMax} onChange={onPrice} items={idx.items} />
       {order.filter((g) => !HIDDEN.has(g) && idx.facets[g]?.length).map((g) => (
         <FacetGroup key={g} id={g} def={groups[g]} rows={idx.facets[g]} idx={idx} liveCounts={live.byGroup.get(g) ?? live.base} state={state}
           onToggle={onToggle} onToggleAll={onToggleAll} onClear={onClearGroup} />
@@ -36,17 +36,34 @@ export function FilterPanel({ idx, groups, order, live, state, onToggle, onToggl
   );
 }
 
-function PriceFacet({ cap, value, onChange }: { cap: number; value: number | null; onChange: (v: number | null) => void }) {
+const BINS = 28;
+
+/** Booking / Airbnb price filter: a real distribution of listing prices sits above the slider so the ceiling is chosen against the data, not blind. */
+function PriceFacet({ cap, value, onChange, items }: { cap: number; value: number | null; onChange: (v: number | null) => void; items: ProductRow[] }) {
   const v = value ?? cap;
+  const bins = useMemo(() => {
+    const b = new Array<number>(BINS).fill(0);
+    for (const it of items) b[Math.min(BINS - 1, Math.floor((it.p / cap) * BINS))] += 1;
+    const peak = Math.max(1, ...b);
+    return b.map((n) => ({ n, h: n === 0 ? 0 : Math.max(8, Math.round((n / peak) * 100)) }));
+  }, [items, cap]);
+  const under = useMemo(() => (value === null ? items.length : items.reduce((a, it) => a + (it.p <= value ? 1 : 0), 0)), [items, value]);
   return (
     <section className="card p-4">
       <div className="flex items-center justify-between">
         <h3 className="label">Price ceiling</h3>
         <span className="mono text-[13px] font-extrabold text-display">{value === null ? 'Any price' : `≤ ${rupees(v)}`}</span>
       </div>
-      <input type="range" className="range mt-2" min={100} max={cap} step={50} value={v} aria-label="Maximum price"
+      <div className="mt-3 flex h-10 items-end gap-px" role="img" aria-label={`Price distribution of ${items.length.toLocaleString('en-IN')} listings, ${under.toLocaleString('en-IN')} at or under the ceiling`}>
+        {bins.map((b, i) => {
+          const binStart = (i / BINS) * cap;
+          const on = binStart < v;
+          return <span key={i} className={`flex-1 rounded-t-[2px] transition-colors duration-200 ${on ? 'bg-accent' : 'bg-line-strong'}`} style={{ height: `${b.h}%` }} title={`${rupees(Math.round(binStart))}–${rupees(Math.round(((i + 1) / BINS) * cap))}: ${b.n.toLocaleString('en-IN')}`} />;
+        })}
+      </div>
+      <input type="range" className="range mt-1" min={100} max={cap} step={50} value={v} aria-label="Maximum price" aria-valuetext={value === null ? 'Any price' : `Up to ${rupees(v)}, ${under.toLocaleString('en-IN')} listings`}
         onChange={(e) => onChange(Number(e.target.value) >= cap ? null : Number(e.target.value))} />
-      <p className="mt-1 text-[12px] text-muted">Price is a filter only — it never affects the score.</p>
+      <p className="mt-1 text-[12px] text-muted">{value === null ? 'Price is a filter only — it never affects the score.' : `${under.toLocaleString('en-IN')} listings at or under — price never affects the score.`}</p>
     </section>
   );
 }

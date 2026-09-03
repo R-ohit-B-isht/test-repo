@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { ExternalLink } from 'lucide-react';
 import { clsx } from 'clsx';
 import { Sheet } from '../ui/Sheet';
-import { ScoreBadge, ScoreBar, Skeleton, StatusBlock, ZoneBadge } from '../ui/primitives';
+import { ScoreBadge, ScoreBar, ScoreRing, Skeleton, StatusBlock, ZoneBadge } from '../ui/primitives';
 import { useDetail } from '../../data/hooks';
 import type { ProductRow, ScoreKey } from '../../lib/types';
 import { SCORE_META } from '../../domain/scoreMeta';
@@ -17,7 +17,18 @@ export function ProductSheet({ category, shards, row, rank, scope, weights, onCl
   const [img, setImg] = useState(0);
   const title = row ? `${row.b} — ${row.m}` : '';
   return (
-    <Sheet open={!!row} onClose={onClose} title={title}>
+    <Sheet open={!!row} onClose={onClose} title={title}
+      footer={row && detail.status === 'ready' ? (
+        <div className="flex items-center gap-3">
+          <div className="min-w-0 flex-1">
+            <p className="truncate text-[12px] font-bold text-secondary">#{rank} · {row.b}</p>
+            <p className="mono text-[18px] font-extrabold leading-tight text-display">{rupees(row.p)}</p>
+          </div>
+          <a href={detail.data.buyUrl} target="_blank" rel="noopener noreferrer" className="btn btn-accent h-12 shrink-0 px-5 no-underline">
+            View on {storeLabel(detail.data.buyStore)} <ExternalLink size={14} />
+          </a>
+        </div>
+      ) : undefined}>
       {row && (
         <div className="space-y-6">
           <div className="card overflow-hidden">
@@ -62,9 +73,12 @@ export function ProductSheet({ category, shards, row, rank, scope, weights, onCl
 
           <section aria-labelledby="scores-h" className="card p-5">
             <h3 id="scores-h" className="text-[15px] font-extrabold text-display">Score breakdown</h3>
-            <p className="mt-0.5 text-[12px] text-muted">Out of 10 per dimension · price is never scored</p>
-            <div className="mt-4 space-y-4">
-              {SCORE_META.map((m) => <ScoreBar key={m.key} label={`${m.label} · ${Math.round(weights[m.key] * 100)}%`} value={row.sc[m.key]} hint={m.hint} />)}
+            <p className="mt-0.5 text-[12px] text-muted">Arc length is the weight, filled part is this listing’s score out of 10 · price is never scored</p>
+            <div className="mt-4 grid gap-5 sm:grid-cols-[120px_minmax(0,1fr)] sm:items-center">
+              <div className="mx-auto"><ScoreRing total={row.s} parts={SCORE_META.map((m) => ({ label: m.label, weight: weights[m.key], value: row.sc[m.key] }))} /></div>
+              <div className="space-y-4">
+                {SCORE_META.map((m) => <ScoreBar key={m.key} label={`${m.label} · ${Math.round(weights[m.key] * 100)}%`} value={row.sc[m.key]} hint={m.hint} />)}
+              </div>
             </div>
           </section>
 
@@ -94,9 +108,6 @@ export function ProductSheet({ category, shards, row, rank, scope, weights, onCl
                 </dl>
                 <p className="mt-3 text-[12px] text-muted">Values are the seller's own listing claims, not lab tests. Missing fields are shown as “Not stated in listing”.</p>
               </section>
-              <a href={detail.data.buyUrl} target="_blank" rel="noopener noreferrer" className="btn btn-accent h-12 w-full no-underline">
-                View on {storeLabel(detail.data.buyStore)} <ExternalLink size={14} />
-              </a>
             </>
           )}
         </div>

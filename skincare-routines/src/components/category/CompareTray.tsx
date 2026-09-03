@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import { ExternalLink, X } from 'lucide-react';
 import { clsx } from 'clsx';
 import { Sheet } from '../ui/Sheet';
@@ -8,11 +7,14 @@ import type { ProductRow, ScoreKey } from '../../lib/types';
 import { rupees, specLabel, storeLabel } from '../../lib/format';
 import { SCORE_META } from '../../domain/scoreMeta';
 
-interface Props { category: string; shards: number; rows: ProductRow[]; ranks: number[]; onRemove: (id: string) => void; onClear: () => void }
+interface Props {
+  category: string; shards: number; rows: ProductRow[]; ranks: number[]; onRemove: (id: string) => void; onClear: () => void;
+  open: boolean; onOpenChange: (open: boolean) => void;
+}
 
-/** Sticky bottom tray of up to 4 picks + a side-by-side sheet. Never renders the whole list as a table. */
-export function CompareTray({ category, shards, rows, ranks, onRemove, onClear }: Props) {
-  const [open, setOpen] = useState(false);
+/** Sticky bottom tray of up to 4 picks + a side-by-side sheet (controlled, so a toast action can open it). Never renders the whole list as a table. */
+export function CompareTray({ category, shards, rows, ranks, onRemove, onClear, open, onOpenChange }: Props) {
+  const setOpen = onOpenChange;
   if (!rows.length) return null;
   return (
     <>

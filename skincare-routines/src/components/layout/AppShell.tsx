@@ -5,7 +5,11 @@ import { useEffect } from 'react';
 import { Monitor, Moon, Sun } from 'lucide-react';
 import { useManifest } from '../../data/hooks';
 import { DevPanel } from '../dev/DevPanel';
-import { setTheme, THEME_ORDER, useTheme } from '../../state/themeStore';
+import { setTheme, useTheme, type Theme } from '../../state/themeStore';
+import { RadioMenu } from '../ui/RadioMenu';
+import { ToastStack } from '../ui/ToastStack';
+import { CommandSearch } from '../search/CommandSearch';
+import { LiveDataBadge } from '../ui/primitives';
 
 const NAV = [
   { to: '/', label: 'Routines', end: true, short: 'Routines' },
@@ -14,16 +18,20 @@ const NAV = [
 ];
 
 const THEME_ICON = { auto: Monitor, light: Sun, dark: Moon } as const;
-const THEME_LABEL = { auto: 'Theme: follows system', light: 'Theme: light', dark: 'Theme: dark' } as const;
+const THEME_OPTIONS = [
+  { value: 'auto' as Theme, label: 'Use device settings', hint: 'Follows your system appearance', icon: <Monitor size={15} /> },
+  { value: 'light' as Theme, label: 'Light', hint: 'Paper and ink', icon: <Sun size={15} /> },
+  { value: 'dark' as Theme, label: 'Dark', hint: 'Ink and paper', icon: <Moon size={15} /> },
+];
 
-function ThemeToggle() {
+/** Booking / MyFitnessPal "Appearance" radio group, opened from one icon button. */
+function ThemeMenu() {
   const theme = useTheme();
   const Icon = THEME_ICON[theme];
-  const next = THEME_ORDER[(THEME_ORDER.indexOf(theme) + 1) % THEME_ORDER.length];
   return (
-    <button type="button" onClick={() => setTheme(next)} className="btn h-9 w-9 shrink-0 px-0" aria-label={`${THEME_LABEL[theme]}. Switch to ${next}`} title={THEME_LABEL[theme]}>
-      <Icon size={15} />
-    </button>
+    <RadioMenu<Theme> value={theme} options={THEME_OPTIONS} onChange={setTheme} heading="Appearance"
+      triggerLabel={`Appearance: ${THEME_OPTIONS.find((o) => o.value === theme)?.label ?? theme}`} triggerClassName="btn h-9 w-9 shrink-0 px-0"
+      trigger={() => <Icon size={15} />} />
   );
 }
 
@@ -51,7 +59,8 @@ export function AppShell() {
               </NavLink>
             ))}
           </nav>
-          <ThemeToggle />
+          <CommandSearch />
+          <ThemeMenu />
         </div>
       </header>
       <main id="main" tabIndex={-1} className="outline-none mx-auto max-w-[1440px] px-4 pb-24 sm:px-6">
@@ -64,6 +73,7 @@ export function AppShell() {
             <p className="mt-2">
               Every product is a real listing captured live from Flipkart or Amazon.in. Unknown fields say so. Seller claims are labelled as claims — nothing here is lab-tested or medical advice.
             </p>
+            {manifest.status === 'ready' && <LiveDataBadge capturedAt={manifest.data.generatedAt} className="mt-4" />}
           </div>
           {manifest.status === 'ready' && (
             <dl className="grid grid-cols-3 gap-6 self-start md:text-right">
@@ -74,6 +84,7 @@ export function AppShell() {
           )}
         </div>
       </footer>
+      <ToastStack />
       <DevPanel />
     </div>
   );

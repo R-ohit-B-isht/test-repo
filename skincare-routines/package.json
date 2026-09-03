@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "data": "node scripts/build-data.mjs",
+    "og": "npm run data && node scripts/og-image.mjs",
     "dev": "npm run data && vite",
     "build": "npm run data && tsc -b && vite build",
     "lint": "oxlint src scripts",

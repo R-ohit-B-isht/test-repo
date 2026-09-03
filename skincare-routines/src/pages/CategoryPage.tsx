@@ -1,13 +1,16 @@
 import { useCallback, useMemo, useState } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 import { ChevronLeft } from 'lucide-react';
+import { toast } from '../state/toastStore';
+import type { ViewState } from '../state/useFilterState';
 import { useCategory, useManifest } from '../data/hooks';
 import { applyFilter, liveCountsByGroup } from '../domain/filter';
 import { sortPositions } from '../domain/sort';
 import { useFilterState } from '../state/useFilterState';
 import { useDevPublish } from '../components/dev/devStore';
 import { AppLink } from '../components/ui/AppLink';
-import { Kicker, SectionHead, StatusBlock, ZoneBadge } from '../components/ui/primitives';
+import { Kicker, NumberTicker, SectionHead, SkeletonRows, StatusBlock, ZoneBadge } from '../components/ui/primitives';
+import { EmptyResults } from '../components/category/EmptyResults';
 import { Sheet } from '../components/ui/Sheet';
 import { ScopeControl } from '../components/category/ScopeControl';
 import { FilterPanel } from '../components/category/FilterPanel';
@@ -34,6 +37,7 @@ function CategoryView({ id }: { id: string }) {
   const [openId, setOpenId] = useState<string | null>(null);
   const [compare, setCompare] = useState<string[]>([]);
   const [filtersOpen, setFiltersOpen] = useState(false);
+  const [compareOpen, setCompareOpen] = useState(false);
   const navigate = useNavigate();
 
   const meta: CategoryMeta | undefined = manifest.status === 'ready' ? manifest.data.categories.find((c) => c.id === id) : undefined;
@@ -46,7 +50,19 @@ function CategoryView({ id }: { id: string }) {
   const scopeSelected = state.tags.filter((t) => t.startsWith('scope:'));
   const stepSelected = state.tags.filter((t) => t.startsWith('step:'));
   const onOpen = useCallback((pid: string) => setOpenId(pid), []);
-  const onCompare = useCallback((pid: string) => setCompare((c) => (c.includes(pid) ? c.filter((x) => x !== pid) : c.length >= COMPARE_MAX ? c : [...c, pid])), []);
+  const onCompare = useCallback((pid: string) => {
+    if (compare.includes(pid)) { setCompare(compare.filter((x) => x !== pid)); return; }
+    if (compare.length >= COMPARE_MAX) { toast(`Compare holds ${COMPARE_MAX} products — remove one first`); return; }
+    const next = [...compare, pid];
+    setCompare(next);
+    toast(`Added to compare (${next.length} of ${COMPARE_MAX})`, next.length >= 2 ? { label: 'Compare now', run: () => setCompareOpen(true) } : undefined);
+  }, [compare]);
+  /** Memento: clearing keeps a snapshot so the toast's Undo can restore the exact filter set. */
+  const clearAllWithUndo = useCallback(() => {
+    const snapshot: ViewState = { ...state };
+    clearAll();
+    toast('All filters cleared', { label: 'Undo', run: () => update(snapshot) });
+  }, [state, clearAll, update]);
   const onQuery = useCallback((q: string) => update({ query: q }), [update]);
   const onPrice = useCallback((v: number | null) => update({ priceMax: v }), [update]);
 
@@ -60,7 +76,7 @@ function CategoryView({ id }: { id: string }) {
   if (manifest.status === 'error') return <StatusBlock title="Could not load the product index" body={manifest.error} />;
   if (manifest.status === 'ready' && !meta) return <StatusBlock title="Unknown category" body={`No ranked category called “${id}”.`} />;
   if (cat.status === 'error') return <StatusBlock title={`Could not load ${meta?.label ?? id}`} body={cat.error} />;
-  if (!idx || !meta || manifest.status !== 'ready') return <StatusBlock title={`Loading ${meta?.label ?? 'category'}…`} body="Fetching the ranked listings for this category only." />;
+  if (!idx || !meta || manifest.status !== 'ready') return <LoadingCategory label={meta?.label} />;
 
   const m = manifest.data;
   const openRow = openId ? idx.items.find((r) => r.id === openId) ?? null : null;
@@ -94,7 +110,7 @@ function CategoryView({ id }: { id: string }) {
           </div>
           <dl className="grid grid-cols-3 gap-3 sm:gap-4">
             {[['Listings', idx.items.length], ['Brands', idx.brands.length], ['Filter tags', idx.tagIndex.length]].map(([k, n]) => (
-              <div key={k} className="card px-4 py-3 sm:min-w-[120px]"><dt className="label">{k}</dt><dd className="mono mt-0.5 text-[24px] font-extrabold text-display sm:text-[28px]">{Number(n).toLocaleString('en-IN')}</dd></div>
+              <div key={k} className="card px-4 py-3 sm:min-w-[120px]"><dt className="label">{k}</dt><dd className="mt-0.5 text-[24px] font-extrabold text-display sm:text-[28px]"><NumberTicker value={Number(n)} /></dd></div>
             ))}
           </dl>
         </div>
@@ -114,31 +130,55 @@ function CategoryView({ id }: { id: string }) {
       <div className="mt-6 grid gap-8 lg:grid-cols-[300px_minmax(0,1fr)]">
         <aside className="hidden lg:block" aria-label="Filters">
           <div className="scrollbar-thin sticky top-[136px] max-h-[calc(100dvh-152px)] overflow-y-auto pr-1">
-            <div className="mb-3 flex items-center justify-between"><h2 className="text-[16px] font-extrabold text-display">Filters</h2>{activeCount > 0 && <button type="button" className="label !text-accent hover:underline" onClick={clearAll}>Clear all ({activeCount})</button>}</div>
+            <div className="mb-3 flex items-center justify-between"><h2 className="text-[16px] font-extrabold text-display">Filters</h2>{activeCount > 0 && <button type="button" className="label !text-accent hover:underline" onClick={clearAllWithUndo}>Clear all ({activeCount})</button>}</div>
             {panel}
           </div>
         </aside>
         <div className="min-w-0 space-y-4">
           <Toolbar idx={idx} featured={meta.featured} selected={state.tags} live={live} sort={state.sort} onSort={(k) => update({ sort: k })}
             query={state.query} onQuery={onQuery} onToggle={toggleTag} onOpenFilters={() => setFiltersOpen(true)} activeCount={activeCount} resultCount={positions.length} />
-          <ActiveChips idx={idx} groups={m.groups} state={state} onRemove={toggleTag} onPrice={onPrice} onQuery={onQuery} onClearAll={clearAll} />
+          <ActiveChips idx={idx} groups={m.groups} state={state} onRemove={toggleTag} onPrice={onPrice} onQuery={onQuery} onClearAll={clearAllWithUndo} />
           {positions.length === 0 ? (
-            <StatusBlock title="No listing matches every filter" body="Nothing in the captured data fits this combination. Loosen a filter, switch a group to “match any”, or clear all."
-              action={<button type="button" className="btn btn-accent" onClick={clearAll}>Clear all filters</button>} />
+            <EmptyResults idx={idx} groups={m.groups} state={state} onRemove={toggleTag} onPrice={onPrice} onQuery={onQuery} onClearAll={clearAllWithUndo} />
           ) : (
             <ProductList idx={idx} positions={positions} compare={compare} compareMax={COMPARE_MAX} onOpen={onOpen} onCompare={onCompare} />
           )}
         </div>
       </div>
 
-      <Sheet open={filtersOpen} onClose={() => setFiltersOpen(false)} title={`Filters · ${positions.length.toLocaleString('en-IN')} results`}>
-        <div className="mb-3 flex items-center justify-between"><span className="text-[12px] text-muted">Any within a group · all groups together</span>{activeCount > 0 && <button type="button" className="label !text-accent hover:underline" onClick={clearAll}>Clear all</button>}</div>
+      <Sheet open={filtersOpen} onClose={() => setFiltersOpen(false)} title={`Filters · ${positions.length.toLocaleString('en-IN')} results`}
+        footer={
+          <div className="flex items-center gap-3">
+            {activeCount > 0 && <button type="button" className="btn h-12 shrink-0" onClick={clearAllWithUndo}>Clear {activeCount}</button>}
+            <button type="button" className="btn btn-accent h-12 flex-1" onClick={() => setFiltersOpen(false)} disabled={positions.length === 0}>
+              {positions.length === 0 ? 'No results — loosen a filter' : `Show ${positions.length.toLocaleString('en-IN')} results`}
+            </button>
+          </div>
+        }>
+        <p className="mb-3 text-[12px] text-muted">Any within a group · all groups together</p>
         {panel}
-        <button type="button" className="btn btn-accent mt-4 h-12 w-full" onClick={() => setFiltersOpen(false)}>Show {positions.length.toLocaleString('en-IN')} results</button>
       </Sheet>
 
       <ProductSheet category={id} shards={m.shards} row={openRow} rank={openRow ? rankOf(openRow.id) : 0} scope={openRow ? scopeOf(openRow.t) : 'unstated'} weights={m.weights} onClose={() => setOpenId(null)} />
-      <CompareTray category={id} shards={m.shards} rows={compareRows} ranks={compareRows.map((r) => rankOf(r.id))} onRemove={onCompare} onClear={() => setCompare([])} />
+      <CompareTray category={id} shards={m.shards} rows={compareRows} ranks={compareRows.map((r) => rankOf(r.id))} onRemove={onCompare} onClear={() => setCompare([])}
+        open={compareOpen} onOpenChange={setCompareOpen} />
+    </div>
+  );
+}
+
+/** Booking "search loading": header ghost + six ranked-row skeletons in the final layout. */
+function LoadingCategory({ label }: { label?: string }) {
+  return (
+    <div className="pb-24 pt-6 sm:pt-8" aria-busy>
+      <p className="text-[13px] font-bold text-secondary">{label ? `Loading ${label}…` : 'Loading category…'}</p>
+      <div className="mt-6 grid gap-6 lg:grid-cols-[minmax(0,1fr)_auto] lg:items-end">
+        <div className="space-y-3"><div className="h-3 w-24 animate-pulse rounded bg-raised" /><div className="h-12 w-2/3 animate-pulse rounded-lg bg-raised" /><div className="h-4 w-1/2 animate-pulse rounded bg-raised" /></div>
+        <div className="grid grid-cols-3 gap-3">{[0, 1, 2].map((i) => <div key={i} className="card h-[72px] animate-pulse sm:min-w-[120px]" />)}</div>
+      </div>
+      <div className="mt-10 grid gap-8 lg:grid-cols-[300px_minmax(0,1fr)]">
+        <div className="hidden space-y-3 lg:block">{[0, 1, 2, 3].map((i) => <div key={i} className="card h-28 animate-pulse" />)}</div>
+        <SkeletonRows />
+      </div>
     </div>
   );
 }

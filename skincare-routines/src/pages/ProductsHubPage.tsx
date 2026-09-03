@@ -1,7 +1,7 @@
 import { useManifest } from '../data/hooks';
 import { Hero } from '../components/layout/Hero';
 import { CategorySections } from '../components/hub/CategorySections';
-import { StatusBlock } from '../components/ui/primitives';
+import { LiveDataBadge, NumberTicker, StatusBlock } from '../components/ui/primitives';
 import { useDevPublish } from '../components/dev/devStore';
 import { useSearchParams } from 'react-router-dom';
 import { SCORE_META } from '../domain/scoreMeta';
@@ -26,7 +26,14 @@ export default function ProductsHubPage() {
         proofs={[`${m.total.toLocaleString('en-IN')} listings · ${m.categories.length} categories`, `${byScope.face.toLocaleString('en-IN')} face · ${byScope.both.toLocaleString('en-IN')} face + body · ${byScope.body.toLocaleString('en-IN')} body`, 'Price shown, never scored']}
         aside={
           <div className="card p-5">
-            <p className="label">How the score is built</p>
+            <div className="flex items-start justify-between gap-3">
+              <div>
+                <p className="label">Listings ranked</p>
+                <p className="mt-1 text-[36px] font-extrabold leading-none text-display"><NumberTicker value={m.total} /></p>
+              </div>
+              <LiveDataBadge capturedAt={m.generatedAt} />
+            </div>
+            <p className="label mt-5 border-t border-line pt-4">How the score is built</p>
             <ul className="mt-3 space-y-3">
               {SCORE_META.map((s) => {
                 const w = Math.round(m.weights[s.key] * 100);
