@@ -52,7 +52,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:ceramides",
    "claim:acne",
@@ -127,7 +126,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:mandelic-acid",
    "ing:aha",
@@ -773,7 +771,6 @@ const CTPRODUCTS = [
   "title": "mCaffeine Coffee Face Wash & Scrub Combo, Reduces Acne Pimple & T …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "format:kit",
@@ -1327,7 +1324,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:roll-on",
@@ -2681,7 +2677,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:scrub",
    "format:kit",
    "ing:coffee",
@@ -2838,7 +2833,6 @@ const CTPRODUCTS = [
   "title": "Phillauri Coffee Face Scrub Exfoliating and Nourishing, Dead Skin …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "ing:coffee",
@@ -2991,7 +2985,6 @@ const CTPRODUCTS = [
   "title": "Phillauri Rice Water Facial Scrub With Fine Granules For Skin Tex …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:balm",
    "format:scrub",
    "format:kit",
@@ -3068,7 +3061,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:clay-mask",
    "format:scrub",
    "format:kit",
@@ -3309,7 +3301,6 @@ const CTPRODUCTS = [
   "title": "Phillauri Papaya Face Scrub Deep Pore Cleaning Scrub For Smooth S …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:scrub",
    "format:kit",
    "ing:turmeric",
@@ -5373,7 +5364,6 @@ const CTPRODUCTS = [
   "title": "Phillauri Papaya Facial Exfoliating Scrub Skin Refresh Scrub For …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:scrub",
    "format:kit",
@@ -5829,7 +5819,6 @@ const CTPRODUCTS = [
   "title": "Phillauri Papaya Face Scrub Skin Texture Smooth Look Scrub For Me …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "format:kit",
@@ -5990,7 +5979,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:scrub",
    "ing:coffee",
    "ing:walnut",
@@ -7597,7 +7585,6 @@ const CTPRODUCTS = [
   "title": "THE MAN COMPANY Glow Pro Charcoal Face Scrub for Men | For Dark S …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "ing:charcoal",
@@ -7881,7 +7868,6 @@ const CTPRODUCTS = [
   "title": "JOVEES Papaya And Honey Daily Use Mud Face Scrub , 100gm Scrub (1 …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:scrub",
    "format:wash",
@@ -8781,7 +8767,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "claim:brightening",
@@ -9076,7 +9061,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "format:kit",
@@ -9921,7 +9905,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "ing:coffee",
@@ -11195,7 +11178,6 @@ const CTPRODUCTS = [
   "title": "KAIASHA Exfoliating Face Scrub For Glowing Skin Tan Removal & Bri …",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:clay-mask",
    "format:scrub",
    "format:kit",
@@ -11278,7 +11260,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:clay-mask",
    "format:scrub",
    "format:wash",
@@ -13299,7 +13280,6 @@ const CTPRODUCTS = [
   "title": "Wiffy Scrub, Coffee Body Exfoliator for Cleansing Natural Exfolia …",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "format:kit",
@@ -13459,7 +13439,6 @@ const CTPRODUCTS = [
   "title": "Wiffy Fruit Face & Body Deep Exfoliating Scrub With Fruit Extract …",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "format:kit",
@@ -13540,7 +13519,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "format:kit",
@@ -13696,7 +13674,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "format:kit",
@@ -13842,7 +13819,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:clay-mask",
    "format:pack",
    "format:scrub",
@@ -14073,7 +14049,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:scrub",
    "format:peel",
    "format:wash",
@@ -14386,7 +14361,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:scrub",
    "format:peel",
    "format:wash",
@@ -14769,7 +14743,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "format:kit",
@@ -15154,7 +15127,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:clay-mask",
    "format:peel",
    "format:wash",
@@ -15395,7 +15367,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:scrub",
    "format:peel",
    "format:wash",
@@ -15774,7 +15745,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:stick",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -16008,7 +15978,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "ing:coffee",
@@ -16320,7 +16289,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:scrub",
    "format:peel",
    "format:wash",
@@ -18210,7 +18178,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:stick",
-   "format:oil",
    "format:scrub",
    "format:peel",
    "format:powder",
@@ -18495,7 +18462,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:foam",
-   "format:oil",
    "format:scrub",
    "format:peel",
    "format:wash",
@@ -18887,7 +18853,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "ing:charcoal",
@@ -19111,7 +19076,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -19265,7 +19229,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -19491,7 +19454,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:peel",
    "format:wash",
@@ -19652,7 +19614,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -20246,7 +20207,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -20742,7 +20702,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:bakuchiol",
    "ing:salicylic-acid-bha",
@@ -22728,7 +22687,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -23042,7 +23000,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:peel",
    "format:wash",
@@ -23879,7 +23836,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:peel",
    "format:kit",
@@ -24255,7 +24211,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -24333,7 +24288,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -24591,7 +24545,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:pack",
    "format:peel",
    "ing:niacinamide",
@@ -25354,7 +25307,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -29719,7 +29671,6 @@ const CTPRODUCTS = [
   "title": "HARMELY HARVEST AHA-BHA 3% Face Wash| Exfoliating Cleanser for Ac …",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "format:roll-on",
@@ -29811,7 +29762,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -30532,7 +30482,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:peel",
    "format:wash",
@@ -30761,7 +30710,6 @@ const CTPRODUCTS = [
   "title": "INTIMIFY Charcoal Peel Off Face Mask Deep cleansing and exfoliati …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -32073,74 +32021,276 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "crusmetic-itm04d18c45afb64",
-  "brand": "CRUSMETIC",
-  "model": "Glycolic Acid 10% Cream for Skin Exfoliating & Brighten …",
-  "price": 225,
+  "id": "glyco-itmf890b40d195c2",
+  "brand": "Glyco",
+  "model": "Glycoliclic Acid Exfoliating Moisturizer For Skin Routine ( …",
+  "price": 158,
   "capacityLine": "30 g",
   "materialLine": "glycolic acid",
-  "featureLine": "Scrub / exfoliant · Paraben-free · ₹750/100g",
-  "highlight": "Live Flipkart listing rated 4.4★ by 30 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "featureLine": "Scrub / exfoliant · ₹527/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)",
-   "Strong buyer rating (4.4)"
+   "Contains evidence-backed actives (per listing)"
   ],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.8,
-   "skin": 4.6,
+   "trust": 5,
+   "skin": 4,
    "ingredients": 5.6,
-   "experience": 4.5
+   "experience": 4.9
   },
   "fullSpec": {
    "quantity": "30 g",
-   "pricePer100": "₹750/100g",
+   "pricePer100": "₹527/100g",
    "format": "Scrub / exfoliant",
    "keyIngredients": "glycolic acid (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/m/n/g/50-glycolic-acid-exfoliating-moisturizer-for-skin-routine-glyco-original-imahq6xatmgb448c.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/glyco-glycolic-6-cream-smooth-skin-maintenance-formula/p/itmf890b40d195c2",
+  "buyStore": "Flipkart",
+  "title": "Glyco Glycoliclic Acid Exfoliating Moisturizer For Skin Routine ( …",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "ing:glycolic-acid",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "free:vegan",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "glyco-itm32c2966135eaa",
+  "brand": "Glyco",
+  "model": "Glyco 6 Skin Exfoliating Cream For Men And Women (50 g)",
+  "price": 158,
+  "capacityLine": "50 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Scrub / exfoliant · ₹316/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 4.5,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹316/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Brightening/glow claim",
    "audience": "Marketed for women",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
-   "rating": "4.4/5 (30 ratings, Flipkart)",
+   "rating": "No rating yet",
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/i/p/30-glycolic-acid-10-cream-for-skin-exfoliating-brightening-original-imahf4yqfdp2qcsu.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/e/j/30-glycolic-acid-10-cream-for-skin-exfoliating-brightening-original-imahf4yqdwpfjcgr.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/b/5/30-glycolic-acid-10-cream-for-skin-exfoliating-brightening-original-imahf4yqhh2sdrrq.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/i/5/30-glycolic-acid-10-cream-for-skin-exfoliating-brightening-original-imahf4yqugh5ewrz.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/8/4/30-glycolic-acid-10-cream-for-skin-exfoliating-brightening-original-imahf4yqsfagducj.jpeg?q=90"
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/w/i/8/50-glyco-6-skin-exfoliating-cream-for-men-and-women-glyco-original-imahq6xaaaqfyyv8.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/crusmetic-glycolic-acid-10-cream-skin-exfoliating-brightening-removes-dark-spots/p/itm04d18c45afb64",
+  "buyUrl": "https://www.flipkart.com/glyco-glycolic-6-cream-dead-skin-removal-smooth-appearance/p/itm32c2966135eaa",
   "buyStore": "Flipkart",
-  "title": "CRUSMETIC Glycolic Acid 10% Cream for Skin Exfoliating & Brighten …",
+  "title": "Glyco Glyco 6 Skin Exfoliating Cream For Men And Women (50 g)",
   "tags": [
-   "scope:both",
+   "scope:face",
    "format:cream",
-   "ing:glycolic-acid",
    "claim:brightening",
-   "claim:de-tan",
-   "claim:dark-spots",
    "claim:exfoliating",
-   "free:paraben",
    "free:vegan",
    "skin:all",
    "aud:women",
    "size:travel",
-   "rating:4.0",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "glyco-itm95627318fa8e7",
+  "brand": "Glyco",
+  "model": "Glycoliclic Acid Skin Cream For Gentle Dead Cell Exfoliatio …",
+  "price": 153,
+  "capacityLine": "30 g",
+  "materialLine": "glycolic acid",
+  "featureLine": "Scrub / exfoliant · ₹510/100g",
+  "highlight": "Live Flipkart listing rated 3.2★ by 11 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (3.2)"
+  ],
+  "scores": {
+   "trust": 4.1,
+   "skin": 4,
+   "ingredients": 5.6,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "30 g",
+   "pricePer100": "₹510/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "glycolic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "3.2/5 (11 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/v/a/x/50-glycolic-acid-skin-cream-for-gentle-dead-cell-exfoliation-original-imahq6xazff2pvux.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/glyco-glycoliclic-acid-skin-cream-gentle-dead-cell-exfoliation/p/itm95627318fa8e7",
+  "buyStore": "Flipkart",
+  "title": "Glyco Glycoliclic Acid Skin Cream For Gentle Dead Cell Exfoliatio …",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "ing:glycolic-acid",
+   "claim:brightening",
+   "claim:exfoliating",
+   "free:vegan",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:low",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "luxiva-itmf4f3b557cd09a",
+  "brand": "luxiva",
+  "model": "Glowell-6 Glycolic Acid 6% w/w Exfoliating & Glow Cream (6 …",
+  "price": 299,
+  "capacityLine": "60 g",
+  "materialLine": "glycolic acid",
+  "featureLine": "Sunscreen · Paraben-free · SPF 30 · ₹498/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 5.3,
+   "ingredients": 5.6,
+   "experience": 5.3
+  },
+  "fullSpec": {
+   "quantity": "60 g",
+   "pricePer100": "₹498/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "glycolic acid (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim, SPF 30",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/i/f/60-glowell-6-glycolic-acid-6-w-w-exfoliating-glow-cream-luxiva-original-imahjfcche6ygwgf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/r/z/60-glowell-6-glycolic-acid-6-w-w-exfoliating-glow-cream-luxiva-original-imahjfccuqgddxny.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/v/s/30-best-skin-acne-rejuvenation-cream-oil-control-shrink-pores-original-imahbsztmnszqb26.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/d/9/75-moimax-oc-oil-control-moisturizer-for-oily-acne-prone-skin-original-imahn7zzgaydfvzr.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/0/t/30-acne-cream-for-scars-acne-pores-cream-thtc-cream-original-imahpg7wb4khz6tn.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/luxiva-glowell-6-glycolic-acid-6-w-w-exfoliating-glow-cream/p/itmf4f3b557cd09a",
+  "buyStore": "Flipkart",
+  "title": "luxiva Glowell-6 Glycolic Acid 6% w/w Exfoliating & Glow Cream (6 …",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "spf:30",
+   "ing:niacinamide",
+   "ing:glycolic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:tinted",
+   "claim:spf-claim",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "skin:oily",
+   "skin:acne-prone",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
    "store:flipkart"
   ],
   "filters": {
    "actives": true,
    "freefrom": true,
    "natural": true,
-   "derm": false,
+   "derm": true,
    "men": false,
    "women": true
   }
@@ -32217,272 +32367,72 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "luxiva-itmf4f3b557cd09a",
-  "brand": "luxiva",
-  "model": "Glowell-6 Glycolic Acid 6% w/w Exfoliating & Glow Cream (6 …",
-  "price": 299,
-  "capacityLine": "60 g",
-  "materialLine": "glycolic acid + vitamin E",
-  "featureLine": "Scrub / exfoliant · Paraben-free · ₹498/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "id": "crusmetic-itm04d18c45afb64",
+  "brand": "CRUSMETIC",
+  "model": "Glycolic Acid 10% Cream for Skin Exfoliating & Brighten …",
+  "price": 225,
+  "capacityLine": "30 g",
+  "materialLine": "glycolic acid",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹750/100g",
+  "highlight": "Live Flipkart listing rated 4.4★ by 30 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [
    "Contains evidence-backed actives (per listing)",
    "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)"
+   "Strong buyer rating (4.4)"
   ],
   "cons": [
    "Marketplace brand — limited track record"
   ],
   "scores": {
-   "trust": 4.4,
-   "skin": 5.3,
-   "ingredients": 6,
-   "experience": 4.9
+   "trust": 4.8,
+   "skin": 4.6,
+   "ingredients": 5.6,
+   "experience": 4.5
   },
   "fullSpec": {
-   "quantity": "60 g",
-   "pricePer100": "₹498/100g",
+   "quantity": "30 g",
+   "pricePer100": "₹750/100g",
    "format": "Scrub / exfoliant",
-   "keyIngredients": "glycolic acid, vitamin E (per listing)",
+   "keyIngredients": "glycolic acid (per listing)",
    "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
+   "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
+   "benefit": "Brightening/glow claim",
    "audience": "Marketed for women",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
-   "rating": "No rating yet",
+   "rating": "4.4/5 (30 ratings, Flipkart)",
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/i/f/60-glowell-6-glycolic-acid-6-w-w-exfoliating-glow-cream-luxiva-original-imahjfcche6ygwgf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/r/z/60-glowell-6-glycolic-acid-6-w-w-exfoliating-glow-cream-luxiva-original-imahjfccuqgddxny.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/v/s/30-best-skin-acne-rejuvenation-cream-oil-control-shrink-pores-original-imahbsztmnszqb26.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/d/9/75-moimax-oc-oil-control-moisturizer-for-oily-acne-prone-skin-original-imahn7zzgaydfvzr.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/0/t/30-acne-cream-for-scars-acne-pores-cream-thtc-cream-original-imahpg7wb4khz6tn.jpeg?q=90"
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/i/p/30-glycolic-acid-10-cream-for-skin-exfoliating-brightening-original-imahf4yqfdp2qcsu.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/e/j/30-glycolic-acid-10-cream-for-skin-exfoliating-brightening-original-imahf4yqdwpfjcgr.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/b/5/30-glycolic-acid-10-cream-for-skin-exfoliating-brightening-original-imahf4yqhh2sdrrq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/i/5/30-glycolic-acid-10-cream-for-skin-exfoliating-brightening-original-imahf4yqugh5ewrz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/8/4/30-glycolic-acid-10-cream-for-skin-exfoliating-brightening-original-imahf4yqsfagducj.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/luxiva-glowell-6-glycolic-acid-6-w-w-exfoliating-glow-cream/p/itmf4f3b557cd09a",
+  "buyUrl": "https://www.flipkart.com/crusmetic-glycolic-acid-10-cream-skin-exfoliating-brightening-removes-dark-spots/p/itm04d18c45afb64",
   "buyStore": "Flipkart",
-  "title": "luxiva Glowell-6 Glycolic Acid 6% w/w Exfoliating & Glow Cream (6 …",
+  "title": "CRUSMETIC Glycolic Acid 10% Cream for Skin Exfoliating & Brighten …",
   "tags": [
    "scope:both",
-   "format:gel",
    "format:cream",
-   "format:oil",
    "ing:glycolic-acid",
-   "ing:vitamin-e",
-   "ing:watermelon",
    "claim:brightening",
-   "claim:acne",
-   "claim:pores",
-   "claim:oil-control",
-   "claim:hydrating",
+   "claim:de-tan",
+   "claim:dark-spots",
    "claim:exfoliating",
    "free:paraben",
-   "free:derm",
    "free:vegan",
-   "skin:oily",
-   "skin:acne-prone",
    "skin:all",
    "aud:women",
-   "size:standard",
-   "rating:none",
+   "size:travel",
+   "rating:4.0",
    "store:flipkart"
   ],
   "filters": {
    "actives": true,
    "freefrom": true,
-   "natural": true,
-   "derm": true,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "glyco-itm95627318fa8e7",
-  "brand": "Glyco",
-  "model": "Glycoliclic Acid Skin Cream For Gentle Dead Cell Exfoliatio …",
-  "price": 153,
-  "capacityLine": "30 g",
-  "materialLine": "glycolic acid",
-  "featureLine": "Scrub / exfoliant · ₹510/100g",
-  "highlight": "Live Flipkart listing rated 3.2★ by 11 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (3.2)"
-  ],
-  "scores": {
-   "trust": 4.1,
-   "skin": 4,
-   "ingredients": 5.6,
-   "experience": 4.5
-  },
-  "fullSpec": {
-   "quantity": "30 g",
-   "pricePer100": "₹510/100g",
-   "format": "Scrub / exfoliant",
-   "keyIngredients": "glycolic acid (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "3.2/5 (11 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/v/a/x/50-glycolic-acid-skin-cream-for-gentle-dead-cell-exfoliation-original-imahq6xazff2pvux.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/glyco-glycoliclic-acid-skin-cream-gentle-dead-cell-exfoliation/p/itm95627318fa8e7",
-  "buyStore": "Flipkart",
-  "title": "Glyco Glycoliclic Acid Skin Cream For Gentle Dead Cell Exfoliatio …",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "ing:glycolic-acid",
-   "claim:brightening",
-   "claim:exfoliating",
-   "free:vegan",
-   "skin:all",
-   "aud:women",
-   "size:travel",
-   "rating:low",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "glyco-itm32c2966135eaa",
-  "brand": "Glyco",
-  "model": "Glyco 6 Skin Exfoliating Cream For Men And Women (50 g)",
-  "price": 158,
-  "capacityLine": "50 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Scrub / exfoliant · ₹316/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 5,
-   "skin": 4,
-   "ingredients": 4.5,
-   "experience": 4.5
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹316/100g",
-   "format": "Scrub / exfoliant",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/w/i/8/50-glyco-6-skin-exfoliating-cream-for-men-and-women-glyco-original-imahq6xaaaqfyyv8.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/glyco-glycolic-6-cream-dead-skin-removal-smooth-appearance/p/itm32c2966135eaa",
-  "buyStore": "Flipkart",
-  "title": "Glyco Glyco 6 Skin Exfoliating Cream For Men And Women (50 g)",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "claim:brightening",
-   "claim:exfoliating",
-   "free:vegan",
-   "skin:all",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "glyco-itmf890b40d195c2",
-  "brand": "Glyco",
-  "model": "Glycoliclic Acid Exfoliating Moisturizer For Skin Routine ( …",
-  "price": 158,
-  "capacityLine": "30 g",
-  "materialLine": "glycolic acid",
-  "featureLine": "Scrub / exfoliant · ₹527/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 5,
-   "skin": 4,
-   "ingredients": 5.6,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "30 g",
-   "pricePer100": "₹527/100g",
-   "format": "Scrub / exfoliant",
-   "keyIngredients": "glycolic acid (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/m/n/g/50-glycolic-acid-exfoliating-moisturizer-for-skin-routine-glyco-original-imahq6xatmgb448c.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/glyco-glycolic-6-cream-smooth-skin-maintenance-formula/p/itmf890b40d195c2",
-  "buyStore": "Flipkart",
-  "title": "Glyco Glycoliclic Acid Exfoliating Moisturizer For Skin Routine ( …",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "ing:glycolic-acid",
-   "claim:brightening",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "free:vegan",
-   "skin:all",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
    "natural": true,
    "derm": false,
    "men": false,
@@ -33984,7 +33934,6 @@ const CTPRODUCTS = [
   "title": "NIVEA Luminous Even Glow 2% AHA Face Wash | Oil-Free Cleanser with Aloe Vera & Guarana Extracts | Deep Cleansing Face Wash for Oily, Normal & Sensitive Skin | Exfoliating Brightening Face Cleanser for Women & Men | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:aha",
    "ing:aloe-vera",
@@ -34124,7 +34073,6 @@ const CTPRODUCTS = [
   "title": "Beardo 3-in-1 Activated Charcoal Face Wash| Deep Cleanse, Exfoliate & Detoxify | All-in-One Face Wash for Oily Skin, Dirt & Pollution Removal | Oil Control Face wash for men 200ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:charcoal",
    "claim:oil-control",
@@ -34656,7 +34604,6 @@ const CTPRODUCTS = [
   "title": "Hyphen Oil Control 2% AHA + BHA, Salicylic Acid Face Wash for Oily Skin & Acne| Daily Exfoliating Cleanser with 2% Niacinamide | Deep Cleanses & Removes Dirt | For Men & Women - 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -35330,7 +35277,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:pha",
    "claim:pores",
@@ -35600,7 +35546,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "ing:niacinamide",
@@ -36204,7 +36149,6 @@ const CTPRODUCTS = [
   "title": "COS-IQ Salicylic Acid Face Wash 2% with 10% Glycolic Acid For All Skin Type | Anti-Acne Exfoliating Face Cleanser for Pimples, Blackheads, Unclogging Pores & Oil Control Cleanser for Women & Men, 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -36357,6 +36301,83 @@ const CTPRODUCTS = [
    "freefrom": false,
    "natural": false,
    "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "re-b0glgctprc",
+  "brand": "RE'",
+  "model": "EQUIL Fruit AHA Face Wash | Daily Exfoliating Cleanser for pigmentation, dullness & uneven…",
+  "price": 310,
+  "capacityLine": "150 ml",
+  "materialLine": "glycolic acid + lactic acid",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹207/100ml",
+  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹207/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.9,
+   "skin": 6.2,
+   "ingredients": 5.5,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "150 ml",
+   "pricePer100": "₹207/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "glycolic acid, lactic acid (per listing)",
+   "freeFrom": "Paraben-free, Sulfate/SLS-free, Alcohol-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51shELqccgL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/51adot7PFvL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61Fq98xdriL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61NvHj7yiPL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/51oeiYRPtqL._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GLGCTPRC",
+  "buyStore": "Amazon",
+  "title": "RE' EQUIL Fruit AHA Face Wash | Daily Exfoliating Cleanser for pigmentation, dullness & uneven skin tone | With Glycolic & Lactic acid from fruit extracts - 150 ml",
+  "tags": [
+   "scope:face",
+   "format:wash",
+   "ing:glycolic-acid",
+   "ing:lactic-acid",
+   "ing:aha",
+   "claim:dark-spots",
+   "claim:pores",
+   "claim:exfoliating",
+   "free:paraben",
+   "free:sulfate",
+   "free:alcohol",
+   "free:mineral-oil",
+   "free:oil-free",
+   "free:derm",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": true,
    "men": false,
    "women": false
   }
@@ -39459,7 +39480,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:glycolic-acid",
    "ing:witch-hazel",
    "claim:brightening",
@@ -40748,7 +40768,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:peel",
    "format:kit",
    "ing:niacinamide",
@@ -40957,7 +40976,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -41383,7 +41401,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -41454,7 +41471,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -42221,6 +42237,76 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0h3q2d7dn",
+  "brand": "Buy",
+  "model": "mCaffeine Guava Tini De-Tan Face Scrub | 5% Physical & Natural Exfoliants | De-Tanned, Smo…",
+  "price": 299,
+  "capacityLine": "100 g",
+  "materialLine": "glycolic acid + lactic acid + caffeine",
+  "featureLine": "Scrub / exfoliant · ₹299/100g",
+  "highlight": "Live Amazon listing rated 4.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 6.6,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹299/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "glycolic acid, lactic acid, caffeine, walnut (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61maIevNaEL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H3Q2D7DN",
+  "buyStore": "Amazon",
+  "title": "Buy mCaffeine Guava Tini De-Tan Face Scrub | 5% Physical & Natural Exfoliants | De-Tanned, Smoother Skin | Pore Cleansing | Removes Blackheads | AHAs - Glycolic & Lactic Acid | Walnut & Apricot | For Women & Men | Suitable for All Skin Types - 100g Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:scrub",
+   "format:wash",
+   "ing:glycolic-acid",
+   "ing:lactic-acid",
+   "ing:caffeine",
+   "ing:walnut",
+   "claim:de-tan",
+   "claim:pores",
+   "claim:exfoliating",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
   "id": "neutrogena-b00791edk6",
   "brand": "Neutrogena",
   "model": "Deep Clean Scrub Blackhead Eliminating Daily Scrub For Face, 100g",
@@ -42281,6 +42367,76 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0h291zm6y",
+  "brand": "Buy",
+  "model": "Mamaearth Mung Bean Pore Cleansing Face Scrub with Mung Bean, AHA BHA - 100g | Face Scrub …",
+  "price": 279,
+  "capacityLine": "100 g",
+  "materialLine": "salicylic acid (BHA)",
+  "featureLine": "Scrub / exfoliant · ₹279/100g",
+  "highlight": "Live Amazon listing rated 4.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.6)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹279/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "salicylic acid (BHA) (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.6/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51V8DQfI+gL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H291ZM6Y",
+  "buyStore": "Amazon",
+  "title": "Buy Mamaearth Mung Bean Pore Cleansing Face Scrub with Mung Bean, AHA BHA - 100g | Face Scrub for Oily Skin | India's 1st Foam Scrub for Deep Pore Cleansing | Gentle Exfoliation | Oil Control | Tan Removal Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:foam",
+   "format:scrub",
+   "format:wash",
+   "ing:salicylic-acid-bha",
+   "ing:aha",
+   "claim:de-tan",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:exfoliating",
+   "skin:oily",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "buy-b09hp14qsq",
   "brand": "Buy",
   "model": "BEARDO De-Tan Face scrub for Men, 100g | Blackhead & Tan Removal | Dual Bead Exfoliation |…",
@@ -42325,7 +42481,6 @@ const CTPRODUCTS = [
   "title": "Buy BEARDO De-Tan Face scrub for Men, 100g | Blackhead & Tan Removal | Dual Bead Exfoliation | Coffee Detox | Oil Control Online at Low Prices in India - Amazon.in",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:scrub",
    "ing:coffee",
    "claim:de-tan",
@@ -42665,6 +42820,70 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false
+  }
+ },
+ {
+  "id": "buy-b0h3pvxpb9",
+  "brand": "Buy",
+  "model": "mCaffeine Brightening Face Scrub | Visible Brighter, Smoother Skin | 5% Natural Exfoliants…",
+  "price": 299,
+  "capacityLine": "100 g",
+  "materialLine": "caffeine + walnut",
+  "featureLine": "Scrub / exfoliant · ₹299/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹299/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "caffeine, walnut (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/6125mrCGnBL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H3PVXPB9",
+  "buyStore": "Amazon",
+  "title": "Buy mCaffeine Brightening Face Scrub | Visible Brighter, Smoother Skin | 5% Natural Exfoliants | Walnut & Apricot | Caffeine | Deeply Cleanses Pores | Gentle Exfoliation | For Women & Men | Suitable for All Skin Types - 100g Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:scrub",
+   "ing:caffeine",
+   "ing:walnut",
+   "claim:brightening",
+   "claim:pores",
+   "claim:exfoliating",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
   }
  },
  {
@@ -43511,6 +43730,73 @@ const CTPRODUCTS = [
   ],
   "filters": {
    "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0fvy4wj6f",
+  "brand": "Buy",
+  "model": "Antinorm Facial in a Flash Face Scrub | De Tan & Dead Skin | 50g | 9 in 1 Enzyme Face Scru…",
+  "price": 1199,
+  "capacityLine": "50 g",
+  "materialLine": "niacinamide + kojic acid",
+  "featureLine": "Scrub / exfoliant · ₹2398/100g",
+  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹2398/100g",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹2398/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "niacinamide, kojic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51HcoWauDkL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FVY4WJ6F",
+  "buyStore": "Amazon",
+  "title": "Buy Antinorm Facial in a Flash Face Scrub | De Tan & Dead Skin | 50g | 9 in 1 Enzyme Face Scrub | Pore Refining | Niacinamide, Kojic Acid | For all Skin Types Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:scrub",
+   "ing:niacinamide",
+   "ing:kojic-acid",
+   "claim:de-tan",
+   "claim:pores",
+   "claim:exfoliating",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
    "freefrom": false,
    "natural": false,
    "derm": false,
@@ -44432,6 +44718,71 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0fxvlwrgq",
+  "brand": "Buy",
+  "model": "Astaberry Apricot Scrub with Honey and Chicory, Deep Cleansing Face Exfoliant for Blackhea…",
+  "price": 145,
+  "capacityLine": "150 ml (pack of 3)",
+  "materialLine": "honey",
+  "featureLine": "Scrub / exfoliant · ₹97/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹97/100ml"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4.7,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "50 ml × 3 pack",
+   "pricePer100": "₹97/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "honey (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/31uti0-arYL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FXVLWRGQ",
+  "buyStore": "Amazon",
+  "title": "Buy Astaberry Apricot Scrub with Honey and Chicory, Deep Cleansing Face Exfoliant for Blackheads and Dead Skin Cells, Natural Skin Care, 50 ML pack of 3 Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:scrub",
+   "format:wash",
+   "format:kit",
+   "ing:honey",
+   "claim:pores",
+   "claim:exfoliating",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "odeon-b07zkn8846",
   "brand": "ODEON",
   "model": "Turmeric & Yogurt Body Scrub (300ml) | Face Scrub for Acne Prone Skin | Gentle Exfoliating…",
@@ -44954,6 +45305,70 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0h5xbvstj",
+  "brand": "Buy",
+  "model": "DR.LADY'S Professional De-Tan Scrub For Face & Body (360 Ml) | Revitalizing Tan Removal | …",
+  "price": 200,
+  "capacityLine": "360 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Scrub / exfoliant · ₹56/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹56/100ml"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "360 ml",
+   "pricePer100": "₹56/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51hxQCpVoCL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H5XBVSTJ",
+  "buyStore": "Amazon",
+  "title": "Buy DR.LADY'S Professional De-Tan Scrub For Face & Body (360 Ml) | Revitalizing Tan Removal | Cleanser,Dead Skin | Blackhead Remover For Deep Exfoliation Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:both",
+   "format:scrub",
+   "format:wash",
+   "claim:de-tan",
+   "claim:pores",
+   "claim:exfoliating",
+   "aud:unisex",
+   "size:xl",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "khadi-b08kjbq9vt",
   "brand": "Khadi",
   "model": "Herbal Natural Apricot & Charcoal Face Scrub For Oily Skin & Normal skin, with Charcoal & …",
@@ -45153,6 +45568,70 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0ghfn4tq4",
+  "brand": "Buy",
+  "model": "QUAT De-Tan Face Scrub for Tan Removal, Deep Cleansing & Brightening | Exfoliating Scrub t…",
+  "price": 229,
+  "capacityLine": "100 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Scrub / exfoliant · ₹229/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹229/100g"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹229/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71WeP8aWuKL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GHFN4TQ4",
+  "buyStore": "Amazon",
+  "title": "Buy QUAT De-Tan Face Scrub for Tan Removal, Deep Cleansing & Brightening | Exfoliating Scrub to Remove Sun Tan, Dead Skin & Dullness | Skin Polishing Scrub – 100 g Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:scrub",
+   "format:wash",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:exfoliating",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "buy-b07j361yw4",
   "brand": "Buy",
   "model": "Azafran Organic Gentle Face Scrub For Daily Use | Remove Blackheads, Dead Skin | Exfoliate…",
@@ -45212,6 +45691,71 @@ const CTPRODUCTS = [
    "actives": false,
    "freefrom": false,
    "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0g6s3vqdd",
+  "brand": "Buy",
+  "model": "QUAT De-Tan Face Scrub for Tan Removal, Deep Cleansing & Brightening | Exfoliating Scrub t…",
+  "price": 229,
+  "capacityLine": "100 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Scrub / exfoliant · ₹229/100g",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹229/100g",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹229/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61II2QaEMRL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G6S3VQDD",
+  "buyStore": "Amazon",
+  "title": "Buy QUAT De-Tan Face Scrub for Tan Removal, Deep Cleansing & Brightening | Exfoliating Scrub to Remove Sun Tan, Dead Skin & Dullness | Skin Polishing Scrub – 100 g Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:scrub",
+   "format:wash",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:exfoliating",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
    "derm": false,
    "men": false,
    "women": false
@@ -45615,6 +46159,71 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0g6s7z2nk",
+  "brand": "Buy",
+  "model": "QUAT Strawberry Face Scrub for Deep Cleansing, Exfoliation & Glow | Strawberry Extract Scr…",
+  "price": 199,
+  "capacityLine": "100 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Scrub / exfoliant · ₹199/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹199/100g"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹199/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/615kMCc32bL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G6S7Z2NK",
+  "buyStore": "Amazon",
+  "title": "Buy QUAT Strawberry Face Scrub for Deep Cleansing, Exfoliation & Glow | Strawberry Extract Scrub to Remove Dead Skin, Blackheads & Dullness | Gentle Skin Polishing Scrub – 100 g Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:scrub",
+   "format:wash",
+   "ing:strawberry",
+   "claim:brightening",
+   "claim:pores",
+   "claim:exfoliating",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "papaya-b0gccrl2m7",
   "brand": "Papaya",
   "model": "Face Scrub, Tan Removal, Exfoliating and Brightening, Moisturizing, 60g",
@@ -45738,6 +46347,71 @@ const CTPRODUCTS = [
   ],
   "filters": {
    "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0g6s3ts58",
+  "brand": "Buy",
+  "model": "QUAT Papaya Face Scrub for De-Tan, Brightening & Smooth Skin | Exfoliating Papaya Enzyme S…",
+  "price": 229,
+  "capacityLine": "100 g",
+  "materialLine": "papaya",
+  "featureLine": "Scrub / exfoliant · ₹229/100g",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹229/100g",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹229/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "papaya (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61gu0+2Uf9L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G6S3TS58",
+  "buyStore": "Amazon",
+  "title": "Buy QUAT Papaya Face Scrub for De-Tan, Brightening & Smooth Skin | Exfoliating Papaya Enzyme Scrub to Remove Dead Skin, Dullness & Impurities – 100 g Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:scrub",
+   "ing:papaya",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:exfoliating",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
    "freefrom": false,
    "natural": false,
    "derm": false,
@@ -45998,6 +46672,69 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0gjs14lwz",
+  "brand": "Buy",
+  "model": "Edith Naturals De-Tan Scrub, Face Glow & Tan Removal, Fades Tan & Repairs Sun Damage, 100 …",
+  "price": 199,
+  "capacityLine": "100 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Scrub / exfoliant · ₹199/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹199/100g"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4.3,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹199/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41jBLvr85PL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GJS14LWZ",
+  "buyStore": "Amazon",
+  "title": "Buy Edith Naturals De-Tan Scrub, Face Glow & Tan Removal, Fades Tan & Repairs Sun Damage, 100 gm Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:scrub",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:barrier",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "neem-b09wrcpvjn",
   "brand": "Neem",
   "model": "Face Scrub - Natural Exfoliating Scrub for Clear, Radiant Skin | Herbal Facial Scrub with …",
@@ -46127,6 +46864,72 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true
+  }
+ },
+ {
+  "id": "buy-b0ghfyvkt4",
+  "brand": "Buy",
+  "model": "QUAT Vitamin C Face Scrub | Brightening & De-Tan Exfoliating Scrub for Glowing Skin | Remo…",
+  "price": 229,
+  "capacityLine": "100 g",
+  "materialLine": "vitamin C",
+  "featureLine": "Scrub / exfoliant · ₹229/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹229/100g",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹229/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71eB4RSsBtL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GHFYVKT4",
+  "buyStore": "Amazon",
+  "title": "Buy QUAT Vitamin C Face Scrub | Brightening & De-Tan Exfoliating Scrub for Glowing Skin | Removes Dead Skin, Dullness & Impurities | For All Skin Types | 100 g Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:scrub",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:exfoliating",
+   "skin:all",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
   }
  },
  {
@@ -46642,6 +47445,209 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0gsk9qn5h",
+  "brand": "Buy",
+  "model": "KAVITA'S HERBALS Papaya Facial Scrub for Gentle Exfoliation & Skin Renewal, 100 g Online a…",
+  "price": 226,
+  "capacityLine": "100 g",
+  "materialLine": "papaya",
+  "featureLine": "Scrub / exfoliant · ₹226/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹226/100g"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4.7,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹226/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "papaya (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51CouA-cLvL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GSK9QN5H",
+  "buyStore": "Amazon",
+  "title": "Buy KAVITA'S HERBALS Papaya Facial Scrub for Gentle Exfoliation & Skin Renewal, 100 g Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:scrub",
+   "ing:papaya",
+   "claim:exfoliating",
+   "claim:ayurvedic",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0g6sbvsbl",
+  "brand": "Buy",
+  "model": "QUAT Walnut Face Scrub for Deep Exfoliation, Blackhead Removal & Smooth Skin | Natural Wal…",
+  "price": 229,
+  "capacityLine": "100 g",
+  "materialLine": "walnut",
+  "featureLine": "Scrub / exfoliant · ₹229/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹229/100g"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4.7,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹229/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "walnut (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71aang99XcL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G6SBVSBL",
+  "buyStore": "Amazon",
+  "title": "Buy QUAT Walnut Face Scrub for Deep Exfoliation, Blackhead Removal & Smooth Skin | Natural Walnut Shell Scrub to Remove Dead Skin, Dirt & Impurities – 100 g Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:scrub",
+   "ing:walnut",
+   "claim:pores",
+   "claim:exfoliating",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0fn7k3jx5",
+  "brand": "Buy",
+  "model": "DR.RASHEL Rice water Face Scrub For Men & Women | Hydrating & Moisturizer Scrub | Cleanser…",
+  "price": 325,
+  "capacityLine": "760 ml (pack of 2)",
+  "materialLine": "rice water",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹43/100ml",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹43/100ml",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.2,
+   "skin": 5.3,
+   "ingredients": 4.7,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "380 ml × 2 pack",
+   "pricePer100": "₹43/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "rice water (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71Tjuw2RJmL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51nu-T7E3vL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61xe7AKIjnL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61VmM4S0SRL._SL1001_.jpg",
+   "https://m.media-amazon.com/images/I/61yZKOta7EL._SL1001_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FN7K3JX5",
+  "buyStore": "Amazon",
+  "title": "Buy DR.RASHEL Rice water Face Scrub For Men & Women | Hydrating & Moisturizer Scrub | Cleanser Scrub For Deep Exfoliation & soothnes | Dead Skin Cell Remover Facial Scrub For All Skin Types | 380ml Each | Pack of 2 Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "format:cream",
+   "format:scrub",
+   "format:wash",
+   "format:kit",
+   "ing:rice-water",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "free:paraben",
+   "free:derm",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
   "id": "buy-b08m4b7k16",
   "brand": "Buy",
   "model": "DR.RASHEL Almond Scrub For Face & Body (380 Ml) | All Skin |Cleanser Scrub For Deep Exfoli…",
@@ -47008,7 +48014,6 @@ const CTPRODUCTS = [
   "title": "Ultra Glow Brightening Face Scrub for Men | Removes Tan, Blackheads & Dead Skin | Oil Control & Deep Exfoliation | Natural Herbal Formula | For All Skin Types | 100g",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:scrub",
    "claim:brightening",
    "claim:pores",
@@ -47627,6 +48632,70 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0gh83gdp1",
+  "brand": "Buy",
+  "model": "RECLUSE Orange Peeling Gel, Deep Exfoliating Cleanser for Face and Body, Orange Enzymes Ex…",
+  "price": 342,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Scrub / exfoliant",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4.3,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61vO9K6ekAL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GH83GDP1",
+  "buyStore": "Amazon",
+  "title": "Buy RECLUSE Orange Peeling Gel, Deep Exfoliating Cleanser for Face and Body, Orange Enzymes Exfoliating Gel, Natural Face Scrub, Deep Cleansing Moisturizing Facial Exfoliator for All Skin Types Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:scrub",
+   "format:peel",
+   "format:wash",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "skin:all",
+   "aud:unisex",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "buy-b0g6rfpnm4",
   "brand": "Buy",
   "model": "QUAT Rice Face Scrub for Brightening, De-Tan & Smooth Skin | Gentle Exfoliating Rice Extra…",
@@ -47992,7 +49061,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:stick",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "ing:charcoal",
@@ -48665,6 +49733,71 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0h165bbpg",
+  "brand": "Buy",
+  "model": "Avaiya Orange Enzymes Exfoliating Gel for Face & Body | Deep Cleansing Moisturizing Facial…",
+  "price": 286,
+  "capacityLine": "100 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Scrub / exfoliant · ₹286/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹286/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61-Ov3j3DDL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H165BBPG",
+  "buyStore": "Amazon",
+  "title": "Buy Avaiya Orange Enzymes Exfoliating Gel for Face & Body | Deep Cleansing Moisturizing Facial Exfoliator | Dead Skin Remover | Brightening & Pore Cleansing Scrub for All Skin Types (100g) Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:scrub",
+   "format:wash",
+   "claim:brightening",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "skin:all",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "orange-b0hf8734r8",
   "brand": "Orange",
   "model": "Enzymes Exfoliating Gel for Face & Body | Vitamin C Brightening Face Scrub | Dead Skin Rem…",
@@ -48858,6 +49991,74 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true
+  }
+ },
+ {
+  "id": "buy-b0fn7dr352",
+  "brand": "Buy",
+  "model": "DR.RASHEL Shea Butter Scrub | Face & Body Exfoliating Scrub | Deep Cleansing & Dead Skin R…",
+  "price": 405,
+  "capacityLine": "1140 ml (pack of 3)",
+  "materialLine": "shea butter",
+  "featureLine": "Scrub / exfoliant · ₹36/100ml",
+  "highlight": "Live Amazon listing rated 3.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹36/100ml"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (3.0)",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "380 ml × 3 pack",
+   "pricePer100": "₹36/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "shea butter (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71VK78iosyL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FN7DR352",
+  "buyStore": "Amazon",
+  "title": "Buy DR.RASHEL Shea Butter Scrub | Face & Body Exfoliating Scrub | Deep Cleansing & Dead Skin Remover | Tan Removal & Smooth Skin | Blackhead Remover for All | 380ml Each | Pack of 3 Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:both",
+   "format:balm",
+   "format:scrub",
+   "format:wash",
+   "format:kit",
+   "ing:shea-butter",
+   "claim:de-tan",
+   "claim:pores",
+   "claim:exfoliating",
+   "aud:unisex",
+   "size:xl",
+   "rating:low",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
   }
  },
  {
@@ -49312,6 +50513,72 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true
+  }
+ },
+ {
+  "id": "buy-b0fmrwg6yk",
+  "brand": "Buy",
+  "model": "DR.RASHEL Exfoliating Gold Scrub For Face & Body | With Apricot & Walnut | Deep Exfoliatio…",
+  "price": 405,
+  "capacityLine": "1140 ml (pack of 3)",
+  "materialLine": "walnut",
+  "featureLine": "Scrub / exfoliant · ₹36/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹36/100ml"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "380 ml × 3 pack",
+   "pricePer100": "₹36/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "walnut (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71WybOEN+jL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FMRWG6YK",
+  "buyStore": "Amazon",
+  "title": "Buy DR.RASHEL Exfoliating Gold Scrub For Face & Body | With Apricot & Walnut | Deep Exfoliation | Tan & Dead Skin Removal | Blackhead Cleanser | 380ml | Pack of 3 Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:both",
+   "format:scrub",
+   "format:wash",
+   "format:kit",
+   "ing:walnut",
+   "ing:gold",
+   "claim:pores",
+   "claim:exfoliating",
+   "aud:unisex",
+   "size:xl",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
   }
  },
  {
@@ -50316,7 +51583,6 @@ const CTPRODUCTS = [
   "title": "Joy Exfoliating Charcoal Face Scrub for Men & Women (200gm) | Oil Control Scrub For Face with Tea Tree | Detoxifies & Purifies All Skin Types | 100% Vegan; Gentle on Skin",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:scrub",
    "ing:tea-tree",
    "ing:charcoal",
@@ -51034,7 +52300,6 @@ const CTPRODUCTS = [
   "title": "Naturali Exfoliating Face Scrub With Walnut & Cocoa | Deeply Hydrates Skin | Nourishes Dry Skin | Paraben & Mineral Oil Free | 100g",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:scrub",
    "ing:walnut",
    "ing:cocoa-butter",
@@ -52022,7 +53287,6 @@ const CTPRODUCTS = [
   "title": "Iron & Oak Deep Clean Scrub | Exfoliating Face Scrub | Tan Removal | 100 g | Niacinamide | Walnut & Papaya Extract | Blackheads & Whiteheads | Excess Oil Control | Deep Cleansing",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "ing:niacinamide",
@@ -52355,7 +53619,6 @@ const CTPRODUCTS = [
   "title": "Face Scrub with AHA & Tea Tree Extract | Exfoliating Scrub for Acne, Blackheads & Dead Skin | Brightening & Oil Control | Niacinamide Formula | All Skin Types | Men & Women - 100 ML",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:scrub",
    "ing:niacinamide",
    "ing:aha",
@@ -56389,7 +57652,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:peel",
    "format:wash",
    "claim:pores",
@@ -62357,7 +63619,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:peel",
    "format:wash",
    "format:kit",
@@ -68356,7 +69617,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -68424,7 +69684,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:peel",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -69110,7 +70369,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -70599,7 +71857,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -71760,7 +73017,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -72033,7 +73289,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:zinc",
    "claim:acne",
@@ -72517,7 +73772,6 @@ const CTPRODUCTS = [
   "title": "Yubari’s Kino Tree Face Wash with 2% Salicylic Acid & Green Tea Extract | Deep Cleansing Oil Control Face Wash for Acne, Pimples & Blackheads | Gentle Exfoliating Cleanser for Oily & Acne-Prone Skin, 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:green-tea",
@@ -72868,7 +74122,6 @@ const CTPRODUCTS = [
   "title": "Rotex Aczee Beta Skin Whitening Face Wash – Salicylic Acid 2% with Aloe Vera | Deep Cleansing, Oil Control & Skin Brightening | Gentle Exfoliating Face Wash for All Skin Types | 60g (Pack of 2)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -73141,7 +74394,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -73412,7 +74664,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:pha",
@@ -73550,7 +74801,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:pha",
    "claim:pores",
@@ -73810,7 +75060,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -74345,7 +75594,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -74414,7 +75662,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -74759,7 +76006,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -74829,7 +76075,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -74967,7 +76212,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -75713,7 +76957,6 @@ const CTPRODUCTS = [
   "title": "Purifying Kaolin Clay Mask & Mud Face Mask - Blackhead Remover, Oil Control for Sensitive/Oily/Dry Skin | Detoxifying Scrub & Pore Cleaner | Helps Reduce Pores & Acne | 3.58oz 100g",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:scrub",
    "ing:clay",
@@ -76054,7 +77297,6 @@ const CTPRODUCTS = [
   "title": "Mraada Glow Ritual Face Mask 100g | Natural Glow & Deep Cleansing Face Pack | Exfoliating, Skin Brightening & Pore Purifying Clay Mask | Oil Control & Radiant Skin Care for All Skin Types",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:pack",
    "format:wash",
@@ -76189,7 +77431,6 @@ const CTPRODUCTS = [
   "title": "Korean Clay Mask Powder 30g Collagen Face Mask for Glass Skin Glow Deep Cleansing Oil Control, Pore Minimizing, Skin Tightening White Clay, Exfoliating Face Mask for Women & Men",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:powder",
    "format:wash",
@@ -76258,7 +77499,6 @@ const CTPRODUCTS = [
   "title": "Innisfree Super Volcanic Pore Clay Mask 2X 100ml | Premium Korean Skincare with Volcanic Clusters & AHA | Triple Exfoliation for Deep Pore Cleansing, Oil Control & Smoother Skin | For Oily & Combination Skin",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:clay-mask",
    "format:wash",
    "ing:aha",
@@ -81152,6 +82392,77 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0h2vjkryw",
+  "brand": "Buy",
+  "model": "WishCare SPF 50 Sunscreen Body Lotion & AHA BHA Exfoliating Body Lotion Combo | Broad Spec…",
+  "price": 759,
+  "capacityLine": "400 ml (pack of 2)",
+  "materialLine": "salicylic acid (BHA)",
+  "featureLine": "Sunscreen · SPF 50 · ₹190/100ml",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹190/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.7,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "200 ml × 2 pack",
+   "pricePer100": "₹190/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "salicylic acid (BHA) (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51ApdjXu4hL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H2VJKRYW",
+  "buyStore": "Amazon",
+  "title": "Buy WishCare SPF 50 Sunscreen Body Lotion & AHA BHA Exfoliating Body Lotion Combo | Broad Spectrum UVA/UVB Protection with Gentle Chemical Exfoliation for Smooth, Hydrated & Even-Toned Skin | Pack of 2 (200ml each) Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:kit",
+   "spf:50",
+   "ing:salicylic-acid-bha",
+   "ing:aha",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "cinnamon-b0dd43ly3s",
   "brand": "Cinnamon",
   "model": "Silk Body Polishing Lotion, 100 ml, Anti-Tanning, Heals & Prevents Acne, Skin Exfoliation",
@@ -81269,6 +82580,69 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:xl",
    "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0gy52v9l7",
+  "brand": "Buy",
+  "model": "Cetaphil Moisturising Cream 250g & Cetaphil Gentle Exfoliating SA Lotion 236ml Combo Onlin…",
+  "price": 2540,
+  "capacityLine": "250 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Scrub / exfoliant · ₹1016/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1016/100g",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "250 g",
+   "pricePer100": "₹1016/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/31+3ryq-8DL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GY52V9L7",
+  "buyStore": "Amazon",
+  "title": "Buy Cetaphil Moisturising Cream 250g & Cetaphil Gentle Exfoliating SA Lotion 236ml Combo Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:lotion",
+   "format:kit",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
    "store:amazon"
   ],
   "filters": {
@@ -84390,7 +85764,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -84721,7 +86094,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:lactic-acid",
    "ing:hyaluronic-acid",
@@ -86656,6 +88028,67 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "cetaphil-b0gxp5skt1",
+  "brand": "Cetaphil",
+  "model": "Moisturising Cream 453g & Cetaphil Gentle Exfoliating SA Lotion 236ml Combo",
+  "price": 2991,
+  "capacityLine": "453 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Scrub / exfoliant · ₹660/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.7,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "453 g",
+   "pricePer100": "₹660/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51dCqJY-QiL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GXP5SKT1",
+  "buyStore": "Amazon",
+  "title": "Cetaphil Moisturising Cream 453g & Cetaphil Gentle Exfoliating SA Lotion 236ml Combo",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:lotion",
+   "format:kit",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "aud:unisex",
+   "size:xl",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "glyco-6-b0hfcv288d",
   "brand": "Glyco-6",
   "model": "Glycolic Acid Cream 6% w/w (30g) - Unscented Exfoliating Cream for Clear, Youthful, Radian…",
@@ -87103,7 +88536,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -87844,7 +89276,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "format:kit",
@@ -88761,7 +90192,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:peel",
    "ing:lactic-acid",
@@ -89606,7 +91036,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "claim:brightening",
    "claim:anti-aging",
@@ -89979,7 +91408,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:aloe-vera",
@@ -90060,7 +91488,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:sheet-mask",
    "format:peel-off",
    "format:pack",
@@ -90227,7 +91654,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:stick",
-   "format:oil",
    "format:sheet-mask",
    "format:clay-mask",
    "format:peel-off",
@@ -90314,7 +91740,6 @@ const CTPRODUCTS = [
   "title": "eyuxee turmeric kojic acid exfoliating face pads for dark spots & …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -90648,7 +92073,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:stick",
-   "format:oil",
    "format:sheet-mask",
    "format:peel-off",
    "format:pack",
@@ -90937,7 +92361,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "format:wash",
    "format:roll-on",
    "format:kit",
@@ -92206,7 +93629,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:peel",
    "ing:salicylic-acid-bha",
@@ -93055,7 +94477,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "claim:brightening",
@@ -93349,7 +94770,6 @@ const CTPRODUCTS = [
   "title": "La Era AHA BHA PHA | Exfoliating & Oil Control | For Clear, Glow …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -93504,7 +94924,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -93999,7 +95418,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:lactic-acid",
    "claim:brightening",
    "claim:anti-aging",
@@ -94067,7 +95485,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:lactic-acid",
    "claim:brightening",
    "claim:dark-spots",
@@ -94944,7 +96361,6 @@ const CTPRODUCTS = [
   "title": "Gonegal Multi-Purpose Face Cleansing Sponge Pad for Exfoliating M …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:pads",
    "format:wash",
    "format:kit",
@@ -96489,7 +97905,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "claim:oil-control",
    "claim:exfoliating",
@@ -96636,7 +98051,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:pads",
    "format:wash",
    "ing:salicylic-acid-bha",
@@ -96798,7 +98212,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -96955,7 +98368,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:salicylic-acid-bha",
@@ -97100,7 +98512,6 @@ const CTPRODUCTS = [
   "title": "Clayree Orange Peel Powder | Natural Exfoliator To Improve Skin T …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -97266,7 +98677,6 @@ const CTPRODUCTS = [
   "title": "Neuherbs Orange Peel Powder | Natural Exfoliator To Improve Skin …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel",
    "format:powder",
    "format:wash",
@@ -97339,7 +98749,6 @@ const CTPRODUCTS = [
   "title": "Ordershock Pure Orange Peel Powder Natural Exfoliating Agent for …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:peel",
    "format:powder",
@@ -97417,7 +98826,6 @@ const CTPRODUCTS = [
   "title": "HALOVEDA Orange Peel Powder for Skin Exfoliation Radiant Glow Bri …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -97499,7 +98907,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:clay-mask",
    "format:pack",
    "format:scrub",
@@ -98490,7 +99897,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:balm",
    "format:scrub",
    "format:wash",
@@ -98930,7 +100336,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "format:kit",
@@ -99007,7 +100412,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:stick",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -100891,7 +102295,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -100971,7 +102374,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -101666,7 +103068,6 @@ const CTPRODUCTS = [
   "title": "Everyuth Naturals Chocolate Scrub,Neem Face Wash & Peel Off Mask …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -107486,7 +108887,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:clay-mask",
    "format:scrub",
    "format:wash",
@@ -107812,7 +109212,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:green-tea",
@@ -107975,7 +109374,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -108717,7 +110115,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "format:kit",
@@ -108804,7 +110201,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "format:kit",
@@ -108889,7 +110285,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "format:kit",
@@ -109003,6 +110398,307 @@ const CTPRODUCTS = [
   ],
   "filters": {
    "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "neev-itm7a195e47c93ac",
+  "brand": "Neev",
+  "model": "Neem Face Scrub Soap 50gm (50 g)",
+  "price": 128,
+  "capacityLine": "150 g (pack of 3)",
+  "materialLine": "sandalwood + rose + charcoal",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹85/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹85/100g",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4.6,
+   "ingredients": 6.3,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "50 g × 3 pack",
+   "pricePer100": "₹85/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "sandalwood, rose, charcoal, clay/mud, neem (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/soap/j/8/p/1-50-neem-face-scrub-soap-50gm-neev-original-imahk37y2uhmnmdf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/soap/v/9/o/1-50-neem-face-scrub-soap-50gm-neev-original-imahk37yynjwkwkq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/soap/g/0/n/1-50-kumkumadi-masoor-face-scrub-soap-removes-tan-dead-skin-50g-original-imahk23guaxrhugq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/kuvkcy80/soap/u/z/l/1-100-kumkumadi-face-wash-soap-bar-saffron-and-jasmine-neev-original-imag7wjub9b3n4um.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/neev-neem-face-scrub-soap-50gm/p/itm7a195e47c93ac",
+  "buyStore": "Flipkart",
+  "title": "Neev Neem Face Scrub Soap 50gm (50 g)",
+  "tags": [
+   "scope:face",
+   "format:oil",
+   "format:clay-mask",
+   "format:scrub",
+   "format:powder",
+   "format:bar",
+   "format:wash",
+   "format:kit",
+   "ing:sandalwood",
+   "ing:rose",
+   "ing:charcoal",
+   "ing:clay",
+   "ing:neem",
+   "ing:coconut",
+   "claim:acne",
+   "claim:pores",
+   "claim:exfoliating",
+   "claim:ayurvedic",
+   "free:paraben",
+   "free:vegan",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "neev-itmfc4edfab0c46b",
+  "brand": "Neev",
+  "model": "Face Scrub Powder For Deep Pore Cleansing Inspired By Ayurve …",
+  "price": 130,
+  "capacityLine": "50 g",
+  "materialLine": "rice water",
+  "featureLine": "Mask / pack · Paraben-free · ₹260/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4.6,
+   "ingredients": 4.7,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹260/100g",
+   "format": "Mask / pack",
+   "keyIngredients": "rice water (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "India"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/kqwobrk0/face-pack/v/7/q/50-face-scrub-powder-for-deep-pore-cleansing-inspired-by-original-imag4tg9j8bbwpjc.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/kqwobrk0/face-pack/j/r/d/50-face-scrub-powder-for-deep-pore-cleansing-inspired-by-original-imag4tg95nqfbxfy.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/k9d3p8w0/face-pack/z/h/a/50-masoor-manjishtha-handmade-face-pack-powder-neev-original-imafr6ecpamt2gfx.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/face-pack/i/d/c/350-pure-rice-powder-for-face-pack-skin-care-powder-h-nat-original-imahzftuxqeaqzmk.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/face-pack/p/u/p/500-excellent-herbal-orange-peel-powder-500-gm-for-face-glow-original-imahpyz86geengmy.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/neev-face-scrub-powder-deep-pore-cleansing-inspired-ayurveda/p/itmfc4edfab0c46b",
+  "buyStore": "Flipkart",
+  "title": "Neev Face Scrub Powder For Deep Pore Cleansing Inspired By Ayurve …",
+  "tags": [
+   "scope:face",
+   "format:pack",
+   "format:scrub",
+   "format:peel",
+   "format:powder",
+   "format:wash",
+   "ing:collagen",
+   "ing:rice-water",
+   "claim:brightening",
+   "claim:acne",
+   "claim:pores",
+   "claim:korean",
+   "claim:ayurvedic",
+   "free:paraben",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "neev-itm7bb7514afd1df",
+  "brand": "Neev",
+  "model": "Kumkumadi Masoor Face Scrub Soap ' Removes Tan & Dead Skin 5 …",
+  "price": 126,
+  "capacityLine": "50 g",
+  "materialLine": "aloe vera + saffron + sandalwood",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹252/100g",
+  "highlight": "Live Flipkart listing rated 4.1★ by 54 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 4.6,
+   "ingredients": 6.3,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹252/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "aloe vera, saffron, sandalwood, kumkumadi, almond (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "4.1/5 (54 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/soap/g/0/n/1-50-kumkumadi-masoor-face-scrub-soap-removes-tan-dead-skin-50g-original-imahk23guaxrhugq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/soap/m/r/x/1-1-kumkumadi-face-scrub-soap-neev-original-imah3u8cpthvyhmz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/soap/6/1/x/1-50-kumkumadi-masoor-face-scrub-soap-removes-tan-dead-skin-50g-original-imahk23gqpzykccq.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/neev-kumkumadi-masoor-face-scrub-soap-removes-tan-dead-skin-50g/p/itm7bb7514afd1df",
+  "buyStore": "Flipkart",
+  "title": "Neev Kumkumadi Masoor Face Scrub Soap ' Removes Tan & Dead Skin 5 …",
+  "tags": [
+   "scope:face",
+   "format:oil",
+   "format:scrub",
+   "format:powder",
+   "format:bar",
+   "ing:aloe-vera",
+   "ing:saffron",
+   "ing:sandalwood",
+   "ing:kumkumadi",
+   "ing:almond",
+   "claim:exfoliating",
+   "free:paraben",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "toovus-itmdec507b591717",
+  "brand": "TOOVUS",
+  "model": "Glycolic Acid 7%Toner,Resurfacing SolutionFacial Exfoliati …",
+  "price": 200,
+  "capacityLine": "200 ml",
+  "materialLine": "glycolic acid",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹100/100ml",
+  "highlight": "Live Flipkart listing rated 4★ by 584 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹100/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.2,
+   "skin": 4.6,
+   "ingredients": 5.6,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹100/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "glycolic acid (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4/5 (584 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/j/i/k/100-glycolic-acid-7-toner-glycolic-acid-7-toning-resurfacing-original-imah8dhyxm2ynrud.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/l/1/j/100-glycolic-acid-7-toner-glycolic-acid-7-toning-resurfacing-original-imah8dhy8ztzh36t.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/s/l/x/200-glycolic-acid-7-toner-resurfacing-solutionfacial-exfoliation-original-imah8vdm2edaps4u.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/r/n/1/200-glycolic-acid-7-toner-resurfacing-solutionfacial-exfoliation-original-imah8vdm4ytfqhhx.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/k/e/h/200-daily-renewal-toner-with-glycolic-acid-for-skin-radiance-original-imahgyg7bky9fggt.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/toovus-glycolic-acid-7-toner-resurfacing-solutionfacial-exfoliation-your-skin-men-women/p/itmdec507b591717",
+  "buyStore": "Flipkart",
+  "title": "TOOVUS Glycolic Acid 7%Toner,Resurfacing SolutionFacial Exfoliati …",
+  "tags": [
+   "scope:face",
+   "format:toner",
+   "format:pack",
+   "ing:glycolic-acid",
+   "claim:exfoliating",
+   "free:paraben",
+   "free:vegan",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
    "freefrom": true,
    "natural": true,
    "derm": false,
@@ -109923,7 +111619,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:glycolic-acid",
    "ing:cucumber",
    "claim:brightening",
@@ -111904,7 +113599,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:pads",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -112045,7 +113739,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:pads",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -113606,7 +115299,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:peel",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -115503,7 +117195,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:serum",
    "format:toner",
-   "format:oil",
    "format:pads",
    "format:kit",
    "ing:pha",
@@ -116834,72 +118525,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "re-b0glgctprc",
-  "brand": "RE'",
-  "model": "EQUIL Fruit AHA Face Wash | Daily Exfoliating Cleanser for pigmentation, dullness & uneven…",
-  "price": 310,
-  "capacityLine": "150 ml",
-  "materialLine": "glycolic acid + lactic acid",
-  "featureLine": "Scrub / exfoliant · ₹207/100ml",
-  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹207/100ml",
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 4.4,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.2
-  },
-  "fullSpec": {
-   "quantity": "150 ml",
-   "pricePer100": "₹207/100ml",
-   "format": "Scrub / exfoliant",
-   "keyIngredients": "glycolic acid, lactic acid (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51shELqccgL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GLGCTPRC",
-  "buyStore": "Amazon",
-  "title": "RE' EQUIL Fruit AHA Face Wash | Daily Exfoliating Cleanser for pigmentation, dullness & uneven skin tone | With Glycolic & Lactic acid from fruit extracts - 150 ml",
-  "tags": [
-   "scope:face",
-   "format:wash",
-   "ing:glycolic-acid",
-   "ing:lactic-acid",
-   "ing:aha",
-   "claim:dark-spots",
-   "claim:exfoliating",
-   "aud:unisex",
-   "size:large",
-   "rating:4.0",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
-  }
- },
- {
   "id": "gentle-b0fkn1pzrd",
   "brand": "Gentle",
   "model": "Exfoliating Peel with Lactic, Mandelic & Azelaic Acids | Shea Butter & Water Lily | 98% Na…",
@@ -117102,69 +118727,6 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false
-  }
- },
- {
-  "id": "mcaffeine-b0h3pvxpb9",
-  "brand": "Mcaffeine",
-  "model": "Brightening Face Scrub | Visible Brighter, Smoother Skin | 5% Natural Exfoliants | Walnut …",
-  "price": 299,
-  "capacityLine": "100 g",
-  "materialLine": "caffeine + walnut",
-  "featureLine": "Scrub / exfoliant · ₹299/100g",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 5.7,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.5
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹299/100g",
-   "format": "Scrub / exfoliant",
-   "keyIngredients": "caffeine, walnut (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/6125mrCGnBL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H3PVXPB9",
-  "buyStore": "Amazon",
-  "title": "mCaffeine Brightening Face Scrub | Visible Brighter, Smoother Skin | 5% Natural Exfoliants | Walnut & Apricot | Caffeine | Deeply Cleanses Pores | Gentle Exfoliation | For Women & Men | Suitable for All Skin Types - 100g",
-  "tags": [
-   "scope:face",
-   "format:scrub",
-   "ing:caffeine",
-   "ing:walnut",
-   "claim:brightening",
-   "claim:pores",
-   "claim:exfoliating",
-   "skin:all",
-   "aud:women",
-   "size:standard",
-   "rating:none",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true
   }
  },
  {
@@ -118954,7 +120516,6 @@ const CTPRODUCTS = [
   "title": "La Era 3% AHA+BHA&PHA Skin Exfoliating Face Wash | Reduces Hyperpigmentation | Gently Exfoliates for Oil-Free Skin | with Witch Hazel Extract | 200ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -123081,7 +124642,6 @@ const CTPRODUCTS = [
   "title": "Kojic Acid & Turmeric Cleansing Pads – Exfoliating Face Pads for Brightening, Dark Spot Remover, Hyperpigmentation Treatment, Deep Cleansing & Oil Control – Infused with Vitamin C & Chamomile (60 PCS) (PACK OF 1)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:pads",
    "format:wash",
    "format:kit",
@@ -123765,7 +125325,6 @@ const CTPRODUCTS = [
   "title": "DEAVM Kojic Acid & Turmeric Cleansing Pads – Exfoliating Face Pads with Vitamin C, B5 & Chamomile | Brightening & Anti-Aging Wipes for Glowing Skin, Dark Spot Removal & Oil Control – 60 pads (Pack of 1)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:pads",
    "format:wash",
    "format:kit",
@@ -124535,7 +126094,6 @@ const CTPRODUCTS = [
   "title": "Turmeric Kojic Acid 2 Pack 120 Facial Pads Brightening Cleansing Exfoliating for Dark Spots and Oil Control Deep Clean for Uneven Tone and Pore Care Daily Cleansing Exfoliating for Sensitive Skin Glow Facial",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:pack",
    "format:pads",
    "format:wash",
@@ -124607,7 +126165,6 @@ const CTPRODUCTS = [
   "title": "Kojic Acid & Turmeric Cleansing Pads for Face – Gentle Exfoliation & Oil Control – Brightening Skincare for All Skin Types – Mild, Non-Irritating Formula(60pads)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:pads",
    "format:wash",
    "ing:kojic-acid",
@@ -125451,76 +127008,6 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "aud:unisex",
    "rating:3.5",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
-  }
- },
- {
-  "id": "wishcare-b0h2vjkryw",
-  "brand": "Wishcare",
-  "model": "SPF 50 Sunscreen Body Lotion & AHA BHA Exfoliating Body Lotion Combo | Broad Spectrum UVA/…",
-  "price": 758,
-  "capacityLine": "400 ml (pack of 2)",
-  "materialLine": "salicylic acid (BHA)",
-  "featureLine": "Sunscreen · SPF 50 · ₹190/100ml",
-  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹190/100ml",
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.3)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 5.8,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "200 ml × 2 pack",
-   "pricePer100": "₹190/100ml",
-   "format": "Sunscreen",
-   "keyIngredients": "salicylic acid (BHA) (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, SPF 50",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51ApdjXu4hL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H2VJKRYW",
-  "buyStore": "Amazon",
-  "title": "WishCare SPF 50 Sunscreen Body Lotion & AHA BHA Exfoliating Body Lotion Combo | Broad Spectrum UVA/UVB Protection with Gentle Chemical Exfoliation for Smooth, Hydrated & Even-Toned Skin | Pack of 2 (200ml each)",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "format:kit",
-   "spf:50",
-   "ing:salicylic-acid-bha",
-   "ing:aha",
-   "claim:dark-spots",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "claim:broad-spectrum",
-   "claim:spf-claim",
-   "aud:unisex",
-   "size:xl",
-   "rating:4.0",
    "store:amazon"
   ],
   "filters": {
@@ -127399,7 +128886,6 @@ const CTPRODUCTS = [
   "title": "face peeling solution 25% AHA + 2% BHA + 5% PHA",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -127904,7 +129390,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:peel",
    "spf:50",
    "pa:+++",
@@ -128201,7 +129686,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:peel",
    "spf:50",
    "ing:salicylic-acid-bha",
@@ -128354,7 +129838,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:peel",
    "spf:50",
    "pa:++++",
@@ -128581,7 +130064,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:serum",
-   "format:oil",
    "format:peel",
    "spf:50",
    "ing:salicylic-acid-bha",
@@ -132682,7 +134164,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:peel",
    "format:kit",
    "ing:retinol",
@@ -132751,7 +134232,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:peel",
    "format:wash",
    "format:kit",
@@ -132823,7 +134303,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:peel",
    "format:wash",
    "format:kit",
@@ -132897,7 +134376,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:peel",
    "format:kit",
    "ing:retinol",
@@ -133030,7 +134508,6 @@ const CTPRODUCTS = [
   "title": "Minimalist Salicylic Acid 2% Face Wash + AHA BHA PHA 25% Peeling Solution Mini Combo | Acne Control, Deep Pore Cleansing, Oil Control & Chemical Exfoliation Combo for Oily & Acne-Prone Skin",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel",
    "format:wash",
    "format:kit",
@@ -133171,7 +134648,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:foam",
    "format:serum",
-   "format:oil",
    "format:peel",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -134375,7 +135851,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:glycolic-acid",
    "ing:lactic-acid",
@@ -134848,7 +136323,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -143320,7 +144794,6 @@ const CTPRODUCTS = [
   "title": "illumin8 2% Niacinamide Face Wash 50g With Glycolic Acid 1.4% For Skin Brightening | Gentle Exfoliating Beads for Oil Control & Acne | Removes Dead Skin | All Skin Types | For Men & Women 50g (1)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -144193,7 +145666,6 @@ const CTPRODUCTS = [
   "title": "Salicylic Acid 0.10% Face Wash with Niacinamide Glycolic Acid Vitamin C Aloe Vera for Acne Control Deep Cleansing Exfoliation Oil Free Healthy Clear Skin Daily Use Men Women All Pack Of 1",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -144332,7 +145804,6 @@ const CTPRODUCTS = [
   "title": "Exfoliating Face Wash with Glycolic Acid, Niacinamide, Arbutin, Licorice & Mandelic Acid, Deep Pore Cleansing Face Wash for Oil Control, Dead Skin & Uneven Skin Tone, 70ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -144472,7 +145943,6 @@ const CTPRODUCTS = [
   "title": "Exfoliating Face Wash with Glycolic Acid, Niacinamide, Arbutin, Licorice & Mandelic Acid, Deep Pore Cleansing, Oil Control, 70ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -144825,154 +146295,6 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:none",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
-  }
- },
- {
-  "id": "mcaffeine-b0h3q2d7dn",
-  "brand": "Mcaffeine",
-  "model": "Guava Tini De-Tan Face Scrub | 5% Physical & Natural Exfoliants | De-Tanned, Smoother Skin…",
-  "price": 299,
-  "capacityLine": "100 g",
-  "materialLine": "glycolic acid + lactic acid + caffeine",
-  "featureLine": "Sunscreen · ₹299/100g",
-  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 6.7,
-   "skin": 4.7,
-   "ingredients": 6.6,
-   "experience": 4.8
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹299/100g",
-   "format": "Sunscreen",
-   "keyIngredients": "glycolic acid, lactic acid, caffeine, walnut (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Dermatologically tested (per listing)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61maIevNaEL._SL1100_.jpg",
-   "https://m.media-amazon.com/images/I/61asyvtr1UL._SL1100_.jpg",
-   "https://m.media-amazon.com/images/I/6192KoKR1tL._SL1100_.jpg",
-   "https://m.media-amazon.com/images/I/71oEExKpRfL._SL1100_.jpg",
-   "https://m.media-amazon.com/images/I/61j5m-CXnEL._SL1100_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H3Q2D7DN",
-  "buyStore": "Amazon",
-  "title": "mCaffeine Guava Tini De-Tan Face Scrub | 5% Physical & Natural Exfoliants | De-Tanned, Smoother Skin | Pore Cleansing | Removes Blackheads | AHAs - Glycolic & Lactic Acid | Walnut & Apricot | For Women & Men | Suitable for All Skin Types - 100g",
-  "tags": [
-   "scope:face",
-   "format:scrub",
-   "format:wash",
-   "sun:mineral",
-   "ing:glycolic-acid",
-   "ing:lactic-acid",
-   "ing:caffeine",
-   "ing:walnut",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:pores",
-   "claim:exfoliating",
-   "claim:kp",
-   "free:derm",
-   "free:vegan",
-   "skin:all",
-   "aud:women",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": true,
-   "derm": true,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "mamaearth-b0h291zm6y",
-  "brand": "Mamaearth",
-  "model": "Mung Bean Pore Cleansing Face Scrub with Mung Bean, AHA BHA - 100g | Face Scrub for Oily S…",
-  "price": 279,
-  "capacityLine": "100 g",
-  "materialLine": "salicylic acid (BHA)",
-  "featureLine": "Scrub / exfoliant · ₹279/100g",
-  "highlight": "Live Amazon listing rated 4.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.6)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 6.9,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.2
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹279/100g",
-   "format": "Scrub / exfoliant",
-   "keyIngredients": "salicylic acid (BHA) (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.6/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51V8DQfI+gL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H291ZM6Y",
-  "buyStore": "Amazon",
-  "title": "Mamaearth Mung Bean Pore Cleansing Face Scrub with Mung Bean, AHA BHA - 100g | Face Scrub for Oily Skin | India's 1st Foam Scrub for Deep Pore Cleansing | Gentle Exfoliation | Oil Control | Tan Removal",
-  "tags": [
-   "scope:face",
-   "format:foam",
-   "format:oil",
-   "format:scrub",
-   "format:wash",
-   "ing:salicylic-acid-bha",
-   "ing:aha",
-   "claim:de-tan",
-   "claim:pores",
-   "claim:oil-control",
-   "claim:exfoliating",
-   "skin:oily",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.5",
    "store:amazon"
   ],
   "filters": {
@@ -145565,7 +146887,6 @@ const CTPRODUCTS = [
   "title": "BAKE 5% AHA BHA Face Wash with 1.5% Salicylic Acid, 2% Glycolic Acid & 1% Mandelic Acid for Open Pores, Acne & Dark Spots | For Oily Acne Prone Skin | Daily Exfoliation & Oil Control - 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -148134,7 +149455,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",

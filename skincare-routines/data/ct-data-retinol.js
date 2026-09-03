@@ -1482,7 +1482,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:retinol",
    "claim:brightening",
    "claim:anti-aging",
@@ -3455,7 +3454,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:retinol",
    "ing:collagen",
@@ -3603,7 +3601,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:retinol",
    "ing:collagen",
@@ -3679,7 +3676,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:retinol",
    "ing:collagen",
@@ -3755,7 +3751,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:retinol",
    "ing:collagen",
@@ -3831,7 +3826,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:retinol",
    "ing:collagen",
@@ -6263,7 +6257,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -7373,7 +7366,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -8865,7 +8857,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:sheet-mask",
    "format:peel-off",
    "format:pack",
@@ -9329,7 +9320,6 @@ const CTPRODUCTS = [
   "title": "Pilgrim Youthful Skincare Kit with Retinol for Overnight Visibly …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:retinol",
@@ -12506,7 +12496,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:pack",
    "format:scrub",
    "ing:vitamin-c",
@@ -13992,7 +13981,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "ing:retinol",
    "claim:brightening",
    "claim:de-tan",
@@ -15717,7 +15705,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:stick",
-   "format:oil",
    "format:clay-mask",
    "ing:retinol",
    "ing:retinal",
@@ -16017,7 +16004,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:stick",
-   "format:oil",
    "format:clay-mask",
    "ing:niacinamide",
    "ing:retinol",
@@ -16487,7 +16473,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:retinol",
    "ing:bakuchiol",
    "ing:squalane",
@@ -23808,7 +23793,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:retinol",
    "claim:brightening",
    "claim:dark-spots",
@@ -25576,7 +25560,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:serum",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "format:kit",
@@ -26576,7 +26559,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:stick",
-   "format:oil",
    "format:clay-mask",
    "ing:niacinamide",
    "ing:retinol",
@@ -27105,7 +27087,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:stick",
-   "format:oil",
    "format:clay-mask",
    "ing:niacinamide",
    "ing:retinol",
@@ -28485,7 +28466,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:retinol",
    "claim:anti-aging",
    "claim:acne",
@@ -28709,7 +28689,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:retinol",
    "claim:brightening",
@@ -29036,7 +29015,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:scrub",
    "format:wash",
@@ -29345,7 +29323,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:retinol",
    "ing:hyaluronic-acid",
@@ -29661,7 +29638,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:essence",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:retinol",
@@ -30098,7 +30074,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -30185,7 +30160,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:ampoule",
-   "format:oil",
    "ing:bakuchiol",
    "claim:brightening",
    "claim:dark-spots",
@@ -36761,7 +36735,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:retinol",
    "ing:salicylic-acid-bha",
@@ -38809,6 +38782,74 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "hyphen-b0fdqzbv6k",
+  "brand": "Hyphen",
+  "model": "18% Brightening + 20% Collagen Face Serum | Double Shot Serum with 11% Mandarin 5% Niacina…",
+  "price": 590,
+  "capacityLine": "50 ml",
+  "materialLine": "niacinamide + bakuchiol",
+  "featureLine": "Serum · ₹1180/100ml",
+  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.2)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1180/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.5,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹1180/100ml",
+   "format": "Serum",
+   "keyIngredients": "niacinamide, bakuchiol (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/614M7aJAe8L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FDQZBV6K",
+  "buyStore": "Amazon",
+  "title": "Hyphen 18% Brightening + 20% Collagen Face Serum | Double Shot Serum with 11% Mandarin 5% Niacinamide 2% PGA & Bakuchiol | Summer Skincare | Brightening, Hydrating & Collagen Boost for Dry Skin - 50ml",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:niacinamide",
+   "ing:bakuchiol",
+   "ing:collagen",
+   "claim:brightening",
+   "claim:hydrating",
+   "skin:dry",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "conscious-b0dxfr6dtd",
   "brand": "Conscious",
   "model": "Chemist® Rapid Glow & Brightening Essence | Face Serum with 5 Antioxidant Complex (100X St…",
@@ -39450,7 +39491,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:essence",
-   "format:oil",
    "ing:retinol",
    "ing:ceramides",
    "ing:rice-water",
@@ -40273,7 +40313,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:retinol",
@@ -50500,7 +50539,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:serum",
    "format:essence",
-   "format:oil",
    "ing:retinol",
    "claim:brightening",
    "claim:anti-aging",
@@ -52227,7 +52265,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:retinol",
@@ -53243,7 +53280,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "ing:retinol",
    "ing:ceramides",
    "claim:brightening",
@@ -57141,7 +57177,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "spf:30",
    "pa:++",
    "ing:vitamin-c",
@@ -58013,7 +58048,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:retinol",
    "ing:salicylic-acid-bha",
@@ -62675,7 +62709,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "ing:retinol",
    "ing:ceramides",
    "claim:brightening",
@@ -63077,7 +63110,6 @@ const CTPRODUCTS = [
   "title": "wellwell 0.5% Retinol Night Creams For Fine Lines, Wrinkles, and Aging Concerns | Oil Free & Non Sticky Moisturizer | For Glowing Skin | For All Skin Types | Fragrance Free | 120Ml",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:retinol",
    "claim:brightening",
    "claim:anti-aging",
@@ -63550,7 +63582,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:retinol",
    "ing:ceramides",
@@ -63620,7 +63651,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "ing:retinol",
    "ing:ceramides",
    "claim:brightening",
@@ -65938,7 +65968,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "ing:retinol",
    "ing:ceramides",
    "claim:brightening",
@@ -69648,7 +69677,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "ing:retinol",
    "claim:anti-aging",
    "claim:hydrating",
@@ -69784,7 +69812,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:gel",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:retinol",
    "claim:acne",
@@ -74495,6 +74522,77 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "melino-b0g88k2nbs",
+  "brand": "Melino",
+  "model": "Dark Spots Removal - Bakuchiol Elixir Face Serum ( Plant- Based Retinol Alternative Serum)…",
+  "price": 699,
+  "capacityLine": "30 ml",
+  "materialLine": "retinol + bakuchiol",
+  "featureLine": "Serum · ₹2330/100ml",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹2330/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.8,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹2330/100ml",
+   "format": "Serum",
+   "keyIngredients": "retinol, bakuchiol (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Anti-aging claim, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/610OBUzpSXL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G88K2NBS",
+  "buyStore": "Amazon",
+  "title": "Melino Dark Spots Removal - Bakuchiol Elixir Face Serum ( Plant- Based Retinol Alternative Serum) with 0.5% Bakuchioil, Ashwagandha & Frankincense | 1 Bottle 3 Result - Glassy Glow Finish Youthful Skin, Anti- Aging, Pigmentation & Uneven Tone Correction | Suitable for Acne - Prone & Dry Skin | For All Skin Types | For Women & Men | 30ml",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:retinol",
+   "ing:bakuchiol",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:acne",
+   "skin:dry",
+   "skin:acne-prone",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
   "id": "derma-cure-b0fbgbc4zd",
   "brand": "Derma+Cure",
   "model": "2% Bakuchiol Anti Ageing Serum | reducing fine lines | improving skin tone and texture | h…",
@@ -75703,6 +75801,69 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "lotus-b0gp192knj",
+  "brand": "Lotus",
+  "model": "Organics+ Bakuchiol Plant Retinol Face Serum 30G+Retinol Anti-Ageing Face Serum 30G",
+  "price": 1595,
+  "capacityLine": "30 g",
+  "materialLine": "retinol + bakuchiol",
+  "featureLine": "Serum · ₹5317/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹5317/100g"
+  ],
+  "scores": {
+   "trust": 5.7,
+   "skin": 4,
+   "ingredients": 5.8,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "30 g",
+   "pricePer100": "₹5317/100g",
+   "format": "Serum",
+   "keyIngredients": "retinol, bakuchiol (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/615qhxDmM4L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GP192KNJ",
+  "buyStore": "Amazon",
+  "title": "Lotus Organics+ Bakuchiol Plant Retinol Face Serum 30G+Retinol Anti-Ageing Face Serum 30G",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:retinol",
+   "ing:bakuchiol",
+   "claim:anti-aging",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "dermalogy-b094vl2tnh",
   "brand": "DERMALOGY",
   "model": "by NEOGENLAB Twice a Day Bakuchiol Serum - Natural Retinol Alternative - Hydrating & Minim…",
@@ -76443,6 +76604,146 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "dermina-b0hh9bgzwt",
+  "brand": "DERMINA",
+  "model": "Retinol 0.1% Face Serum, Bakuchiol 0.1%, Niacinamide 1% & Lactobionic Acid 0.5% | Anti-Age…",
+  "price": 549,
+  "capacityLine": "25 ml",
+  "materialLine": "niacinamide + retinol + bakuchiol",
+  "featureLine": "Serum · ₹2196/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹2196/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "25 ml",
+   "pricePer100": "₹2196/100ml",
+   "format": "Serum",
+   "keyIngredients": "niacinamide, retinol, bakuchiol (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61tZDBZEueL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HH9BGZWT",
+  "buyStore": "Amazon",
+  "title": "DERMINA Retinol 0.1% Face Serum, Bakuchiol 0.1%, Niacinamide 1% & Lactobionic Acid 0.5% | Anti-Ageing Skin Care for Smoother Texture, Firmness & Radiant-Looking Skin (25ml)",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:niacinamide",
+   "ing:retinol",
+   "ing:bakuchiol",
+   "claim:anti-aging",
+   "claim:exfoliating",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "ilem-b0gln4157g",
+  "brand": "ILEM",
+  "model": "JAPAN Renewal Serum 30ml | Bakuchiol Japanese Night Serum with Argireline & Peptides for F…",
+  "price": 1870,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C + retinol + bakuchiol",
+  "featureLine": "Serum · ₹6233/100ml",
+  "highlight": "Live Amazon listing rated 4.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹6233/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 6.7,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹6233/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, retinol, bakuchiol, peptides, rice water, shea butter (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51JwxwkN4hL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GLN4157G",
+  "buyStore": "Amazon",
+  "title": "ILEM JAPAN Renewal Serum 30ml | Bakuchiol Japanese Night Serum with Argireline & Peptides for Firmness, Elasticity and Sensitive Skin | Retinol Alternative for Fine Lines & Wrinkles | Vitamin C for Even Skin Tone, Rice Ferment + Hydration | Shea Butter, Skin Barrier",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "format:balm",
+   "ing:vitamin-c",
+   "ing:retinol",
+   "ing:bakuchiol",
+   "ing:peptides",
+   "ing:rice-water",
+   "ing:shea-butter",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:barrier",
+   "free:sensitive-safe",
+   "skin:sensitive",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "generic-b0fmq9ln3g",
   "brand": "Generic",
   "model": "Retinol Anti-Ageing Serum – Smoothes Fine Lines with Bakuchiol & Hyaluronic Acid, 30 ml",
@@ -76693,6 +76994,77 @@ const CTPRODUCTS = [
    "freefrom": false,
    "natural": false,
    "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "olay-b0g57dh1cw",
+  "brand": "Olay",
+  "model": "Regenerist Ultra Firming Serum | PHCA, Bakuchiol, Collagen Peptide | Firm and Smooth Skin …",
+  "price": 1799,
+  "capacityLine": "30 ml",
+  "materialLine": "bakuchiol + peptides",
+  "featureLine": "Serum · ₹5997/100ml",
+  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹5997/100ml"
+  ],
+  "scores": {
+   "trust": 6.7,
+   "skin": 4.7,
+   "ingredients": 5.5,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹5997/100ml",
+   "format": "Serum",
+   "keyIngredients": "bakuchiol, peptides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51l1bNqttYL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G57DH1CW",
+  "buyStore": "Amazon",
+  "title": "Olay Regenerist Ultra Firming Serum | PHCA, Bakuchiol, Collagen Peptide | Firm and Smooth Skin from Day 1 | Lightweight Texture | Dermatologist Tested | All Skin Types Including Sensitive Skin | 30ml",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "ing:bakuchiol",
+   "ing:peptides",
+   "ing:collagen",
+   "claim:anti-aging",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "free:derm",
+   "free:sensitive-safe",
+   "skin:sensitive",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": true,
    "men": false,
    "women": false
   }
@@ -77275,6 +77647,71 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "kass-b0gs5cddxc",
+  "brand": "Kass",
+  "model": "Advanced Reset Serum, Retinol and Bakuchiol, Anti-Aging Face Serum, All Skin Types, Reduce…",
+  "price": 2440,
+  "capacityLine": "30 ml",
+  "materialLine": "retinol + bakuchiol",
+  "featureLine": "Serum · ₹8133/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹8133/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹8133/100ml",
+   "format": "Serum",
+   "keyIngredients": "retinol, bakuchiol (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41XAlyI4aEL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GS5CDDXC",
+  "buyStore": "Amazon",
+  "title": "Kass Advanced Reset Serum, Retinol and Bakuchiol, Anti-Aging Face Serum, All Skin Types, Reduces Wrinkles and Age Spots, 30ml",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:retinol",
+   "ing:bakuchiol",
+   "claim:anti-aging",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "merryglow-b0h5dzlnpd",
   "brand": "Merryglow",
   "model": "Age-Defying & Revitalizing Vitamin C Serum with Bakuchiol, Hyaclear®7 & Melanostatine, All…",
@@ -77604,6 +78041,74 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "rustic-b0fp9nvsn5",
+  "brand": "Rustic",
+  "model": "Art Neem Basil Facial Serum | Vitamin C & Bakuchiol | Controls acne & breakouts, fades dar…",
+  "price": 688,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C + bakuchiol + neem",
+  "featureLine": "Serum · ₹2293/100ml",
+  "highlight": "Live Amazon listing rated 3.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹2293/100ml",
+   "Mixed buyer rating (3.6)"
+  ],
+  "scores": {
+   "trust": 3.6,
+   "skin": 4,
+   "ingredients": 6.2,
+   "experience": 5.1
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹2293/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, bakuchiol, neem (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "3.6/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61UygKRnHaL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FP9NVSN5",
+  "buyStore": "Amazon",
+  "title": "Rustic Art Neem Basil Facial Serum | Vitamin C & Bakuchiol | Controls acne & breakouts, fades dark spots | Imrpoves skin radiance | For all skin types | Organic & Natural |30 ml",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:vitamin-c",
+   "ing:bakuchiol",
+   "ing:neem",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:acne",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "bubblez-b0flvbhmx3",
   "brand": "Bubblez",
   "model": "Cosmetics Bakuchi Serum-in-Moisturizer (2 in 1) with Bakuchiol & Retinol | Reduces Fine Li…",
@@ -77876,6 +78381,75 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "skynt-b0hfwj7c9l",
+  "brand": "SKYNT",
+  "model": "Multiregen Anti Aging Elixir Facial Serum 30 mL | Peptide Complex, Niacinamide & Bakuchiol…",
+  "price": 1999,
+  "capacityLine": "30 ml",
+  "materialLine": "niacinamide + bakuchiol + peptides",
+  "featureLine": "Serum · Paraben-free · ₹6663/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Pricey: ₹6663/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 5.3,
+   "ingredients": 6.4,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹6663/100ml",
+   "format": "Serum",
+   "keyIngredients": "niacinamide, bakuchiol, peptides (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/81aQK3GSa7L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HFWJ7C9L",
+  "buyStore": "Amazon",
+  "title": "SKYNT Multiregen Anti Aging Elixir Facial Serum 30 mL | Peptide Complex, Niacinamide & Bakuchiol, Paraben-Free, Vegan, Dermatologically Tested",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:niacinamide",
+   "ing:bakuchiol",
+   "ing:peptides",
+   "claim:anti-aging",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "age-b0grb9xwjy",
   "brand": "Age",
   "model": "of Grace Anti-Aging Serum with Bakuchiol, Sea Buckthorn, 6 Peptide Complex, Ceramide, Niac…",
@@ -78134,6 +78708,72 @@ const CTPRODUCTS = [
    "actives": true,
    "freefrom": false,
    "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "fyc-b0gxyzc9fw",
+  "brand": "FYC",
+  "model": "Professional Correcting Serum 30ml | Bakuchiol & Astashyn Face Serum | Anti-Aging, Brighte…",
+  "price": 1079,
+  "capacityLine": "30 ml",
+  "materialLine": "bakuchiol",
+  "featureLine": "Serum · ₹3597/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹3597/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹3597/100ml",
+   "format": "Serum",
+   "keyIngredients": "bakuchiol (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61t7GI-dDnL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GXYZC9FW",
+  "buyStore": "Amazon",
+  "title": "FYC Professional Correcting Serum 30ml | Bakuchiol & Astashyn Face Serum | Anti-Aging, Brightening & Smoothening Serum | Reduces Fine Lines, Dullness & Uneven Skin Tone | Lightweight Daily Use",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:bakuchiol",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:lightweight",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
    "derm": false,
    "men": false,
    "women": false
@@ -78542,6 +79182,74 @@ const CTPRODUCTS = [
    "actives": true,
    "freefrom": false,
    "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "rosiera-b0gyg8x3x2",
+  "brand": "Rosiera",
+  "model": "Timeless Repair Face Serum (30ml) | 5-in-1 Climate-Smart Anti-Ageing Formula with Peptide …",
+  "price": 1729,
+  "capacityLine": "30 ml",
+  "materialLine": "bakuchiol + peptides",
+  "featureLine": "Serum · ₹5763/100ml",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹5763/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹5763/100ml",
+   "format": "Serum",
+   "keyIngredients": "bakuchiol, peptides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61mVVQvG9tL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GYG8X3X2",
+  "buyStore": "Amazon",
+  "title": "Rosiera Timeless Repair Face Serum (30ml) | 5-in-1 Climate-Smart Anti-Ageing Formula with Peptide Complex, Bakuchiol & Blue Lotus Extract | Non-Sticky Barrier Repair for Glowing Skin",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:bakuchiol",
+   "ing:peptides",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:oil-control",
+   "claim:barrier",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
    "derm": false,
    "men": false,
    "women": false
@@ -79989,6 +80697,72 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "nantra-b0gr9wrr4y",
+  "brand": "Nantra",
+  "model": "Serum Bottle Retinal Liposome 2% + Black Ginseng 58% Black Ginseng Extract Retinal Serum B…",
+  "price": 299,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C + retinol + bakuchiol",
+  "featureLine": "Serum · ₹997/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 6.3,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹997/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, retinol, bakuchiol, peptides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41BxrHtWMVL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GR9WRR4Y",
+  "buyStore": "Amazon",
+  "title": "Nantra Serum Bottle Retinal Liposome 2% + Black Ginseng 58% Black Ginseng Extract Retinal Serum Bakuchiol Vitamin C & 3Peptides For Wrinkle Care 30ml/1.01fl.Oz",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "ing:vitamin-c",
+   "ing:retinal",
+   "ing:bakuchiol",
+   "ing:peptides",
+   "ing:ginseng",
+   "claim:anti-aging",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "vilvah-b0f66dl4lk",
   "brand": "Vilvah",
   "model": "Better Ageing Combo | Bakuchiol Serum & Ultra Moisturising Cream | Visibly Firmer Skin & W…",
@@ -80383,7 +81157,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:bakuchiol",
    "ing:hyaluronic-acid",
@@ -81172,6 +81945,140 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "be-bodywise-b0gwly14qs",
+  "brand": "Be Bodywise",
+  "model": "Anti Stretch Mark Roll-On Serum 50 ml | With Regeneryl, STRIOVER™ & Bakuchiol Oil | Fades …",
+  "price": 599,
+  "capacityLine": "50 ml",
+  "materialLine": "bakuchiol",
+  "featureLine": "Serum · ₹1198/100ml",
+  "highlight": "Live Amazon listing rated 4.7★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.7)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1198/100ml"
+  ],
+  "scores": {
+   "trust": 6.2,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹1198/100ml",
+   "format": "Serum",
+   "keyIngredients": "bakuchiol (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.7/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61f8+D4aGbL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GWLY14QS",
+  "buyStore": "Amazon",
+  "title": "Be Bodywise Anti Stretch Mark Roll-On Serum 50 ml | With Regeneryl, STRIOVER™ & Bakuchiol Oil | Fades & Reduces Stretch Marks, Hydrates & Stimulates Collagen Production | Non-sticky & Non-messy",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "format:oil",
+   "format:roll-on",
+   "ing:bakuchiol",
+   "ing:collagen",
+   "claim:oil-control",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "nantra-b0ggbs7cmm",
+  "brand": "Nantra",
+  "model": "Serum Bottle Retinal Liposome 2% + Black Ginseng 58% Black Ginseng Extract Retinal Serum B…",
+  "price": 299,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C + retinol + bakuchiol",
+  "featureLine": "Serum · ₹997/100ml",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 6.3,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹997/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, retinol, bakuchiol, peptides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41BxrHtWMVL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GGBS7CMM",
+  "buyStore": "Amazon",
+  "title": "Nantra Serum Bottle Retinal Liposome 2% + Black Ginseng 58% Black Ginseng Extract Retinal Serum Bakuchiol Vitamin C & 3Peptides For Wrinkle Care 30ml",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "ing:vitamin-c",
+   "ing:retinal",
+   "ing:bakuchiol",
+   "ing:peptides",
+   "ing:ginseng",
+   "claim:anti-aging",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "derma-b0brjc4xdr",
   "brand": "DERMA",
   "model": "CURE Bakuchiol Retinol Alternative Illuminating Natural Anti Aging Facial Oil With Rosehip…",
@@ -81427,6 +82334,73 @@ const CTPRODUCTS = [
    "ing:argan-oil",
    "claim:acne",
    "skin:oily",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "sadhev-b0hg5v23d1",
+  "brand": "Sadhev",
+  "model": "Anti-Ageing Face Care Combo | Anti-Wrinkle Face Cream 50gm + Face Serum 30ml w Bakuchiol &…",
+  "price": 3598,
+  "capacityLine": "50 g",
+  "materialLine": "retinol + bakuchiol",
+  "featureLine": "Serum · ₹7196/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹7196/100g",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.8,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹7196/100g",
+   "format": "Serum",
+   "keyIngredients": "retinol, bakuchiol (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71qOqG7akcL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HG5V23D1",
+  "buyStore": "Amazon",
+  "title": "Sadhev Anti-Ageing Face Care Combo | Anti-Wrinkle Face Cream 50gm + Face Serum 30ml w Bakuchiol & Naturally Derived Retinol | Reduces Fine Lines, Wrinkles & Dark Spots | Improves Firmness & Elasticity",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:serum",
+   "format:kit",
+   "ing:retinol",
+   "ing:bakuchiol",
+   "claim:dark-spots",
+   "claim:anti-aging",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -81737,6 +82711,75 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "bake-b0gmqk3pc2",
+  "brand": "BAKE",
+  "model": "Wrinkle Erase™ Anti-Wrinkle & Firming Serum Cream with 2% THD Vitamin C, Peptides & 0.5% B…",
+  "price": 569,
+  "capacityLine": "30 g",
+  "materialLine": "vitamin C + bakuchiol + peptides",
+  "featureLine": "Serum · ₹1897/100g",
+  "highlight": "Live Amazon listing rated 4.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1897/100g",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "30 g",
+   "pricePer100": "₹1897/100g",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, bakuchiol, peptides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61-GaQhpEkL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GMQK3PC2",
+  "buyStore": "Amazon",
+  "title": "BAKE Wrinkle Erase™ Anti-Wrinkle & Firming Serum Cream with 2% THD Vitamin C, Peptides & 0.5% Bakuchiol | Reduces Fine Lines, Boosts Collagen, Repairs Skin Barrier | Anti-Aging Serum | 30g",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:serum",
+   "ing:vitamin-c",
+   "ing:bakuchiol",
+   "ing:peptides",
+   "ing:collagen",
+   "claim:anti-aging",
+   "claim:barrier",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "dark-b0f4wz91cg",
   "brand": "Dark",
   "model": "Secret Face Serum (30 ml) – Vitamin C + Glutathione Brightening + Hyaluronic Acid Hydratio…",
@@ -81807,6 +82850,74 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buttr-b0h1d6lcc3",
+  "brand": "Buttr",
+  "model": "Brightening & Anti Tan Serum with SPF 30, Kakadu Plum, Bakuchiol & Saffron, For All Skin T…",
+  "price": 599,
+  "capacityLine": "30 ml",
+  "materialLine": "bakuchiol + saffron",
+  "featureLine": "Sunscreen · SPF 30 · ₹1997/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1997/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹1997/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "bakuchiol, saffron (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 30",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51E7Ucr8sXL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H1D6LCC3",
+  "buyStore": "Amazon",
+  "title": "Buttr Brightening & Anti Tan Serum with SPF 30, Kakadu Plum, Bakuchiol & Saffron, For All Skin Types, 30 ml",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "spf:30",
+   "ing:bakuchiol",
+   "ing:saffron",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "advanced-b0dsjdgxrv",
   "brand": "Advanced",
   "model": "Anti-Aging Serum | Wrinkle & Firming Serum for Face | Plant-Derived Retinol, Peptides & SY…",
@@ -81860,6 +82971,201 @@ const CTPRODUCTS = [
    "ing:collagen",
    "ing:alpha-arbutin",
    "claim:anti-aging",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "purenso-b0h25jhtvm",
+  "brand": "Purenso",
+  "model": "Select Bakuchiol Oil-Soluble Liquid Extract 25g",
+  "price": 230,
+  "capacityLine": "25 g",
+  "materialLine": "bakuchiol",
+  "featureLine": "Oil · ₹920/100g",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "25 g",
+   "pricePer100": "₹920/100g",
+   "format": "Oil",
+   "keyIngredients": "bakuchiol (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51hsSit3M1L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H25JHTVM",
+  "buyStore": "Amazon",
+  "title": "Purenso Select Bakuchiol Oil-Soluble Liquid Extract 25g",
+  "tags": [
+   "scope:unstated",
+   "format:oil",
+   "ing:bakuchiol",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "fyc-b0hf4pw368",
+  "brand": "FYC",
+  "model": "Professional Korean 9-Step Glass Skin Facial Kit (183g) + Correcting Concentrate Reverse (…",
+  "price": 1680,
+  "capacityLine": "183 g",
+  "materialLine": "bakuchiol",
+  "featureLine": "Serum · ₹918/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "183 g",
+   "pricePer100": "₹918/100g",
+   "format": "Serum",
+   "keyIngredients": "bakuchiol (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61npOQk-DuL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HF4PW368",
+  "buyStore": "Amazon",
+  "title": "FYC Professional Korean 9-Step Glass Skin Facial Kit (183g) + Correcting Concentrate Reverse (30ml) Combo | Bakuchiol Radiance Serum Kit for Men & Women",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:kit",
+   "ing:bakuchiol",
+   "claim:brightening",
+   "claim:korean",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "buttr-b0h5bvdpgr",
+  "brand": "Buttr",
+  "model": "Brightening & Anti Tan Face Serum with SPF 30 | Enriched with Kakadu Plum, Bakuchiol & Saf…",
+  "price": 399,
+  "capacityLine": "30 ml",
+  "materialLine": "bakuchiol + saffron",
+  "featureLine": "Sunscreen · SPF 30 · ₹1330/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1330/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹1330/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "bakuchiol, saffron (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 30",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71gZ0+IA0pL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H5BVDPGR",
+  "buyStore": "Amazon",
+  "title": "Buttr Brightening & Anti Tan Face Serum with SPF 30 | Enriched with Kakadu Plum, Bakuchiol & Saffron | Helps Reduce Tan & Enhance Skin Radiance | Lightweight Daily Serum for All Skin Types | 30 ml",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "spf:30",
+   "ing:bakuchiol",
+   "ing:saffron",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:all",
    "aud:unisex",
    "size:travel",
    "rating:none",
@@ -82185,7 +83491,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:bakuchiol",
@@ -82393,7 +83698,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:retinol",
    "ing:ceramides",
    "claim:anti-aging",
@@ -83535,7 +84839,6 @@ const CTPRODUCTS = [
   "title": "Gold Peel Off Face Mask | Retinol Snake Venom | Gold Mask Deep Pore Cleansing, Blackhead Removal, Oil Control | Hydrating Facial Skincare | Anti Aging Skin Rejuvenation Glow Face Care Mask",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel-off",
    "format:peel",
    "format:wash",
@@ -83942,7 +85245,6 @@ const CTPRODUCTS = [
   "title": "Gold Peel Off Mask for Blackhead Removal – Retinol Snake Venom Face Mask for Deep Pore Cleansing, Oil Control & Skin Tightening – Anti Acne Gold Facial Mask for Oily Skin",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel-off",
    "format:peel",
    "format:wash",
@@ -88617,7 +89919,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:serum",
-   "format:oil",
    "spf:50",
    "sun:mineral",
    "ing:retinol",
@@ -88688,7 +89989,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "spf:50",
    "ing:retinol",
    "ing:caffeine",
@@ -91593,6 +92893,75 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0gk1ptszn",
+  "brand": "Buy",
+  "model": "NIVEA Super 10 Youth Body Serum Lotion 170ml | Niacinamide Retinol 120X Vitamin C Body Lot…",
+  "price": 210,
+  "capacityLine": "170 ml",
+  "materialLine": "vitamin C + niacinamide + retinol",
+  "featureLine": "Sunscreen · SPF 15 · ₹124/100ml",
+  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹124/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 5.3
+  },
+  "fullSpec": {
+   "quantity": "170 ml",
+   "pricePer100": "₹124/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, retinol (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 15",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/612oK9UEc8L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GK1PTSZN",
+  "buyStore": "Amazon",
+  "title": "Buy NIVEA Super 10 Youth Body Serum Lotion 170ml | Niacinamide Retinol 120X Vitamin C Body Lotion SPF15 Daily Sunscreen | Skin Tightening, Lightweight, Fast Absorbing Moisturizer | Youthful & Firm Skin in 5 Days Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:serum",
+   "spf:15",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:retinol",
+   "claim:hydrating",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "spot-b0flxq33fw",
   "brand": "Spot",
   "model": "Removal Cream for Face, Helps Reduce Pigmentation, Acne Scars & Tan Marks, With Retinol, K…",
@@ -92393,7 +93762,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:peel",
    "format:wash",
@@ -92649,7 +94017,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:retinol",
@@ -94739,74 +96106,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "hyphen-b0fdqzbv6k",
-  "brand": "Hyphen",
-  "model": "18% Brightening + 20% Collagen Face Serum | Double Shot Serum with 11% Mandarin 5% Niacina…",
-  "price": 590,
-  "capacityLine": "50 ml",
-  "materialLine": "niacinamide + bakuchiol",
-  "featureLine": "Serum · ₹1180/100ml",
-  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.2)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1180/100ml",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 4.5,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 5.2
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹1180/100ml",
-   "format": "Serum",
-   "keyIngredients": "niacinamide, bakuchiol (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/614M7aJAe8L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FDQZBV6K",
-  "buyStore": "Amazon",
-  "title": "Hyphen 18% Brightening + 20% Collagen Face Serum | Double Shot Serum with 11% Mandarin 5% Niacinamide 2% PGA & Bakuchiol | Summer Skincare | Brightening, Hydrating & Collagen Boost for Dry Skin - 50ml",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "ing:niacinamide",
-   "ing:bakuchiol",
-   "ing:collagen",
-   "claim:brightening",
-   "claim:hydrating",
-   "skin:dry",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
-  }
- },
- {
   "id": "kojic-b08cd1dsv5",
   "brand": "Kojic",
   "model": "Acid Serum for Face Enriched with Kojik Acid, Retinol, HyAluranic Acid, Vit-E, Extract of …",
@@ -95062,75 +96361,6 @@ const CTPRODUCTS = [
    "claim:barrier",
    "aud:unisex",
    "rating:4.0",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
-  }
- },
- {
-  "id": "nivea-b0gk1ptszn",
-  "brand": "Nivea",
-  "model": "Super 10 Youth Body Serum Lotion 170ml | Niacinamide Retinol 120X Vitamin C Body Lotion SP…",
-  "price": 210,
-  "capacityLine": "170 ml",
-  "materialLine": "vitamin C + niacinamide + retinol",
-  "featureLine": "Sunscreen · SPF 15 · ₹124/100ml",
-  "highlight": "Live Amazon listing rated 3.8★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹124/100ml",
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (3.8)"
-  ],
-  "scores": {
-   "trust": 5.7,
-   "skin": 4,
-   "ingredients": 5.9,
-   "experience": 5.3
-  },
-  "fullSpec": {
-   "quantity": "170 ml",
-   "pricePer100": "₹124/100ml",
-   "format": "Sunscreen",
-   "keyIngredients": "vitamin C, niacinamide, retinol (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, SPF 15",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/612oK9UEc8L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GK1PTSZN",
-  "buyStore": "Amazon",
-  "title": "NIVEA Super 10 Youth Body Serum Lotion 170ml | Niacinamide Retinol 120X Vitamin C Body Lotion SPF15 Daily Sunscreen | Skin Tightening, Lightweight, Fast Absorbing Moisturizer | Youthful & Firm Skin in 5 Days",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "format:serum",
-   "spf:15",
-   "ing:vitamin-c",
-   "ing:niacinamide",
-   "ing:retinol",
-   "claim:hydrating",
-   "claim:lightweight",
-   "claim:spf-claim",
-   "aud:unisex",
-   "size:large",
-   "rating:3.5",
    "store:amazon"
   ],
   "filters": {
@@ -96226,7 +97456,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:peel",
    "format:kit",
    "ing:retinol",
@@ -96295,7 +97524,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:peel",
    "format:kit",
    "ing:retinol",

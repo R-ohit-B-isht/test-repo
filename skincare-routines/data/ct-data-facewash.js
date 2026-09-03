@@ -204,7 +204,6 @@ const CTPRODUCTS = [
   "title": "Deconstruct Oil Control Face wash 0.5% Salicylic Acid| For Oily & …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -495,7 +494,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -982,7 +980,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "claim:brightening",
    "claim:whitening-claim",
@@ -1053,7 +1050,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:clay-mask",
    "format:wash",
    "ing:pha",
@@ -1135,7 +1131,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:oil-control",
@@ -1268,7 +1263,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:powder",
    "format:wash",
    "ing:colloidal-oatmeal",
@@ -1828,7 +1822,6 @@ const CTPRODUCTS = [
   "title": "smartdrops Men Facewash Fights Acne & Pimple, De-Tan Facewash For …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "claim:brightening",
    "claim:de-tan",
@@ -2094,7 +2087,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:papaya",
    "claim:brightening",
@@ -2238,7 +2230,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -2384,7 +2375,6 @@ const CTPRODUCTS = [
   "title": "BELLAVITA Vitamin C Glow Facewash for Oil Control, Brightening, A …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "claim:brightening",
@@ -2724,7 +2714,6 @@ const CTPRODUCTS = [
   "title": "DOVE Men + Care|150ml Oil Control facewash|Kaolin Clay|Soap-free …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:bar",
    "format:wash",
@@ -2798,7 +2787,6 @@ const CTPRODUCTS = [
   "title": "smartdrops Aloe Vera Facewash For Skin Whitening | Pimple Clear u …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:aloe-vera",
    "ing:neem",
@@ -3462,7 +3450,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:green-tea",
@@ -3541,7 +3528,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -3824,7 +3810,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:wash",
    "ing:papaya",
    "ing:lemon",
@@ -3969,7 +3954,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "claim:acne",
@@ -4042,7 +4026,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:wash",
    "claim:brightening",
    "claim:dark-spots",
@@ -4113,7 +4096,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "claim:brightening",
@@ -4185,7 +4167,6 @@ const CTPRODUCTS = [
   "title": "smartdrops Facewash For Removing Dead Skin, Pimples, and Dark Spo …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "claim:brightening",
@@ -4264,7 +4245,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "claim:brightening",
    "claim:de-tan",
@@ -4346,7 +4326,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:tea-tree",
    "claim:brightening",
@@ -4641,7 +4620,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:clay-mask",
    "format:wash",
    "ing:niacinamide",
@@ -4714,7 +4692,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "claim:oil-control",
    "skin:oily",
@@ -4981,7 +4958,6 @@ const CTPRODUCTS = [
   "title": "Ovixa F001 Face Wash (200 ml)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "claim:acne",
    "claim:oil-control",
@@ -5116,7 +5092,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:wash",
    "claim:brightening",
    "claim:acne",
@@ -5186,7 +5161,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:wash",
    "claim:brightening",
    "claim:acne",
@@ -5525,7 +5499,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -5597,7 +5570,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:charcoal",
@@ -5668,7 +5640,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:caffeine",
    "ing:coffee",
@@ -5744,7 +5715,6 @@ const CTPRODUCTS = [
   "title": "Rocefas Deep Cleansing & Oil Control Formula Face Wash (100 ml)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:licorice",
@@ -6018,7 +5988,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:wash",
    "claim:brightening",
    "claim:dark-spots",
@@ -6090,7 +6059,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:wash",
    "format:kit",
    "claim:brightening",
@@ -6165,7 +6133,6 @@ const CTPRODUCTS = [
   "title": "smartdrops Facewash For Reduce Dark spots, Pigmentation and Tanni …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "claim:brightening",
@@ -6446,7 +6413,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:wash",
    "format:kit",
    "claim:brightening",
@@ -6517,7 +6483,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "claim:anti-aging",
    "claim:oil-control",
@@ -6589,7 +6554,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:foam",
-   "format:oil",
    "format:wash",
    "claim:brightening",
    "claim:pores",
@@ -6729,7 +6693,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:green-tea",
@@ -6798,7 +6761,6 @@ const CTPRODUCTS = [
   "title": "KIISIISO Men for Clear Skin with Licorice Extract Face Wash (100 …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:licorice",
    "claim:acne",
@@ -6869,7 +6831,6 @@ const CTPRODUCTS = [
   "title": "KIISIISO Men for Men Skin Care with Salicylic Acid Face Wash (10 …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:brightening",
@@ -6940,7 +6901,6 @@ const CTPRODUCTS = [
   "title": "KIISIISO Men with Licorice Extract for Deep Cleansing Face Wash …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:licorice",
@@ -7011,7 +6971,6 @@ const CTPRODUCTS = [
   "title": "KIISIISO Men 100ml Pack of 1 for Clear Skin Face Wash (102.21 ml …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:glycolic-acid",
@@ -7082,7 +7041,6 @@ const CTPRODUCTS = [
   "title": "KIISIISO Men with Licorice Extract for Clear Skin Face Wash (102 …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:licorice",
    "claim:brightening",
@@ -7153,7 +7111,6 @@ const CTPRODUCTS = [
   "title": "KIISIISO Men with Licorice Extract Fresh Complexion Face Wash (1 …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:licorice",
@@ -7222,7 +7179,6 @@ const CTPRODUCTS = [
   "title": "KIISIISO Men for Glowing Skin with Licorice Extract Face Wash (1 …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:licorice",
    "claim:brightening",
@@ -7292,7 +7248,6 @@ const CTPRODUCTS = [
   "title": "KIISIISO Men for Spotless Skin with Licorice Extract Face Wash ( …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:licorice",
@@ -7364,7 +7319,6 @@ const CTPRODUCTS = [
   "title": "KIISIISO Men 100ml for All Skin Types for Glowing Skin Face Wash …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "claim:brightening",
    "claim:acne",
@@ -7500,7 +7454,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:benzoyl-peroxide",
    "claim:acne",
@@ -8122,7 +8075,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:kojic-acid",
@@ -8269,7 +8221,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:pack",
    "format:pads",
    "format:wash",
@@ -8350,7 +8301,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:kojic-acid",
@@ -8431,7 +8381,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -8662,7 +8611,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:aloe-vera",
@@ -8984,7 +8932,6 @@ const CTPRODUCTS = [
    "format:cream",
    "format:foam",
    "format:essence",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:neem",
@@ -9126,7 +9073,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:foam",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -9805,7 +9751,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -9880,7 +9825,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -9957,7 +9901,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -10040,7 +9983,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:foam",
    "format:essence",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "claim:brightening",
@@ -10112,7 +10054,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:vitamin-c",
@@ -10188,7 +10129,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:pads",
    "format:wash",
    "ing:kojic-acid",
@@ -10350,7 +10290,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:pads",
    "format:wash",
    "format:kit",
@@ -10430,7 +10369,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:pads",
    "format:wash",
    "format:kit",
@@ -10511,7 +10449,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:foam",
-   "format:oil",
    "format:pack",
    "format:pads",
    "format:wash",
@@ -10848,7 +10785,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:foam",
-   "format:oil",
    "format:peel-off",
    "format:peel",
    "format:wash",
@@ -10929,7 +10865,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:pads",
    "format:wash",
    "format:kit",
@@ -11091,7 +11026,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:lactic-acid",
@@ -11168,7 +11102,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:aloe-vera",
@@ -11322,7 +11255,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:honey",
    "ing:milk",
@@ -11398,7 +11330,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:rose",
    "ing:almond",
@@ -11474,7 +11405,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -11553,7 +11483,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:rice-water",
    "claim:brightening",
@@ -11626,7 +11555,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:neem",
@@ -11703,7 +11631,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:charcoal",
@@ -11778,7 +11705,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:turmeric",
    "ing:honey",
@@ -11854,7 +11780,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:green-tea",
    "ing:turmeric",
@@ -11929,7 +11854,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:rice-water",
    "ing:saffron",
@@ -12362,7 +12286,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "claim:brightening",
@@ -12435,7 +12358,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:green-tea",
@@ -12910,7 +12832,6 @@ const CTPRODUCTS = [
   "title": "mCaffeine De Tan Green Tea Vitamin C Face wash for Men & Women, R …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
@@ -13463,7 +13384,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -13797,7 +13717,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:tea-tree",
@@ -14512,7 +14431,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:tea-tree",
@@ -14821,7 +14739,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -15115,7 +15032,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:wash",
    "ing:rice-water",
    "claim:brightening",
@@ -15187,7 +15103,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -16101,7 +16016,6 @@ const CTPRODUCTS = [
   "title": "Sheny removal Cleanser Refreshing skin Face Wash (36 g)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:wash",
    "ing:rice-water",
@@ -16757,7 +16671,6 @@ const CTPRODUCTS = [
   "title": "Latibule Natural Skin Brightening Detoxifying, Facial Cleanser F …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:ubtan",
    "claim:brightening",
@@ -16976,7 +16889,6 @@ const CTPRODUCTS = [
   "title": "CORPHARM Face Cleanser for Men & Women – Brightening, Hydrating & …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -17124,7 +17036,6 @@ const CTPRODUCTS = [
   "title": "COAL CLEAN BEAUTY Radiance Face Cleanser For Face Wash (150 ml)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -17342,7 +17253,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:wash",
    "claim:brightening",
    "claim:dark-spots",
@@ -17812,7 +17722,6 @@ const CTPRODUCTS = [
   "title": "Beleza professional Papaya Cleansing Milk |Unisex Deep Cleanser, …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:papaya",
    "ing:milk",
@@ -18246,7 +18155,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -19629,7 +19537,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -20457,7 +20364,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:micellar",
@@ -20981,7 +20887,6 @@ const CTPRODUCTS = [
   "title": "GABBU Lip & Eye Makeup Remover Oil Free Micellar Water Makeup Rem …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:micellar",
    "ing:vitamin-c",
@@ -23085,7 +22990,6 @@ const CTPRODUCTS = [
   "title": "MYEONG Makeup Remover Oil-Free Liquid Eye Makeup Remover Micellar …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:pads",
    "format:wash",
    "format:micellar",
@@ -26332,7 +26236,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:micellar",
    "format:kit",
@@ -26403,7 +26306,6 @@ const CTPRODUCTS = [
   "title": "FRILWING Oil Free Micellar Water Makeup Remover For Face Makeup R …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:micellar",
    "claim:lightweight",
@@ -26616,7 +26518,6 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:micellar",
    "format:kit",
@@ -26770,7 +26671,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:micellar",
@@ -26849,7 +26749,6 @@ const CTPRODUCTS = [
   "title": "purobio Marigold Micellar Makeup Remover With Ultra-Soft Cloths | …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:pads",
    "format:wash",
    "format:micellar",
@@ -27301,7 +27200,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:brightening",
@@ -27376,7 +27274,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -27841,7 +27738,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "claim:oil-control",
    "free:vegan",
@@ -27911,7 +27807,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -28074,7 +27969,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:foam",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -28235,7 +28129,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:peel",
    "format:wash",
    "format:kit",
@@ -28626,7 +28519,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -28706,7 +28598,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:strawberry",
@@ -28846,7 +28737,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:wash",
    "claim:oil-control",
    "skin:oily",
@@ -28915,7 +28805,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:aloe-vera",
@@ -29067,7 +28956,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:glycerin",
    "claim:oil-control",
@@ -29359,7 +29247,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -29652,7 +29539,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:neem",
    "claim:brightening",
@@ -29794,7 +29680,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:tea-tree",
@@ -29869,7 +29754,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "claim:brightening",
@@ -30020,7 +29904,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:clay-mask",
    "format:powder",
    "format:wash",
@@ -30110,7 +29993,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:lotion",
-   "format:oil",
    "format:wash",
    "claim:oil-control",
    "free:paraben",
@@ -30401,7 +30283,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:wash",
    "ing:rice-water",
    "claim:brightening",
@@ -30481,7 +30362,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:clay-mask",
    "format:wash",
    "ing:clay",
@@ -30625,7 +30505,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:neem",
@@ -30775,7 +30654,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:hyaluronic-acid",
    "ing:caffeine",
@@ -30924,7 +30802,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:rice-water",
@@ -31001,7 +30878,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
@@ -31157,7 +31033,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -31386,7 +31261,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:aloe-vera",
@@ -31551,7 +31425,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:charcoal",
    "claim:brightening",
@@ -32161,7 +32034,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:rice-water",
@@ -32513,7 +32385,6 @@ const CTPRODUCTS = [
   "title": "HOMBRIA Facewash for Men, Fights Acne & Pimple, Oil Control, Brig …",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:wash",
    "claim:brightening",
    "claim:de-tan",
@@ -32804,7 +32675,6 @@ const CTPRODUCTS = [
   "title": "HOMBRIA Facewash for Men, Anti Acne & Pimple, Deep Clean, Brighte …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "claim:brightening",
    "claim:de-tan",
@@ -33090,7 +32960,6 @@ const CTPRODUCTS = [
   "title": "mCaffeine Coffee Face Wash & Scrub Combo, Reduces Acne Pimple & T …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "format:kit",
@@ -33174,7 +33043,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -33258,7 +33126,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "claim:brightening",
@@ -33689,7 +33556,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:essence",
-   "format:oil",
    "format:bar",
    "format:wash",
    "ing:niacinamide",
@@ -33763,7 +33629,6 @@ const CTPRODUCTS = [
   "title": "BELAVIA Deep Cleansing Aquatic Face Wash (100 ml)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -34127,7 +33992,6 @@ const CTPRODUCTS = [
   "title": "BLUEWELL Refreshing Aquatic Face Cleanser Face Wash (100 ml)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:aloe-vera",
    "ing:glycerin",
@@ -34354,7 +34218,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:wash",
    "ing:ceramides",
    "ing:rice-water",
@@ -34573,7 +34436,6 @@ const CTPRODUCTS = [
    "format:cream",
    "format:foam",
    "format:essence",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -35785,7 +35647,6 @@ const CTPRODUCTS = [
   "title": "PRO99S Rice Water Glow Therapy for Daily Use Face Wash (100 ml)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:rice-water",
@@ -36491,7 +36352,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:scrub",
    "format:peel",
@@ -37378,7 +37238,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:serum",
-   "format:oil",
    "format:clay-mask",
    "format:pack",
    "format:scrub",
@@ -37702,7 +37561,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:peel",
    "format:wash",
@@ -38020,7 +37878,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:patch",
    "format:wash",
@@ -38178,7 +38035,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -38417,7 +38273,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -38499,7 +38354,6 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:toner",
-   "format:oil",
    "format:pack",
    "format:scrub",
    "format:wash",
@@ -39033,7 +38887,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -39754,7 +39607,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -40001,7 +39853,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:rice-water",
@@ -40075,7 +39926,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:rice-water",
@@ -40148,7 +39998,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -40312,7 +40161,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -40393,7 +40241,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -40552,7 +40399,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -40631,7 +40477,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:rice-water",
@@ -40704,7 +40549,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:rice-water",
@@ -40851,7 +40695,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -41285,7 +41128,6 @@ const CTPRODUCTS = [
   "title": "Phillauri Walnut Grain Face Cleanser | Gentle Use Facial Polish | …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:scrub",
    "format:wash",
@@ -42722,7 +42564,6 @@ const CTPRODUCTS = [
   "title": "TUPIK Salicylic Acid Deep Cleansing Oil Control with Natural Ex …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
@@ -43035,7 +42876,6 @@ const CTPRODUCTS = [
   "title": "krika 2% Salicylic acid Facewash for Glowing Face Wash (100 ml)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:green-tea",
@@ -43117,7 +42957,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -43272,7 +43111,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:foam",
    "format:essence",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -43582,7 +43420,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -43739,7 +43576,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -43905,7 +43741,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -43977,7 +43812,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:essence",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:niacinamide",
@@ -44126,7 +43960,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -44278,7 +44111,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-e",
@@ -44429,7 +44261,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "claim:brightening",
@@ -44792,7 +44623,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -45151,7 +44981,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "claim:de-tan",
    "claim:acne",
@@ -45225,7 +45054,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:pack",
    "format:wash",
    "claim:brightening",
@@ -45302,7 +45130,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -45665,7 +45492,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -45748,7 +45574,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -46247,7 +46072,6 @@ const CTPRODUCTS = [
   "title": "HARMELY HARVEST AHA-BHA 3% Face Wash| Exfoliating Cleanser for Ac …",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "format:roll-on",
@@ -46338,7 +46162,6 @@ const CTPRODUCTS = [
   "title": "HARMELY HARVEST AHA-BHA 3% Face Wash + AHA-BHA-PHA 8% Body Wash ( …",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -46485,7 +46308,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -46944,7 +46766,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:serum",
    "format:toner",
-   "format:oil",
    "format:pack",
    "format:powder",
    "format:wash",
@@ -47027,7 +46848,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:serum",
    "format:mist",
-   "format:oil",
    "format:clay-mask",
    "format:powder",
    "format:wash",
@@ -47393,7 +47213,6 @@ const CTPRODUCTS = [
   "title": "Latibule Aloevera Facewash, Anti-bacterial for refreshing and fac …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:aloe-vera",
    "ing:neem",
@@ -47545,7 +47364,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:clay-mask",
    "format:wash",
    "format:kit",
@@ -47690,7 +47508,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:tea-tree",
    "claim:acne",
@@ -47840,7 +47657,6 @@ const CTPRODUCTS = [
   "title": "zetazio Deep Sea Glow Face Cleanser Face Wash (100 ml)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -48437,7 +48253,6 @@ const CTPRODUCTS = [
   "title": "LOTUS HERBALS WhiteGlow ( Oil Control Facewash_100g+ Facial Form_ …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:kit",
    "ing:colloidal-oatmeal",
    "claim:oil-control",
@@ -48507,7 +48322,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:vitamin-c",
@@ -48804,7 +48618,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -49109,7 +48922,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -49193,7 +49005,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:pack",
    "format:pads",
    "format:wash",
@@ -49421,7 +49232,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -49579,7 +49389,6 @@ const CTPRODUCTS = [
   "title": "Muuchstac Ocean Face Wash for Men | Fight Acne & Pimples, Brighten Skin, Clears Dirt, Oil Control, Refreshing Feel - Multi-Action Formula (3x100 ml)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:licorice",
@@ -51940,7 +51749,6 @@ const CTPRODUCTS = [
   "title": "Mamaearth Vitamin C Face Wash for Women & Men 250ml- Toxin-Free & Oil-Free Face Wash for Acne-Prone, Dry & Oily Skin - Illuminates Skin",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -57582,7 +57390,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -57722,7 +57529,6 @@ const CTPRODUCTS = [
   "title": "Proskire Skin Perfecting Face Wash with Niacinamide, Ceramides & Licorice | Clear, Glow, Oil Control − 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -58587,7 +58393,6 @@ const CTPRODUCTS = [
   "title": "NIVEA Luminous Even Glow 2% AHA Face Wash | Oil-Free Cleanser with Aloe Vera & Guarana Extracts | Deep Cleansing Face Wash for Oily, Normal & Sensitive Skin | Exfoliating Brightening Face Cleanser for Women & Men | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:aha",
    "ing:aloe-vera",
@@ -59126,7 +58931,6 @@ const CTPRODUCTS = [
   "title": "NIVEA MEN Oil Control Face Wash 100 g | With Magnolia Bark Extracts for 12 Hr Oil Control in Summer | 10 X Vitamin C Effect for Radiant Skin | For Oily Skin",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "claim:oil-control",
@@ -59440,7 +59244,6 @@ const CTPRODUCTS = [
   "title": "Mamaearth Charcoal Face Wash with Activated Charcoal & Coffee for Oil Control (100ml)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:coffee",
    "ing:charcoal",
@@ -59828,7 +59631,6 @@ const CTPRODUCTS = [
   "title": "Mamaearth Charcoal Face Wash with Activated Charcoal & Coffee for Oil Control (250ml)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:coffee",
    "ing:charcoal",
@@ -60337,7 +60139,6 @@ const CTPRODUCTS = [
   "title": "WATERLESS Facewash | Oligogeline™ PF | Clair Blanche™ ||| | Instant Brightening | Anti-Pollution | For Oil Free Skin | Product by Doctor",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "claim:brightening",
    "free:oil-free",
    "aud:unisex",
@@ -60802,7 +60603,6 @@ const CTPRODUCTS = [
   "title": "Beardo 3-in-1 Activated Charcoal Face Wash| Deep Cleanse, Exfoliate & Detoxify | All-in-One Face Wash for Oily Skin, Dirt & Pollution Removal | Oil Control Face wash for men 200ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:charcoal",
    "claim:oil-control",
@@ -60932,7 +60732,6 @@ const CTPRODUCTS = [
   "title": "Délmarin Power Clean Face Wash for Men with Salicylic Acid, Niacinamide, Zinc PCA and Menthyl Lactate, Deep Cleansing, Oil Control, Instant Cooling Feel and Deep Marine Freshness, 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -61126,7 +60925,6 @@ const CTPRODUCTS = [
   "title": "DERMATOUCH Bright & Even Tone Face Wash with Niacinamide, Vitamin E and Kojic Acid | For Tan, Pigmentation Dark Spots & Uneven Skin Tone | Oil Control | Dermatologist Tested | For Men & Women | 150g",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:kojic-acid",
@@ -61698,7 +61496,6 @@ const CTPRODUCTS = [
   "title": "Neutrogena Oil Free Acne Wash | 2% Salicylic Acid Deep Cleansing Face Wash for Oily Skin|Hydrating, Alcohol Free, Non Comedogenic & Dermatologically Tested | For Oily Acne Prone Skin |For Men & Women 175ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -61901,7 +61698,6 @@ const CTPRODUCTS = [
   "title": "Deconstruct Salicylic Acid Oil Control Face Wash with Niacinamide | Facewash for Men & Women | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -62503,7 +62299,6 @@ const CTPRODUCTS = [
   "title": "Oil-Control Face Wash | Acne & Oily Skin Cleanser for Men & Women with 1% Salicylic Acid, Rice Water & Centella Asiatica – 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:rice-water",
@@ -62634,7 +62429,6 @@ const CTPRODUCTS = [
   "title": "The Man Company Vitamin C Face Wash For Man | Brightening & Glowing Skin I Oil Control | Vitamin C & Niacinamide | Hydrates | Gentle Deep Cleanse | Suitable For Oily, Dry & Sensitive Skin 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -64262,7 +64056,6 @@ const CTPRODUCTS = [
   "title": "VISIONEX Ocean Face Wash for Men | Fight Acne & Pimples, Brighten Skin, Clears Dirt, Oil Control, Refreshing Feel - Multi-Action Formula (100 ml)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "claim:brightening",
    "claim:acne",
@@ -64326,7 +64119,6 @@ const CTPRODUCTS = [
   "title": "Ocean Face Wash for Men | Fight Acne & Pimples, Brighten Skin, Clears Dirt, Oil Control, Refreshing Feel - Multi-Action Formula Pack Of 1 (100 ml Each)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "claim:brightening",
@@ -64593,7 +64385,6 @@ const CTPRODUCTS = [
   "title": "Charcoal Face Wash for Men & Women with Activated Charcoal, Aloe Vera, Green Tea & Pomegranate, Deep Cleansing & Oil Control Face Cleanser, 150 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:green-tea",
    "ing:aloe-vera",
@@ -64855,7 +64646,6 @@ const CTPRODUCTS = [
   "title": "DermaDeal Charcoal Oil Control Creamy Face Wash with Charcoal Powder, Aloe Vera, Green Tea & Pomegranate Extract, Deep Cleansing Face Wash for Oily Skin, Sulphate & Paraben Free, Men & Women, 150 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:powder",
    "format:wash",
    "ing:green-tea",
@@ -64923,7 +64713,6 @@ const CTPRODUCTS = [
   "title": "Charcoal Face Wash with Activated Charcoal, Aloe Vera, Green Tea & Pomegranate, Oil Control & Deep Cleansing Formula, For Men & Women, 150 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:green-tea",
    "ing:aloe-vera",
@@ -65051,7 +64840,6 @@ const CTPRODUCTS = [
   "title": "Charcoal Face Wash with Activated Charcoal, Aloe Vera, Green Tea & Pomegranate, Deep Cleansing & Oil Control Face Cleanser, For Men & Women, 150 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:green-tea",
    "ing:aloe-vera",
@@ -65117,7 +64905,6 @@ const CTPRODUCTS = [
   "title": "Hyphen Oil Control 2% AHA + BHA, Salicylic Acid Face Wash for Oily Skin & Acne| Daily Exfoliating Cleanser with 2% Niacinamide | Deep Cleanses & Removes Dirt | For Men & Women - 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -65313,7 +65100,6 @@ const CTPRODUCTS = [
   "title": "Active Clean Face Wash for Men | Reduces Pimple Acne & Oil Control, Brighten Skin, Hydrating - Deep Clean Formula",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "claim:brightening",
    "claim:acne",
@@ -65565,7 +65351,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:glutathione",
    "claim:brightening",
@@ -65831,7 +65616,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
@@ -66558,7 +66342,6 @@ const CTPRODUCTS = [
   "title": "Ocean Face Wash for Men 100ml | Anti-Acne | Oil Control, Niacinamide | CYAE Ocean Face Wash 100ml with Niacinamide, Menthol & Licorice. Anti-acne, oil control, brightening. For all skin types.",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:licorice",
@@ -66623,7 +66406,6 @@ const CTPRODUCTS = [
   "title": "4% Benzoyl Peroxide Creamy Face Wash for Oily & Acne-Prone Skin, Deep Cleansing & Oil Control, for Men & Women, 70g",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:benzoyl-peroxide",
    "claim:acne",
@@ -67999,7 +67781,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "claim:acne",
    "claim:oil-control",
@@ -69057,7 +68838,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "claim:oil-control",
    "skin:oily",
@@ -70872,7 +70652,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
@@ -70941,7 +70720,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:pha",
    "claim:pores",
@@ -71393,7 +71171,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -72066,7 +71843,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "claim:brightening",
    "claim:oil-control",
@@ -72197,7 +71973,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -76300,7 +76075,6 @@ const CTPRODUCTS = [
   "title": "Lacto Calamine Neem Face Wash With Aloe Vera & Turmeric | 150ml | Niacinamide & Salicylic Acid Face Wash | Facewash Reduces Pimples, Purifies Skin & Oil Control | For All Skin Types",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -76433,7 +76207,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "ing:niacinamide",
@@ -79147,7 +78920,6 @@ const CTPRODUCTS = [
   "title": "Seoulskin 2% Salicylic Acid Acne Control Face Wash for Oily & Acne Prone Skin | With AHAs for Pore Cleansing, Oil Control & Sebum Regulation | Treats Active Acne | For Women & Men | 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -79213,7 +78985,6 @@ const CTPRODUCTS = [
   "title": "Nidwash Charcoal Face Wash, Fights Pollution, Oil Control For Men & Women (PACK OF 2)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:charcoal",
@@ -80136,7 +79907,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:pores",
@@ -80479,7 +80249,6 @@ const CTPRODUCTS = [
   "title": "DERMATOUCH Salicylic Acid 2% Face Wash | For Acne & Oil Control | Suitable to All Skin Types | For Both Men and Women | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -80670,7 +80439,6 @@ const CTPRODUCTS = [
   "title": "Muuchstac Ocean Face Wash for Men (2 x 100ml) – Anti-Acne/Pimple, Oil Control & Skin Brightening Cleanser – with Niacinamide, Menthol & Licorice Extracts – For All Skin Types",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:licorice",
@@ -80737,7 +80505,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:tea-tree",
    "ing:neem",
@@ -80926,7 +80693,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne Face Wash (100ml) with Salicylic Acid & Walnut Shell Powder – Deep Pore Cleansing Oil Control Face Cleanser for Pimples, Blackheads & Clear Skin",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:powder",
    "format:wash",
    "ing:salicylic-acid-bha",
@@ -81303,7 +81069,6 @@ const CTPRODUCTS = [
   "title": "Radishine AC Face Cleanser | Oil Control & Hydration Care | Smooth Skin Formula | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "claim:oil-control",
    "claim:hydrating",
@@ -81639,7 +81404,6 @@ const CTPRODUCTS = [
   "title": "Nirvartya Shodaka Clear Anti Acne Face Wash with Carrot, Beetroot, Neem & Tea Tree | Oil Control & Acne Care | Eco-Certified Surfactants | Daily Gentle Cleanser | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:tea-tree",
    "ing:neem",
@@ -82156,7 +81920,6 @@ const CTPRODUCTS = [
   "title": "DermaDeal Charcoal Oil Control Creamy Face Wash with Charcoal, Aloe Vera, Green Tea & Pomegranate Extract, Deep Cleansing Face Cleanser for Oily Skin, Sulphate Free, 150 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:green-tea",
    "ing:aloe-vera",
@@ -82493,7 +82256,6 @@ const CTPRODUCTS = [
   "title": "Pure Cleanse Deep Cleansing Face Wash with Willow Bark & Vitamin C - Oil Control & Pore Cleansing for Acne-Prone & Sensitive Skin, 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "claim:acne",
@@ -82819,7 +82581,6 @@ const CTPRODUCTS = [
   "title": "Refreshing Cleanser Face Wash | Green Tea, Centella & Willow Bark | Deep Pore Cleansing | Oil Balance | Dermatologist Tested | Vegan | 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:green-tea",
    "ing:centella-cica",
@@ -83627,7 +83388,6 @@ const CTPRODUCTS = [
   "title": "MEDISHOPP 60gm Bella Neem Face Wash | Herbal Face Cleanser with Neem, Aloe Vera, Papaya & Cucumber Extract | Deep Cleansing Face Wash for Pimples, Oil Control & Fresh, Healthy Skin (Pack of 3)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:aloe-vera",
@@ -85512,7 +85272,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:wash",
    "format:micellar",
    "ing:rose",
@@ -88069,7 +87828,6 @@ const CTPRODUCTS = [
   "title": "Marcelle Micellar Water, Dry Skin, Makeup Remover, Hyaluronic Acid, Sensitive Skin and Eyes, Oil-Free, Alcohol-Free, Fragrance-Free, Hypoallergenic, Cruelty-Free, 13.5 Fl. Oz.",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:micellar",
    "ing:hyaluronic-acid",
    "free:fragrance",
@@ -88517,7 +88275,6 @@ const CTPRODUCTS = [
   "title": "Cosmo Face Care Purifying Micellar Water 200ml With Aloe Vera | Oil Control Cleanser & Combination Skin | Matte Finish, Unclogs Pores, Makeup Remover | No Rinse | No Sticky | For All Skin Types",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:micellar",
    "ing:aloe-vera",
@@ -90496,7 +90253,6 @@ const CTPRODUCTS = [
   "title": "Seven Seas Perfect Clean Lip & Eye Makeup Cleanser Oil Free Micellar Water",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:micellar",
    "free:oil-free",
@@ -95083,7 +94839,6 @@ const CTPRODUCTS = [
   "title": "Dot & Key CICA Face Wash for Acne Prone Skin, 2% Salicylic Acid with Green Tea | For Oily & Sensitive Skin | Sulphate Free for Men & Women | Oil Control Face Wash with Zinc | 175ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:green-tea",
@@ -95493,7 +95248,6 @@ const CTPRODUCTS = [
   "title": "COS-IQ Salicylic Acid Face Wash 2% with 10% Glycolic Acid For All Skin Type | Anti-Acne Exfoliating Face Cleanser for Pimples, Blackheads, Unclogging Pores & Oil Control Cleanser for Women & Men, 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -95626,7 +95380,6 @@ const CTPRODUCTS = [
   "title": "Deep Purifying and Oil Control Trio | Green Tea Chickpea and Rice Water Face Wash Combo | Natural Face Cleanser Set for Oily Skin | Refreshing Daily Skincare Regimen for Radiant Glow",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:rice-water",
@@ -95757,7 +95510,6 @@ const CTPRODUCTS = [
   "title": "Face Wash for Oily Skin | Acne Face Wash | Oil Control Cleanser for Acne-Prone Skin with Cooling Effect",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "claim:acne",
    "claim:oil-control",
@@ -95821,7 +95573,6 @@ const CTPRODUCTS = [
   "title": "Délmarin Acne Control Face Wash with 2% Salicylic Acid, 2% Niacinamide and Zinc PCA, Anti-Acne Cleanser for Oil Control and Pore Cleansing, Oily and Acne-Prone Skin, 80 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -95892,7 +95643,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -95958,7 +95708,6 @@ const CTPRODUCTS = [
   "title": "Aloe Vera Tea Tree Face Wash for Normal to Oily Skin | Deep Cleansing Facial Cleanser for Oil Control, Refreshing & Hydrating Skin Care | 100% Botanical Extracts | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:tea-tree",
    "ing:aloe-vera",
@@ -96025,7 +95774,6 @@ const CTPRODUCTS = [
   "title": "2% Salicylic Acid Face Wash for Acne, Pimples, Blackheads and Oil Control - Niacinamide Cleanser for Oily, Acne-Prone Skin, Pore Cleansing, Men and Women, 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -96370,7 +96118,6 @@ const CTPRODUCTS = [
   "title": "My Oil-Balance Cleanser | Face Wash for Oily Skin | Niacinamide & Tea Tree Post-Biotics Face Wash | Fights Acne & Marks | pH Balanced | 100g",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:tea-tree",
@@ -96643,7 +96390,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne & Oil Control Face Wash for Men & Women | 1.5% Salicylic Acid + 3.5% Niacinamide | Deep Pore Cleanser for Oily & Acne-Prone Skin |100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -96712,7 +96458,6 @@ const CTPRODUCTS = [
   "title": "Acne Control Face Wash with Salicylic Acid & Niacinamide, 100 ml | A+ Care | 1.5% Salicylic Acid + 3.5% Niacinamide | Oil Control | Gentle Daily Cleanser | For Oily & Acne-Prone Skin",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -96780,7 +96525,6 @@ const CTPRODUCTS = [
   "title": "Face Wash for Men | Fight Acne & Pimples, Brighten Skin, Deep Pore Cleansing, Oil Control, Instant Cooling Refreshing Feel - Multi-Action Formula ; All Type Skin ; 150 ml ; Pack of 1",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "claim:brightening",
@@ -97325,7 +97069,6 @@ const CTPRODUCTS = [
   "title": "MellowFresh FaceWash for Normal to Oily Skin | Brightening & Oil-Control Daily Cleanser | Prevents Acne & Removes Dirt | 100 ml",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:wash",
    "claim:brightening",
    "claim:acne",
@@ -97648,7 +97391,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne & Oil Control Face Wash for Men & Women | 1.5% Salicylic Acid + 3.5% Niacinamide | Deep Pore Cleanser for Oily & Acne-Prone Skin | 2 × 100 ml | Pack of 2",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -97718,7 +97460,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne Brightening Face Wash with Niacinamide 4% Salicylic Acid 1% Vitamin C Aloe Vera Extract Oil Control Deep Cleansing Facial Cleanser Lightweight Non Sticky Daily Face Wash for Oily Acne Prone Skin 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -97791,7 +97532,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -97932,7 +97672,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -98005,7 +97744,6 @@ const CTPRODUCTS = [
   "title": "Salicylic Acid Face Wash for Acne & Oily Skin | Anti-Pimple Cleanser for Men & Women | Deep Cleansing, Oil Control, Acne-Prone Skinsalicylic acid Aloveera & Glycolic Acid & Vitamin-E-Acetae | All Skin Types | dermatologist recommended acne face wash",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -98667,7 +98405,6 @@ const CTPRODUCTS = [
   "title": "Gentle Skin Face Wash 100ml with Vitamin B3 & Pro-Vitamin B5 | Deep Cleansing Facial Cleanser for Oily & Combination Skin | Oil Control Daily Face Wash |",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:vitamin-b5-panthenol",
@@ -98748,6 +98485,70 @@ const CTPRODUCTS = [
   "filters": {
    "actives": false,
    "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "himalaya-b0f6twksq1",
+  "brand": "Himalaya",
+  "model": "Hydrating Aloe Vera Face Wash 100 ml | Aloe Vera & Vitamin E | Creamy Gentle Cleanser for …",
+  "price": 121,
+  "capacityLine": "100 ml",
+  "materialLine": "aloe vera + vitamin E",
+  "featureLine": "Wash / cleanser · Paraben-free · ₹121/100ml",
+  "highlight": "Live Amazon listing rated 4.3★ by Build a basket and save more buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹121/100ml",
+   "Paraben-free (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [],
+  "scores": {
+   "trust": 6.5,
+   "skin": 4.6,
+   "ingredients": 4.8,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹121/100ml",
+   "format": "Wash / cleanser",
+   "keyIngredients": "aloe vera, vitamin E (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Build a basket and save more ratings, Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/614Fmi+fg9L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F6TWKSQ1",
+  "buyStore": "Amazon",
+  "title": "Himalaya Hydrating Aloe Vera Face Wash 100 ml | Aloe Vera & Vitamin E | Creamy Gentle Cleanser for Bouncy & Dewy Skin | Clinically Tested | Paraben Free| For Dry Skin",
+  "tags": [
+   "scope:face",
+   "format:wash",
+   "ing:aloe-vera",
+   "ing:vitamin-e",
+   "claim:hydrating",
+   "free:paraben",
+   "skin:dry",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
    "natural": false,
    "derm": false,
    "men": false,
@@ -98949,6 +98750,74 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "simple-b0gwyc8z79",
+  "brand": "Simple",
+  "model": "Hydrating Gel Wash| 100% Soap Free | Gentle Hydrating Facewash with Pentavitin & Panthenol…",
+  "price": 213,
+  "capacityLine": "100 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Wash / cleanser · ₹213/100ml",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹213/100ml",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.5,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹213/100ml",
+   "format": "Wash / cleanser",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51-iQWXjofL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GWYC8Z79",
+  "buyStore": "Amazon",
+  "title": "Simple Hydrating Gel Wash| 100% Soap Free | Gentle Hydrating Facewash with Pentavitin & Panthenol | Cleanser for Dry Sensitive Skin, 100 ml",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:bar",
+   "format:wash",
+   "ing:vitamin-b5-panthenol",
+   "claim:hydrating",
+   "free:sulfate",
+   "free:sensitive-safe",
+   "skin:dry",
+   "skin:sensitive",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "aqualogica-b0c86c4gdl",
   "brand": "Aqualogica",
   "model": "illuminate+ Smoothie Face Wash with Wild Berries & Alpha Arbutin for Gently Exfoliates & H…",
@@ -99010,6 +98879,83 @@ const CTPRODUCTS = [
    "freefrom": false,
    "natural": false,
    "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "re-b0glgctprc",
+  "brand": "RE'",
+  "model": "EQUIL Fruit AHA Face Wash | Daily Exfoliating Cleanser for pigmentation, dullness & uneven…",
+  "price": 310,
+  "capacityLine": "150 ml",
+  "materialLine": "glycolic acid + lactic acid",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹207/100ml",
+  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹207/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.9,
+   "skin": 6.2,
+   "ingredients": 5.5,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "150 ml",
+   "pricePer100": "₹207/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "glycolic acid, lactic acid (per listing)",
+   "freeFrom": "Paraben-free, Sulfate/SLS-free, Alcohol-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51shELqccgL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/51adot7PFvL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61Fq98xdriL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/61NvHj7yiPL._SL1200_.jpg",
+   "https://m.media-amazon.com/images/I/51oeiYRPtqL._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GLGCTPRC",
+  "buyStore": "Amazon",
+  "title": "RE' EQUIL Fruit AHA Face Wash | Daily Exfoliating Cleanser for pigmentation, dullness & uneven skin tone | With Glycolic & Lactic acid from fruit extracts - 150 ml",
+  "tags": [
+   "scope:face",
+   "format:wash",
+   "ing:glycolic-acid",
+   "ing:lactic-acid",
+   "ing:aha",
+   "claim:dark-spots",
+   "claim:pores",
+   "claim:exfoliating",
+   "free:paraben",
+   "free:sulfate",
+   "free:alcohol",
+   "free:mineral-oil",
+   "free:oil-free",
+   "free:derm",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": true,
    "men": false,
    "women": false
   }
@@ -100596,6 +100542,79 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "dr-rashel-b0gh82hswm",
+  "brand": "DR.RASHEL",
+  "model": "White Skin Face wash Natural Extracts White Skin Facewash | Deep cleansing and skin bright…",
+  "price": 113,
+  "capacityLine": "50 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Wash / cleanser · ₹226/100ml",
+  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹226/100ml",
+   "Dermatologically tested (per listing)",
+   "Strong buyer rating (4.2)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4.7,
+   "ingredients": 4.3,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹226/100ml",
+   "format": "Wash / cleanser",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61ylu87z2zL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71R0zJYFyCL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71aLG9mxSDL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81q7wixyjOL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/817qkkIn2vL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GH82HSWM",
+  "buyStore": "Amazon",
+  "title": "DR.RASHEL White Skin Face wash Natural Extracts White Skin Facewash | Deep cleansing and skin brightening for oily and dry skin 50ml Each",
+  "tags": [
+   "scope:face",
+   "format:oil",
+   "format:pack",
+   "format:wash",
+   "claim:brightening",
+   "claim:whitening-claim",
+   "free:derm",
+   "skin:oily",
+   "skin:dry",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "cos-iq-b0cg9qfzws",
   "brand": "Cos-Iq",
   "model": "5% Vitamin C Face Wash for Men & Women, 100ml Pack of 2 | brightens dull skin, reduces tan…",
@@ -101124,6 +101143,71 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "dr-rashel-b0fp99swl5",
+  "brand": "DR.RASHEL",
+  "model": "White Skin Face wash Natural Extracts White Skin Facewash | Deep cleansing and skin bright…",
+  "price": 360,
+  "capacityLine": "200 ml (pack of 2)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Wash / cleanser · ₹180/100ml",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹180/100ml",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 4.3,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "100 ml × 2 pack",
+   "pricePer100": "₹180/100ml",
+   "format": "Wash / cleanser",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71uMhKhCiJL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FP99SWL5",
+  "buyStore": "Amazon",
+  "title": "DR.RASHEL White Skin Face wash Natural Extracts White Skin Facewash | Deep cleansing and skin brightening for oily and dry skin 100ml Each | Pack of 2",
+  "tags": [
+   "scope:face",
+   "format:wash",
+   "format:kit",
+   "claim:brightening",
+   "skin:oily",
+   "skin:dry",
+   "aud:unisex",
+   "size:large",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "selas-b01n00tr6c",
   "brand": "SELAS",
   "model": "Skin Renew Face Wash with Vitamin C, Aloe Vera Extract and Niacinamide, for All Skin Types…",
@@ -101179,6 +101263,72 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:large",
    "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "nezal-b0hgtnt7ht",
+  "brand": "Nezal",
+  "model": "Aloe Vera Vitamin C Foaming Face Wash for Sensitive Skin 150ml | Mild Foaming Cleanser Des…",
+  "price": 333,
+  "capacityLine": "150 ml",
+  "materialLine": "vitamin C + aloe vera",
+  "featureLine": "Wash / cleanser · ₹222/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹222/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "150 ml",
+   "pricePer100": "₹222/100ml",
+   "format": "Wash / cleanser",
+   "keyIngredients": "vitamin C, aloe vera (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51792NjORoL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HGTNT7HT",
+  "buyStore": "Amazon",
+  "title": "Nezal Aloe Vera Vitamin C Foaming Face Wash for Sensitive Skin 150ml | Mild Foaming Cleanser Designed, Gently Remove Dirt and Impurities While Maintaining Skin",
+  "tags": [
+   "scope:face",
+   "format:foam",
+   "format:wash",
+   "ing:vitamin-c",
+   "ing:aloe-vera",
+   "free:sensitive-safe",
+   "skin:sensitive",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
    "store:amazon"
   ],
   "filters": {
@@ -101427,7 +101577,6 @@ const CTPRODUCTS = [
   "title": "Clear Skin Face Wash with Niacinamide, Aloe Vera & 1% Zinc PCA | Soap-Free, Sulphate-Free, Paraben-Free, pH Balanced | Oil Control, Gentle Cleansing & Acne Care | Face Wash for Oily, Combination & Sensitive Skin | Men & Women | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:bar",
    "format:wash",
    "ing:niacinamide",
@@ -102829,6 +102978,73 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "globus-b0gccllptm",
+  "brand": "Globus",
+  "model": "Naturals Rice Ceramide Korean Glass Skin 4 Step Skincare Range | Face Wash, Cream, Serum, …",
+  "price": 536,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "ceramides + rice water",
+  "featureLine": "Wash / cleanser",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.8,
+   "skin": 4,
+   "ingredients": 5.8,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Wash / cleanser",
+   "keyIngredients": "ceramides, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/713szpIUG-L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GCCLLPTM",
+  "buyStore": "Amazon",
+  "title": "Globus Naturals Rice Ceramide Korean Glass Skin 4 Step Skincare Range | Face Wash, Cream, Serum, Toner | Brightening & Glow Care for Men & Women",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:serum",
+   "format:toner",
+   "format:wash",
+   "ing:ceramides",
+   "ing:rice-water",
+   "claim:brightening",
+   "claim:korean",
+   "aud:women",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
   "id": "rice-b0h4b1zgfq",
   "brand": "Rice",
   "model": "Water & Hyaluronic Acid Face Wash for Deep Cleansing & Hydration | Boost Collagen, Barrier…",
@@ -103090,6 +103306,142 @@ const CTPRODUCTS = [
    "actives": false,
    "freefrom": false,
    "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0gkn2ndd7",
+  "brand": "Buy",
+  "model": "The Face Shop Hydration & Firming Skincare Combo | Rice Ceramide Emulsion, Pomegranate & C…",
+  "price": 2687,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "ceramides + rice water",
+  "featureLine": "Wash / cleanser",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Wash / cleanser",
+   "keyIngredients": "ceramides, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61G03jxcK-L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GKN2NDD7",
+  "buyStore": "Amazon",
+  "title": "Buy The Face Shop Hydration & Firming Skincare Combo | Rice Ceramide Emulsion, Pomegranate & Collagen Serum & Cream, Face Wash Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:serum",
+   "format:emulsion",
+   "format:wash",
+   "format:kit",
+   "ing:ceramides",
+   "ing:collagen",
+   "ing:rice-water",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "aud:unisex",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "the-face-shop-b0gghyf4cx",
+  "brand": "The Face Shop",
+  "model": "Rice Water Bright Foaming Face Wash 100ml & Vegan Mucin Peptide 8 Moisturizer Cream 50ml",
+  "price": 1576,
+  "capacityLine": "100 ml",
+  "materialLine": "peptides + rice water",
+  "featureLine": "Wash / cleanser · ₹1576/100ml",
+  "highlight": "Live Amazon listing rated 5.0★ by 25654 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1576/100ml"
+  ],
+  "scores": {
+   "trust": 6.2,
+   "skin": 4,
+   "ingredients": 6,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹1576/100ml",
+   "format": "Wash / cleanser",
+   "keyIngredients": "peptides, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (25654 ratings, Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51FC1H7q1RL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GGHYF4CX",
+  "buyStore": "Amazon",
+  "title": "The Face Shop Rice Water Bright Foaming Face Wash 100ml & Vegan Mucin Peptide 8 Moisturizer Cream 50ml",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:foam",
+   "format:wash",
+   "ing:peptides",
+   "ing:rice-water",
+   "claim:hydrating",
+   "free:vegan",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
    "derm": false,
    "men": false,
    "women": false
@@ -103806,7 +104158,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:retinol",
@@ -105473,7 +105824,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -105882,7 +106232,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -106022,7 +106371,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:foam",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -106161,7 +106509,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -106502,7 +106849,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -106967,7 +107313,6 @@ const CTPRODUCTS = [
   "title": "Hyphen Anti-Acne 2% Salicylic Acid Face Wash | Oil Control & Pore Cleansing",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -107883,7 +108228,6 @@ const CTPRODUCTS = [
   "title": "DERMATOUCH Salicylic Acid 2% Face Wash | For Acne & Oil Control | Suitable to All Skin Types | For Both Men and Women | 50ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -108416,7 +108760,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -108484,7 +108827,6 @@ const CTPRODUCTS = [
   "title": "Earthwise 2% Salicylic and 1% Glycolic oil free Face Wash | Deep Cleansing Hydrating | Anti-Acne and Oil Control | Paraben-Free | Sulfate-Free | Suitable For All Skin Type | 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -108758,7 +109100,6 @@ const CTPRODUCTS = [
   "title": "Edith Naturals 2% Salicylic Acid Face Wash, Anti-Pimples, Removes Blackheads, Oil Free, Alcohol Free, 100 ML",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -108890,7 +109231,6 @@ const CTPRODUCTS = [
   "title": "ROTEX Will Impex Salisix Facewash | Salicylic Acid Face Wash for Acne, Pimples & Oily Skin | Deep Cleansing & Oil Control Formula | Dermatologist Recommended | 60 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -108958,7 +109298,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:pores",
@@ -109415,7 +109754,6 @@ const CTPRODUCTS = [
   "title": "Acne Control Face Cleanser 100ml with 2% Salicylic Acid | Face Wash for Oily & Acne-Prone Skin | Niacinamide & Ceramides | Oil-Free, Reduces Pimples, Blackheads & Redness | Daily Use",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -109485,7 +109823,6 @@ const CTPRODUCTS = [
   "title": "MEDISHOPP Salisix Face Wash 2% Salicylic Acid & Triclosan, Paraben-Free Deep Cleansing Face Wash for Oily & Acne-Prone Skin, Oil Control Facial Cleanser (60 ml)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -109694,7 +110031,6 @@ const CTPRODUCTS = [
   "title": "Yubari Salicylic Acid & Green Tea Face Wash – Oil Control, Sebum Regulation & Acne Care Cleanser | Sulfate-Free Daily Facewash for Oily, Combination & Acne-Prone Skin | Men & Women | 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:green-tea",
@@ -110111,7 +110447,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -110518,7 +110853,6 @@ const CTPRODUCTS = [
   "title": "Edith 2% Salicylic Acid Face Wash, Anti-Pimples, Revive Dead Skin, Oil Free, Remove Blackheads & Whitehead, 100 ML- pack of 2",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -110990,7 +111324,6 @@ const CTPRODUCTS = [
   "title": "Edith 2% Salicylic Acid Face Wash, Anti-Pimples, Removes Blackheads, Oil Free Skin, Alcohol Free, 100 ML",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -111183,7 +111516,6 @@ const CTPRODUCTS = [
   "title": "AAYURIX Salinamide Face Wash for Acne & Pimples | 2% Salicylic Acid + 2% Niacinamide + AHAs & PHAs | Deep Clean, Oil Control, Marks Removal | For Men & Women | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -111248,7 +111580,6 @@ const CTPRODUCTS = [
   "title": "Salicylic Acid Face Wash for Oily & Acne-Prone Skin for Women & Men with Hyaluronic Acid | Acne & Oil Control, Deep Pore Cleansing, Daily Use Face Cleanser | 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
@@ -111318,7 +111649,6 @@ const CTPRODUCTS = [
   "title": "Yubari’s Kino Tree Face Wash with 2% Salicylic Acid & Green Tea Extract | Deep Cleansing Oil Control Face Wash for Acne, Pimples & Blackheads | Gentle Exfoliating Cleanser for Oily & Acne-Prone Skin, 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:green-tea",
@@ -111387,7 +111717,6 @@ const CTPRODUCTS = [
   "title": "Salicylic Acid & Hyaluronic Acid Face Wash for Oily & Acne-Prone Skin | Acne Control, Oil Control Deep Cleansing Face Cleanser for Women & Men | 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
@@ -111654,7 +111983,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -111918,7 +112246,6 @@ const CTPRODUCTS = [
   "title": "Oil Control & Anti Acne Face Wash with 2% Salicylic Acid 1% Niacinamide & Licorice Extract for Oily Acne Prone Skin Deep Cleansing Pore Purifying Blackhead Removal Excess Oil Control Daily Facial",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -111988,7 +112315,6 @@ const CTPRODUCTS = [
   "title": "Oil Free Acne Wash | 2% Salicylic Acid Deep Cleansing Face Wash for Oily Skin|Hydrating, Alcohol Free, Non Comedogenic & Dermatologically Tested | For Oily Acne Prone Skin |For Men & Women (Pack of 1)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -112060,7 +112386,6 @@ const CTPRODUCTS = [
   "title": "2% Salicylic Acid Anti-Acne Face Wash | Niacinamide 6%, Oil Control Cleanser (100ml)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -112194,7 +112519,6 @@ const CTPRODUCTS = [
   "title": "KRUP Aqua Glow Beads Face Wash with Salicylic Acid & Vitamin E for Instant Glow & Oil Control - Acne Clearing BHA Cleanser for Men & Women | All Skin Types 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:vitamin-e",
@@ -112810,7 +113134,6 @@ const CTPRODUCTS = [
   "title": "Rotex Aczee Beta Skin Whitening Face Wash – Salicylic Acid 2% with Aloe Vera | Deep Cleansing, Oil Control & Skin Brightening | Gentle Exfoliating Face Wash for All Skin Types | 60g (Pack of 2)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -113011,7 +113334,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne Brightening Face Wash with Niacinamide Salicylic Acid Vitamin C Aloe Vera Extract Gentle Daily Cleanser for Oily Acne Prone Skin Deep Cleansing Oil Control Hydrating Face Cleanser 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -113083,7 +113405,6 @@ const CTPRODUCTS = [
   "title": "3% AHA-BHA Face Wash | For Acne Control, Oil Balance & Bright Skin | With 1% Glycolic Acid, 1% Lactic Acid & 1% Salicylic Acid (100ml)+ 4% AHA-BHA Underarm Roll-On | For Body Odour & Underarm Brightening | With 2% Lactic Acid, 1% Glycolic Acid, 1% Salicylic Acid & 1% Niacinamide (50ml)",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:wash",
    "format:roll-on",
    "ing:niacinamide",
@@ -113290,7 +113611,6 @@ const CTPRODUCTS = [
   "title": "Unisex Clarifying Face Wash with Niacinamide, 1% Salicylic Acid, Green Tea, and Cica | Helps Purify Pores Supports Oil Control for Acne & Acne Marks For All Skins Pack of 2 100ml Each_P (100ML)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -113359,7 +113679,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne Brightening Face Wash with Niacinamide 4% Salicylic Acid 1% Vitamin C Aloe Vera Extract Deep Cleansing Oil Control Face Cleanser for Oily Acne Prone Skin Lightweight Non Sticky Daily Face Wash 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -113430,7 +113749,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne Brightening Face Wash with Niacinamide 4% Salicylic Acid 1% Vitamin C Aloe Vera Extract Oil Control Deep Cleansing Daily Facial Cleanser for Oily Acne Prone Skin Lightweight Non Sticky 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -113502,7 +113820,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -113717,7 +114034,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne & Brightening Face Wash with Niacinamide 4%, Salicylic Acid 1% & Vitamin C | Aloe Vera Extract Facial Cleanser | Deep Pore Cleansing, Oil Control & Acne Care | Lightweight Daily Face Wash for Oily, Combination & Acne-Prone Skin | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -113790,7 +114106,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne & Brightening Face Wash with Niacinamide 4%, Salicylic Acid 1% & Vitamin C | Aloe Vera Extract | Deep Cleansing Oil Control Face Cleanser | Helps Reduce Acne, Blemishes & Acne Marks | Daily Facial Wash for Oily & Combination Skin | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -113861,7 +114176,6 @@ const CTPRODUCTS = [
   "title": "Clear Skin Protection Pack Salicylic Acid Face Wash and SPF 50 Sunscreen Combo Daily Skincare Set for Oil Control Skin Cleansing and Sun Protection Routine for Men and Women",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -113927,7 +114241,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne Brightening Face Wash with Niacinamide 4 Percent Salicylic Acid 1 Percent Vitamin C Aloe Vera Extract Daily Deep Cleansing Oil Control Face Cleanser for Oily Acne Prone Skin 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -114137,7 +114450,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne & Brightening Face Wash with Niacinamide 4%, Salicylic Acid 1% & Vitamin C | Aloe Vera Extract Face Cleanser for Oily & Acne-Prone Skin | Deep Cleansing, Oil Control & Skin Brightening | 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -114207,7 +114519,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne & Brightening Face Wash with Niacinamide 4%, Salicylic Acid 1% & Vitamin C | Aloe Vera Extract | Deep Cleansing Facial Cleanser for Oily & Acne-Prone Skin | Oil Control, Acne Care & Skin Brightening | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -114277,7 +114588,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne & Brightening Face Wash with Niacinamide 4%, Salicylic Acid 1% & Vitamin C | Aloe Vera Extract Facial Cleanser | Oil Control, Deep Pore Cleansing & Skin Brightening | Daily Face Wash for Oily & Acne-Prone Skin | 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -114348,7 +114658,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne & Brightening Face Wash with Niacinamide 4%, Salicylic Acid 1% & Vitamin C | Aloe Vera Extract | Deep Cleansing Oil Control Facial Cleanser | Helps Reduce Acne Marks & Brightens Skin | Lightweight Daily Face Wash | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -114418,7 +114727,6 @@ const CTPRODUCTS = [
   "title": "Unisex Clarifying Face Wash with Niacinamide, 1% Salicylic Acid, Green Tea, and Cica | Helps Purify Pores Supports Oil Control for Acne & Acne Marks For All Skins Pack of 2 100ml Each_P (200ML)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -114487,7 +114795,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne Brightening Face Wash with Aloe Vera Extracts, Niacinamide 4%, Salicylic Acid 1% & Vitamin C, Deep Cleansing Facial Cleanser for Oily & Acne Prone Skin, Oil Control, Skin Brightening, Lightweight Formula, 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -114885,7 +115192,6 @@ const CTPRODUCTS = [
   "title": "Dr. Sakhiya's Acne & Pimple Face Wash, 2% Salicylic Acid, Niacinamide, 70ml | Dermatologist formulated acne face wash with 2% Salicylic Acid & Niacinamide, oil-free, paraben-free, reduces breakouts, 70m.",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -115149,7 +115455,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:foam",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -115547,7 +115852,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -115618,7 +115922,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -115759,7 +116062,6 @@ const CTPRODUCTS = [
   "title": "SOKU Hydration & Oil Control Combo | Intense Hydrating Face Wash & Oil-Free Moisturizer | Deep Cleansing, Hydrating & Brightening | With Hyaluronic Acid & Niacinamide | For All Skin Types",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -116233,7 +116535,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:stick",
-   "format:oil",
    "format:clay-mask",
    "format:wash",
    "ing:green-tea",
@@ -116373,7 +116674,6 @@ const CTPRODUCTS = [
   "title": "Korean Clay Mask Powder 30g Collagen Face Mask for Glass Skin Glow Deep Cleansing Oil Control, Pore Minimizing, Skin Tightening White Clay, Exfoliating Face Mask for Women & Men",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:powder",
    "format:wash",
@@ -116656,6 +116956,71 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "aroma-magic-b0fs7p33tg",
+  "brand": "Aroma Magic",
+  "model": "Bridal Glow Facial Kit 7 Step (Turmeric & Rose Extracts, Single Use) + Grapefruit Face Was…",
+  "price": 380,
+  "capacityLine": "100 ml",
+  "materialLine": "turmeric + rose",
+  "featureLine": "Wash / cleanser · ₹380/100ml",
+  "highlight": "Live Amazon listing rated 4.7★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Strong buyer rating (4.7)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.2,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹380/100ml",
+   "format": "Wash / cleanser",
+   "keyIngredients": "turmeric, rose (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.7/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51IzRdKkyeL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FS7P33TG",
+  "buyStore": "Amazon",
+  "title": "Aroma Magic Bridal Glow Facial Kit 7 Step (Turmeric & Rose Extracts, Single Use) + Grapefruit Face Wash (Brightening & Pore Tightening, 100ml) | Natural Skincare Combo | Radiance & Oil Control",
+  "tags": [
+   "scope:face",
+   "format:wash",
+   "format:kit",
+   "ing:turmeric",
+   "ing:rose",
+   "claim:brightening",
+   "claim:pores",
+   "claim:oil-control",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "generic-b0cmxvj843",
   "brand": "Generic",
   "model": "Facial Glow Kit Gift Hamper for Women | Includes Kumkumadi Cream, Kumkumadi Oil, Ubtan Fac…",
@@ -116781,6 +117146,73 @@ const CTPRODUCTS = [
    "actives": false,
    "freefrom": false,
    "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "sadhev-b0hbc7cjgj",
+  "brand": "Sadhev",
+  "model": "Ayurvedic Facial Cleanser | Triphala, Moringa & Rose Hip Oil | Nourishes, Hydrates & Gentl…",
+  "price": 499,
+  "capacityLine": "75 ml",
+  "materialLine": "rose",
+  "featureLine": "Wash / cleanser · Fragrance-free · ₹665/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Fragrance-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4.5,
+   "ingredients": 4.7,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "75 ml",
+   "pricePer100": "₹665/100ml",
+   "format": "Wash / cleanser",
+   "keyIngredients": "rose (per listing)",
+   "freeFrom": "Fragrance-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61AOOtxeFnL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HBC7CJGJ",
+  "buyStore": "Amazon",
+  "title": "Sadhev Ayurvedic Facial Cleanser | Triphala, Moringa & Rose Hip Oil | Nourishes, Hydrates & Gently Cleanses Skin | Rebalances Natural Oil, Imparts Gentle Glow | For Sensitive Skin | Natural, Ayurvedic & Fragrance-Free | 75ml",
+  "tags": [
+   "scope:face",
+   "format:oil",
+   "format:wash",
+   "ing:rose",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:ayurvedic",
+   "free:fragrance",
+   "free:sensitive-safe",
+   "skin:sensitive",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
    "derm": false,
    "men": false,
    "women": false
@@ -117660,7 +118092,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "format:wash",
    "spf:15",
    "ing:vitamin-c",
@@ -118198,7 +118629,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "format:wash",
    "spf:15",
    "ing:vitamin-c",
@@ -118329,7 +118759,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -118462,7 +118891,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:wash",
    "ing:kojic-acid",
    "claim:brightening",
@@ -118851,7 +119279,6 @@ const CTPRODUCTS = [
    "format:cream",
    "format:foam",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -119316,7 +119743,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "format:balm",
    "format:pack",
    "format:scrub",
@@ -119400,7 +119826,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -119693,7 +120118,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:aloe-vera",
    "claim:brightening",
@@ -119839,7 +120263,6 @@ const CTPRODUCTS = [
   "title": "ELIBLISS Lactic Acid Face wash for Deep Cleanses Skin, Prevents A …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -120424,7 +120847,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:wash",
    "ing:lactic-acid",
    "ing:saffron",
@@ -120500,7 +120922,6 @@ const CTPRODUCTS = [
   "title": "VisionEx Saffron & Lactic Acid | Magic Face Cleanser for Tan Red …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:lactic-acid",
@@ -120578,7 +120999,6 @@ const CTPRODUCTS = [
   "title": "AYSA HEALTHCARE Rice water facewash Face Wash (99 ml)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:lactic-acid",
@@ -121406,7 +121826,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:sheet-mask",
    "format:clay-mask",
    "format:pack",
@@ -122118,7 +122537,6 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:stick",
-   "format:oil",
    "format:sheet-mask",
    "format:pack",
    "format:bar",
@@ -123125,7 +123543,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -123577,7 +123994,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -123823,7 +124239,6 @@ const CTPRODUCTS = [
   "title": "rizzolv AHA BHA FACE CLEANSER Face Wash (100 ml)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -123975,7 +124390,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -124333,7 +124747,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:lotion",
    "format:toner",
-   "format:oil",
    "format:pads",
    "format:kit",
    "ing:calamine",
@@ -124986,7 +125399,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -125137,7 +125549,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -125351,7 +125762,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -125424,7 +125834,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "claim:oil-control",
    "claim:exfoliating",
@@ -125703,7 +126112,6 @@ const CTPRODUCTS = [
   "title": "Sonavi Glycolic Acid Formula face wash with 1 mg Kojic Acid for A …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -125782,7 +126190,6 @@ const CTPRODUCTS = [
   "title": "Sonavi 2% Glycolic Acid face wash Lightweight Blend with 1 mg Koj …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:glycolic-acid",
    "ing:kojic-acid",
@@ -126002,7 +126409,6 @@ const CTPRODUCTS = [
   "title": "Sonavi Glycolic Acid face wash Daily Routine Formula Gentle Skin …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:glycolic-acid",
    "claim:de-tan",
@@ -126789,7 +127195,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:pads",
    "format:wash",
    "ing:salicylic-acid-bha",
@@ -126876,7 +127281,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:glycolic-acid",
    "claim:brightening",
@@ -126948,7 +127352,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:glycolic-acid",
    "claim:brightening",
@@ -127333,7 +127736,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -127488,7 +127890,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -128108,7 +128509,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:glycolic-acid",
    "claim:acne",
@@ -128478,7 +128878,6 @@ const CTPRODUCTS = [
   "title": "acnestar Anti-Acne with Aloe Vera & Salicylic Acid Face Wash (50 …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:aloe-vera",
@@ -128554,7 +128953,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -128833,7 +129231,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -129003,7 +129400,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:glycolic-acid",
    "claim:brightening",
@@ -129079,7 +129475,6 @@ const CTPRODUCTS = [
   "title": "Owash , Pack of 2, Ultra Mild for Oily Skin Face Wash (150 ml)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "claim:oil-control",
@@ -129291,7 +129686,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:salicylic-acid-bha",
@@ -129368,7 +129762,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:essence",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -129447,7 +129840,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:stick",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -129525,7 +129917,6 @@ const CTPRODUCTS = [
   "title": "Everyuth Naturals Chocolate Scrub,Neem Face Wash & Peel Off Mask …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -129678,7 +130069,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -130489,7 +130879,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:stick",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:peel",
@@ -130783,7 +131172,6 @@ const CTPRODUCTS = [
   "title": "glowvera LICHT VITAMIN C FACE WASH DEEP REFRESHING 50GM Face Wash …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:papaya",
@@ -130859,7 +131247,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -130944,7 +131331,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "claim:brightening",
    "claim:oil-control",
@@ -131016,7 +131402,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:essence",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -131181,6 +131566,365 @@ const CTPRODUCTS = [
    "skin:all",
    "aud:women",
    "size:standard",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "neev-itm3854480b9f5c0",
+  "brand": "Neev",
+  "model": "Rose Majestic Glow Face Wash (100 ml)",
+  "price": 268,
+  "capacityLine": "100 ml",
+  "materialLine": "rose",
+  "featureLine": "Wash / cleanser · ₹268/100ml",
+  "highlight": "Live Flipkart listing rated 4.6★ by 7 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Strong buyer rating (4.6)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 4.7,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹268/100ml",
+   "format": "Wash / cleanser",
+   "keyIngredients": "rose (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "4.6/5 (7 ratings, Flipkart)",
+   "madeIn": "India"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/kx0q4y80/face-wash/6/p/7/100-rose-majestic-glow-face-wash-neev-original-imag9kngkughecg8.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/kx0q4y80/face-wash/x/v/3/100-kumkumadi-face-wash-beauty-secrets-from-ayurveda-neev-original-imag9kneufrhc2jh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/s/d/2/200-facial-cleanser-with-vitamin-c-pro-vitamin-b5-for-non-greasy-original-imahpyvh2chaymkt.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/kx0q4y80/face-wash/d/t/4/100-anti-ageing-kesar-badam-face-wash-neev-original-imag9kn99yysxygs.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/kcxpbww0/cleanser/n/f/b/100-cleansing-lotion-drumstick-and-neroli-neev-original-imaftycvcx6fwqqs.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/neev-rose-majestic-glow-face-wash/p/itm3854480b9f5c0",
+  "buyStore": "Flipkart",
+  "title": "Neev Rose Majestic Glow Face Wash (100 ml)",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "format:wash",
+   "ing:rose",
+   "claim:brightening",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "neev-itmc4c322a3b99b1",
+  "brand": "Neev",
+  "model": "Aloe Neem - For Acne Prone Skin Face Wash (100 g)",
+  "price": 153,
+  "capacityLine": "100 g",
+  "materialLine": "aloe vera + neem",
+  "featureLine": "Wash / cleanser · ₹153/100g",
+  "highlight": "Live Flipkart listing rated 3★ by 8 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹153/100g"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (3)",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹153/100g",
+   "format": "Wash / cleanser",
+   "keyIngredients": "aloe vera, neem (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "3/5 (8 ratings, Flipkart)",
+   "madeIn": "India"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/kwjkuq80/face-wash/d/o/e/100-aloe-neem-face-wash-for-acne-prone-skin-neev-original-imag9783vgyzmgbp.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/kx0q4y80/face-wash/x/v/3/100-kumkumadi-face-wash-beauty-secrets-from-ayurveda-neev-original-imag9kneufrhc2jh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/g/z/0/75-mulberry-face-wash-hydro-boost-liquorice-enriched-vb55-original-imahnkm8gemhnjhf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/l/q/y/20-mini-soap-for-face-wash-30-round-tablets-each-tin-set-of-2-original-imahzzfzwhpbmmmh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/a/u/o/100-lumise-cleanser-linux-original-imahhnjr586vhxtq.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/neev-aloe-neem-acne-prone-skin-face-wash/p/itmc4c322a3b99b1",
+  "buyStore": "Flipkart",
+  "title": "Neev Aloe Neem - For Acne Prone Skin Face Wash (100 g)",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "format:wash",
+   "ing:aloe-vera",
+   "ing:neem",
+   "claim:acne",
+   "claim:hydrating",
+   "skin:acne-prone",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:low",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "neev-itm21acdf2ff2b0f",
+  "brand": "Neev",
+  "model": "Anti Ageing Kesar Badam Face Wash (100 ml)",
+  "price": 260,
+  "capacityLine": "100 ml",
+  "materialLine": "saffron + almond",
+  "featureLine": "Wash / cleanser · ₹260/100ml",
+  "highlight": "Live Flipkart listing rated 3.9★ by 13 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (3.9)",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.1,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹260/100ml",
+   "format": "Wash / cleanser",
+   "keyIngredients": "saffron, almond (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Anti-aging claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "3.9/5 (13 ratings, Flipkart)",
+   "madeIn": "India"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/kx0q4y80/face-wash/d/t/4/100-anti-ageing-kesar-badam-face-wash-neev-original-imag9kn99yysxygs.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/kx0q4y80/face-wash/6/p/7/100-rose-majestic-glow-face-wash-neev-original-imag9kngkughecg8.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/kx0q4y80/face-wash/x/v/3/100-kumkumadi-face-wash-beauty-secrets-from-ayurveda-neev-original-imag9kneufrhc2jh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/j/m/h/100-skin-lightenting-enriched-with-essentials-oils-brightens-original-imahzv9kjzfrfpf3.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/kx0q4y80/face-wash/c/g/3/100-charcoal-face-wash-for-deep-pore-cleansing-neev-original-imag9kndchram55t.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/neev-anti-ageing-kesar-badam-face-wash/p/itm21acdf2ff2b0f",
+  "buyStore": "Flipkart",
+  "title": "Neev Anti Ageing Kesar Badam Face Wash (100 ml)",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "format:wash",
+   "ing:saffron",
+   "ing:almond",
+   "claim:brightening",
+   "claim:anti-aging",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:3.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "elegant-itma8e1d2d89229d",
+  "brand": "ELEGANT",
+  "model": "Glycolite Max Foaming Facewash 60ml With Glycolic Acid 6% …",
+  "price": 724,
+  "capacityLine": "240 ml (pack of 4)",
+  "materialLine": "glycolic acid",
+  "featureLine": "Wash / cleanser · ₹302/100ml",
+  "highlight": "Live Flipkart listing rated 4.5★ by 32 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 5.4,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "60 ml × 4 pack",
+   "pricePer100": "₹302/100ml",
+   "format": "Wash / cleanser",
+   "keyIngredients": "glycolic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Dry Skin, Sensitive Skin, Normal Skin, Combination Skin",
+   "rating": "4.5/5 (32 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/k1s6ljk0/face-wash/n/z/9/60-glycolite-max-foaming-facewash-60ml-with-glycolic-acid-6-pack-original-imafh9e8ysaxefhw.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/k1s6ljk0/face-wash/w/y/z/60-glycolite-max-foaming-facewash-60ml-with-glycolic-acid-6-original-imafh9b8scyjhp6r.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/k4ohqq80/face-wash/z/g/t/180-foaming-facewash-elegant-original-imafh9b8afztchgv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/k1s6ljk0/face-wash/w/y/z/60-glycolite-max-foaming-facewash-60ml-with-glycolic-acid-6-original-imafh9b8x3wcgczs.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/kb9ou4w0/face-wash/f/b/h/60-glycolite-max-foaming-facewash-60ml-with-glycolic-acid-6-original-imafsmv48ddhfxxb.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/elegant-glycolite-max-foaming-facewash-60ml-glycolic-acid-6-pack-4-face-wash/p/itma8e1d2d89229d",
+  "buyStore": "Flipkart",
+  "title": "ELEGANT Glycolite Max Foaming Facewash 60ml With Glycolic Acid 6% …",
+  "tags": [
+   "scope:face",
+   "format:foam",
+   "format:wash",
+   "format:kit",
+   "ing:glycolic-acid",
+   "claim:brightening",
+   "claim:oil-control",
+   "free:sensitive-safe",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "aud:women",
+   "size:large",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "glojox-itm5a711b1d5a9cb",
+  "brand": "glojox",
+  "model": "FACE WASH WITH GLUTATHIONE, KOJIC ACID, VITAMIN C, VITAMIN …",
+  "price": 374,
+  "capacityLine": "280 g (pack of 2)",
+  "materialLine": "vitamin C + kojic acid + vitamin E",
+  "featureLine": "Wash / cleanser · ₹134/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹134/100g",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "140 g × 2 pack",
+   "pricePer100": "₹134/100g",
+   "format": "Wash / cleanser",
+   "keyIngredients": "vitamin C, kojic acid, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Anti-aging claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/e/s/j/100-face-wash-with-glutathione-kojic-acid-vitamin-c-vitamin-e-original-imahpf4gu9wknnkh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/x/d/s/100-glojox-scotderma-original-imahzcbrhmtjuhqu.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/d/n/p/100-face-wash-glojox-original-imahhadtpxgbqqg7.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/9/d/z/140-glutafine-rich-creamy-skin-lightening-facewash-with-original-imahpnfpqzdkcfnh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/r/u/b/75-vitamin-c-glow-anti-ageing-face-wash-15-miss-bella-original-imahzphagr82wgag.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/glojox-face-wash-glutathione-kojic-acid-vitamin-c-e-grape-seed-extract/p/itm5a711b1d5a9cb",
+  "buyStore": "Flipkart",
+  "title": "glojox FACE WASH WITH GLUTATHIONE, KOJIC ACID, VITAMIN C, VITAMIN …",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "format:wash",
+   "format:kit",
+   "ing:vitamin-c",
+   "ing:kojic-acid",
+   "ing:glutathione",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:whitening-claim",
+   "claim:anti-aging",
+   "skin:all",
+   "aud:women",
+   "size:xl",
    "rating:none",
    "store:flipkart"
   ],
@@ -132945,72 +133689,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "re-b0glgctprc",
-  "brand": "RE'",
-  "model": "EQUIL Fruit AHA Face Wash | Daily Exfoliating Cleanser for pigmentation, dullness & uneven…",
-  "price": 310,
-  "capacityLine": "150 ml",
-  "materialLine": "glycolic acid + lactic acid",
-  "featureLine": "Scrub / exfoliant · ₹207/100ml",
-  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹207/100ml",
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 4.4,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.2
-  },
-  "fullSpec": {
-   "quantity": "150 ml",
-   "pricePer100": "₹207/100ml",
-   "format": "Scrub / exfoliant",
-   "keyIngredients": "glycolic acid, lactic acid (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51shELqccgL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GLGCTPRC",
-  "buyStore": "Amazon",
-  "title": "RE' EQUIL Fruit AHA Face Wash | Daily Exfoliating Cleanser for pigmentation, dullness & uneven skin tone | With Glycolic & Lactic acid from fruit extracts - 150 ml",
-  "tags": [
-   "scope:face",
-   "format:wash",
-   "ing:glycolic-acid",
-   "ing:lactic-acid",
-   "ing:aha",
-   "claim:dark-spots",
-   "claim:exfoliating",
-   "aud:unisex",
-   "size:large",
-   "rating:4.0",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
-  }
- },
- {
   "id": "simple-b0chs5wq3w",
   "brand": "Simple",
   "model": "Active Skin Barrier Care Smoothing Gel Face Cleanser 150 ml | with 7% Ceramide boosters, L…",
@@ -133463,7 +134141,6 @@ const CTPRODUCTS = [
   "title": "La Era 3% AHA+BHA&PHA Skin Exfoliating Face Wash | Reduces Hyperpigmentation | Gently Exfoliates for Oil-Free Skin | with Witch Hazel Extract | 200ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -137105,7 +137782,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:peel",
    "format:wash",
    "format:kit",
@@ -137177,7 +137853,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:peel",
    "format:wash",
    "format:kit",
@@ -137314,7 +137989,6 @@ const CTPRODUCTS = [
   "title": "Minimalist Salicylic Acid 2% Face Wash + AHA BHA PHA 25% Peeling Solution Mini Combo | Acne Control, Deep Pore Cleansing, Oil Control & Chemical Exfoliation Combo for Oily & Acne-Prone Skin",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel",
    "format:wash",
    "format:kit",
@@ -137388,7 +138062,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:foam",
    "format:serum",
-   "format:oil",
    "format:peel",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -137941,7 +138614,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -138158,7 +138830,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:foam",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -139041,7 +139712,6 @@ const CTPRODUCTS = [
   "title": "Glamveda Glycolic Acid & 0.05% ww Salicylic Acid Anti Acne face wash | For Oily & Acne Prone Skin | Oil balancing, Deep Cleansing | No Paraben, SLS | 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -139380,7 +140050,6 @@ const CTPRODUCTS = [
   "title": "Globus Naturals Pimple Clear Glycolic & 1% Salicylic Acid Face Wash, For Acne & Oil Control, Enriched with Aloe vera & Vitamin E (100ml) (Pack Of 2)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -139586,7 +140255,6 @@ const CTPRODUCTS = [
   "title": "Glamveda Glycolic Acid & 0.05% ww Salicylic Acid Anti Acne Face Wash (100ml Pack of 2) | For Oily & Acne Prone Skin | Oil balancing, Deep Cleansing | No Paraben, SLS",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -139790,7 +140458,6 @@ const CTPRODUCTS = [
   "title": "illumin8 2% Niacinamide Face Wash 50g With Glycolic Acid 1.4% For Skin Brightening | Gentle Exfoliating Beads for Oil Control & Acne | Removes Dead Skin | All Skin Types | For Men & Women 50g (1)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -141049,7 +141716,6 @@ const CTPRODUCTS = [
   "title": "Black Pearl Glycolic Acid Face Wash | Brightening & Oil Control | With Glycolic Acid, Aloe Vera & Vitamin E | Gentle Cleansing for Oily, Dry & Acne-Prone Skin | 70ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:glycolic-acid",
    "ing:aloe-vera",
@@ -141646,7 +142312,6 @@ const CTPRODUCTS = [
   "title": "Glycolic & 1% Salicylic Acid Face Wash for Acne Prone Skin – Anti-Acne Cleanser for Men & Women – Fades Dark Spots & Acne Scars – Oil Control Pimple Clear Facewash with Tea Tree & Aloe Vera – 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -142324,7 +142989,6 @@ const CTPRODUCTS = [
   "title": "Natural Organic Face Wash | Glycolic Acid, Aloe Vera, Alum & Vitamin B5 | Oil Control, Acne Care & Skin Brightening | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:glycolic-acid",
    "ing:aloe-vera",
@@ -142457,7 +143121,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -142798,7 +143461,6 @@ const CTPRODUCTS = [
   "title": "3 Way Anti-bacterial Face Wash 100 ml | 1% Salicylic Acid, Glycolic Acid | Deep Cleansing | Oil Control | For Oily & Acne-Prone Skin | Paraben Free | For Women & Men - (Pack of 1)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -143002,7 +143664,6 @@ const CTPRODUCTS = [
   "title": "Scar Safa Face Wash 75g | Deep Cleansing Facial Cleanser with Glycolic Acid, Hyaluronic Acid & Niacinamide | Oil Control Face Wash | Skin Refreshing Cleanser for Daily Skincare",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -143276,7 +143937,6 @@ const CTPRODUCTS = [
   "title": "Aloe Vera Face Wash, 100g | Salicylic Acid, Glycolic Acid & Vitamin E Beads, Deep Cleansing for Oil Control, Smooth & Fresh Skin, Gentle Daily Face Wash",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -143343,7 +144003,6 @@ const CTPRODUCTS = [
   "title": "Salicylic Acid 0.10% Face Wash with Niacinamide Glycolic Acid Vitamin C Aloe Vera for Acne Control Deep Cleansing Exfoliation Oil Free Healthy Clear Skin Daily Use Men Women All Pack Of 1",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -143618,7 +144277,6 @@ const CTPRODUCTS = [
   "title": "Scar Safa Face Wash 75g | Deep Cleansing Facial Cleanser with Glycolic Acid, Hyaluronic Acid & Niacinamide | Oil Control Face Wash | Skin Refreshing Cleanser for Daily Skincare",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -143683,7 +144341,6 @@ const CTPRODUCTS = [
   "title": "Exfoliating Face Wash with Glycolic Acid, Niacinamide, Arbutin, Licorice & Mandelic Acid, Deep Pore Cleansing Face Wash for Oil Control, Dead Skin & Uneven Skin Tone, 70ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -143838,7 +144495,6 @@ const CTPRODUCTS = [
   "title": "Senesco Cooling AHA BHA Face Wash with 2% Salicylic Acid | Oil Control & Acne Care | Deep Cleansing Face Cleanser for Oily & Acne-Prone Skin | With Glycolic Acid, Lactic Acid & Vitamin E | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -144307,7 +144963,6 @@ const CTPRODUCTS = [
   "title": "Exfoliating Face Wash with Glycolic Acid, Niacinamide, Arbutin, Licorice & Mandelic Acid, Deep Pore Cleansing, Oil Control, 70ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -145652,7 +146307,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:bar",
    "format:wash",
    "format:kit",
@@ -146270,7 +146924,6 @@ const CTPRODUCTS = [
   "title": "Acne Control AHA BHA Face Wash | 2% Salicylic Acid, Glycolic Acid & 5% Niacinamide | Deep Cleansing, Oil Control & Clear Skin | For Men & Women | 100g",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -146604,7 +147257,6 @@ const CTPRODUCTS = [
   "title": "Mancrafters Deep Clean Anti-Acne Face Wash for Men | 2% Salicylic Acid + Glycolic Acid | Oil Control Face Wash for Oily & Acne-Prone Skin | Helps Clear Pores | 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -147075,7 +147727,6 @@ const CTPRODUCTS = [
   "title": "BAKE 5% AHA BHA Face Wash with 1.5% Salicylic Acid, 2% Glycolic Acid & 1% Mandelic Acid for Open Pores, Acne & Dark Spots | For Oily Acne Prone Skin | Daily Exfoliation & Oil Control - 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -147496,7 +148147,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",

@@ -661,7 +661,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:essence",
-   "format:oil",
    "format:sheet-mask",
    "format:pack",
    "format:kit",
@@ -4316,7 +4315,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:essence",
-   "format:oil",
    "format:balm",
    "ing:rice-water",
    "ing:aloe-vera",
@@ -4695,7 +4693,6 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:essence",
-   "format:oil",
    "ing:peptides",
    "ing:gold",
    "claim:anti-aging",
@@ -6914,6 +6911,72 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0f2mnk34w",
+  "brand": "Buy",
+  "model": "DR.RASHEL Korean Glass Skin Essence, Rice Water & Ceramide Face & Body Scrub, 380 ml Onlin…",
+  "price": 187,
+  "capacityLine": "380 ml",
+  "materialLine": "ceramides + rice water",
+  "featureLine": "Scrub / exfoliant · ₹49/100ml",
+  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹49/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.2)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.5,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "380 ml",
+   "pricePer100": "₹49/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "ceramides, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71BLgxLAW7L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F2MNK34W",
+  "buyStore": "Amazon",
+  "title": "Buy DR.RASHEL Korean Glass Skin Essence, Rice Water & Ceramide Face & Body Scrub, 380 ml Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:both",
+   "format:essence",
+   "format:scrub",
+   "ing:ceramides",
+   "ing:rice-water",
+   "claim:korean",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "beauty-of-joseon-b09zv5dw78",
   "brand": "Beauty Of Joseon",
   "model": "Ginseng Essence Water, 150ml | Hydrating Korean Facial Essence Lightweight Daily Hanbang F…",
@@ -7711,6 +7774,73 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "hyphen-b0gzl7frb7",
+  "brand": "Hyphen",
+  "model": "Bright & Glass Skin Face Care Duo | 18% Brightening + 20% Collagen with 11% Mandarin 5% Ni…",
+  "price": 972,
+  "capacityLine": "50 ml",
+  "materialLine": "niacinamide + ceramides",
+  "featureLine": "Toner · ₹1944/100ml",
+  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1944/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.2,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹1944/100ml",
+   "format": "Toner",
+   "keyIngredients": "niacinamide, ceramides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51DAin6r6fL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GZL7FRB7",
+  "buyStore": "Amazon",
+  "title": "Hyphen Bright & Glass Skin Face Care Duo | 18% Brightening + 20% Collagen with 11% Mandarin 5% Niacinamide Serum 50ml & 7% Ceramides-NMF Milky Face Toner Essence with 5% Glass Skin Blend 100ml",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:essence",
+   "format:toner",
+   "ing:niacinamide",
+   "ing:ceramides",
+   "ing:collagen",
+   "claim:brightening",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "ecoberry-b0brgfgv5n",
   "brand": "EcoBerry",
   "model": "Centella Asiatica (CICA) Niacinamide Glow Essence with Hyaluronic Acid | Natural | Oil-Fre…",
@@ -7756,7 +7886,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:essence",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:centella-cica",
@@ -12424,6 +12553,133 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "purito-b0hfwzqtlc",
+  "brand": "PURITO",
+  "model": "Galacto Niacin 97 Power Essence & Pure Vitamin C Serum | Brightening & Radiance Korean Ski…",
+  "price": 3331,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "vitamin C",
+  "featureLine": "Essence",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Essence",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51WVa6qMObL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HFWZQTLC",
+  "buyStore": "Amazon",
+  "title": "PURITO Galacto Niacin 97 Power Essence & Pure Vitamin C Serum | Brightening & Radiance Korean Skincare Duo",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "format:essence",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:korean",
+   "aud:unisex",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "krlz-b0h39652j7",
+  "brand": "KRLZ",
+  "model": "No.9 Anti-Aging Essence Toner with NAD+ & PDRN | Hydrating & Firming Care for Wrinkles & F…",
+  "price": 799,
+  "capacityLine": "120 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Toner · ₹666/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "120 ml",
+   "pricePer100": "₹666/100ml",
+   "format": "Toner",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51VeDLkXcaL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H39652J7",
+  "buyStore": "Amazon",
+  "title": "KRLZ No.9 Anti-Aging Essence Toner with NAD+ & PDRN | Hydrating & Firming Care for Wrinkles & Fine Lines | Glow Boosting Toner | Korean Skincare | 120 ml",
+  "tags": [
+   "scope:unstated",
+   "format:essence",
+   "format:toner",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:korean",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "hillary-b0gp73l1dn",
   "brand": "Hillary",
   "model": "Rhoda Essence Fermented Rice Water Spray | Rice Water Spray | Korean Skincare for Glass Sk…",
@@ -12478,6 +12734,70 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "zorzel-b0h3bb8y4s",
+  "brand": "Zorzel",
+  "model": "No.9 Anti-Aging Essence Toner with NAD+ & PDRN | Hydrating & Firming Care for Wrinkles & F…",
+  "price": 799,
+  "capacityLine": "120 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Toner · ₹666/100ml",
+  "highlight": "Live Amazon listing rated 3.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (3.0)",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "120 ml",
+   "pricePer100": "₹666/100ml",
+   "format": "Toner",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61BtfAtGh5L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H3BB8Y4S",
+  "buyStore": "Amazon",
+  "title": "Zorzel No.9 Anti-Aging Essence Toner with NAD+ & PDRN | Hydrating & Firming Care for Wrinkles & Fine Lines | Glow Boosting Toner | Korean Skincare | 120 ml",
+  "tags": [
+   "scope:unstated",
+   "format:essence",
+   "format:toner",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:korean",
+   "aud:unisex",
+   "size:standard",
+   "rating:low",
    "store:amazon"
   ],
   "filters": {
@@ -12689,6 +13009,69 @@ const CTPRODUCTS = [
    "actives": false,
    "freefrom": false,
    "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "clefairy-b0gw83zbnd",
+  "brand": "Clefairy",
+  "model": "NAD+ PDRN Glow Boosting Toner for Face, Skin Brightening Face Toner, Korean Skincare Facia…",
+  "price": 649,
+  "capacityLine": "120 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Toner · ₹541/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "120 ml",
+   "pricePer100": "₹541/100ml",
+   "format": "Toner",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51t1M2oUBAL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GW83ZBND",
+  "buyStore": "Amazon",
+  "title": "Clefairy NAD+ PDRN Glow Boosting Toner for Face, Skin Brightening Face Toner, Korean Skincare Facial Toner for Glass Skin, Firming, Wrinkles, Fine Lines, Salmon PDRN Serum Essence for Aging, Dull Skin 120 ML",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:essence",
+   "format:toner",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:korean",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
    "derm": false,
    "men": false,
    "women": false
@@ -13723,6 +14106,138 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "roktry-b0h71xd4bz",
+  "brand": "ROKTRY",
+  "model": "PDRN Essence Stick Balm for Face – Korean Glow Balm Stick with Deep Hydration, Skin Elasti…",
+  "price": 799,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Essence",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Essence",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/615SY9P4GDL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H71XD4BZ",
+  "buyStore": "Amazon",
+  "title": "ROKTRY PDRN Essence Stick Balm for Face – Korean Glow Balm Stick with Deep Hydration, Skin Elasticity Care, Firming Moisture, Glass Radiance, Anti-Wrinkle Nourishing Skincare for Dry & Dull Skin",
+  "tags": [
+   "scope:face",
+   "format:essence",
+   "format:stick",
+   "format:balm",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:korean",
+   "skin:dry",
+   "aud:unisex",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "recluse-b0h9rr75wn",
+  "brand": "RECLUSE",
+  "model": "Collagen Wrinkle Stick for Face, PDRN Essence Stick Balm, Korean Skin Care Moisturizer, An…",
+  "price": 799,
+  "capacityLine": "5 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Essence · ₹15980/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹15980/100g",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "5 g",
+   "pricePer100": "₹15980/100g",
+   "format": "Essence",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61hEkRB37rL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H9RR75WN",
+  "buyStore": "Amazon",
+  "title": "RECLUSE Collagen Wrinkle Stick for Face, PDRN Essence Stick Balm, Korean Skin Care Moisturizer, Anti Aging Face Balm, Hydrating Glow for Neck & Under Eye, Elasticity Firming, 9.5g",
+  "tags": [
+   "scope:both",
+   "format:essence",
+   "format:stick",
+   "format:balm",
+   "ing:collagen",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:dark-circles",
+   "claim:korean",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "rice-b0gf9b1qgw",
   "brand": "Rice",
   "model": "Toner | Milky Korean Rice Water Toner for Glowing Skin, Glow Essence with Niacinamide, Dul…",
@@ -13785,6 +14300,70 @@ const CTPRODUCTS = [
    "actives": true,
    "freefrom": true,
    "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0gcrtl4j3",
+  "brand": "Buy",
+  "model": "COOFANDY Yellow Collagen Facial Sheet Mask with Collagen Essence – Hydrating, Brightening,…",
+  "price": 399,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sheet mask",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sheet mask",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51XVkagJ1TL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GCRTL4J3",
+  "buyStore": "Amazon",
+  "title": "Buy COOFANDY Yellow Collagen Facial Sheet Mask with Collagen Essence – Hydrating, Brightening, and Firming Face Mask for Smooth, Healthy-Looking Skin, Radiant Skin Care, Korean Skin Care. Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:essence",
+   "format:sheet-mask",
+   "ing:collagen",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:korean",
+   "aud:unisex",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
    "derm": false,
    "men": false,
    "women": false
@@ -13861,6 +14440,70 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0gcrmnf7b",
+  "brand": "Buy",
+  "model": "COOFANDY Yellow Collagen Face Mask, Brightening & Firming Facial Sheet Mask with Collagen …",
+  "price": 239,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sheet mask",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sheet mask",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51XVkagJ1TL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GCRMNF7B",
+  "buyStore": "Amazon",
+  "title": "Buy COOFANDY Yellow Collagen Face Mask, Brightening & Firming Facial Sheet Mask with Collagen Essence for Hydration, Elasticity, and Radiant Skin Care, Korean Skin Care. Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:essence",
+   "format:sheet-mask",
+   "ing:collagen",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:korean",
+   "aud:unisex",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "pdrn-b0h9y6lpjw",
   "brand": "PDRN",
   "model": "Essence Stick Balm with Collagen, Hydrating Wrinkle Stick for Face, Eye & Neck, Korean Glo…",
@@ -13915,6 +14558,140 @@ const CTPRODUCTS = [
    "skin:mature",
    "aud:unisex",
    "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "ucravo-b0h9dnx5m7",
+  "brand": "UCRAVO",
+  "model": "PDRN Essence Stick Balm with Collagen, Wrinkle Repair Face, Korean Glow Moisturizing Balm,…",
+  "price": 799,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Essence",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Essence",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61iGT06gJ6L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H9DNX5M7",
+  "buyStore": "Amazon",
+  "title": "UCRAVO PDRN Essence Stick Balm with Collagen, Wrinkle Repair Face, Korean Glow Moisturizing Balm, Anti Aging Skin Tightening Stick for Face, Eye, Neck & Smile Lines, Hydrating Skin Care",
+  "tags": [
+   "scope:both",
+   "format:essence",
+   "format:stick",
+   "format:balm",
+   "ing:collagen",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:korean",
+   "skin:mature",
+   "aud:unisex",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0f4xn4hh6",
+  "brand": "Buy",
+  "model": "Suroskie Rose Collagen Facial Essence Mask – Korean Brightening Sheet Mask With Real Rose …",
+  "price": 250,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "rose",
+  "featureLine": "Sheet mask",
+  "highlight": "Live Amazon listing rated 4.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sheet mask",
+   "keyIngredients": "rose (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61r5ErRpH1L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F4XN4HH6",
+  "buyStore": "Amazon",
+  "title": "Buy Suroskie Rose Collagen Facial Essence Mask – Korean Brightening Sheet Mask With Real Rose Extract & Anti-Aging Collagen | Intense Hydration, Firming Glow, Radiance Boost For Dull, Dry, Tired Skin Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:essence",
+   "format:sheet-mask",
+   "ing:collagen",
+   "ing:rose",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:korean",
+   "aud:unisex",
+   "rating:4.5",
    "store:amazon"
   ],
   "filters": {
@@ -14376,7 +15153,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:essence",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:rice-water",
    "claim:brightening",
@@ -14725,7 +15501,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:serum",
    "format:essence",
-   "format:oil",
    "ing:retinol",
    "ing:ceramides",
    "ing:rice-water",
@@ -16056,7 +16831,6 @@ const CTPRODUCTS = [
    "format:essence",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:kit",
    "ing:hyaluronic-acid",
    "ing:rice-water",
@@ -16185,7 +16959,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:serum",
    "format:essence",
-   "format:oil",
    "ing:rice-water",
    "claim:brightening",
    "claim:pores",
@@ -16275,6 +17048,76 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "moody-b0hdtm1q35",
+  "brand": "Moody",
+  "model": "Hydro Burst Skincare Duo | SPF 50 PA++++ Water Sunscreen 50ml + 7D Hydro Burst Hydrating F…",
+  "price": 444,
+  "capacityLine": "50 ml",
+  "materialLine": "hyaluronic acid + rice water",
+  "featureLine": "Sunscreen · SPF 50 · ₹888/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹888/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "hyaluronic acid, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51OEmUjcxrL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HDTM1Q35",
+  "buyStore": "Amazon",
+  "title": "Moody Hydro Burst Skincare Duo | SPF 50 PA++++ Water Sunscreen 50ml + 7D Hydro Burst Hydrating Face Mist & Essence Toner 110ml | Hyaluronic Acid, Vitamin B5 & Rice Water | 72H Hydration",
+  "tags": [
+   "scope:face",
+   "format:essence",
+   "format:toner",
+   "format:mist",
+   "spf:50",
+   "pa:++++",
+   "ing:hyaluronic-acid",
+   "ing:rice-water",
+   "ing:vitamin-b5-panthenol",
+   "claim:hydrating",
+   "claim:long-lasting",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "generic-b0h99y9n7h",
   "brand": "Generic",
   "model": "Cream Korean Sunscreen for Oily Skin Facial Cream Rice Essence for Skin Application Lightw…",
@@ -16328,6 +17171,72 @@ const CTPRODUCTS = [
    "claim:korean",
    "skin:oily",
    "aud:unisex",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "zelvia-b0gm8w29k8",
+  "brand": "Zelvia",
+  "model": "White Rice Essence Moisturizing & Brightening Serum – Shrinks Pores, Reduces Wrinkles, Fre…",
+  "price": 689,
+  "capacityLine": "15 ml",
+  "materialLine": "rice water",
+  "featureLine": "Essence · ₹4593/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹4593/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "15 ml",
+   "pricePer100": "₹4593/100ml",
+   "format": "Essence",
+   "keyIngredients": "rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim, Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41mSr4OZocL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GM8W29K8",
+  "buyStore": "Amazon",
+  "title": "Zelvia White Rice Essence Moisturizing & Brightening Serum – Shrinks Pores, Reduces Wrinkles, Freckles & Acne for Radiant Skin 15ml",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "format:essence",
+   "ing:rice-water",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:pores",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:travel",
    "rating:none",
    "store:amazon"
   ],
@@ -16452,7 +17361,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:essence",
-   "format:oil",
    "ing:rice-water",
    "claim:brightening",
    "claim:exfoliating",
@@ -16464,6 +17372,73 @@ const CTPRODUCTS = [
   ],
   "filters": {
    "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "urban-b0gdsc15f3",
+  "brand": "URBAN",
+  "model": "THREADS ultimate glow with our Korean Glass Skin Essence. Infused with Rice Water & Cerami…",
+  "price": 249,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "ceramides + rice water",
+  "featureLine": "Essence",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Essence",
+   "keyIngredients": "ceramides, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71XZkTH-0+L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GDSC15F3",
+  "buyStore": "Amazon",
+  "title": "URBAN THREADS ultimate glow with our Korean Glass Skin Essence. Infused with Rice Water & Ceramides, this hydrating Cream repairs and brightens. Shop now for a flawless, dewy finish",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:essence",
+   "ing:ceramides",
+   "ing:rice-water",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:korean",
+   "aud:unisex",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
    "freefrom": false,
    "natural": false,
    "derm": false,
@@ -16929,7 +17904,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:serum",
    "format:essence",
-   "format:oil",
    "ing:retinol",
    "claim:brightening",
    "claim:anti-aging",
@@ -18941,6 +19915,84 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "ssunsu-itmd43bc5b4cea39",
+  "brand": "SSUNSU",
+  "model": "Glyco Ginseng Essence Toner Men & Women (150 ml)",
+  "price": 1767,
+  "capacityLine": "300 ml (pack of 2)",
+  "materialLine": "vitamin C + rose",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹589/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4.6,
+   "ingredients": 6,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "150 ml × 2 pack",
+   "pricePer100": "₹589/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "vitamin C, rose (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/8/x/s/150-glyco-ginseng-essence-toner-ssunsu-original-imahfecbnkenmrbg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/d/t/1/150-glyco-ginseng-essence-toner-ssunsu-original-imahfecbtrd76mh8.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/y/z/w/150-glyco-ginseng-essence-toner-ssunsu-original-imahfecbhqxcuych.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/8/n/i/150-glyco-ginseng-essence-toner-ssunsu-original-imahfecb7wcxvmuu.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/4/p/o/150-glyco-ginseng-essence-toner-ssunsu-original-imahfecbrvzr395w.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/ssunsu-glyco-ginseng-essence-toner-men-women/p/itmd43bc5b4cea39",
+  "buyStore": "Flipkart",
+  "title": "SSUNSU Glyco Ginseng Essence Toner Men & Women (150 ml)",
+  "tags": [
+   "scope:unstated",
+   "format:essence",
+   "format:toner",
+   "format:wash",
+   "format:kit",
+   "ing:vitamin-c",
+   "ing:rose",
+   "ing:ginseng",
+   "ing:pearl",
+   "claim:dark-spots",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "free:paraben",
+   "free:vegan",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
   "id": "glow-b0h6b9qjsm",
   "brand": "Glow",
   "model": "Essence Toner with Glycolic & Lactic Acid, 100ml | Refines Pores, Improves Skin Texture & …",
@@ -19071,73 +20123,6 @@ const CTPRODUCTS = [
   ],
   "filters": {
    "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
-  }
- },
- {
-  "id": "hyphen-b0gzl7frb7",
-  "brand": "Hyphen",
-  "model": "Bright & Glass Skin Face Care Duo | 18% Brightening + 20% Collagen with 11% Mandarin 5% Ni…",
-  "price": 972,
-  "capacityLine": "50 ml",
-  "materialLine": "niacinamide + ceramides",
-  "featureLine": "Toner · ₹1944/100ml",
-  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1944/100ml",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 4.2,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.5
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹1944/100ml",
-   "format": "Toner",
-   "keyIngredients": "niacinamide, ceramides (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51DAin6r6fL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GZL7FRB7",
-  "buyStore": "Amazon",
-  "title": "Hyphen Bright & Glass Skin Face Care Duo | 18% Brightening + 20% Collagen with 11% Mandarin 5% Niacinamide Serum 50ml & 7% Ceramides-NMF Milky Face Toner Essence with 5% Glass Skin Blend 100ml",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:essence",
-   "format:toner",
-   "ing:niacinamide",
-   "ing:ceramides",
-   "ing:collagen",
-   "claim:brightening",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
    "freefrom": false,
    "natural": false,
    "derm": false,
@@ -20222,69 +21207,6 @@ const CTPRODUCTS = [
    "claim:pores",
    "claim:hydrating",
    "aud:unisex",
-   "rating:none",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
-  }
- },
- {
-  "id": "clefairy-b0gw83zbnd",
-  "brand": "Clefairy",
-  "model": "NAD+ PDRN Glow Boosting Toner for Face, Skin Brightening Face Toner, Korean Skincare Facia…",
-  "price": 649,
-  "capacityLine": "120 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Toner · ₹541/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [],
-  "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.5
-  },
-  "fullSpec": {
-   "quantity": "120 ml",
-   "pricePer100": "₹541/100ml",
-   "format": "Toner",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim, Anti-aging claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51t1M2oUBAL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GW83ZBND",
-  "buyStore": "Amazon",
-  "title": "Clefairy NAD+ PDRN Glow Boosting Toner for Face, Skin Brightening Face Toner, Korean Skincare Facial Toner for Glass Skin, Firming, Wrinkles, Fine Lines, Salmon PDRN Serum Essence for Aging, Dull Skin 120 ML",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:essence",
-   "format:toner",
-   "claim:brightening",
-   "claim:anti-aging",
-   "claim:korean",
-   "aud:unisex",
-   "size:standard",
    "rating:none",
    "store:amazon"
   ],

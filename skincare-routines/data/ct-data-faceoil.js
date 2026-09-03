@@ -4197,7 +4197,6 @@ const CTPRODUCTS = [
   "title": "Green Aroma Facial Oil Control roller Facial Atomizer",
   "tags": [
    "scope:face",
-   "format:oil",
    "claim:oil-control",
    "skin:all",
    "aud:unisex",
@@ -14142,7 +14141,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:balm",
    "format:kit",
    "spf:30",
@@ -15915,7 +15913,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "ing:squalane",
@@ -18968,7 +18965,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:aloe-vera",
    "ing:squalane",
    "ing:vitamin-e",
@@ -19322,7 +19318,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:cucumber",
    "claim:acne",
    "claim:hydrating",
@@ -19458,7 +19453,6 @@ const CTPRODUCTS = [
   "title": "Matte Finish Face Moisturizer with 5% Niacinamide | For Oil Control, Brightening & Hydrating Skin | with 2% Rice Water, 2% Olive Squalane, 1% Ceramide Complex & 1% Hydrolyzed Collagen | All Skin Types | 50 g (Pack of 2)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:ceramides",
@@ -19743,7 +19737,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:aloe-vera",
    "ing:squalane",
    "ing:vitamin-e",
@@ -19816,7 +19809,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -20082,7 +20074,6 @@ const CTPRODUCTS = [
   "title": "Cliface Oil-Free Hydrating Moisturizer 50g | Lightweight Daily Face Care | Non-Greasy | For Oily & Sensitive Skin",
   "tags": [
    "scope:face",
-   "format:oil",
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
@@ -20147,7 +20138,6 @@ const CTPRODUCTS = [
   "title": "Cliface Oil-Free Hydrating Moisturizer 50g | Lightweight Daily Face Care | Non-Greasy Formula",
   "tags": [
    "scope:face",
-   "format:oil",
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
@@ -28131,6 +28121,70 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0glyvbfkr",
+  "brand": "Buy",
+  "model": "BLUEWELL Kumkumadi Oil for Face, Daily Use Facial Oil for Glow, Moisturizing, Pigmentation…",
+  "price": 179,
+  "capacityLine": "30 ml",
+  "materialLine": "kumkumadi",
+  "featureLine": "Oil · ₹597/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹597/100ml",
+   "format": "Oil",
+   "keyIngredients": "kumkumadi (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51C1uMS-whL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GLYVBFKR",
+  "buyStore": "Amazon",
+  "title": "Buy BLUEWELL Kumkumadi Oil for Face, Daily Use Facial Oil for Glow, Moisturizing, Pigmentation Care, Texture Improvement & Skin Softness (30 ml) Pack of 1 Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:oil",
+   "format:kit",
+   "ing:kumkumadi",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "apricoat-b0ct3gk23d",
   "brand": "APRICOAT",
   "model": "& ROSEHIP Facial Oil - Moisturising and Anti-Aging Features, Organic Pack of 2-30ml",
@@ -29354,6 +29408,69 @@ const CTPRODUCTS = [
   "filters": {
    "actives": false,
    "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0hd7k8sdm",
+  "brand": "Buy",
+  "model": "TQS Advanced Kumkumadi Oil for Face | Glow Boosting Ayurvedic Facial Oil with Saffron for …",
+  "price": 299,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "saffron + kumkumadi",
+  "featureLine": "Oil",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Oil",
+   "keyIngredients": "saffron, kumkumadi (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/6182iTYaNYL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HD7K8SDM",
+  "buyStore": "Amazon",
+  "title": "Buy TQS Advanced Kumkumadi Oil for Face | Glow Boosting Ayurvedic Facial Oil with Saffron for Smooth, Nourished & Radiant Skin Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:oil",
+   "ing:saffron",
+   "ing:kumkumadi",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:ayurvedic",
+   "aud:unisex",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
    "natural": true,
    "derm": false,
    "men": false,
@@ -31239,6 +31356,70 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0gszgrsb7",
+  "brand": "Buy",
+  "model": "Agapi Sikkim | Gold Leaf Facial Oil 10ml | Handcrafted | Sustainable | Luxurious | Radiant…",
+  "price": 899,
+  "capacityLine": "10 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil · ₹8990/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹8990/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4.2,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "10 ml",
+   "pricePer100": "₹8990/100ml",
+   "format": "Oil",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41um8dPo-ZL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GSZGRSB7",
+  "buyStore": "Amazon",
+  "title": "Buy Agapi Sikkim | Gold Leaf Facial Oil 10ml | Handcrafted | Sustainable | Luxurious | Radiant Glow | Anti-Aging Benefits | Nourishing & Hydrating | Cruelty-Free. Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:oil",
+   "ing:gold",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "free:vegan",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "jivanta-b0dv5rtfqc",
   "brand": "Jivanta",
   "model": "Kumkumadi Thailam Face Oil | India's Best Ayurvedic Solution for Pigmentation, Anti-Aging …",
@@ -32634,6 +32815,69 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "aromatico-b0gznjss59",
+  "brand": "Aromatico",
+  "model": "- 100% Pure Cold-Pressed Rosehip Oil for Facial and Skin Treatment | Rosehip Seed Oil for …",
+  "price": 299,
+  "capacityLine": "100 ml",
+  "materialLine": "rosehip",
+  "featureLine": "Oil · ₹299/100ml",
+  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Strong buyer rating (4.2)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.5,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹299/100ml",
+   "format": "Oil",
+   "keyIngredients": "rosehip (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51zHMAp9uEL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GZNJSS59",
+  "buyStore": "Amazon",
+  "title": "Aromatico - 100% Pure Cold-Pressed Rosehip Oil for Facial and Skin Treatment | Rosehip Seed Oil for Radiant Skin, Lightening Dark Marks, Acne Scars, and Discoloration - 100ml",
+  "tags": [
+   "scope:face",
+   "format:oil",
+   "ing:rosehip",
+   "claim:whitening-claim",
+   "claim:acne",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "ishilp-b0dlst68mx",
   "brand": "iShilp",
   "model": "6 Steps Kumkumadi Facial Kit for Glowing Skin, Tan Removal | Cleanser, Scrub, Face Gel, Ma…",
@@ -32699,6 +32943,72 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true
+  }
+ },
+ {
+  "id": "buy-b0gy4sjqd7",
+  "brand": "Buy",
+  "model": "AROMATICO Cold Pressed Rosehip Oil for Skin - Anti-Ageing Face Oil for Dark Spots, Wrinkle…",
+  "price": 399,
+  "capacityLine": "200 ml",
+  "materialLine": "rosehip",
+  "featureLine": "Oil · ₹200/100ml",
+  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹200/100ml",
+   "Strong buyer rating (4.2)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.5,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹200/100ml",
+   "format": "Oil",
+   "keyIngredients": "rosehip (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61zhHxnfpiL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GY4SJQD7",
+  "buyStore": "Amazon",
+  "title": "Buy AROMATICO Cold Pressed Rosehip Oil for Skin - Anti-Ageing Face Oil for Dark Spots, Wrinkles & Skin Glow | Rosehip Oil for Hair Nourishment | 200ml Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:oil",
+   "ing:rosehip",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
   }
  },
  {
@@ -34090,6 +34400,130 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0h465gh8f",
+  "brand": "Buy",
+  "model": "Undry Sea Buckthorn Face Oil, Omega 3-6-7-9 Anti-Aging, 20ml Online at Low Prices in India…",
+  "price": 570,
+  "capacityLine": "20 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil · ₹2850/100ml",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹2850/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "20 ml",
+   "pricePer100": "₹2850/100ml",
+   "format": "Oil",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61CDLonUfYL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H465GH8F",
+  "buyStore": "Amazon",
+  "title": "Buy Undry Sea Buckthorn Face Oil, Omega 3-6-7-9 Anti-Aging, 20ml Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:oil",
+   "ing:sea-buckthorn",
+   "claim:anti-aging",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "botanical-b0f5mgfc5p",
+  "brand": "Botanical",
+  "model": "Sage- Rosehip Essential Oil For Face | Face Oil For Glowing Skin and Hair Growth | All Ski…",
+  "price": 239,
+  "capacityLine": "30 ml",
+  "materialLine": "rosehip",
+  "featureLine": "Oil · ₹797/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹797/100ml",
+   "format": "Oil",
+   "keyIngredients": "rosehip (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61+4IzCBe6L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F5MGFC5P",
+  "buyStore": "Amazon",
+  "title": "Botanical Sage- Rosehip Essential Oil For Face | Face Oil For Glowing Skin and Hair Growth | All Skin Types | For Men & Women | 30 ml",
+  "tags": [
+   "scope:face",
+   "format:oil",
+   "ing:rosehip",
+   "claim:brightening",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
   "id": "generic-b08l546ql5",
   "brand": "Generic",
   "model": "Organic Rosehip Oil for Face & Hair - 100% Pure, Natural, Cold Pressed Rosehip Seed Oil to…",
@@ -34726,6 +35160,68 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true
+  }
+ },
+ {
+  "id": "buy-b0gl28z3yh",
+  "brand": "Buy",
+  "model": "Aranyam 100% Pure Rosehip Oil (30ml) | Cold Pressed & Unrefined | Natural Face, Skin & Bod…",
+  "price": 599,
+  "capacityLine": "30 ml",
+  "materialLine": "rosehip",
+  "featureLine": "Oil · ₹1997/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1997/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4.7,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹1997/100ml",
+   "format": "Oil",
+   "keyIngredients": "rosehip (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging claim, Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61gR6vJAWiL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GL28Z3YH",
+  "buyStore": "Amazon",
+  "title": "Buy Aranyam 100% Pure Rosehip Oil (30ml) | Cold Pressed & Unrefined | Natural Face, Skin & Body Oil | For Acne, Scars, Wrinkles & Even Skin Tone | Rich in Vitamin A & Essential Fatty Acids Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:both",
+   "format:oil",
+   "ing:rosehip",
+   "claim:anti-aging",
+   "claim:acne",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
   }
  },
  {
@@ -36326,6 +36822,72 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": true
+  }
+ },
+ {
+  "id": "aquella-b0h8nck8s5",
+  "brand": "Aquella",
+  "model": "Liposomal Anti-Aging Face Cream | Hyaluronic Acid, Green Tea & Rosehip Oil | Firming & Hyd…",
+  "price": 899,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "hyaluronic acid + green tea + rosehip",
+  "featureLine": "Oil",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Oil",
+   "keyIngredients": "hyaluronic acid, green tea, rosehip (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/31SbvGx3xbL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H8NCK8S5",
+  "buyStore": "Amazon",
+  "title": "Aquella Liposomal Anti-Aging Face Cream | Hyaluronic Acid, Green Tea & Rosehip Oil | Firming & Hydrating Skincare",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:oil",
+   "ing:hyaluronic-acid",
+   "ing:green-tea",
+   "ing:rosehip",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "aud:unisex",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
   }
  },
  {
@@ -42048,7 +42610,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -44183,7 +44744,6 @@ const CTPRODUCTS = [
   "title": "UV Doux OC Moisturizer for Oily & Combination Skin | Oil-Free Hydration & Oil Control | Non-Comedogenic, Lightweight | With Bisabolol, Betaine, Squalane & Aloe Vera | Helps Prevent Acne Breakouts,50g",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:aloe-vera",
    "ing:squalane",
    "claim:acne",
@@ -45954,6 +46514,78 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "neev-itm7bb7514afd1df",
+  "brand": "Neev",
+  "model": "Kumkumadi Masoor Face Scrub Soap ' Removes Tan & Dead Skin 5 …",
+  "price": 126,
+  "capacityLine": "50 g",
+  "materialLine": "aloe vera + saffron + sandalwood",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹252/100g",
+  "highlight": "Live Flipkart listing rated 4.1★ by 54 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 4.6,
+   "ingredients": 6.3,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹252/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "aloe vera, saffron, sandalwood, kumkumadi, almond (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "4.1/5 (54 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/soap/g/0/n/1-50-kumkumadi-masoor-face-scrub-soap-removes-tan-dead-skin-50g-original-imahk23guaxrhugq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/soap/m/r/x/1-1-kumkumadi-face-scrub-soap-neev-original-imah3u8cpthvyhmz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/soap/6/1/x/1-50-kumkumadi-masoor-face-scrub-soap-removes-tan-dead-skin-50g-original-imahk23gqpzykccq.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/neev-kumkumadi-masoor-face-scrub-soap-removes-tan-dead-skin-50g/p/itm7bb7514afd1df",
+  "buyStore": "Flipkart",
+  "title": "Neev Kumkumadi Masoor Face Scrub Soap ' Removes Tan & Dead Skin 5 …",
+  "tags": [
+   "scope:face",
+   "format:oil",
+   "format:scrub",
+   "format:powder",
+   "format:bar",
+   "ing:aloe-vera",
+   "ing:saffron",
+   "ing:sandalwood",
+   "ing:kumkumadi",
+   "ing:almond",
+   "claim:exfoliating",
+   "free:paraben",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
   "id": "kumkumadi-b0gg3c59jp",
   "brand": "Kumkumadi",
   "model": "Cream Skin Brightening & Night Repair Cream For Anti-Aging, Pigmentation, Dark Spots, Unde…",
@@ -46696,7 +47328,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:peptides",
@@ -47044,7 +47675,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:aloe-vera",
    "ing:squalane",
@@ -47531,7 +48161,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:lotion",
-   "format:oil",
    "spf:30",
    "pa:+++",
    "ing:squalane",

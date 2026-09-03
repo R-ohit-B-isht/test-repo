@@ -11256,7 +11256,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "claim:brightening",
    "claim:de-tan",
    "claim:acne",
@@ -23942,7 +23941,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -28168,6 +28166,73 @@ const CTPRODUCTS = [
    "actives": false,
    "freefrom": false,
    "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "recluse-b0h9rr75wn",
+  "brand": "RECLUSE",
+  "model": "Collagen Wrinkle Stick for Face, PDRN Essence Stick Balm, Korean Skin Care Moisturizer, An…",
+  "price": 799,
+  "capacityLine": "5 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Essence · ₹15980/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹15980/100g",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "5 g",
+   "pricePer100": "₹15980/100g",
+   "format": "Essence",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61hEkRB37rL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H9RR75WN",
+  "buyStore": "Amazon",
+  "title": "RECLUSE Collagen Wrinkle Stick for Face, PDRN Essence Stick Balm, Korean Skin Care Moisturizer, Anti Aging Face Balm, Hydrating Glow for Neck & Under Eye, Elasticity Firming, 9.5g",
+  "tags": [
+   "scope:both",
+   "format:essence",
+   "format:stick",
+   "format:balm",
+   "ing:collagen",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:dark-circles",
+   "claim:korean",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
    "derm": false,
    "men": false,
    "women": false
@@ -54885,7 +54950,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:serum",
-   "format:oil",
    "spf:50",
    "sun:mineral",
    "ing:retinol",
@@ -55090,7 +55154,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "spf:50",
    "ing:retinol",
    "ing:caffeine",

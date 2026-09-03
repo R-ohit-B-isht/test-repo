@@ -1621,7 +1621,6 @@ const CTPRODUCTS = [
    "format:serum",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:niacinamide",
@@ -2267,7 +2266,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:vitamin-c",
@@ -3652,7 +3650,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -3893,7 +3890,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:vitamin-c",
@@ -4331,7 +4327,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:pack",
    "ing:rose",
    "claim:brightening",
@@ -8178,7 +8173,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:toner",
-   "format:oil",
    "format:pack",
    "ing:rose",
    "claim:pores",
@@ -11800,7 +11794,6 @@ const CTPRODUCTS = [
    "format:serum",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -14214,7 +14207,6 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -18492,7 +18484,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:toner",
    "format:mist",
-   "format:oil",
    "ing:green-tea",
    "claim:brightening",
    "claim:acne",
@@ -19104,7 +19095,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:green-tea",
@@ -19707,7 +19697,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -20537,7 +20526,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:niacinamide",
@@ -20787,7 +20775,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:rice-water",
@@ -20864,7 +20851,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:niacinamide",
@@ -20949,7 +20935,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:niacinamide",
@@ -21354,7 +21339,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:niacinamide",
@@ -22675,7 +22659,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:niacinamide",
@@ -23510,7 +23493,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:toner",
    "format:mist",
-   "format:oil",
    "ing:green-tea",
    "claim:brightening",
    "claim:acne",
@@ -25535,7 +25517,6 @@ const CTPRODUCTS = [
    "format:serum",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -26153,7 +26134,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -26377,7 +26357,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -27781,7 +27760,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -29341,7 +29319,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:pha",
@@ -29644,7 +29621,6 @@ const CTPRODUCTS = [
    "format:toner",
    "format:mist",
    "format:stick",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:green-tea",
@@ -34571,7 +34547,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:tea-tree",
@@ -34871,7 +34846,6 @@ const CTPRODUCTS = [
    "format:cream",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -35966,7 +35940,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:vitamin-c",
@@ -36047,7 +36020,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:vitamin-c",
@@ -37104,7 +37076,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:pack",
    "ing:glycolic-acid",
    "claim:acne",
@@ -37568,7 +37539,6 @@ const CTPRODUCTS = [
    "format:serum",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:vitamin-c",
@@ -37730,7 +37700,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:toner",
-   "format:oil",
    "format:pack",
    "ing:cucumber",
    "claim:brightening",
@@ -37807,7 +37776,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "claim:oil-control",
@@ -39202,7 +39170,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:vitamin-c",
@@ -42643,7 +42610,6 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:serum",
    "format:toner",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:rose",
@@ -45535,7 +45501,6 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:toner",
-   "format:oil",
    "format:balm",
    "ing:vitamin-c",
    "ing:collagen",
@@ -47822,7 +47787,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:wash",
    "format:micellar",
    "ing:rose",
@@ -48470,7 +48434,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -51029,7 +50992,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:vitamin-c",
    "ing:neem",
    "claim:acne",
@@ -52036,7 +51998,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "claim:oil-control",
    "aud:unisex",
    "rating:4.0",
@@ -52974,7 +52935,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:kit",
    "claim:acne",
    "claim:oil-control",
@@ -54618,7 +54578,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:kit",
    "ing:rose",
    "claim:oil-control",
@@ -55535,7 +55494,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:rose",
    "claim:pores",
    "claim:oil-control",
@@ -56330,7 +56288,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "claim:pores",
    "claim:oil-control",
    "claim:exfoliating",
@@ -57778,7 +57735,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:tea-tree",
    "claim:brightening",
    "claim:acne",
@@ -57902,7 +57858,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:cucumber",
    "claim:pores",
    "claim:oil-control",
@@ -61603,7 +61558,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:rose",
    "claim:pores",
    "claim:oil-control",
@@ -65814,7 +65768,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:wash",
    "ing:rose",
    "claim:pores",
@@ -67777,7 +67730,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:kit",
    "ing:rose",
    "claim:oil-control",
@@ -68236,7 +68188,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "ing:rose",
    "claim:pores",
    "claim:oil-control",
@@ -69780,7 +69731,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:wash",
    "ing:rose",
    "claim:oil-control",
@@ -70695,7 +70645,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:green-tea",
    "claim:oil-control",
    "claim:hydrating",
@@ -70761,7 +70710,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "ing:green-tea",
    "claim:acne",
    "claim:pores",
@@ -71306,7 +71254,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "ing:niacinamide",
    "ing:green-tea",
    "claim:pores",
@@ -71509,7 +71456,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "ing:niacinamide",
    "ing:green-tea",
    "claim:acne",
@@ -71835,7 +71781,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:kit",
    "ing:green-tea",
    "claim:brightening",
@@ -72305,7 +72250,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:kit",
    "ing:green-tea",
    "claim:brightening",
@@ -72559,7 +72503,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:kit",
    "ing:green-tea",
    "claim:brightening",
@@ -72691,7 +72634,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:kit",
    "ing:green-tea",
    "claim:brightening",
@@ -72954,7 +72896,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:green-tea",
    "ing:tea-tree",
    "claim:acne",
@@ -73144,7 +73085,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "ing:green-tea",
@@ -73417,7 +73357,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -73491,7 +73430,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "ing:niacinamide",
    "ing:green-tea",
    "claim:acne",
@@ -73750,7 +73688,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "ing:green-tea",
    "claim:oil-control",
    "claim:hydrating",
@@ -74407,7 +74344,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "ing:green-tea",
    "ing:turmeric",
    "ing:neem",
@@ -75668,7 +75604,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:green-tea",
    "claim:pores",
@@ -76995,7 +76930,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:niacinamide",
    "ing:green-tea",
    "claim:brightening",
@@ -78150,7 +78084,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "ing:green-tea",
    "ing:tea-tree",
    "ing:rose",
@@ -78549,7 +78482,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:green-tea",
@@ -83724,7 +83656,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:cucumber",
    "claim:pores",
    "claim:oil-control",
@@ -84972,7 +84903,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "claim:oil-control",
    "claim:hydrating",
    "aud:women",
@@ -87184,7 +87114,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "ing:niacinamide",
    "claim:acne",
    "claim:oil-control",
@@ -87317,7 +87246,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:vitamin-b5-panthenol",
@@ -87520,7 +87448,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "ing:centella-cica",
    "claim:pores",
    "claim:oil-control",
@@ -89753,7 +89680,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -90429,7 +90355,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:niacinamide",
    "claim:brightening",
    "claim:pores",
@@ -91735,7 +91660,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:kit",
    "ing:aloe-vera",
    "ing:rose",
@@ -91807,7 +91731,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -91958,7 +91881,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:kit",
    "ing:neem",
    "claim:acne",
@@ -92290,7 +92212,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:witch-hazel",
    "claim:acne",
    "claim:pores",
@@ -94728,7 +94649,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "ing:rose",
    "claim:acne",
    "claim:oil-control",
@@ -95658,7 +95578,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:glycolic-acid",
    "ing:witch-hazel",
    "claim:brightening",
@@ -95865,7 +95784,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:kojic-acid",
@@ -95935,7 +95853,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -96277,7 +96194,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "ing:tea-tree",
    "ing:witch-hazel",
    "claim:acne",
@@ -96343,7 +96259,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:green-tea",
@@ -97373,7 +97288,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -97441,7 +97355,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -97509,7 +97422,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -97643,7 +97555,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -99011,7 +98922,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:aloe-vera",
    "claim:anti-aging",
    "claim:acne",
@@ -100153,6 +100063,73 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "hyphen-b0gzl7frb7",
+  "brand": "Hyphen",
+  "model": "Bright & Glass Skin Face Care Duo | 18% Brightening + 20% Collagen with 11% Mandarin 5% Ni…",
+  "price": 972,
+  "capacityLine": "50 ml",
+  "materialLine": "niacinamide + ceramides",
+  "featureLine": "Toner · ₹1944/100ml",
+  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1944/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.2,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹1944/100ml",
+   "format": "Toner",
+   "keyIngredients": "niacinamide, ceramides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51DAin6r6fL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GZL7FRB7",
+  "buyStore": "Amazon",
+  "title": "Hyphen Bright & Glass Skin Face Care Duo | 18% Brightening + 20% Collagen with 11% Mandarin 5% Niacinamide Serum 50ml & 7% Ceramides-NMF Milky Face Toner Essence with 5% Glass Skin Blend 100ml",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:essence",
+   "format:toner",
+   "ing:niacinamide",
+   "ing:ceramides",
+   "ing:collagen",
+   "claim:brightening",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "blithe-b09fswm3ll",
   "brand": "BLITHE",
   "model": "Vital Treatment 8 Nourishing Beans Mini Facial Essence 54ml | Korean Anti-Aging Hydrating …",
@@ -100547,6 +100524,200 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "globus-b0gccllptm",
+  "brand": "Globus",
+  "model": "Naturals Rice Ceramide Korean Glass Skin 4 Step Skincare Range | Face Wash, Cream, Serum, …",
+  "price": 536,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "ceramides + rice water",
+  "featureLine": "Wash / cleanser",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.8,
+   "skin": 4,
+   "ingredients": 5.8,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Wash / cleanser",
+   "keyIngredients": "ceramides, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/713szpIUG-L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GCCLLPTM",
+  "buyStore": "Amazon",
+  "title": "Globus Naturals Rice Ceramide Korean Glass Skin 4 Step Skincare Range | Face Wash, Cream, Serum, Toner | Brightening & Glow Care for Men & Women",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:serum",
+   "format:toner",
+   "format:wash",
+   "ing:ceramides",
+   "ing:rice-water",
+   "claim:brightening",
+   "claim:korean",
+   "aud:women",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "krlz-b0h39652j7",
+  "brand": "KRLZ",
+  "model": "No.9 Anti-Aging Essence Toner with NAD+ & PDRN | Hydrating & Firming Care for Wrinkles & F…",
+  "price": 799,
+  "capacityLine": "120 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Toner · ₹666/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "120 ml",
+   "pricePer100": "₹666/100ml",
+   "format": "Toner",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51VeDLkXcaL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H39652J7",
+  "buyStore": "Amazon",
+  "title": "KRLZ No.9 Anti-Aging Essence Toner with NAD+ & PDRN | Hydrating & Firming Care for Wrinkles & Fine Lines | Glow Boosting Toner | Korean Skincare | 120 ml",
+  "tags": [
+   "scope:unstated",
+   "format:essence",
+   "format:toner",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:korean",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "zorzel-b0h3bb8y4s",
+  "brand": "Zorzel",
+  "model": "No.9 Anti-Aging Essence Toner with NAD+ & PDRN | Hydrating & Firming Care for Wrinkles & F…",
+  "price": 799,
+  "capacityLine": "120 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Toner · ₹666/100ml",
+  "highlight": "Live Amazon listing rated 3.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (3.0)",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "120 ml",
+   "pricePer100": "₹666/100ml",
+   "format": "Toner",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61BtfAtGh5L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H3BB8Y4S",
+  "buyStore": "Amazon",
+  "title": "Zorzel No.9 Anti-Aging Essence Toner with NAD+ & PDRN | Hydrating & Firming Care for Wrinkles & Fine Lines | Glow Boosting Toner | Korean Skincare | 120 ml",
+  "tags": [
+   "scope:unstated",
+   "format:essence",
+   "format:toner",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:korean",
+   "aud:unisex",
+   "size:standard",
+   "rating:low",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "melita-b0dsfv4hx1",
   "brand": "Melita",
   "model": "Ultra Hydrating Essence | Hyaluronic Acid + Squalane + Peptides | Korean Glow, Hydrating E…",
@@ -100675,6 +100846,69 @@ const CTPRODUCTS = [
    "actives": false,
    "freefrom": false,
    "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "clefairy-b0gw83zbnd",
+  "brand": "Clefairy",
+  "model": "NAD+ PDRN Glow Boosting Toner for Face, Skin Brightening Face Toner, Korean Skincare Facia…",
+  "price": 649,
+  "capacityLine": "120 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Toner · ₹541/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "120 ml",
+   "pricePer100": "₹541/100ml",
+   "format": "Toner",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51t1M2oUBAL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GW83ZBND",
+  "buyStore": "Amazon",
+  "title": "Clefairy NAD+ PDRN Glow Boosting Toner for Face, Skin Brightening Face Toner, Korean Skincare Facial Toner for Glass Skin, Firming, Wrinkles, Fine Lines, Salmon PDRN Serum Essence for Aging, Dull Skin 120 ML",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:essence",
+   "format:toner",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:korean",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
    "derm": false,
    "men": false,
    "women": false
@@ -101051,7 +101285,6 @@ const CTPRODUCTS = [
   "title": "Korean Glass Skin Glow | Rice & Kaolin DIY Face Pack Base | Skin Brightening & Oil Control | Mix with Rose Water, Milk or Aloe Vera | Rice Powder for Face | Rice Flour for Face | For All Skin Types | 100g",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:pack",
    "format:powder",
    "ing:rice-water",
@@ -101683,7 +101916,6 @@ const CTPRODUCTS = [
    "format:essence",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:kit",
    "ing:hyaluronic-acid",
    "ing:rice-water",
@@ -102036,6 +102268,76 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "moody-b0hdtm1q35",
+  "brand": "Moody",
+  "model": "Hydro Burst Skincare Duo | SPF 50 PA++++ Water Sunscreen 50ml + 7D Hydro Burst Hydrating F…",
+  "price": 444,
+  "capacityLine": "50 ml",
+  "materialLine": "hyaluronic acid + rice water",
+  "featureLine": "Sunscreen · SPF 50 · ₹888/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹888/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "hyaluronic acid, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51OEmUjcxrL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HDTM1Q35",
+  "buyStore": "Amazon",
+  "title": "Moody Hydro Burst Skincare Duo | SPF 50 PA++++ Water Sunscreen 50ml + 7D Hydro Burst Hydrating Face Mist & Essence Toner 110ml | Hyaluronic Acid, Vitamin B5 & Rice Water | 72H Hydration",
+  "tags": [
+   "scope:face",
+   "format:essence",
+   "format:toner",
+   "format:mist",
+   "spf:50",
+   "pa:++++",
+   "ing:hyaluronic-acid",
+   "ing:rice-water",
+   "ing:vitamin-b5-panthenol",
+   "claim:hydrating",
+   "claim:long-lasting",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "david-b0fg2n1k6k",
   "brand": "David",
   "model": "Austin Rose Niacinamide & Korean Rice Water Face Toner – Hydrating & Brightening Facial To…",
@@ -102082,7 +102384,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "ing:rose",
@@ -102173,6 +102474,72 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true
+  }
+ },
+ {
+  "id": "shishi-b0hcjcdfpv",
+  "brand": "SHISHI",
+  "model": "Rice Toner for Glass Skin, Hydrating & Brightening Face Toner | Korean Rice Water, Pore Ti…",
+  "price": 158,
+  "capacityLine": "100 ml",
+  "materialLine": "rice water",
+  "featureLine": "Toner · ₹158/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹158/100ml"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹158/100ml",
+   "format": "Toner",
+   "keyIngredients": "rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61aNC93YplL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HCJCDFPV",
+  "buyStore": "Amazon",
+  "title": "SHISHI Rice Toner for Glass Skin, Hydrating & Brightening Face Toner | Korean Rice Water, Pore Tightening, All Skin Types, 100ml, Glowing Skin",
+  "tags": [
+   "scope:face",
+   "format:toner",
+   "ing:rice-water",
+   "claim:brightening",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:korean",
+   "skin:all",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
   }
  },
  {
@@ -102779,6 +103146,75 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "orum-b0ggrwhg6r",
+  "brand": "Orum",
+  "model": "Rice Water Face Toner with 2% Niacinamide, 1% Alpha Arbutin For Glowing & Brightens Skin, …",
+  "price": 385,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "niacinamide + alpha arbutin + rice water",
+  "featureLine": "Toner",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Toner",
+   "keyIngredients": "niacinamide, alpha arbutin, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71gxJ0V7aLL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GGRWHG6R",
+  "buyStore": "Amazon",
+  "title": "Orum Rice Water Face Toner with 2% Niacinamide, 1% Alpha Arbutin For Glowing & Brightens Skin, Tightening Open Pores & Fade Blemishes | For Men, Women & Korean Skin Care | Pack of 1",
+  "tags": [
+   "scope:face",
+   "format:toner",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:alpha-arbutin",
+   "ing:rice-water",
+   "claim:brightening",
+   "claim:acne",
+   "claim:pores",
+   "claim:korean",
+   "aud:women",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
   "id": "generic-b0dj2n346m",
   "brand": "Generic",
   "model": "2% Niacinamide & Rice Water Organic Face Toner | With Rice Ferment Extract | Alcohol-Free …",
@@ -103050,6 +103486,72 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "mutuals-b0gzr26dl5",
+  "brand": "Mutuals",
+  "model": "Moisturising Rice Toner with Niacinamide and Soya, Brightens Dark Skin Tone, Deep Hydratio…",
+  "price": 249,
+  "capacityLine": "100 ml",
+  "materialLine": "niacinamide + rice water",
+  "featureLine": "Toner · ₹249/100ml",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹249/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹249/100ml",
+   "format": "Toner",
+   "keyIngredients": "niacinamide, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51KMZocePlL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GZR26DL5",
+  "buyStore": "Amazon",
+  "title": "Mutuals Moisturising Rice Toner with Niacinamide and Soya, Brightens Dark Skin Tone, Deep Hydration, 100ml",
+  "tags": [
+   "scope:unstated",
+   "format:toner",
+   "ing:niacinamide",
+   "ing:rice-water",
+   "claim:brightening",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "geoorganix-b0dft3bjy7",
   "brand": "GeoOrganiX",
   "model": "Niacinamide & Rice Ferment Face Mist & Toner - Hydrating and Brightening Facial Spray, 2-i…",
@@ -103181,6 +103683,73 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true
+  }
+ },
+ {
+  "id": "skinella-b0fzc3bkf6",
+  "brand": "Skinella",
+  "model": "Rice Water & Cherry Blossom Milky Mist Toner | Brightening & Hydrating Face Toner with Mea…",
+  "price": 345,
+  "capacityLine": "50 ml",
+  "materialLine": "rice water",
+  "featureLine": "Toner · ₹690/100ml",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹690/100ml",
+   "format": "Toner",
+   "keyIngredients": "rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41JSICiJq6L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FZC3BKF6",
+  "buyStore": "Amazon",
+  "title": "Skinella Rice Water & Cherry Blossom Milky Mist Toner | Brightening & Hydrating Face Toner with Meadowfoam, Sunflower & Argan Oils | Glowing Dewy Skin | For All Skin Types | 50ml",
+  "tags": [
+   "scope:face",
+   "format:toner",
+   "format:mist",
+   "ing:rice-water",
+   "ing:argan-oil",
+   "ing:cherry-acerola",
+   "claim:brightening",
+   "claim:hydrating",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
   }
  },
  {
@@ -103574,7 +104143,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:pha",
@@ -103644,7 +104212,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:pha",
    "claim:pores",
@@ -105193,7 +105760,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -105429,7 +105995,6 @@ const CTPRODUCTS = [
    "format:serum",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -114193,7 +114758,6 @@ const CTPRODUCTS = [
    "format:serum",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -115697,7 +116261,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:kit",
    "ing:aloe-vera",
    "ing:rose",
@@ -115928,7 +116491,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:rice-water",
@@ -119354,7 +119916,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:stick",
-   "format:oil",
    "format:sheet-mask",
    "format:clay-mask",
    "format:peel-off",
@@ -119899,7 +120460,6 @@ const CTPRODUCTS = [
    "format:lotion",
    "format:essence",
    "format:toner",
-   "format:oil",
    "format:kit",
    "ing:collagen",
    "ing:aloe-vera",
@@ -123905,7 +124465,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:bar",
    "ing:rice-water",
@@ -128501,6 +129060,454 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "neev-itm6dfd1b30cdf76",
+  "brand": "Neev",
+  "model": "Fresh Cologne Deep Hydrating Facial Toner Men & Women (50 ml …",
+  "price": 287,
+  "capacityLine": "50 ml",
+  "materialLine": "salicylic acid (BHA) + glycolic acid + PHA",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹574/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 5,
+   "ingredients": 6.6,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹574/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "salicylic acid (BHA), glycolic acid, PHA, rose (per listing)",
+   "freeFrom": "Paraben-free, Alcohol-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "India"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/krce64w0/toner/8/2/s/50-fresh-cologne-deep-hydrating-facial-toner-neev-original-imag55cdcvpwsfnj.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/e/d/g/1000-gulabri-eeetma-original-imahjk6aesd2fza5.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/p/t/0/100-rose-face-toner-for-refreshing-hydrating-men-women-bloomshi-original-imahzzhpwpayxkrz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/2/c/l/150-0-pineapple-pha-3-alcohol-free-face-toner-for-pore-original-imaherua4bhgbads.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/u/e/8/-enriched-transparent-original-imah34zh4jzvs4uz.png?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/neev-fresh-cologne-deep-hydrating-facial-toner-men-women/p/itm6dfd1b30cdf76",
+  "buyStore": "Flipkart",
+  "title": "Neev Fresh Cologne Deep Hydrating Facial Toner Men & Women (50 ml …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:serum",
+   "format:toner",
+   "format:pack",
+   "format:kit",
+   "ing:salicylic-acid-bha",
+   "ing:glycolic-acid",
+   "ing:pha",
+   "ing:glutathione",
+   "ing:rose",
+   "claim:brightening",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:ayurvedic",
+   "free:paraben",
+   "free:alcohol",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "ssunsu-itmd43bc5b4cea39",
+  "brand": "SSUNSU",
+  "model": "Glyco Ginseng Essence Toner Men & Women (150 ml)",
+  "price": 1767,
+  "capacityLine": "300 ml (pack of 2)",
+  "materialLine": "vitamin C + rose",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹589/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4.6,
+   "ingredients": 6,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "150 ml × 2 pack",
+   "pricePer100": "₹589/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "vitamin C, rose (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/8/x/s/150-glyco-ginseng-essence-toner-ssunsu-original-imahfecbnkenmrbg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/d/t/1/150-glyco-ginseng-essence-toner-ssunsu-original-imahfecbtrd76mh8.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/y/z/w/150-glyco-ginseng-essence-toner-ssunsu-original-imahfecbhqxcuych.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/8/n/i/150-glyco-ginseng-essence-toner-ssunsu-original-imahfecb7wcxvmuu.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/4/p/o/150-glyco-ginseng-essence-toner-ssunsu-original-imahfecbrvzr395w.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/ssunsu-glyco-ginseng-essence-toner-men-women/p/itmd43bc5b4cea39",
+  "buyStore": "Flipkart",
+  "title": "SSUNSU Glyco Ginseng Essence Toner Men & Women (150 ml)",
+  "tags": [
+   "scope:unstated",
+   "format:essence",
+   "format:toner",
+   "format:wash",
+   "format:kit",
+   "ing:vitamin-c",
+   "ing:rose",
+   "ing:ginseng",
+   "ing:pearl",
+   "claim:dark-spots",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "free:paraben",
+   "free:vegan",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "toovus-itmdec507b591717",
+  "brand": "TOOVUS",
+  "model": "Glycolic Acid 7%Toner,Resurfacing SolutionFacial Exfoliati …",
+  "price": 200,
+  "capacityLine": "200 ml",
+  "materialLine": "glycolic acid",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹100/100ml",
+  "highlight": "Live Flipkart listing rated 4★ by 584 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹100/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.2,
+   "skin": 4.6,
+   "ingredients": 5.6,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹100/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "glycolic acid (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4/5 (584 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/j/i/k/100-glycolic-acid-7-toner-glycolic-acid-7-toning-resurfacing-original-imah8dhyxm2ynrud.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/l/1/j/100-glycolic-acid-7-toner-glycolic-acid-7-toning-resurfacing-original-imah8dhy8ztzh36t.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/s/l/x/200-glycolic-acid-7-toner-resurfacing-solutionfacial-exfoliation-original-imah8vdm2edaps4u.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/r/n/1/200-glycolic-acid-7-toner-resurfacing-solutionfacial-exfoliation-original-imah8vdm4ytfqhhx.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/k/e/h/200-daily-renewal-toner-with-glycolic-acid-for-skin-radiance-original-imahgyg7bky9fggt.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/toovus-glycolic-acid-7-toner-resurfacing-solutionfacial-exfoliation-your-skin-men-women/p/itmdec507b591717",
+  "buyStore": "Flipkart",
+  "title": "TOOVUS Glycolic Acid 7%Toner,Resurfacing SolutionFacial Exfoliati …",
+  "tags": [
+   "scope:face",
+   "format:toner",
+   "format:pack",
+   "ing:glycolic-acid",
+   "claim:exfoliating",
+   "free:paraben",
+   "free:vegan",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "toovus-itm5dadec3afe2e3",
+  "brand": "TOOVUS",
+  "model": "Glycolic Acid 7% Toner for Acne, Dark Spots & Skin Repair …",
+  "price": 160,
+  "capacityLine": "200 ml",
+  "materialLine": "glycolic acid",
+  "featureLine": "Toner · Paraben-free · ₹80/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹80/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4.6,
+   "ingredients": 5.4,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹80/100ml",
+   "format": "Toner",
+   "keyIngredients": "glycolic acid (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/r/8/c/200-glycolic-acid-7-toner-for-acne-dark-spots-skin-repair-toovus-original-imahqbb7tzkw3dpg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/y/0/i/200-glycolic-acid-7-toning-solution-for-blemishes-acne-radiance-original-imahqbb7w3f88vtr.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/x/a/5/200-glycolic-acid-7-toning-solution-for-blemishes-acne-radiance-original-imahqbb7akm5nrrv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/7/l/r/200-glycolic-acid-7-toning-solution-for-blemishes-acne-radiance-original-imahqbb7hgdgutz6.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/u/f/a/200-glycolic-acid-7-face-toner-for-dark-spots-acne-blemishes-original-imahqbb7dnzg4fy6.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/toovus-glycolic-acid-7-toner-acne-dark-spots-skin-repair-men-women/p/itm5dadec3afe2e3",
+  "buyStore": "Flipkart",
+  "title": "TOOVUS Glycolic Acid 7% Toner for Acne, Dark Spots & Skin Repair …",
+  "tags": [
+   "scope:face",
+   "format:toner",
+   "format:oil",
+   "format:pack",
+   "ing:glycolic-acid",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:barrier",
+   "claim:ayurvedic",
+   "free:paraben",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "toovus-itme3dbce95345f6",
+  "brand": "TOOVUS",
+  "model": "Glycolic Acid 7% Face Toner for Acne, Pigmentation & Even …",
+  "price": 160,
+  "capacityLine": "200 ml",
+  "materialLine": "glycolic acid",
+  "featureLine": "Toner · Paraben-free · ₹80/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹80/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4.6,
+   "ingredients": 5.4,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹80/100ml",
+   "format": "Toner",
+   "keyIngredients": "glycolic acid (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/f/x/j/200-glycolic-acid-7-face-toner-for-acne-pigmentation-even-skin-original-imahqbb7bpdqegvy.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/toovus-glycolic-acid-7-face-toner-acne-pigmentation-even-skin-tone-men-women/p/itme3dbce95345f6",
+  "buyStore": "Flipkart",
+  "title": "TOOVUS Glycolic Acid 7% Face Toner for Acne, Pigmentation & Even …",
+  "tags": [
+   "scope:face",
+   "format:toner",
+   "format:oil",
+   "format:pack",
+   "ing:glycolic-acid",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:ayurvedic",
+   "free:paraben",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "toovus-itm084c95e980ae2",
+  "brand": "TOOVUS",
+  "model": "Glycolic Acid Face Toner for Dead Skin Cell Removal and Sk …",
+  "price": 200,
+  "capacityLine": "200 ml",
+  "materialLine": "salicylic acid (BHA) + glycolic acid",
+  "featureLine": "Toner · Paraben-free · ₹100/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹100/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4.6,
+   "ingredients": 6,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹100/100ml",
+   "format": "Toner",
+   "keyIngredients": "salicylic acid (BHA), glycolic acid (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/e/x/c/200-glycolic-acid-face-toner-for-dead-skin-cell-removal-and-skin-original-imahzcdmfhxezzpq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/7/2/q/150-bright-even-skin-tone-alcohol-free-toner-with-3-niacinamide-original-imahgh32hkj36dyq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/p/d/s/-original-imahpjw7wufsuaqx.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/u/n/x/200-glycolic-acid-7-solution-for-dark-spots-hyperpigmentation-original-imahzcdmqxzcpj9c.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/x/9/9/600-8-glycolic-acid-1-salicylic-acid-1-gdl-multipurpose-toning-original-imahj9syryksrqbr.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/toovus-glycolic-acid-face-toner-dead-skin-cell-removal-radiance-200ml-men-women/p/itm084c95e980ae2",
+  "buyStore": "Flipkart",
+  "title": "TOOVUS Glycolic Acid Face Toner for Dead Skin Cell Removal and Sk …",
+  "tags": [
+   "scope:face",
+   "format:toner",
+   "ing:salicylic-acid-bha",
+   "ing:glycolic-acid",
+   "claim:brightening",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "free:paraben",
+   "free:vegan",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
   "id": "generic-b0gp1wcmx3",
   "brand": "Generic",
   "model": "7% Glycolic Acid Exfoliating Toner for Glowing Skin | Brightens & Smooths Texture | Toner …",
@@ -129712,7 +130719,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:glycolic-acid",
    "ing:cucumber",
    "claim:brightening",
@@ -130292,7 +131298,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:niacinamide",
    "ing:glycolic-acid",
    "claim:acne",
@@ -134121,7 +135126,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:pads",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -134262,7 +135266,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:pads",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -136419,7 +137422,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:glycolic-acid",
    "ing:lactic-acid",
    "ing:aloe-vera",
@@ -137782,73 +138784,6 @@ const CTPRODUCTS = [
    "skin:sensitive",
    "skin:acne-prone",
    "aud:unisex",
-   "rating:4.0",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
-  }
- },
- {
-  "id": "hyphen-b0gzl7frb7",
-  "brand": "Hyphen",
-  "model": "Bright & Glass Skin Face Care Duo | 18% Brightening + 20% Collagen with 11% Mandarin 5% Ni…",
-  "price": 972,
-  "capacityLine": "50 ml",
-  "materialLine": "niacinamide + ceramides",
-  "featureLine": "Toner · ₹1944/100ml",
-  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1944/100ml",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 4.2,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.5
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹1944/100ml",
-   "format": "Toner",
-   "keyIngredients": "niacinamide, ceramides (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51DAin6r6fL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GZL7FRB7",
-  "buyStore": "Amazon",
-  "title": "Hyphen Bright & Glass Skin Face Care Duo | 18% Brightening + 20% Collagen with 11% Mandarin 5% Niacinamide Serum 50ml & 7% Ceramides-NMF Milky Face Toner Essence with 5% Glass Skin Blend 100ml",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:essence",
-   "format:toner",
-   "ing:niacinamide",
-   "ing:ceramides",
-   "ing:collagen",
-   "claim:brightening",
-   "aud:unisex",
-   "size:travel",
    "rating:4.0",
    "store:amazon"
   ],
@@ -139294,7 +140229,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:serum",
    "format:toner",
-   "format:oil",
    "format:pads",
    "format:kit",
    "ing:pha",
@@ -139602,7 +140536,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "claim:pores",
@@ -139672,7 +140605,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "claim:pores",
@@ -142117,7 +143049,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:toner",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:green-tea",
@@ -142602,7 +143533,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:rice-water",
@@ -143709,69 +144639,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "clefairy-b0gw83zbnd",
-  "brand": "Clefairy",
-  "model": "NAD+ PDRN Glow Boosting Toner for Face, Skin Brightening Face Toner, Korean Skincare Facia…",
-  "price": 649,
-  "capacityLine": "120 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Toner · ₹541/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [],
-  "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.5
-  },
-  "fullSpec": {
-   "quantity": "120 ml",
-   "pricePer100": "₹541/100ml",
-   "format": "Toner",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim, Anti-aging claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51t1M2oUBAL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GW83ZBND",
-  "buyStore": "Amazon",
-  "title": "Clefairy NAD+ PDRN Glow Boosting Toner for Face, Skin Brightening Face Toner, Korean Skincare Facial Toner for Glass Skin, Firming, Wrinkles, Fine Lines, Salmon PDRN Serum Essence for Aging, Dull Skin 120 ML",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:essence",
-   "format:toner",
-   "claim:brightening",
-   "claim:anti-aging",
-   "claim:korean",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
-  }
- },
- {
   "id": "tonymoly-b0c7hfd1pg",
   "brand": "TONYMOLY",
   "model": "Wonder Rice Smoothing Toner - Travel-Friendly Brightening & Clarifying Milky Facial Toner …",
@@ -144032,72 +144899,6 @@ const CTPRODUCTS = [
   "filters": {
    "actives": true,
    "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
-  }
- },
- {
-  "id": "shishi-b0hcjcdfpv",
-  "brand": "SHISHI",
-  "model": "Rice Toner for Glass Skin, Hydrating & Brightening Face Toner | Korean Rice Water, Pore Ti…",
-  "price": 158,
-  "capacityLine": "100 ml",
-  "materialLine": "rice water",
-  "featureLine": "Toner · ₹158/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹158/100ml"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹158/100ml",
-   "format": "Toner",
-   "keyIngredients": "rice water (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61aNC93YplL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HCJCDFPV",
-  "buyStore": "Amazon",
-  "title": "SHISHI Rice Toner for Glass Skin, Hydrating & Brightening Face Toner | Korean Rice Water, Pore Tightening, All Skin Types, 100ml, Glowing Skin",
-  "tags": [
-   "scope:face",
-   "format:toner",
-   "ing:rice-water",
-   "claim:brightening",
-   "claim:pores",
-   "claim:hydrating",
-   "claim:korean",
-   "skin:all",
-   "aud:unisex",
-   "size:standard",
-   "rating:none",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
    "natural": false,
    "derm": false,
    "men": false,

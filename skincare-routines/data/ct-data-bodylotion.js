@@ -747,7 +747,6 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:serum",
-   "format:oil",
    "ing:hyaluronic-acid",
    "claim:brightening",
    "claim:whitening-claim",
@@ -1608,7 +1607,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:balm",
    "ing:aloe-vera",
    "ing:papaya",
@@ -3152,7 +3150,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:balm",
    "format:kit",
    "spf:30",
@@ -7559,7 +7556,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "claim:whitening-claim",
@@ -8249,7 +8245,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:scrub",
    "ing:ubtan",
    "claim:oil-control",
@@ -10232,7 +10227,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "ing:aloe-vera",
    "claim:brightening",
    "claim:oil-control",
@@ -11217,7 +11211,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:balm",
    "format:kit",
    "ing:aloe-vera",
@@ -13109,7 +13102,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:balm",
    "ing:niacinamide",
    "claim:brightening",
@@ -15343,7 +15335,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:balm",
    "format:kit",
    "spf:30",
@@ -16370,7 +16361,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:balm",
    "format:kit",
    "ing:colloidal-oatmeal",
@@ -18713,7 +18703,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:kit",
    "spf:15",
    "pa:+++",
@@ -18792,7 +18781,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:balm",
    "format:kit",
    "ing:aloe-vera",
@@ -20198,7 +20186,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "format:pack",
    "format:kit",
    "claim:brightening",
@@ -20263,7 +20250,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "claim:brightening",
    "claim:oil-control",
    "claim:hydrating",
@@ -26255,529 +26241,16 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "dabur-itmc3c0dbeee8414",
-  "brand": "Dabur",
-  "model": "Moisturizing Body Lotion (400 ml)",
-  "price": 505,
-  "capacityLine": "400 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · ₹126/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹126/100ml"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 5.7,
-   "skin": 4,
-   "ingredients": 4.3,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹126/100ml",
-   "format": "Lotion",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/u/v/400-moisturizing-body-lotion-dabur-lotion-original-imahqzqfnxf8fwmx.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/dabur-moisturizing-body-lotion/p/itmc3c0dbeee8414",
-  "buyStore": "Flipkart",
-  "title": "Dabur Moisturizing Body Lotion (400 ml)",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "claim:hydrating",
-   "free:sensitive-safe",
-   "skin:oily",
-   "skin:dry",
-   "skin:combination",
-   "skin:sensitive",
-   "skin:normal",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "samta-itm3611d521e16aa",
-  "brand": "SAMTA",
-  "model": "Body Lotion (30 ml)",
-  "price": 232,
-  "capacityLine": "30 ml",
-  "materialLine": "honey + almond",
-  "featureLine": "Lotion · ₹773/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [],
-  "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.8,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹773/100ml",
-   "format": "Lotion",
-   "keyIngredients": "honey, almond (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/g/t/30-body-lotion-samta-lotion-original-imahj2hzggwhazgq.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/5/6/400-0-collagen-anti-aging-lotion-for-face-body-for-skin-original-imahggzgqkj58j9g.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/m/7/200-natural-shea-butter-for-body-and-skin-raw-unrefined-and-original-imahfv36yv8xqzuf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/c/2/75-aqua-soft-day-cream-aquasoft-fc-cream-original-imahmf3zfw2be3ff.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/g/5/30-foot-cream-deep-moisturizing-and-repair-for-dry-ceacked-heels-original-imahc7ungfpns3mb.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/samta-body-lotion/p/itm3611d521e16aa",
-  "buyStore": "Flipkart",
-  "title": "SAMTA Body Lotion (30 ml)",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:lotion",
-   "ing:honey",
-   "ing:almond",
-   "claim:hydrating",
-   "skin:all",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "fyc-professional-itm567c1b1f2d1c0",
-  "brand": "FYC PROFESSIONAL",
-  "model": "Korean Radiance Body Lotion | Lightweight Hydrat …",
-  "price": 508,
-  "capacityLine": "70 g",
-  "materialLine": "niacinamide + salicylic acid (BHA)",
-  "featureLine": "Oil · Paraben-free · ₹726/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)"
-  ],
-  "cons": [
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 5.5,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "70 g",
-   "pricePer100": "₹726/100g",
-   "format": "Oil",
-   "keyIngredients": "niacinamide, salicylic acid (BHA) (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/w/r/400-korean-radiance-body-lotion-lightweight-hydrating-lotion-for-original-imahnvza9cbyrzzc.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/b/0/400-korean-radiance-body-lotion-lightweight-hydrating-lotion-for-original-imahnvzajxhqgscp.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/l/2/400-korean-radiance-body-lotion-lightweight-hydrating-lotion-for-original-imahp4yyrytvf9vy.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/l/3/400-korean-radiance-body-lotion-lightweight-hydrating-lotion-for-original-imahp4yyyfdbfehd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/v/l/400-korean-radiance-body-lotion-lightweight-hydrating-lotion-for-original-imahp4yya4gb8a7d.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/fyc-professional-korean-radiance-body-lotion-lightweight-hydrating-soft-glowing-skin/p/itm567c1b1f2d1c0",
-  "buyStore": "Flipkart",
-  "title": "FYC PROFESSIONAL Korean Radiance Body Lotion | Lightweight Hydrat …",
-  "tags": [
-   "scope:body",
-   "format:gel",
-   "format:cream",
-   "format:lotion",
-   "format:oil",
-   "ing:niacinamide",
-   "ing:salicylic-acid-bha",
-   "claim:brightening",
-   "claim:acne",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:lightweight",
-   "claim:korean",
-   "free:paraben",
-   "free:oil-free",
-   "free:sensitive-safe",
-   "skin:oily",
-   "skin:dry",
-   "skin:combination",
-   "skin:sensitive",
-   "skin:normal",
-   "skin:all",
-   "aud:women",
-   "size:standard",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "cetaphil-itm33f5dd8d11dc1",
-  "brand": "Cetaphil",
-  "model": "Bright Healthy Radiance Body Lotion (245 ml)",
-  "price": 1478,
-  "capacityLine": "245 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · ₹603/100ml",
-  "highlight": "Live Flipkart listing rated 4.2★ by 449 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Strong buyer rating (4.2)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 6.3,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.5
-  },
-  "fullSpec": {
-   "quantity": "245 ml",
-   "pricePer100": "₹603/100ml",
-   "format": "Lotion",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.2/5 (449 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/a/v/-original-imagskrffuh2wzfn.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/j/t/-original-imagskrfxmv5ct9h.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/v/4/-original-imagskrfmk3fk2nm.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/f/a/-original-imagskrfgsw7zzgt.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/u/a/-original-imagskrfjmhepucy.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/cetaphil-bright-healthy-radiance-body-lotion/p/itm33f5dd8d11dc1",
-  "buyStore": "Flipkart",
-  "title": "Cetaphil Bright Healthy Radiance Body Lotion (245 ml)",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "claim:brightening",
-   "aud:unisex",
-   "size:large",
-   "rating:4.0",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
-  }
- },
- {
-  "id": "nat-habit-itm6d1124cd9679d",
-  "brand": "Nat Habit",
-  "model": "Shea Butter Omega 3 Moisturizer Body Cream, Anti-Aging …",
-  "price": 282,
-  "capacityLine": "240 ml",
-  "materialLine": "walnut + almond + shea butter",
-  "featureLine": "Cream / gel · Paraben-free · ₹118/100ml",
-  "highlight": "Live Flipkart listing rated 4.3★ by 988 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹118/100ml",
-   "Paraben-free (per listing)",
-   "Strong buyer rating (4.3)"
-  ],
-  "cons": [
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 4.7,
-   "skin": 4.6,
-   "ingredients": 5.5,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "240 ml",
-   "pricePer100": "₹118/100ml",
-   "format": "Cream / gel",
-   "keyIngredients": "walnut, almond, shea butter (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Anti-aging claim, Acne/blemish claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Dry Skin, Sensitive Skin",
-   "rating": "4.3/5 (988 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/w/5/240-shea-butter-omega-3-moisturizer-body-cream-anti-aging-original-imahgfzatxabyy26.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/q/m/120-shea-butter-omega-3-moisturizer-body-cream-anti-aging-original-imahgfnzkze9efqs.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/r/v/120-shea-butter-omega-3-moisturizer-body-cream-anti-aging-original-imahgfnzrgrgrsk9.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/b/q/240-shea-butter-omega-3-moisturizer-body-cream-anti-aging-original-imahgfzah8arfrcy.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/m/c/120-shea-butter-omega-3-moisturizer-body-cream-anti-aging-original-imahgfnzzjhffpaz.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nat-habit-shea-butter-omega-3-moisturizer-body-cream-anti-aging-collagen-boost/p/itm6d1124cd9679d",
-  "buyStore": "Flipkart",
-  "title": "Nat Habit Shea Butter Omega 3 Moisturizer Body Cream, Anti-Aging …",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:balm",
-   "format:patch",
-   "ing:collagen",
-   "ing:walnut",
-   "ing:almond",
-   "ing:shea-butter",
-   "ing:milk",
-   "claim:anti-aging",
-   "claim:acne",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:kp",
-   "claim:long-lasting",
-   "free:paraben",
-   "free:sensitive-safe",
-   "skin:dry",
-   "skin:sensitive",
-   "aud:women",
-   "size:large",
-   "rating:4.0",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "radium-itm9be7fa0e28440",
-  "brand": "Radium",
-  "model": "Moisturizing Lotion | Enrich with Almond OIL | Body Lotion …",
-  "price": 136,
-  "capacityLine": "100 ml",
-  "materialLine": "almond",
-  "featureLine": "Oil · Paraben-free · ₹136/100ml",
-  "highlight": "Live Flipkart listing rated 5★ by 1 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹136/100ml",
-   "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
-  "cons": [
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 5.6,
-   "skin": 5.3,
-   "ingredients": 4.9,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹136/100ml",
-   "format": "Oil",
-   "keyIngredients": "almond (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
-   "rating": "5/5 (1 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/d/p/100-moisturizing-lotion-enrich-with-almond-oil-body-lotion-for-original-imahfdtvhbjfyucp.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/2/7/100-moisturizing-lotion-radium-lotion-original-imahf9f7gxyxgkmf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/q/u/100-moisturizing-lotion-radium-lotion-original-imahf9f782wqrdjk.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/e/e/100-moisturizing-lotion-radium-lotion-original-imahf9f7rdyucsbv.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/h/c/100-moisturizing-lotion-radium-lotion-original-imahf9f7yqshm6w6.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/radium-moisturizing-lotion-enrich-almond-oil-body-all-skin-types/p/itm9be7fa0e28440",
-  "buyStore": "Flipkart",
-  "title": "Radium Moisturizing Lotion | Enrich with Almond OIL | Body Lotion …",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:lotion",
-   "format:oil",
-   "format:balm",
-   "ing:almond",
-   "ing:cocoa-butter",
-   "ing:glycerin",
-   "ing:argan-oil",
-   "claim:brightening",
-   "claim:hydrating",
-   "free:paraben",
-   "free:derm",
-   "free:vegan",
-   "free:sensitive-safe",
-   "skin:oily",
-   "skin:dry",
-   "skin:combination",
-   "skin:sensitive",
-   "skin:normal",
-   "skin:all",
-   "aud:women",
-   "size:standard",
-   "rating:4.5",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": true,
-   "natural": true,
-   "derm": true,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "rustic-itm8b678c92700e1",
-  "brand": "RUSTIC",
-  "model": "ART Blueberry Organic Hand and Body Lotion (200 ml)",
-  "price": 233,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · ₹117/100ml",
-  "highlight": "Live Flipkart listing rated 4.3★ by 268 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹117/100ml",
-   "Strong buyer rating (4.3)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 4.7,
-   "skin": 4,
-   "ingredients": 4.3,
-   "experience": 4.2
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹117/100ml",
-   "format": "Lotion",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "4.3/5 (268 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/q/o/200-blueberry-organic-hand-and-body-lotion-rustic-art-lotion-original-imahhaf5vqryybkt.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/b/n/200-blueberry-organic-hand-and-body-lotion-rustic-art-lotion-original-imahhaf5h7emuvty.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/9/3/50-organic-rose-bergamot-skin-cream-for-face-body-instantly-original-imahnbmavzypqqdw.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/z/k/100-rose-bergamot-skin-cream-face-body-rustic-art-cream-original-imahd2hvhachdyx8.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/1/h/100-blueberry-organic-hand-and-body-lotion-100ml-rustic-art-original-imah7eyqjzcph79j.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/rustic-art-blueberry-organic-hand-body-lotion/p/itm8b678c92700e1",
-  "buyStore": "Flipkart",
-  "title": "RUSTIC ART Blueberry Organic Hand and Body Lotion (200 ml)",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "aud:unisex",
-   "size:large",
-   "rating:4.0",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": false
-  }
- },
- {
-  "id": "goat-itmbb0cc0667bc02",
-  "brand": "Goat",
-  "model": "Moisturising Body Lotion with Coconut Oil (500 ml)",
-  "price": 894,
-  "capacityLine": "1000 ml (pack of 2)",
+  "id": "riffway-itm0fe400a39facd",
+  "brand": "Riffway",
+  "model": "Max Cream For Women Organic Body Cream (50 g)",
+  "price": 258,
+  "capacityLine": "250 g (pack of 5)",
   "materialLine": "honey",
-  "featureLine": "Sunscreen · SPF 30 · ₹89/100ml",
+  "featureLine": "Cream / gel · ₹103/100g",
   "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [
-   "Good value: ₹89/100ml"
+   "Good value: ₹103/100g"
   ],
   "cons": [
    "No free-from claims in listing",
@@ -26786,492 +26259,17 @@ const CTPRODUCTS = [
   "scores": {
    "trust": 3.9,
    "skin": 4,
-   "ingredients": 4.6,
-   "experience": 5.3
+   "ingredients": 4.7,
+   "experience": 4.9
   },
   "fullSpec": {
-   "quantity": "500 ml × 2 pack",
-   "pricePer100": "₹89/100ml",
-   "format": "Sunscreen",
+   "quantity": "50 g × 5 pack",
+   "pricePer100": "₹103/100g",
+   "format": "Cream / gel",
    "keyIngredients": "honey (per listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim, SPF 30",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Sensitive Skin",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/j/j/500-moisturising-body-lotion-with-coconut-oil-goat-lotion-original-imahnsb2ge8rzsyx.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/t/i/500-moisturising-body-lotion-with-coconut-oil-goat-lotion-original-imahnsaqdhrh5zaf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/t/y/500-moisturising-body-lotion-with-coconut-oil-goat-lotion-original-imahnsaq5rzbrfgw.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/j/m/500-moisturising-body-lotion-with-coconut-oil-goat-lotion-original-imahnsb2cqxuzbjg.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/d/5/500-moisturising-body-lotion-with-coconut-oil-goat-lotion-original-imahnsaqhppryqjf.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/goat-moisturising-body-lotion-coconut-oil/p/itmbb0cc0667bc02",
-  "buyStore": "Flipkart",
-  "title": "Goat Moisturising Body Lotion with Coconut Oil (500 ml)",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:lotion",
-   "format:oil",
-   "format:kit",
-   "spf:30",
-   "ing:honey",
-   "ing:argan-oil",
-   "ing:coconut",
-   "claim:whitening-claim",
-   "claim:hydrating",
-   "claim:spf-claim",
-   "free:vegan",
-   "free:sensitive-safe",
-   "skin:oily",
-   "skin:sensitive",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "goat-itmffc81bf3da8bb",
-  "brand": "Goat",
-  "model": "Moisturising Body Lotion with Manuka Honey (500 ml)",
-  "price": 894,
-  "capacityLine": "500 ml",
-  "materialLine": "colloidal oatmeal + honey",
-  "featureLine": "Sunscreen · SPF 30 · ₹179/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹179/100ml",
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.7,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "500 ml",
-   "pricePer100": "₹179/100ml",
-   "format": "Sunscreen",
-   "keyIngredients": "colloidal oatmeal, honey (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, SPF 30",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Sensitive Skin",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/f/6/500-moisturising-body-lotion-with-manuka-honey-goat-lotion-original-imahns9yuggmzaup.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/e/r/500-moisturising-body-lotion-with-manuka-honey-goat-lotion-original-imahns9ysgyuvxqs.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/a/q/500-moisturising-body-lotion-with-manuka-honey-goat-lotion-original-imahns9yzxjv7gea.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/e/b/500-moisturising-body-lotion-with-manuka-honey-goat-lotion-original-imahns9ysfgejhx9.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/7/2/500-moisturising-body-lotion-with-manuka-honey-goat-lotion-original-imahns9y4tewahx4.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/goat-moisturising-body-lotion-manuka-honey/p/itmffc81bf3da8bb",
-  "buyStore": "Flipkart",
-  "title": "Goat Moisturising Body Lotion with Manuka Honey (500 ml)",
-  "tags": [
-   "scope:both",
-   "format:lotion",
-   "format:oil",
-   "spf:30",
-   "ing:colloidal-oatmeal",
-   "ing:honey",
-   "ing:argan-oil",
-   "claim:hydrating",
-   "claim:spf-claim",
-   "free:vegan",
-   "free:sensitive-safe",
-   "skin:sensitive",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "goat-itmf5be5b23072bb",
-  "brand": "Goat",
-  "model": "Original Moisturising Body Lotion (500 ml)",
-  "price": 894,
-  "capacityLine": "1000 ml (pack of 2)",
-  "materialLine": "colloidal oatmeal + honey",
-  "featureLine": "Sunscreen · SPF 30 · ₹89/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹89/100ml",
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.7,
-   "experience": 5.3
-  },
-  "fullSpec": {
-   "quantity": "500 ml × 2 pack",
-   "pricePer100": "₹89/100ml",
-   "format": "Sunscreen",
-   "keyIngredients": "colloidal oatmeal, honey (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim, SPF 30",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Sensitive Skin",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/t/d/500-original-moisturising-body-lotion-goat-lotion-original-imahns9j3yx3rzh3.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/q/q/500-original-moisturising-body-lotion-goat-lotion-original-imahns9nbehtzdkd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/g/q/500-original-moisturising-body-lotion-goat-lotion-original-imahns9jus64qfga.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/1/p/500-original-moisturising-body-lotion-goat-lotion-original-imahns9nskjrq3h7.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/t/l/500-original-moisturising-body-lotion-goat-lotion-original-imahns9jgdpa9wap.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/goat-original-moisturising-body-lotion/p/itmf5be5b23072bb",
-  "buyStore": "Flipkart",
-  "title": "Goat Original Moisturising Body Lotion (500 ml)",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:lotion",
-   "format:oil",
-   "format:kit",
-   "spf:30",
-   "ing:colloidal-oatmeal",
-   "ing:honey",
-   "ing:argan-oil",
-   "claim:whitening-claim",
-   "claim:hydrating",
-   "claim:spf-claim",
-   "free:vegan",
-   "free:sensitive-safe",
-   "skin:oily",
-   "skin:sensitive",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "sheny-itmd95b1ee0062f3",
-  "brand": "Sheny",
-  "model": "body lotion benefit of that it instantly hydrates dry skin, …",
-  "price": 130,
-  "capacityLine": "200 g",
-  "materialLine": "retinol + aloe vera",
-  "featureLine": "Oil · ₹65/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹65/100g",
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "200 g",
-   "pricePer100": "₹65/100g",
-   "format": "Oil",
-   "keyIngredients": "retinol, aloe vera (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/r/5/200-body-lotion-benefit-of-that-it-instantly-hydrates-dry-skin-original-imagupktz742uwmh.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/2/i/50-mattifying-moisturizer-for-balanced-matte-skin-care-winym-original-imahjkf8aszpqhth.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/z/y/50-ankle-whitening-brightening-skin-cream-for-uv-protection-original-imahybvyfbpkdy6z.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/kt8zb0w0/moisturizer-cream/0/m/u/50-certified-organic-cold-pressed-pure-aloe-vera-gel-anti-ageing-original-imag6n24gsbh8gyb.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/s/v/200-retinal-shot-advanced-texture-refining-hydration-support-original-imahkmrmqzrsbqg4.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/sheny-body-lotion-benefit-instantly-hydrates-dry-skin-daily-care/p/itmd95b1ee0062f3",
-  "buyStore": "Flipkart",
-  "title": "Sheny body lotion benefit of that it instantly hydrates dry skin, …",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "format:cream",
-   "format:lotion",
-   "format:oil",
-   "format:kit",
-   "ing:retinal",
-   "ing:aloe-vera",
-   "claim:brightening",
-   "claim:whitening-claim",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "free:sensitive-safe",
-   "skin:oily",
-   "skin:dry",
-   "skin:combination",
-   "skin:sensitive",
-   "skin:normal",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "sheny-itm4393148074d04",
-  "brand": "Sheny",
-  "model": "Body Lotion Hydrate/Winter Moisturizer & Soft Skin (200 g)",
-  "price": 125,
-  "capacityLine": "200 g",
-  "materialLine": "shea butter",
-  "featureLine": "Oil · ₹63/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹63/100g"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "200 g",
-   "pricePer100": "₹63/100g",
-   "format": "Oil",
-   "keyIngredients": "shea butter (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/w/8/200-body-lotion-hydrate-winter-moisturizer-soft-skin-sheny-original-imagupkphshwdnkq.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/u/l/100-non-greasy-intensive-care-deep-moisture-uv-protection-body-original-imahk6asnmgwguhe.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/2/s/1-moisturizing-lotion-1000ml-opal-lotion-original-imahhhynbtygf5pn.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/w/h/100-aloe-vera-cold-winter-cream-for-women-and-men-hydrating-original-imahnam4bcgpheuy.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/c/o/i/60-bright-glow-vitamin-c-serum-12ml-pack-of-5-serum-nature-s-original-imahctymqhzzgwfa.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/sheny-body-lotion-hydrate-winter-moisturizer-soft-skin/p/itm4393148074d04",
-  "buyStore": "Flipkart",
-  "title": "Sheny Body Lotion Hydrate/Winter Moisturizer & Soft Skin (200 g)",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:lotion",
-   "format:oil",
-   "format:balm",
-   "ing:shea-butter",
-   "claim:brightening",
-   "claim:oil-control",
-   "claim:hydrating",
-   "free:sensitive-safe",
-   "skin:oily",
-   "skin:dry",
-   "skin:combination",
-   "skin:sensitive",
-   "skin:normal",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "caryl-itm41c56fb6eece9",
-  "brand": "CARYL",
-  "model": "Essential Nourishing Lotion - With Avocado Butter - For Glo …",
-  "price": 71,
-  "capacityLine": "200 ml",
-  "materialLine": "shea butter",
-  "featureLine": "Oil · Paraben-free · ₹36/100ml",
-  "highlight": "Live Flipkart listing rated 4.2★ by 25 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹36/100ml",
-   "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
-  "cons": [
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 5,
-   "skin": 5.3,
-   "ingredients": 4.9,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹36/100ml",
-   "format": "Oil",
-   "keyIngredients": "shea butter (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
-   "rating": "4.2/5 (25 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/g/f/200-essential-nourishing-lotion-with-avocado-butter-for-glowing-original-imahmzafnamneguy.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/d/f/200-essential-nourishing-lotion-with-avocado-butter-for-glowing-original-imahmzafgfhyxyqg.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/j/d/200-essential-nourishing-lotion-with-avocado-butter-for-glowing-original-imahmzafrrsbrfgg.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/f/i/200-essential-nourishing-lotion-with-avocado-butter-for-glowing-original-imahmzaf9cyv3hsz.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/l/b/200-essential-nourishing-lotion-with-avocado-butter-for-glowing-original-imahmzafuxxe2ajw.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/caryl-essential-nourishing-lotion-avocado-butter-glowing-healthy-skin/p/itm41c56fb6eece9",
-  "buyStore": "Flipkart",
-  "title": "CARYL Essential Nourishing Lotion - With Avocado Butter - For Glo …",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "format:lotion",
-   "format:oil",
-   "format:balm",
-   "ing:shea-butter",
-   "ing:cocoa-butter",
-   "ing:avocado",
-   "claim:brightening",
-   "claim:oil-control",
-   "claim:hydrating",
-   "free:paraben",
-   "free:derm",
-   "free:vegan",
-   "free:sensitive-safe",
-   "skin:oily",
-   "skin:dry",
-   "skin:combination",
-   "skin:sensitive",
-   "skin:normal",
-   "skin:all",
-   "aud:women",
-   "size:large",
-   "rating:4.0",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": true,
-   "natural": true,
-   "derm": true,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "elibliss-itm325aec4c0a8f9",
-  "brand": "ELIBLISS",
-  "model": "Intense Moisture Body Lotion with Shea Butter & Vitamin …",
-  "price": 58,
-  "capacityLine": "400 g (pack of 2)",
-  "materialLine": "shea butter + vitamin E",
-  "featureLine": "Lotion · Paraben-free · ₹15/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹15/100g",
-   "Paraben-free (per listing)"
-  ],
-  "cons": [
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 5.3,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "200 g × 2 pack",
-   "pricePer100": "₹15/100g",
-   "format": "Lotion",
-   "keyIngredients": "shea butter, vitamin E (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim",
    "audience": "Marketed for women",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
@@ -27280,41 +26278,34 @@ const CTPRODUCTS = [
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/q/b/500-0-intense-moisture-body-lotion-with-shea-butter-vitamin-e-original-imahj8ygvpdmhfga.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/d/g/4/250-0-shea-butter-vitamin-e-body-lotion-for-hydrating-repair-original-imahgfzzshkzapxy.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/t/r/j/250-0-shea-butter-vitamin-e-body-lotion-for-hydrating-repair-original-imahgfzzharahecw.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/o/k/4/250-0-shea-butter-vitamin-e-body-lotion-for-hydrating-repair-original-imahgfzzdx4e3zsu.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/0/k/q/500-0-shea-butter-vitamin-e-body-lotion-for-hydrating-repair-original-imahgfzzhzxgyhfs.jpeg?q=90"
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/w/h/50-max-cream-for-women-organic-body-cream-riffway-cream-original-imahaq9bxmsmv9qq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/u/w/50-nav-beauty-cream-for-women-herbal-cream-riffway-cream-original-imahaq99uqh8gwkz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/b/e/200-gluta-hya-overnight-radiance-serum-in-lotion-200ml-vaseline-original-imah698fkhckaxbq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/s/x/50-bikni-area-lighting-cream-suitable-for-all-type-of-skin-gabbu-original-imahmfggg5nuras8.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/women-intimate-care/w/9/j/50-3-days-intimate-area-skin-lightening-cream-best-whitening-original-imahgzqrhky6zvqy.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/elibliss-intense-moisture-body-lotion-shea-butter-vitamin-e-dry-skin-glow/p/itm325aec4c0a8f9",
+  "buyUrl": "https://www.flipkart.com/riffway-max-cream-women-organic-body/p/itm0fe400a39facd",
   "buyStore": "Flipkart",
-  "title": "ELIBLISS Intense Moisture Body Lotion with Shea Butter & Vitamin …",
+  "title": "Riffway Max Cream For Women Organic Body Cream (50 g)",
   "tags": [
    "scope:both",
    "format:cream",
-   "format:lotion",
-   "format:balm",
+   "format:bar",
    "format:kit",
-   "ing:shea-butter",
-   "ing:cocoa-butter",
-   "ing:vitamin-e",
-   "claim:brightening",
-   "claim:de-tan",
+   "ing:honey",
+   "ing:milk",
+   "ing:gold",
+   "claim:whitening-claim",
    "claim:hydrating",
-   "claim:barrier",
-   "claim:long-lasting",
-   "free:paraben",
-   "free:vegan",
-   "skin:dry",
    "skin:all",
    "aud:women",
-   "size:xl",
+   "size:large",
    "rating:none",
    "store:flipkart"
   ],
   "filters": {
    "actives": false,
-   "freefrom": true,
+   "freefrom": false,
    "natural": true,
    "derm": false,
    "men": false,
@@ -27322,387 +26313,74 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "glysolid-itm2cf745aa22f5f",
-  "brand": "Glysolid",
-  "model": "SENSITIVE (Made in Germany) Body Lotion (250 ml)",
-  "price": 894,
+  "id": "fixderma-itm425b2a7614e12",
+  "brand": "Fixderma",
+  "model": "Dewrav Body Lotion for Dry & Sensitive Skin with Shea Bu …",
+  "price": 338,
   "capacityLine": "250 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · Paraben-free · ₹358/100ml",
-  "highlight": "Live Flipkart listing rated 4.3★ by 3 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "materialLine": "colloidal oatmeal + ceramides + shea butter",
+  "featureLine": "Lotion · Paraben-free · ₹135/100ml",
+  "highlight": "Live Flipkart listing rated 4.1★ by 25 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [
-   "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)",
-   "Strong buyer rating (4.3)"
+   "Good value: ₹135/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
   ],
-  "cons": [
-   "Marketplace brand — limited track record"
-  ],
+  "cons": [],
   "scores": {
-   "trust": 5.2,
+   "trust": 5.9,
    "skin": 5.3,
-   "ingredients": 4.5,
-   "experience": 4.6
+   "ingredients": 6.1,
+   "experience": 4.9
   },
   "fullSpec": {
    "quantity": "250 ml",
-   "pricePer100": "₹358/100ml",
+   "pricePer100": "₹135/100ml",
    "format": "Lotion",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "colloidal oatmeal, ceramides, shea butter (per listing)",
    "freeFrom": "Paraben-free (per listing)",
    "dermTested": "Dermatologically tested (per listing)",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating",
    "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Sensitive Skin",
-   "rating": "4.3/5 (3 ratings, Flipkart)",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "4.1/5 (25 ratings, Flipkart)",
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/p/o/250-sensitive-made-in-germany-body-lotion-glysolid-lotion-original-imaguhxaqyu9ayez.jpeg?q=90"
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/6/u/250-dewrav-body-lotion-for-dry-sensitive-skin-with-shea-butter-original-imahkhmgzahbgbmf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/0/i/v/250-dewrav-body-lotion-for-dry-sensitive-skin-with-shea-butter-original-imahkhmn2yt8fhzh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/q/s/250-dewrav-body-lotion-for-dry-sensitive-skin-with-shea-butter-original-imahkhmgcwhv3njt.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/w/l/250-dewrav-body-lotion-for-dry-sensitive-skin-with-shea-butter-original-imahkhmnmdhaamfj.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/p/t/250-dewrav-body-lotion-for-dry-sensitive-skin-with-shea-butter-original-imahkhmhf2zz3qkg.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/glysolid-sensitive-made-germany-body-lotion/p/itm2cf745aa22f5f",
+  "buyUrl": "https://www.flipkart.com/fixderma-dewrav-body-lotion-dry-sensitive-skin-shea-butter-ceramides-complex/p/itm425b2a7614e12",
   "buyStore": "Flipkart",
-  "title": "Glysolid SENSITIVE (Made in Germany) Body Lotion (250 ml)",
+  "title": "Fixderma Dewrav Body Lotion for Dry & Sensitive Skin with Shea Bu …",
   "tags": [
    "scope:both",
+   "format:cream",
    "format:lotion",
+   "format:balm",
+   "ing:colloidal-oatmeal",
+   "ing:ceramides",
+   "ing:shea-butter",
    "claim:hydrating",
+   "claim:soothing",
    "free:paraben",
    "free:derm",
    "free:vegan",
    "free:sensitive-safe",
+   "skin:dry",
    "skin:sensitive",
+   "skin:all",
    "aud:women",
    "size:large",
    "rating:4.0",
    "store:flipkart"
   ],
   "filters": {
-   "actives": false,
-   "freefrom": true,
-   "natural": true,
-   "derm": true,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "silka-itm83b80f41aee96",
-  "brand": "SILKA",
-  "model": "Moisturizing Body Lotion for Soft & Glowing Skin (100 ml)",
-  "price": 703,
-  "capacityLine": "200 ml (pack of 2)",
-  "materialLine": "aloe vera + shea butter",
-  "featureLine": "Lotion · ₹352/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Dermatologically tested (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 4.4,
-   "skin": 4.7,
-   "ingredients": 4.8,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "100 ml × 2 pack",
-   "pricePer100": "₹352/100ml",
-   "format": "Lotion",
-   "keyIngredients": "aloe vera, shea butter (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Dermatologically tested (per listing)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/d/v/100-moisturizing-body-lotion-for-soft-glowing-skin-silka-lotion-original-imahzkczh24nxujg.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/r/h/100-kin-brightening-moisturizing-lotion-100-ml-shea-butter-body-original-imahzkcurgaynjat.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/a/l/100-kin-brightening-moisturizing-lotion-100-ml-shea-butter-body-original-imahzkcuh76hxpsu.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/a/w/100-kin-brightening-moisturizing-lotion-100-ml-shea-butter-body-original-imahzkcutywtffsg.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/r/m/100-kin-brightening-moisturizing-lotion-100-ml-shea-butter-body-original-imahzkcuykexw5xc.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/silka-moisturizing-body-lotion-soft-glowing-skin/p/itm83b80f41aee96",
-  "buyStore": "Flipkart",
-  "title": "SILKA Moisturizing Body Lotion for Soft & Glowing Skin (100 ml)",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "format:balm",
-   "format:kit",
-   "ing:aloe-vera",
-   "ing:cocoa-butter",
-   "claim:brightening",
-   "claim:hydrating",
-   "free:derm",
-   "skin:all",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": true,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "moolveda-itmb1fa0afedcd86",
-  "brand": "moolveda",
-  "model": "Nourish & Glow Body Lotion | Deep Moisturizing Skin Care …",
-  "price": 315,
-  "capacityLine": "180 g",
-  "materialLine": "turmeric + saffron + ubtan",
-  "featureLine": "Balm / butter · Paraben-free · ₹175/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹175/100g",
-   "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
-  "cons": [
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 4.4,
-   "skin": 5.3,
-   "ingredients": 5.9,
-   "experience": 5.2
-  },
-  "fullSpec": {
-   "quantity": "180 g",
-   "pricePer100": "₹175/100g",
-   "format": "Balm / butter",
-   "keyIngredients": "turmeric, saffron, ubtan, shea butter (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/z/9/250-nourish-glow-body-lotion-deep-moisturizing-skin-care-lotion-original-imahn9c8yshdrkfa.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/i/v/250-nourish-glow-body-lotion-deep-moisturizing-skin-care-lotion-original-imahn9c88zn4nbnq.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/0/s/250-nourish-glow-body-lotion-deep-moisturizing-skin-care-lotion-original-imahn9c8mp5eftzh.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/n/q/250-nourish-glow-body-lotion-deep-moisturizing-skin-care-lotion-original-imahn9c89ha6kq32.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/j/o/250-nourish-glow-body-lotion-deep-moisturizing-skin-care-lotion-original-imahn9c8endzjjsq.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/moolveda-nourish-glow-body-lotion-deep-moisturizing-skin-care/p/itmb1fa0afedcd86",
-  "buyStore": "Flipkart",
-  "title": "moolveda Nourish & Glow Body Lotion | Deep Moisturizing Skin Care …",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:lotion",
-   "format:balm",
-   "format:kit",
-   "ing:turmeric",
-   "ing:saffron",
-   "ing:ubtan",
-   "ing:shea-butter",
-   "ing:cocoa-butter",
-   "claim:brightening",
-   "claim:hydrating",
-   "claim:ayurvedic",
-   "free:paraben",
-   "free:derm",
-   "free:sensitive-safe",
-   "skin:oily",
-   "skin:dry",
-   "skin:combination",
-   "skin:sensitive",
-   "skin:normal",
-   "skin:all",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": true,
-   "natural": true,
-   "derm": true,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "zobha-itme0ce4f4d41ed8",
-  "brand": "Zobha",
-  "model": "Brightening Body Lotion with Wheat Germ & Fruit Extract (10 …",
-  "price": 401,
-  "capacityLine": "200 g (pack of 2)",
-  "materialLine": "kojic acid + alpha arbutin",
-  "featureLine": "Lotion · Paraben-free · ₹201/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹201/100g",
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)"
-  ],
-  "cons": [
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 4.4,
-   "skin": 5.3,
-   "ingredients": 6,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "100 g × 2 pack",
-   "pricePer100": "₹201/100g",
-   "format": "Lotion",
-   "keyIngredients": "kojic acid, alpha arbutin (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/b/n/100-brightening-body-lotion-with-wheat-germ-fruit-extract-zobha-original-imahe5hxs6fc7azq.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/x/u/100-brightening-body-lotion-with-wheat-germ-fruit-extract-zobha-original-imahe5hxdzneg42c.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/b/n/100-brightening-body-lotion-with-wheat-germ-fruit-extract-zobha-original-imahe5hxfyvz7gca.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/y/t/100-brightening-body-lotion-with-wheat-germ-fruit-extract-zobha-original-imahe5hxhvghffvn.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/o/x/100-brightening-body-lotion-with-wheat-germ-fruit-extract-zobha-original-imahe5hxjkuvyyxz.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/zobha-brightening-body-lotion-wheat-germ-fruit-extract/p/itme0ce4f4d41ed8",
-  "buyStore": "Flipkart",
-  "title": "Zobha Brightening Body Lotion with Wheat Germ & Fruit Extract (10 …",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:lotion",
-   "format:kit",
-   "ing:kojic-acid",
-   "ing:alpha-arbutin",
-   "ing:glycerin",
-   "claim:brightening",
-   "claim:whitening-claim",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:lightweight",
-   "free:paraben",
-   "free:derm",
-   "free:vegan",
-   "free:sensitive-safe",
-   "skin:oily",
-   "skin:dry",
-   "skin:combination",
-   "skin:sensitive",
-   "skin:normal",
-   "skin:all",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": true,
-   "derm": true,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "orchid-natures-itmb68642dc5fc7a",
-  "brand": "orchid natures",
-  "model": "Shea Nourishing Body Lotion (100 g)",
-  "price": 437,
-  "capacityLine": "100 g",
-  "materialLine": "niacinamide + squalane + almond",
-  "featureLine": "Oil · Paraben-free · ₹437/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
-  "cons": [
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 4.4,
-   "skin": 5.3,
-   "ingredients": 6.3,
-   "experience": 5.2
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹437/100g",
-   "format": "Oil",
-   "keyIngredients": "niacinamide, squalane, almond, shea butter (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/e/1/100-cocoa-butter-body-lotion-orchidnatures-lotion-original-imahpf5pqgdf4cuy.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/t/g/1000-0-opal-moisturizing-body-lotion-for-moisture-nourishment-original-imahfg3jhnprggpy.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/j/y/600-cocoa-butter-intensive-body-lotion-400ml-200ml-himalaya-original-imah3zn8ggcnyyfs.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/i/e/50-quick-action-anti-fungal-cream-for-dry-itchy-skin-care-with-original-imahnt3pz2geg3fx.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/e/3/400-healthy-bright-daily-brightening-serum-in-lotion-body-lotion-original-imahyh76udgfjdbd.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/orchid-natures-shea-nourishing-body-lotion/p/itmb68642dc5fc7a",
-  "buyStore": "Flipkart",
-  "title": "orchid natures Shea Nourishing Body Lotion (100 g)",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:lotion",
-   "format:oil",
-   "format:balm",
-   "format:kit",
-   "ing:niacinamide",
-   "ing:squalane",
-   "ing:almond",
-   "ing:shea-butter",
-   "ing:cocoa-butter",
-   "ing:lemon",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:hydrating",
-   "free:paraben",
-   "free:derm",
-   "skin:all",
-   "aud:women",
-   "size:standard",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
    "actives": true,
    "freefrom": true,
    "natural": false,
@@ -27712,1162 +26390,58 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "voila-age-well-itm9054245a52438",
-  "brand": "Voila age well",
-  "model": "Skin Repair & Renew Body Lotion (280 ml)",
-  "price": 254,
-  "capacityLine": "280 ml",
-  "materialLine": "vitamin C",
-  "featureLine": "Lotion · Paraben-free · ₹91/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹91/100ml",
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)"
-  ],
-  "cons": [
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 5.4,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "280 ml",
-   "pricePer100": "₹91/100ml",
-   "format": "Lotion",
-   "keyIngredients": "vitamin C (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types, Dry Skin, Sensitive Skin, Combination Skin",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/1/3/280-skin-repair-renew-body-lotion-voila-age-well-lotion-original-imahhk83ydgzbgvs.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/t/v/280-skin-repair-renew-body-lotion-voila-age-well-lotion-original-imahhk83ukh8wpnz.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/y/c/280-skin-repair-renew-body-lotion-voila-age-well-lotion-original-imahhk83xzngpjfx.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/o/q/280-skin-repair-renew-body-lotion-voila-age-well-lotion-original-imahhk83bhgxprms.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/i/k/280-skin-repair-renew-body-lotion-voila-age-well-lotion-original-imahhk83c4ncv3e2.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/voila-age-well-skin-repair-renew-body-lotion/p/itm9054245a52438",
-  "buyStore": "Flipkart",
-  "title": "Voila age well Skin Repair & Renew Body Lotion (280 ml)",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "format:cream",
-   "format:lotion",
-   "ing:vitamin-c",
-   "claim:brightening",
-   "claim:anti-aging",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:ayurvedic",
-   "free:paraben",
-   "free:sensitive-safe",
-   "skin:dry",
-   "skin:combination",
-   "skin:sensitive",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "edith-naturals-itm3cff93b8a3266",
-  "brand": "EDITH NATURALS",
-  "model": "Nourishing Honey & Almond Body Lotion (400 ml)",
-  "price": 160,
-  "capacityLine": "400 ml",
-  "materialLine": "aloe vera + honey + almond",
-  "featureLine": "Oil · Paraben-free · ₹40/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹40/100ml",
-   "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
-  "cons": [
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 4.4,
-   "skin": 5.8,
-   "ingredients": 6.5,
-   "experience": 5.2
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹40/100ml",
-   "format": "Oil",
-   "keyIngredients": "aloe vera, honey, almond, shea butter, vitamin E (per listing)",
-   "freeFrom": "Paraben-free, Sulfate/SLS-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types, Dry Skin, Normal Skin, Sensitive Skin",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/c/x/400-nourishing-honey-almond-body-lotion-edith-naturals-lotion-original-imahjhkhgvqsdhyw.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/c/y/8/200-moisturizing-honey-almond-body-lotion-for-deep-hydration-original-imahgpxr6vzuggqy.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/3/v/400-nourishing-honey-almond-body-lotion-edith-naturals-lotion-original-imahjhkhpyyggjaq.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/y/w/400-nourishing-honey-almond-body-lotion-edith-naturals-lotion-original-imahjhkhggsyjght.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/s/i/400-nourishing-honey-almond-body-lotion-edith-naturals-lotion-original-imahjhkhhefjuqgq.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/edith-naturals-nourishing-honey-almond-body-lotion/p/itm3cff93b8a3266",
-  "buyStore": "Flipkart",
-  "title": "EDITH NATURALS Nourishing Honey & Almond Body Lotion (400 ml)",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:lotion",
-   "format:oil",
-   "format:balm",
-   "format:kit",
-   "ing:aloe-vera",
-   "ing:honey",
-   "ing:almond",
-   "ing:shea-butter",
-   "ing:cocoa-butter",
-   "ing:vitamin-e",
-   "ing:glycerin",
-   "claim:brightening",
-   "claim:hydrating",
-   "claim:lightweight",
-   "claim:long-lasting",
-   "free:paraben",
-   "free:sulfate",
-   "free:derm",
-   "free:vegan",
-   "free:sensitive-safe",
-   "skin:dry",
-   "skin:sensitive",
-   "skin:normal",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": true,
-   "natural": true,
-   "derm": true,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "edith-naturals-itmfbf88494ab3ba",
-  "brand": "EDITH NATURALS",
-  "model": "Honey & Almonds Advanced Nourishing Body Lotion (2 …",
-  "price": 126,
-  "capacityLine": "400 ml (pack of 2)",
-  "materialLine": "honey + almond",
-  "featureLine": "Lotion · Paraben-free · ₹32/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹32/100ml",
-   "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
-  "cons": [
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 4.4,
-   "skin": 5.3,
-   "ingredients": 5.3,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "200 ml × 2 pack",
-   "pricePer100": "₹32/100ml",
-   "format": "Lotion",
-   "keyIngredients": "honey, almond (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types, Dry Skin, Oily Skin",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/o/4/200-honey-almonds-advanced-nourishing-body-lotion-edith-naturals-original-imahg4nctv6uwhjh.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/6/e/d/200-moisturizing-honey-almond-body-lotion-for-deep-hydration-original-imahgfnh6bz77q77.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/3/p/w/200-moisturizing-honey-almond-body-lotion-for-deep-hydration-original-imahgfnhdj3uxjcf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/p/z/d/200-moisturizing-honey-almond-body-lotion-for-deep-hydration-original-imahgfnhrhukh9af.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/1/r/500-kesar-milky-advanced-moisturizing-hydrating-body-lotion-original-imahhph3zzwnwnnh.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/edith-naturals-honey-almonds-advanced-nourishing-body-lotion/p/itmfbf88494ab3ba",
-  "buyStore": "Flipkart",
-  "title": "EDITH NATURALS Honey & Almonds Advanced Nourishing Body Lotion (2 …",
-  "tags": [
-   "scope:both",
-   "format:lotion",
-   "format:kit",
-   "ing:honey",
-   "ing:almond",
-   "claim:brightening",
-   "claim:hydrating",
-   "claim:soothing",
-   "claim:long-lasting",
-   "claim:ayurvedic",
-   "free:paraben",
-   "free:derm",
-   "free:vegan",
-   "free:toxin-free",
-   "free:sensitive-safe",
-   "skin:oily",
-   "skin:dry",
-   "skin:sensitive",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": true,
-   "natural": true,
-   "derm": true,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "park-daniel-herbals-itmd6f234a156fcf",
-  "brand": "PARK DANIEL HERBALS",
-  "model": "Cherry Blossom Body Lotion 200ml Daily Skin B …",
-  "price": 69,
-  "capacityLine": "200 ml",
-  "materialLine": "aloe vera + almond",
-  "featureLine": "Oil · Paraben-free · ₹35/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹35/100ml",
-   "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
-  "cons": [
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 4.4,
-   "skin": 5.3,
-   "ingredients": 5.1,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹35/100ml",
-   "format": "Oil",
-   "keyIngredients": "aloe vera, almond (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/f/i/200-0-cherry-blossom-body-lotion-200ml-daily-skin-brightening-original-imahgzvzm6gvkkg2.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/e/l/200-0-cherry-blossom-body-lotion-200ml-daily-skin-brightening-original-imahgzvze2k4xn83.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/r/k/400-0-cherry-blossom-body-lotion-200ml-x-2-daily-skin-original-imahgzvzmuce3y8z.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/9/m/600-0-cherry-blossom-body-lotion-200ml-x-3-daily-skin-original-imahgzvz5enhey2h.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/9/y/600-0-cherry-blossom-body-lotion-200ml-x-3-daily-skin-original-imahgzvzhshfwvu8.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/park-daniel-herbals-cherry-blossom-body-lotion-200ml-daily-skin-brightening-sakura-moisturizer/p/itmd6f234a156fcf",
-  "buyStore": "Flipkart",
-  "title": "PARK DANIEL HERBALS Cherry Blossom Body Lotion 200ml Daily Skin B …",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "format:cream",
-   "format:lotion",
-   "format:oil",
-   "format:kit",
-   "ing:aloe-vera",
-   "ing:almond",
-   "ing:cherry-acerola",
-   "claim:brightening",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:ayurvedic",
-   "free:paraben",
-   "free:derm",
-   "free:sensitive-safe",
-   "skin:oily",
-   "skin:dry",
-   "skin:combination",
-   "skin:sensitive",
-   "skin:normal",
-   "skin:all",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": true,
-   "natural": true,
-   "derm": true,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "eclavia-itm209bb2863b996",
-  "brand": "ECLAVIA",
-  "model": "Body Butter Lotion – Deep Moisturizing, Nourishing & Non- …",
-  "price": 349,
-  "capacityLine": "400 ml (pack of 2)",
+  "id": "bioderma-itm5e46df54bde9b",
+  "brand": "Bioderma",
+  "model": "Atoderm Creme Ultra-Nourishing Moisturizer For Normal To …",
+  "price": 400,
+  "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Serum · Paraben-free · ₹87/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "featureLine": "Cream / gel",
+  "highlight": "Live Flipkart listing rated 4.4★ by 12,501 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [
-   "Good value: ₹87/100ml",
-   "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
-  "cons": [
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 4.4,
-   "skin": 5.3,
-   "ingredients": 4.3,
-   "experience": 5.2
-  },
-  "fullSpec": {
-   "quantity": "200 ml × 2 pack",
-   "pricePer100": "₹87/100ml",
-   "format": "Serum",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/q/i/200-body-butter-lotion-deep-moisturizing-nourishing-non-sticky-original-imahjyzgsgwcpag7.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/b/w/200-body-butter-lotion-deep-moisturizing-nourishing-non-sticky-original-imahjyzgrphfrmhg.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/t/h/200-body-butter-lotion-deep-moisturizing-nourishing-non-sticky-original-imahjyzgw8dw8dxf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/c/n/200-body-butter-lotion-deep-moisturizing-nourishing-non-sticky-original-imahjyzgzrcvfheh.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/v/g/200-body-butter-lotion-deep-moisturizing-nourishing-non-sticky-original-imahjyzgffxqhbth.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/eclavia-body-butter-lotion-deep-moisturizing-nourishing-non-sticky-formula/p/itm209bb2863b996",
-  "buyStore": "Flipkart",
-  "title": "ECLAVIA Body Butter Lotion – Deep Moisturizing, Nourishing & Non- …",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:lotion",
-   "format:serum",
-   "format:balm",
-   "format:kit",
-   "ing:milk",
-   "claim:brightening",
-   "claim:oil-control",
-   "claim:hydrating",
-   "free:paraben",
-   "free:derm",
-   "free:sensitive-safe",
-   "skin:oily",
-   "skin:dry",
-   "skin:combination",
-   "skin:sensitive",
-   "skin:normal",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": true,
-   "natural": true,
-   "derm": true,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "sensova-itm2731f0c5d4155",
-  "brand": "sensova",
-  "model": "Nourishing Body Lotion – Deep Hydration & Soft Skin Care …",
-  "price": 337,
-  "capacityLine": "200 ml",
-  "materialLine": "niacinamide + alpha arbutin + almond",
-  "featureLine": "Oil · Paraben-free · ₹169/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹169/100ml",
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)"
-  ],
-  "cons": [
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 4.4,
-   "skin": 5.3,
-   "ingredients": 6.8,
-   "experience": 5.2
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹169/100ml",
-   "format": "Oil",
-   "keyIngredients": "niacinamide, alpha arbutin, almond, shea butter (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/o/w/200-nourishing-body-lotion-deep-hydration-soft-skin-care-sensova-original-imahzeq8ncafgt6w.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/s/t/200-nourishing-body-lotion-deep-hydration-soft-skin-care-sensova-original-imahhvjnhkqbfpzm.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/p/n/200-nourishing-body-lotion-deep-hydration-soft-skin-care-sensova-original-imahzeq8mkvqnt6t.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/x/k/200-nourishing-body-lotion-deep-hydration-soft-skin-care-sensova-original-imahzeq8cfueg6tx.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/d/5/200-nourishing-body-lotion-deep-hydration-soft-skin-care-sensova-original-imahzeq8app9dqxd.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/sensova-nourishing-body-lotion-deep-hydration-soft-skin-care/p/itm2731f0c5d4155",
-  "buyStore": "Flipkart",
-  "title": "sensova Nourishing Body Lotion – Deep Hydration & Soft Skin Care …",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "format:cream",
-   "format:lotion",
-   "format:oil",
-   "format:balm",
-   "ing:niacinamide",
-   "ing:alpha-arbutin",
-   "ing:almond",
-   "ing:shea-butter",
-   "ing:cocoa-butter",
-   "ing:allantoin",
-   "ing:milk",
-   "claim:brightening",
-   "claim:oil-control",
-   "claim:hydrating",
-   "free:paraben",
-   "free:oil-free",
-   "free:derm",
-   "free:vegan",
-   "skin:all",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": true,
-   "derm": true,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "beleza-professional-itm91fb69569846f",
-  "brand": "Beleza professional",
-  "model": "ENGLISH ROSE BODY LOTION (300 ml)",
-  "price": 154,
-  "capacityLine": "300 ml",
-  "materialLine": "rose",
-  "featureLine": "Essence · Paraben-free · ₹51/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹51/100ml",
-   "Paraben-free (per listing)"
-  ],
-  "cons": [
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 4.7,
-   "experience": 5.2
-  },
-  "fullSpec": {
-   "quantity": "300 ml",
-   "pricePer100": "₹51/100ml",
-   "format": "Essence",
-   "keyIngredients": "rose (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Dry Skin, Oily Skin, Normal Skin, Sensitive Skin, Combination Skin, All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/4/f/300-english-rose-body-lotion-beleza-professional-lotion-original-imaggg8uhrg4brch.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/x/n/300-english-rose-body-lotion-beleza-professional-lotion-original-imaghrxq8tcp3srr.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/z/n/300-english-rose-body-lotion-beleza-professional-lotion-original-imaghrxqqtgyaztb.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/n/l/300-english-rose-body-lotion-beleza-professional-lotion-original-imaghrxqg2ekamgz.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/g/k/300-english-rose-body-lotion-beleza-professional-lotion-original-imaghrxqwrrwx7hs.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/beleza-professional-english-rose-body-lotion/p/itm91fb69569846f",
-  "buyStore": "Flipkart",
-  "title": "Beleza professional ENGLISH ROSE BODY LOTION (300 ml)",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:lotion",
-   "format:essence",
-   "format:kit",
-   "ing:rose",
-   "claim:brightening",
-   "claim:oil-control",
-   "claim:hydrating",
-   "free:paraben",
-   "free:sensitive-safe",
-   "skin:oily",
-   "skin:dry",
-   "skin:combination",
-   "skin:sensitive",
-   "skin:normal",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "dixaan-naturals-itmad5d2db24a994",
-  "brand": "DIXAAN NATURALS",
-  "model": "All Purpose Moisturizing Body Lotion for Soft & S …",
-  "price": 250,
-  "capacityLine": "50 g",
-  "materialLine": "aloe vera + almond + shea butter",
-  "featureLine": "Oil · Paraben-free · ₹500/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
-  "cons": [
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 4.4,
-   "skin": 5.3,
-   "ingredients": 5.9,
-   "experience": 5.2
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹500/100g",
-   "format": "Oil",
-   "keyIngredients": "aloe vera, almond, shea butter, vitamin E (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/t/j/200-all-purpose-moisturizing-body-lotion-for-soft-smooth-skin-original-imahnr9ffyuaewkb.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/z/p/200-all-purpose-moisturizing-body-lotion-for-soft-smooth-skin-original-imahnr8hjsyuwszj.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/h/c/200-all-purpose-moisturizing-body-lotion-for-soft-smooth-skin-original-imahnr9fhf4htcpf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/l/t/200-all-purpose-moisturizing-body-lotion-for-soft-smooth-skin-original-imahnr8hjjt8r4wf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/q/w/200-all-purpose-moisturizing-body-lotion-for-soft-smooth-skin-original-imahnr8hhvkdajhw.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/dixaan-naturals-all-purpose-moisturizing-body-lotion-soft-smooth-skin/p/itmad5d2db24a994",
-  "buyStore": "Flipkart",
-  "title": "DIXAAN NATURALS All Purpose Moisturizing Body Lotion for Soft & S …",
-  "tags": [
-   "scope:body",
-   "format:gel",
-   "format:cream",
-   "format:lotion",
-   "format:oil",
-   "format:balm",
-   "ing:aloe-vera",
-   "ing:almond",
-   "ing:shea-butter",
-   "ing:vitamin-e",
-   "ing:glycerin",
-   "ing:coconut",
-   "claim:whitening-claim",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:lightweight",
-   "free:paraben",
-   "free:derm",
-   "free:sensitive-safe",
-   "skin:oily",
-   "skin:dry",
-   "skin:combination",
-   "skin:sensitive",
-   "skin:normal",
-   "skin:all",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": true,
-   "natural": true,
-   "derm": true,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "dixaan-naturals-itm9215461b8ac36",
-  "brand": "DIXAAN NATURALS",
-  "model": "Aloe Vera Body Lotion for Soft & Hydrated Skin, P …",
-  "price": 252,
-  "capacityLine": "100 g",
-  "materialLine": "aloe vera",
-  "featureLine": "Lotion · Paraben-free · ₹252/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
-  "cons": [
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 4.4,
-   "skin": 5.3,
-   "ingredients": 4.7,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹252/100g",
-   "format": "Lotion",
-   "keyIngredients": "aloe vera (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/j/z/200-aloe-vera-body-lotion-for-soft-hydrated-skin-paraben-free-original-imahnbkjrmp6kgev.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/7/q/200-aloe-vera-body-lotion-for-soft-hydrated-skin-paraben-free-original-imahnbkzpbetyfnf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/v/f/200-aloe-vera-body-lotion-for-soft-hydrated-skin-paraben-free-original-imahnbkqfazqg9qz.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/y/p/200-aloe-vera-body-lotion-for-soft-hydrated-skin-paraben-free-original-imahnbkjmbxmcqxz.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/h/u/200-aloe-vera-body-lotion-for-soft-hydrated-skin-paraben-free-original-imahnbkzzabuy9bg.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/dixaan-naturals-aloe-vera-body-lotion-soft-hydrated-skin-paraben-free/p/itm9215461b8ac36",
-  "buyStore": "Flipkart",
-  "title": "DIXAAN NATURALS Aloe Vera Body Lotion for Soft & Hydrated Skin, P …",
-  "tags": [
-   "scope:body",
-   "format:gel",
-   "format:cream",
-   "format:lotion",
-   "format:kit",
-   "ing:aloe-vera",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "claim:lightweight",
-   "free:paraben",
-   "free:derm",
-   "free:sensitive-safe",
-   "skin:oily",
-   "skin:dry",
-   "skin:combination",
-   "skin:sensitive",
-   "skin:normal",
-   "skin:all",
-   "aud:women",
-   "size:standard",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": true,
-   "natural": true,
-   "derm": true,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "goat-itm4b8e36fbf0b45",
-  "brand": "Goat",
-  "model": "Moisturising Body Lotion with Lemon Myrtle (500 ml)",
-  "price": 894,
-  "capacityLine": "1000 ml (pack of 2)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · ₹89/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹89/100ml"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.2,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "500 ml × 2 pack",
-   "pricePer100": "₹89/100ml",
-   "format": "Lotion",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Sensitive Skin",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/o/1/500-moisturising-body-lotion-with-lemon-myrtle-goat-lotion-original-imahpdx4rcdevdfg.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/x/y/500-moisturising-body-lotion-with-lemon-myrtle-goat-lotion-original-imahnsafszgtg2zf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/d/p/500-moisturising-body-lotion-with-lemon-myrtle-goat-lotion-original-imahnsagfwvntmct.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/a/i/500-moisturising-body-lotion-with-lemon-myrtle-goat-lotion-original-imahnsag4hznjxtg.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/q/5/500-moisturising-body-lotion-with-lemon-myrtle-goat-lotion-original-imahnsaxhuffau8x.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/goat-moisturising-body-lotion-lemon-myrtle/p/itm4b8e36fbf0b45",
-  "buyStore": "Flipkart",
-  "title": "Goat Moisturising Body Lotion with Lemon Myrtle (500 ml)",
-  "tags": [
-   "scope:both",
-   "format:lotion",
-   "format:balm",
-   "format:capsule",
-   "format:kit",
-   "ing:cocoa-butter",
-   "ing:lemon",
-   "ing:milk",
-   "claim:brightening",
-   "claim:whitening-claim",
-   "claim:hydrating",
-   "free:vegan",
-   "free:sensitive-safe",
-   "skin:sensitive",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itmf2q6yvj3uzzz4",
-  "brand": "NIVEA",
-  "model": "Nourishing Lotion Body Milk 200ml (200 ml)",
-  "price": 208,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · ₹104/100ml",
-  "highlight": "Live Flipkart listing rated 4.4★ by 75 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹104/100ml",
    "Strong buyer rating (4.4)"
   ],
   "cons": [
+   "Quantity not stated",
    "No free-from claims in listing"
   ],
   "scores": {
    "trust": 6.6,
    "skin": 4,
-   "ingredients": 4.3,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹104/100ml",
-   "format": "Lotion",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "4.4/5 (75 ratings, Flipkart)",
-   "madeIn": "India"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/kingqkw0pkrrdj-0/personal-care/x/c/c/200-nivea-bodymilk-200ml-nivea-original-imafygrxexm7p73y.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/q/e/-original-imahm2vw3auvepf5.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/a/a/-enriched-transparent-original-imahdh7jeq8cxfnu.png?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/z/p/200-body-milk-moisturizing-dry-skin-body-lotion-200-ml-pack-1-original-imagmhjrsxgujntn.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/g/e/-enriched-transparent-original-imahgdx2bdpzve7b.png?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-nourishing-lotion-body-milk-200ml/p/itmf2q6yvj3uzzz4",
-  "buyStore": "Flipkart",
-  "title": "NIVEA Nourishing Lotion Body Milk 200ml (200 ml)",
-  "tags": [
-   "scope:both",
-   "format:lotion",
-   "ing:milk",
-   "claim:hydrating",
-   "skin:all",
-   "aud:women",
-   "size:large",
-   "rating:4.0",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itma132491459f24",
-  "brand": "NIVEA",
-  "model": "Body Milk Body Lotion 400 ML & Soft Light Moisturising Crea …",
-  "price": 473,
-  "capacityLine": "400 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · ₹118/100ml",
-  "highlight": "Live Flipkart listing rated 4.5★ by 6 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹118/100ml",
-   "Strong buyer rating (4.5)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 6.8,
-   "skin": 4,
    "ingredients": 4,
    "experience": 4.6
   },
   "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹118/100ml",
-   "format": "Lotion",
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream / gel",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "4.5/5 (6 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/d/3/l/450-body-milk-body-lotion-400ml-soft-light-moisturising-cream-50-original-imagkyc7a2jgtdne.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/n/2/425-body-milk-body-lotion-400-ml-soft-cream-25-ml-nivea-lotion-original-imahgk3pmca9ezux.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/a/k/425-body-milk-nourishing-body-lotion-400ml-soft-light-original-imahftzxz66cx58g.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/a/m/200-gluta-hya-flawless-glow-non-sticky-serum-in-lotion-vaseline-original-imahzmgyyzyetzfd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/ktizdzk0/moisturizer-cream/h/m/m/250-nourishing-body-milk-lotion-200-ml-soft-light-moisturizer-original-imag6ugdgzrkfcvc.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-body-milk-lotion-400-ml-soft-light-moisturising-cream-50/p/itma132491459f24",
-  "buyStore": "Flipkart",
-  "title": "NIVEA Body Milk Body Lotion 400 ML & Soft Light Moisturising Crea …",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:lotion",
-   "ing:milk",
-   "claim:hydrating",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:4.5",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itm58ebe5de6c02c",
-  "brand": "NIVEA",
-  "model": "BODY MILK BODY LOTION 200 ML & ALOE HYDRATION BODY LOTION 2 …",
-  "price": 358,
-  "capacityLine": "200 ml",
-  "materialLine": "hyaluronic acid + aloe vera",
-  "featureLine": "Serum · ₹179/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹179/100ml",
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 5.7,
-   "skin": 4,
-   "ingredients": 5.8,
-   "experience": 5.2
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹179/100ml",
-   "format": "Serum",
-   "keyIngredients": "hyaluronic acid, aloe vera (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/6/h/400-body-milk-body-lotion-200-ml-aloe-hydration-body-lotion-200-original-imahg5kruyqm5ztm.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/k/w/-enriched-transparent-original-imaheyengcdq7rqg.png?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/a/m/200-gluta-hya-flawless-glow-non-sticky-serum-in-lotion-vaseline-original-imahzmgyyzyetzfd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/0/k/-enriched-transparent-original-imahdh7j2hvwhyfj.png?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-body-milk-lotion-200-ml-aloe-hydration/p/itm58ebe5de6c02c",
-  "buyStore": "Flipkart",
-  "title": "NIVEA BODY MILK BODY LOTION 200 ML & ALOE HYDRATION BODY LOTION 2 …",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "format:serum",
-   "format:kit",
-   "ing:hyaluronic-acid",
-   "ing:aloe-vera",
-   "ing:milk",
-   "claim:brightening",
-   "claim:oil-control",
-   "claim:hydrating",
-   "skin:all",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itmf00f375189735",
-  "brand": "NIVEA",
-  "model": "1 Smooth milk & 2 Bodymilk 75mlLotion (225 ml)",
-  "price": 269,
-  "capacityLine": "225 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · Paraben-free · ₹120/100ml",
-  "highlight": "Live Flipkart listing rated 4.1★ by 7 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹120/100ml",
-   "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
-  "cons": [],
-  "scores": {
-   "trust": 6.7,
-   "skin": 5.3,
-   "ingredients": 4.5,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "225 ml",
-   "pricePer100": "₹120/100ml",
-   "format": "Lotion",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "4.1/5 (7 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/c/y/225-1-smooth-milk-2-bodymilk-75mllotion-nivea-lotion-original-imahgh4aa522qa8x.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/m/l/-original-imaheyenkqrntyaz.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/a/a/-enriched-transparent-original-imahdh7jeq8cxfnu.png?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/h/f/70-combo-pack-of-both-gluta-70ml-vaseline-cream-original-imahzhy3zc8xjtfz.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/l4d2ljk0/shopsy-moisturizer-cream/5/x/k/body-lotion-for-very-dry-skin-nourishing-body-milk-200-ml-pack-original-imagf9uuqfp2pvmf.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-1-smooth-milk-2-bodymilk-75mllotion/p/itmf00f375189735",
-  "buyStore": "Flipkart",
-  "title": "NIVEA 1 Smooth milk & 2 Bodymilk 75mlLotion (225 ml)",
-  "tags": [
-   "scope:both",
-   "format:lotion",
-   "ing:milk",
-   "claim:hydrating",
-   "free:paraben",
-   "free:derm",
-   "free:vegan",
-   "skin:all",
-   "aud:women",
-   "size:large",
-   "rating:4.0",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": true,
-   "natural": true,
-   "derm": true,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itm10de6a62e12f2",
-  "brand": "Nivea",
-  "model": "Body Milk Nourishing Body Lotion 400ml pack of 2 (800 ml)",
-  "price": 613,
-  "capacityLine": "800 ml (pack of 2)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · ₹77/100ml",
-  "highlight": "Live Flipkart listing rated 4.5★ by 182 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹77/100ml",
-   "Strong buyer rating (4.5)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 6.8,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.2
-  },
-  "fullSpec": {
-   "quantity": "400 ml × 2 pack",
-   "pricePer100": "₹77/100ml",
-   "format": "Lotion",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
    "audience": "Unisex / not stated",
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
-   "rating": "4.5/5 (182 ratings, Flipkart)",
+   "rating": "4.4/5 (12,501 ratings, Flipkart)",
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/kfk0e4w0/moisturizer-cream/d/z/h/800-body-milk-nourishing-body-lotion-400ml-pack-of-2-lotion-original-imafvzhr78mngvfu.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/keg02a80/moisturizer-cream/c/v/p/800-nourishing-lotion-body-milk-with-deep-moisturizer-serum-and-original-imafv4ybkhvn53zn.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/l/y/f/400-nourishing-lotion-body-milk-400ml-lotion-nivea-original-imahec29cqzfaueq.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/ku2zjww0/moisturizer-cream/i/c/h/600-nourishing-lotion-body-milk-with-deep-moisture-serum-lotion-original-imag7afcx8bjpymg.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/kevpwnk0/moisturizer-cream/f/b/k/800-body-milk-nourishing-lotion-400ml-pack-of-2-nivea-lotion-original-imafvghuhggwudw7.jpeg?q=90"
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/l/i/500-atoderm-creme-ultra-nourishing-moisturizer-for-normal-to-original-imahggcfspk5bh9d.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/j/m/500-atoderm-creme-ultra-nourishing-moisturizer-for-normal-to-original-imahggcfah9vwfev.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/l/v/500-atoderm-creme-ultra-nourishing-moisturizer-for-normal-to-original-imahggcf8jvgxqme.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/y/2/500-atoderm-creme-ultra-nourishing-moisturizer-for-normal-to-original-imahggcfffxzcmfx.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/m/f/500-atoderm-creme-ultra-nourishing-moisturizer-for-normal-to-original-imahggcfk2k5zzrn.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/nivea-body-milk-nourishing-lotion-400ml-pack-2/p/itm10de6a62e12f2",
+  "buyUrl": "https://www.flipkart.com/bioderma-atoderm-creme-ultra-nourishing-moisturizer-normal-sensitive-dry-skin/p/itm5e46df54bde9b",
   "buyStore": "Flipkart",
-  "title": "NIVEA Body Milk Nourishing Body Lotion 400ml pack of 2 (800 ml)",
+  "title": "BIODERMA Atoderm Creme Ultra-Nourishing Moisturizer For Normal To …",
   "tags": [
-   "scope:body",
-   "format:lotion",
-   "format:kit",
-   "ing:milk",
+   "scope:unstated",
+   "format:cream",
    "claim:hydrating",
    "aud:unisex",
-   "size:xl",
-   "rating:4.5",
+   "rating:4.0",
    "store:flipkart"
   ],
   "filters": {
@@ -28880,971 +26454,21 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nivea-itmb853efef48475",
-  "brand": "NIVEA",
-  "model": "Body Milk Body Lotion 200 ML & Creme 100 ML (300 ml)",
-  "price": 368,
-  "capacityLine": "200 ml",
+  "id": "bioever-itme7d56d64be406",
+  "brand": "Bioever",
+  "model": "Body lotion - 270ML Nourishing | Hydrating & Soft Supple …",
+  "price": 231,
+  "capacityLine": "270 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · ₹184/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "featureLine": "Lotion · ₹86/100ml",
+  "highlight": "Live Flipkart listing rated 5★ by 12 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [
-   "Good value: ₹184/100ml"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 5.7,
-   "skin": 4,
-   "ingredients": 4.3,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹184/100ml",
-   "format": "Lotion",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/d/g/300-body-milk-body-lotion-200-ml-creme-100-ml-nivea-lotion-original-imagh9ffwkckme9d.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/e/n/200-peppy-pomegranate-200ml-cream-set-of-1pc-nivea-cream-original-imagrqwvvwkevjrx.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/ku2zjww0/moisturizer-cream/i/c/h/600-nourishing-lotion-body-milk-with-deep-moisture-serum-lotion-original-imag7afcx8bjpymg.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/a/m/200-gluta-hya-flawless-glow-non-sticky-serum-in-lotion-vaseline-original-imahzmgyyzyetzfd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/0/k/-enriched-transparent-original-imahdh7j2hvwhyfj.png?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-body-milk-lotion-200-ml-creme-100/p/itmb853efef48475",
-  "buyStore": "Flipkart",
-  "title": "NIVEA Body Milk Body Lotion 200 ML & Creme 100 ML (300 ml)",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:lotion",
-   "format:kit",
-   "ing:cocoa-butter",
-   "ing:milk",
-   "ing:avocado",
-   "claim:hydrating",
-   "skin:all",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itm7c008dc8c339c",
-  "brand": "NIVEA",
-  "model": "Body Lotion For Very Dry Skin, Nourishing Body Milk For (40 …",
-  "price": 98,
-  "capacityLine": "800 ml (pack of 2)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · ₹12/100ml",
-  "highlight": "Live Flipkart listing rated 4.3★ by 580 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹12/100ml",
-   "Strong buyer rating (4.3)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 6.5,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "400 ml × 2 pack",
-   "pricePer100": "₹12/100ml",
-   "format": "Lotion",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "4.3/5 (580 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/f/8/400-body-lotion-for-very-dry-skin-nourishing-body-milk-for-nivea-original-imagvd3hww3afphs.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/s/x/200-body-lotion-for-very-dry-skin-nourishing-body-milk-for-nivea-original-imaghxfzubrcgrff.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/n/s/200-body-lotion-for-very-dry-skin-nourishing-body-milk-for-nivea-original-imaghxfzmeaym24n.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/6/0/200-body-lotion-for-very-dry-skin-nourishing-body-milk-for-nivea-original-imaghxfzgzufwqhg.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/l/y/f/400-nourishing-lotion-body-milk-400ml-lotion-nivea-original-imahec29cqzfaueq.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-body-lotion-very-dry-skin-nourishing-milk/p/itm7c008dc8c339c",
-  "buyStore": "Flipkart",
-  "title": "NIVEA Body Lotion For Very Dry Skin, Nourishing Body Milk For (40 …",
-  "tags": [
-   "scope:both",
-   "format:lotion",
-   "format:kit",
-   "ing:milk",
-   "claim:hydrating",
-   "claim:dry-skin-relief",
-   "skin:dry",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:4.0",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itmfcfthjxv938rn",
-  "brand": "NIVEA",
-  "model": "Body Milk Nourishing Body Lotion 75ml X 3 (225 ml)",
-  "price": 180,
-  "capacityLine": "75 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · ₹240/100ml",
-  "highlight": "Live Flipkart listing rated 3.9★ by 386 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹240/100ml"
+   "Good value: ₹86/100ml",
+   "Strong buyer rating (5)"
   ],
   "cons": [
    "No free-from claims in listing",
-   "Mixed buyer rating (3.9)"
-  ],
-  "scores": {
-   "trust": 5.9,
-   "skin": 4,
-   "ingredients": 4.3,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "75 ml",
-   "pricePer100": "₹240/100ml",
-   "format": "Oil",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "3.9/5 (386 ratings, Flipkart)",
-   "madeIn": "India"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/kingqkw0pkrrdj-0/personal-care/k/8/0/225-nivea-bodymilk-75ml-nivea-original-imafygsu4dqnpunj.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/0/4/body-milk-nourishing-lotion-75ml-x-3-nivea-lotion-original-imagn29sftq86xjj.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/c/y/body-milk-nourishing-lotion-75ml-x-4-nivea-lotion-original-imagn29sxh2gz3zc.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/d/5/300-body-milk-lotion-50ml-set-of-6-nivea-lotion-original-imahzqnnzhfwk3hv.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/6/j/225-body-milk-nourishing-lotion-75ml-pack-of-3-nivea-lotion-original-imagg7d8vzjrnsmg.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-body-milk-nourishing-lotion-75ml-x-3/p/itmfcfthjxv938rn",
-  "buyStore": "Flipkart",
-  "title": "NIVEA Body Milk Nourishing Body Lotion 75ml X 3 (225 ml)",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "format:cream",
-   "format:lotion",
-   "format:oil",
-   "ing:milk",
-   "claim:brightening",
-   "claim:acne",
-   "claim:oil-control",
-   "claim:hydrating",
-   "skin:all",
-   "aud:women",
-   "size:standard",
-   "rating:3.5",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itm852811eaf06a2",
-  "brand": "NIVEA",
-  "model": "Combo Body Milk Lotion, Moisturizer, Hyaluronic acid & Soft …",
-  "price": 832,
-  "capacityLine": "800 ml",
-  "materialLine": "hyaluronic acid + vitamin E",
-  "featureLine": "Sunscreen · SPF 15 · ₹104/100ml",
-  "highlight": "Live Flipkart listing rated 4.5★ by 2,187 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹104/100ml",
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.5)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 6.8,
-   "skin": 4.5,
-   "ingredients": 5.8,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "800 ml",
-   "pricePer100": "₹104/100ml",
-   "format": "Sunscreen",
-   "keyIngredients": "hyaluronic acid, vitamin E (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Non-comedogenic (per listing)",
-   "benefit": "Hydrating, SPF 15",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "4.5/5 (2,187 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/u/s/800-soft-light-moisturizer-200ml-body-milk-lotion-600ml-pack-of-original-imahcfaque4schcp.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/x/p/-original-imah9ce8by4tad3f.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/f/x/-original-imah9ce8g3fzjmds.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/s/w/-original-imah9ce8dkejgykh.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/z/u/-original-imah9mcp4hx6dc9y.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-combo-body-milk-lotion-moisturizer-hyaluronic-acid-soft-spf15-uv-day-cream/p/itm852811eaf06a2",
-  "buyStore": "Flipkart",
-  "title": "NIVEA Combo Body Milk Lotion, Moisturizer, Hyaluronic acid & Soft …",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:lotion",
-   "format:oil",
-   "format:kit",
-   "spf:15",
-   "ing:hyaluronic-acid",
-   "ing:vitamin-e",
-   "ing:jojoba",
-   "ing:milk",
-   "claim:pores",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:long-lasting",
-   "claim:spf-claim",
-   "free:non-comedogenic",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:4.5",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itm0633703bb152c",
-  "brand": "NIVEA",
-  "model": "Body Milk Nourishing Lotion (400 ml) SET OF 2 (800 ml)",
-  "price": 641,
-  "capacityLine": "400 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · ₹160/100ml",
-  "highlight": "Live Flipkart listing rated 4.3★ by 4,704 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹160/100ml",
-   "Strong buyer rating (4.3)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 6.5,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹160/100ml",
-   "format": "Oil",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "4.3/5 (4,704 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/k3ncakw0/moisturizer-cream/j/t/w/800-body-milk-nourishing-lotion-400-ml-set-of-2-nivea-lotion-original-imafmpp9h99hagws.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/keg02a80/moisturizer-cream/c/v/p/800-nourishing-lotion-body-milk-with-deep-moisturizer-serum-and-original-imafv4ybkhvn53zn.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/k3ncakw0/moisturizer-cream/4/m/x/800-cocoa-nourish-body-lotion-400-ml-set-of-2-nivea-lotion-original-imafmpp9ejsjtkkp.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/w/-original-imahqf2zzxa9rnzv.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/o/w/-original-imahjjvnyrghvayd.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-body-milk-nourishing-lotion-400-ml-set-2/p/itm0633703bb152c",
-  "buyStore": "Flipkart",
-  "title": "NIVEA Body Milk Nourishing Lotion (400 ml) SET OF 2 (800 ml)",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "format:cream",
-   "format:lotion",
-   "format:oil",
-   "format:kit",
-   "ing:milk",
-   "claim:brightening",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:dry-skin-relief",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:4.0",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itm249c8ae2c4581",
-  "brand": "NIVEA",
-  "model": "Natural Glow Cell Repair Body Lotion 400 ml (400)",
-  "price": 486,
-  "capacityLine": "400 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · ₹122/100ml",
-  "highlight": "Live Flipkart listing rated 4.4★ by 654 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹122/100ml",
-   "Strong buyer rating (4.4)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 6.6,
-   "skin": 4,
-   "ingredients": 4.3,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹122/100ml",
-   "format": "Lotion",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "4.4/5 (654 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/n/k/-original-imahjgwfhcrkfydf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/g/f/-original-imahkkzkhygtqajg.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/a/m/200-gluta-hya-flawless-glow-non-sticky-serum-in-lotion-vaseline-original-imahzmgyyzyetzfd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/0/k/-enriched-transparent-original-imahdh7j2hvwhyfj.png?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/1/r/-enriched-transparent-original-imahgdx2bzfps9kf.png?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-natural-glow-cell-repair-body-lotion-400-ml/p/itm249c8ae2c4581",
-  "buyStore": "Flipkart",
-  "title": "NIVEA Natural Glow Cell Repair Body Lotion 400 ml (400)",
-  "tags": [
-   "scope:both",
-   "format:lotion",
-   "claim:brightening",
-   "claim:hydrating",
-   "claim:barrier",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:4.0",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itm4bcba18594236",
-  "brand": "NIVEA",
-  "model": "Bodymilk 400ml Blue creme 100ml Set of 2 (500 ml)",
-  "price": 715,
-  "capacityLine": "400 ml",
-  "materialLine": "niacinamide + almond",
-  "featureLine": "Oil · Paraben-free · ₹179/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹179/100ml",
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)"
-  ],
-  "cons": [],
-  "scores": {
-   "trust": 6.2,
-   "skin": 5.3,
-   "ingredients": 6,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹179/100ml",
-   "format": "Oil",
-   "keyIngredients": "niacinamide, almond (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/e/m/500-bodymilk-400ml-blue-creme-100ml-set-of-2-nivea-lotion-original-imahgdeb7hj2eyhh.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/h/n/-enriched-transparent-original-imahgdx2n262nkeh.png?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/w/-original-imahqf2zzxa9rnzv.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/m/t/-original-imahhaddfyzhndrq.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-bodymilk-400ml-blue-creme-100ml-set-2/p/itm4bcba18594236",
-  "buyStore": "Flipkart",
-  "title": "NIVEA Bodymilk 400ml Blue creme 100ml Set of 2 (500 ml)",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "format:cream",
-   "format:lotion",
-   "format:oil",
-   "format:kit",
-   "ing:niacinamide",
-   "ing:hyaluronic-acid",
-   "ing:almond",
-   "ing:milk",
-   "claim:hydrating",
-   "claim:long-lasting",
-   "free:paraben",
-   "free:derm",
-   "free:vegan",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": true,
-   "derm": true,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itm0e70791672114",
-  "brand": "NIVEA",
-  "model": "COCOA NOURISH BODY LOTION 75 ML ( PACK OF 8 ) (600 ml)",
-  "price": 638,
-  "capacityLine": "600 ml (pack of 8)",
-  "materialLine": "hyaluronic acid + aloe vera",
-  "featureLine": "Serum · ₹106/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹106/100ml",
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 5.7,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "75 ml × 8 pack",
-   "pricePer100": "₹106/100ml",
-   "format": "Serum",
-   "keyIngredients": "hyaluronic acid, aloe vera (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/x/f/600-cocoa-nourish-body-lotion-75-ml-pack-of-8-nivea-lotion-original-imahg4hqfu244zxg.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/o/w/-original-imahjjvnyrghvayd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/k3ncakw0/moisturizer-cream/4/m/x/800-cocoa-nourish-body-lotion-400-ml-set-of-2-nivea-lotion-original-imafmpp9ejsjtkkp.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/w/-original-imahqf2zzxa9rnzv.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-cocoa-nourish-body-lotion-75-ml-pack-8/p/itm0e70791672114",
-  "buyStore": "Flipkart",
-  "title": "NIVEA COCOA NOURISH BODY LOTION 75 ML ( PACK OF 8 ) (600 ml)",
-  "tags": [
-   "scope:body",
-   "format:gel",
-   "format:lotion",
-   "format:serum",
-   "format:oil",
-   "format:kit",
-   "ing:hyaluronic-acid",
-   "ing:aloe-vera",
-   "ing:cocoa-butter",
-   "ing:coconut",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:lightweight",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itm3dfdedc6cc9b3",
-  "brand": "NIVEA",
-  "model": "BODY LOTION 400 ML - ALOE HYDRATION & BODY MILK (800 ml)",
-  "price": 665,
-  "capacityLine": "400 ml",
-  "materialLine": "hyaluronic acid + aloe vera",
-  "featureLine": "Serum · ₹166/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹166/100ml",
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 5.7,
-   "skin": 4,
-   "ingredients": 5.8,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹166/100ml",
-   "format": "Serum",
-   "keyIngredients": "hyaluronic acid, aloe vera (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/c/l/800-body-lotion-400-ml-aloe-hydration-body-milk-nivea-lotion-original-imahg6zqf24ccm9b.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/l251xu80/moisturizer-cream/l/w/y/225-aloe-vera-gel-body-lotion-non-sticky-fast-absorbing-body-original-imagdjxxwpykvt8y.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/w/-original-imahqf2zzxa9rnzv.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/ku2zjww0/moisturizer-cream/i/c/h/600-nourishing-lotion-body-milk-with-deep-moisture-serum-lotion-original-imag7afcx8bjpymg.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-body-lotion-400-ml-aloe-hydration-milk/p/itm3dfdedc6cc9b3",
-  "buyStore": "Flipkart",
-  "title": "NIVEA BODY LOTION 400 ML - ALOE HYDRATION & BODY MILK (800 ml)",
-  "tags": [
-   "scope:body",
-   "format:gel",
-   "format:lotion",
-   "format:serum",
-   "format:kit",
-   "ing:hyaluronic-acid",
-   "ing:aloe-vera",
-   "ing:cocoa-butter",
-   "ing:milk",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:lightweight",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itmc2086b13b5410",
-  "brand": "NIVEA",
-  "model": "BODY MILK BODY LOTION 75 ML ( PACK OF 9 ) (675 ml)",
-  "price": 542,
-  "capacityLine": "675 ml (pack of 9)",
-  "materialLine": "almond",
-  "featureLine": "Oil · ₹80/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹80/100ml"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 5.7,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "75 ml × 9 pack",
-   "pricePer100": "₹80/100ml",
-   "format": "Oil",
-   "keyIngredients": "almond (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/d/x/675-body-milk-body-lotion-75-ml-pack-of-9-nivea-lotion-original-imahg4hyu28zawtv.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/w/-original-imahqf2zzxa9rnzv.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/m/t/-original-imahhaddfyzhndrq.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-body-milk-lotion-75-ml-pack-9/p/itmc2086b13b5410",
-  "buyStore": "Flipkart",
-  "title": "NIVEA BODY MILK BODY LOTION 75 ML ( PACK OF 9 ) (675 ml)",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "format:oil",
-   "format:kit",
-   "ing:hyaluronic-acid",
-   "ing:almond",
-   "ing:cocoa-butter",
-   "ing:milk",
-   "claim:hydrating",
-   "claim:long-lasting",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itm109df13b43a67",
-  "brand": "NIVEA",
-  "model": "SHEA SMOOTH BODY LOTION 200 ML & COCOA NOURISH BODY LOTION …",
-  "price": 521,
-  "capacityLine": "200 ml",
-  "materialLine": "almond + shea butter",
-  "featureLine": "Oil · ₹261/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 5.7,
-   "skin": 4,
-   "ingredients": 4.8,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹261/100ml",
-   "format": "Oil",
-   "keyIngredients": "almond, shea butter (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/3/6/400-shea-smooth-body-lotion-200-ml-cocoa-nourish-body-lotion-200-original-imahg5kwqdr5z8g4.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/w/-original-imahqf2zzxa9rnzv.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/m/t/-original-imahhaddfyzhndrq.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-shea-smooth-body-lotion-200-ml-cocoa-nourish/p/itm109df13b43a67",
-  "buyStore": "Flipkart",
-  "title": "NIVEA SHEA SMOOTH BODY LOTION 200 ML & COCOA NOURISH BODY LOTION …",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "format:oil",
-   "format:kit",
-   "ing:hyaluronic-acid",
-   "ing:almond",
-   "ing:shea-butter",
-   "ing:cocoa-butter",
-   "ing:milk",
-   "claim:hydrating",
-   "claim:long-lasting",
-   "skin:all",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itmc2cf42573f5b4",
-  "brand": "NIVEA",
-  "model": "BODY LOTION 400 ML - EXPRESS HYDRATION , ALOE HYDRATION & B …",
-  "price": 1236,
-  "capacityLine": "400 ml",
-  "materialLine": "niacinamide + aloe vera + almond",
-  "featureLine": "Oil · ₹309/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 5.7,
-   "skin": 4,
-   "ingredients": 5.9,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹309/100ml",
-   "format": "Oil",
-   "keyIngredients": "niacinamide, aloe vera, almond (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/v/i/1200-body-lotion-400-ml-express-hydration-aloe-hydration-body-original-imahgb5y3qdtrw5v.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/m/t/-original-imahhaddfyzhndrq.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/w/-original-imahqf2zzxa9rnzv.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/ku2zjww0/moisturizer-cream/i/c/h/600-nourishing-lotion-body-milk-with-deep-moisture-serum-lotion-original-imag7afcx8bjpymg.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-body-lotion-400-ml-express-hydration-aloe-milk/p/itmc2cf42573f5b4",
-  "buyStore": "Flipkart",
-  "title": "NIVEA BODY LOTION 400 ML - EXPRESS HYDRATION , ALOE HYDRATION & B …",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "format:cream",
-   "format:lotion",
-   "format:oil",
-   "format:kit",
-   "ing:niacinamide",
-   "ing:hyaluronic-acid",
-   "ing:aloe-vera",
-   "ing:almond",
-   "ing:milk",
-   "claim:hydrating",
-   "claim:long-lasting",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itm45c726804744f",
-  "brand": "NIVEA",
-  "model": "Aloe Hydration 400ml Body lotion Set of 1 (400 ml)",
-  "price": 580,
-  "capacityLine": "400 ml",
-  "materialLine": "aloe vera",
-  "featureLine": "Sunscreen · SPF 15 · ₹145/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹145/100ml"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 5.7,
-   "skin": 4,
-   "ingredients": 4.7,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹145/100ml",
-   "format": "Sunscreen",
-   "keyIngredients": "aloe vera (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, SPF 15",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/y/b/400-aloe-hydration-400ml-body-lotion-set-of-1-nivea-lotion-original-imags7uxqdhffmx3.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/n/n/500-aloe-hydration-400ml-lotion-and-soft-cream-100ml-set-of-2-original-imags7r9gtvagdwr.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/r/q/600-0-aloe-hydration-body-lotion-nivea-lotion-original-imahcjsq6yvdhhed.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/1/r/-enriched-transparent-original-imahgdx2bzfps9kf.png?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-aloe-hydration-400ml-body-lotion-set-1/p/itm45c726804744f",
-  "buyStore": "Flipkart",
-  "title": "NIVEA Aloe Hydration 400ml Body lotion Set of 1 (400 ml)",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:lotion",
-   "format:kit",
-   "spf:15",
-   "ing:aloe-vera",
-   "claim:hydrating",
-   "claim:spf-claim",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itm66c2685b68450",
-  "brand": "NIVEA",
-  "model": "BODY MILK LOTION 200 ML ( PACK OF 3) (600 ml)",
-  "price": 571,
-  "capacityLine": "600 ml (pack of 3)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · ₹95/100ml",
-  "highlight": "Live Flipkart listing rated 3.4★ by 8 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹95/100ml"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (3.4)"
+   "Marketplace brand — limited track record"
   ],
   "scores": {
    "trust": 5.1,
@@ -29853,40 +26477,37 @@ const CTPRODUCTS = [
    "experience": 4.6
   },
   "fullSpec": {
-   "quantity": "200 ml × 3 pack",
-   "pricePer100": "₹95/100ml",
+   "quantity": "270 ml",
+   "pricePer100": "₹86/100ml",
    "format": "Lotion",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating",
-   "audience": "Marketed for women",
+   "audience": "Unisex / not stated",
    "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "3.4/5 (8 ratings, Flipkart)",
+   "skinType": "Not stated in listing",
+   "rating": "5/5 (12 ratings, Flipkart)",
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/3/k/600-body-milk-lotion-200-ml-pack-of-3-nivea-lotion-original-imaghkhanngqwk8j.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/o/t/600-bodymilk-600ml-lotion-set-of-1pc-nivea-lotion-original-imah2x53cdhkzkxy.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/w/-original-imahqf2zzxa9rnzv.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/k3ncakw0/moisturizer-cream/4/m/x/800-cocoa-nourish-body-lotion-400-ml-set-of-2-nivea-lotion-original-imafmpp9ejsjtkkp.jpeg?q=90"
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/p/s/270-body-lotion-270ml-nourishing-hydrating-soft-supple-healthy-original-imahcf7ayucmmhqw.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/d/c/270-body-lotion-270ml-nourishing-hydrating-soft-supple-healthy-original-imahcf7a3fvf6hce.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/5/x/270-body-lotion-270ml-nourishing-hydrating-soft-supple-healthy-original-imahcf7azxrqwtbh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/r/k/270-body-lotion-270ml-nourishing-hydrating-soft-supple-healthy-original-imahcf7adsmyfg7z.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/x/6/270-body-lotion-270ml-nourishing-hydrating-soft-supple-healthy-original-imahcf7aedchcmtf.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/nivea-body-milk-lotion-200-ml-pack-3/p/itm66c2685b68450",
+  "buyUrl": "https://www.flipkart.com/bioever-body-lotion-270ml-nourishing-hydrating-soft-supple-healthy-skin/p/itme7d56d64be406",
   "buyStore": "Flipkart",
-  "title": "NIVEA BODY MILK LOTION 200 ML ( PACK OF 3) (600 ml)",
+  "title": "Bioever Body lotion - 270ML Nourishing | Hydrating & Soft Supple …",
   "tags": [
-   "scope:both",
+   "scope:body",
    "format:lotion",
-   "format:kit",
-   "ing:milk",
    "claim:hydrating",
-   "skin:all",
-   "aud:women",
+   "aud:unisex",
    "size:xl",
-   "rating:low",
+   "rating:4.5",
    "store:flipkart"
   ],
   "filters": {
@@ -29895,39 +26516,40 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": false
   }
  },
  {
-  "id": "nivea-itmedbfd96a79572",
-  "brand": "NIVEA",
-  "model": "BODY LOTION 400 ML - ALOE PROTECTION , SHEA SMOOTH & BODY M …",
-  "price": 1245,
-  "capacityLine": "400 ml",
-  "materialLine": "niacinamide + aloe vera + almond",
-  "featureLine": "Oil · ₹311/100ml",
+  "id": "sarbeau-itm4e0bc226e633a",
+  "brand": "Sarbeau",
+  "model": "Magnesium Body Lotion for Post Workout Care Gentle Moistu …",
+  "price": 440,
+  "capacityLine": "50 g",
+  "materialLine": "niacinamide",
+  "featureLine": "Lotion · ₹880/100g",
   "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [
    "Contains evidence-backed actives (per listing)"
   ],
   "cons": [
-   "No free-from claims in listing"
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
   ],
   "scores": {
-   "trust": 5.7,
+   "trust": 3.9,
    "skin": 4,
-   "ingredients": 6.3,
+   "ingredients": 5.1,
    "experience": 4.9
   },
   "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹311/100ml",
-   "format": "Oil",
-   "keyIngredients": "niacinamide, aloe vera, almond, shea butter (per listing)",
+   "quantity": "50 g",
+   "pricePer100": "₹880/100g",
+   "format": "Lotion",
+   "keyIngredients": "niacinamide (per listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
+   "benefit": "Hydrating, Brightening/glow claim",
    "audience": "Marketed for women",
    "naturalClaim": "Not stated in listing",
    "skinType": "All Skin Types",
@@ -29935,33 +26557,27 @@ const CTPRODUCTS = [
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/8/g/1200-body-lotion-400-ml-aloe-protection-shea-smooth-body-milk-original-imahgb6cbvandgth.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/m/t/-original-imahhaddfyzhndrq.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/w/-original-imahqf2zzxa9rnzv.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/0/k/-enriched-transparent-original-imahdh7j2hvwhyfj.png?q=90"
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/m/t/250-magnesium-body-lotion-for-post-workout-care-gentle-moisture-original-imahnzcq3cg7kmjf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/b/j/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpugx7ffce.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/v/y/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpvwafmwzz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/f/u/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpumvj6uaf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/t/g/1000-0-opal-moisturizing-body-lotion-for-moisture-nourishment-original-imahfg3jhnprggpy.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/nivea-body-lotion-400-ml-aloe-protection-shea-smooth-milk/p/itmedbfd96a79572",
+  "buyUrl": "https://www.flipkart.com/sarbeau-magnesium-body-lotion-post-workout-care-gentle-moisture-blend-0178/p/itm4e0bc226e633a",
   "buyStore": "Flipkart",
-  "title": "NIVEA BODY LOTION 400 ML - ALOE PROTECTION , SHEA SMOOTH & BODY M …",
+  "title": "Sarbeau Magnesium Body Lotion for Post Workout Care Gentle Moistu …",
   "tags": [
    "scope:both",
-   "format:gel",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
-   "ing:hyaluronic-acid",
-   "ing:aloe-vera",
-   "ing:almond",
-   "ing:shea-butter",
-   "ing:milk",
+   "claim:brightening",
+   "claim:oil-control",
    "claim:hydrating",
-   "claim:long-lasting",
    "skin:all",
    "aud:women",
-   "size:xl",
+   "size:travel",
    "rating:none",
    "store:flipkart"
   ],
@@ -29975,62 +26591,732 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nivea-itm244b5ba34b69c",
-  "brand": "NIVEA",
-  "model": "Shea-Smooth Body lotion ,Pack of 1 (400 ml)",
-  "price": 409,
-  "capacityLine": "400 ml",
-  "materialLine": "shea butter",
-  "featureLine": "Lotion · ₹102/100ml",
-  "highlight": "Live Flipkart listing rated 4.2★ by 124 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "id": "sarbeau-itm1119e42017e62",
+  "brand": "Sarbeau",
+  "model": "Magnesium Body Lotion for Post Workout Care Refreshing Bo …",
+  "price": 440,
+  "capacityLine": "250 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · ₹176/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [
-   "Good value: ₹102/100ml",
-   "Strong buyer rating (4.2)"
+   "Good value: ₹176/100ml"
   ],
   "cons": [
-   "No free-from claims in listing"
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
   ],
   "scores": {
-   "trust": 6.3,
+   "trust": 3.9,
    "skin": 4,
-   "ingredients": 4.4,
+   "ingredients": 4,
    "experience": 4.6
   },
   "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹102/100ml",
+   "quantity": "250 ml",
+   "pricePer100": "₹176/100ml",
    "format": "Lotion",
-   "keyIngredients": "shea butter (per listing)",
+   "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating",
    "audience": "Marketed for women",
    "naturalClaim": "Not stated in listing",
-   "skinType": "Dry Skin, Normal Skin, All Skin Types",
-   "rating": "4.2/5 (124 ratings, Flipkart)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/kjg1jm80-0/moisturizer-cream/m/b/s/400-shea-smooth-body-lotion-pack-of-1-lotion-nivea-original-imafzyprzgwznzhg.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/kjg1jm80-0/moisturizer-cream/f/q/c/400-shea-smooth-body-lotion-pack-of-1-lotion-nivea-original-imafzyprngsuxqtr.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/q/e/-original-imahm2vw3auvepf5.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/kkzrpu80/moisturizer-cream/q/d/x/800-body-milk-shea-smooth-400ml-lotion-nivea-original-imagy7vgz8ecqthp.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/a/m/200-gluta-hya-flawless-glow-non-sticky-serum-in-lotion-vaseline-original-imahzmgyyzyetzfd.jpeg?q=90"
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/t/1/250-magnesium-body-lotion-for-post-workout-care-refreshing-body-original-imahnzcs46kewkqz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/b/j/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpugx7ffce.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/v/y/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpvwafmwzz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/f/u/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpumvj6uaf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/t/g/1000-0-opal-moisturizing-body-lotion-for-moisture-nourishment-original-imahfg3jhnprggpy.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/nivea-shea-smooth-body-lotion-pack-1/p/itm244b5ba34b69c",
+  "buyUrl": "https://www.flipkart.com/sarbeau-magnesium-body-lotion-post-workout-care-refreshing-0208/p/itm1119e42017e62",
   "buyStore": "Flipkart",
-  "title": "NIVEA Shea-Smooth Body lotion ,Pack of 1 (400 ml)",
+  "title": "Sarbeau Magnesium Body Lotion for Post Workout Care Refreshing Bo …",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:kit",
+   "claim:hydrating",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "sarbeau-itm261bd1d78b1ac",
+  "brand": "Sarbeau",
+  "model": "Magnesium Body Lotion for Tired Skin Care Smooth Skin Sup …",
+  "price": 440,
+  "capacityLine": "250 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · ₹176/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹176/100ml"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "250 ml",
+   "pricePer100": "₹176/100ml",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/k/y/250-magnesium-body-lotion-for-tired-skin-care-smooth-skin-original-imahnzcqjungp4uw.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/v/y/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpvwafmwzz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/f/u/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpumvj6uaf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/b/j/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpugx7ffce.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/a/w/200-olesoft-max-lotion-auralife-lotion-original-imahhkz3vz9fn5jv.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/sarbeau-magnesium-body-lotion-tired-skin-care-smooth-support-0600/p/itm261bd1d78b1ac",
+  "buyStore": "Flipkart",
+  "title": "Sarbeau Magnesium Body Lotion for Tired Skin Care Smooth Skin Sup …",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:kit",
+   "claim:hydrating",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "sarbeau-itm5f696f74bf264",
+  "brand": "Sarbeau",
+  "model": "Magnesium Body Lotion for Daily Wellness Fast Absorbing F …",
+  "price": 440,
+  "capacityLine": "50 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · ₹880/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹880/100g",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/g/6/250-magnesium-body-lotion-for-daily-wellness-fast-absorbing-original-imahnzcq5tgkcuns.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/b/j/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpugx7ffce.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/f/u/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpumvj6uaf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/v/y/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpvwafmwzz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/a/f/275-niacinamide-soft-glowing-skin-non-sticky-nourishing-lotion-original-imagwmks2q6ebuxq.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/sarbeau-magnesium-body-lotion-daily-wellness-fast-absorbing-formula-0627/p/itm5f696f74bf264",
+  "buyStore": "Flipkart",
+  "title": "Sarbeau Magnesium Body Lotion for Daily Wellness Fast Absorbing F …",
   "tags": [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:wash",
    "format:kit",
-   "ing:shea-butter",
+   "claim:hydrating",
+   "claim:lightweight",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "sarbeau-itm7ac08eafc03e4",
+  "brand": "Sarbeau",
+  "model": "Magnesium Body Lotion for Relaxing Routine Refreshing Bod …",
+  "price": 440,
+  "capacityLine": "250 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · ₹176/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹176/100ml"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "250 ml",
+   "pricePer100": "₹176/100ml",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/5/v/250-magnesium-body-lotion-for-relaxing-routine-refreshing-body-original-imahnzcshr4zqyxq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/v/y/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpvwafmwzz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/f/u/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpumvj6uaf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/b/j/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpugx7ffce.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/a/w/200-olesoft-max-lotion-auralife-lotion-original-imahhkz3vz9fn5jv.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/sarbeau-magnesium-body-lotion-relaxing-routine-refreshing-care-0507/p/itm7ac08eafc03e4",
+  "buyStore": "Flipkart",
+  "title": "Sarbeau Magnesium Body Lotion for Relaxing Routine Refreshing Bod …",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:kit",
+   "claim:hydrating",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "sarbeau-itmb4bb7a4932638",
+  "brand": "Sarbeau",
+  "model": "Magnesium Body Lotion for Relaxing Routine Non Sticky Hyd …",
+  "price": 440,
+  "capacityLine": "50 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · ₹880/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹880/100g",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/x/w/250-magnesium-body-lotion-for-relaxing-routine-non-sticky-original-imahnzcs2dpgyanh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/v/y/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpvwafmwzz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/f/u/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpumvj6uaf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/b/j/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpugx7ffce.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/v/v/100-max-intensive-moisturising-cream-unisvet-cream-original-imaherm5yqjr8wgh.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/sarbeau-magnesium-body-lotion-relaxing-routine-non-sticky-hydration-1249/p/itmb4bb7a4932638",
+  "buyStore": "Flipkart",
+  "title": "Sarbeau Magnesium Body Lotion for Relaxing Routine Non Sticky Hyd …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:kit",
+   "claim:oil-control",
+   "claim:hydrating",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "sarbeau-itm9fbc98e4e07fe",
+  "brand": "Sarbeau",
+  "model": "Magnesium Body Lotion for Night Recovery Non Sticky Hydra …",
+  "price": 440,
+  "capacityLine": "250 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · ₹176/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹176/100ml"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "250 ml",
+   "pricePer100": "₹176/100ml",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/f/e/250-magnesium-body-lotion-for-night-recovery-non-sticky-original-imahnzcrfctzcsuz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/f/u/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpumvj6uaf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/b/j/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpugx7ffce.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/v/y/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpvwafmwzz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/t/g/1000-0-opal-moisturizing-body-lotion-for-moisture-nourishment-original-imahfg3jhnprggpy.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/sarbeau-magnesium-body-lotion-night-recovery-non-sticky-hydration-0860/p/itm9fbc98e4e07fe",
+  "buyStore": "Flipkart",
+  "title": "Sarbeau Magnesium Body Lotion for Night Recovery Non Sticky Hydra …",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:kit",
+   "claim:oil-control",
+   "claim:hydrating",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "sarbeau-itm55ba4b2d31dd9",
+  "brand": "Sarbeau",
+  "model": "Magnesium Body Lotion for Daily Wellness Refreshing Body …",
+  "price": 440,
+  "capacityLine": "250 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · ₹176/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹176/100ml"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "250 ml",
+   "pricePer100": "₹176/100ml",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/h/a/250-magnesium-body-lotion-for-daily-wellness-refreshing-body-original-imahnzcsuhfgt9ma.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/f/u/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpumvj6uaf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/v/y/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpvwafmwzz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/b/j/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpugx7ffce.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/a/w/200-olesoft-max-lotion-auralife-lotion-original-imahhkz3vz9fn5jv.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/sarbeau-magnesium-body-lotion-daily-wellness-refreshing-care-0831/p/itm55ba4b2d31dd9",
+  "buyStore": "Flipkart",
+  "title": "Sarbeau Magnesium Body Lotion for Daily Wellness Refreshing Body …",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:kit",
+   "claim:hydrating",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "sarbeau-itm6fd3dc5dfda80",
+  "brand": "Sarbeau",
+  "model": "Magnesium Body Lotion for Night Recovery Refreshing Body …",
+  "price": 440,
+  "capacityLine": "50 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · ₹880/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹880/100g",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/h/k/250-magnesium-body-lotion-for-night-recovery-refreshing-body-original-imahnzcrpzqzrpky.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/v/y/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpvwafmwzz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/b/j/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpugx7ffce.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/f/u/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpumvj6uaf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/a/f/275-niacinamide-soft-glowing-skin-non-sticky-nourishing-lotion-original-imagwmks2q6ebuxq.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/sarbeau-magnesium-body-lotion-night-recovery-refreshing-care-1155/p/itm6fd3dc5dfda80",
+  "buyStore": "Flipkart",
+  "title": "Sarbeau Magnesium Body Lotion for Night Recovery Refreshing Body …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:kit",
    "claim:hydrating",
    "skin:dry",
-   "skin:normal",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "sarbeau-itme2a0d4a885cfc",
+  "brand": "Sarbeau",
+  "model": "Magnesium Body Lotion for Daily Wellness Fast Absorbing F …",
+  "price": 487,
+  "capacityLine": "50 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · ₹974/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹974/100g",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/r/f/250-magnesium-body-lotion-for-daily-wellness-fast-absorbing-original-imahnzcrj2ugjswt.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/b/j/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpugx7ffce.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/v/y/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpvwafmwzz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/f/u/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpumvj6uaf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/v/v/100-max-intensive-moisturising-cream-unisvet-cream-original-imaherm5yqjr8wgh.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/sarbeau-magnesium-body-lotion-daily-wellness-fast-absorbing-formula-0800/p/itme2a0d4a885cfc",
+  "buyStore": "Flipkart",
+  "title": "Sarbeau Magnesium Body Lotion for Daily Wellness Fast Absorbing F …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:kit",
+   "claim:hydrating",
+   "claim:lightweight",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itmad2c84a6bd2a7",
+  "brand": "NIVEA",
+  "model": "nourishing body milk 75 ml each Pack of 3 (225 ml)",
+  "price": 200,
+  "capacityLine": "225 ml (pack of 3)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · Paraben-free · ₹89/100ml",
+  "highlight": "Live Flipkart listing rated 3.7★ by 3 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹89/100ml",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Mixed buyer rating (3.7)"
+  ],
+  "scores": {
+   "trust": 5.6,
+   "skin": 4.6,
+   "ingredients": 4.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "75 ml × 3 pack",
+   "pricePer100": "₹89/100ml",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "3.7/5 (3 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/c/m/225-nourishing-body-milk-75-ml-each-pack-of-3-nivea-lotion-original-imah7hkcprfnupv8.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/l4d2ljk0/shopsy-moisturizer-cream/5/x/k/body-lotion-for-very-dry-skin-nourishing-body-milk-200-ml-pack-original-imagf9uuqfp2pvmf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/h/f/70-combo-pack-of-both-gluta-70ml-vaseline-cream-original-imahzhy3zc8xjtfz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-nourishing-body-milk-75-ml-each-pack-3/p/itmad2c84a6bd2a7",
+  "buyStore": "Flipkart",
+  "title": "NIVEA nourishing body milk 75 ml each Pack of 3 (225 ml)",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:kit",
+   "ing:milk",
+   "claim:hydrating",
+   "free:paraben",
+   "free:vegan",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:3.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itm1fab9ab64f092",
+  "brand": "NIVEA",
+  "model": "Aloe Hydration Body lotion Pack of 1 400 ml Men and Women ( …",
+  "price": 382,
+  "capacityLine": "400 ml",
+  "materialLine": "aloe vera",
+  "featureLine": "Lotion · ₹96/100ml",
+  "highlight": "Live Flipkart listing rated 4.4★ by 33 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹96/100ml",
+   "Strong buyer rating (4.4)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.6,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹96/100ml",
+   "format": "Lotion",
+   "keyIngredients": "aloe vera (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "4.4/5 (33 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/km57hjk0/moisturizer-cream/v/g/j/400-aloe-hydration-body-lotion-pack-of-1-400-ml-men-and-women-original-imagf42kwggtywpp.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/r/n/400-aloe-hydration-body-lotion-deep-moisture-400ml-set-of-1-original-imagpt9mtzawub9f.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/q/e/-original-imahm2vw3auvepf5.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/l/y/f/400-nourishing-lotion-body-milk-400ml-lotion-nivea-original-imahec29cqzfaueq.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-aloe-hydration-body-lotion-pack-1-400-ml-men-women/p/itm1fab9ab64f092",
+  "buyStore": "Flipkart",
+  "title": "NIVEA Aloe Hydration Body lotion Pack of 1 400 ml Men and Women ( …",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:kit",
+   "ing:aloe-vera",
+   "claim:hydrating",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -30047,29 +27333,32 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nivea-itm28356989f1e3a",
+  "id": "nivea-itm53e4babe344a4",
   "brand": "NIVEA",
-  "model": "BODY LOTION 400 ML - COCOA NOURISH QTY 2 & BODY MILK QTY 1 …",
-  "price": 1260,
+  "model": "Body Milk Deep Moisture Lotion | Gentle on Skin, Enriched w …",
+  "price": 367,
   "capacityLine": "400 ml",
-  "materialLine": "almond",
-  "featureLine": "Oil · ₹315/100ml",
+  "materialLine": "hyaluronic acid + almond",
+  "featureLine": "Serum · ₹92/100ml",
   "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [],
+  "pros": [
+   "Good value: ₹92/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
   "cons": [
    "No free-from claims in listing"
   ],
   "scores": {
    "trust": 5.7,
    "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.6
+   "ingredients": 5.5,
+   "experience": 4.9
   },
   "fullSpec": {
    "quantity": "400 ml",
-   "pricePer100": "₹315/100ml",
-   "format": "Oil",
-   "keyIngredients": "almond (per listing)",
+   "pricePer100": "₹92/100ml",
+   "format": "Serum",
+   "keyIngredients": "hyaluronic acid, almond (per listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
@@ -30081,30 +27370,541 @@ const CTPRODUCTS = [
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/b/v/1200-body-lotion-400-ml-cocoa-nourish-qty-2-body-milk-qty-1-original-imahg6qrwwayacry.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/w/-original-imahqf2zzxa9rnzv.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/m/t/-original-imahhaddfyzhndrq.jpeg?q=90"
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/4/d/400-body-milk-deep-moisture-lotion-gentle-on-skin-enriched-with-original-imahhrh28vd7p49a.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/d/x/400-body-milk-deep-moisture-lotion-healthy-glow-with-gentle-on-original-imahhrhftb7ttfpy.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/6/t/400-body-milk-deep-moisture-lotion-vitamin-e-care-skin-repair-original-imahhrhfdypzgy8g.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/n/u/400-body-milk-deep-moisture-lotion-vitamin-e-care-skin-repair-original-imahhrhfhdq35q98.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/d/c/400-body-milk-deep-moisture-lotion-vitamin-e-care-skin-repair-original-imahhrh2fhnbzhpg.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/nivea-body-lotion-400-ml-cocoa-nourish-qty-2-milk-1/p/itm28356989f1e3a",
+  "buyUrl": "https://www.flipkart.com/nivea-body-milk-deep-moisture-lotion-gentle-skin-enriched-almond-oil/p/itm53e4babe344a4",
   "buyStore": "Flipkart",
-  "title": "NIVEA BODY LOTION 400 ML - COCOA NOURISH QTY 2 & BODY MILK QTY 1 …",
+  "title": "NIVEA Body Milk Deep Moisture Lotion | Gentle on Skin, Enriched w …",
   "tags": [
-   "scope:body",
+   "scope:both",
+   "format:cream",
    "format:lotion",
+   "format:serum",
    "format:oil",
    "format:kit",
    "ing:hyaluronic-acid",
    "ing:almond",
    "ing:cocoa-butter",
+   "ing:coconut",
    "ing:milk",
    "claim:hydrating",
-   "claim:long-lasting",
    "skin:all",
    "aud:women",
    "size:xl",
    "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itm2045a91f8b4e1",
+  "brand": "NIVEA",
+  "model": "Body Milk Deep Moisture Lotion | Gentle on Skin - Fast Abso …",
+  "price": 364,
+  "capacityLine": "400 ml",
+  "materialLine": "hyaluronic acid",
+  "featureLine": "Serum · ₹91/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹91/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.7,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹91/100ml",
+   "format": "Serum",
+   "keyIngredients": "hyaluronic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/e/w/400-body-milk-deep-moisture-lotion-gentle-on-skin-fast-original-imahhrhf8gb5nyt3.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/d/x/400-body-milk-deep-moisture-lotion-healthy-glow-with-gentle-on-original-imahhrhftb7ttfpy.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/6/t/400-body-milk-deep-moisture-lotion-vitamin-e-care-skin-repair-original-imahhrhfdypzgy8g.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/n/u/400-body-milk-deep-moisture-lotion-vitamin-e-care-skin-repair-original-imahhrhfhdq35q98.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/d/c/400-body-milk-deep-moisture-lotion-vitamin-e-care-skin-repair-original-imahhrh2fhnbzhpg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-body-milk-deep-moisture-lotion-gentle-skin-fast-absorption/p/itm2045a91f8b4e1",
+  "buyStore": "Flipkart",
+  "title": "NIVEA Body Milk Deep Moisture Lotion | Gentle on Skin - Fast Abso …",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:serum",
+   "format:oil",
+   "format:kit",
+   "ing:hyaluronic-acid",
+   "ing:cocoa-butter",
+   "ing:coconut",
+   "ing:milk",
+   "claim:hydrating",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itmd9ec12899208e",
+  "brand": "NIVEA",
+  "model": "Body Milk Deep Moisture Lotion - Vitamin E Care, Non Greasy …",
+  "price": 362,
+  "capacityLine": "400 ml",
+  "materialLine": "hyaluronic acid + vitamin E",
+  "featureLine": "Serum · ₹91/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹91/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.7,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹91/100ml",
+   "format": "Serum",
+   "keyIngredients": "hyaluronic acid, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/e/p/400-body-milk-deep-moisture-lotion-vitamin-e-care-non-greasy-original-imahhrhfw2d8nmjg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/d/x/400-body-milk-deep-moisture-lotion-healthy-glow-with-gentle-on-original-imahhrhftb7ttfpy.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/6/t/400-body-milk-deep-moisture-lotion-vitamin-e-care-skin-repair-original-imahhrhfdypzgy8g.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/n/u/400-body-milk-deep-moisture-lotion-vitamin-e-care-skin-repair-original-imahhrhfhdq35q98.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/d/c/400-body-milk-deep-moisture-lotion-vitamin-e-care-skin-repair-original-imahhrh2fhnbzhpg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-body-milk-deep-moisture-lotion-vitamin-e-care-non-greasy-texture/p/itmd9ec12899208e",
+  "buyStore": "Flipkart",
+  "title": "NIVEA Body Milk Deep Moisture Lotion - Vitamin E Care, Non Greasy …",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:serum",
+   "format:oil",
+   "format:kit",
+   "ing:hyaluronic-acid",
+   "ing:cocoa-butter",
+   "ing:vitamin-e",
+   "ing:coconut",
+   "ing:milk",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itmf1ae896ec7ef5",
+  "brand": "NIVEA",
+  "model": "Body Milk Deep Moisture Lotion - Dermatologist Tested, Gent …",
+  "price": 364,
+  "capacityLine": "400 ml",
+  "materialLine": "hyaluronic acid",
+  "featureLine": "Serum · ₹91/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹91/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.2,
+   "skin": 4.7,
+   "ingredients": 5.1,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹91/100ml",
+   "format": "Serum",
+   "keyIngredients": "hyaluronic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/h/i/400-body-milk-deep-moisture-lotion-dermatologist-tested-gentle-original-imahhrh2ztcqkgfh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/d/x/400-body-milk-deep-moisture-lotion-healthy-glow-with-gentle-on-original-imahhrhftb7ttfpy.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/6/t/400-body-milk-deep-moisture-lotion-vitamin-e-care-skin-repair-original-imahhrhfdypzgy8g.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/n/u/400-body-milk-deep-moisture-lotion-vitamin-e-care-skin-repair-original-imahhrhfhdq35q98.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/d/c/400-body-milk-deep-moisture-lotion-vitamin-e-care-skin-repair-original-imahhrh2fhnbzhpg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-body-milk-deep-moisture-lotion-dermatologist-tested-gentle-skin/p/itmf1ae896ec7ef5",
+  "buyStore": "Flipkart",
+  "title": "NIVEA Body Milk Deep Moisture Lotion - Dermatologist Tested, Gent …",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:serum",
+   "format:oil",
+   "format:kit",
+   "ing:hyaluronic-acid",
+   "ing:cocoa-butter",
+   "ing:coconut",
+   "ing:milk",
+   "claim:hydrating",
+   "free:derm",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itm404d4a20f84e9",
+  "brand": "NIVEA",
+  "model": "EXPRESS HYDRATION BODY LOTION 200 ML & SOFT CREAM 100 ML (3 …",
+  "price": 381,
+  "capacityLine": "200 ml",
+  "materialLine": "hyaluronic acid + aloe vera",
+  "featureLine": "Serum · ₹191/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹191/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.7,
+   "skin": 4,
+   "ingredients": 5.8,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹191/100ml",
+   "format": "Serum",
+   "keyIngredients": "hyaluronic acid, aloe vera (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/7/z/300-express-hydration-body-lotion-200-ml-soft-cream-100-ml-nivea-original-imahgzgffbzdkmgv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/l/t/300-soft-light-moisturizing-cream-300-ml-nivea-lotion-original-imahggyhh7yqg3b7.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/a/m/200-gluta-hya-flawless-glow-non-sticky-serum-in-lotion-vaseline-original-imahzmgyyzyetzfd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-express-hydration-body-lotion-200-ml-soft-cream-100/p/itm404d4a20f84e9",
+  "buyStore": "Flipkart",
+  "title": "NIVEA EXPRESS HYDRATION BODY LOTION 200 ML & SOFT CREAM 100 ML (3 …",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:lotion",
+   "format:serum",
+   "format:kit",
+   "ing:hyaluronic-acid",
+   "ing:aloe-vera",
+   "claim:hydrating",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itm6cb8989746517",
+  "brand": "NIVEA",
+  "model": "2 Bodymilk 75ml & 1 Cell Repair 75ml Lotion Set of 3 (225 m …",
+  "price": 288,
+  "capacityLine": "75 ml",
+  "materialLine": "aloe vera + almond",
+  "featureLine": "Oil · Paraben-free · ₹384/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [],
+  "scores": {
+   "trust": 6.2,
+   "skin": 5.3,
+   "ingredients": 5.3,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "75 ml",
+   "pricePer100": "₹384/100ml",
+   "format": "Oil",
+   "keyIngredients": "aloe vera, almond (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/3/u/225-2-bodymilk-75ml-1-cell-repair-75ml-lotion-set-of-3-nivea-original-imahghygw2dngdsf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/m/t/-original-imahhaddfyzhndrq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/u/j/90-intensive-care-cocoa-glow-body-lotion-90ml-vaseline-lotion-original-imahzngyzggmddzv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/e/n/200-peppy-pomegranate-200ml-cream-set-of-1pc-nivea-cream-original-imagrqwvvwkevjrx.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-2-bodymilk-75ml-1-cell-repair-lotion-set-3/p/itm6cb8989746517",
+  "buyStore": "Flipkart",
+  "title": "NIVEA 2 Bodymilk 75ml & 1 Cell Repair 75ml Lotion Set of 3 (225 m …",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:lotion",
+   "format:oil",
+   "format:kit",
+   "ing:hyaluronic-acid",
+   "ing:aloe-vera",
+   "ing:almond",
+   "ing:cocoa-butter",
+   "ing:milk",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:lightweight",
+   "claim:long-lasting",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itm8984b93b4067a",
+  "brand": "Nivea",
+  "model": "Body Milk, Lotion Moisturizer, with Hyaluronic acid, Moistu …",
+  "price": 108,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "hyaluronic acid",
+  "featureLine": "Lotion",
+  "highlight": "Live Flipkart listing rated 4.4★ by 2,70,980 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.4)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.6,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Lotion",
+   "keyIngredients": "hyaluronic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (2,70,980 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/g/e/-enriched-transparent-original-imahgdx2bdpzve7b.png?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/n/g/-original-imahgdx2ws3aytcs.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/z/8/-original-imahgdx2zkrd8g6d.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/o/5/-original-imahdh7jhcgasmzf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/g/2/-original-imahgdx2e3u3saqy.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-body-milk-lotion-moisturizer-hyaluronic-acid-moisture-serum-men-women/p/itm8984b93b4067a",
+  "buyStore": "Flipkart",
+  "title": "NIVEA Body Milk, Lotion Moisturizer, with Hyaluronic acid, Moistu …",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:hyaluronic-acid",
+   "ing:milk",
+   "claim:hydrating",
+   "aud:unisex",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "nivea-itme5c18af25e9d4",
+  "brand": "NIVEA",
+  "model": "Nourishing Lotion Body Milk 5 in 1 Care (400 ml)",
+  "price": 307,
+  "capacityLine": "400 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · ₹77/100ml",
+  "highlight": "Live Flipkart listing rated 4.3★ by 136 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹77/100ml",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.5,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹77/100ml",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "4.3/5 (136 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/x/l/400-nourishing-lotion-body-milk-5-in-1-care-nivea-lotion-original-imahf7vxbvenbygx.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/o/t/600-bodymilk-600ml-lotion-set-of-1pc-nivea-lotion-original-imah2x53cdhkzkxy.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/a/m/200-gluta-hya-flawless-glow-non-sticky-serum-in-lotion-vaseline-original-imahzmgyyzyetzfd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/i/h/-original-imahm46yfb2qgzcw.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-nourishing-lotion-body-milk-5-1-care/p/itme5c18af25e9d4",
+  "buyStore": "Flipkart",
+  "title": "NIVEA Nourishing Lotion Body Milk 5 in 1 Care (400 ml)",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "ing:milk",
+   "claim:hydrating",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:4.0",
    "store:flipkart"
   ],
   "filters": {
@@ -30117,15 +27917,932 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nivea-itmd515fd15a6a35",
+  "id": "nivea-itmfdpyybggz3dst",
   "brand": "NIVEA",
-  "model": "BODY LOTION 400 ML - COCOA NOURISH QTY 2 & EXPRESS HYDRATIO …",
-  "price": 1326,
+  "model": "Cocoa Nourish Body Lotion (400 ml)",
+  "price": 409,
+  "capacityLine": "400 ml",
+  "materialLine": "vitamin E",
+  "featureLine": "Serum · Paraben-free · ₹102/100ml",
+  "highlight": "Live Flipkart listing rated 3.9★ by 7 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹102/100ml",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Mixed buyer rating (3.9)"
+  ],
+  "scores": {
+   "trust": 5.9,
+   "skin": 4.6,
+   "ingredients": 4.7,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹102/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin E (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Dry Skin",
+   "rating": "3.9/5 (7 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/a/9/400-0-cocoa-nourish-body-lotion-400-ml-nivea-lotion-enriched-transparent-original-imahcjspzrdstvzd.png?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/p/m/400-0-cocoa-nourish-body-lotion-400-ml-nivea-lotion-original-imahcjspf8rzp9az.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/2/c/400-0-cocoa-nourish-body-lotion-400-ml-nivea-lotion-original-imahcjspjyjgzhgh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/q/9/400-0-cocoa-nourish-body-lotion-400-ml-nivea-lotion-original-imahcjspyz22m3kg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/l/a/400-0-cocoa-nourish-body-lotion-400-ml-nivea-lotion-original-imahcjspsn9xmwgy.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-cocoa-nourish-body-lotion/p/itmfdpyybggz3dst",
+  "buyStore": "Flipkart",
+  "title": "NIVEA Cocoa Nourish Body Lotion (400 ml)",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:serum",
+   "format:oil",
+   "format:balm",
+   "ing:cocoa-butter",
+   "ing:vitamin-e",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:long-lasting",
+   "free:paraben",
+   "skin:dry",
+   "aud:women",
+   "size:xl",
+   "rating:3.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itm67b4d59ca0cca",
+  "brand": "NIVEA",
+  "model": "400ml Aloe Protection Spf15 Bodylotion Lotion Set of 1pc (4 …",
+  "price": 580,
+  "capacityLine": "400 ml",
+  "materialLine": "aloe vera",
+  "featureLine": "Sunscreen · Paraben-free · SPF 15 · ₹145/100ml",
+  "highlight": "Live Flipkart listing rated 4.6★ by 5 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹145/100ml",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [],
+  "scores": {
+   "trust": 7.4,
+   "skin": 5.3,
+   "ingredients": 4.7,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹145/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "aloe vera (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 15",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "4.6/5 (5 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/g/y/400-400ml-aloe-protection-spf15-bodylotion-lotion-set-of-1pc-original-imagrdvqgpqdte5f.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/w/9/800-aloe-spf15-body-lotion-400ml-set-of-2pc-nivea-lotion-original-imagzr38wtueef3g.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/b/t/600-aloe-spf15-lotion-400ml-and-200ml-nivea-lotion-original-imagzrfyawkzyarv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/c/l/400-400ml-aloe-protection-spf15-bodylotion-lotion-set-of-1pc-original-imagrdvqrzbdjymq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/9/r/400-400ml-aloe-protection-spf15-bodylotion-lotion-set-of-1pc-original-imagrdvquetqzguj.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-400ml-aloe-protection-spf15-bodylotion-lotion-set-1pc/p/itm67b4d59ca0cca",
+  "buyStore": "Flipkart",
+  "title": "NIVEA 400ml Aloe Protection Spf15 Bodylotion Lotion Set of 1pc (4 …",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:kit",
+   "spf:15",
+   "ing:aloe-vera",
+   "claim:hydrating",
+   "claim:spf-claim",
+   "free:paraben",
+   "free:derm",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itm7d457f5a70bf6",
+  "brand": "NIVEA",
+  "model": "Nourishing Lotion Body Milk With Deep Moisture (800 ml)",
+  "price": 79,
+  "capacityLine": "800 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · ₹10/100ml",
+  "highlight": "Live Flipkart listing rated 4.4★ by 863 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹10/100ml",
+   "Strong buyer rating (4.4)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.6,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "800 ml",
+   "pricePer100": "₹10/100ml",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "4.4/5 (863 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/kingqkw0-0/moisturizer-cream/n/l/t/800-nourishing-lotion-body-milk-with-deep-moisture-serum-and-2x-original-imafydgusgjbsamu.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/kim1aq80-0/moisturizer-cream/x/g/j/800-body-milk-shea-smooth-nourishing-lotion-nivea-lotion-original-imafydgnwpxjyxht.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/kim1aq80-0/moisturizer-cream/v/k/i/800-body-milk-shea-smooth-nourishing-lotion-nivea-lotion-original-imafydgnyh5gbggw.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/t/o/-original-imahjzjh8ys5hqpp.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-nourishing-lotion-body-milk-deep-moisture/p/itm7d457f5a70bf6",
+  "buyStore": "Flipkart",
+  "title": "NIVEA Nourishing Lotion Body Milk With Deep Moisture (800 ml)",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "ing:milk",
+   "claim:hydrating",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itm64d5c6d7f64d4",
+  "brand": "NIVEA",
+  "model": "Nourishing Lotion Body Milk 400ml, Deep Moisture Very Dry S …",
+  "price": 79,
+  "capacityLine": "400 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · ₹20/100ml",
+  "highlight": "Live Flipkart listing rated 4.4★ by 863 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹20/100ml",
+   "Strong buyer rating (4.4)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.6,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹20/100ml",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "4.4/5 (863 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/kingqkw0-0/moisturizer-cream/d/u/u/1200-nourishing-lotion-body-milk-with-deep-moisture-serum-and-2x-original-imafydgvrzvesqqm.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/kim1aq80-0/moisturizer-cream/x/g/j/800-body-milk-shea-smooth-nourishing-lotion-nivea-lotion-original-imafydgnwpxjyxht.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/kim1aq80-0/moisturizer-cream/v/k/i/800-body-milk-shea-smooth-nourishing-lotion-nivea-lotion-original-imafydgnyh5gbggw.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/z/b/1200-body-milk-body-lotion-400-ml-pack-of-3-nivea-lotion-original-imaghh6699jzcqby.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/k3ncakw0/moisturizer-cream/4/m/x/800-cocoa-nourish-body-lotion-400-ml-set-of-2-nivea-lotion-original-imafmpp9ejsjtkkp.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-nourishing-lotion-body-milk-400ml-deep-moisture-very-dry-skin/p/itm64d5c6d7f64d4",
+  "buyStore": "Flipkart",
+  "title": "NIVEA Nourishing Lotion Body Milk 400ml, Deep Moisture Very Dry S …",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "ing:milk",
+   "claim:hydrating",
+   "claim:dry-skin-relief",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itmfcgghfsg5gwuh",
+  "brand": "NIVEA",
+  "model": "BODY MILK NOURISHING LOTION 75ml pack of 3 (225 ml)",
+  "price": 203,
+  "capacityLine": "225 ml (pack of 3)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil · Paraben-free · ₹90/100ml",
+  "highlight": "Live Flipkart listing rated 4.1★ by 2,412 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹90/100ml",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [],
+  "scores": {
+   "trust": 6.7,
+   "skin": 5.3,
+   "ingredients": 4.3,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "75 ml × 3 pack",
+   "pricePer100": "₹90/100ml",
+   "format": "Oil",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "4.1/5 (2,412 ratings, Flipkart)",
+   "madeIn": "India"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/kingqkw0pkrrdj-0/personal-care/8/k/j/225-nivea-bodymilk-75ml-3-nivea-original-imafyggwybj2yck7.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/ko0d6kw0/moisturizer-cream/9/l/s/225-milk-nourishing-lotion-75ml-pack-of-3-lotion-nivea-original-imag2k26hf5zb6zn.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/kc9eufk0pkrrdj/personal-care/y/w/d/400-nourishing-lotion-body-milk-with-deep-moisture-400-ml-nivea-original-imaftjxcc8znua8g.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/d/5/300-body-milk-lotion-50ml-set-of-6-nivea-lotion-original-imahzqnnzhfwk3hv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/1/f/300-soft-daily-uv-light-moisturising-cream-with-spf-15-300ml-original-imahjn87mggtvcys.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-body-milk-nourishing-lotion-75ml-pack-3/p/itmfcgghfsg5gwuh",
+  "buyStore": "Flipkart",
+  "title": "NIVEA BODY MILK NOURISHING LOTION 75ml pack of 3 (225 ml)",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:lotion",
+   "format:kit",
+   "ing:milk",
+   "claim:brightening",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:hydrating",
+   "free:paraben",
+   "free:derm",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itmeydmwwvkurkuc",
+  "brand": "NIVEA",
+  "model": "Smooth Milk Body Lotion (800 ml)",
+  "price": 825,
+  "capacityLine": "800 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · ₹103/100ml",
+  "highlight": "Live Flipkart listing rated 4.4★ by 40 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹103/100ml",
+   "Dermatologically tested (per listing)",
+   "Strong buyer rating (4.4)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 7.1,
+   "skin": 4.7,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "800 ml",
+   "pricePer100": "₹103/100ml",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "4.4/5 (40 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/k1cgr680/moisturizer-cream/d/y/s/800-smooth-milk-body-lotion-nivea-lotion-original-imafkyfxgvgjxzsc.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/h/n/-enriched-transparent-original-imahgdx2n262nkeh.png?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/q/e/-original-imahm2vw3auvepf5.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/a/m/200-gluta-hya-flawless-glow-non-sticky-serum-in-lotion-vaseline-original-imahzmgyyzyetzfd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/o/w/-original-imahjjvnyrghvayd.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-smooth-milk-body-lotion/p/itmeydmwwvkurkuc",
+  "buyStore": "Flipkart",
+  "title": "NIVEA Smooth Milk Body Lotion (800 ml)",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:patch",
+   "ing:milk",
+   "claim:hydrating",
+   "claim:lightweight",
+   "free:derm",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itmexpdthstpfbfv",
+  "brand": "NIVEA",
+  "model": "SOFT LIGHT MOISTURIZER 100ML + BODY MILK NOURISHING BODY LO …",
+  "price": 364,
+  "capacityLine": "100 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Balm / butter · ₹364/100ml",
+  "highlight": "Live Flipkart listing rated 4.3★ by 546 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Dermatologically tested (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 7,
+   "skin": 4.7,
+   "ingredients": 4.3,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹364/100ml",
+   "format": "Balm / butter",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "4.3/5 (546 ratings, Flipkart)",
+   "madeIn": "India"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/k9ej53k0/moisturizer-cream/8/9/z/250-nourishing-body-milk-body-lotion-200-ml-soft-light-original-imafr7a9bqzshhvp.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/7/m/140-gluta-hya-dewy-radiance-serum-in-moisturiser-lotion-70g-x-2n-original-imahqr8g5aradqmb.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/l/y/f/400-nourishing-lotion-body-milk-400ml-lotion-nivea-original-imahec29cqzfaueq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/o/w/-original-imahjjvnyrghvayd.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-soft-light-moisturizer-100ml-body-milk-nourishing-lotion-200ml/p/itmexpdthstpfbfv",
+  "buyStore": "Flipkart",
+  "title": "NIVEA SOFT LIGHT MOISTURIZER 100ML + BODY MILK NOURISHING BODY LO …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:balm",
+   "ing:milk",
+   "claim:hydrating",
+   "free:derm",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itm86ccdcbcc8da6",
+  "brand": "NIVEA",
+  "model": "Body Lotion, Oil in Lotion Rose & Argan Oil, For Dry Skin ( …",
+  "price": 322,
+  "capacityLine": "400 ml",
+  "materialLine": "rose",
+  "featureLine": "Oil · Paraben-free · ₹81/100ml",
+  "highlight": "Live Flipkart listing rated 4.2★ by 31 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹81/100ml",
+   "Paraben-free (per listing)",
+   "Strong buyer rating (4.2)"
+  ],
+  "cons": [],
+  "scores": {
+   "trust": 6.3,
+   "skin": 4.6,
+   "ingredients": 4.7,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹81/100ml",
+   "format": "Oil",
+   "keyIngredients": "rose (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "4.2/5 (31 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/l/w/400-body-lotion-oil-in-lotion-rose-argan-oil-for-dry-skin-nivea-original-imahhehuzg9hhpgu.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/1/o/400-body-lotion-oil-in-lotion-rose-argan-oil-for-dry-skin-nivea-original-imahhehusfrjgkyz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/k7ry3680/moisturizer-cream/z/d/a/800-rose-argan-oil-body-lotion-400-ml-pack-of-2-62-nivea-lotion-original-imafpx3vjcdqab6e.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/q/e/-original-imahm2vw3auvepf5.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-body-lotion-oil-lotion-rose-argan-oil-dry-skin/p/itm86ccdcbcc8da6",
+  "buyStore": "Flipkart",
+  "title": "NIVEA Body Lotion, Oil in Lotion Rose & Argan Oil, For Dry Skin ( …",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:oil",
+   "ing:rose",
+   "ing:argan-oil",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:lightweight",
+   "free:paraben",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itm23995671eacad",
+  "brand": "NIVEA",
+  "model": "Cocoa Nourish Body Lotion 400 ML 1 pcs (400 ml)",
+  "price": 305,
+  "capacityLine": "400 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · Paraben-free · ₹76/100ml",
+  "highlight": "Live Flipkart listing rated 4.4★ by 2,231 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹76/100ml",
+   "Paraben-free (per listing)",
+   "Strong buyer rating (4.4)"
+  ],
+  "cons": [],
+  "scores": {
+   "trust": 6.6,
+   "skin": 4.6,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹76/100ml",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "4.4/5 (2,231 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/g/g/400-cocoa-nourish-400ml-set-of-1-nivea-lotion-original-imahg5q5uw6ancsb.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/o/w/-original-imahjjvnyrghvayd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/t/o/-original-imahjzjh8ys5hqpp.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/kgv5x8w0/moisturizer-cream/r/c/b/400-cocoa-nourish-and-body-milk-nourishing-lotion-lotion-nivea-original-imafxykmhfxgvnaz.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-cocoa-nourish-body-lotion-400-ml-1-pcs/p/itm23995671eacad",
+  "buyStore": "Flipkart",
+  "title": "NIVEA Cocoa Nourish Body Lotion 400 ML 1 pcs (400 ml)",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "ing:cocoa-butter",
+   "claim:hydrating",
+   "free:paraben",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itm2f4c77fc4e0ed",
+  "brand": "NIVEA",
+  "model": "Smooth Milk Body Lotion For Dry Skin (200 ml)",
+  "price": 259,
+  "capacityLine": "200 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · Paraben-free · ₹130/100ml",
+  "highlight": "Live Flipkart listing rated 4.2★ by 31 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹130/100ml",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [],
+  "scores": {
+   "trust": 6.8,
+   "skin": 5.3,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹130/100ml",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "4.2/5 (31 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/k13w4280/moisturizer-cream/m/z/x/200-smooth-milk-body-lotion-for-dry-skin-nivea-lotion-original-imafkrbg9dcwjfyc.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/a/a/-enriched-transparent-original-imahdh7jeq8cxfnu.png?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/q/e/-original-imahm2vw3auvepf5.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/h/n/-enriched-transparent-original-imahgdx2n262nkeh.png?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-smooth-milk-body-lotion-dry-skin/p/itm2f4c77fc4e0ed",
+  "buyStore": "Flipkart",
+  "title": "NIVEA Smooth Milk Body Lotion For Dry Skin (200 ml)",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:wash",
+   "ing:milk",
+   "claim:hydrating",
+   "free:paraben",
+   "free:derm",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itme1edf7100ffdf",
+  "brand": "Nivea",
+  "model": "Body Lotion for Dry Skin, Shea Smooth, with Shea Butter, Fo …",
+  "price": 86,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "shea butter",
+  "featureLine": "Lotion",
+  "highlight": "Live Flipkart listing rated 4.4★ by 23,840 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Strong buyer rating (4.4)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.6,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Lotion",
+   "keyIngredients": "shea butter (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (23,840 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/o/a/-enriched-transparent-original-imahgdx2smw6gzhh.png?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/y/z/-original-imahgdx24behbcrc.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/q/s/-original-imahgdx2f7azzguz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/1/n/-original-imahhyy2ccjqfren.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/2/v/-original-imahgdx2uazfznjp.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-body-lotion-dry-skin-shea-smooth-butter-men-women/p/itme1edf7100ffdf",
+  "buyStore": "Flipkart",
+  "title": "NIVEA Body Lotion for Dry Skin, Shea Smooth, with Shea Butter, Fo …",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:balm",
+   "ing:shea-butter",
+   "skin:dry",
+   "aud:unisex",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "nivea-itm4e6da4dccfa91",
+  "brand": "NIVEA",
+  "model": "BODY LOTION 400 ML - SHEA SMOOTH QTY 2 & BODY MILK QTY 1 (1 …",
+  "price": 1260,
   "capacityLine": "400 ml",
   "materialLine": "niacinamide + hyaluronic acid + aloe vera",
-  "featureLine": "Serum · ₹332/100ml",
+  "featureLine": "Serum · ₹315/100ml",
   "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.7,
+   "skin": 4,
+   "ingredients": 6.6,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹315/100ml",
+   "format": "Serum",
+   "keyIngredients": "niacinamide, hyaluronic acid, aloe vera, shea butter (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/w/p/1200-body-lotion-400-ml-shea-smooth-qty-2-body-milk-qty-1-nivea-original-imahg6qzepayaybt.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/ku2zjww0/moisturizer-cream/i/c/h/600-nourishing-lotion-body-milk-with-deep-moisture-serum-lotion-original-imag7afcx8bjpymg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/w/-original-imahqf2zzxa9rnzv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/0/k/-enriched-transparent-original-imahdh7j2hvwhyfj.png?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-body-lotion-400-ml-shea-smooth-qty-2-milk-1/p/itm4e6da4dccfa91",
+  "buyStore": "Flipkart",
+  "title": "NIVEA BODY LOTION 400 ML - SHEA SMOOTH QTY 2 & BODY MILK QTY 1 (1 …",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:lotion",
+   "format:serum",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:aloe-vera",
+   "ing:shea-butter",
+   "ing:cocoa-butter",
+   "ing:milk",
+   "claim:hydrating",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itmb41f939ca096c",
+  "brand": "NIVEA",
+  "model": "Smooth Milk Lotion 400 Ml , Body Milk Lotion 400 ML (800 ml …",
+  "price": 1149,
+  "capacityLine": "400 ml",
+  "materialLine": "almond",
+  "featureLine": "Oil · ₹287/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.7,
+   "skin": 4,
+   "ingredients": 4.7,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹287/100ml",
+   "format": "Oil",
+   "keyIngredients": "almond (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Dry Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/y/f/800-smooth-milk-lotion-400-ml-body-milk-lotion-400-ml-nivea-original-imaghcm7y2zgtymh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/q/x/400-cocoa-nourish-body-lotion-400-ml-1-pcs-nivea-lotion-original-imagheybg3hfgkpf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/a/m/200-gluta-hya-flawless-glow-non-sticky-serum-in-lotion-vaseline-original-imahzmgyyzyetzfd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-smooth-milk-lotion-400-ml-body/p/itmb41f939ca096c",
+  "buyStore": "Flipkart",
+  "title": "NIVEA Smooth Milk Lotion 400 Ml , Body Milk Lotion 400 ML (800 ml …",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:oil",
+   "format:kit",
+   "ing:hyaluronic-acid",
+   "ing:almond",
+   "ing:cocoa-butter",
+   "ing:milk",
+   "claim:hydrating",
+   "claim:long-lasting",
+   "skin:dry",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itm7f1c95766ebaa",
+  "brand": "NIVEA",
+  "model": "BODY LOTION 400 ML - ALOE PROTECTION & COCOA NOURISH (800 m …",
+  "price": 732,
+  "capacityLine": "400 ml",
+  "materialLine": "niacinamide + hyaluronic acid + aloe vera",
+  "featureLine": "Serum · ₹183/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹183/100ml",
    "Contains evidence-backed actives (per listing)"
   ],
   "cons": [
@@ -30139,7 +28856,7 @@ const CTPRODUCTS = [
   },
   "fullSpec": {
    "quantity": "400 ml",
-   "pricePer100": "₹332/100ml",
+   "pricePer100": "₹183/100ml",
    "format": "Serum",
    "keyIngredients": "niacinamide, hyaluronic acid, aloe vera (per listing)",
    "freeFrom": "Not stated in listing",
@@ -30153,15 +28870,15 @@ const CTPRODUCTS = [
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/i/d/1200-body-lotion-400-ml-cocoa-nourish-qty-2-express-hydration-original-imahg6qg3z6tkg4x.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/j/d/800-body-lotion-400-ml-aloe-protection-cocoa-nourish-nivea-original-imahg6ztbh2bwgeq.jpeg?q=90",
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90",
    "https://rukminim1.flixcart.com/image/612/612/ku2zjww0/moisturizer-cream/i/c/h/600-nourishing-lotion-body-milk-with-deep-moisture-serum-lotion-original-imag7afcx8bjpymg.jpeg?q=90",
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/w/-original-imahqf2zzxa9rnzv.jpeg?q=90",
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/0/k/-enriched-transparent-original-imahdh7j2hvwhyfj.png?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/nivea-body-lotion-400-ml-cocoa-nourish-qty-2-express-hydration-1/p/itmd515fd15a6a35",
+  "buyUrl": "https://www.flipkart.com/nivea-body-lotion-400-ml-aloe-protection-cocoa-nourish/p/itm7f1c95766ebaa",
   "buyStore": "Flipkart",
-  "title": "NIVEA BODY LOTION 400 ML - COCOA NOURISH QTY 2 & EXPRESS HYDRATIO …",
+  "title": "NIVEA BODY LOTION 400 ML - ALOE PROTECTION & COCOA NOURISH (800 m …",
   "tags": [
    "scope:both",
    "format:gel",
@@ -30191,13 +28908,84 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nivea-itm487eeed7e2570",
+  "id": "nivea-itm2b890795b729e",
   "brand": "NIVEA",
-  "model": "BODY LOTION 400 ML - SHEA SMOOTH QTY 2 & COCOA NOURISH QTY …",
-  "price": 1302,
+  "model": "Nourishing Body Milk (800 ml)",
+  "price": 88,
+  "capacityLine": "800 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil · ₹11/100ml",
+  "highlight": "Live Flipkart listing rated 4.4★ by 395 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹11/100ml",
+   "Strong buyer rating (4.4)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.6,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "800 ml",
+   "pricePer100": "₹11/100ml",
+   "format": "Oil",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "4.4/5 (395 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/jy7kyvk0/moisturizer-cream/r/h/y/800-nourishing-body-milk-nivea-lotion-original-imafghxvckz3temv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/i/h/-original-imahm46yfb2qgzcw.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/w/-original-imahqf2zzxa9rnzv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/k/c/800-body-milk-nourishing-lotion-nivea-lotion-original-imahftz5bneghhkz.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-nourishing-body-milk/p/itm2b890795b729e",
+  "buyStore": "Flipkart",
+  "title": "NIVEA Nourishing Body Milk (800 ml)",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:lotion",
+   "ing:milk",
+   "claim:brightening",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:hydrating",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itmd62ed12d72fb0",
+  "brand": "NIVEA",
+  "model": "BODY LOTION 400 ML - BODY MILK QTY 2 & SHEA SMOOTH QTY 1 (1 …",
+  "price": 1275,
   "capacityLine": "400 ml",
   "materialLine": "almond + shea butter",
-  "featureLine": "Oil · ₹326/100ml",
+  "featureLine": "Oil · ₹319/100ml",
   "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [],
   "cons": [
@@ -30211,7 +28999,7 @@ const CTPRODUCTS = [
   },
   "fullSpec": {
    "quantity": "400 ml",
-   "pricePer100": "₹326/100ml",
+   "pricePer100": "₹319/100ml",
    "format": "Oil",
    "keyIngredients": "almond, shea butter (per listing)",
    "freeFrom": "Not stated in listing",
@@ -30225,15 +29013,15 @@ const CTPRODUCTS = [
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/5/p/1200-body-lotion-400-ml-shea-smooth-qty-2-cocoa-nourish-qty-1-original-imahg6qxghwrcfze.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/a/b/1200-body-lotion-400-ml-body-milk-qty-2-shea-smooth-qty-1-nivea-original-imahg6rfpwnjb4uz.jpeg?q=90",
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90",
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/w/-original-imahqf2zzxa9rnzv.jpeg?q=90",
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/m/t/-original-imahhaddfyzhndrq.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/nivea-body-lotion-400-ml-shea-smooth-qty-2-cocoa-nourish-1/p/itm487eeed7e2570",
+  "buyUrl": "https://www.flipkart.com/nivea-body-lotion-400-ml-milk-qty-2-shea-smooth-1/p/itmd62ed12d72fb0",
   "buyStore": "Flipkart",
-  "title": "NIVEA BODY LOTION 400 ML - SHEA SMOOTH QTY 2 & COCOA NOURISH QTY …",
+  "title": "NIVEA BODY LOTION 400 ML - BODY MILK QTY 2 & SHEA SMOOTH QTY 1 (1 …",
   "tags": [
    "scope:body",
    "format:lotion",
@@ -30242,6 +29030,383 @@ const CTPRODUCTS = [
    "ing:hyaluronic-acid",
    "ing:almond",
    "ing:shea-butter",
+   "ing:cocoa-butter",
+   "ing:milk",
+   "claim:hydrating",
+   "claim:long-lasting",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itmf3f2e081bd905",
+  "brand": "NIVEA",
+  "model": "COCOA NOURISH BODY LOTION 200 ML & CREME 100 ML (300 ml)",
+  "price": 406,
+  "capacityLine": "200 ml",
+  "materialLine": "hyaluronic acid + aloe vera",
+  "featureLine": "Serum · ₹203/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹203/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.7,
+   "skin": 4,
+   "ingredients": 5.8,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹203/100ml",
+   "format": "Serum",
+   "keyIngredients": "hyaluronic acid, aloe vera (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/b/c/300-cocoa-nourish-body-lotion-200-ml-creme-100-ml-nivea-lotion-original-imahgzgycdzh8dkv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/h/n/-enriched-transparent-original-imahgdx2n262nkeh.png?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/a/m/200-gluta-hya-flawless-glow-non-sticky-serum-in-lotion-vaseline-original-imahzmgyyzyetzfd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-cocoa-nourish-body-lotion-200-ml-creme-100/p/itmf3f2e081bd905",
+  "buyStore": "Flipkart",
+  "title": "NIVEA COCOA NOURISH BODY LOTION 200 ML & CREME 100 ML (300 ml)",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:lotion",
+   "format:serum",
+   "format:oil",
+   "format:balm",
+   "format:kit",
+   "ing:hyaluronic-acid",
+   "ing:aloe-vera",
+   "ing:cocoa-butter",
+   "ing:coconut",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itm49fce4fe8934e",
+  "brand": "NIVEA",
+  "model": "Aloe Hydration Daily Use Body Lotion (400 ml)",
+  "price": 482,
+  "capacityLine": "400 ml",
+  "materialLine": "niacinamide + hyaluronic acid + aloe vera",
+  "featureLine": "Serum · ₹121/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹121/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.2,
+   "skin": 4.7,
+   "ingredients": 6.2,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹121/100ml",
+   "format": "Serum",
+   "keyIngredients": "niacinamide, hyaluronic acid, aloe vera (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/6/u/400-aloe-hydration-daily-use-body-lotion-nivea-lotion-original-imahgmk5u2smvdyt.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/8/x/400-aloe-hydration-moisturizer-body-lotion-natural-aloe-vera-original-imahgkjeft4avj3f.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/l/2/400-aloe-hydration-moisturizer-body-lotion-natural-aloe-vera-original-imahgkjeyvpypddr.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/k/w/-enriched-transparent-original-imaheyengcdq7rqg.png?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/r/u/400-aloe-hydration-deep-moisture-body-lotion-with-natural-aloe-original-imahgmjt5thcfhg8.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-aloe-hydration-daily-use-body-lotion/p/itm49fce4fe8934e",
+  "buyStore": "Flipkart",
+  "title": "NIVEA Aloe Hydration Daily Use Body Lotion (400 ml)",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:lotion",
+   "format:serum",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:aloe-vera",
+   "claim:hydrating",
+   "free:derm",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itmca0f750d55217",
+  "brand": "NIVEA",
+  "model": "Soft Moisturing Crme & Nourishing Body Milk Lotion (500 ml) …",
+  "price": 750,
+  "capacityLine": "500 ml",
+  "materialLine": "aloe vera + rose + almond",
+  "featureLine": "Oil · ₹150/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹150/100ml"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.7,
+   "skin": 4,
+   "ingredients": 5.2,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "500 ml",
+   "pricePer100": "₹150/100ml",
+   "format": "Oil",
+   "keyIngredients": "aloe vera, rose, almond (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/e/n/500-soft-moisturing-crme-nourishing-body-milk-lotion-500-ml-original-imahk62pmdhj8yms.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/d/w/600-natural-glow-cell-repair-brightens-skin-400ml-with-new-body-original-imahk6fgrgrufyu4.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/1/t/320-body-milk-nourishing-body-lotion-200ml-120-ml-pack-of-2-320-original-imahk62b2ytn56pg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/c/d/500-soft-moisturing-crme-nourishing-body-milk-lotion-500-ml-original-imahk62phcwstrxk.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/y/l/500-soft-moisturing-crme-nourishing-body-milk-lotion-500-ml-original-imahk62p2zezbqpc.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-soft-moisturing-crme-nourishing-body-milk-lotion-500-ml/p/itmca0f750d55217",
+  "buyStore": "Flipkart",
+  "title": "NIVEA Soft Moisturing Crme & Nourishing Body Milk Lotion (500 ml) …",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:lotion",
+   "format:oil",
+   "format:kit",
+   "ing:hyaluronic-acid",
+   "ing:aloe-vera",
+   "ing:rose",
+   "ing:almond",
+   "ing:argan-oil",
+   "ing:milk",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:lightweight",
+   "claim:long-lasting",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itm6cbcca816a2b9",
+  "brand": "NIVEA",
+  "model": "COCOA NOURISH BODY LOTION 75 ML ( PACK OF 5 ) (375 ml)",
+  "price": 401,
+  "capacityLine": "375 ml (pack of 5)",
+  "materialLine": "hyaluronic acid",
+  "featureLine": "Serum · ₹107/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹107/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.7,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "75 ml × 5 pack",
+   "pricePer100": "₹107/100ml",
+   "format": "Serum",
+   "keyIngredients": "hyaluronic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/f/f/375-cocoa-nourish-body-lotion-75-ml-pack-of-5-nivea-lotion-original-imahg4hdfftbdk7t.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/o/w/-original-imahjjvnyrghvayd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/k3ncakw0/moisturizer-cream/4/m/x/800-cocoa-nourish-body-lotion-400-ml-set-of-2-nivea-lotion-original-imafmpp9ejsjtkkp.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/a/m/200-gluta-hya-flawless-glow-non-sticky-serum-in-lotion-vaseline-original-imahzmgyyzyetzfd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/g/g/400-cocoa-nourish-400ml-set-of-1-nivea-lotion-original-imahg5q5uw6ancsb.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-cocoa-nourish-body-lotion-75-ml-pack-5/p/itm6cbcca816a2b9",
+  "buyStore": "Flipkart",
+  "title": "NIVEA COCOA NOURISH BODY LOTION 75 ML ( PACK OF 5 ) (375 ml)",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:serum",
+   "format:oil",
+   "format:kit",
+   "ing:hyaluronic-acid",
+   "ing:cocoa-butter",
+   "ing:coconut",
+   "ing:milk",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itmb6a23169065ad",
+  "brand": "NIVEA",
+  "model": "BODY LOTION 400 ML - ALOE HYDRATION , COCOA NOURISH & BODY …",
+  "price": 1205,
+  "capacityLine": "400 ml",
+  "materialLine": "aloe vera + almond",
+  "featureLine": "Oil · ₹301/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.7,
+   "skin": 4,
+   "ingredients": 4.8,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹301/100ml",
+   "format": "Oil",
+   "keyIngredients": "aloe vera, almond (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/h/j/1200-body-lotion-400-ml-aloe-hydration-cocoa-nourish-body-milk-original-imahgb67ahychfer.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/w/-original-imahqf2zzxa9rnzv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/m/t/-original-imahhaddfyzhndrq.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-body-lotion-400-ml-aloe-hydration-cocoa-nourish-milk/p/itmb6a23169065ad",
+  "buyStore": "Flipkart",
+  "title": "NIVEA BODY LOTION 400 ML - ALOE HYDRATION , COCOA NOURISH & BODY …",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:oil",
+   "format:kit",
+   "ing:hyaluronic-acid",
+   "ing:aloe-vera",
+   "ing:almond",
    "ing:cocoa-butter",
    "ing:milk",
    "claim:hydrating",
@@ -30338,386 +29503,13 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nivea-itmb6a23169065ad",
+  "id": "nivea-itm487eeed7e2570",
   "brand": "NIVEA",
-  "model": "BODY LOTION 400 ML - ALOE HYDRATION , COCOA NOURISH & BODY …",
-  "price": 1205,
-  "capacityLine": "400 ml",
-  "materialLine": "aloe vera + almond",
-  "featureLine": "Oil · ₹301/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 5.7,
-   "skin": 4,
-   "ingredients": 4.8,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹301/100ml",
-   "format": "Oil",
-   "keyIngredients": "aloe vera, almond (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/h/j/1200-body-lotion-400-ml-aloe-hydration-cocoa-nourish-body-milk-original-imahgb67ahychfer.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/w/-original-imahqf2zzxa9rnzv.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/m/t/-original-imahhaddfyzhndrq.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-body-lotion-400-ml-aloe-hydration-cocoa-nourish-milk/p/itmb6a23169065ad",
-  "buyStore": "Flipkart",
-  "title": "NIVEA BODY LOTION 400 ML - ALOE HYDRATION , COCOA NOURISH & BODY …",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "format:oil",
-   "format:kit",
-   "ing:hyaluronic-acid",
-   "ing:aloe-vera",
-   "ing:almond",
-   "ing:cocoa-butter",
-   "ing:milk",
-   "claim:hydrating",
-   "claim:long-lasting",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itm6cbcca816a2b9",
-  "brand": "NIVEA",
-  "model": "COCOA NOURISH BODY LOTION 75 ML ( PACK OF 5 ) (375 ml)",
-  "price": 401,
-  "capacityLine": "375 ml (pack of 5)",
-  "materialLine": "hyaluronic acid",
-  "featureLine": "Serum · ₹107/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹107/100ml",
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 5.7,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 5.2
-  },
-  "fullSpec": {
-   "quantity": "75 ml × 5 pack",
-   "pricePer100": "₹107/100ml",
-   "format": "Serum",
-   "keyIngredients": "hyaluronic acid (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/f/f/375-cocoa-nourish-body-lotion-75-ml-pack-of-5-nivea-lotion-original-imahg4hdfftbdk7t.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/o/w/-original-imahjjvnyrghvayd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/k3ncakw0/moisturizer-cream/4/m/x/800-cocoa-nourish-body-lotion-400-ml-set-of-2-nivea-lotion-original-imafmpp9ejsjtkkp.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/a/m/200-gluta-hya-flawless-glow-non-sticky-serum-in-lotion-vaseline-original-imahzmgyyzyetzfd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/g/g/400-cocoa-nourish-400ml-set-of-1-nivea-lotion-original-imahg5q5uw6ancsb.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-cocoa-nourish-body-lotion-75-ml-pack-5/p/itm6cbcca816a2b9",
-  "buyStore": "Flipkart",
-  "title": "NIVEA COCOA NOURISH BODY LOTION 75 ML ( PACK OF 5 ) (375 ml)",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "format:serum",
-   "format:oil",
-   "format:kit",
-   "ing:hyaluronic-acid",
-   "ing:cocoa-butter",
-   "ing:coconut",
-   "claim:brightening",
-   "claim:oil-control",
-   "claim:hydrating",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itmca0f750d55217",
-  "brand": "NIVEA",
-  "model": "Soft Moisturing Crme & Nourishing Body Milk Lotion (500 ml) …",
-  "price": 750,
-  "capacityLine": "500 ml",
-  "materialLine": "aloe vera + almond",
-  "featureLine": "Oil · ₹150/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹150/100ml"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 5.7,
-   "skin": 4,
-   "ingredients": 4.8,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "500 ml",
-   "pricePer100": "₹150/100ml",
-   "format": "Oil",
-   "keyIngredients": "aloe vera, almond (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/e/n/500-soft-moisturing-crme-nourishing-body-milk-lotion-500-ml-original-imahk62pmdhj8yms.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/d/w/600-natural-glow-cell-repair-brightens-skin-400ml-with-new-body-original-imahk6fgrgrufyu4.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/1/t/320-body-milk-nourishing-body-lotion-200ml-120-ml-pack-of-2-320-original-imahk62b2ytn56pg.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/c/d/500-soft-moisturing-crme-nourishing-body-milk-lotion-500-ml-original-imahk62phcwstrxk.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/y/l/500-soft-moisturing-crme-nourishing-body-milk-lotion-500-ml-original-imahk62p2zezbqpc.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-soft-moisturing-crme-nourishing-body-milk-lotion-500-ml/p/itmca0f750d55217",
-  "buyStore": "Flipkart",
-  "title": "NIVEA Soft Moisturing Crme & Nourishing Body Milk Lotion (500 ml) …",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "format:lotion",
-   "format:oil",
-   "format:kit",
-   "ing:hyaluronic-acid",
-   "ing:aloe-vera",
-   "ing:almond",
-   "ing:milk",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:lightweight",
-   "claim:long-lasting",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itm49fce4fe8934e",
-  "brand": "NIVEA",
-  "model": "Aloe Hydration Daily Use Body Lotion (400 ml)",
-  "price": 482,
-  "capacityLine": "400 ml",
-  "materialLine": "niacinamide + hyaluronic acid + aloe vera",
-  "featureLine": "Serum · ₹121/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹121/100ml",
-   "Contains evidence-backed actives (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 6.2,
-   "skin": 4.7,
-   "ingredients": 6.2,
-   "experience": 5.2
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹121/100ml",
-   "format": "Serum",
-   "keyIngredients": "niacinamide, hyaluronic acid, aloe vera (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Dermatologically tested (per listing)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/6/u/400-aloe-hydration-daily-use-body-lotion-nivea-lotion-original-imahgmk5u2smvdyt.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/8/x/400-aloe-hydration-moisturizer-body-lotion-natural-aloe-vera-original-imahgkjeft4avj3f.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/l/2/400-aloe-hydration-moisturizer-body-lotion-natural-aloe-vera-original-imahgkjeyvpypddr.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/k/w/-enriched-transparent-original-imaheyengcdq7rqg.png?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/r/u/400-aloe-hydration-deep-moisture-body-lotion-with-natural-aloe-original-imahgmjt5thcfhg8.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-aloe-hydration-daily-use-body-lotion/p/itm49fce4fe8934e",
-  "buyStore": "Flipkart",
-  "title": "NIVEA Aloe Hydration Daily Use Body Lotion (400 ml)",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "format:cream",
-   "format:lotion",
-   "format:serum",
-   "format:kit",
-   "ing:niacinamide",
-   "ing:hyaluronic-acid",
-   "ing:aloe-vera",
-   "claim:hydrating",
-   "free:derm",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": true,
-   "derm": true,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itmf3f2e081bd905",
-  "brand": "NIVEA",
-  "model": "COCOA NOURISH BODY LOTION 200 ML & CREME 100 ML (300 ml)",
-  "price": 406,
-  "capacityLine": "200 ml",
-  "materialLine": "hyaluronic acid + aloe vera",
-  "featureLine": "Serum · ₹203/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹203/100ml",
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 5.7,
-   "skin": 4,
-   "ingredients": 5.8,
-   "experience": 5.2
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹203/100ml",
-   "format": "Serum",
-   "keyIngredients": "hyaluronic acid, aloe vera (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/b/c/300-cocoa-nourish-body-lotion-200-ml-creme-100-ml-nivea-lotion-original-imahgzgycdzh8dkv.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/h/n/-enriched-transparent-original-imahgdx2n262nkeh.png?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/a/m/200-gluta-hya-flawless-glow-non-sticky-serum-in-lotion-vaseline-original-imahzmgyyzyetzfd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-cocoa-nourish-body-lotion-200-ml-creme-100/p/itmf3f2e081bd905",
-  "buyStore": "Flipkart",
-  "title": "NIVEA COCOA NOURISH BODY LOTION 200 ML & CREME 100 ML (300 ml)",
-  "tags": [
-   "scope:body",
-   "format:gel",
-   "format:cream",
-   "format:lotion",
-   "format:serum",
-   "format:kit",
-   "ing:hyaluronic-acid",
-   "ing:aloe-vera",
-   "ing:cocoa-butter",
-   "ing:milk",
-   "claim:brightening",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:lightweight",
-   "claim:long-lasting",
-   "skin:all",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itmd62ed12d72fb0",
-  "brand": "NIVEA",
-  "model": "BODY LOTION 400 ML - BODY MILK QTY 2 & SHEA SMOOTH QTY 1 (1 …",
-  "price": 1275,
+  "model": "BODY LOTION 400 ML - SHEA SMOOTH QTY 2 & COCOA NOURISH QTY …",
+  "price": 1302,
   "capacityLine": "400 ml",
   "materialLine": "almond + shea butter",
-  "featureLine": "Oil · ₹319/100ml",
+  "featureLine": "Oil · ₹326/100ml",
   "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [],
   "cons": [
@@ -30731,7 +29523,7 @@ const CTPRODUCTS = [
   },
   "fullSpec": {
    "quantity": "400 ml",
-   "pricePer100": "₹319/100ml",
+   "pricePer100": "₹326/100ml",
    "format": "Oil",
    "keyIngredients": "almond, shea butter (per listing)",
    "freeFrom": "Not stated in listing",
@@ -30745,15 +29537,15 @@ const CTPRODUCTS = [
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/a/b/1200-body-lotion-400-ml-body-milk-qty-2-shea-smooth-qty-1-nivea-original-imahg6rfpwnjb4uz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/5/p/1200-body-lotion-400-ml-shea-smooth-qty-2-cocoa-nourish-qty-1-original-imahg6qxghwrcfze.jpeg?q=90",
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90",
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/w/-original-imahqf2zzxa9rnzv.jpeg?q=90",
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/m/t/-original-imahhaddfyzhndrq.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/nivea-body-lotion-400-ml-milk-qty-2-shea-smooth-1/p/itmd62ed12d72fb0",
+  "buyUrl": "https://www.flipkart.com/nivea-body-lotion-400-ml-shea-smooth-qty-2-cocoa-nourish-1/p/itm487eeed7e2570",
   "buyStore": "Flipkart",
-  "title": "NIVEA BODY LOTION 400 ML - BODY MILK QTY 2 & SHEA SMOOTH QTY 1 (1 …",
+  "title": "NIVEA BODY LOTION 400 ML - SHEA SMOOTH QTY 2 & COCOA NOURISH QTY …",
   "tags": [
    "scope:body",
    "format:lotion",
@@ -30762,6 +29554,7 @@ const CTPRODUCTS = [
    "ing:hyaluronic-acid",
    "ing:almond",
    "ing:shea-butter",
+   "ing:cocoa-butter",
    "ing:milk",
    "claim:hydrating",
    "claim:long-lasting",
@@ -30781,230 +29574,13 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nivea-itm2b890795b729e",
+  "id": "nivea-itmd515fd15a6a35",
   "brand": "NIVEA",
-  "model": "Nourishing Body Milk (800 ml)",
-  "price": 88,
-  "capacityLine": "800 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · ₹11/100ml",
-  "highlight": "Live Flipkart listing rated 4.4★ by 395 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹11/100ml",
-   "Strong buyer rating (4.4)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 6.6,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "800 ml",
-   "pricePer100": "₹11/100ml",
-   "format": "Oil",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "4.4/5 (395 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/jy7kyvk0/moisturizer-cream/r/h/y/800-nourishing-body-milk-nivea-lotion-original-imafghxvckz3temv.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/i/h/-original-imahm46yfb2qgzcw.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/w/-original-imahqf2zzxa9rnzv.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/k/c/800-body-milk-nourishing-lotion-nivea-lotion-original-imahftz5bneghhkz.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-nourishing-body-milk/p/itm2b890795b729e",
-  "buyStore": "Flipkart",
-  "title": "NIVEA Nourishing Body Milk (800 ml)",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "format:lotion",
-   "format:oil",
-   "ing:milk",
-   "claim:brightening",
-   "claim:acne",
-   "claim:oil-control",
-   "claim:hydrating",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:4.0",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itm7f1c95766ebaa",
-  "brand": "NIVEA",
-  "model": "BODY LOTION 400 ML - ALOE PROTECTION & COCOA NOURISH (800 m …",
-  "price": 732,
-  "capacityLine": "400 ml",
-  "materialLine": "hyaluronic acid + aloe vera",
-  "featureLine": "Serum · ₹183/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹183/100ml",
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 5.7,
-   "skin": 4,
-   "ingredients": 5.8,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹183/100ml",
-   "format": "Serum",
-   "keyIngredients": "hyaluronic acid, aloe vera (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/j/d/800-body-lotion-400-ml-aloe-protection-cocoa-nourish-nivea-original-imahg6ztbh2bwgeq.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/l251xu80/moisturizer-cream/l/w/y/225-aloe-vera-gel-body-lotion-non-sticky-fast-absorbing-body-original-imagdjxxwpykvt8y.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/w/-original-imahqf2zzxa9rnzv.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/ku2zjww0/moisturizer-cream/i/c/h/600-nourishing-lotion-body-milk-with-deep-moisture-serum-lotion-original-imag7afcx8bjpymg.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-body-lotion-400-ml-aloe-protection-cocoa-nourish/p/itm7f1c95766ebaa",
-  "buyStore": "Flipkart",
-  "title": "NIVEA BODY LOTION 400 ML - ALOE PROTECTION & COCOA NOURISH (800 m …",
-  "tags": [
-   "scope:body",
-   "format:gel",
-   "format:lotion",
-   "format:serum",
-   "format:kit",
-   "ing:hyaluronic-acid",
-   "ing:aloe-vera",
-   "ing:cocoa-butter",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:lightweight",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itmb41f939ca096c",
-  "brand": "NIVEA",
-  "model": "Smooth Milk Lotion 400 Ml , Body Milk Lotion 400 ML (800 ml …",
-  "price": 1149,
-  "capacityLine": "400 ml",
-  "materialLine": "almond",
-  "featureLine": "Oil · ₹287/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 5.7,
-   "skin": 4,
-   "ingredients": 4.7,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹287/100ml",
-   "format": "Oil",
-   "keyIngredients": "almond (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Dry Skin",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/y/f/800-smooth-milk-lotion-400-ml-body-milk-lotion-400-ml-nivea-original-imaghcm7y2zgtymh.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/q/x/400-cocoa-nourish-body-lotion-400-ml-1-pcs-nivea-lotion-original-imagheybg3hfgkpf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/a/m/200-gluta-hya-flawless-glow-non-sticky-serum-in-lotion-vaseline-original-imahzmgyyzyetzfd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-smooth-milk-lotion-400-ml-body/p/itmb41f939ca096c",
-  "buyStore": "Flipkart",
-  "title": "NIVEA Smooth Milk Lotion 400 Ml , Body Milk Lotion 400 ML (800 ml …",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:lotion",
-   "format:oil",
-   "format:kit",
-   "ing:hyaluronic-acid",
-   "ing:almond",
-   "ing:cocoa-butter",
-   "ing:milk",
-   "claim:hydrating",
-   "claim:long-lasting",
-   "skin:dry",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itm4e6da4dccfa91",
-  "brand": "NIVEA",
-  "model": "BODY LOTION 400 ML - SHEA SMOOTH QTY 2 & BODY MILK QTY 1 (1 …",
-  "price": 1260,
+  "model": "BODY LOTION 400 ML - COCOA NOURISH QTY 2 & EXPRESS HYDRATIO …",
+  "price": 1326,
   "capacityLine": "400 ml",
   "materialLine": "niacinamide + hyaluronic acid + aloe vera",
-  "featureLine": "Serum · ₹315/100ml",
+  "featureLine": "Serum · ₹332/100ml",
   "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [
    "Contains evidence-backed actives (per listing)"
@@ -31015,14 +29591,14 @@ const CTPRODUCTS = [
   "scores": {
    "trust": 5.7,
    "skin": 4,
-   "ingredients": 6.6,
+   "ingredients": 6.2,
    "experience": 5.2
   },
   "fullSpec": {
    "quantity": "400 ml",
-   "pricePer100": "₹315/100ml",
+   "pricePer100": "₹332/100ml",
    "format": "Serum",
-   "keyIngredients": "niacinamide, hyaluronic acid, aloe vera, shea butter (per listing)",
+   "keyIngredients": "niacinamide, hyaluronic acid, aloe vera (per listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
@@ -31034,15 +29610,15 @@ const CTPRODUCTS = [
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/w/p/1200-body-lotion-400-ml-shea-smooth-qty-2-body-milk-qty-1-nivea-original-imahg6qzepayaybt.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/i/d/1200-body-lotion-400-ml-cocoa-nourish-qty-2-express-hydration-original-imahg6qg3z6tkg4x.jpeg?q=90",
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90",
    "https://rukminim1.flixcart.com/image/612/612/ku2zjww0/moisturizer-cream/i/c/h/600-nourishing-lotion-body-milk-with-deep-moisture-serum-lotion-original-imag7afcx8bjpymg.jpeg?q=90",
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/w/-original-imahqf2zzxa9rnzv.jpeg?q=90",
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/0/k/-enriched-transparent-original-imahdh7j2hvwhyfj.png?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/nivea-body-lotion-400-ml-shea-smooth-qty-2-milk-1/p/itm4e6da4dccfa91",
+  "buyUrl": "https://www.flipkart.com/nivea-body-lotion-400-ml-cocoa-nourish-qty-2-express-hydration-1/p/itmd515fd15a6a35",
   "buyStore": "Flipkart",
-  "title": "NIVEA BODY LOTION 400 ML - SHEA SMOOTH QTY 2 & BODY MILK QTY 1 (1 …",
+  "title": "NIVEA BODY LOTION 400 ML - COCOA NOURISH QTY 2 & EXPRESS HYDRATIO …",
   "tags": [
    "scope:both",
    "format:gel",
@@ -31053,7 +29629,6 @@ const CTPRODUCTS = [
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:aloe-vera",
-   "ing:shea-butter",
    "ing:cocoa-butter",
    "ing:milk",
    "claim:hydrating",
@@ -31073,59 +29648,135 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nivea-itme1edf7100ffdf",
-  "brand": "Nivea",
-  "model": "Body Lotion for Dry Skin, Shea Smooth, with Shea Butter, Fo …",
-  "price": 86,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "shea butter",
-  "featureLine": "Lotion",
-  "highlight": "Live Flipkart listing rated 4.4★ by 23,840 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Strong buyer rating (4.4)"
-  ],
+  "id": "nivea-itm28356989f1e3a",
+  "brand": "NIVEA",
+  "model": "BODY LOTION 400 ML - COCOA NOURISH QTY 2 & BODY MILK QTY 1 …",
+  "price": 1260,
+  "capacityLine": "400 ml",
+  "materialLine": "almond",
+  "featureLine": "Oil · ₹315/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
    "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 6.6,
+   "trust": 5.7,
    "skin": 4,
    "ingredients": 4.4,
-   "experience": 4.2
+   "experience": 4.6
   },
   "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
+   "quantity": "400 ml",
+   "pricePer100": "₹315/100ml",
+   "format": "Oil",
+   "keyIngredients": "almond (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/b/v/1200-body-lotion-400-ml-cocoa-nourish-qty-2-body-milk-qty-1-original-imahg6qrwwayacry.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/w/-original-imahqf2zzxa9rnzv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/m/t/-original-imahhaddfyzhndrq.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-body-lotion-400-ml-cocoa-nourish-qty-2-milk-1/p/itm28356989f1e3a",
+  "buyStore": "Flipkart",
+  "title": "NIVEA BODY LOTION 400 ML - COCOA NOURISH QTY 2 & BODY MILK QTY 1 …",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:oil",
+   "format:kit",
+   "ing:hyaluronic-acid",
+   "ing:almond",
+   "ing:cocoa-butter",
+   "ing:milk",
+   "claim:hydrating",
+   "claim:long-lasting",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itm244b5ba34b69c",
+  "brand": "NIVEA",
+  "model": "Shea-Smooth Body lotion ,Pack of 1 (400 ml)",
+  "price": 409,
+  "capacityLine": "400 ml",
+  "materialLine": "shea butter",
+  "featureLine": "Lotion · ₹102/100ml",
+  "highlight": "Live Flipkart listing rated 4.2★ by 124 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹102/100ml",
+   "Strong buyer rating (4.2)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.3,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹102/100ml",
    "format": "Lotion",
    "keyIngredients": "shea butter (per listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Unisex / not stated",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
    "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.4/5 (23,840 ratings, Flipkart)",
+   "skinType": "Dry Skin, Normal Skin, All Skin Types",
+   "rating": "4.2/5 (124 ratings, Flipkart)",
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/o/a/-enriched-transparent-original-imahgdx2smw6gzhh.png?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/y/z/-original-imahgdx24behbcrc.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/q/s/-original-imahgdx2f7azzguz.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/1/n/-original-imahhyy2ccjqfren.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/2/v/-original-imahgdx2uazfznjp.jpeg?q=90"
+   "https://rukminim1.flixcart.com/image/612/612/kjg1jm80-0/moisturizer-cream/m/b/s/400-shea-smooth-body-lotion-pack-of-1-lotion-nivea-original-imafzyprzgwznzhg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/kjg1jm80-0/moisturizer-cream/f/q/c/400-shea-smooth-body-lotion-pack-of-1-lotion-nivea-original-imafzyprngsuxqtr.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/q/e/-original-imahm2vw3auvepf5.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/kkzrpu80/moisturizer-cream/q/d/x/800-body-milk-shea-smooth-400ml-lotion-nivea-original-imagy7vgz8ecqthp.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/a/m/200-gluta-hya-flawless-glow-non-sticky-serum-in-lotion-vaseline-original-imahzmgyyzyetzfd.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/nivea-body-lotion-dry-skin-shea-smooth-butter-men-women/p/itme1edf7100ffdf",
+  "buyUrl": "https://www.flipkart.com/nivea-shea-smooth-body-lotion-pack-1/p/itm244b5ba34b69c",
   "buyStore": "Flipkart",
-  "title": "NIVEA Body Lotion for Dry Skin, Shea Smooth, with Shea Butter, Fo …",
+  "title": "NIVEA Shea-Smooth Body lotion ,Pack of 1 (400 ml)",
   "tags": [
-   "scope:body",
+   "scope:both",
+   "format:cream",
    "format:lotion",
-   "format:balm",
+   "format:wash",
+   "format:kit",
    "ing:shea-butter",
+   "claim:hydrating",
    "skin:dry",
-   "aud:unisex",
+   "skin:normal",
+   "skin:all",
+   "aud:women",
+   "size:xl",
    "rating:4.0",
    "store:flipkart"
   ],
@@ -31135,141 +29786,79 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
-  }
- },
- {
-  "id": "nivea-itm2f4c77fc4e0ed",
-  "brand": "NIVEA",
-  "model": "Smooth Milk Body Lotion For Dry Skin (200 ml)",
-  "price": 259,
-  "capacityLine": "200 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · Paraben-free · ₹130/100ml",
-  "highlight": "Live Flipkart listing rated 4.2★ by 31 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹130/100ml",
-   "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
-  "cons": [],
-  "scores": {
-   "trust": 6.8,
-   "skin": 5.3,
-   "ingredients": 4,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹130/100ml",
-   "format": "Lotion",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "4.2/5 (31 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/k13w4280/moisturizer-cream/m/z/x/200-smooth-milk-body-lotion-for-dry-skin-nivea-lotion-original-imafkrbg9dcwjfyc.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/a/a/-enriched-transparent-original-imahdh7jeq8cxfnu.png?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/q/e/-original-imahm2vw3auvepf5.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/h/n/-enriched-transparent-original-imahgdx2n262nkeh.png?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-smooth-milk-body-lotion-dry-skin/p/itm2f4c77fc4e0ed",
-  "buyStore": "Flipkart",
-  "title": "NIVEA Smooth Milk Body Lotion For Dry Skin (200 ml)",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:lotion",
-   "format:wash",
-   "ing:milk",
-   "claim:hydrating",
-   "free:paraben",
-   "free:derm",
-   "skin:dry",
-   "skin:all",
-   "aud:women",
-   "size:large",
-   "rating:4.0",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": true,
-   "natural": false,
-   "derm": true,
-   "men": false,
    "women": true
   }
  },
  {
-  "id": "nivea-itm23995671eacad",
+  "id": "nivea-itmedbfd96a79572",
   "brand": "NIVEA",
-  "model": "Cocoa Nourish Body Lotion 400 ML 1 pcs (400 ml)",
-  "price": 305,
+  "model": "BODY LOTION 400 ML - ALOE PROTECTION , SHEA SMOOTH & BODY M …",
+  "price": 1245,
   "capacityLine": "400 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · Paraben-free · ₹76/100ml",
-  "highlight": "Live Flipkart listing rated 4.4★ by 2,231 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "materialLine": "niacinamide + aloe vera + almond",
+  "featureLine": "Oil · ₹311/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [
-   "Good value: ₹76/100ml",
-   "Paraben-free (per listing)",
-   "Strong buyer rating (4.4)"
+   "Contains evidence-backed actives (per listing)"
   ],
-  "cons": [],
+  "cons": [
+   "No free-from claims in listing"
+  ],
   "scores": {
-   "trust": 6.6,
-   "skin": 4.6,
-   "ingredients": 4,
-   "experience": 4.6
+   "trust": 5.7,
+   "skin": 4,
+   "ingredients": 6.3,
+   "experience": 4.9
   },
   "fullSpec": {
    "quantity": "400 ml",
-   "pricePer100": "₹76/100ml",
-   "format": "Lotion",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free (per listing)",
+   "pricePer100": "₹311/100ml",
+   "format": "Oil",
+   "keyIngredients": "niacinamide, aloe vera, almond, shea butter (per listing)",
+   "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating",
    "audience": "Marketed for women",
    "naturalClaim": "Not stated in listing",
    "skinType": "All Skin Types",
-   "rating": "4.4/5 (2,231 ratings, Flipkart)",
+   "rating": "No rating yet",
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/g/g/400-cocoa-nourish-400ml-set-of-1-nivea-lotion-original-imahg5q5uw6ancsb.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/o/w/-original-imahjjvnyrghvayd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/t/o/-original-imahjzjh8ys5hqpp.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/8/g/1200-body-lotion-400-ml-aloe-protection-shea-smooth-body-milk-original-imahgb6cbvandgth.jpeg?q=90",
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/kgv5x8w0/moisturizer-cream/r/c/b/400-cocoa-nourish-and-body-milk-nourishing-lotion-lotion-nivea-original-imafxykmhfxgvnaz.jpeg?q=90"
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/m/t/-original-imahhaddfyzhndrq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/w/-original-imahqf2zzxa9rnzv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/0/k/-enriched-transparent-original-imahdh7j2hvwhyfj.png?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/nivea-cocoa-nourish-body-lotion-400-ml-1-pcs/p/itm23995671eacad",
+  "buyUrl": "https://www.flipkart.com/nivea-body-lotion-400-ml-aloe-protection-shea-smooth-milk/p/itmedbfd96a79572",
   "buyStore": "Flipkart",
-  "title": "NIVEA Cocoa Nourish Body Lotion 400 ML 1 pcs (400 ml)",
+  "title": "NIVEA BODY LOTION 400 ML - ALOE PROTECTION , SHEA SMOOTH & BODY M …",
   "tags": [
    "scope:both",
+   "format:gel",
+   "format:cream",
    "format:lotion",
-   "ing:cocoa-butter",
+   "format:oil",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:aloe-vera",
+   "ing:almond",
+   "ing:shea-butter",
+   "ing:milk",
    "claim:hydrating",
-   "free:paraben",
+   "claim:long-lasting",
    "skin:all",
    "aud:women",
    "size:xl",
-   "rating:4.0",
+   "rating:none",
    "store:flipkart"
   ],
   "filters": {
-   "actives": false,
-   "freefrom": true,
+   "actives": true,
+   "freefrom": false,
    "natural": false,
    "derm": false,
    "men": false,
@@ -31277,62 +29866,646 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nivea-itm86ccdcbcc8da6",
+  "id": "nivea-itm66c2685b68450",
   "brand": "NIVEA",
-  "model": "Body Lotion, Oil in Lotion Rose & Argan Oil, For Dry Skin ( …",
-  "price": 322,
-  "capacityLine": "400 ml",
-  "materialLine": "rose",
-  "featureLine": "Oil · Paraben-free · ₹81/100ml",
-  "highlight": "Live Flipkart listing rated 4.2★ by 31 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "model": "BODY MILK LOTION 200 ML ( PACK OF 3) (600 ml)",
+  "price": 571,
+  "capacityLine": "600 ml (pack of 3)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · ₹95/100ml",
+  "highlight": "Live Flipkart listing rated 3.4★ by 8 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [
-   "Good value: ₹81/100ml",
-   "Paraben-free (per listing)",
-   "Strong buyer rating (4.2)"
+   "Good value: ₹95/100ml"
   ],
-  "cons": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (3.4)"
+  ],
   "scores": {
-   "trust": 6.3,
-   "skin": 4.6,
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "200 ml × 3 pack",
+   "pricePer100": "₹95/100ml",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "3.4/5 (8 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/3/k/600-body-milk-lotion-200-ml-pack-of-3-nivea-lotion-original-imaghkhanngqwk8j.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/o/t/600-bodymilk-600ml-lotion-set-of-1pc-nivea-lotion-original-imah2x53cdhkzkxy.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/w/-original-imahqf2zzxa9rnzv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/k3ncakw0/moisturizer-cream/4/m/x/800-cocoa-nourish-body-lotion-400-ml-set-of-2-nivea-lotion-original-imafmpp9ejsjtkkp.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-body-milk-lotion-200-ml-pack-3/p/itm66c2685b68450",
+  "buyStore": "Flipkart",
+  "title": "NIVEA BODY MILK LOTION 200 ML ( PACK OF 3) (600 ml)",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:kit",
+   "ing:milk",
+   "claim:hydrating",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:low",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itm45c726804744f",
+  "brand": "NIVEA",
+  "model": "Aloe Hydration 400ml Body lotion Set of 1 (400 ml)",
+  "price": 580,
+  "capacityLine": "400 ml",
+  "materialLine": "aloe vera",
+  "featureLine": "Sunscreen · SPF 15 · ₹145/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹145/100ml"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.7,
+   "skin": 4,
    "ingredients": 4.7,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹145/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "aloe vera (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 15",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/y/b/400-aloe-hydration-400ml-body-lotion-set-of-1-nivea-lotion-original-imags7uxqdhffmx3.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/n/n/500-aloe-hydration-400ml-lotion-and-soft-cream-100ml-set-of-2-original-imags7r9gtvagdwr.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/r/q/600-0-aloe-hydration-body-lotion-nivea-lotion-original-imahcjsq6yvdhhed.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/1/r/-enriched-transparent-original-imahgdx2bzfps9kf.png?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-aloe-hydration-400ml-body-lotion-set-1/p/itm45c726804744f",
+  "buyStore": "Flipkart",
+  "title": "NIVEA Aloe Hydration 400ml Body lotion Set of 1 (400 ml)",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:serum",
+   "format:kit",
+   "spf:15",
+   "ing:aloe-vera",
+   "ing:milk",
+   "claim:hydrating",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itmc2cf42573f5b4",
+  "brand": "NIVEA",
+  "model": "BODY LOTION 400 ML - EXPRESS HYDRATION , ALOE HYDRATION & B …",
+  "price": 1236,
+  "capacityLine": "400 ml",
+  "materialLine": "niacinamide + aloe vera + almond",
+  "featureLine": "Oil · ₹309/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.7,
+   "skin": 4,
+   "ingredients": 5.9,
    "experience": 4.9
   },
   "fullSpec": {
    "quantity": "400 ml",
-   "pricePer100": "₹81/100ml",
+   "pricePer100": "₹309/100ml",
    "format": "Oil",
-   "keyIngredients": "rose (per listing)",
+   "keyIngredients": "niacinamide, aloe vera, almond (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/v/i/1200-body-lotion-400-ml-express-hydration-aloe-hydration-body-original-imahgb5y3qdtrw5v.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/m/t/-original-imahhaddfyzhndrq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/w/-original-imahqf2zzxa9rnzv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/ku2zjww0/moisturizer-cream/i/c/h/600-nourishing-lotion-body-milk-with-deep-moisture-serum-lotion-original-imag7afcx8bjpymg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-body-lotion-400-ml-express-hydration-aloe-milk/p/itmc2cf42573f5b4",
+  "buyStore": "Flipkart",
+  "title": "NIVEA BODY LOTION 400 ML - EXPRESS HYDRATION , ALOE HYDRATION & B …",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:lotion",
+   "format:oil",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:aloe-vera",
+   "ing:almond",
+   "ing:milk",
+   "claim:hydrating",
+   "claim:long-lasting",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itm109df13b43a67",
+  "brand": "NIVEA",
+  "model": "SHEA SMOOTH BODY LOTION 200 ML & COCOA NOURISH BODY LOTION …",
+  "price": 521,
+  "capacityLine": "200 ml",
+  "materialLine": "almond + shea butter",
+  "featureLine": "Oil · ₹261/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.7,
+   "skin": 4,
+   "ingredients": 4.8,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹261/100ml",
+   "format": "Oil",
+   "keyIngredients": "almond, shea butter (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/3/6/400-shea-smooth-body-lotion-200-ml-cocoa-nourish-body-lotion-200-original-imahg5kwqdr5z8g4.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/w/-original-imahqf2zzxa9rnzv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/m/t/-original-imahhaddfyzhndrq.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-shea-smooth-body-lotion-200-ml-cocoa-nourish/p/itm109df13b43a67",
+  "buyStore": "Flipkart",
+  "title": "NIVEA SHEA SMOOTH BODY LOTION 200 ML & COCOA NOURISH BODY LOTION …",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:oil",
+   "format:kit",
+   "ing:hyaluronic-acid",
+   "ing:almond",
+   "ing:shea-butter",
+   "ing:cocoa-butter",
+   "ing:milk",
+   "claim:hydrating",
+   "claim:long-lasting",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itmc2086b13b5410",
+  "brand": "NIVEA",
+  "model": "BODY MILK BODY LOTION 75 ML ( PACK OF 9 ) (675 ml)",
+  "price": 542,
+  "capacityLine": "675 ml (pack of 9)",
+  "materialLine": "almond",
+  "featureLine": "Oil · ₹80/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹80/100ml"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.7,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "75 ml × 9 pack",
+   "pricePer100": "₹80/100ml",
+   "format": "Oil",
+   "keyIngredients": "almond (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/d/x/675-body-milk-body-lotion-75-ml-pack-of-9-nivea-lotion-original-imahg4hyu28zawtv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/w/-original-imahqf2zzxa9rnzv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/m/t/-original-imahhaddfyzhndrq.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-body-milk-lotion-75-ml-pack-9/p/itmc2086b13b5410",
+  "buyStore": "Flipkart",
+  "title": "NIVEA BODY MILK BODY LOTION 75 ML ( PACK OF 9 ) (675 ml)",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:oil",
+   "format:kit",
+   "ing:hyaluronic-acid",
+   "ing:almond",
+   "ing:cocoa-butter",
+   "ing:milk",
+   "claim:hydrating",
+   "claim:long-lasting",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itm3dfdedc6cc9b3",
+  "brand": "NIVEA",
+  "model": "BODY LOTION 400 ML - ALOE HYDRATION & BODY MILK (800 ml)",
+  "price": 665,
+  "capacityLine": "400 ml",
+  "materialLine": "niacinamide + hyaluronic acid + aloe vera",
+  "featureLine": "Serum · ₹166/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹166/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.7,
+   "skin": 4,
+   "ingredients": 6.2,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹166/100ml",
+   "format": "Serum",
+   "keyIngredients": "niacinamide, hyaluronic acid, aloe vera (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/c/l/800-body-lotion-400-ml-aloe-hydration-body-milk-nivea-lotion-original-imahg6zqf24ccm9b.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/ku2zjww0/moisturizer-cream/i/c/h/600-nourishing-lotion-body-milk-with-deep-moisture-serum-lotion-original-imag7afcx8bjpymg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/w/-original-imahqf2zzxa9rnzv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/0/k/-enriched-transparent-original-imahdh7j2hvwhyfj.png?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-body-lotion-400-ml-aloe-hydration-milk/p/itm3dfdedc6cc9b3",
+  "buyStore": "Flipkart",
+  "title": "NIVEA BODY LOTION 400 ML - ALOE HYDRATION & BODY MILK (800 ml)",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:lotion",
+   "format:serum",
+   "format:oil",
+   "format:balm",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:aloe-vera",
+   "ing:cocoa-butter",
+   "ing:coconut",
+   "ing:milk",
+   "claim:hydrating",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itm0e70791672114",
+  "brand": "NIVEA",
+  "model": "COCOA NOURISH BODY LOTION 75 ML ( PACK OF 8 ) (600 ml)",
+  "price": 638,
+  "capacityLine": "600 ml (pack of 8)",
+  "materialLine": "hyaluronic acid",
+  "featureLine": "Serum · ₹106/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹106/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.7,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "75 ml × 8 pack",
+   "pricePer100": "₹106/100ml",
+   "format": "Serum",
+   "keyIngredients": "hyaluronic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/x/f/600-cocoa-nourish-body-lotion-75-ml-pack-of-8-nivea-lotion-original-imahg4hqfu244zxg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/o/w/-original-imahjjvnyrghvayd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/k3ncakw0/moisturizer-cream/4/m/x/800-cocoa-nourish-body-lotion-400-ml-set-of-2-nivea-lotion-original-imafmpp9ejsjtkkp.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/w/-original-imahqf2zzxa9rnzv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-cocoa-nourish-body-lotion-75-ml-pack-8/p/itm0e70791672114",
+  "buyStore": "Flipkart",
+  "title": "NIVEA COCOA NOURISH BODY LOTION 75 ML ( PACK OF 8 ) (600 ml)",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:serum",
+   "format:oil",
+   "format:kit",
+   "ing:hyaluronic-acid",
+   "ing:cocoa-butter",
+   "ing:coconut",
+   "ing:milk",
+   "claim:hydrating",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itm4bcba18594236",
+  "brand": "NIVEA",
+  "model": "Bodymilk 400ml Blue creme 100ml Set of 2 (500 ml)",
+  "price": 715,
+  "capacityLine": "400 ml",
+  "materialLine": "niacinamide + almond",
+  "featureLine": "Oil · Paraben-free · ₹179/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹179/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [],
+  "scores": {
+   "trust": 6.2,
+   "skin": 5.3,
+   "ingredients": 6,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹179/100ml",
+   "format": "Oil",
+   "keyIngredients": "niacinamide, almond (per listing)",
    "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/e/m/500-bodymilk-400ml-blue-creme-100ml-set-of-2-nivea-lotion-original-imahgdeb7hj2eyhh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/h/n/-enriched-transparent-original-imahgdx2n262nkeh.png?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/w/-original-imahqf2zzxa9rnzv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/m/t/-original-imahhaddfyzhndrq.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-bodymilk-400ml-blue-creme-100ml-set-2/p/itm4bcba18594236",
+  "buyStore": "Flipkart",
+  "title": "NIVEA Bodymilk 400ml Blue creme 100ml Set of 2 (500 ml)",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:lotion",
+   "format:oil",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:almond",
+   "ing:milk",
+   "claim:hydrating",
+   "claim:long-lasting",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itm249c8ae2c4581",
+  "brand": "NIVEA",
+  "model": "Natural Glow Cell Repair Body Lotion 400 ml (400)",
+  "price": 486,
+  "capacityLine": "400 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · ₹122/100ml",
+  "highlight": "Live Flipkart listing rated 4.4★ by 654 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹122/100ml",
+   "Strong buyer rating (4.4)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.6,
+   "skin": 4,
+   "ingredients": 4.3,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹122/100ml",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim",
    "audience": "Marketed for women",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
-   "rating": "4.2/5 (31 ratings, Flipkart)",
+   "rating": "4.4/5 (654 ratings, Flipkart)",
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/l/w/400-body-lotion-oil-in-lotion-rose-argan-oil-for-dry-skin-nivea-original-imahhehuzg9hhpgu.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/1/o/400-body-lotion-oil-in-lotion-rose-argan-oil-for-dry-skin-nivea-original-imahhehusfrjgkyz.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/k7ry3680/moisturizer-cream/z/d/a/800-rose-argan-oil-body-lotion-400-ml-pack-of-2-62-nivea-lotion-original-imafpx3vjcdqab6e.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/q/e/-original-imahm2vw3auvepf5.jpeg?q=90"
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/n/k/-original-imahjgwfhcrkfydf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/g/f/-original-imahkkzkhygtqajg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/a/m/200-gluta-hya-flawless-glow-non-sticky-serum-in-lotion-vaseline-original-imahzmgyyzyetzfd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/0/k/-enriched-transparent-original-imahdh7j2hvwhyfj.png?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/1/r/-enriched-transparent-original-imahgdx2bzfps9kf.png?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/nivea-body-lotion-oil-lotion-rose-argan-oil-dry-skin/p/itm86ccdcbcc8da6",
+  "buyUrl": "https://www.flipkart.com/nivea-natural-glow-cell-repair-body-lotion-400-ml/p/itm249c8ae2c4581",
   "buyStore": "Flipkart",
-  "title": "NIVEA Body Lotion, Oil in Lotion Rose & Argan Oil, For Dry Skin ( …",
+  "title": "NIVEA Natural Glow Cell Repair Body Lotion 400 ml (400)",
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
-   "ing:rose",
-   "ing:argan-oil",
    "claim:brightening",
    "claim:hydrating",
-   "claim:lightweight",
-   "free:paraben",
-   "skin:dry",
+   "claim:barrier",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -31341,7 +30514,7 @@ const CTPRODUCTS = [
   ],
   "filters": {
    "actives": false,
-   "freefrom": true,
+   "freefrom": false,
    "natural": true,
    "derm": false,
    "men": false,
@@ -31349,131 +30522,63 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nivea-itmexpdthstpfbfv",
+  "id": "nivea-itm0633703bb152c",
   "brand": "NIVEA",
-  "model": "SOFT LIGHT MOISTURIZER 100ML + BODY MILK NOURISHING BODY LO …",
-  "price": 364,
-  "capacityLine": "100 ml",
+  "model": "Body Milk Nourishing Lotion (400 ml) SET OF 2 (800 ml)",
+  "price": 641,
+  "capacityLine": "400 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Balm / butter · ₹364/100ml",
-  "highlight": "Live Flipkart listing rated 4.3★ by 546 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "featureLine": "Oil · ₹160/100ml",
+  "highlight": "Live Flipkart listing rated 4.3★ by 4,704 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [
-   "Dermatologically tested (per listing)",
+   "Good value: ₹160/100ml",
    "Strong buyer rating (4.3)"
   ],
   "cons": [
    "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 7,
-   "skin": 4.7,
-   "ingredients": 4.3,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹364/100ml",
-   "format": "Balm / butter",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Dermatologically tested (per listing)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "4.3/5 (546 ratings, Flipkart)",
-   "madeIn": "India"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/k9ej53k0/moisturizer-cream/8/9/z/250-nourishing-body-milk-body-lotion-200-ml-soft-light-original-imafr7a9bqzshhvp.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/7/m/140-gluta-hya-dewy-radiance-serum-in-moisturiser-lotion-70g-x-2n-original-imahqr8g5aradqmb.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/l/y/f/400-nourishing-lotion-body-milk-400ml-lotion-nivea-original-imahec29cqzfaueq.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/o/w/-original-imahjjvnyrghvayd.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-soft-light-moisturizer-100ml-body-milk-nourishing-lotion-200ml/p/itmexpdthstpfbfv",
-  "buyStore": "Flipkart",
-  "title": "NIVEA SOFT LIGHT MOISTURIZER 100ML + BODY MILK NOURISHING BODY LO …",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:lotion",
-   "format:balm",
-   "ing:milk",
-   "claim:hydrating",
-   "free:derm",
-   "skin:all",
-   "aud:women",
-   "size:standard",
-   "rating:4.0",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": true,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itmeydmwwvkurkuc",
-  "brand": "NIVEA",
-  "model": "Smooth Milk Body Lotion (800 ml)",
-  "price": 825,
-  "capacityLine": "800 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · ₹103/100ml",
-  "highlight": "Live Flipkart listing rated 4.4★ by 40 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹103/100ml",
-   "Dermatologically tested (per listing)",
-   "Strong buyer rating (4.4)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 7.1,
-   "skin": 4.7,
+   "trust": 6.5,
+   "skin": 4,
    "ingredients": 4,
-   "experience": 4.6
+   "experience": 4.9
   },
   "fullSpec": {
-   "quantity": "800 ml",
-   "pricePer100": "₹103/100ml",
-   "format": "Lotion",
+   "quantity": "400 ml",
+   "pricePer100": "₹160/100ml",
+   "format": "Oil",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
-   "dermTested": "Dermatologically tested (per listing)",
+   "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
+   "benefit": "Hydrating, Brightening/glow claim",
    "audience": "Marketed for women",
    "naturalClaim": "Not stated in listing",
    "skinType": "All Skin Types",
-   "rating": "4.4/5 (40 ratings, Flipkart)",
+   "rating": "4.3/5 (4,704 ratings, Flipkart)",
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/k1cgr680/moisturizer-cream/d/y/s/800-smooth-milk-body-lotion-nivea-lotion-original-imafkyfxgvgjxzsc.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/h/n/-enriched-transparent-original-imahgdx2n262nkeh.png?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/q/e/-original-imahm2vw3auvepf5.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/a/m/200-gluta-hya-flawless-glow-non-sticky-serum-in-lotion-vaseline-original-imahzmgyyzyetzfd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/k3ncakw0/moisturizer-cream/j/t/w/800-body-milk-nourishing-lotion-400-ml-set-of-2-nivea-lotion-original-imafmpp9h99hagws.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/keg02a80/moisturizer-cream/c/v/p/800-nourishing-lotion-body-milk-with-deep-moisturizer-serum-and-original-imafv4ybkhvn53zn.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/k3ncakw0/moisturizer-cream/4/m/x/800-cocoa-nourish-body-lotion-400-ml-set-of-2-nivea-lotion-original-imafmpp9ejsjtkkp.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/4/w/-original-imahqf2zzxa9rnzv.jpeg?q=90",
    "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/o/w/-original-imahjjvnyrghvayd.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/nivea-smooth-milk-body-lotion/p/itmeydmwwvkurkuc",
+  "buyUrl": "https://www.flipkart.com/nivea-body-milk-nourishing-lotion-400-ml-set-2/p/itm0633703bb152c",
   "buyStore": "Flipkart",
-  "title": "NIVEA Smooth Milk Body Lotion (800 ml)",
+  "title": "NIVEA Body Milk Nourishing Lotion (400 ml) SET OF 2 (800 ml)",
   "tags": [
    "scope:both",
+   "format:gel",
+   "format:cream",
    "format:lotion",
-   "format:patch",
+   "format:kit",
    "ing:milk",
+   "claim:brightening",
+   "claim:oil-control",
    "claim:hydrating",
-   "claim:lightweight",
-   "free:derm",
+   "claim:dry-skin-relief",
    "skin:all",
    "aud:women",
    "size:xl",
@@ -31484,110 +30589,188 @@ const CTPRODUCTS = [
    "actives": false,
    "freefrom": false,
    "natural": false,
-   "derm": true,
+   "derm": false,
    "men": false,
    "women": true
   }
  },
  {
-  "id": "nivea-itmfcgghfsg5gwuh",
+  "id": "nivea-itm852811eaf06a2",
   "brand": "NIVEA",
-  "model": "BODY MILK NOURISHING LOTION 75ml pack of 3 (225 ml)",
-  "price": 203,
-  "capacityLine": "225 ml (pack of 3)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Oil · Paraben-free · ₹90/100ml",
-  "highlight": "Live Flipkart listing rated 4.1★ by 2,412 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "model": "Combo Body Milk Lotion, Moisturizer, Hyaluronic acid & Soft …",
+  "price": 832,
+  "capacityLine": "800 ml",
+  "materialLine": "hyaluronic acid + vitamin E",
+  "featureLine": "Sunscreen · SPF 15 · ₹104/100ml",
+  "highlight": "Live Flipkart listing rated 4.5★ by 2,187 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [
-   "Good value: ₹90/100ml",
-   "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
-  "cons": [],
-  "scores": {
-   "trust": 6.7,
-   "skin": 5.3,
-   "ingredients": 4.3,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "75 ml × 3 pack",
-   "pricePer100": "₹90/100ml",
-   "format": "Oil",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "4.1/5 (2,412 ratings, Flipkart)",
-   "madeIn": "India"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/kingqkw0pkrrdj-0/personal-care/8/k/j/225-nivea-bodymilk-75ml-3-nivea-original-imafyggwybj2yck7.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/ko0d6kw0/moisturizer-cream/9/l/s/225-milk-nourishing-lotion-75ml-pack-of-3-lotion-nivea-original-imag2k26hf5zb6zn.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/kc9eufk0pkrrdj/personal-care/y/w/d/400-nourishing-lotion-body-milk-with-deep-moisture-400-ml-nivea-original-imaftjxcc8znua8g.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/h/f/70-combo-pack-of-both-gluta-70ml-vaseline-cream-original-imahzhy3zc8xjtfz.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/kj7gwi80-0/moisturizer-cream/q/n/v/75-body-milk-lotion-nivea-original-imafytz6hvh4dmhz.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-body-milk-nourishing-lotion-75ml-pack-3/p/itmfcgghfsg5gwuh",
-  "buyStore": "Flipkart",
-  "title": "NIVEA BODY MILK NOURISHING LOTION 75ml pack of 3 (225 ml)",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "format:lotion",
-   "format:oil",
-   "format:kit",
-   "ing:milk",
-   "claim:brightening",
-   "claim:acne",
-   "claim:oil-control",
-   "claim:hydrating",
-   "free:paraben",
-   "free:derm",
-   "skin:all",
-   "aud:women",
-   "size:large",
-   "rating:4.0",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": true,
-   "natural": true,
-   "derm": true,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itm64d5c6d7f64d4",
-  "brand": "NIVEA",
-  "model": "Nourishing Lotion Body Milk 400ml, Deep Moisture Very Dry S …",
-  "price": 79,
-  "capacityLine": "400 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · ₹20/100ml",
-  "highlight": "Live Flipkart listing rated 4.4★ by 863 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹20/100ml",
-   "Strong buyer rating (4.4)"
+   "Good value: ₹104/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.5)"
   ],
   "cons": [
    "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 6.6,
+   "trust": 6.8,
+   "skin": 4.5,
+   "ingredients": 5.8,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "800 ml",
+   "pricePer100": "₹104/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "hyaluronic acid, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Non-comedogenic (per listing)",
+   "benefit": "Hydrating, SPF 15",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "4.5/5 (2,187 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/u/s/800-soft-light-moisturizer-200ml-body-milk-lotion-600ml-pack-of-original-imahcfaque4schcp.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/x/p/-original-imah9ce8by4tad3f.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/f/x/-original-imah9ce8g3fzjmds.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/s/w/-original-imah9ce8dkejgykh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/z/u/-original-imah9mcp4hx6dc9y.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-combo-body-milk-lotion-moisturizer-hyaluronic-acid-soft-spf15-uv-day-cream/p/itm852811eaf06a2",
+  "buyStore": "Flipkart",
+  "title": "NIVEA Combo Body Milk Lotion, Moisturizer, Hyaluronic acid & Soft …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:oil",
+   "format:kit",
+   "spf:15",
+   "ing:hyaluronic-acid",
+   "ing:vitamin-e",
+   "ing:jojoba",
+   "ing:milk",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:long-lasting",
+   "claim:spf-claim",
+   "free:non-comedogenic",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itmfcfthjxv938rn",
+  "brand": "NIVEA",
+  "model": "Body Milk Nourishing Body Lotion 75ml X 3 (225 ml)",
+  "price": 180,
+  "capacityLine": "75 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Oil · ₹240/100ml",
+  "highlight": "Live Flipkart listing rated 3.9★ by 386 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹240/100ml"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (3.9)"
+  ],
+  "scores": {
+   "trust": 5.9,
+   "skin": 4,
+   "ingredients": 4.3,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "75 ml",
+   "pricePer100": "₹240/100ml",
+   "format": "Oil",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "3.9/5 (386 ratings, Flipkart)",
+   "madeIn": "India"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/kingqkw0pkrrdj-0/personal-care/k/8/0/225-nivea-bodymilk-75ml-nivea-original-imafygsu4dqnpunj.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/0/4/body-milk-nourishing-lotion-75ml-x-3-nivea-lotion-original-imagn29sftq86xjj.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/c/y/body-milk-nourishing-lotion-75ml-x-4-nivea-lotion-original-imagn29sxh2gz3zc.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/d/5/300-body-milk-lotion-50ml-set-of-6-nivea-lotion-original-imahzqnnzhfwk3hv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/6/j/225-body-milk-nourishing-lotion-75ml-pack-of-3-nivea-lotion-original-imagg7d8vzjrnsmg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-body-milk-nourishing-lotion-75ml-x-3/p/itmfcfthjxv938rn",
+  "buyStore": "Flipkart",
+  "title": "NIVEA Body Milk Nourishing Body Lotion 75ml X 3 (225 ml)",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:lotion",
+   "ing:milk",
+   "claim:brightening",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:hydrating",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:3.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itm7c008dc8c339c",
+  "brand": "NIVEA",
+  "model": "Body Lotion For Very Dry Skin, Nourishing Body Milk For (40 …",
+  "price": 98,
+  "capacityLine": "800 ml (pack of 2)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · ₹12/100ml",
+  "highlight": "Live Flipkart listing rated 4.3★ by 580 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹12/100ml",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.5,
    "skin": 4,
    "ingredients": 4,
    "experience": 4.6
   },
   "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹20/100ml",
+   "quantity": "400 ml × 2 pack",
+   "pricePer100": "₹12/100ml",
    "format": "Lotion",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -31597,22 +30780,23 @@ const CTPRODUCTS = [
    "audience": "Marketed for women",
    "naturalClaim": "Not stated in listing",
    "skinType": "All Skin Types",
-   "rating": "4.4/5 (863 ratings, Flipkart)",
+   "rating": "4.3/5 (580 ratings, Flipkart)",
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/kingqkw0-0/moisturizer-cream/d/u/u/1200-nourishing-lotion-body-milk-with-deep-moisture-serum-and-2x-original-imafydgvrzvesqqm.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/kim1aq80-0/moisturizer-cream/x/g/j/800-body-milk-shea-smooth-nourishing-lotion-nivea-lotion-original-imafydgnwpxjyxht.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/kim1aq80-0/moisturizer-cream/v/k/i/800-body-milk-shea-smooth-nourishing-lotion-nivea-lotion-original-imafydgnyh5gbggw.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/z/b/1200-body-milk-body-lotion-400-ml-pack-of-3-nivea-lotion-original-imaghh6699jzcqby.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/k3ncakw0/moisturizer-cream/4/m/x/800-cocoa-nourish-body-lotion-400-ml-set-of-2-nivea-lotion-original-imafmpp9ejsjtkkp.jpeg?q=90"
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/f/8/400-body-lotion-for-very-dry-skin-nourishing-body-milk-for-nivea-original-imagvd3hww3afphs.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/s/x/200-body-lotion-for-very-dry-skin-nourishing-body-milk-for-nivea-original-imaghxfzubrcgrff.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/n/s/200-body-lotion-for-very-dry-skin-nourishing-body-milk-for-nivea-original-imaghxfzmeaym24n.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/6/0/200-body-lotion-for-very-dry-skin-nourishing-body-milk-for-nivea-original-imaghxfzgzufwqhg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/l/y/f/400-nourishing-lotion-body-milk-400ml-lotion-nivea-original-imahec29cqzfaueq.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/nivea-nourishing-lotion-body-milk-400ml-deep-moisture-very-dry-skin/p/itm64d5c6d7f64d4",
+  "buyUrl": "https://www.flipkart.com/nivea-body-lotion-very-dry-skin-nourishing-milk/p/itm7c008dc8c339c",
   "buyStore": "Flipkart",
-  "title": "NIVEA Nourishing Lotion Body Milk 400ml, Deep Moisture Very Dry S …",
+  "title": "NIVEA Body Lotion For Very Dry Skin, Nourishing Body Milk For (40 …",
   "tags": [
    "scope:both",
    "format:lotion",
+   "format:kit",
    "ing:milk",
    "claim:hydrating",
    "claim:dry-skin-relief",
@@ -31633,61 +30817,138 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nivea-itm7d457f5a70bf6",
+  "id": "nivea-itmb853efef48475",
   "brand": "NIVEA",
-  "model": "Nourishing Lotion Body Milk With Deep Moisture (800 ml)",
-  "price": 79,
-  "capacityLine": "800 ml",
+  "model": "Body Milk Body Lotion 200 ML & Creme 100 ML (300 ml)",
+  "price": 368,
+  "capacityLine": "200 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · ₹10/100ml",
-  "highlight": "Live Flipkart listing rated 4.4★ by 863 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "featureLine": "Serum · ₹184/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [
-   "Good value: ₹10/100ml",
-   "Strong buyer rating (4.4)"
+   "Good value: ₹184/100ml"
   ],
   "cons": [
    "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 6.6,
+   "trust": 5.7,
    "skin": 4,
-   "ingredients": 4,
-   "experience": 4.6
+   "ingredients": 4.3,
+   "experience": 5.2
   },
   "fullSpec": {
-   "quantity": "800 ml",
-   "pricePer100": "₹10/100ml",
+   "quantity": "200 ml",
+   "pricePer100": "₹184/100ml",
+   "format": "Serum",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/d/g/300-body-milk-body-lotion-200-ml-creme-100-ml-nivea-lotion-original-imagh9ffwkckme9d.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/e/n/200-peppy-pomegranate-200ml-cream-set-of-1pc-nivea-cream-original-imagrqwvvwkevjrx.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/ku2zjww0/moisturizer-cream/i/c/h/600-nourishing-lotion-body-milk-with-deep-moisture-serum-lotion-original-imag7afcx8bjpymg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/a/m/200-gluta-hya-flawless-glow-non-sticky-serum-in-lotion-vaseline-original-imahzmgyyzyetzfd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/0/k/-enriched-transparent-original-imahdh7j2hvwhyfj.png?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-body-milk-lotion-200-ml-creme-100/p/itmb853efef48475",
+  "buyStore": "Flipkart",
+  "title": "NIVEA Body Milk Body Lotion 200 ML & Creme 100 ML (300 ml)",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:serum",
+   "format:oil",
+   "format:balm",
+   "format:kit",
+   "ing:cocoa-butter",
+   "ing:coconut",
+   "ing:milk",
+   "ing:avocado",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itm10de6a62e12f2",
+  "brand": "Nivea",
+  "model": "Body Milk Nourishing Body Lotion 400ml pack of 2 (800 ml)",
+  "price": 613,
+  "capacityLine": "800 ml (pack of 2)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · ₹77/100ml",
+  "highlight": "Live Flipkart listing rated 4.5★ by 182 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹77/100ml",
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.8,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "400 ml × 2 pack",
+   "pricePer100": "₹77/100ml",
    "format": "Lotion",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
    "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "4.4/5 (863 ratings, Flipkart)",
+   "skinType": "Not stated in listing",
+   "rating": "4.5/5 (182 ratings, Flipkart)",
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/kingqkw0-0/moisturizer-cream/n/l/t/800-nourishing-lotion-body-milk-with-deep-moisture-serum-and-2x-original-imafydgusgjbsamu.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/kim1aq80-0/moisturizer-cream/x/g/j/800-body-milk-shea-smooth-nourishing-lotion-nivea-lotion-original-imafydgnwpxjyxht.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/kim1aq80-0/moisturizer-cream/v/k/i/800-body-milk-shea-smooth-nourishing-lotion-nivea-lotion-original-imafydgnyh5gbggw.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/t/o/-original-imahjzjh8ys5hqpp.jpeg?q=90"
+   "https://rukminim1.flixcart.com/image/612/612/kfk0e4w0/moisturizer-cream/d/z/h/800-body-milk-nourishing-body-lotion-400ml-pack-of-2-lotion-original-imafvzhr78mngvfu.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/keg02a80/moisturizer-cream/c/v/p/800-nourishing-lotion-body-milk-with-deep-moisturizer-serum-and-original-imafv4ybkhvn53zn.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/l/y/f/400-nourishing-lotion-body-milk-400ml-lotion-nivea-original-imahec29cqzfaueq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/ku2zjww0/moisturizer-cream/i/c/h/600-nourishing-lotion-body-milk-with-deep-moisture-serum-lotion-original-imag7afcx8bjpymg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/kevpwnk0/moisturizer-cream/f/b/k/800-body-milk-nourishing-lotion-400ml-pack-of-2-nivea-lotion-original-imafvghuhggwudw7.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/nivea-nourishing-lotion-body-milk-deep-moisture/p/itm7d457f5a70bf6",
+  "buyUrl": "https://www.flipkart.com/nivea-body-milk-nourishing-lotion-400ml-pack-2/p/itm10de6a62e12f2",
   "buyStore": "Flipkart",
-  "title": "NIVEA Nourishing Lotion Body Milk With Deep Moisture (800 ml)",
+  "title": "NIVEA Body Milk Nourishing Body Lotion 400ml pack of 2 (800 ml)",
   "tags": [
-   "scope:both",
+   "scope:body",
    "format:lotion",
+   "format:kit",
    "ing:milk",
    "claim:hydrating",
-   "skin:all",
-   "aud:women",
+   "aud:unisex",
    "size:xl",
-   "rating:4.0",
+   "rating:4.5",
    "store:flipkart"
   ],
   "filters": {
@@ -31696,69 +30957,67 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": false
   }
  },
  {
-  "id": "nivea-itm67b4d59ca0cca",
+  "id": "nivea-itmf00f375189735",
   "brand": "NIVEA",
-  "model": "400ml Aloe Protection Spf15 Bodylotion Lotion Set of 1pc (4 …",
-  "price": 580,
-  "capacityLine": "400 ml",
-  "materialLine": "aloe vera",
-  "featureLine": "Sunscreen · Paraben-free · SPF 15 · ₹145/100ml",
-  "highlight": "Live Flipkart listing rated 4.6★ by 5 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "model": "1 Smooth milk & 2 Bodymilk 75mlLotion (225 ml)",
+  "price": 269,
+  "capacityLine": "225 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · Paraben-free · ₹120/100ml",
+  "highlight": "Live Flipkart listing rated 4.1★ by 7 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [
-   "Good value: ₹145/100ml",
+   "Good value: ₹120/100ml",
    "Paraben-free (per listing)",
    "Dermatologically tested (per listing)"
   ],
   "cons": [],
   "scores": {
-   "trust": 7.4,
+   "trust": 6.7,
    "skin": 5.3,
-   "ingredients": 4.7,
-   "experience": 5
+   "ingredients": 4.5,
+   "experience": 4.6
   },
   "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹145/100ml",
-   "format": "Sunscreen",
-   "keyIngredients": "aloe vera (per listing)",
+   "quantity": "225 ml",
+   "pricePer100": "₹120/100ml",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
    "freeFrom": "Paraben-free (per listing)",
    "dermTested": "Dermatologically tested (per listing)",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, SPF 15",
+   "benefit": "Hydrating",
    "audience": "Marketed for women",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
-   "rating": "4.6/5 (5 ratings, Flipkart)",
+   "rating": "4.1/5 (7 ratings, Flipkart)",
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/g/y/400-400ml-aloe-protection-spf15-bodylotion-lotion-set-of-1pc-original-imagrdvqgpqdte5f.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/w/9/800-aloe-spf15-body-lotion-400ml-set-of-2pc-nivea-lotion-original-imagzr38wtueef3g.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/b/t/600-aloe-spf15-lotion-400ml-and-200ml-nivea-lotion-original-imagzrfyawkzyarv.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/c/l/400-400ml-aloe-protection-spf15-bodylotion-lotion-set-of-1pc-original-imagrdvqrzbdjymq.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/9/r/400-400ml-aloe-protection-spf15-bodylotion-lotion-set-of-1pc-original-imagrdvquetqzguj.jpeg?q=90"
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/c/y/225-1-smooth-milk-2-bodymilk-75mllotion-nivea-lotion-original-imahgh4aa522qa8x.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/m/l/-original-imaheyenkqrntyaz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/a/a/-enriched-transparent-original-imahdh7jeq8cxfnu.png?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/h/f/70-combo-pack-of-both-gluta-70ml-vaseline-cream-original-imahzhy3zc8xjtfz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/o/w/-original-imahjjvnyrghvayd.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/nivea-400ml-aloe-protection-spf15-bodylotion-lotion-set-1pc/p/itm67b4d59ca0cca",
+  "buyUrl": "https://www.flipkart.com/nivea-1-smooth-milk-2-bodymilk-75mllotion/p/itmf00f375189735",
   "buyStore": "Flipkart",
-  "title": "NIVEA 400ml Aloe Protection Spf15 Bodylotion Lotion Set of 1pc (4 …",
+  "title": "NIVEA 1 Smooth milk & 2 Bodymilk 75mlLotion (225 ml)",
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:kit",
-   "spf:15",
-   "ing:aloe-vera",
+   "ing:milk",
    "claim:hydrating",
-   "claim:spf-claim",
    "free:paraben",
    "free:derm",
+   "free:vegan",
    "skin:all",
    "aud:women",
-   "size:xl",
-   "rating:4.5",
+   "size:large",
+   "rating:4.0",
    "store:flipkart"
   ],
   "filters": {
@@ -31771,240 +31030,34 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nivea-itmfdpyybggz3dst",
+  "id": "nivea-itm58ebe5de6c02c",
   "brand": "NIVEA",
-  "model": "Cocoa Nourish Body Lotion (400 ml)",
-  "price": 409,
-  "capacityLine": "400 ml",
-  "materialLine": "vitamin E",
-  "featureLine": "Serum · Paraben-free · ₹102/100ml",
-  "highlight": "Live Flipkart listing rated 3.9★ by 7 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹102/100ml",
-   "Paraben-free (per listing)"
-  ],
-  "cons": [
-   "Mixed buyer rating (3.9)"
-  ],
-  "scores": {
-   "trust": 5.9,
-   "skin": 4.6,
-   "ingredients": 4.7,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹102/100ml",
-   "format": "Serum",
-   "keyIngredients": "vitamin E (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Dry Skin",
-   "rating": "3.9/5 (7 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/a/9/400-0-cocoa-nourish-body-lotion-400-ml-nivea-lotion-enriched-transparent-original-imahcjspzrdstvzd.png?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/p/m/400-0-cocoa-nourish-body-lotion-400-ml-nivea-lotion-original-imahcjspf8rzp9az.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/2/c/400-0-cocoa-nourish-body-lotion-400-ml-nivea-lotion-original-imahcjspjyjgzhgh.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/q/9/400-0-cocoa-nourish-body-lotion-400-ml-nivea-lotion-original-imahcjspyz22m3kg.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/l/a/400-0-cocoa-nourish-body-lotion-400-ml-nivea-lotion-original-imahcjspsn9xmwgy.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-cocoa-nourish-body-lotion/p/itmfdpyybggz3dst",
-  "buyStore": "Flipkart",
-  "title": "NIVEA Cocoa Nourish Body Lotion (400 ml)",
-  "tags": [
-   "scope:both",
-   "format:lotion",
-   "format:serum",
-   "format:oil",
-   "format:balm",
-   "ing:cocoa-butter",
-   "ing:vitamin-e",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:long-lasting",
-   "free:paraben",
-   "skin:dry",
-   "aud:women",
-   "size:xl",
-   "rating:3.5",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itme5c18af25e9d4",
-  "brand": "NIVEA",
-  "model": "Nourishing Lotion Body Milk 5 in 1 Care (400 ml)",
-  "price": 307,
-  "capacityLine": "400 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · ₹77/100ml",
-  "highlight": "Live Flipkart listing rated 4.3★ by 136 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹77/100ml",
-   "Strong buyer rating (4.3)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 6.5,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹77/100ml",
-   "format": "Lotion",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "4.3/5 (136 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/x/l/400-nourishing-lotion-body-milk-5-in-1-care-nivea-lotion-original-imahf7vxbvenbygx.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/o/t/600-bodymilk-600ml-lotion-set-of-1pc-nivea-lotion-original-imah2x53cdhkzkxy.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/a/m/200-gluta-hya-flawless-glow-non-sticky-serum-in-lotion-vaseline-original-imahzmgyyzyetzfd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/i/h/-original-imahm46yfb2qgzcw.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-nourishing-lotion-body-milk-5-1-care/p/itme5c18af25e9d4",
-  "buyStore": "Flipkart",
-  "title": "NIVEA Nourishing Lotion Body Milk 5 in 1 Care (400 ml)",
-  "tags": [
-   "scope:both",
-   "format:lotion",
-   "ing:milk",
-   "claim:hydrating",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:4.0",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itm8984b93b4067a",
-  "brand": "Nivea",
-  "model": "Body Milk, Lotion Moisturizer, with Hyaluronic acid, Moistu …",
-  "price": 108,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "hyaluronic acid",
-  "featureLine": "Lotion",
-  "highlight": "Live Flipkart listing rated 4.4★ by 2,70,980 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.4)"
-  ],
-  "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 6.6,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Lotion",
-   "keyIngredients": "hyaluronic acid (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.4/5 (2,70,980 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/g/e/-enriched-transparent-original-imahgdx2bdpzve7b.png?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/n/g/-original-imahgdx2ws3aytcs.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/z/8/-original-imahgdx2zkrd8g6d.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/o/5/-original-imahdh7jhcgasmzf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/g/2/-original-imahgdx2e3u3saqy.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-body-milk-lotion-moisturizer-hyaluronic-acid-moisture-serum-men-women/p/itm8984b93b4067a",
-  "buyStore": "Flipkart",
-  "title": "NIVEA Body Milk, Lotion Moisturizer, with Hyaluronic acid, Moistu …",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "ing:hyaluronic-acid",
-   "ing:milk",
-   "claim:hydrating",
-   "aud:unisex",
-   "rating:4.0",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
-  }
- },
- {
-  "id": "nivea-itm6cb8989746517",
-  "brand": "NIVEA",
-  "model": "2 Bodymilk 75ml & 1 Cell Repair 75ml Lotion Set of 3 (225 m …",
-  "price": 288,
-  "capacityLine": "75 ml",
-  "materialLine": "almond",
-  "featureLine": "Oil · Paraben-free · ₹384/100ml",
+  "model": "BODY MILK BODY LOTION 200 ML & ALOE HYDRATION BODY LOTION 2 …",
+  "price": 358,
+  "capacityLine": "200 ml",
+  "materialLine": "hyaluronic acid + aloe vera",
+  "featureLine": "Serum · ₹179/100ml",
   "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [
-   "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)"
+   "Good value: ₹179/100ml",
+   "Contains evidence-backed actives (per listing)"
   ],
-  "cons": [],
+  "cons": [
+   "No free-from claims in listing"
+  ],
   "scores": {
-   "trust": 6.2,
-   "skin": 5.3,
-   "ingredients": 4.9,
-   "experience": 4.9
+   "trust": 5.7,
+   "skin": 4,
+   "ingredients": 5.8,
+   "experience": 5.2
   },
   "fullSpec": {
-   "quantity": "75 ml",
-   "pricePer100": "₹384/100ml",
-   "format": "Oil",
-   "keyIngredients": "almond (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
+   "quantity": "200 ml",
+   "pricePer100": "₹179/100ml",
+   "format": "Serum",
+   "keyIngredients": "hyaluronic acid, aloe vera (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim",
    "audience": "Marketed for women",
@@ -32014,31 +31067,320 @@ const CTPRODUCTS = [
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/3/u/225-2-bodymilk-75ml-1-cell-repair-75ml-lotion-set-of-3-nivea-original-imahghygw2dngdsf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/e/n/200-peppy-pomegranate-200ml-cream-set-of-1pc-nivea-cream-original-imagrqwvvwkevjrx.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/u/j/90-intensive-care-cocoa-glow-body-lotion-90ml-vaseline-lotion-original-imahzngyzggmddzv.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/m/t/-original-imahhaddfyzhndrq.jpeg?q=90"
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/6/h/400-body-milk-body-lotion-200-ml-aloe-hydration-body-lotion-200-original-imahg5kruyqm5ztm.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/k/w/-enriched-transparent-original-imaheyengcdq7rqg.png?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/a/m/200-gluta-hya-flawless-glow-non-sticky-serum-in-lotion-vaseline-original-imahzmgyyzyetzfd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/0/k/-enriched-transparent-original-imahdh7j2hvwhyfj.png?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/nivea-2-bodymilk-75ml-1-cell-repair-lotion-set-3/p/itm6cb8989746517",
+  "buyUrl": "https://www.flipkart.com/nivea-body-milk-lotion-200-ml-aloe-hydration/p/itm58ebe5de6c02c",
   "buyStore": "Flipkart",
-  "title": "NIVEA 2 Bodymilk 75ml & 1 Cell Repair 75ml Lotion Set of 3 (225 m …",
+  "title": "NIVEA BODY MILK BODY LOTION 200 ML & ALOE HYDRATION BODY LOTION 2 …",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:serum",
+   "format:kit",
+   "ing:hyaluronic-acid",
+   "ing:aloe-vera",
+   "ing:milk",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itma132491459f24",
+  "brand": "NIVEA",
+  "model": "Body Milk Body Lotion 400 ML & Soft Light Moisturising Crea …",
+  "price": 473,
+  "capacityLine": "400 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · ₹118/100ml",
+  "highlight": "Live Flipkart listing rated 4.5★ by 6 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹118/100ml",
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.8,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹118/100ml",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "4.5/5 (6 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/d/3/l/450-body-milk-body-lotion-400ml-soft-light-moisturising-cream-50-original-imagkyc7a2jgtdne.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/n/2/425-body-milk-body-lotion-400-ml-soft-cream-25-ml-nivea-lotion-original-imahgk3pmca9ezux.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/a/k/425-body-milk-nourishing-body-lotion-400ml-soft-light-original-imahftzxz66cx58g.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/a/m/200-gluta-hya-flawless-glow-non-sticky-serum-in-lotion-vaseline-original-imahzmgyyzyetzfd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/ktizdzk0/moisturizer-cream/h/m/m/250-nourishing-body-milk-lotion-200-ml-soft-light-moisturizer-original-imag6ugdgzrkfcvc.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-body-milk-lotion-400-ml-soft-light-moisturising-cream-50/p/itma132491459f24",
+  "buyStore": "Flipkart",
+  "title": "NIVEA Body Milk Body Lotion 400 ML & Soft Light Moisturising Crea …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "ing:milk",
+   "claim:hydrating",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itmf2q6yvj3uzzz4",
+  "brand": "NIVEA",
+  "model": "Nourishing Lotion Body Milk 200ml (200 ml)",
+  "price": 208,
+  "capacityLine": "200 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · ₹104/100ml",
+  "highlight": "Live Flipkart listing rated 4.4★ by 75 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹104/100ml",
+   "Strong buyer rating (4.4)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.6,
+   "skin": 4,
+   "ingredients": 4.3,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹104/100ml",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "4.4/5 (75 ratings, Flipkart)",
+   "madeIn": "India"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/kingqkw0pkrrdj-0/personal-care/x/c/c/200-nivea-bodymilk-200ml-nivea-original-imafygrxexm7p73y.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/q/e/-original-imahm2vw3auvepf5.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/a/a/-enriched-transparent-original-imahdh7jeq8cxfnu.png?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/z/p/200-body-milk-moisturizing-dry-skin-body-lotion-200-ml-pack-1-original-imagmhjrsxgujntn.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/g/e/-enriched-transparent-original-imahgdx2bdpzve7b.png?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-nourishing-lotion-body-milk-200ml/p/itmf2q6yvj3uzzz4",
+  "buyStore": "Flipkart",
+  "title": "NIVEA Nourishing Lotion Body Milk 200ml (200 ml)",
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
-   "format:kit",
-   "ing:hyaluronic-acid",
-   "ing:almond",
-   "ing:cocoa-butter",
+   "ing:milk",
+   "claim:hydrating",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "goat-itm4b8e36fbf0b45",
+  "brand": "Goat",
+  "model": "Moisturising Body Lotion with Lemon Myrtle (500 ml)",
+  "price": 894,
+  "capacityLine": "500 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · Fragrance-free · SPF 30 · ₹179/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹179/100ml",
+   "Fragrance-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4.5,
+   "ingredients": 4.2,
+   "experience": 5.3
+  },
+  "fullSpec": {
+   "quantity": "500 ml",
+   "pricePer100": "₹179/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Fragrance-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 30",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Sensitive Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/o/1/500-moisturising-body-lotion-with-lemon-myrtle-goat-lotion-original-imahpdx4rcdevdfg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/x/y/500-moisturising-body-lotion-with-lemon-myrtle-goat-lotion-original-imahnsafszgtg2zf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/d/p/500-moisturising-body-lotion-with-lemon-myrtle-goat-lotion-original-imahnsagfwvntmct.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/a/i/500-moisturising-body-lotion-with-lemon-myrtle-goat-lotion-original-imahnsag4hznjxtg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/q/5/500-moisturising-body-lotion-with-lemon-myrtle-goat-lotion-original-imahnsaxhuffau8x.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/goat-moisturising-body-lotion-lemon-myrtle/p/itm4b8e36fbf0b45",
+  "buyStore": "Flipkart",
+  "title": "Goat Moisturising Body Lotion with Lemon Myrtle (500 ml)",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:capsule",
+   "spf:30",
+   "ing:lemon",
    "ing:milk",
    "claim:brightening",
+   "claim:whitening-claim",
    "claim:hydrating",
-   "claim:barrier",
-   "claim:long-lasting",
+   "claim:spf-claim",
+   "free:fragrance",
+   "free:vegan",
+   "free:sensitive-safe",
+   "skin:dry",
+   "skin:sensitive",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "dixaan-naturals-itm9215461b8ac36",
+  "brand": "DIXAAN NATURALS",
+  "model": "Aloe Vera Body Lotion for Soft & Hydrated Skin, P …",
+  "price": 252,
+  "capacityLine": "100 g",
+  "materialLine": "aloe vera",
+  "featureLine": "Lotion · Paraben-free · ₹252/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 5.3,
+   "ingredients": 4.7,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹252/100g",
+   "format": "Lotion",
+   "keyIngredients": "aloe vera (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/j/z/200-aloe-vera-body-lotion-for-soft-hydrated-skin-paraben-free-original-imahnbkjrmp6kgev.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/7/q/200-aloe-vera-body-lotion-for-soft-hydrated-skin-paraben-free-original-imahnbkzpbetyfnf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/v/f/200-aloe-vera-body-lotion-for-soft-hydrated-skin-paraben-free-original-imahnbkqfazqg9qz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/y/p/200-aloe-vera-body-lotion-for-soft-hydrated-skin-paraben-free-original-imahnbkjmbxmcqxz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/h/u/200-aloe-vera-body-lotion-for-soft-hydrated-skin-paraben-free-original-imahnbkzzabuy9bg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/dixaan-naturals-aloe-vera-body-lotion-soft-hydrated-skin-paraben-free/p/itm9215461b8ac36",
+  "buyStore": "Flipkart",
+  "title": "DIXAAN NATURALS Aloe Vera Body Lotion for Soft & Hydrated Skin, P …",
+  "tags": [
+   "scope:body",
+   "format:gel",
+   "format:cream",
+   "format:lotion",
+   "format:kit",
+   "ing:aloe-vera",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:lightweight",
    "free:paraben",
    "free:derm",
-   "free:vegan",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
    "skin:all",
    "aud:women",
    "size:standard",
@@ -32055,61 +31397,78 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nivea-itm404d4a20f84e9",
-  "brand": "NIVEA",
-  "model": "EXPRESS HYDRATION BODY LOTION 200 ML & SOFT CREAM 100 ML (3 …",
-  "price": 381,
-  "capacityLine": "200 ml",
-  "materialLine": "hyaluronic acid + aloe vera",
-  "featureLine": "Serum · ₹191/100ml",
+  "id": "dixaan-naturals-itmad5d2db24a994",
+  "brand": "DIXAAN NATURALS",
+  "model": "All Purpose Moisturizing Body Lotion for Soft & S …",
+  "price": 250,
+  "capacityLine": "180 g",
+  "materialLine": "aloe vera + almond + shea butter",
+  "featureLine": "Oil · Paraben-free · ₹139/100g",
   "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [
-   "Good value: ₹191/100ml",
-   "Contains evidence-backed actives (per listing)"
+   "Good value: ₹139/100g",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
   ],
   "cons": [
-   "No free-from claims in listing"
+   "Marketplace brand — limited track record"
   ],
   "scores": {
-   "trust": 5.7,
-   "skin": 4,
-   "ingredients": 5.8,
+   "trust": 4.4,
+   "skin": 5.3,
+   "ingredients": 5.9,
    "experience": 4.9
   },
   "fullSpec": {
-   "quantity": "200 ml",
-   "pricePer100": "₹191/100ml",
-   "format": "Serum",
-   "keyIngredients": "hyaluronic acid, aloe vera (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
+   "quantity": "180 g",
+   "pricePer100": "₹139/100g",
+   "format": "Oil",
+   "keyIngredients": "aloe vera, almond, shea butter, vitamin E (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating",
    "audience": "Marketed for women",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/7/z/300-express-hydration-body-lotion-200-ml-soft-cream-100-ml-nivea-original-imahgzgffbzdkmgv.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/l/t/300-soft-light-moisturizing-cream-300-ml-nivea-lotion-original-imahggyhh7yqg3b7.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/a/m/200-gluta-hya-flawless-glow-non-sticky-serum-in-lotion-vaseline-original-imahzmgyyzyetzfd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90"
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/t/j/200-all-purpose-moisturizing-body-lotion-for-soft-smooth-skin-original-imahnr9ffyuaewkb.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/z/p/200-all-purpose-moisturizing-body-lotion-for-soft-smooth-skin-original-imahnr8hjsyuwszj.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/h/c/200-all-purpose-moisturizing-body-lotion-for-soft-smooth-skin-original-imahnr9fhf4htcpf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/l/t/200-all-purpose-moisturizing-body-lotion-for-soft-smooth-skin-original-imahnr8hjjt8r4wf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/q/w/200-all-purpose-moisturizing-body-lotion-for-soft-smooth-skin-original-imahnr8hhvkdajhw.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/nivea-express-hydration-body-lotion-200-ml-soft-cream-100/p/itm404d4a20f84e9",
+  "buyUrl": "https://www.flipkart.com/dixaan-naturals-all-purpose-moisturizing-body-lotion-soft-smooth-skin/p/itmad5d2db24a994",
   "buyStore": "Flipkart",
-  "title": "NIVEA EXPRESS HYDRATION BODY LOTION 200 ML & SOFT CREAM 100 ML (3 …",
+  "title": "DIXAAN NATURALS All Purpose Moisturizing Body Lotion for Soft & S …",
   "tags": [
    "scope:body",
+   "format:gel",
    "format:cream",
    "format:lotion",
-   "format:serum",
+   "format:oil",
+   "format:balm",
    "format:kit",
-   "ing:hyaluronic-acid",
    "ing:aloe-vera",
+   "ing:almond",
+   "ing:shea-butter",
+   "ing:vitamin-e",
+   "ing:glycerin",
+   "ing:coconut",
+   "claim:oil-control",
    "claim:hydrating",
+   "claim:lightweight",
+   "free:paraben",
+   "free:derm",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
    "skin:all",
    "aud:women",
    "size:large",
@@ -32117,440 +31476,82 @@ const CTPRODUCTS = [
    "store:flipkart"
   ],
   "filters": {
-   "actives": true,
-   "freefrom": false,
+   "actives": false,
+   "freefrom": true,
    "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itmf1ae896ec7ef5",
-  "brand": "NIVEA",
-  "model": "Body Milk Deep Moisture Lotion - Dermatologist Tested, Gent …",
-  "price": 364,
-  "capacityLine": "400 ml",
-  "materialLine": "hyaluronic acid",
-  "featureLine": "Serum · ₹91/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹91/100ml",
-   "Contains evidence-backed actives (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 6.2,
-   "skin": 4.7,
-   "ingredients": 5.1,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹91/100ml",
-   "format": "Serum",
-   "keyIngredients": "hyaluronic acid (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Dermatologically tested (per listing)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/h/i/400-body-milk-deep-moisture-lotion-dermatologist-tested-gentle-original-imahhrh2ztcqkgfh.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/d/x/400-body-milk-deep-moisture-lotion-healthy-glow-with-gentle-on-original-imahhrhftb7ttfpy.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/6/t/400-body-milk-deep-moisture-lotion-vitamin-e-care-skin-repair-original-imahhrhfdypzgy8g.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/n/u/400-body-milk-deep-moisture-lotion-vitamin-e-care-skin-repair-original-imahhrhfhdq35q98.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/d/c/400-body-milk-deep-moisture-lotion-vitamin-e-care-skin-repair-original-imahhrh2fhnbzhpg.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-body-milk-deep-moisture-lotion-dermatologist-tested-gentle-skin/p/itmf1ae896ec7ef5",
-  "buyStore": "Flipkart",
-  "title": "NIVEA Body Milk Deep Moisture Lotion - Dermatologist Tested, Gent …",
-  "tags": [
-   "scope:both",
-   "format:lotion",
-   "format:serum",
-   "format:oil",
-   "format:kit",
-   "ing:hyaluronic-acid",
-   "ing:cocoa-butter",
-   "ing:coconut",
-   "ing:milk",
-   "claim:hydrating",
-   "free:derm",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
    "derm": true,
    "men": false,
    "women": true
   }
  },
  {
-  "id": "nivea-itmd9ec12899208e",
-  "brand": "NIVEA",
-  "model": "Body Milk Deep Moisture Lotion - Vitamin E Care, Non Greasy …",
-  "price": 362,
-  "capacityLine": "400 ml",
-  "materialLine": "hyaluronic acid + vitamin E",
-  "featureLine": "Serum · ₹91/100ml",
+  "id": "beleza-professional-itm91fb69569846f",
+  "brand": "Beleza professional",
+  "model": "ENGLISH ROSE BODY LOTION (300 ml)",
+  "price": 154,
+  "capacityLine": "300 ml",
+  "materialLine": "aloe vera + rose",
+  "featureLine": "Essence · Paraben-free · ₹51/100ml",
   "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [
-   "Good value: ₹91/100ml",
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 5.7,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹91/100ml",
-   "format": "Serum",
-   "keyIngredients": "hyaluronic acid, vitamin E (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/e/p/400-body-milk-deep-moisture-lotion-vitamin-e-care-non-greasy-original-imahhrhfw2d8nmjg.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/d/x/400-body-milk-deep-moisture-lotion-healthy-glow-with-gentle-on-original-imahhrhftb7ttfpy.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/6/t/400-body-milk-deep-moisture-lotion-vitamin-e-care-skin-repair-original-imahhrhfdypzgy8g.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/n/u/400-body-milk-deep-moisture-lotion-vitamin-e-care-skin-repair-original-imahhrhfhdq35q98.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/d/c/400-body-milk-deep-moisture-lotion-vitamin-e-care-skin-repair-original-imahhrh2fhnbzhpg.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-body-milk-deep-moisture-lotion-vitamin-e-care-non-greasy-texture/p/itmd9ec12899208e",
-  "buyStore": "Flipkart",
-  "title": "NIVEA Body Milk Deep Moisture Lotion - Vitamin E Care, Non Greasy …",
-  "tags": [
-   "scope:both",
-   "format:lotion",
-   "format:serum",
-   "format:oil",
-   "format:kit",
-   "ing:hyaluronic-acid",
-   "ing:cocoa-butter",
-   "ing:vitamin-e",
-   "ing:coconut",
-   "ing:milk",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itm2045a91f8b4e1",
-  "brand": "NIVEA",
-  "model": "Body Milk Deep Moisture Lotion | Gentle on Skin - Fast Abso …",
-  "price": 364,
-  "capacityLine": "400 ml",
-  "materialLine": "hyaluronic acid",
-  "featureLine": "Serum · ₹91/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹91/100ml",
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 5.7,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹91/100ml",
-   "format": "Serum",
-   "keyIngredients": "hyaluronic acid (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/e/w/400-body-milk-deep-moisture-lotion-gentle-on-skin-fast-original-imahhrhf8gb5nyt3.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/d/x/400-body-milk-deep-moisture-lotion-healthy-glow-with-gentle-on-original-imahhrhftb7ttfpy.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/6/t/400-body-milk-deep-moisture-lotion-vitamin-e-care-skin-repair-original-imahhrhfdypzgy8g.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/n/u/400-body-milk-deep-moisture-lotion-vitamin-e-care-skin-repair-original-imahhrhfhdq35q98.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/d/c/400-body-milk-deep-moisture-lotion-vitamin-e-care-skin-repair-original-imahhrh2fhnbzhpg.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-body-milk-deep-moisture-lotion-gentle-skin-fast-absorption/p/itm2045a91f8b4e1",
-  "buyStore": "Flipkart",
-  "title": "NIVEA Body Milk Deep Moisture Lotion | Gentle on Skin - Fast Abso …",
-  "tags": [
-   "scope:both",
-   "format:lotion",
-   "format:serum",
-   "format:oil",
-   "format:kit",
-   "ing:hyaluronic-acid",
-   "ing:cocoa-butter",
-   "ing:coconut",
-   "ing:milk",
-   "claim:hydrating",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itm53e4babe344a4",
-  "brand": "NIVEA",
-  "model": "Body Milk Deep Moisture Lotion | Gentle on Skin, Enriched w …",
-  "price": 367,
-  "capacityLine": "400 ml",
-  "materialLine": "hyaluronic acid + almond",
-  "featureLine": "Serum · ₹92/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹92/100ml",
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 5.7,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹92/100ml",
-   "format": "Serum",
-   "keyIngredients": "hyaluronic acid, almond (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/4/d/400-body-milk-deep-moisture-lotion-gentle-on-skin-enriched-with-original-imahhrh28vd7p49a.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/d/x/400-body-milk-deep-moisture-lotion-healthy-glow-with-gentle-on-original-imahhrhftb7ttfpy.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/6/t/400-body-milk-deep-moisture-lotion-vitamin-e-care-skin-repair-original-imahhrhfdypzgy8g.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/n/u/400-body-milk-deep-moisture-lotion-vitamin-e-care-skin-repair-original-imahhrhfhdq35q98.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/d/c/400-body-milk-deep-moisture-lotion-vitamin-e-care-skin-repair-original-imahhrh2fhnbzhpg.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-body-milk-deep-moisture-lotion-gentle-skin-enriched-almond-oil/p/itm53e4babe344a4",
-  "buyStore": "Flipkart",
-  "title": "NIVEA Body Milk Deep Moisture Lotion | Gentle on Skin, Enriched w …",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:lotion",
-   "format:serum",
-   "format:oil",
-   "format:kit",
-   "ing:hyaluronic-acid",
-   "ing:almond",
-   "ing:cocoa-butter",
-   "ing:coconut",
-   "ing:milk",
-   "claim:hydrating",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itm1fab9ab64f092",
-  "brand": "NIVEA",
-  "model": "Aloe Hydration Body lotion Pack of 1 400 ml Men and Women ( …",
-  "price": 382,
-  "capacityLine": "400 ml",
-  "materialLine": "aloe vera",
-  "featureLine": "Lotion · ₹96/100ml",
-  "highlight": "Live Flipkart listing rated 4.4★ by 33 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹96/100ml",
-   "Strong buyer rating (4.4)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 6.6,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹96/100ml",
-   "format": "Lotion",
-   "keyIngredients": "aloe vera (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "4.4/5 (33 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/km57hjk0/moisturizer-cream/v/g/j/400-aloe-hydration-body-lotion-pack-of-1-400-ml-men-and-women-original-imagf42kwggtywpp.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/r/n/400-aloe-hydration-body-lotion-deep-moisture-400ml-set-of-1-original-imagpt9mtzawub9f.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/q/e/-original-imahm2vw3auvepf5.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/l/y/f/400-nourishing-lotion-body-milk-400ml-lotion-nivea-original-imahec29cqzfaueq.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-aloe-hydration-body-lotion-pack-1-400-ml-men-women/p/itm1fab9ab64f092",
-  "buyStore": "Flipkart",
-  "title": "NIVEA Aloe Hydration Body lotion Pack of 1 400 ml Men and Women ( …",
-  "tags": [
-   "scope:both",
-   "format:lotion",
-   "format:kit",
-   "ing:aloe-vera",
-   "claim:hydrating",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:4.0",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itmad2c84a6bd2a7",
-  "brand": "NIVEA",
-  "model": "nourishing body milk 75 ml each Pack of 3 (225 ml)",
-  "price": 200,
-  "capacityLine": "225 ml (pack of 3)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · Paraben-free · ₹89/100ml",
-  "highlight": "Live Flipkart listing rated 3.7★ by 3 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹89/100ml",
+   "Good value: ₹51/100ml",
    "Paraben-free (per listing)"
   ],
   "cons": [
-   "Mixed buyer rating (3.7)"
+   "Marketplace brand — limited track record"
   ],
   "scores": {
-   "trust": 5.6,
+   "trust": 3.9,
    "skin": 4.6,
-   "ingredients": 4.5,
-   "experience": 4.6
+   "ingredients": 5.1,
+   "experience": 5.2
   },
   "fullSpec": {
-   "quantity": "75 ml × 3 pack",
-   "pricePer100": "₹89/100ml",
-   "format": "Lotion",
-   "keyIngredients": "Not stated in listing",
+   "quantity": "300 ml",
+   "pricePer100": "₹51/100ml",
+   "format": "Essence",
+   "keyIngredients": "aloe vera, rose (per listing)",
    "freeFrom": "Paraben-free (per listing)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
+   "benefit": "Hydrating, Brightening/glow claim",
    "audience": "Marketed for women",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "3.7/5 (3 ratings, Flipkart)",
+   "skinType": "Dry Skin, Oily Skin, Normal Skin, Sensitive Skin, Combination Skin, All Skin Types",
+   "rating": "No rating yet",
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/c/m/225-nourishing-body-milk-75-ml-each-pack-of-3-nivea-lotion-original-imah7hkcprfnupv8.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/l4d2ljk0/shopsy-moisturizer-cream/5/x/k/body-lotion-for-very-dry-skin-nourishing-body-milk-200-ml-pack-original-imagf9uuqfp2pvmf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/d/5/300-body-milk-lotion-50ml-set-of-6-nivea-lotion-original-imahzqnnzhfwk3hv.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/d/h/-enriched-transparent-original-imahdh7jdgr54et4.png?q=90"
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/4/f/300-english-rose-body-lotion-beleza-professional-lotion-original-imaggg8uhrg4brch.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/x/n/300-english-rose-body-lotion-beleza-professional-lotion-original-imaghrxq8tcp3srr.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/z/n/300-english-rose-body-lotion-beleza-professional-lotion-original-imaghrxqqtgyaztb.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/n/l/300-english-rose-body-lotion-beleza-professional-lotion-original-imaghrxqg2ekamgz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/g/k/300-english-rose-body-lotion-beleza-professional-lotion-original-imaghrxqwrrwx7hs.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/nivea-nourishing-body-milk-75-ml-each-pack-3/p/itmad2c84a6bd2a7",
+  "buyUrl": "https://www.flipkart.com/beleza-professional-english-rose-body-lotion/p/itm91fb69569846f",
   "buyStore": "Flipkart",
-  "title": "NIVEA nourishing body milk 75 ml each Pack of 3 (225 ml)",
+  "title": "Beleza professional ENGLISH ROSE BODY LOTION (300 ml)",
   "tags": [
    "scope:both",
+   "format:gel",
    "format:lotion",
-   "format:kit",
-   "ing:milk",
+   "format:essence",
+   "ing:aloe-vera",
+   "ing:rose",
+   "claim:brightening",
+   "claim:oil-control",
    "claim:hydrating",
    "free:paraben",
-   "free:vegan",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
    "skin:all",
    "aud:women",
-   "size:large",
-   "rating:3.5",
+   "size:xl",
+   "rating:none",
    "store:flipkart"
   ],
   "filters": {
@@ -32563,193 +31564,240 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "sarbeau-itme2a0d4a885cfc",
-  "brand": "Sarbeau",
-  "model": "Magnesium Body Lotion for Daily Wellness Fast Absorbing F …",
-  "price": 487,
-  "capacityLine": "50 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · ₹974/100g",
+  "id": "sensova-itm2731f0c5d4155",
+  "brand": "sensova",
+  "model": "Nourishing Body Lotion – Deep Hydration & Soft Skin Care …",
+  "price": 337,
+  "capacityLine": "200 ml",
+  "materialLine": "niacinamide + ceramides + alpha arbutin",
+  "featureLine": "Oil · Paraben-free · ₹169/100ml",
   "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [],
+  "pros": [
+   "Good value: ₹169/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
   "cons": [
-   "No free-from claims in listing",
    "Marketplace brand — limited track record"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.6
+   "trust": 4.4,
+   "skin": 5.3,
+   "ingredients": 7.2,
+   "experience": 5.2
   },
   "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹974/100g",
-   "format": "Lotion",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
+   "quantity": "200 ml",
+   "pricePer100": "₹169/100ml",
+   "format": "Oil",
+   "keyIngredients": "niacinamide, ceramides, alpha arbutin, almond, shea butter (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
+   "benefit": "Hydrating, Brightening/glow claim",
    "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/r/f/250-magnesium-body-lotion-for-daily-wellness-fast-absorbing-original-imahnzcrj2ugjswt.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/b/j/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpugx7ffce.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/v/y/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpvwafmwzz.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/f/u/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpumvj6uaf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/v/v/100-max-intensive-moisturising-cream-unisvet-cream-original-imaherm5yqjr8wgh.jpeg?q=90"
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/o/w/200-nourishing-body-lotion-deep-hydration-soft-skin-care-sensova-original-imahzeq8ncafgt6w.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/s/t/200-nourishing-body-lotion-deep-hydration-soft-skin-care-sensova-original-imahhvjnhkqbfpzm.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/p/n/200-nourishing-body-lotion-deep-hydration-soft-skin-care-sensova-original-imahzeq8mkvqnt6t.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/x/k/200-nourishing-body-lotion-deep-hydration-soft-skin-care-sensova-original-imahzeq8cfueg6tx.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/d/5/200-nourishing-body-lotion-deep-hydration-soft-skin-care-sensova-original-imahzeq8app9dqxd.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/sarbeau-magnesium-body-lotion-daily-wellness-fast-absorbing-formula-0800/p/itme2a0d4a885cfc",
+  "buyUrl": "https://www.flipkart.com/sensova-nourishing-body-lotion-deep-hydration-soft-skin-care/p/itm2731f0c5d4155",
   "buyStore": "Flipkart",
-  "title": "Sarbeau Magnesium Body Lotion for Daily Wellness Fast Absorbing F …",
+  "title": "sensova Nourishing Body Lotion – Deep Hydration & Soft Skin Care …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:oil",
+   "format:balm",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:ceramides",
+   "ing:alpha-arbutin",
+   "ing:almond",
+   "ing:shea-butter",
+   "ing:cocoa-butter",
+   "ing:allantoin",
+   "ing:milk",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "eclavia-itm209bb2863b996",
+  "brand": "ECLAVIA",
+  "model": "Body Butter Lotion – Deep Moisturizing, Nourishing & Non- …",
+  "price": 349,
+  "capacityLine": "400 ml (pack of 2)",
+  "materialLine": "niacinamide",
+  "featureLine": "Balm / butter · Paraben-free · ₹87/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹87/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 5.3,
+   "ingredients": 5.4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml × 2 pack",
+   "pricePer100": "₹87/100ml",
+   "format": "Balm / butter",
+   "keyIngredients": "niacinamide (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/q/i/200-body-butter-lotion-deep-moisturizing-nourishing-non-sticky-original-imahjyzgsgwcpag7.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/b/w/200-body-butter-lotion-deep-moisturizing-nourishing-non-sticky-original-imahjyzgrphfrmhg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/t/h/200-body-butter-lotion-deep-moisturizing-nourishing-non-sticky-original-imahjyzgw8dw8dxf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/c/n/200-body-butter-lotion-deep-moisturizing-nourishing-non-sticky-original-imahjyzgzrcvfheh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/v/g/200-body-butter-lotion-deep-moisturizing-nourishing-non-sticky-original-imahjyzgffxqhbth.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/eclavia-body-butter-lotion-deep-moisturizing-nourishing-non-sticky-formula/p/itm209bb2863b996",
+  "buyStore": "Flipkart",
+  "title": "ECLAVIA Body Butter Lotion – Deep Moisturizing, Nourishing & Non- …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:balm",
+   "format:kit",
+   "ing:niacinamide",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "free:paraben",
+   "free:derm",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "park-daniel-herbals-itmd6f234a156fcf",
+  "brand": "PARK DANIEL HERBALS",
+  "model": "Cherry Blossom Body Lotion 200ml Daily Skin B …",
+  "price": 69,
+  "capacityLine": "200 ml",
+  "materialLine": "aloe vera + almond",
+  "featureLine": "Oil · Paraben-free · ₹35/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹35/100ml",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 5.3,
+   "ingredients": 5.1,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹35/100ml",
+   "format": "Oil",
+   "keyIngredients": "aloe vera, almond (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/f/i/200-0-cherry-blossom-body-lotion-200ml-daily-skin-brightening-original-imahgzvzm6gvkkg2.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/e/l/200-0-cherry-blossom-body-lotion-200ml-daily-skin-brightening-original-imahgzvze2k4xn83.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/r/k/400-0-cherry-blossom-body-lotion-200ml-x-2-daily-skin-original-imahgzvzmuce3y8z.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/9/m/600-0-cherry-blossom-body-lotion-200ml-x-3-daily-skin-original-imahgzvz5enhey2h.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/9/y/600-0-cherry-blossom-body-lotion-200ml-x-3-daily-skin-original-imahgzvzhshfwvu8.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/park-daniel-herbals-cherry-blossom-body-lotion-200ml-daily-skin-brightening-sakura-moisturizer/p/itmd6f234a156fcf",
+  "buyStore": "Flipkart",
+  "title": "PARK DANIEL HERBALS Cherry Blossom Body Lotion 200ml Daily Skin B …",
   "tags": [
    "scope:both",
    "format:gel",
    "format:cream",
    "format:lotion",
+   "format:oil",
    "format:kit",
-   "ing:beetroot",
+   "ing:aloe-vera",
+   "ing:almond",
+   "ing:cherry-acerola",
+   "claim:brightening",
+   "claim:oil-control",
    "claim:hydrating",
-   "claim:lightweight",
-   "skin:all",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "sarbeau-itm6fd3dc5dfda80",
-  "brand": "Sarbeau",
-  "model": "Magnesium Body Lotion for Night Recovery Refreshing Body …",
-  "price": 440,
-  "capacityLine": "50 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · ₹880/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [],
-  "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹880/100g",
-   "format": "Lotion",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/h/k/250-magnesium-body-lotion-for-night-recovery-refreshing-body-original-imahnzcrpzqzrpky.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/v/y/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpvwafmwzz.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/b/j/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpugx7ffce.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/f/u/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpumvj6uaf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/a/f/275-niacinamide-soft-glowing-skin-non-sticky-nourishing-lotion-original-imagwmks2q6ebuxq.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/sarbeau-magnesium-body-lotion-night-recovery-refreshing-care-1155/p/itm6fd3dc5dfda80",
-  "buyStore": "Flipkart",
-  "title": "Sarbeau Magnesium Body Lotion for Night Recovery Refreshing Body …",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:lotion",
-   "format:kit",
-   "claim:hydrating",
+   "claim:ayurvedic",
+   "free:paraben",
+   "free:derm",
+   "free:sensitive-safe",
+   "skin:oily",
    "skin:dry",
-   "skin:all",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "sarbeau-itm55ba4b2d31dd9",
-  "brand": "Sarbeau",
-  "model": "Magnesium Body Lotion for Daily Wellness Refreshing Body …",
-  "price": 440,
-  "capacityLine": "250 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · ₹176/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹176/100ml"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "250 ml",
-   "pricePer100": "₹176/100ml",
-   "format": "Lotion",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/h/a/250-magnesium-body-lotion-for-daily-wellness-refreshing-body-original-imahnzcsuhfgt9ma.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/f/u/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpumvj6uaf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/v/y/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpvwafmwzz.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/b/j/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpugx7ffce.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/a/w/200-olesoft-max-lotion-auralife-lotion-original-imahhkz3vz9fn5jv.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/sarbeau-magnesium-body-lotion-daily-wellness-refreshing-care-0831/p/itm55ba4b2d31dd9",
-  "buyStore": "Flipkart",
-  "title": "Sarbeau Magnesium Body Lotion for Daily Wellness Refreshing Body …",
-  "tags": [
-   "scope:both",
-   "format:lotion",
-   "format:kit",
-   "claim:hydrating",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
    "skin:all",
    "aud:women",
    "size:large",
@@ -32758,447 +31806,290 @@ const CTPRODUCTS = [
   ],
   "filters": {
    "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
    "men": false,
    "women": true
   }
  },
  {
-  "id": "sarbeau-itm9fbc98e4e07fe",
-  "brand": "Sarbeau",
-  "model": "Magnesium Body Lotion for Night Recovery Non Sticky Hydra …",
-  "price": 440,
-  "capacityLine": "250 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · ₹176/100ml",
+  "id": "edith-naturals-itmfbf88494ab3ba",
+  "brand": "EDITH NATURALS",
+  "model": "Honey & Almonds Advanced Nourishing Body Lotion (2 …",
+  "price": 126,
+  "capacityLine": "200 ml",
+  "materialLine": "rose + honey + almond",
+  "featureLine": "Lotion · Paraben-free · ₹63/100ml",
   "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [
-   "Good value: ₹176/100ml"
+   "Good value: ₹63/100ml",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
   ],
   "cons": [
-   "No free-from claims in listing",
    "Marketplace brand — limited track record"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "250 ml",
-   "pricePer100": "₹176/100ml",
-   "format": "Lotion",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/f/e/250-magnesium-body-lotion-for-night-recovery-non-sticky-original-imahnzcrfctzcsuz.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/f/u/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpumvj6uaf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/b/j/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpugx7ffce.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/v/y/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpvwafmwzz.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/t/g/1000-0-opal-moisturizing-body-lotion-for-moisture-nourishment-original-imahfg3jhnprggpy.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/sarbeau-magnesium-body-lotion-night-recovery-non-sticky-hydration-0860/p/itm9fbc98e4e07fe",
-  "buyStore": "Flipkart",
-  "title": "Sarbeau Magnesium Body Lotion for Night Recovery Non Sticky Hydra …",
-  "tags": [
-   "scope:both",
-   "format:lotion",
-   "format:kit",
-   "claim:oil-control",
-   "claim:hydrating",
-   "skin:all",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "sarbeau-itmb4bb7a4932638",
-  "brand": "Sarbeau",
-  "model": "Magnesium Body Lotion for Relaxing Routine Non Sticky Hyd …",
-  "price": 440,
-  "capacityLine": "50 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · ₹880/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [],
-  "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹880/100g",
-   "format": "Lotion",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/x/w/250-magnesium-body-lotion-for-relaxing-routine-non-sticky-original-imahnzcs2dpgyanh.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/v/y/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpvwafmwzz.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/f/u/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpumvj6uaf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/b/j/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpugx7ffce.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/v/v/100-max-intensive-moisturising-cream-unisvet-cream-original-imaherm5yqjr8wgh.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/sarbeau-magnesium-body-lotion-relaxing-routine-non-sticky-hydration-1249/p/itmb4bb7a4932638",
-  "buyStore": "Flipkart",
-  "title": "Sarbeau Magnesium Body Lotion for Relaxing Routine Non Sticky Hyd …",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:lotion",
-   "format:kit",
-   "claim:oil-control",
-   "claim:hydrating",
-   "skin:all",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "sarbeau-itm7ac08eafc03e4",
-  "brand": "Sarbeau",
-  "model": "Magnesium Body Lotion for Relaxing Routine Refreshing Bod …",
-  "price": 440,
-  "capacityLine": "250 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · ₹176/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹176/100ml"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "250 ml",
-   "pricePer100": "₹176/100ml",
-   "format": "Lotion",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/5/v/250-magnesium-body-lotion-for-relaxing-routine-refreshing-body-original-imahnzcshr4zqyxq.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/v/y/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpvwafmwzz.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/f/u/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpumvj6uaf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/b/j/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpugx7ffce.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/a/w/200-olesoft-max-lotion-auralife-lotion-original-imahhkz3vz9fn5jv.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/sarbeau-magnesium-body-lotion-relaxing-routine-refreshing-care-0507/p/itm7ac08eafc03e4",
-  "buyStore": "Flipkart",
-  "title": "Sarbeau Magnesium Body Lotion for Relaxing Routine Refreshing Bod …",
-  "tags": [
-   "scope:both",
-   "format:lotion",
-   "format:kit",
-   "claim:hydrating",
-   "skin:all",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "sarbeau-itm5f696f74bf264",
-  "brand": "Sarbeau",
-  "model": "Magnesium Body Lotion for Daily Wellness Fast Absorbing F …",
-  "price": 440,
-  "capacityLine": "50 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · ₹880/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [],
-  "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹880/100g",
-   "format": "Lotion",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/g/6/250-magnesium-body-lotion-for-daily-wellness-fast-absorbing-original-imahnzcq5tgkcuns.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/b/j/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpugx7ffce.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/f/u/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpumvj6uaf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/v/y/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpvwafmwzz.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/a/f/275-niacinamide-soft-glowing-skin-non-sticky-nourishing-lotion-original-imagwmks2q6ebuxq.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/sarbeau-magnesium-body-lotion-daily-wellness-fast-absorbing-formula-0627/p/itm5f696f74bf264",
-  "buyStore": "Flipkart",
-  "title": "Sarbeau Magnesium Body Lotion for Daily Wellness Fast Absorbing F …",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:lotion",
-   "format:kit",
-   "claim:hydrating",
-   "claim:lightweight",
-   "skin:all",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "sarbeau-itm261bd1d78b1ac",
-  "brand": "Sarbeau",
-  "model": "Magnesium Body Lotion for Tired Skin Care Smooth Skin Sup …",
-  "price": 440,
-  "capacityLine": "250 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · ₹176/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹176/100ml"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "250 ml",
-   "pricePer100": "₹176/100ml",
-   "format": "Lotion",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/k/y/250-magnesium-body-lotion-for-tired-skin-care-smooth-skin-original-imahnzcqjungp4uw.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/v/y/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpvwafmwzz.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/f/u/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpumvj6uaf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/b/j/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpugx7ffce.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/a/w/200-olesoft-max-lotion-auralife-lotion-original-imahhkz3vz9fn5jv.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/sarbeau-magnesium-body-lotion-tired-skin-care-smooth-support-0600/p/itm261bd1d78b1ac",
-  "buyStore": "Flipkart",
-  "title": "Sarbeau Magnesium Body Lotion for Tired Skin Care Smooth Skin Sup …",
-  "tags": [
-   "scope:both",
-   "format:lotion",
-   "format:kit",
-   "claim:hydrating",
-   "skin:all",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "sarbeau-itm1119e42017e62",
-  "brand": "Sarbeau",
-  "model": "Magnesium Body Lotion for Post Workout Care Refreshing Bo …",
-  "price": 440,
-  "capacityLine": "250 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · ₹176/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹176/100ml"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "250 ml",
-   "pricePer100": "₹176/100ml",
-   "format": "Lotion",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/t/1/250-magnesium-body-lotion-for-post-workout-care-refreshing-body-original-imahnzcs46kewkqz.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/b/j/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpugx7ffce.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/v/y/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpvwafmwzz.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/f/u/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpumvj6uaf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/t/g/1000-0-opal-moisturizing-body-lotion-for-moisture-nourishment-original-imahfg3jhnprggpy.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/sarbeau-magnesium-body-lotion-post-workout-care-refreshing-0208/p/itm1119e42017e62",
-  "buyStore": "Flipkart",
-  "title": "Sarbeau Magnesium Body Lotion for Post Workout Care Refreshing Bo …",
-  "tags": [
-   "scope:both",
-   "format:lotion",
-   "format:kit",
-   "claim:hydrating",
-   "skin:all",
-   "aud:women",
-   "size:large",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "sarbeau-itm4e0bc226e633a",
-  "brand": "Sarbeau",
-  "model": "Magnesium Body Lotion for Post Workout Care Gentle Moistu …",
-  "price": 440,
-  "capacityLine": "50 g",
-  "materialLine": "niacinamide",
-  "featureLine": "Lotion · ₹880/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.1,
+   "trust": 4.4,
+   "skin": 5.3,
+   "ingredients": 5.7,
    "experience": 4.9
   },
   "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹880/100g",
+   "quantity": "200 ml",
+   "pricePer100": "₹63/100ml",
    "format": "Lotion",
-   "keyIngredients": "niacinamide (per listing)",
-   "freeFrom": "Not stated in listing",
+   "keyIngredients": "rose, honey, almond (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Dry Skin, Oily Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/o/4/200-honey-almonds-advanced-nourishing-body-lotion-edith-naturals-original-imahg4nctv6uwhjh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/6/e/d/200-moisturizing-honey-almond-body-lotion-for-deep-hydration-original-imahgfnh6bz77q77.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/3/p/w/200-moisturizing-honey-almond-body-lotion-for-deep-hydration-original-imahgfnhdj3uxjcf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/p/z/d/200-moisturizing-honey-almond-body-lotion-for-deep-hydration-original-imahgfnhrhukh9af.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/1/r/500-kesar-milky-advanced-moisturizing-hydrating-body-lotion-original-imahhph3zzwnwnnh.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/edith-naturals-honey-almonds-advanced-nourishing-body-lotion/p/itmfbf88494ab3ba",
+  "buyStore": "Flipkart",
+  "title": "EDITH NATURALS Honey & Almonds Advanced Nourishing Body Lotion (2 …",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "ing:rose",
+   "ing:honey",
+   "ing:almond",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:ayurvedic",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "free:toxin-free",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:sensitive",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "edith-naturals-itm3cff93b8a3266",
+  "brand": "EDITH NATURALS",
+  "model": "Nourishing Honey & Almond Body Lotion (400 ml)",
+  "price": 160,
+  "capacityLine": "400 ml",
+  "materialLine": "aloe vera + honey + almond",
+  "featureLine": "Oil · Paraben-free · ₹40/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹40/100ml",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 5.8,
+   "ingredients": 6.5,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹40/100ml",
+   "format": "Oil",
+   "keyIngredients": "aloe vera, honey, almond, shea butter, vitamin E (per listing)",
+   "freeFrom": "Paraben-free, Sulfate/SLS-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Dry Skin, Normal Skin, Sensitive Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/c/x/400-nourishing-honey-almond-body-lotion-edith-naturals-lotion-original-imahjhkhgvqsdhyw.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/c/y/8/200-moisturizing-honey-almond-body-lotion-for-deep-hydration-original-imahgpxr6vzuggqy.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/3/v/400-nourishing-honey-almond-body-lotion-edith-naturals-lotion-original-imahjhkhpyyggjaq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/y/w/400-nourishing-honey-almond-body-lotion-edith-naturals-lotion-original-imahjhkhggsyjght.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/s/i/400-nourishing-honey-almond-body-lotion-edith-naturals-lotion-original-imahjhkhhefjuqgq.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/edith-naturals-nourishing-honey-almond-body-lotion/p/itm3cff93b8a3266",
+  "buyStore": "Flipkart",
+  "title": "EDITH NATURALS Nourishing Honey & Almond Body Lotion (400 ml)",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:oil",
+   "format:balm",
+   "format:kit",
+   "ing:aloe-vera",
+   "ing:honey",
+   "ing:almond",
+   "ing:shea-butter",
+   "ing:cocoa-butter",
+   "ing:vitamin-e",
+   "ing:glycerin",
+   "claim:hydrating",
+   "claim:lightweight",
+   "free:paraben",
+   "free:sulfate",
+   "free:derm",
+   "free:vegan",
+   "free:sensitive-safe",
+   "skin:dry",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "voila-age-well-itm9054245a52438",
+  "brand": "Voila age well",
+  "model": "Skin Repair & Renew Body Lotion (280 ml)",
+  "price": 254,
+  "capacityLine": "280 ml",
+  "materialLine": "vitamin C",
+  "featureLine": "Lotion · Paraben-free · ₹91/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹91/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4.6,
+   "ingredients": 5.4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "280 ml",
+   "pricePer100": "₹91/100ml",
+   "format": "Lotion",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Dry Skin, Sensitive Skin, Combination Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/1/3/280-skin-repair-renew-body-lotion-voila-age-well-lotion-original-imahhk83ydgzbgvs.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/t/v/280-skin-repair-renew-body-lotion-voila-age-well-lotion-original-imahhk83ukh8wpnz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/y/c/280-skin-repair-renew-body-lotion-voila-age-well-lotion-original-imahhk83xzngpjfx.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/o/q/280-skin-repair-renew-body-lotion-voila-age-well-lotion-original-imahhk83bhgxprms.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/i/k/280-skin-repair-renew-body-lotion-voila-age-well-lotion-original-imahhk83c4ncv3e2.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/voila-age-well-skin-repair-renew-body-lotion/p/itm9054245a52438",
+  "buyStore": "Flipkart",
+  "title": "Voila age well Skin Repair & Renew Body Lotion (280 ml)",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:lotion",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:ayurvedic",
+   "free:paraben",
+   "free:sensitive-safe",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "orchid-natures-itmb68642dc5fc7a",
+  "brand": "orchid natures",
+  "model": "Shea Nourishing Body Lotion (100 g)",
+  "price": 437,
+  "capacityLine": "100 g",
+  "materialLine": "almond + shea butter",
+  "featureLine": "Oil · Paraben-free · ₹437/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 5.3,
+   "ingredients": 4.8,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹437/100g",
+   "format": "Oil",
+   "keyIngredients": "almond, shea butter (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
    "audience": "Marketed for women",
    "naturalClaim": "Not stated in listing",
    "skinType": "All Skin Types",
@@ -33206,27 +32097,735 @@ const CTPRODUCTS = [
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/m/t/250-magnesium-body-lotion-for-post-workout-care-gentle-moisture-original-imahnzcq3cg7kmjf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/b/j/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpugx7ffce.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/v/y/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpvwafmwzz.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/f/u/250-magnesium-skin-comfort-lotion-for-tired-skin-care-refreshing-original-imahnzcpumvj6uaf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/t/g/1000-0-opal-moisturizing-body-lotion-for-moisture-nourishment-original-imahfg3jhnprggpy.jpeg?q=90"
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/e/1/100-cocoa-butter-body-lotion-orchidnatures-lotion-original-imahpf5pqgdf4cuy.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/t/g/1000-0-opal-moisturizing-body-lotion-for-moisture-nourishment-original-imahfg3jhnprggpy.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/j/y/600-cocoa-butter-intensive-body-lotion-400ml-200ml-himalaya-original-imah3zn8ggcnyyfs.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/i/e/50-quick-action-anti-fungal-cream-for-dry-itchy-skin-care-with-original-imahnt3pz2geg3fx.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/e/3/400-healthy-bright-daily-brightening-serum-in-lotion-body-lotion-original-imahyh76udgfjdbd.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/sarbeau-magnesium-body-lotion-post-workout-care-gentle-moisture-blend-0178/p/itm4e0bc226e633a",
+  "buyUrl": "https://www.flipkart.com/orchid-natures-shea-nourishing-body-lotion/p/itmb68642dc5fc7a",
   "buyStore": "Flipkart",
-  "title": "Sarbeau Magnesium Body Lotion for Post Workout Care Gentle Moistu …",
+  "title": "orchid natures Shea Nourishing Body Lotion (100 g)",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:lotion",
+   "format:oil",
+   "format:balm",
+   "format:kit",
+   "ing:almond",
+   "ing:shea-butter",
+   "ing:cocoa-butter",
+   "claim:hydrating",
+   "free:paraben",
+   "free:derm",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "zobha-itme0ce4f4d41ed8",
+  "brand": "Zobha",
+  "model": "Brightening Body Lotion with Wheat Germ & Fruit Extract (10 …",
+  "price": 401,
+  "capacityLine": "200 ml (pack of 2)",
+  "materialLine": "niacinamide",
+  "featureLine": "Lotion · Paraben-free · ₹201/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹201/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 5.3,
+   "ingredients": 5.6,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "100 ml × 2 pack",
+   "pricePer100": "₹201/100ml",
+   "format": "Lotion",
+   "keyIngredients": "niacinamide (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/b/n/100-brightening-body-lotion-with-wheat-germ-fruit-extract-zobha-original-imahe5hxs6fc7azq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/x/u/100-brightening-body-lotion-with-wheat-germ-fruit-extract-zobha-original-imahe5hxdzneg42c.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/b/n/100-brightening-body-lotion-with-wheat-germ-fruit-extract-zobha-original-imahe5hxfyvz7gca.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/y/t/100-brightening-body-lotion-with-wheat-germ-fruit-extract-zobha-original-imahe5hxhvghffvn.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/o/x/100-brightening-body-lotion-with-wheat-germ-fruit-extract-zobha-original-imahe5hxjkuvyyxz.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/zobha-brightening-body-lotion-wheat-germ-fruit-extract/p/itme0ce4f4d41ed8",
+  "buyStore": "Flipkart",
+  "title": "Zobha Brightening Body Lotion with Wheat Germ & Fruit Extract (10 …",
   "tags": [
    "scope:both",
    "format:cream",
    "format:lotion",
    "format:kit",
    "ing:niacinamide",
+   "ing:glycerin",
    "claim:brightening",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:lightweight",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
    "skin:all",
    "aud:women",
-   "size:travel",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "moolveda-itmb1fa0afedcd86",
+  "brand": "moolveda",
+  "model": "Nourish & Glow Body Lotion | Deep Moisturizing Skin Care …",
+  "price": 315,
+  "capacityLine": "100 g",
+  "materialLine": "turmeric + saffron + ubtan",
+  "featureLine": "Lotion · Paraben-free · ₹315/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 5.3,
+   "ingredients": 5.5,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹315/100g",
+   "format": "Lotion",
+   "keyIngredients": "turmeric, saffron, ubtan (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/z/9/250-nourish-glow-body-lotion-deep-moisturizing-skin-care-lotion-original-imahn9c8yshdrkfa.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/i/v/250-nourish-glow-body-lotion-deep-moisturizing-skin-care-lotion-original-imahn9c88zn4nbnq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/0/s/250-nourish-glow-body-lotion-deep-moisturizing-skin-care-lotion-original-imahn9c8mp5eftzh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/n/q/250-nourish-glow-body-lotion-deep-moisturizing-skin-care-lotion-original-imahn9c89ha6kq32.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/j/o/250-nourish-glow-body-lotion-deep-moisturizing-skin-care-lotion-original-imahn9c8endzjjsq.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/moolveda-nourish-glow-body-lotion-deep-moisturizing-skin-care/p/itmb1fa0afedcd86",
+  "buyStore": "Flipkart",
+  "title": "moolveda Nourish & Glow Body Lotion | Deep Moisturizing Skin Care …",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:lotion",
+   "format:kit",
+   "ing:turmeric",
+   "ing:saffron",
+   "ing:ubtan",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:lightweight",
+   "claim:ayurvedic",
+   "free:paraben",
+   "free:derm",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "silka-itm83b80f41aee96",
+  "brand": "SILKA",
+  "model": "Moisturizing Body Lotion for Soft & Glowing Skin (100 ml)",
+  "price": 703,
+  "capacityLine": "100 ml",
+  "materialLine": "aloe vera + shea butter",
+  "featureLine": "Sunscreen · SPF 23 · ₹703/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 4.7,
+   "ingredients": 4.8,
+   "experience": 5.3
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹703/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "aloe vera, shea butter (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 23",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/d/v/100-moisturizing-body-lotion-for-soft-glowing-skin-silka-lotion-original-imahzkczh24nxujg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/r/h/100-kin-brightening-moisturizing-lotion-100-ml-shea-butter-body-original-imahzkcurgaynjat.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/a/l/100-kin-brightening-moisturizing-lotion-100-ml-shea-butter-body-original-imahzkcuh76hxpsu.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/a/w/100-kin-brightening-moisturizing-lotion-100-ml-shea-butter-body-original-imahzkcutywtffsg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/r/m/100-kin-brightening-moisturizing-lotion-100-ml-shea-butter-body-original-imahzkcuykexw5xc.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/silka-moisturizing-body-lotion-soft-glowing-skin/p/itm83b80f41aee96",
+  "buyStore": "Flipkart",
+  "title": "SILKA Moisturizing Body Lotion for Soft & Glowing Skin (100 ml)",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:balm",
+   "spf:15",
+   "ing:aloe-vera",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "free:derm",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "glysolid-itm2cf745aa22f5f",
+  "brand": "Glysolid",
+  "model": "SENSITIVE (Made in Germany) Body Lotion (250 ml)",
+  "price": 894,
+  "capacityLine": "250 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · Paraben-free · ₹358/100ml",
+  "highlight": "Live Flipkart listing rated 4.3★ by 3 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.2,
+   "skin": 5.3,
+   "ingredients": 4.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "250 ml",
+   "pricePer100": "₹358/100ml",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Sensitive Skin",
+   "rating": "4.3/5 (3 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/p/o/250-sensitive-made-in-germany-body-lotion-glysolid-lotion-original-imaguhxaqyu9ayez.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/glysolid-sensitive-made-germany-body-lotion/p/itm2cf745aa22f5f",
+  "buyStore": "Flipkart",
+  "title": "Glysolid SENSITIVE (Made in Germany) Body Lotion (250 ml)",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "claim:hydrating",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "free:sensitive-safe",
+   "skin:sensitive",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "elibliss-itm325aec4c0a8f9",
+  "brand": "ELIBLISS",
+  "model": "Intense Moisture Body Lotion with Shea Butter & Vitamin …",
+  "price": 58,
+  "capacityLine": "200 g",
+  "materialLine": "shea butter + vitamin E",
+  "featureLine": "Lotion · Paraben-free · ₹29/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹29/100g",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4.6,
+   "ingredients": 5.3,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "200 g",
+   "pricePer100": "₹29/100g",
+   "format": "Lotion",
+   "keyIngredients": "shea butter, vitamin E (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/q/b/500-0-intense-moisture-body-lotion-with-shea-butter-vitamin-e-original-imahj8ygvpdmhfga.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/d/g/4/250-0-shea-butter-vitamin-e-body-lotion-for-hydrating-repair-original-imahgfzzshkzapxy.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/t/r/j/250-0-shea-butter-vitamin-e-body-lotion-for-hydrating-repair-original-imahgfzzharahecw.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/o/k/4/250-0-shea-butter-vitamin-e-body-lotion-for-hydrating-repair-original-imahgfzzdx4e3zsu.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/0/k/q/500-0-shea-butter-vitamin-e-body-lotion-for-hydrating-repair-original-imahgfzzhzxgyhfs.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/elibliss-intense-moisture-body-lotion-shea-butter-vitamin-e-dry-skin-glow/p/itm325aec4c0a8f9",
+  "buyStore": "Flipkart",
+  "title": "ELIBLISS Intense Moisture Body Lotion with Shea Butter & Vitamin …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:balm",
+   "ing:shea-butter",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:lightweight",
+   "free:paraben",
+   "free:vegan",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "caryl-itm41c56fb6eece9",
+  "brand": "CARYL",
+  "model": "Essential Nourishing Lotion - With Avocado Butter - For Glo …",
+  "price": 71,
+  "capacityLine": "200 ml",
+  "materialLine": "shea butter",
+  "featureLine": "Oil · Paraben-free · ₹36/100ml",
+  "highlight": "Live Flipkart listing rated 4.2★ by 25 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹36/100ml",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 5.3,
+   "ingredients": 4.9,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹36/100ml",
+   "format": "Oil",
+   "keyIngredients": "shea butter (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "4.2/5 (25 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/g/f/200-essential-nourishing-lotion-with-avocado-butter-for-glowing-original-imahmzafnamneguy.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/d/f/200-essential-nourishing-lotion-with-avocado-butter-for-glowing-original-imahmzafgfhyxyqg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/j/d/200-essential-nourishing-lotion-with-avocado-butter-for-glowing-original-imahmzafrrsbrfgg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/f/i/200-essential-nourishing-lotion-with-avocado-butter-for-glowing-original-imahmzaf9cyv3hsz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/l/b/200-essential-nourishing-lotion-with-avocado-butter-for-glowing-original-imahmzafuxxe2ajw.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/caryl-essential-nourishing-lotion-avocado-butter-glowing-healthy-skin/p/itm41c56fb6eece9",
+  "buyStore": "Flipkart",
+  "title": "CARYL Essential Nourishing Lotion - With Avocado Butter - For Glo …",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:lotion",
+   "format:balm",
+   "ing:shea-butter",
+   "ing:cocoa-butter",
+   "ing:avocado",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "sheny-itm4393148074d04",
+  "brand": "Sheny",
+  "model": "Body Lotion Hydrate/Winter Moisturizer & Soft Skin (200 g)",
+  "price": 125,
+  "capacityLine": "200 g",
+  "materialLine": "shea butter",
+  "featureLine": "Oil · ₹63/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹63/100g"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "200 g",
+   "pricePer100": "₹63/100g",
+   "format": "Oil",
+   "keyIngredients": "shea butter (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/w/8/200-body-lotion-hydrate-winter-moisturizer-soft-skin-sheny-original-imagupkphshwdnkq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/2/s/1-moisturizing-lotion-1000ml-opal-lotion-original-imahhhynbtygf5pn.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/u/l/100-non-greasy-intensive-care-deep-moisture-uv-protection-body-original-imahk6asnmgwguhe.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/w/h/100-aloe-vera-cold-winter-cream-for-women-and-men-hydrating-original-imahnam4bcgpheuy.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/c/o/i/60-bright-glow-vitamin-c-serum-12ml-pack-of-5-serum-nature-s-original-imahctymqhzzgwfa.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/sheny-body-lotion-hydrate-winter-moisturizer-soft-skin/p/itm4393148074d04",
+  "buyStore": "Flipkart",
+  "title": "Sheny Body Lotion Hydrate/Winter Moisturizer & Soft Skin (200 g)",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:balm",
+   "format:kit",
+   "ing:shea-butter",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "sheny-itmd95b1ee0062f3",
+  "brand": "Sheny",
+  "model": "body lotion benefit of that it instantly hydrates dry skin, …",
+  "price": 130,
+  "capacityLine": "200 g",
+  "materialLine": "retinol + aloe vera",
+  "featureLine": "Oil · ₹65/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹65/100g",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.8,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "200 g",
+   "pricePer100": "₹65/100g",
+   "format": "Oil",
+   "keyIngredients": "retinol, aloe vera (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/r/5/200-body-lotion-benefit-of-that-it-instantly-hydrates-dry-skin-original-imagupktz742uwmh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/2/i/50-mattifying-moisturizer-for-balanced-matte-skin-care-winym-original-imahjkf8aszpqhth.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/z/y/50-ankle-whitening-brightening-skin-cream-for-uv-protection-original-imahybvyfbpkdy6z.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/kt8zb0w0/moisturizer-cream/0/m/u/50-certified-organic-cold-pressed-pure-aloe-vera-gel-anti-ageing-original-imag6n24gsbh8gyb.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/s/v/200-retinal-shot-advanced-texture-refining-hydration-support-original-imahkmrmqzrsbqg4.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/sheny-body-lotion-benefit-instantly-hydrates-dry-skin-daily-care/p/itmd95b1ee0062f3",
+  "buyStore": "Flipkart",
+  "title": "Sheny body lotion benefit of that it instantly hydrates dry skin, …",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:lotion",
+   "ing:retinal",
+   "ing:aloe-vera",
+   "claim:brightening",
+   "claim:whitening-claim",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "goat-itmf5be5b23072bb",
+  "brand": "Goat",
+  "model": "Original Moisturising Body Lotion (500 ml)",
+  "price": 894,
+  "capacityLine": "1000 ml (pack of 2)",
+  "materialLine": "colloidal oatmeal + honey",
+  "featureLine": "Sunscreen · SPF 30 · ₹89/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹89/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.7,
+   "experience": 5.3
+  },
+  "fullSpec": {
+   "quantity": "500 ml × 2 pack",
+   "pricePer100": "₹89/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "colloidal oatmeal, honey (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 30",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Sensitive Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/t/d/500-original-moisturising-body-lotion-goat-lotion-original-imahns9j3yx3rzh3.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/q/q/500-original-moisturising-body-lotion-goat-lotion-original-imahns9nbehtzdkd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/g/q/500-original-moisturising-body-lotion-goat-lotion-original-imahns9jus64qfga.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/1/p/500-original-moisturising-body-lotion-goat-lotion-original-imahns9nskjrq3h7.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/t/l/500-original-moisturising-body-lotion-goat-lotion-original-imahns9jgdpa9wap.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/goat-original-moisturising-body-lotion/p/itmf5be5b23072bb",
+  "buyStore": "Flipkart",
+  "title": "Goat Original Moisturising Body Lotion (500 ml)",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:oil",
+   "format:kit",
+   "spf:30",
+   "ing:colloidal-oatmeal",
+   "ing:honey",
+   "ing:argan-oil",
+   "claim:whitening-claim",
+   "claim:hydrating",
+   "claim:long-lasting",
+   "claim:spf-claim",
+   "free:vegan",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:sensitive",
+   "aud:women",
+   "size:xl",
    "rating:none",
    "store:flipkart"
   ],
@@ -33240,220 +32839,541 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "bioever-itme7d56d64be406",
-  "brand": "Bioever",
-  "model": "Body lotion - 270ML Nourishing | Hydrating & Soft Supple …",
-  "price": 231,
-  "capacityLine": "270 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · ₹86/100ml",
-  "highlight": "Live Flipkart listing rated 5★ by 12 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "id": "goat-itmffc81bf3da8bb",
+  "brand": "Goat",
+  "model": "Moisturising Body Lotion with Manuka Honey (500 ml)",
+  "price": 894,
+  "capacityLine": "500 ml",
+  "materialLine": "colloidal oatmeal + honey",
+  "featureLine": "Sunscreen · SPF 30 · ₹179/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [
-   "Good value: ₹86/100ml",
-   "Strong buyer rating (5)"
+   "Good value: ₹179/100ml",
+   "Contains evidence-backed actives (per listing)"
   ],
   "cons": [
    "No free-from claims in listing",
    "Marketplace brand — limited track record"
   ],
   "scores": {
-   "trust": 5.1,
+   "trust": 3.9,
    "skin": 4,
-   "ingredients": 4,
-   "experience": 4.6
+   "ingredients": 5.7,
+   "experience": 5
   },
   "fullSpec": {
-   "quantity": "270 ml",
-   "pricePer100": "₹86/100ml",
-   "format": "Lotion",
-   "keyIngredients": "Not stated in listing",
+   "quantity": "500 ml",
+   "pricePer100": "₹179/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "colloidal oatmeal, honey (per listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Unisex / not stated",
+   "benefit": "Hydrating, SPF 30",
+   "audience": "Marketed for women",
    "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "5/5 (12 ratings, Flipkart)",
+   "skinType": "Sensitive Skin",
+   "rating": "No rating yet",
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/p/s/270-body-lotion-270ml-nourishing-hydrating-soft-supple-healthy-original-imahcf7ayucmmhqw.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/d/c/270-body-lotion-270ml-nourishing-hydrating-soft-supple-healthy-original-imahcf7a3fvf6hce.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/5/x/270-body-lotion-270ml-nourishing-hydrating-soft-supple-healthy-original-imahcf7azxrqwtbh.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/r/k/270-body-lotion-270ml-nourishing-hydrating-soft-supple-healthy-original-imahcf7adsmyfg7z.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/x/6/270-body-lotion-270ml-nourishing-hydrating-soft-supple-healthy-original-imahcf7aedchcmtf.jpeg?q=90"
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/f/6/500-moisturising-body-lotion-with-manuka-honey-goat-lotion-original-imahns9yuggmzaup.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/e/r/500-moisturising-body-lotion-with-manuka-honey-goat-lotion-original-imahns9ysgyuvxqs.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/a/q/500-moisturising-body-lotion-with-manuka-honey-goat-lotion-original-imahns9yzxjv7gea.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/e/b/500-moisturising-body-lotion-with-manuka-honey-goat-lotion-original-imahns9ysfgejhx9.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/7/2/500-moisturising-body-lotion-with-manuka-honey-goat-lotion-original-imahns9y4tewahx4.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/bioever-body-lotion-270ml-nourishing-hydrating-soft-supple-healthy-skin/p/itme7d56d64be406",
+  "buyUrl": "https://www.flipkart.com/goat-moisturising-body-lotion-manuka-honey/p/itmffc81bf3da8bb",
   "buyStore": "Flipkart",
-  "title": "Bioever Body lotion - 270ML Nourishing | Hydrating & Soft Supple …",
+  "title": "Goat Moisturising Body Lotion with Manuka Honey (500 ml)",
   "tags": [
-   "scope:body",
+   "scope:both",
    "format:lotion",
+   "format:oil",
+   "spf:30",
+   "ing:colloidal-oatmeal",
+   "ing:honey",
+   "ing:argan-oil",
    "claim:hydrating",
-   "aud:unisex",
+   "claim:spf-claim",
+   "free:vegan",
+   "free:sensitive-safe",
+   "skin:sensitive",
+   "aud:women",
    "size:xl",
-   "rating:4.5",
+   "rating:none",
    "store:flipkart"
   ],
   "filters": {
-   "actives": false,
+   "actives": true,
    "freefrom": false,
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": true
   }
  },
  {
-  "id": "bioderma-itm5e46df54bde9b",
-  "brand": "Bioderma",
-  "model": "Atoderm Creme Ultra-Nourishing Moisturizer For Normal To …",
-  "price": 400,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream / gel",
-  "highlight": "Live Flipkart listing rated 4.4★ by 12,501 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "id": "goat-itmbb0cc0667bc02",
+  "brand": "Goat",
+  "model": "Moisturising Body Lotion with Coconut Oil (500 ml)",
+  "price": 894,
+  "capacityLine": "1000 ml (pack of 2)",
+  "materialLine": "honey",
+  "featureLine": "Oil · ₹89/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [
-   "Strong buyer rating (4.4)"
+   "Good value: ₹89/100ml"
   ],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing"
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
   ],
   "scores": {
-   "trust": 6.6,
+   "trust": 3.9,
    "skin": 4,
-   "ingredients": 4,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Cream / gel",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.4/5 (12,501 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/l/i/500-atoderm-creme-ultra-nourishing-moisturizer-for-normal-to-original-imahggcfspk5bh9d.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/j/m/500-atoderm-creme-ultra-nourishing-moisturizer-for-normal-to-original-imahggcfah9vwfev.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/l/v/500-atoderm-creme-ultra-nourishing-moisturizer-for-normal-to-original-imahggcf8jvgxqme.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/y/2/500-atoderm-creme-ultra-nourishing-moisturizer-for-normal-to-original-imahggcfffxzcmfx.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/m/f/500-atoderm-creme-ultra-nourishing-moisturizer-for-normal-to-original-imahggcfk2k5zzrn.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/bioderma-atoderm-creme-ultra-nourishing-moisturizer-normal-sensitive-dry-skin/p/itm5e46df54bde9b",
-  "buyStore": "Flipkart",
-  "title": "BIODERMA Atoderm Creme Ultra-Nourishing Moisturizer For Normal To …",
-  "tags": [
-   "scope:unstated",
-   "format:cream",
-   "claim:hydrating",
-   "aud:unisex",
-   "rating:4.0",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
-  }
- },
- {
-  "id": "fixderma-itm425b2a7614e12",
-  "brand": "Fixderma",
-  "model": "Dewrav Body Lotion for Dry & Sensitive Skin with Shea Bu …",
-  "price": 338,
-  "capacityLine": "250 ml",
-  "materialLine": "colloidal oatmeal + ceramides + shea butter",
-  "featureLine": "Lotion · Paraben-free · ₹135/100ml",
-  "highlight": "Live Flipkart listing rated 4.1★ by 25 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹135/100ml",
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)"
-  ],
-  "cons": [],
-  "scores": {
-   "trust": 5.9,
-   "skin": 5.3,
-   "ingredients": 6.1,
+   "ingredients": 4.6,
    "experience": 4.9
   },
   "fullSpec": {
-   "quantity": "250 ml",
-   "pricePer100": "₹135/100ml",
-   "format": "Lotion",
-   "keyIngredients": "colloidal oatmeal, ceramides, shea butter (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
+   "quantity": "500 ml × 2 pack",
+   "pricePer100": "₹89/100ml",
+   "format": "Oil",
+   "keyIngredients": "honey (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
+   "benefit": "Hydrating, Brightening/glow claim",
    "audience": "Marketed for women",
    "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "4.1/5 (25 ratings, Flipkart)",
+   "skinType": "Sensitive Skin",
+   "rating": "No rating yet",
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/6/u/250-dewrav-body-lotion-for-dry-sensitive-skin-with-shea-butter-original-imahkhmgzahbgbmf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/0/i/v/250-dewrav-body-lotion-for-dry-sensitive-skin-with-shea-butter-original-imahkhmn2yt8fhzh.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/q/s/250-dewrav-body-lotion-for-dry-sensitive-skin-with-shea-butter-original-imahkhmgcwhv3njt.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/w/l/250-dewrav-body-lotion-for-dry-sensitive-skin-with-shea-butter-original-imahkhmnmdhaamfj.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/p/t/250-dewrav-body-lotion-for-dry-sensitive-skin-with-shea-butter-original-imahkhmhf2zz3qkg.jpeg?q=90"
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/j/j/500-moisturising-body-lotion-with-coconut-oil-goat-lotion-original-imahnsb2ge8rzsyx.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/t/i/500-moisturising-body-lotion-with-coconut-oil-goat-lotion-original-imahnsaqdhrh5zaf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/t/y/500-moisturising-body-lotion-with-coconut-oil-goat-lotion-original-imahnsaq5rzbrfgw.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/j/m/500-moisturising-body-lotion-with-coconut-oil-goat-lotion-original-imahnsb2cqxuzbjg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/d/5/500-moisturising-body-lotion-with-coconut-oil-goat-lotion-original-imahnsaqhppryqjf.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/fixderma-dewrav-body-lotion-dry-sensitive-skin-shea-butter-ceramides-complex/p/itm425b2a7614e12",
+  "buyUrl": "https://www.flipkart.com/goat-moisturising-body-lotion-coconut-oil/p/itmbb0cc0667bc02",
   "buyStore": "Flipkart",
-  "title": "Fixderma Dewrav Body Lotion for Dry & Sensitive Skin with Shea Bu …",
+  "title": "Goat Moisturising Body Lotion with Coconut Oil (500 ml)",
   "tags": [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:balm",
-   "ing:colloidal-oatmeal",
-   "ing:ceramides",
-   "ing:shea-butter",
+   "format:oil",
+   "format:kit",
+   "ing:honey",
+   "ing:argan-oil",
+   "ing:coconut",
+   "claim:whitening-claim",
    "claim:hydrating",
-   "claim:soothing",
-   "free:paraben",
-   "free:derm",
    "free:vegan",
    "free:sensitive-safe",
-   "skin:dry",
+   "skin:oily",
    "skin:sensitive",
-   "skin:all",
    "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "rustic-itm8b678c92700e1",
+  "brand": "RUSTIC",
+  "model": "ART Blueberry Organic Hand and Body Lotion (200 ml)",
+  "price": 233,
+  "capacityLine": "200 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · ₹117/100ml",
+  "highlight": "Live Flipkart listing rated 4.3★ by 268 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹117/100ml",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.7,
+   "skin": 4,
+   "ingredients": 4.3,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹117/100ml",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (268 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/q/o/200-blueberry-organic-hand-and-body-lotion-rustic-art-lotion-original-imahhaf5vqryybkt.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/b/n/200-blueberry-organic-hand-and-body-lotion-rustic-art-lotion-original-imahhaf5h7emuvty.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/9/3/50-organic-rose-bergamot-skin-cream-for-face-body-instantly-original-imahnbmavzypqqdw.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/z/k/100-rose-bergamot-skin-cream-face-body-rustic-art-cream-original-imahd2hvhachdyx8.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/1/h/100-blueberry-organic-hand-and-body-lotion-100ml-rustic-art-original-imah7eyqjzcph79j.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/rustic-art-blueberry-organic-hand-body-lotion/p/itm8b678c92700e1",
+  "buyStore": "Flipkart",
+  "title": "RUSTIC ART Blueberry Organic Hand and Body Lotion (200 ml)",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "aud:unisex",
    "size:large",
    "rating:4.0",
    "store:flipkart"
   ],
   "filters": {
-   "actives": true,
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "radium-itm9be7fa0e28440",
+  "brand": "Radium",
+  "model": "Moisturizing Lotion | Enrich with Almond OIL | Body Lotion …",
+  "price": 136,
+  "capacityLine": "100 ml",
+  "materialLine": "almond",
+  "featureLine": "Oil · Paraben-free · ₹136/100ml",
+  "highlight": "Live Flipkart listing rated 5★ by 1 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹136/100ml",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.6,
+   "skin": 5.3,
+   "ingredients": 4.9,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹136/100ml",
+   "format": "Oil",
+   "keyIngredients": "almond (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "5/5 (1 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/d/p/100-moisturizing-lotion-enrich-with-almond-oil-body-lotion-for-original-imahfdtvhbjfyucp.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/2/7/100-moisturizing-lotion-radium-lotion-original-imahf9f7gxyxgkmf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/q/u/100-moisturizing-lotion-radium-lotion-original-imahf9f782wqrdjk.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/e/e/100-moisturizing-lotion-radium-lotion-original-imahf9f7rdyucsbv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/h/c/100-moisturizing-lotion-radium-lotion-original-imahf9f7yqshm6w6.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/radium-moisturizing-lotion-enrich-almond-oil-body-all-skin-types/p/itm9be7fa0e28440",
+  "buyStore": "Flipkart",
+  "title": "Radium Moisturizing Lotion | Enrich with Almond OIL | Body Lotion …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:oil",
+   "format:balm",
+   "ing:almond",
+   "ing:cocoa-butter",
+   "ing:glycerin",
+   "ing:argan-oil",
+   "claim:brightening",
+   "claim:hydrating",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
    "freefrom": true,
-   "natural": false,
+   "natural": true,
    "derm": true,
    "men": false,
    "women": true
   }
  },
  {
-  "id": "riffway-itm0fe400a39facd",
-  "brand": "Riffway",
-  "model": "Max Cream For Women Organic Body Cream (50 g)",
-  "price": 258,
-  "capacityLine": "50 g",
+  "id": "nat-habit-itm6d1124cd9679d",
+  "brand": "Nat Habit",
+  "model": "Shea Butter Omega 3 Moisturizer Body Cream, Anti-Aging …",
+  "price": 282,
+  "capacityLine": "240 ml",
+  "materialLine": "walnut + almond + shea butter",
+  "featureLine": "Cream / gel · Paraben-free · ₹118/100ml",
+  "highlight": "Live Flipkart listing rated 4.3★ by 988 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹118/100ml",
+   "Paraben-free (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.7,
+   "skin": 4.6,
+   "ingredients": 5.5,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "240 ml",
+   "pricePer100": "₹118/100ml",
+   "format": "Cream / gel",
+   "keyIngredients": "walnut, almond, shea butter (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Anti-aging claim, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Dry Skin, Sensitive Skin",
+   "rating": "4.3/5 (988 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/w/5/240-shea-butter-omega-3-moisturizer-body-cream-anti-aging-original-imahgfzatxabyy26.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/q/m/120-shea-butter-omega-3-moisturizer-body-cream-anti-aging-original-imahgfnzkze9efqs.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/r/v/120-shea-butter-omega-3-moisturizer-body-cream-anti-aging-original-imahgfnzrgrgrsk9.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/b/q/240-shea-butter-omega-3-moisturizer-body-cream-anti-aging-original-imahgfzah8arfrcy.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/m/c/120-shea-butter-omega-3-moisturizer-body-cream-anti-aging-original-imahgfnzzjhffpaz.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nat-habit-shea-butter-omega-3-moisturizer-body-cream-anti-aging-collagen-boost/p/itm6d1124cd9679d",
+  "buyStore": "Flipkart",
+  "title": "Nat Habit Shea Butter Omega 3 Moisturizer Body Cream, Anti-Aging …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:balm",
+   "format:patch",
+   "ing:collagen",
+   "ing:walnut",
+   "ing:almond",
+   "ing:shea-butter",
+   "ing:milk",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:kp",
+   "claim:long-lasting",
+   "free:paraben",
+   "free:sensitive-safe",
+   "skin:dry",
+   "skin:sensitive",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "cetaphil-itm33f5dd8d11dc1",
+  "brand": "Cetaphil",
+  "model": "Bright Healthy Radiance Body Lotion (245 ml)",
+  "price": 1478,
+  "capacityLine": "245 ml",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream / gel · ₹516/100g",
+  "featureLine": "Lotion · ₹603/100ml",
+  "highlight": "Live Flipkart listing rated 4.2★ by 449 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Strong buyer rating (4.2)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.3,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "245 ml",
+   "pricePer100": "₹603/100ml",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (449 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/a/v/-original-imagskrffuh2wzfn.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/j/t/-original-imagskrfxmv5ct9h.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/v/4/-original-imagskrfmk3fk2nm.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/f/a/-original-imagskrfgsw7zzgt.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/u/a/-original-imagskrfjmhepucy.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/cetaphil-bright-healthy-radiance-body-lotion/p/itm33f5dd8d11dc1",
+  "buyStore": "Flipkart",
+  "title": "Cetaphil Bright Healthy Radiance Body Lotion (245 ml)",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "claim:brightening",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "fyc-professional-itm567c1b1f2d1c0",
+  "brand": "FYC PROFESSIONAL",
+  "model": "Korean Radiance Body Lotion | Lightweight Hydrat …",
+  "price": 508,
+  "capacityLine": "70 g",
+  "materialLine": "niacinamide + salicylic acid (BHA)",
+  "featureLine": "Oil · Paraben-free · ₹726/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4.6,
+   "ingredients": 5.5,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "70 g",
+   "pricePer100": "₹726/100g",
+   "format": "Oil",
+   "keyIngredients": "niacinamide, salicylic acid (BHA) (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/w/r/400-korean-radiance-body-lotion-lightweight-hydrating-lotion-for-original-imahnvza9cbyrzzc.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/b/0/400-korean-radiance-body-lotion-lightweight-hydrating-lotion-for-original-imahnvzajxhqgscp.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/l/2/400-korean-radiance-body-lotion-lightweight-hydrating-lotion-for-original-imahp4yyrytvf9vy.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/l/3/400-korean-radiance-body-lotion-lightweight-hydrating-lotion-for-original-imahp4yyyfdbfehd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/v/l/400-korean-radiance-body-lotion-lightweight-hydrating-lotion-for-original-imahp4yya4gb8a7d.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/fyc-professional-korean-radiance-body-lotion-lightweight-hydrating-soft-glowing-skin/p/itm567c1b1f2d1c0",
+  "buyStore": "Flipkart",
+  "title": "FYC PROFESSIONAL Korean Radiance Body Lotion | Lightweight Hydrat …",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:lotion",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "claim:brightening",
+   "claim:acne",
+   "claim:hydrating",
+   "claim:lightweight",
+   "claim:korean",
+   "free:paraben",
+   "free:oil-free",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "samta-itm3611d521e16aa",
+  "brand": "SAMTA",
+  "model": "Body Lotion (30 ml)",
+  "price": 232,
+  "capacityLine": "30 ml",
+  "materialLine": "honey + almond",
+  "featureLine": "Lotion · ₹773/100ml",
   "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [],
   "cons": [
@@ -33463,42 +33383,111 @@ const CTPRODUCTS = [
   "scores": {
    "trust": 3.9,
    "skin": 4,
-   "ingredients": 4.3,
-   "experience": 4.9
+   "ingredients": 4.8,
+   "experience": 4.6
   },
   "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹516/100g",
-   "format": "Cream / gel",
-   "keyIngredients": "Not stated in listing",
+   "quantity": "30 ml",
+   "pricePer100": "₹773/100ml",
+   "format": "Lotion",
+   "keyIngredients": "honey, almond (per listing)",
    "freeFrom": "Not stated in listing",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
+   "benefit": "Hydrating",
    "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "naturalClaim": "Not stated in listing",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/w/h/50-max-cream-for-women-organic-body-cream-riffway-cream-original-imahaq9bxmsmv9qq.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/u/w/50-nav-beauty-cream-for-women-herbal-cream-riffway-cream-original-imahaq99uqh8gwkz.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/b/e/200-gluta-hya-overnight-radiance-serum-in-lotion-200ml-vaseline-original-imah698fkhckaxbq.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/s/x/50-bikni-area-lighting-cream-suitable-for-all-type-of-skin-gabbu-original-imahmfggg5nuras8.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/women-intimate-care/w/9/j/50-3-days-intimate-area-skin-lightening-cream-best-whitening-original-imahgzqrhky6zvqy.jpeg?q=90"
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/g/t/30-body-lotion-samta-lotion-original-imahj2hzggwhazgq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/5/6/400-0-collagen-anti-aging-lotion-for-face-body-for-skin-original-imahggzgqkj58j9g.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/m/7/200-natural-shea-butter-for-body-and-skin-raw-unrefined-and-original-imahfv36yv8xqzuf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/c/2/75-aqua-soft-day-cream-aquasoft-fc-cream-original-imahmf3zfw2be3ff.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/g/5/30-foot-cream-deep-moisturizing-and-repair-for-dry-ceacked-heels-original-imahc7ungfpns3mb.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/riffway-max-cream-women-organic-body/p/itm0fe400a39facd",
+  "buyUrl": "https://www.flipkart.com/samta-body-lotion/p/itm3611d521e16aa",
   "buyStore": "Flipkart",
-  "title": "Riffway Max Cream For Women Organic Body Cream (50 g)",
+  "title": "SAMTA Body Lotion (30 ml)",
   "tags": [
    "scope:both",
    "format:cream",
-   "claim:whitening-claim",
+   "format:lotion",
+   "ing:honey",
+   "ing:almond",
    "claim:hydrating",
    "skin:all",
    "aud:women",
    "size:travel",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "dabur-itmc3c0dbeee8414",
+  "brand": "Dabur",
+  "model": "Moisturizing Body Lotion (400 ml)",
+  "price": 505,
+  "capacityLine": "400 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · ₹126/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹126/100ml"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.7,
+   "skin": 4,
+   "ingredients": 4.3,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹126/100ml",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/u/v/400-moisturizing-body-lotion-dabur-lotion-original-imahqzqfnxf8fwmx.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/dabur-moisturizing-body-lotion/p/itmc3c0dbeee8414",
+  "buyStore": "Flipkart",
+  "title": "Dabur Moisturizing Body Lotion (400 ml)",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "claim:hydrating",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "aud:women",
+   "size:xl",
    "rating:none",
    "store:flipkart"
   ],
@@ -34327,7 +34316,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:balm",
    "format:kit",
    "ing:niacinamide",
@@ -42629,7 +42617,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:balm",
    "format:kit",
    "spf:30",
@@ -46775,7 +46762,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:balm",
    "ing:colloidal-oatmeal",
    "ing:honey",
@@ -48827,7 +48813,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:balm",
    "ing:collagen",
    "ing:aloe-vera",
@@ -50120,7 +50105,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "format:kit",
    "ing:saffron",
    "claim:brightening",
@@ -50488,7 +50472,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "format:pack",
    "format:kit",
    "claim:brightening",
@@ -56666,7 +56649,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "claim:oil-control",
    "claim:hydrating",
    "free:paraben",
@@ -56814,7 +56796,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "claim:oil-control",
    "claim:hydrating",
    "skin:all",
@@ -57161,7 +57142,6 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:serum",
-   "format:oil",
    "ing:urea",
    "claim:oil-control",
    "claim:hydrating",
@@ -58795,7 +58775,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "format:kit",
    "ing:milk",
    "claim:brightening",
@@ -60771,7 +60750,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:lotion",
-   "format:oil",
    "ing:milk",
    "claim:brightening",
    "claim:acne",
@@ -61047,7 +61025,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "format:kit",
    "ing:shea-butter",
    "ing:milk",
@@ -62255,7 +62232,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:balm",
    "ing:caffeine",
    "ing:aloe-vera",
@@ -62653,7 +62629,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "format:balm",
    "ing:colloidal-oatmeal",
    "ing:honey",
@@ -63127,7 +63102,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:toner",
-   "format:oil",
    "claim:oil-control",
    "claim:hydrating",
    "claim:soothing",
@@ -65361,7 +65335,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:body",
    "format:lotion",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -65766,7 +65739,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:body",
    "format:lotion",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -71714,7 +71686,6 @@ const CTPRODUCTS = [
    "scope:body",
    "format:gel",
    "format:lotion",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -73757,7 +73728,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:body",
    "format:lotion",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -75711,6 +75681,70 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true
+  }
+ },
+ {
+  "id": "buy-b0g9p3r7c1",
+  "brand": "Buy",
+  "model": "Klir Milkyway Body Lotion with Aquaxyl, Goat Milk & Shea Butter for 72H Moisture Lock | 20…",
+  "price": 650,
+  "capacityLine": "200 ml",
+  "materialLine": "shea butter",
+  "featureLine": "Lotion · ₹325/100ml",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹325/100ml",
+   "format": "Lotion",
+   "keyIngredients": "shea butter (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61aHHtcjZtL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G9P3R7C1",
+  "buyStore": "Amazon",
+  "title": "Buy Klir Milkyway Body Lotion with Aquaxyl, Goat Milk & Shea Butter for 72H Moisture Lock | 200ml Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:balm",
+   "ing:shea-butter",
+   "ing:milk",
+   "claim:long-lasting",
+   "aud:unisex",
+   "size:large",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
   }
  },
  {
@@ -80126,7 +80160,6 @@ const CTPRODUCTS = [
   "title": "VLCC Shea & Vitamin E Body Butter - 200g | With Shea Butter, and Vitamin E and Antioxidants | Moisturizes Dehydrated Skin, Maintains Skin’s Oil Balance",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:balm",
    "ing:shea-butter",
    "ing:vitamin-e",
@@ -80811,7 +80844,6 @@ const CTPRODUCTS = [
   "title": "Kaumudi Body Butter - Jasmine, Clove & Cardamom (Handcrafted with Natural Ingredients) | Hydrating & Deep Moisturization | 100 Times Washed Ghee | Paraben, Silicone & Mineral Oil Free |150g/5.29 fl Oz",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:balm",
    "claim:hydrating",
    "free:mineral-oil",
@@ -80874,7 +80906,6 @@ const CTPRODUCTS = [
   "title": "Kaumudi Body Butter - Rose, Jasmine & Lavender (Handcrafted with Natural Ingredients) | Hydrating & Deep Moisturization | 100 Times Washed Ghee | Paraben, Silicone & Mineral Oil Free |150g/5.29 fl Oz",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:balm",
    "ing:rose",
    "claim:hydrating",
@@ -82307,7 +82338,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:body",
    "format:lotion",
-   "format:oil",
    "ing:colloidal-oatmeal",
    "ing:shea-butter",
    "claim:hydrating",
@@ -84574,6 +84604,80 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0h1mkgmqk",
+  "brand": "Buy",
+  "model": "Minimalist Body Hydration & Odour Control Duo | Niacinamide Body Lotion + Nonapeptide Roll…",
+  "price": 596,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "niacinamide + ceramides + peptides",
+  "featureLine": "Lotion",
+  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Lotion",
+   "keyIngredients": "niacinamide, ceramides, peptides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61xYbTsK8UL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61sfwxis0kL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/618ytnwQm5L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61uFWi1mNML._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61vWeOFtlQL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H1MKGMQK",
+  "buyStore": "Amazon",
+  "title": "Buy Minimalist Body Hydration & Odour Control Duo | Niacinamide Body Lotion + Nonapeptide Roll On | Moisturizes Dry Skin & Controls Body Odour | For Women & Men Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:roll-on",
+   "ing:niacinamide",
+   "ing:ceramides",
+   "ing:peptides",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:dry-skin-relief",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
   "id": "buy-b0bd8q37hk",
   "brand": "Buy",
   "model": "THE LOVE CO. Body Butter - 48-Hour Intense Hydration with Pure Shea Butter - Winter Deep M…",
@@ -85186,6 +85290,67 @@ const CTPRODUCTS = [
   ],
   "filters": {
    "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0h6qh92h7",
+  "brand": "Buy",
+  "model": "Bioderma Atoderm Intensive Baume 200ml & Atoderm Creme Ultra-Nourishing 200ml Online at Lo…",
+  "price": 2228,
+  "capacityLine": "200 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Balm / butter · ₹1114/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1114/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹1114/100ml",
+   "format": "Balm / butter",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51HzXo0A+qL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H6QH92H7",
+  "buyStore": "Amazon",
+  "title": "Buy Bioderma Atoderm Intensive Baume 200ml & Atoderm Creme Ultra-Nourishing 200ml Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:balm",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
    "freefrom": false,
    "natural": false,
    "derm": false,
@@ -86854,6 +87019,82 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0g3w5x81s",
+  "brand": "Buy",
+  "model": "Multani Natural Aloe Vera Body Lotion (400ml) | with Deep Moisture | Moisturizer For Norma…",
+  "price": 145,
+  "capacityLine": "400 ml",
+  "materialLine": "aloe vera + clay/mud",
+  "featureLine": "Lotion · ₹36/100ml",
+  "highlight": "Live Amazon listing rated 3.9★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹36/100ml"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (3.9)",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.1,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹36/100ml",
+   "format": "Lotion",
+   "keyIngredients": "aloe vera, clay/mud (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61a3jJmYqHL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81KV7Jmqx0L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81jv+3wdhlL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81duwnAB0sL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81GnSlFN0PL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G3W5X81S",
+  "buyStore": "Amazon",
+  "title": "Buy Multani Natural Aloe Vera Body Lotion (400ml) | with Deep Moisture | Moisturizer For Normal, Dry, Combination & Sensitive Skin | Moisturising Body Lotion for Women & Men | Hydrating & Refreshing | Helps in Dryness Reduction & Softens The Skin Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:clay-mask",
+   "ing:aloe-vera",
+   "ing:clay",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:dry-skin-relief",
+   "free:sensitive-safe",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "aud:women",
+   "size:xl",
+   "rating:3.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
   "id": "buy-b0g5g24hl7",
   "brand": "Buy",
   "model": "PHYSIOGEL HYPOALLERGENIC Calming Relief A.I. Body Lotion – For Dry, Sensitive Skin with Re…",
@@ -87467,6 +87708,73 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0fypsny3g",
+  "brand": "Buy",
+  "model": "Cetaphil Baby Soothing Moisturising Cream 100 g for Newborns & Babies | 48H Hydration & 8H…",
+  "price": 449,
+  "capacityLine": "100 g",
+  "materialLine": "almond",
+  "featureLine": "Oil · ₹449/100g",
+  "highlight": "Live Amazon listing rated 4.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹449/100g",
+   "format": "Oil",
+   "keyIngredients": "almond (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/617Hy6RjhKL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FYPSNY3G",
+  "buyStore": "Amazon",
+  "title": "Buy Cetaphil Baby Soothing Moisturising Cream 100 g for Newborns & Babies | 48H Hydration & 8H Skin Barrier Protection | With Glycerin, Sunflower Seed Oil & Sweet Almond Oil | Gentle Face & Body Moisturiser Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:oil",
+   "ing:almond",
+   "ing:glycerin",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:long-lasting",
+   "aud:kids",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "cetaphil-b0f9482gnk",
   "brand": "Cetaphil",
   "model": "Restoraderm Body Moisturizer, Shea Butter, 295ml",
@@ -87588,6 +87896,71 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0gvdrqqn4",
+  "brand": "Buy",
+  "model": "Cetaphil Baby Soothing Moisturising Cream 566 g for Newborns & Babies | 48H Hydration & 8H…",
+  "price": 3238,
+  "capacityLine": "566 g",
+  "materialLine": "almond",
+  "featureLine": "Oil · ₹572/100g",
+  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.2,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "566 g",
+   "pricePer100": "₹572/100g",
+   "format": "Oil",
+   "keyIngredients": "almond (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/719LtTssPrL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GVDRQQN4",
+  "buyStore": "Amazon",
+  "title": "Buy Cetaphil Baby Soothing Moisturising Cream 566 g for Newborns & Babies | 48H Hydration & 8H Skin Barrier Protection | With Glycerin, Sunflower Seed Oil & Sweet Almond Oil | Gentle Face & Body Moisturiser Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:oil",
+   "ing:almond",
+   "ing:glycerin",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:long-lasting",
+   "aud:kids",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "cetaphiloptimalhydrationreplenishingbodylotion237mllightweightmoisturizer-nongreasyhyaluronicacidsunfloweroilbluedaisyextract-b0dfhhqt23",
   "brand": "CetaphilOptimalHydrationReplenishingBodyLotion237mlLightweightmoisturizer&nongreasyHyaluronicAcidSunflowerOilBlueDaisyextract",
   "model": "Optimal Hydration Daily Cream 50g Lightweight Moisturizer",
@@ -87654,6 +88027,81 @@ const CTPRODUCTS = [
   ],
   "filters": {
    "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0h4v757zq",
+  "brand": "Buy",
+  "model": "Cetaphil Baby Soothing Moisturising Cream 100 g for Newborns & Babies | 48H Hydration & 8H…",
+  "price": 1347,
+  "capacityLine": "100 g",
+  "materialLine": "almond",
+  "featureLine": "Oil · ₹1347/100g",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1347/100g",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.7,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹1347/100g",
+   "format": "Oil",
+   "keyIngredients": "almond (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41pzol1li9L._SL1001_.jpg",
+   "https://m.media-amazon.com/images/I/81N7Zj3hjAL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71It0Gg9M2L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71EiABCc8sL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71yWgSEPmVL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H4V757ZQ",
+  "buyStore": "Amazon",
+  "title": "Buy Cetaphil Baby Soothing Moisturising Cream 100 g for Newborns & Babies | 48H Hydration & 8H Skin Barrier Protection | With Glycerin, Sunflower Seed Oil & Sweet Almond Oil | Gentle Face & Body Moisturiser Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:oil",
+   "format:pack",
+   "ing:almond",
+   "ing:glycerin",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:long-lasting",
+   "free:sensitive-safe",
+   "skin:sensitive",
+   "aud:kids",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
    "freefrom": false,
    "natural": false,
    "derm": false,
@@ -89393,7 +89841,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:body",
    "format:lotion",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -101680,6 +102127,69 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0h98lqwww",
+  "brand": "Buy",
+  "model": "NIVEA Perfect & Radiant Body Lotion 400ml | Daily Moisturizer for Even Skin Tone & Natural…",
+  "price": 689,
+  "capacityLine": "400 ml",
+  "materialLine": "licorice",
+  "featureLine": "Lotion · ₹172/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹172/100ml"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4.7,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹172/100ml",
+   "format": "Lotion",
+   "keyIngredients": "licorice (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/5164P3vuUzL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H98LQWWW",
+  "buyStore": "Amazon",
+  "title": "Buy NIVEA Perfect & Radiant Body Lotion 400ml | Daily Moisturizer for Even Skin Tone & Natural Radiance | With Licorice & Berry Extracts Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:licorice",
+   "claim:brightening",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:xl",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "buy-b08hn3xlbd",
   "brand": "Buy",
   "model": "Nivea Aloe Hydration Body Lotion (2 Pc x 75 ml) (150 ml) Online at Low Prices in India - A…",
@@ -102835,6 +103345,78 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0hb46jxg1",
+  "brand": "Buy",
+  "model": "NIVEA MEN Cool Kick Body Cream for Normal to Dry Skin, 48H Moisture, Cooling Effect, Fast-…",
+  "price": 660,
+  "capacityLine": "400 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream / gel · ₹165/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹165/100ml",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 4.7,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹165/100ml",
+   "format": "Cream / gel",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61aJFIte+cL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/61038ryxl+L._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71oeyuSvmQL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71xIJCGMIZL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/71mPTgDo1fL._SL1254_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HB46JXG1",
+  "buyStore": "Amazon",
+  "title": "Buy NIVEA MEN Cool Kick Body Cream for Normal to Dry Skin, 48H Moisture, Cooling Effect, Fast-Absorbing Non-Sticky Formula, 400 ml Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:lightweight",
+   "claim:long-lasting",
+   "claim:dry-skin-relief",
+   "free:derm",
+   "skin:dry",
+   "aud:men",
+   "size:xl",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": true,
+   "men": true,
+   "women": false
+  }
+ },
+ {
   "id": "nivea-b07v6wj485",
   "brand": "Nivea",
   "model": "Men Face Wash, Dark Spot Reduction, 100g And NIVEA Body Extra Whitening Body Lotion, 200ml",
@@ -103635,6 +104217,138 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0gvdfd2mp",
+  "brand": "Buy",
+  "model": "Cetaphil Baby Soothing Moisturising Cream 100 g for Newborns & Babies | 48H Hydration & 8H…",
+  "price": 898,
+  "capacityLine": "100 g",
+  "materialLine": "almond",
+  "featureLine": "Oil · ₹898/100g",
+  "highlight": "Live Amazon listing rated 4.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹898/100g",
+   "format": "Oil",
+   "keyIngredients": "almond (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/711qdZ1pFGL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GVDFD2MP",
+  "buyStore": "Amazon",
+  "title": "Buy Cetaphil Baby Soothing Moisturising Cream 100 g for Newborns & Babies | 48H Hydration & 8H Skin Barrier Protection | With Glycerin, Sunflower Seed Oil & Sweet Almond Oil | Gentle Face & Body Moisturiser Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:oil",
+   "ing:almond",
+   "ing:glycerin",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:long-lasting",
+   "aud:kids",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0h4v3grcw",
+  "brand": "Buy",
+  "model": "Cetaphil Baby Soothing Moisturising Cream 566 g for Newborns & Babies | 48H Hydration & 8H…",
+  "price": 4857,
+  "capacityLine": "566 g",
+  "materialLine": "almond",
+  "featureLine": "Oil · ₹858/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "566 g",
+   "pricePer100": "₹858/100g",
+   "format": "Oil",
+   "keyIngredients": "almond (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51pZROSI-eL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H4V3GRCW",
+  "buyStore": "Amazon",
+  "title": "Buy Cetaphil Baby Soothing Moisturising Cream 566 g for Newborns & Babies | 48H Hydration & 8H Skin Barrier Protection | With Glycerin, Sunflower Seed Oil & Sweet Almond Oil | Gentle Face & Body Moisturiser Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:oil",
+   "ing:almond",
+   "ing:glycerin",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:long-lasting",
+   "aud:kids",
+   "size:xl",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "buy-b0g4qt5d53",
   "brand": "Buy",
   "model": "Jergens Ultra Healing Dry Skin Lotion 946 ml, Imported from USA ,Hand and Body Moisturizer…",
@@ -103687,6 +104401,69 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:xl",
    "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "charis-b0h8ddcsyb",
+  "brand": "CHARIS",
+  "model": "Moistas Moisturising Cream with Aloe Vera, Allantoin, Glycerine & Kokum Butter | Deep Hydr…",
+  "price": 540,
+  "capacityLine": "75 g",
+  "materialLine": "aloe vera",
+  "featureLine": "Cream / gel · ₹720/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "75 g",
+   "pricePer100": "₹720/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "aloe vera (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61AQah2Yd2L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H8DDCSYB",
+  "buyStore": "Amazon",
+  "title": "CHARIS Moistas Moisturising Cream with Aloe Vera, Allantoin, Glycerine & Kokum Butter | Deep Hydration for Soft & Supple Skin | Daily Use Face & Body Cream - 75gm",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:balm",
+   "ing:aloe-vera",
+   "ing:allantoin",
+   "ing:glycerin",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
    "store:amazon"
   ],
   "filters": {
@@ -105063,7 +105840,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:body",
    "format:lotion",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
@@ -106343,6 +107119,68 @@ const CTPRODUCTS = [
    "skin:normal",
    "aud:unisex",
    "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0gwfnt7q2",
+  "brand": "Buy",
+  "model": "KDIT - Pece@fino_Ultra-Moisturizing Body Milk | Lightweight Hydrating Body Lotion for Soft…",
+  "price": 1490,
+  "capacityLine": "500 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · ₹298/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "500 ml",
+   "pricePer100": "₹298/100ml",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41u4gGiQTTL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GWFNT7Q2",
+  "buyStore": "Amazon",
+  "title": "Buy KDIT - Pece@fino_Ultra-Moisturizing Body Milk | Lightweight Hydrating Body Lotion for Soft & Smooth Skin | Daily Moisture Care | Suitable for All Skin Types- (500ml) Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:milk",
+   "claim:hydrating",
+   "claim:lightweight",
+   "skin:all",
+   "aud:unisex",
+   "size:xl",
+   "rating:none",
    "store:amazon"
   ],
   "filters": {
@@ -111919,7 +112757,6 @@ const CTPRODUCTS = [
   "title": "Petal Fresh Smoothing Coconut Body Butter - 237 Gms | Moisturizing, Non-Sticky Formula for Dry Skin | Silicones & Mineral Oil Free",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:balm",
    "ing:coconut",
    "claim:oil-control",
@@ -114310,7 +115147,6 @@ const CTPRODUCTS = [
    "scope:body",
    "format:gel",
    "format:lotion",
-   "format:oil",
    "ing:collagen",
    "ing:turmeric",
    "ing:saffron",
@@ -115562,6 +116398,70 @@ const CTPRODUCTS = [
    "actives": true,
    "freefrom": false,
    "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0g3h17ykg",
+  "brand": "Buy",
+  "model": "Globus Naturals Honey Malai Body Lotion| Enriched with Tulsi & Chandan | Deep Nourishment …",
+  "price": 99,
+  "capacityLine": "100 ml",
+  "materialLine": "sandalwood + honey",
+  "featureLine": "Lotion · ₹99/100ml",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹99/100ml",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹99/100ml",
+   "format": "Lotion",
+   "keyIngredients": "sandalwood, honey (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71K7pOkHjTL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G3H17YKG",
+  "buyStore": "Amazon",
+  "title": "Buy Globus Naturals Honey Malai Body Lotion| Enriched with Tulsi & Chandan | Deep Nourishment & Long-Lasting Moisture | Soft & Supple Skin 100ml Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:sandalwood",
+   "ing:honey",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
    "derm": false,
    "men": false,
    "women": false
@@ -117537,6 +118437,66 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0hgfp16zw",
+  "brand": "Buy",
+  "model": "NIVEA Extra Bright C & A Vitamin Body Lotion, 170 ml | 100x Vitamin A & C, Brightening & M…",
+  "price": 899,
+  "capacityLine": "170 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · ₹529/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "170 ml",
+   "pricePer100": "₹529/100ml",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51sfo0MVqmL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HGFP16ZW",
+  "buyStore": "Amazon",
+  "title": "Buy NIVEA Extra Bright C & A Vitamin Body Lotion, 170 ml | 100x Vitamin A & C, Brightening & Moisturizing Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "claim:brightening",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "buy-b08hn4q9yc",
   "brand": "Buy",
   "model": "Nivea ALOE HYDRATION + EXTRA WHITENING CELL REPAIR BODY LOTION (800 ml) Online at Low Pric…",
@@ -117798,6 +118758,76 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": false
+  }
+ },
+ {
+  "id": "buy-b0g4d8np3m",
+  "brand": "Buy",
+  "model": "Multani Natural Aloe Vera Body Lotion (Pack of 2 (400ml each) | with Deep Moisture | Moist…",
+  "price": 233,
+  "capacityLine": "800 ml (pack of 2)",
+  "materialLine": "aloe vera + clay/mud",
+  "featureLine": "Lotion · ₹29/100ml",
+  "highlight": "Live Amazon listing rated 3.9★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹29/100ml"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (3.9)",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.1,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "400 ml × 2 pack",
+   "pricePer100": "₹29/100ml",
+   "format": "Lotion",
+   "keyIngredients": "aloe vera, clay/mud (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71HQAt8ghWL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G4D8NP3M",
+  "buyStore": "Amazon",
+  "title": "Buy Multani Natural Aloe Vera Body Lotion (Pack of 2 (400ml each) | with Deep Moisture | Moisturizer For Normal, Dry, Combination & Sensitive Skin | Moisturising Body Lotion for Women & Men | Hydrating & Refreshing | Helps in Dryness Reduction & Softens The Skin Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:clay-mask",
+   "format:kit",
+   "ing:aloe-vera",
+   "ing:clay",
+   "claim:hydrating",
+   "claim:dry-skin-relief",
+   "free:sensitive-safe",
+   "skin:combination",
+   "skin:sensitive",
+   "aud:women",
+   "size:xl",
+   "rating:3.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
   }
  },
  {
@@ -118322,6 +119352,77 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0hg1jjnz8",
+  "brand": "Buy",
+  "model": "Shlazio Shea Butter Body Lotion 100ML with Cocoa Butter, Rosehip & Olive Oil | Deep Hydrat…",
+  "price": 199,
+  "capacityLine": "100 ml",
+  "materialLine": "rosehip + shea butter",
+  "featureLine": "Oil · ₹199/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹199/100ml"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4.8,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹199/100ml",
+   "format": "Oil",
+   "keyIngredients": "rosehip, shea butter (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51d1s2cxL9L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HG1JJNZ8",
+  "buyStore": "Amazon",
+  "title": "Buy Shlazio Shea Butter Body Lotion 100ML with Cocoa Butter, Rosehip & Olive Oil | Deep Hydration Moisturizer for Men & Women | Non-Greasy Daily Body Care for Dry, Rough & Sensitive Skin Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:oil",
+   "format:balm",
+   "ing:rosehip",
+   "ing:shea-butter",
+   "ing:cocoa-butter",
+   "ing:olive",
+   "claim:oil-control",
+   "claim:hydrating",
+   "free:sensitive-safe",
+   "skin:dry",
+   "skin:sensitive",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
   "id": "ihc-b0h6r6y3m1",
   "brand": "IHC",
   "model": "Nev-Soft Cleansing Lotion 125ml | Gentle Moisturizing Face & Body Cleanser for Dry & Sensi…",
@@ -118514,6 +119615,72 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0h4tyh71g",
+  "brand": "Buy",
+  "model": "Cetaphil Baby Soothing Moisturising Cream 100 g for Newborns & Babies | 48H Hydration & 8H…",
+  "price": 1796,
+  "capacityLine": "100 g",
+  "materialLine": "almond",
+  "featureLine": "Oil · ₹1796/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1796/100g",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹1796/100g",
+   "format": "Oil",
+   "keyIngredients": "almond (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51QVrkzd-ML._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H4TYH71G",
+  "buyStore": "Amazon",
+  "title": "Buy Cetaphil Baby Soothing Moisturising Cream 100 g for Newborns & Babies | 48H Hydration & 8H Skin Barrier Protection | With Glycerin, Sunflower Seed Oil & Sweet Almond Oil | Gentle Face & Body Moisturiser Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:oil",
+   "ing:almond",
+   "ing:glycerin",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:long-lasting",
+   "aud:kids",
+   "size:standard",
+   "rating:none",
    "store:amazon"
   ],
   "filters": {
@@ -121074,7 +122241,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "format:kit",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -121368,7 +122534,6 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:kojic-acid",
@@ -121995,7 +123160,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:body",
    "format:lotion",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:dark-spots",
@@ -123494,7 +124658,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "claim:oil-control",
    "claim:hydrating",
    "claim:ayurvedic",
@@ -123886,7 +125049,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "format:balm",
    "format:wash",
    "format:roll-on",
@@ -125109,7 +126271,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:balm",
    "format:bar",
    "format:kit",
@@ -125834,7 +126995,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "ing:ceramides",
    "claim:oil-control",
    "claim:hydrating",
@@ -126553,7 +127713,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "ing:kojic-acid",
    "ing:glutathione",
    "claim:brightening",
@@ -126629,7 +127788,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "ing:vitamin-c",
    "ing:kojic-acid",
    "ing:glutathione",
@@ -127780,7 +128938,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:aloe-vera",
    "ing:squalane",
@@ -130271,7 +131428,6 @@ const CTPRODUCTS = [
    "scope:body",
    "format:gel",
    "format:lotion",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:aha",

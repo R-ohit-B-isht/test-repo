@@ -129,7 +129,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:pearl",
@@ -484,7 +483,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:neem",
@@ -778,7 +776,6 @@ const CTPRODUCTS = [
   "title": "BELLAVITA Vitamin C Glow Facewash for Oil Control, Brightening, A …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "claim:brightening",
@@ -2007,7 +2004,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -2081,7 +2077,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -2156,7 +2151,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -2233,7 +2227,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -2316,7 +2309,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:foam",
    "format:essence",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "claim:brightening",
@@ -2389,7 +2381,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:charcoal",
@@ -2600,7 +2591,6 @@ const CTPRODUCTS = [
   "title": "mCaffeine De Tan Green Tea Vitamin C Face wash for Men & Women, R …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
@@ -2746,7 +2736,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "claim:brightening",
@@ -3460,7 +3449,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -3985,7 +3973,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -4074,7 +4061,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:foam",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -4225,7 +4211,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "claim:brightening",
@@ -4536,7 +4521,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:rice-water",
@@ -4851,7 +4835,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:rice-water",
@@ -5279,7 +5262,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:vitamin-c",
@@ -7130,7 +7112,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:vitamin-c",
@@ -7211,7 +7192,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:vitamin-c",
@@ -7459,7 +7439,6 @@ const CTPRODUCTS = [
    "format:serum",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:vitamin-c",
@@ -7624,7 +7603,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:vitamin-c",
@@ -8618,7 +8596,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:serum",
    "format:essence",
-   "format:oil",
    "format:pack",
    "ing:vitamin-c",
    "ing:aloe-vera",
@@ -8844,7 +8821,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:vitamin-c",
@@ -12571,7 +12547,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:vitamin-c",
@@ -13072,7 +13047,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:vitamin-c",
@@ -13149,7 +13123,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:vitamin-c",
@@ -13227,7 +13200,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:vitamin-c",
@@ -16606,7 +16578,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:brightening",
@@ -18052,7 +18023,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:scrub",
    "format:peel",
@@ -19368,7 +19338,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -21502,7 +21471,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:serum",
    "format:mist",
-   "format:oil",
    "format:kit",
    "ing:vitamin-c",
    "ing:aloe-vera",
@@ -21809,7 +21777,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:balm",
    "format:pack",
    "format:wash",
@@ -21891,7 +21858,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:vitamin-c",
    "claim:brightening",
@@ -21975,7 +21941,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:turmeric",
    "claim:brightening",
@@ -22057,7 +22022,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -22437,7 +22401,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:serum",
-   "format:oil",
    "format:clay-mask",
    "format:pack",
    "format:scrub",
@@ -22520,7 +22483,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -22752,7 +22714,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:vitamin-c",
@@ -23464,7 +23425,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -23615,7 +23575,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -23697,7 +23656,6 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:toner",
-   "format:oil",
    "format:pack",
    "format:scrub",
    "format:wash",
@@ -25079,7 +25037,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:scrub",
    "format:patch",
@@ -25626,7 +25583,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -26193,7 +26149,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:peptides",
@@ -26788,7 +26743,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:brightening",
@@ -27090,7 +27044,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -27247,7 +27200,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -27405,7 +27357,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -28311,7 +28262,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
@@ -30858,7 +30808,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:scrub",
    "format:wash",
@@ -31560,7 +31509,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:essence",
-   "format:oil",
    "format:scrub",
    "format:peel",
    "format:wash",
@@ -32243,7 +32191,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -32811,7 +32758,6 @@ const CTPRODUCTS = [
   "title": "Mamaearth Vitamin C Oil-Free Face Moisturizer- Vitamin C & Gotu K …",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:vitamin-c",
    "claim:hydrating",
    "free:oil-free",
@@ -33495,7 +33441,6 @@ const CTPRODUCTS = [
   "title": "Mamaearth Vitamin C Oil-Free Moisturizer for Skin Illumination Fo …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:vitamin-c",
    "claim:hydrating",
    "free:oil-free",
@@ -33564,7 +33509,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:alpha-arbutin",
@@ -33642,7 +33586,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:vitamin-c",
    "ing:turmeric",
    "claim:brightening",
@@ -33717,7 +33660,6 @@ const CTPRODUCTS = [
   "title": "The Derma Co 5% Vitamin C Oil-Free Daily Face Moisturizer for Ski …",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:vitamin-c",
    "claim:hydrating",
    "free:oil-free",
@@ -33785,7 +33727,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:lotion",
-   "format:oil",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "claim:brightening",
@@ -34573,7 +34514,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "spf:15",
    "ing:vitamin-c",
    "ing:saffron",
@@ -36248,6 +36188,78 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "nivea-itma15da8b738220",
+  "brand": "NIVEA",
+  "model": "Natural Glow, Cell Repair Brightens Skin, 50x Vitamin C Bod …",
+  "price": 495,
+  "capacityLine": "400 ml",
+  "materialLine": "vitamin C",
+  "featureLine": "Serum · ₹124/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹124/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.7,
+   "skin": 4,
+   "ingredients": 5.4,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹124/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/x/u/400-natural-glow-cell-repair-brightens-skin-50x-vitamin-c-body-original-imahjebsghx6hqqz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/u/d/400-natural-glow-cell-repair-brightens-skin-50x-vitamin-c-body-original-imahjebsygjedcjr.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/y/5/400-natural-glow-cell-repair-brightens-skin-50x-vitamin-c-body-original-imahjebsdjkqnrm8.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/n/k/-original-imahjgwfhcrkfydf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/g/f/-original-imahkkzkhygtqajg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-natural-glow-cell-repair-brightens-skin-50x-vitamin-c-body-lotion/p/itma15da8b738220",
+  "buyStore": "Flipkart",
+  "title": "NIVEA Natural Glow, Cell Repair Brightens Skin, 50x Vitamin C Bod …",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:serum",
+   "ing:vitamin-c",
+   "ing:milk",
+   "claim:brightening",
+   "claim:whitening-claim",
+   "claim:hydrating",
+   "claim:barrier",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
   "id": "skineva-itme822217759d99",
   "brand": "Skineva",
   "model": "Vitamin C for Glowing Skin | Brightening & Dark Spot Red …",
@@ -36298,7 +36310,7 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
+   "format:foam",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -36323,77 +36335,6 @@ const CTPRODUCTS = [
   "filters": {
    "actives": true,
    "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itma15da8b738220",
-  "brand": "NIVEA",
-  "model": "Natural Glow, Cell Repair Brightens Skin, 50x Vitamin C Bod …",
-  "price": 495,
-  "capacityLine": "400 ml",
-  "materialLine": "vitamin C",
-  "featureLine": "Lotion · ₹124/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹124/100ml",
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 5.7,
-   "skin": 4,
-   "ingredients": 5.4,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "400 ml",
-   "pricePer100": "₹124/100ml",
-   "format": "Lotion",
-   "keyIngredients": "vitamin C (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/x/u/400-natural-glow-cell-repair-brightens-skin-50x-vitamin-c-body-original-imahjebsghx6hqqz.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/u/d/400-natural-glow-cell-repair-brightens-skin-50x-vitamin-c-body-original-imahjebsygjedcjr.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/y/5/400-natural-glow-cell-repair-brightens-skin-50x-vitamin-c-body-original-imahjebsdjkqnrm8.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/n/k/-original-imahjgwfhcrkfydf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/g/f/-original-imahkkzkhygtqajg.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-natural-glow-cell-repair-brightens-skin-50x-vitamin-c-body-lotion/p/itma15da8b738220",
-  "buyStore": "Flipkart",
-  "title": "NIVEA Natural Glow, Cell Repair Brightens Skin, 50x Vitamin C Bod …",
-  "tags": [
-   "scope:both",
-   "format:lotion",
-   "format:kit",
-   "ing:vitamin-c",
-   "claim:brightening",
-   "claim:whitening-claim",
-   "claim:hydrating",
-   "claim:barrier",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
    "natural": true,
    "derm": false,
    "men": false,
@@ -36943,7 +36884,6 @@ const CTPRODUCTS = [
   "title": "Mamaearth Vitamin C Face Wash for Women & Men 250ml- Toxin-Free & Oil-Free Face Wash for Acne-Prone, Dry & Oily Skin - Illuminates Skin",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -37938,7 +37878,6 @@ const CTPRODUCTS = [
   "title": "NIVEA MEN Oil Control Face Wash 100 g | With Magnolia Bark Extracts for 12 Hr Oil Control in Summer | 10 X Vitamin C Effect for Radiant Skin | For Oily Skin",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "claim:oil-control",
@@ -38329,7 +38268,6 @@ const CTPRODUCTS = [
   "title": "The Man Company Vitamin C Face Wash For Man | Brightening & Glowing Skin I Oil Control | Vitamin C & Niacinamide | Hydrates | Gentle Deep Cleanse | Suitable For Oily, Dry & Sensitive Skin 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -39459,7 +39397,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
@@ -41603,7 +41540,6 @@ const CTPRODUCTS = [
   "title": "Pure Cleanse Deep Cleansing Face Wash with Willow Bark & Vitamin C - Oil Control & Pore Cleansing for Acne-Prone & Sensitive Skin, 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "claim:acne",
@@ -42330,7 +42266,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne Brightening Face Wash with Niacinamide 4% Salicylic Acid 1% Vitamin C Aloe Vera Extract Oil Control Deep Cleansing Facial Cleanser Lightweight Non Sticky Daily Face Wash for Oily Acne Prone Skin 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -42403,7 +42338,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -42769,6 +42703,72 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "nezal-b0hgtnt7ht",
+  "brand": "Nezal",
+  "model": "Aloe Vera Vitamin C Foaming Face Wash for Sensitive Skin 150ml | Mild Foaming Cleanser Des…",
+  "price": 333,
+  "capacityLine": "150 ml",
+  "materialLine": "vitamin C + aloe vera",
+  "featureLine": "Wash / cleanser · ₹222/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹222/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "150 ml",
+   "pricePer100": "₹222/100ml",
+   "format": "Wash / cleanser",
+   "keyIngredients": "vitamin C, aloe vera (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51792NjORoL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HGTNT7HT",
+  "buyStore": "Amazon",
+  "title": "Nezal Aloe Vera Vitamin C Foaming Face Wash for Sensitive Skin 150ml | Mild Foaming Cleanser Designed, Gently Remove Dirt and Impurities While Maintaining Skin",
+  "tags": [
+   "scope:face",
+   "format:foam",
+   "format:wash",
+   "ing:vitamin-c",
+   "ing:aloe-vera",
+   "free:sensitive-safe",
+   "skin:sensitive",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "agelite-b0hc2ll7r3",
   "brand": "Agelite",
   "model": "Vitamin C Face Wash with Soft Silicone Glow Brush, 100 ml | Natural Fruit AHAs & Kakadu Pl…",
@@ -43021,7 +43021,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:vitamin-c",
    "ing:neem",
    "claim:acne",
@@ -43687,7 +43686,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -46183,7 +46181,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -46594,7 +46591,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -46662,7 +46658,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -46730,7 +46725,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -46864,7 +46858,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -48167,6 +48160,69 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "minimalist-b0hbbz9hp7",
+  "brand": "Minimalist",
+  "model": "10% Advanced Vitamin C Serum for Glowing Skin | Brightening & Dark Spot Treatment | Treats…",
+  "price": 474,
+  "capacityLine": "20 ml",
+  "materialLine": "vitamin C",
+  "featureLine": "Serum · ₹2370/100ml",
+  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹2370/100ml"
+  ],
+  "scores": {
+   "trust": 6.1,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "20 ml",
+   "pricePer100": "₹2370/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71X6prj8rrL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HBBZ9HP7",
+  "buyStore": "Amazon",
+  "title": "Minimalist 10% Advanced Vitamin C Serum for Glowing Skin | Brightening & Dark Spot Treatment | Treats Uneven Skin Tone, Dullness & UV Damage | Daily Face Serum | 20 ml",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:dark-spots",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "natures-essence-b0fms31jrk",
   "brand": "Natures Essence",
   "model": "Vitamin C Serum Facial Kit for Women| For Bright & Glowing Skin| Infused with Niacinamide …",
@@ -48764,6 +48820,70 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "purito-b0hfwzqtlc",
+  "brand": "PURITO",
+  "model": "Galacto Niacin 97 Power Essence & Pure Vitamin C Serum | Brightening & Radiance Korean Ski…",
+  "price": 3331,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "vitamin C",
+  "featureLine": "Essence",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Essence",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51WVa6qMObL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HFWZQTLC",
+  "buyStore": "Amazon",
+  "title": "PURITO Galacto Niacin 97 Power Essence & Pure Vitamin C Serum | Brightening & Radiance Korean Skincare Duo",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "format:essence",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:korean",
+   "aud:unisex",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "generic-b0fjxgzgpb",
   "brand": "Generic",
   "model": "Korean Glow Serum with Ginseng,Vitamin C & Hyaluronic Acid – 30ml | K-Beauty Radiance Boos…",
@@ -48961,6 +49081,72 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false
+  }
+ },
+ {
+  "id": "foxtale-b0gzk6lcjx",
+  "brand": "Foxtale",
+  "model": "Lightweight Brightening Face Moisturiser with Vitamin C & Niacinamide |Brightens & Evens S…",
+  "price": 283,
+  "capacityLine": "50 ml",
+  "materialLine": "vitamin C + niacinamide",
+  "featureLine": "Cream / gel · ₹566/100ml",
+  "highlight": "Live Amazon listing rated 4.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.6)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.2,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹566/100ml",
+   "format": "Cream / gel",
+   "keyIngredients": "vitamin C, niacinamide (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.6/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71MuxkKmMJL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GZK6LCJX",
+  "buyStore": "Amazon",
+  "title": "Foxtale Lightweight Brightening Face Moisturiser with Vitamin C & Niacinamide |Brightens & Evens Skin Tone, Fades Dark Spots & Deeply Hydrates | For Normal to Dry Skin | For Men & Women | 50 ml",
+  "tags": [
+   "scope:face",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:lightweight",
+   "skin:dry",
+   "aud:women",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
   }
  },
  {
@@ -49811,7 +49997,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:glutathione",
@@ -51542,7 +51727,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:gel",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:lemon",
    "claim:brightening",
@@ -66005,6 +66189,71 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "swiss-b0flxkg1qv",
+  "brand": "Swiss",
+  "model": "Beauty Care Glow Fusion Face Serum | Bright & Glowy | 10% Vitamin C & Sakura Extract | Non…",
+  "price": 349,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C",
+  "featureLine": "Serum · ₹1163/100ml",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1163/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.7,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹1163/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51lYsGft0aL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FLXKG1QV",
+  "buyStore": "Amazon",
+  "title": "Swiss Beauty Care Glow Fusion Face Serum | Bright & Glowy | 10% Vitamin C & Sakura Extract | Non-Sticky | 30ml",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:oil-control",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "dot-key-b0bcq5lsnp",
   "brand": "Dot & Key",
   "model": "10% Vitamin C + E Serum with 5% Niacinamide,for Glowing Skin,Fades Dark Spots & Hyperpigme…",
@@ -66265,6 +66514,70 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "deconstruct-b0h2dskk5k",
+  "brand": "Deconstruct",
+  "model": "Advance Bright + Glow Vitamin C Serum | 15% Vitamin C | With Liposomal Technology| For Pig…",
+  "price": 615,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "vitamin C",
+  "featureLine": "Serum",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.2,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Serum",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51VcfJzfUGL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H2DSKK5K",
+  "buyStore": "Amazon",
+  "title": "Deconstruct Advance Bright + Glow Vitamin C Serum | 15% Vitamin C | With Liposomal Technology| For Pigmentation, Dullness & Dark Spots| Suitable for All Skin Types | Co-created with Dermatologists",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:dark-spots",
+   "skin:all",
+   "aud:unisex",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "biluma-b0h25t8mn5",
   "brand": "Biluma",
   "model": "Glow Vitamin C 15% Face Serum (15 ml) | Brightening Serum for Dark Spots, Pigmentation & U…",
@@ -66395,6 +66708,71 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "beardo-b0gqyqhhys",
+  "brand": "Beardo",
+  "model": "Ultra Glow Brightening Face Serum for Men | Powered by 15% Niacinamide, Vitamin C, Glutath…",
+  "price": 148,
+  "capacityLine": "10 ml",
+  "materialLine": "vitamin C + niacinamide",
+  "featureLine": "Serum · ₹1480/100ml",
+  "highlight": "Live Amazon listing rated 2.7★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1480/100ml",
+   "Mixed buyer rating (2.7)"
+  ],
+  "scores": {
+   "trust": 4.8,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "10 ml",
+   "pricePer100": "₹1480/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, niacinamide (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "2.7/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61RptiUqJzL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GQYQHHYS",
+  "buyStore": "Amazon",
+  "title": "Beardo Ultra Glow Brightening Face Serum for Men | Powered by 15% Niacinamide, Vitamin C, Glutathione | Simple Serum for Men | Brightening Face Serum – 10ml",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:glutathione",
+   "claim:brightening",
+   "aud:men",
+   "size:travel",
+   "rating:low",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": true,
    "women": false
   }
  },
@@ -66593,6 +66971,135 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "dermdoc-b0fhbmpxql",
+  "brand": "Dermdoc",
+  "model": "10% Vitamin C Face Serum Glow Pods (Pack of 20, 0.5ml Each) I Potent Face Serum Sachets I …",
+  "price": 175,
+  "capacityLine": "10 ml (pack of 2)",
+  "materialLine": "vitamin C",
+  "featureLine": "Serum · ₹1750/100ml",
+  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1750/100ml"
+  ],
+  "scores": {
+   "trust": 5.3,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "5 ml × 2 pack",
+   "pricePer100": "₹1750/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/611rVqmkSqL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FHBMPXQL",
+  "buyStore": "Amazon",
+  "title": "DERMDOC 10% Vitamin C Face Serum Glow Pods (Pack of 20, 0.5ml Each) I Potent Face Serum Sachets I Travel-Friendly I Brightening Fights Dark Spots Pigmentation DERMDOC",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:kit",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:dark-spots",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "dr-sheth-s-b0fnn8g6w6",
+  "brand": "Dr. Sheth'S",
+  "model": "Cica Exosomes & Vitamin C Face Serum | Brightens, restores glow from dull, tired skin | Li…",
+  "price": 849,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "vitamin C + centella/cica",
+  "featureLine": "Serum",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.8,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, centella/cica (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61Rtb5QKS1L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FNN8G6W6",
+  "buyStore": "Amazon",
+  "title": "Dr. Sheth's Cica Exosomes & Vitamin C Face Serum | Brightens, restores glow from dull, tired skin | Lightweight | Fast-absorbing and gentle | For all skin types",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:vitamin-c",
+   "ing:centella-cica",
+   "claim:brightening",
+   "claim:lightweight",
+   "skin:all",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "ihc-b0hbwp6gz8",
   "brand": "IHC",
   "model": "Glow 10% Vitamin C Face Serum with 5% Niacinamide & Glutathione- 30ML | Brightening Serum …",
@@ -66660,6 +67167,74 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false
+  }
+ },
+ {
+  "id": "pilgrim-b0h6fp8vnx",
+  "brand": "Pilgrim",
+  "model": "10% Vitamin C Serum 30ml (Pack of 2) for Glowing Skin with 5% Niacinamide | Fades Dark Spo…",
+  "price": 808,
+  "capacityLine": "60 ml (pack of 2)",
+  "materialLine": "vitamin C + niacinamide",
+  "featureLine": "Serum · ₹1347/100ml",
+  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1347/100ml"
+  ],
+  "scores": {
+   "trust": 5.4,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "30 ml × 2 pack",
+   "pricePer100": "₹1347/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, niacinamide (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61bqEoMAZZL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H6FP8VNX",
+  "buyStore": "Amazon",
+  "title": "Pilgrim 10% Vitamin C Serum 30ml (Pack of 2) for Glowing Skin with 5% Niacinamide | Fades Dark Spots, Evens Skin Tone |For All Oily, Combination, Normal Skin | Daily Radiance for Men & Women",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "format:kit",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "claim:brightening",
+   "claim:dark-spots",
+   "skin:oily",
+   "skin:combination",
+   "skin:normal",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
   }
  },
  {
@@ -66845,6 +67420,145 @@ const CTPRODUCTS = [
    "ing:alpha-arbutin",
    "claim:brightening",
    "claim:dark-spots",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "serene-b0ggjhfs8b",
+  "brand": "SERENE",
+  "model": "15% Vitamin C Face Serum with Millet Extract & Peptides | Brightening & Glow Serum for Dar…",
+  "price": 549,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C + peptides",
+  "featureLine": "Serum · ₹1830/100ml",
+  "highlight": "Live Amazon listing rated 4.4★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.4)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1830/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.8,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹1830/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, peptides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Anti-aging claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61fVPhTtLML._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GGJHFS8B",
+  "buyStore": "Amazon",
+  "title": "SERENE 15% Vitamin C Face Serum with Millet Extract & Peptides | Brightening & Glow Serum for Dark Spots & Firm Skin | Anti-Aging, Skin Barrier Protection & Pollution Defense | All Skin Types | For Women & Men (30 ml)",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:vitamin-c",
+   "ing:peptides",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:barrier",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "yeoul-b0gxkc6h5v",
+  "brand": "yeoul",
+  "model": "Goheung Yuja C Vita Brightening Serum 30mL | Korean Face Serum for Pigmentation, Dark Spot…",
+  "price": 1399,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C + niacinamide",
+  "featureLine": "Serum · ₹4663/100ml",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹4663/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹4663/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, niacinamide (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71CGPijDXtL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GXKC6H5V",
+  "buyStore": "Amazon",
+  "title": "yeoul Goheung Yuja C Vita Brightening Serum 30mL | Korean Face Serum for Pigmentation, Dark Spots & Uneven Tone | Yuja Vitamin C + 5% Niacinamide | Antioxidant Glow & Hydrating Barrier Care",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:yuja-yuzu",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:korean",
    "aud:unisex",
    "size:travel",
    "rating:4.5",
@@ -67962,7 +68676,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:glycolic-acid",
    "claim:brightening",
@@ -68044,6 +68757,74 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "der-man-b0h5jq5v9p",
+  "brand": "DER-MAN",
+  "model": "10% Vitamin C+ Golden Glow Face Serum for Men | Ferulic Acid | Hyaluronic Acid | Vitamin B…",
+  "price": 599,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C + hyaluronic acid",
+  "featureLine": "Serum · ₹1997/100ml",
+  "highlight": "Live Amazon listing rated 4.8★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.8)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1997/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹1997/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, hyaluronic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.8/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61h2OhDZtWL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H5JQ5V9P",
+  "buyStore": "Amazon",
+  "title": "DER-MAN 10% Vitamin C+ Golden Glow Face Serum for Men | Ferulic Acid | Hyaluronic Acid | Vitamin B5 | Brightening | Dark Spot Reduction | Clears Tanning | Lab Certified for 10% Vitamin C | 30 Ml",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:vitamin-c",
+   "ing:hyaluronic-acid",
+   "ing:vitamin-b5-panthenol",
+   "ing:ferulic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "aud:men",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": true,
    "women": false
   }
  },
@@ -68518,6 +69299,76 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "skinq-b0h2hs978c",
+  "brand": "SKINQ",
+  "model": "15% Vitamin C Detan Face Serum for Dark Spots & Dull Skin | Brightens & Evens Tone | With …",
+  "price": 250,
+  "capacityLine": "15 ml",
+  "materialLine": "vitamin C + hyaluronic acid",
+  "featureLine": "Serum · ₹1667/100ml",
+  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1667/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "15 ml",
+   "pricePer100": "₹1667/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, hyaluronic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71f11SpRBrL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H2HS978C",
+  "buyStore": "Amazon",
+  "title": "SKINQ 15% Vitamin C Detan Face Serum for Dark Spots & Dull Skin | Brightens & Evens Tone | With Ferulic Acid & Hyaluronic Acid | Lightweight, Non-Sticky | All Skin Types | Made by Dermat | 15ml",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:vitamin-c",
+   "ing:hyaluronic-acid",
+   "ing:ferulic-acid",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:dark-spots",
+   "claim:oil-control",
+   "claim:lightweight",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "just-b0f2t1mqzl",
   "brand": "Just",
   "model": "Herbs Radiant Glow Face Serum | Vitamin C Face Serum for Women | 15% Vitamin C, Niacinamid…",
@@ -68727,6 +69578,70 @@ const CTPRODUCTS = [
    "actives": true,
    "freefrom": true,
    "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "the-derma-co-b0fjmlkjrs",
+  "brand": "The Derma Co",
+  "model": "50000 PPM Vitamin C Microneedle Serum Shot Refill Pack | 5x Higher Penetration | Enhances …",
+  "price": 594,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "vitamin C",
+  "featureLine": "Serum",
+  "highlight": "Live Amazon listing rated 3.9★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Mixed buyer rating (3.9)"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Serum",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51xYgGt0zeL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FJMLKJRS",
+  "buyStore": "Amazon",
+  "title": "The Derma Co 50000 PPM Vitamin C Microneedle Serum Shot Refill Pack | 5x Higher Penetration | Enhances Collagen Production & Makes Skin Glow | Safe and Effective",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "format:pack",
+   "ing:vitamin-c",
+   "ing:collagen",
+   "claim:brightening",
+   "aud:unisex",
+   "rating:3.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
    "derm": false,
    "men": false,
    "women": false
@@ -69206,6 +70121,70 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "keyfactor-b0fwkp78f6",
+  "brand": "Keyfactor",
+  "model": "Ascorbyl Glucoside Solution 12% (50ml) | Brightening Vitamin C Serum for Radiant, Even-Ton…",
+  "price": 699,
+  "capacityLine": "50 ml",
+  "materialLine": "vitamin C",
+  "featureLine": "Serum · ₹1398/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1398/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹1398/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/518C26HwjFL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FWKP78F6",
+  "buyStore": "Amazon",
+  "title": "Keyfactor Ascorbyl Glucoside Solution 12% (50ml) | Brightening Vitamin C Serum for Radiant, Even-Toned Skin | Fades Dark Spots & Pigmentation | Antioxidant-Rich Daily Glow Booster",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:dark-spots",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "generic-b0h6shqsw8",
   "brand": "Generic",
   "model": "Premium Vitamin C + E Face Serum with Hyaluronic Acid Niacinamide & Aloe Vera Brightening …",
@@ -69408,6 +70387,72 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true
+  }
+ },
+ {
+  "id": "pilgrim-b0hbmkhhdt",
+  "brand": "Pilgrim",
+  "model": "10% Vitamin C Serum 30ml for Glowing Skin & Korean Light Gel Oil Free Hydra Glow Moisturiz…",
+  "price": 769,
+  "capacityLine": "100 g",
+  "materialLine": "vitamin C",
+  "featureLine": "Serum · ₹769/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹769/100g",
+   "format": "Serum",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51W9QdHfF+L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HBMKHHDT",
+  "buyStore": "Amazon",
+  "title": "Pilgrim 10% Vitamin C Serum 30ml for Glowing Skin & Korean Light Gel Oil Free Hydra Glow Moisturizer Cream 100 g",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:cream",
+   "format:serum",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:korean",
+   "free:oil-free",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
   }
  },
  {
@@ -70338,6 +71383,71 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "elibliss-b0hbb4j7y5",
+  "brand": "Elibliss",
+  "model": "Vitamin C Brightening Face Serum 30ml | Vitamin C Serum for Skin Brightening, Firming & Re…",
+  "price": 85,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C",
+  "featureLine": "Serum · ₹283/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹283/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51g+J99OXgL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HBB4J7Y5",
+  "buyStore": "Amazon",
+  "title": "Elibliss Vitamin C Brightening Face Serum 30ml | Vitamin C Serum for Skin Brightening, Firming & Repair | Helps Improve Skin Elasticity, Hydrates Skin & Promotes Radiant Glow for Men & Women",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:barrier",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
   "id": "generic-b0gpcwst5y",
   "brand": "Generic",
   "model": "Vitamin C Serum for Hyperpigmentation & Dull Skin, 30ml (1.01 fl oz)",
@@ -70805,6 +71915,71 @@ const CTPRODUCTS = [
   "filters": {
    "actives": true,
    "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "undry-b0h6pftf5s",
+  "brand": "Undry",
+  "model": "Vitamin C Face Serum, 30ml | Seabuckthorn, Hyaluronic Acid",
+  "price": 399,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C + hyaluronic acid",
+  "featureLine": "Serum · ₹1330/100ml",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1330/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹1330/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, hyaluronic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51faqFuNs5L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H6PFTF5S",
+  "buyStore": "Amazon",
+  "title": "Undry Vitamin C Face Serum, 30ml | Seabuckthorn, Hyaluronic Acid",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:vitamin-c",
+   "ing:hyaluronic-acid",
+   "ing:sea-buckthorn",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
    "natural": false,
    "derm": false,
    "men": false,
@@ -74125,7 +75300,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -74810,7 +75984,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:pha",
    "claim:brightening",
@@ -82564,7 +83737,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -82978,7 +84150,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -83050,7 +84221,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "spf:50",
    "pa:++++",
    "ing:vitamin-c",
@@ -83122,7 +84292,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:brightening",
@@ -83860,7 +85029,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -85267,7 +86435,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "spf:30",
    "pa:++",
    "ing:vitamin-c",
@@ -87203,6 +88370,80 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "ilem-b0gln4157g",
+  "brand": "ILEM",
+  "model": "JAPAN Renewal Serum 30ml | Bakuchiol Japanese Night Serum with Argireline & Peptides for F…",
+  "price": 1870,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C + retinol + bakuchiol",
+  "featureLine": "Serum · ₹6233/100ml",
+  "highlight": "Live Amazon listing rated 4.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹6233/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 6.7,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹6233/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, retinol, bakuchiol, peptides, rice water, shea butter (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51JwxwkN4hL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GLN4157G",
+  "buyStore": "Amazon",
+  "title": "ILEM JAPAN Renewal Serum 30ml | Bakuchiol Japanese Night Serum with Argireline & Peptides for Firmness, Elasticity and Sensitive Skin | Retinol Alternative for Fine Lines & Wrinkles | Vitamin C for Even Skin Tone, Rice Ferment + Hydration | Shea Butter, Skin Barrier",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "format:balm",
+   "ing:vitamin-c",
+   "ing:retinol",
+   "ing:bakuchiol",
+   "ing:peptides",
+   "ing:rice-water",
+   "ing:shea-butter",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:barrier",
+   "free:sensitive-safe",
+   "skin:sensitive",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "dual-phase-b0gr678rtt",
   "brand": "Dual-Phase",
   "model": "Brightening & Collagen Facial Serum | 15% Brightening + 20% Collagen | Vitamin C, Niacinam…",
@@ -87398,6 +88639,74 @@ const CTPRODUCTS = [
    "actives": true,
    "freefrom": false,
    "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "rustic-b0fp9nvsn5",
+  "brand": "Rustic",
+  "model": "Art Neem Basil Facial Serum | Vitamin C & Bakuchiol | Controls acne & breakouts, fades dar…",
+  "price": 688,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C + bakuchiol + neem",
+  "featureLine": "Serum · ₹2293/100ml",
+  "highlight": "Live Amazon listing rated 3.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹2293/100ml",
+   "Mixed buyer rating (3.6)"
+  ],
+  "scores": {
+   "trust": 3.6,
+   "skin": 4,
+   "ingredients": 6.2,
+   "experience": 5.1
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹2293/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, bakuchiol, neem (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "3.6/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61UygKRnHaL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FP9NVSN5",
+  "buyStore": "Amazon",
+  "title": "Rustic Art Neem Basil Facial Serum | Vitamin C & Bakuchiol | Controls acne & breakouts, fades dark spots | Imrpoves skin radiance | For all skin types | Organic & Natural |30 ml",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:vitamin-c",
+   "ing:bakuchiol",
+   "ing:neem",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:acne",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
    "derm": false,
    "men": false,
    "women": false
@@ -87741,6 +89050,72 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "nantra-b0gr9wrr4y",
+  "brand": "Nantra",
+  "model": "Serum Bottle Retinal Liposome 2% + Black Ginseng 58% Black Ginseng Extract Retinal Serum B…",
+  "price": 299,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C + retinol + bakuchiol",
+  "featureLine": "Serum · ₹997/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 6.3,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹997/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, retinol, bakuchiol, peptides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41BxrHtWMVL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GR9WRR4Y",
+  "buyStore": "Amazon",
+  "title": "Nantra Serum Bottle Retinal Liposome 2% + Black Ginseng 58% Black Ginseng Extract Retinal Serum Bakuchiol Vitamin C & 3Peptides For Wrinkle Care 30ml/1.01fl.Oz",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "ing:vitamin-c",
+   "ing:retinal",
+   "ing:bakuchiol",
+   "ing:peptides",
+   "ing:ginseng",
+   "claim:anti-aging",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "tetra-c-b0gtf5n874",
   "brand": "Tetra-C",
   "model": "Serum - Advanced Dark Spot Corrector & Skin Brightening Face Serum for Sensitive Skin, Zer…",
@@ -87949,6 +89324,73 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "nantra-b0ggbs7cmm",
+  "brand": "Nantra",
+  "model": "Serum Bottle Retinal Liposome 2% + Black Ginseng 58% Black Ginseng Extract Retinal Serum B…",
+  "price": 299,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C + retinol + bakuchiol",
+  "featureLine": "Serum · ₹997/100ml",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 6.3,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹997/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, retinol, bakuchiol, peptides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41BxrHtWMVL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GGBS7CMM",
+  "buyStore": "Amazon",
+  "title": "Nantra Serum Bottle Retinal Liposome 2% + Black Ginseng 58% Black Ginseng Extract Retinal Serum Bakuchiol Vitamin C & 3Peptides For Wrinkle Care 30ml",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "ing:vitamin-c",
+   "ing:retinal",
+   "ing:bakuchiol",
+   "ing:peptides",
+   "ing:ginseng",
+   "claim:anti-aging",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "ind-b0dwfx4slh",
   "brand": "indē",
   "model": "wild Power Players Giftbox | AM & PM Serum Duo | 10ml Each | 15% Vitamin C, Bakuchiol & Ay…",
@@ -88101,6 +89543,75 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": true
+  }
+ },
+ {
+  "id": "bake-b0gmqk3pc2",
+  "brand": "BAKE",
+  "model": "Wrinkle Erase™ Anti-Wrinkle & Firming Serum Cream with 2% THD Vitamin C, Peptides & 0.5% B…",
+  "price": 569,
+  "capacityLine": "30 g",
+  "materialLine": "vitamin C + bakuchiol + peptides",
+  "featureLine": "Serum · ₹1897/100g",
+  "highlight": "Live Amazon listing rated 4.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1897/100g",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "30 g",
+   "pricePer100": "₹1897/100g",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, bakuchiol, peptides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61-GaQhpEkL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GMQK3PC2",
+  "buyStore": "Amazon",
+  "title": "BAKE Wrinkle Erase™ Anti-Wrinkle & Firming Serum Cream with 2% THD Vitamin C, Peptides & 0.5% Bakuchiol | Reduces Fine Lines, Boosts Collagen, Repairs Skin Barrier | Anti-Aging Serum | 30g",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:serum",
+   "ing:vitamin-c",
+   "ing:bakuchiol",
+   "ing:peptides",
+   "ing:collagen",
+   "claim:anti-aging",
+   "claim:barrier",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
   }
  },
  {
@@ -88646,6 +90157,72 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0gggrjcq2",
+  "brand": "Buy",
+  "model": "COOFANDY Vitamin C Orange Exfoliating Peeling Gel | Gentle Face & Body Scrub | Deep Clean …",
+  "price": 399,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "vitamin C",
+  "featureLine": "Scrub / exfoliant",
+  "highlight": "Live Amazon listing rated 1.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Mixed buyer rating (1.0)"
+  ],
+  "scores": {
+   "trust": 3,
+   "skin": 4,
+   "ingredients": 5.4,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "1.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71zfd6U5ZkL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GGGRJCQ2",
+  "buyStore": "Amazon",
+  "title": "Buy COOFANDY Vitamin C Orange Exfoliating Peeling Gel | Gentle Face & Body Scrub | Deep Clean Pores, Remove Tan & Dead Skin | Natural Glow Booster for Men & Women for All Types Skin Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:scrub",
+   "format:peel",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:pores",
+   "claim:exfoliating",
+   "aud:women",
+   "rating:low",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
   "id": "orange-b0gthtr1pv",
   "brand": "Orange",
   "model": "Enzymes Exfoliating Gel for Face & Body | Deep Cleansing Moisturizing Facial Exfoliator | …",
@@ -88773,6 +90350,72 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:large",
    "rating:3.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0ghfyvkt4",
+  "brand": "Buy",
+  "model": "QUAT Vitamin C Face Scrub | Brightening & De-Tan Exfoliating Scrub for Glowing Skin | Remo…",
+  "price": 229,
+  "capacityLine": "100 g",
+  "materialLine": "vitamin C",
+  "featureLine": "Scrub / exfoliant · ₹229/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹229/100g",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹229/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71eB4RSsBtL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GHFYVKT4",
+  "buyStore": "Amazon",
+  "title": "Buy QUAT Vitamin C Face Scrub | Brightening & De-Tan Exfoliating Scrub for Glowing Skin | Removes Dead Skin, Dullness & Impurities | For All Skin Types | 100 g Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:scrub",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:exfoliating",
+   "skin:all",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
    "store:amazon"
   ],
   "filters": {
@@ -92114,7 +93757,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:peel",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -92463,7 +94105,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -92665,7 +94306,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -92735,7 +94375,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
@@ -92803,7 +94442,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne Brightening Face Wash with Niacinamide Salicylic Acid Vitamin C Aloe Vera Extract Gentle Daily Cleanser for Oily Acne Prone Skin Deep Cleansing Oil Control Hydrating Face Cleanser 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -92874,7 +94512,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne Brightening Face Wash with Niacinamide 4% Salicylic Acid 1% Vitamin C Aloe Vera Extract Deep Cleansing Oil Control Face Cleanser for Oily Acne Prone Skin Lightweight Non Sticky Daily Face Wash 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -92945,7 +94582,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne Brightening Face Wash with Niacinamide 4% Salicylic Acid 1% Vitamin C Aloe Vera Extract Oil Control Deep Cleansing Daily Facial Cleanser for Oily Acne Prone Skin Lightweight Non Sticky 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -93163,7 +94799,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne & Brightening Face Wash with Niacinamide 4%, Salicylic Acid 1% & Vitamin C | Aloe Vera Extract Facial Cleanser | Deep Pore Cleansing, Oil Control & Acne Care | Lightweight Daily Face Wash for Oily, Combination & Acne-Prone Skin | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -93236,7 +94871,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne & Brightening Face Wash with Niacinamide 4%, Salicylic Acid 1% & Vitamin C | Aloe Vera Extract | Deep Cleansing Oil Control Face Cleanser | Helps Reduce Acne, Blemishes & Acne Marks | Daily Facial Wash for Oily & Combination Skin | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -93306,7 +94940,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne Brightening Face Wash with Niacinamide 4 Percent Salicylic Acid 1 Percent Vitamin C Aloe Vera Extract Daily Deep Cleansing Oil Control Face Cleanser for Oily Acne Prone Skin 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -93516,7 +95149,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne & Brightening Face Wash with Niacinamide 4%, Salicylic Acid 1% & Vitamin C | Aloe Vera Extract Face Cleanser for Oily & Acne-Prone Skin | Deep Cleansing, Oil Control & Skin Brightening | 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -93586,7 +95218,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne & Brightening Face Wash with Niacinamide 4%, Salicylic Acid 1% & Vitamin C | Aloe Vera Extract | Deep Cleansing Facial Cleanser for Oily & Acne-Prone Skin | Oil Control, Acne Care & Skin Brightening | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -93656,7 +95287,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne & Brightening Face Wash with Niacinamide 4%, Salicylic Acid 1% & Vitamin C | Aloe Vera Extract Facial Cleanser | Oil Control, Deep Pore Cleansing & Skin Brightening | Daily Face Wash for Oily & Acne-Prone Skin | 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -93727,7 +95357,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne & Brightening Face Wash with Niacinamide 4%, Salicylic Acid 1% & Vitamin C | Aloe Vera Extract | Deep Cleansing Oil Control Facial Cleanser | Helps Reduce Acne Marks & Brightens Skin | Lightweight Daily Face Wash | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -93796,7 +95425,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne Brightening Face Wash with Aloe Vera Extracts, Niacinamide 4%, Salicylic Acid 1% & Vitamin C, Deep Cleansing Facial Cleanser for Oily & Acne Prone Skin, Oil Control, Skin Brightening, Lightweight Formula, 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -94208,7 +95836,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -94278,7 +95905,6 @@ const CTPRODUCTS = [
   "title": "Dr. Sheth's Ceramide & Vitamin C Oil-Free Face Moisturizer for Oily | Combination & Acne prone skin | Repairs Damaged Skin Barrier | Hydrates & Brighten | lightweight formula | 50 g",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:vitamin-c",
    "ing:ceramides",
    "claim:brightening",
@@ -94688,7 +96314,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -94821,7 +96446,6 @@ const CTPRODUCTS = [
   "title": "The Derma Co 5% Vitamin C Oil-Free Daily Face Moisturizer for Skin Radiance | For Oily Skin | For Skin Radiance | Non-Greasy Formula | 100 g",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:oil-control",
@@ -94891,7 +96515,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:vitamin-c",
    "ing:urea",
    "ing:aloe-vera",
@@ -95098,7 +96721,6 @@ const CTPRODUCTS = [
   "title": "DR.Rashel Vitamin C Moisturizer For Dry Skin | Oil Free Hydrating Moisturiser for Face | Skin Brightening Face Moisturizer for Women and Men-75 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:hydrating",
@@ -95499,7 +97121,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:alpha-arbutin",
@@ -95774,7 +97395,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -95845,7 +97465,6 @@ const CTPRODUCTS = [
   "title": "Mamaearth Vitamin C Oil-Free Moisturizer For Face with Vitamin C & Gotu Kola for Skin Illumination – 80 g",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:vitamin-c",
    "ing:turmeric",
    "ing:vitamin-e",
@@ -96056,7 +97675,6 @@ const CTPRODUCTS = [
   "title": "DR.Rashel Vitamin C Moisturizer For Dry Skin | Oil Free Hydrating Moisturiser for Face | Skin Brightening Face Moisturizer for Women and Men",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:hydrating",
@@ -96121,7 +97739,6 @@ const CTPRODUCTS = [
   "title": "Gabit Ceramide & Hyaluronic Face Moisturiser | Lightweight Moisturizer to Hydrate & Brighten Skin | With Vitamin C, Niacinamide, Oats | For Women and Men | Oil Free for All Skin Types",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:colloidal-oatmeal",
@@ -96191,7 +97808,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "ing:vitamin-c",
    "ing:vitamin-e",
    "claim:brightening",
@@ -96263,7 +97879,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "ing:vitamin-c",
    "ing:ceramides",
    "claim:brightening",
@@ -96552,7 +98167,6 @@ const CTPRODUCTS = [
   "title": "Dr. Sheth's Ceramide & Vitamin C Oil - Free Moisturizer| Lightweight Moisturizer To Hydrate & Brighten Skin | With Vitamin C, Ceramide & Ashwagandha | For Women & Men | 100G",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:vitamin-c",
    "ing:ceramides",
    "claim:brightening",
@@ -97787,7 +99401,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -98322,7 +99935,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:sheet-mask",
    "format:wash",
    "format:kit",
@@ -98868,7 +100480,6 @@ const CTPRODUCTS = [
   "title": "Sanfe Glow Up Sheet Mask (Pack of 6) | Korean Facial Masks with Rose, Cucumber, Charcoal, Lemon, Papaya & Vitamin C | For Instant Glow, Hydration, Detan, Brightening & Oil Control | 150Gm",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:sheet-mask",
    "format:kit",
    "ing:vitamin-c",
@@ -101690,7 +103301,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -101970,7 +103580,6 @@ const CTPRODUCTS = [
   "title": "Advanced Pore Detoxification and Skin Brightening Set featuring Activated Charcoal and Vitamin C Orange Peel Powder for Blackhead Removal Oil Control and Instant Facial Glow Pack of 2",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel",
    "format:powder",
    "format:kit",
@@ -102455,7 +104064,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -104114,6 +105722,74 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0gt8n4f5y",
+  "brand": "Buy",
+  "model": "Nivea Extra Bright Repair Protect Body Serum 320ml Vitamin C Body Lotion with SPF 50 for B…",
+  "price": 1147,
+  "capacityLine": "320 ml",
+  "materialLine": "vitamin C",
+  "featureLine": "Sunscreen · SPF 50 · ₹358/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 5.3
+  },
+  "fullSpec": {
+   "quantity": "320 ml",
+   "pricePer100": "₹358/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51yBU+9xQBL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GT8N4F5Y",
+  "buyStore": "Amazon",
+  "title": "Buy Nivea Extra Bright Repair Protect Body Serum 320ml Vitamin C Body Lotion with SPF 50 for Brightening Skin Tone Even Skin Hydration Sun Protection Daily Use for All Skin Types Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:serum",
+   "spf:50",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:unisex",
+   "size:xl",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "buy-b0bcjqnpsg",
   "brand": "Buy",
   "model": "NIVEA Body Lotion For Men & Women, 400 ml & NIVEA Body Lotion for Very Dry Skin, 400 ml & …",
@@ -104308,7 +105984,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "format:wash",
    "spf:15",
    "ing:vitamin-c",
@@ -104682,6 +106357,76 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true
+  }
+ },
+ {
+  "id": "skinq-b0gzdvf16v",
+  "brand": "SKINQ",
+  "model": "SPF 50+ Detan Sunscreen Gel | Tan Reduction, No White Cast | 97.5% UVB Protection | With V…",
+  "price": 230,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C",
+  "featureLine": "Sunscreen · SPF 50 · ₹767/100ml",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.7,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹767/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61ymQGsSpwL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GZDVF16V",
+  "buyStore": "Amazon",
+  "title": "SKINQ SPF 50+ Detan Sunscreen Gel | Tan Reduction, No White Cast | 97.5% UVB Protection | With Vitamin C | Lightweight, Non-Greasy | Normal, Dry & Sensitive Skin | Made by Dermat | 30ml",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "spf:50+",
+   "ing:vitamin-c",
+   "claim:de-tan",
+   "claim:oil-control",
+   "claim:no-white-cast",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "free:sensitive-safe",
+   "skin:sensitive",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
   }
  },
  {
@@ -105880,6 +107625,143 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0gk1ptszn",
+  "brand": "Buy",
+  "model": "NIVEA Super 10 Youth Body Serum Lotion 170ml | Niacinamide Retinol 120X Vitamin C Body Lot…",
+  "price": 210,
+  "capacityLine": "170 ml",
+  "materialLine": "vitamin C + niacinamide + retinol",
+  "featureLine": "Sunscreen · SPF 15 · ₹124/100ml",
+  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹124/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 5.3
+  },
+  "fullSpec": {
+   "quantity": "170 ml",
+   "pricePer100": "₹124/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, retinol (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 15",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/612oK9UEc8L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GK1PTSZN",
+  "buyStore": "Amazon",
+  "title": "Buy NIVEA Super 10 Youth Body Serum Lotion 170ml | Niacinamide Retinol 120X Vitamin C Body Lotion SPF15 Daily Sunscreen | Skin Tightening, Lightweight, Fast Absorbing Moisturizer | Youthful & Firm Skin in 5 Days Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:serum",
+   "spf:15",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:retinol",
+   "claim:hydrating",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0gt8kk6c4",
+  "brand": "Buy",
+  "model": "Nivea Extra White Repair and Protect Body Serum SPF50 PA Brightening Body Lotion 180ml Vit…",
+  "price": 947,
+  "capacityLine": "180 ml",
+  "materialLine": "vitamin C",
+  "featureLine": "Sunscreen · SPF 50 · ₹526/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 5.3
+  },
+  "fullSpec": {
+   "quantity": "180 ml",
+   "pricePer100": "₹526/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51BnDgeaaDL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GT8KK6C4",
+  "buyStore": "Amazon",
+  "title": "Buy Nivea Extra White Repair and Protect Body Serum SPF50 PA Brightening Body Lotion 180ml Vitamin C Skin Whitening Sun Protection Moisturizer for Smooth Radiant Skin Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:serum",
+   "spf:50",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:whitening-claim",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "buy-b0b9qmlkzy",
   "brand": "Buy",
   "model": "NIVEA Body Lotion for Very Dry Skin, Nourishing Body Milk 600 ml & NIVEA Body Lotion Natur…",
@@ -105996,7 +107878,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "format:wash",
    "spf:15",
    "ing:vitamin-c",
@@ -106016,6 +107897,73 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": true,
+   "women": false
+  }
+ },
+ {
+  "id": "johnson-s-b0h2f6sfp5",
+  "brand": "Johnson'S",
+  "model": "Baby Milk and Rice Baby Lotion 500 ml| All Skin Types Including Sensitive Skin | With Milk…",
+  "price": 334,
+  "capacityLine": "500 ml",
+  "materialLine": "rice water",
+  "featureLine": "Lotion · ₹67/100ml",
+  "highlight": "Live Amazon listing rated 4.7★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹67/100ml",
+   "Strong buyer rating (4.7)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.9,
+   "skin": 4,
+   "ingredients": 4.7,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "500 ml",
+   "pricePer100": "₹67/100ml",
+   "format": "Lotion",
+   "keyIngredients": "rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.7/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/510PjFJxXiL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H2F6SFP5",
+  "buyStore": "Amazon",
+  "title": "Johnson's Baby Milk and Rice Baby Lotion 500 ml| All Skin Types Including Sensitive Skin | With Milk Protein, Rice Extracts & Multivitamin Complex | Helps Nourish Baby's Skin for Natural Softness | No Added Parabens & Sulphates | Hypoallergenic & PH Based Formula",
+  "tags": [
+   "scope:unstated",
+   "format:lotion",
+   "ing:rice-water",
+   "ing:milk",
+   "claim:hydrating",
+   "free:hypoallergenic",
+   "free:sensitive-safe",
+   "skin:sensitive",
+   "skin:all",
+   "aud:kids",
+   "size:xl",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
    "women": false
   }
  },
@@ -106333,7 +108281,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "spf:60",
    "pa:+++",
    "ing:vitamin-c",
@@ -107232,7 +109179,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:scrub",
    "format:wash",
@@ -109166,7 +111112,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:sheet-mask",
    "format:peel-off",
    "format:pack",
@@ -109385,7 +111330,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:vitamin-c",
    "ing:tranexamic-acid",
@@ -109463,7 +111407,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:tranexamic-acid",
@@ -109542,7 +111485,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -110945,7 +112887,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
@@ -113301,7 +115242,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:clay-mask",
    "format:powder",
    "format:wash",
@@ -115261,7 +117201,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -115414,7 +117353,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -115870,7 +117808,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -116022,7 +117959,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -116320,7 +118256,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -116399,7 +118334,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -116479,7 +118413,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:vitamin-c",
@@ -116558,7 +118491,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "sun:mineral",
    "ing:vitamin-c",
@@ -116724,7 +118656,6 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:stick",
-   "format:oil",
    "format:sheet-mask",
    "format:pack",
    "format:bar",
@@ -116886,7 +118817,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -117051,7 +118981,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:vitamin-c",
@@ -117430,7 +119359,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:vitamin-c",
@@ -117870,7 +119798,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:vitamin-c",
    "claim:brightening",
@@ -118818,7 +120745,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -119417,7 +121343,6 @@ const CTPRODUCTS = [
   "title": "Minimalist 8% L-Ascorbic Acid Lip Balm with Vitamin E, Radianskin …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:balm",
    "ing:vitamin-c",
    "ing:collagen",
@@ -119571,7 +121496,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:aha",
    "claim:brightening",
@@ -120683,7 +122607,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -120767,7 +122690,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -120922,7 +122844,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -121426,7 +123347,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -121584,7 +123504,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:vitamin-c",
@@ -123048,7 +124967,6 @@ const CTPRODUCTS = [
   "title": "glowvera LICHT VITAMIN C FACE WASH DEEP REFRESHING 50GM Face Wash …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:papaya",
@@ -123062,6 +124980,415 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "skineva-itm19036a7234cdb",
+  "brand": "Skineva",
+  "model": "Sunscreen - SPF 50+ PA++++ Shield SPF 50 Vitamin C + E Li …",
+  "price": 146,
+  "capacityLine": "60 g",
+  "materialLine": "vitamin C + niacinamide + hyaluronic acid",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹243/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹243/100g",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4.6,
+   "ingredients": 6.9,
+   "experience": 5.6
+  },
+  "fullSpec": {
+   "quantity": "60 g",
+   "pricePer100": "₹243/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, hyaluronic acid, rice water, zinc (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/n/g/v/50-shield-spf-50-vitamin-c-e-lightweight-brightening-sunscreen-original-imahmcvuywphwzfz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/t/9/v/50-face-comfy-glow-uva-uvb-protection-1-niacinamide-with-vitamin-original-imahhu4bvzk8r6me.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/g/q/h/50-face-comfy-glow-uva-uvb-protection-1-niacinamide-with-vitamin-original-imahhu4bcndxsrhm.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/c/x/l/50-face-comfy-glow-uva-uvb-protection-1-niacinamide-with-vitamin-original-imahhu4b9f5uwgha.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/i/h/w/50-face-comfy-glow-uva-uvb-protection-1-niacinamide-with-vitamin-original-imahhu4bsswr9b9u.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/skineva-sunscreen-spf-50-pa-shield-50-vitamin-c-e-lightweight-brightening/p/itm19036a7234cdb",
+  "buyStore": "Flipkart",
+  "title": "Skineva Sunscreen - SPF 50+ PA++++ Shield SPF 50 Vitamin C + E Li …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "spf:50+",
+   "pa:++++",
+   "sun:mineral",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:rice-water",
+   "ing:zinc",
+   "ing:titanium-dioxide",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:broad-spectrum",
+   "claim:blue-light",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "free:paraben",
+   "free:vegan",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "glojox-itm5a711b1d5a9cb",
+  "brand": "glojox",
+  "model": "FACE WASH WITH GLUTATHIONE, KOJIC ACID, VITAMIN C, VITAMIN …",
+  "price": 374,
+  "capacityLine": "280 g (pack of 2)",
+  "materialLine": "vitamin C + kojic acid + vitamin E",
+  "featureLine": "Wash / cleanser · ₹134/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹134/100g",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "140 g × 2 pack",
+   "pricePer100": "₹134/100g",
+   "format": "Wash / cleanser",
+   "keyIngredients": "vitamin C, kojic acid, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Anti-aging claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/e/s/j/100-face-wash-with-glutathione-kojic-acid-vitamin-c-vitamin-e-original-imahpf4gu9wknnkh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/x/d/s/100-glojox-scotderma-original-imahzcbrhmtjuhqu.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/d/n/p/100-face-wash-glojox-original-imahhadtpxgbqqg7.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/9/d/z/140-glutafine-rich-creamy-skin-lightening-facewash-with-original-imahpnfpqzdkcfnh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/r/u/b/75-vitamin-c-glow-anti-ageing-face-wash-15-miss-bella-original-imahzphagr82wgag.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/glojox-face-wash-glutathione-kojic-acid-vitamin-c-e-grape-seed-extract/p/itm5a711b1d5a9cb",
+  "buyStore": "Flipkart",
+  "title": "glojox FACE WASH WITH GLUTATHIONE, KOJIC ACID, VITAMIN C, VITAMIN …",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "format:wash",
+   "format:kit",
+   "ing:vitamin-c",
+   "ing:kojic-acid",
+   "ing:glutathione",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:whitening-claim",
+   "claim:anti-aging",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "wishcare-itmb6ea825a3a93a",
+  "brand": "WishCare",
+  "model": "Sunscreen - SPF SPF50 PA++++ Vitamin C Pure Glow Face Su …",
+  "price": 568,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C + niacinamide + peptides",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹1893/100ml",
+  "highlight": "Live Flipkart listing rated 3.9★ by 9 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Pricey: ₹1893/100ml",
+   "Mixed buyer rating (3.9)"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4.6,
+   "ingredients": 7.2,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹1893/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, peptides, kojic acid, licorice (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "3.9/5 (9 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/e/3/o/30-vitamin-c-pure-glow-face-sunscreen-broad-spectum-ultra-light-original-imahh3n8merk5v9n.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/7/v/j/-original-imahmsghnsnwzhag.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/v/z/v/-original-imahmsghwyhhrz3r.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/j/9/h/100-niacinamide-oil-balance-sunscreen-in-vivo-tested-8hrs-spf-original-imahngyhakhknzjh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/5/e/m/30-niacinamide-oil-balance-sunscreen-in-vivo-tested-8hrs-spf-original-imahp4z3jqcvqgyw.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/wishcare-sunscreen-spf-spf50-pa-vitamin-c-pure-glow-face-broad-spectum-ultra-light-no-white-cast/p/itmb6ea825a3a93a",
+  "buyStore": "Flipkart",
+  "title": "WishCare Sunscreen - SPF SPF50 PA++++ Vitamin C Pure Glow Face Su …",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "spf:50",
+   "pa:++++",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:peptides",
+   "ing:kojic-acid",
+   "ing:licorice",
+   "ing:milk",
+   "claim:brightening",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "free:paraben",
+   "free:vegan",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:3.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "wishcare-itm8faf02b564721",
+  "brand": "WishCare",
+  "model": "Sunscreen - SPF 50+ PA++++ Vitamin C Pure Glow Milk Suns …",
+  "price": 997,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C + niacinamide + peptides",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹3323/100ml",
+  "highlight": "Live Flipkart listing rated 4.3★ by 5,260 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "Pricey: ₹3323/100ml"
+  ],
+  "scores": {
+   "trust": 5.8,
+   "skin": 4.6,
+   "ingredients": 7.2,
+   "experience": 5.6
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹3323/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, peptides, kojic acid, licorice (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "4.3/5 (5,260 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/v/z/v/-original-imahmsghwyhhrz3r.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/f/b/n/-original-imahmsgh9r6efchf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/h/w/g/-original-imahmsghyqxztzby.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/6/z/f/-original-imahmsghptkrtdgg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/h/z/m/-original-imahmsghcasvexnp.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/wishcare-sunscreen-spf-50-pa-vitamin-c-pure-glow-milk-sunscreen-in-vivo-tested-for-men-women-no-white-cast/p/itm8faf02b564721",
+  "buyStore": "Flipkart",
+  "title": "WishCare Sunscreen - SPF 50+ PA++++ Vitamin C Pure Glow Milk Suns …",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "spf:50+",
+   "pa:++++",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:peptides",
+   "ing:kojic-acid",
+   "ing:licorice",
+   "ing:milk",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "free:paraben",
+   "free:vegan",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "wishcare-itmcebf4427b77fe",
+  "brand": "WishCare",
+  "model": "Tinted Lip Balm SPF 50 PA+++ & Vitamin C Pure Glow Milk …",
+  "price": 616,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "vitamin C",
+  "featureLine": "Sunscreen · SPF 50",
+  "highlight": "Live Flipkart listing rated 4.1★ by 19 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.4,
+   "skin": 4,
+   "ingredients": 5.4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (19 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/combo-kit/j/l/p/tinted-lip-balm-spf-50-pa-vitamin-c-pure-glow-milk-sunscreen-spf-original-imahk69wjbhkbwqh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-combo-kit/m/a/u/spf-50-combo-niacinamide-oil-balance-fluid-sunscreen-tinted-spf-original-imahkxxqfdjybjeh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/combo-kit/j/g/r/spf-50-sun-protection-combo-sunscreen-body-lotion-tinted-original-imahk73wxkphqwcw.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/combo-kit/f/u/d/lip-barrier-repair-combo-tinted-lip-balm-spf-50-barrier-bounce-original-imahk69nyuguvfb3.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/combo-kit/q/y/u/iconic-spf-essentials-head-to-toe-sun-protection-spf-50-pa-gift-original-imahn88gh3fj6ruf.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/wishcare-tinted-lip-balm-spf-50-pa-vitamin-c-pure-glow-milk-sunscreen-pa/p/itmcebf4427b77fe",
+  "buyStore": "Flipkart",
+  "title": "WishCare Tinted Lip Balm SPF 50 PA+++ & Vitamin C Pure Glow Milk …",
+  "tags": [
+   "scope:face",
+   "format:balm",
+   "format:kit",
+   "spf:50",
+   "pa:+++",
+   "ing:vitamin-c",
+   "ing:milk",
+   "claim:brightening",
+   "claim:tinted",
+   "claim:spf-claim",
+   "aud:women",
+   "rating:4.0",
    "store:flipkart"
   ],
   "filters": {
@@ -129025,7 +131352,6 @@ const CTPRODUCTS = [
   "title": "Dr. Sheth's Ceramide & Vitamin C Oil-Free Sunscreen SPF 50+ PA++++ | In-Vivo tested | Oil-Free Tan Protection | Specially Made for Oily Skin & Lightweight | 50 g",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "spf:50+",
    "pa:++++",
    "ing:vitamin-c",
@@ -129267,75 +131593,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "skinq-b0gzdvf16v",
-  "brand": "SKINQ",
-  "model": "Sun Protect Gel Sunscreen SPF 50+ PA++++ with Vitamin C | Zero White Cast | UVB Protection…",
-  "price": 199,
-  "capacityLine": "30 ml",
-  "materialLine": "vitamin C",
-  "featureLine": "Sunscreen · SPF 50 · ₹663/100ml",
-  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.3)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 4.7,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹663/100ml",
-   "format": "Sunscreen",
-   "keyIngredients": "vitamin C (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "SPF 50",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61ymQGsSpwL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GZDVF16V",
-  "buyStore": "Amazon",
-  "title": "SKINQ Sun Protect Gel Sunscreen SPF 50+ PA++++ with Vitamin C | Zero White Cast | UVB Protection | Lightweight, Non-Greasy | For Normal, Dry & Sensitive Skin | In-Vivo Tested | Dermat Formulated | 30ml",
-  "tags": [
-   "scope:unstated",
-   "format:gel",
-   "spf:50+",
-   "pa:++++",
-   "ing:vitamin-c",
-   "claim:oil-control",
-   "claim:lightweight",
-   "claim:spf-claim",
-   "free:sensitive-safe",
-   "skin:sensitive",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
-  }
- },
- {
   "id": "lotus-b0bv2vs5vt",
   "brand": "Lotus",
   "model": "Herbals Safe Sun Vitamin C Matte Gel Daily Sunscreen SPF 50 PA+++ Paraben Free Dermatologi…",
@@ -129519,7 +131776,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "spf:50",
    "pa:+++",
    "ing:vitamin-c",
@@ -130010,7 +132266,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "pa:+++",
    "ing:vitamin-c",
    "ing:caffeine",
@@ -133938,7 +136193,6 @@ const CTPRODUCTS = [
   "title": "Kojic Acid & Turmeric Cleansing Pads – Exfoliating Face Pads for Brightening, Dark Spot Remover, Hyperpigmentation Treatment, Deep Cleansing & Oil Control – Infused with Vitamin C & Chamomile (60 PCS) (PACK OF 1)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:pads",
    "format:wash",
    "format:kit",
@@ -134348,7 +136602,6 @@ const CTPRODUCTS = [
   "title": "DEAVM Kojic Acid & Turmeric Cleansing Pads – Exfoliating Face Pads with Vitamin C, B5 & Chamomile | Brightening & Anti-Aging Wipes for Glowing Skin, Dark Spot Removal & Oil Control – 60 pads (Pack of 1)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:pads",
    "format:wash",
    "format:kit",
@@ -136449,69 +138702,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "minimalist-b0hbbz9hp7",
-  "brand": "Minimalist",
-  "model": "10% Advanced Vitamin C Serum for Glowing Skin | Brightening & Dark Spot Treatment | Treats…",
-  "price": 474,
-  "capacityLine": "20 ml",
-  "materialLine": "vitamin C",
-  "featureLine": "Serum · ₹2370/100ml",
-  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹2370/100ml"
-  ],
-  "scores": {
-   "trust": 6.1,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.8
-  },
-  "fullSpec": {
-   "quantity": "20 ml",
-   "pricePer100": "₹2370/100ml",
-   "format": "Serum",
-   "keyIngredients": "vitamin C (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71X6prj8rrL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0HBBZ9HP7",
-  "buyStore": "Amazon",
-  "title": "Minimalist 10% Advanced Vitamin C Serum for Glowing Skin | Brightening & Dark Spot Treatment | Treats Uneven Skin Tone, Dullness & UV Damage | Daily Face Serum | 20 ml",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "ing:vitamin-c",
-   "claim:brightening",
-   "claim:dark-spots",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
-  }
- },
- {
   "id": "generic-b0grk3yvp7",
   "brand": "Generic",
   "model": "Vitamin C Face Serum for Glowing Skin (30ml) – Brightening & Anti-Aging Serum for Dark Spo…",
@@ -136702,76 +138892,6 @@ const CTPRODUCTS = [
    "ing:alpha-arbutin",
    "claim:brightening",
    "claim:dark-spots",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
-  }
- },
- {
-  "id": "yeoul-b0gxkc6h5v",
-  "brand": "yeoul",
-  "model": "Goheung Yuja C Vita Brightening Serum 30mL | Korean Face Serum for Pigmentation, Dark Spot…",
-  "price": 1399,
-  "capacityLine": "30 ml",
-  "materialLine": "vitamin C + niacinamide",
-  "featureLine": "Serum · ₹4663/100ml",
-  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (5.0)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹4663/100ml",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 5.1,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 5.2
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹4663/100ml",
-   "format": "Serum",
-   "keyIngredients": "vitamin C, niacinamide (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71CGPijDXtL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GXKC6H5V",
-  "buyStore": "Amazon",
-  "title": "yeoul Goheung Yuja C Vita Brightening Serum 30mL | Korean Face Serum for Pigmentation, Dark Spots & Uneven Tone | Yuja Vitamin C + 5% Niacinamide | Antioxidant Glow & Hydrating Barrier Care",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "ing:vitamin-c",
-   "ing:niacinamide",
-   "ing:yuja-yuzu",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:korean",
    "aud:unisex",
    "size:travel",
    "rating:4.5",
@@ -136984,74 +139104,6 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false
-  }
- },
- {
-  "id": "pilgrim-b0h6fp8vnx",
-  "brand": "Pilgrim",
-  "model": "10% Vitamin C Serum 30ml (Pack of 2) for Glowing Skin with 5% Niacinamide | Fades Dark Spo…",
-  "price": 808,
-  "capacityLine": "60 ml (pack of 2)",
-  "materialLine": "vitamin C + niacinamide",
-  "featureLine": "Serum · ₹1347/100ml",
-  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1347/100ml"
-  ],
-  "scores": {
-   "trust": 5.4,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.8
-  },
-  "fullSpec": {
-   "quantity": "30 ml × 2 pack",
-   "pricePer100": "₹1347/100ml",
-   "format": "Serum",
-   "keyIngredients": "vitamin C, niacinamide (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61bqEoMAZZL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H6FP8VNX",
-  "buyStore": "Amazon",
-  "title": "Pilgrim 10% Vitamin C Serum 30ml (Pack of 2) for Glowing Skin with 5% Niacinamide | Fades Dark Spots, Evens Skin Tone |For All Oily, Combination, Normal Skin | Daily Radiance for Men & Women",
-  "tags": [
-   "scope:unstated",
-   "format:serum",
-   "format:kit",
-   "ing:vitamin-c",
-   "ing:niacinamide",
-   "claim:brightening",
-   "claim:dark-spots",
-   "skin:oily",
-   "skin:combination",
-   "skin:normal",
-   "aud:women",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
   }
  },
  {
@@ -137388,70 +139440,6 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true
-  }
- },
- {
-  "id": "deconstruct-b0h2dskk5k",
-  "brand": "Deconstruct",
-  "model": "Advance Bright + Glow Vitamin C Serum | 15% Vitamin C | With Liposomal Technology| For Pig…",
-  "price": 615,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "vitamin C",
-  "featureLine": "Serum",
-  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (5.0)"
-  ],
-  "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 6.2,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.8
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Serum",
-   "keyIngredients": "vitamin C (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51VcfJzfUGL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H2DSKK5K",
-  "buyStore": "Amazon",
-  "title": "Deconstruct Advance Bright + Glow Vitamin C Serum | 15% Vitamin C | With Liposomal Technology| For Pigmentation, Dullness & Dark Spots| Suitable for All Skin Types | Co-created with Dermatologists",
-  "tags": [
-   "scope:unstated",
-   "format:serum",
-   "ing:vitamin-c",
-   "claim:brightening",
-   "claim:dark-spots",
-   "skin:all",
-   "aud:unisex",
-   "rating:4.5",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
   }
  },
  {
@@ -139335,70 +141323,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "dermdoc-b0fhbmpxql",
-  "brand": "Dermdoc",
-  "model": "10% Vitamin C Face Serum Glow Pods (Pack of 20, 0.5ml Each) I Potent Face Serum Sachets I …",
-  "price": 175,
-  "capacityLine": "10 ml (pack of 2)",
-  "materialLine": "vitamin C",
-  "featureLine": "Serum · ₹1750/100ml",
-  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1750/100ml"
-  ],
-  "scores": {
-   "trust": 5.3,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.8
-  },
-  "fullSpec": {
-   "quantity": "5 ml × 2 pack",
-   "pricePer100": "₹1750/100ml",
-   "format": "Serum",
-   "keyIngredients": "vitamin C (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/611rVqmkSqL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FHBMPXQL",
-  "buyStore": "Amazon",
-  "title": "DERMDOC 10% Vitamin C Face Serum Glow Pods (Pack of 20, 0.5ml Each) I Potent Face Serum Sachets I Travel-Friendly I Brightening Fights Dark Spots Pigmentation DERMDOC",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:kit",
-   "ing:vitamin-c",
-   "claim:brightening",
-   "claim:dark-spots",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
-  }
- },
- {
   "id": "generic-b0fkhm8lf7",
   "brand": "Generic",
   "model": "Vitamin C Serum 30ml | For Glowing Skin | Advanced Formulation With Vitamin E | Reduces Da…",
@@ -140247,7 +142171,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -145463,7 +147386,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -145598,7 +147520,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
@@ -146093,72 +148014,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "foxtale-b0gzk6lcjx",
-  "brand": "Foxtale",
-  "model": "Lightweight Brightening Face Moisturiser with Vitamin C & Niacinamide |Brightens & Evens S…",
-  "price": 283,
-  "capacityLine": "50 ml",
-  "materialLine": "vitamin C + niacinamide",
-  "featureLine": "Cream / gel · ₹566/100ml",
-  "highlight": "Live Amazon listing rated 4.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.6)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 6.2,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹566/100ml",
-   "format": "Cream / gel",
-   "keyIngredients": "vitamin C, niacinamide (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.6/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71MuxkKmMJL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GZK6LCJX",
-  "buyStore": "Amazon",
-  "title": "Foxtale Lightweight Brightening Face Moisturiser with Vitamin C & Niacinamide |Brightens & Evens Skin Tone, Fades Dark Spots & Deeply Hydrates | For Normal to Dry Skin | For Men & Women | 50 ml",
-  "tags": [
-   "scope:face",
-   "ing:vitamin-c",
-   "ing:niacinamide",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:hydrating",
-   "claim:lightweight",
-   "skin:dry",
-   "aud:women",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
   "id": "foxtale-b0d96f11c3",
   "brand": "Foxtale",
   "model": "Vitamin C Super Glow Moisturizer with Niacinamide & Peptides, Visibly Reduces Pigmentation…",
@@ -146407,7 +148262,6 @@ const CTPRODUCTS = [
   "title": "Vitamin C Moisturizer | Vitamin E & Seabuckthorn | Lightweight, Oil-Free Face Moisturizer | Brightening & Deep Hydration | With Niacinamide & Shea Butter | For All Skin Types Men & Women | 100gms",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:balm",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -146491,75 +148345,6 @@ const CTPRODUCTS = [
    "skin:all",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
-  }
- },
- {
-  "id": "nivea-b0gk1ptszn",
-  "brand": "Nivea",
-  "model": "Super 10 Youth Body Serum Lotion 170ml | Niacinamide Retinol 120X Vitamin C Body Lotion SP…",
-  "price": 210,
-  "capacityLine": "170 ml",
-  "materialLine": "vitamin C + niacinamide + retinol",
-  "featureLine": "Sunscreen · SPF 15 · ₹124/100ml",
-  "highlight": "Live Amazon listing rated 3.8★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹124/100ml",
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (3.8)"
-  ],
-  "scores": {
-   "trust": 5.7,
-   "skin": 4,
-   "ingredients": 5.9,
-   "experience": 5.3
-  },
-  "fullSpec": {
-   "quantity": "170 ml",
-   "pricePer100": "₹124/100ml",
-   "format": "Sunscreen",
-   "keyIngredients": "vitamin C, niacinamide, retinol (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, SPF 15",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/612oK9UEc8L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GK1PTSZN",
-  "buyStore": "Amazon",
-  "title": "NIVEA Super 10 Youth Body Serum Lotion 170ml | Niacinamide Retinol 120X Vitamin C Body Lotion SPF15 Daily Sunscreen | Skin Tightening, Lightweight, Fast Absorbing Moisturizer | Youthful & Firm Skin in 5 Days",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "format:serum",
-   "spf:15",
-   "ing:vitamin-c",
-   "ing:niacinamide",
-   "ing:retinol",
-   "claim:hydrating",
-   "claim:lightweight",
-   "claim:spf-claim",
-   "aud:unisex",
-   "size:large",
-   "rating:3.5",
    "store:amazon"
   ],
   "filters": {
@@ -149873,7 +151658,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "spf:30",
    "pa:++",
    "ing:vitamin-c",
@@ -150293,7 +152077,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "spf:40",
    "pa:+++",
    "ing:vitamin-c",
@@ -151407,7 +153190,6 @@ const CTPRODUCTS = [
   "title": "DER.DÜFT Glow Up Sunscreen SPF 50 PA+++ | Broad Spectrum UVA/UVB Protection | Niacinamide, Vitamin C & Avocado Extract | Lightweight Oil-Free Sunscreen | No White Cast | For All Skin Types",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "spf:50",
    "pa:+++",
    "ing:vitamin-c",
@@ -151614,7 +153396,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:mist",
-   "format:oil",
    "pa:+++",
    "ing:vitamin-c",
    "ing:caffeine",
@@ -152277,7 +154058,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:peel",
    "format:wash",
    "format:kit",
@@ -152349,7 +154129,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:peel",
    "format:wash",
    "format:kit",
@@ -154834,7 +156613,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:foam",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -159895,7 +161673,6 @@ const CTPRODUCTS = [
   "title": "Salicylic Acid 0.10% Face Wash with Niacinamide Glycolic Acid Vitamin C Aloe Vera for Acne Control Deep Cleansing Exfoliation Oil Free Healthy Clear Skin Daily Use Men Women All Pack Of 1",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -161108,7 +162885,6 @@ const CTPRODUCTS = [
   "title": "Orange Peel Powder face pack- For Boosten Collagen, Tan Removal, Oil Control, Glowing Skin, Scars Removal,Natural Skin cleanse, Antioxidants Add Glow with Vitamin C -120gm | Eco-Friendly Glass Jar",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:pack",
    "format:peel",
    "format:powder",
@@ -161129,72 +162905,6 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false
-  }
- },
- {
-  "id": "coofandy-b0gggrjcq2",
-  "brand": "COOFANDY",
-  "model": "Vitamin C Orange Exfoliating Peeling Gel | Gentle Face & Body Scrub | Deep Clean Pores, Re…",
-  "price": 399,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "vitamin C",
-  "featureLine": "Scrub / exfoliant",
-  "highlight": "Live Amazon listing rated 1.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Mixed buyer rating (1.0)"
-  ],
-  "scores": {
-   "trust": 3,
-   "skin": 4,
-   "ingredients": 5.4,
-   "experience": 4.5
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Scrub / exfoliant",
-   "keyIngredients": "vitamin C (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Not stated in listing",
-   "rating": "1.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71zfd6U5ZkL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GGGRJCQ2",
-  "buyStore": "Amazon",
-  "title": "COOFANDY Vitamin C Orange Exfoliating Peeling Gel | Gentle Face & Body Scrub | Deep Clean Pores, Remove Tan & Dead Skin | Natural Glow Booster for Men & Women for All Types Skin",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "format:scrub",
-   "format:peel",
-   "ing:vitamin-c",
-   "claim:brightening",
-   "claim:pores",
-   "claim:exfoliating",
-   "aud:women",
-   "rating:low",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true
   }
  },
  {

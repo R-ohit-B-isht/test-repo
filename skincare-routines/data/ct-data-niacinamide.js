@@ -851,7 +851,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:rice-water",
@@ -1335,7 +1334,6 @@ const CTPRODUCTS = [
   "title": "Deconstruct Salicylic Acid + Niacinamide for Oil Control & Acne- …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -1473,7 +1471,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -1553,7 +1550,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -1636,7 +1632,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -1718,7 +1713,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -1866,7 +1860,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:rice-water",
@@ -3001,7 +2994,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -3090,7 +3082,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:foam",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -3252,7 +3243,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -3328,7 +3318,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -4617,7 +4606,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "ing:niacinamide",
    "ing:pha",
    "ing:rice-water",
@@ -4696,7 +4684,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:green-tea",
@@ -5656,7 +5643,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:tea-tree",
@@ -6243,7 +6229,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:rice-water",
@@ -6397,7 +6382,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:niacinamide",
@@ -6479,7 +6463,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:rice-water",
@@ -6558,7 +6541,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:niacinamide",
@@ -6640,7 +6622,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:niacinamide",
@@ -6722,7 +6703,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:niacinamide",
@@ -6804,7 +6784,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:niacinamide",
@@ -6886,7 +6865,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:niacinamide",
@@ -6971,7 +6949,6 @@ const CTPRODUCTS = [
   "title": "ELLABEL Rice Water with Rice Water Extract, Niacinamide & Glycer …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -7144,7 +7121,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:rice-water",
@@ -7745,7 +7721,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:brightening",
@@ -8114,7 +8089,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -8576,7 +8550,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:niacinamide",
@@ -8899,7 +8872,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:brightening",
@@ -9514,7 +9486,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:niacinamide",
@@ -9597,7 +9568,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:oil-control",
@@ -9748,7 +9718,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:niacinamide",
@@ -9830,7 +9799,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -9911,7 +9879,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -9991,7 +9958,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:niacinamide",
@@ -10228,7 +10194,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -10391,7 +10356,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:pads",
    "ing:niacinamide",
@@ -10473,7 +10437,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:pads",
    "format:kit",
@@ -10779,7 +10742,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -10863,7 +10825,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:niacinamide",
@@ -11394,7 +11355,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:niacinamide",
@@ -11703,7 +11663,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "claim:brightening",
@@ -11781,7 +11740,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "claim:brightening",
@@ -12244,7 +12202,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:niacinamide",
@@ -12323,7 +12280,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:azelaic-acid",
@@ -12631,7 +12587,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -13595,7 +13550,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:alpha-arbutin",
@@ -13675,7 +13629,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:niacinamide",
@@ -13825,7 +13778,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "claim:brightening",
    "claim:de-tan",
@@ -14885,7 +14837,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "claim:brightening",
@@ -15492,7 +15443,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -15782,7 +15732,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:rice-water",
@@ -15858,7 +15807,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "sun:mineral",
    "ing:niacinamide",
@@ -16103,7 +16051,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:brightening",
@@ -16634,7 +16581,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -16710,7 +16656,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -16937,7 +16882,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -17625,7 +17569,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:niacinamide",
@@ -17696,7 +17639,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:zinc",
@@ -18293,7 +18235,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:niacinamide",
@@ -18441,7 +18382,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:niacinamide",
@@ -18668,7 +18608,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -18748,7 +18687,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:cream",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:niacinamide",
@@ -18896,7 +18834,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -19275,7 +19212,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -19354,7 +19290,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -19443,7 +19378,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:rice-water",
@@ -19525,7 +19459,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -21106,7 +21039,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "claim:acne",
@@ -21176,7 +21108,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -21263,7 +21194,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:roll-on",
@@ -21497,7 +21427,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "claim:acne",
    "claim:pores",
@@ -22549,7 +22478,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -22771,7 +22699,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:niacinamide",
@@ -23188,7 +23115,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:zinc",
@@ -23579,7 +23505,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:zinc",
@@ -23952,7 +23877,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:brightening",
@@ -24098,7 +24022,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -24330,7 +24253,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:brightening",
@@ -25133,7 +25055,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:niacinamide",
@@ -25769,7 +25690,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "sun:mineral",
@@ -26150,7 +26070,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:zinc",
@@ -26229,7 +26148,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:anti-aging",
@@ -26684,7 +26602,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:vitamin-b5-panthenol",
@@ -26919,7 +26836,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:zinc",
@@ -27073,7 +26989,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:niacinamide",
@@ -27241,7 +27156,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:niacinamide",
@@ -27324,7 +27238,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "sun:mineral",
@@ -27616,7 +27529,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:alpha-arbutin",
@@ -28137,7 +28049,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:green-tea",
@@ -28283,7 +28194,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:alpha-arbutin",
@@ -28356,7 +28266,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:alpha-arbutin",
@@ -28666,7 +28575,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "sun:mineral",
    "ing:niacinamide",
@@ -28972,7 +28880,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:zinc",
@@ -29048,7 +28955,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:rice-water",
@@ -29201,7 +29107,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:rice-water",
@@ -29274,7 +29179,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -29657,7 +29561,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -29738,7 +29641,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -29815,7 +29717,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:alpha-arbutin",
@@ -29972,7 +29873,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -30056,7 +29956,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:rice-water",
@@ -30129,7 +30028,6 @@ const CTPRODUCTS = [
   "title": "ORGANIC ALLIGATOR 2% Salicylic Acid,1% Niacinamide acid, Kojic &l …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "ing:vitamin-c",
@@ -30291,7 +30189,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:rice-water",
@@ -30364,7 +30261,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:rice-water",
@@ -30589,7 +30485,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -30741,7 +30636,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:rice-water",
@@ -31627,7 +31521,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:bakuchiol",
    "ing:salicylic-acid-bha",
@@ -31701,7 +31594,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:bakuchiol",
@@ -31859,7 +31751,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:niacinamide",
@@ -32301,7 +32192,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:vitamin-c",
@@ -32938,7 +32828,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -33012,7 +32901,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -33169,7 +33057,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -33318,7 +33205,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -33395,7 +33281,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:niacinamide",
@@ -34155,7 +34040,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:centella-cica",
@@ -34543,7 +34427,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -34701,7 +34584,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -34952,7 +34834,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -35251,7 +35132,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:vitamin-c",
@@ -35414,7 +35294,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:aloe-vera",
@@ -35492,7 +35371,6 @@ const CTPRODUCTS = [
   "title": "Proven Honest Derma 3% Niacinamide Oil-Free Moisturizer with CICA …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:niacinamide",
    "ing:centella-cica",
    "claim:hydrating",
@@ -35628,7 +35506,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:centella-cica",
    "ing:vitamin-b5-panthenol",
@@ -35849,7 +35726,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -35996,7 +35872,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "claim:hydrating",
    "claim:korean",
@@ -36068,7 +35943,6 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:mist",
-   "format:oil",
    "ing:niacinamide",
    "claim:brightening",
    "claim:hydrating",
@@ -36292,7 +36166,6 @@ const CTPRODUCTS = [
   "title": "Foxtale Oil Balancing Moisturizer for Oily Skin, Niacinamide | Li …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:niacinamide",
    "claim:hydrating",
    "skin:oily",
@@ -36358,7 +36231,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:aloe-vera",
@@ -36506,7 +36378,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:green-tea",
    "claim:acne",
@@ -36587,7 +36458,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -36668,7 +36538,6 @@ const CTPRODUCTS = [
   "title": "Chemist at Play Oil Control Face Moisturizer with 3% Niacinamide, …",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:niacinamide",
    "claim:oil-control",
    "claim:hydrating",
@@ -36737,7 +36606,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:green-tea",
    "claim:brightening",
@@ -36815,7 +36683,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "spf:30",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -36898,7 +36765,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -36983,7 +36849,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "spf:30",
    "ing:niacinamide",
    "ing:ceramides",
@@ -39001,7 +38866,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:stick",
-   "format:oil",
    "format:clay-mask",
    "ing:niacinamide",
    "ing:retinol",
@@ -39485,92 +39349,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "rejuveol-itm794967eb424f3",
-  "brand": "REJUVEOL",
-  "model": "Glycolic acid Niacinamide facial cream,reduces Dark spot …",
-  "price": 587,
-  "capacityLine": "50 g",
-  "materialLine": "niacinamide + salicylic acid (BHA) + glycolic acid",
-  "featureLine": "Oil · Paraben-free · ₹1174/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
-  "cons": [
-   "Pricey: ₹1174/100g",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 4.4,
-   "skin": 5.3,
-   "ingredients": 6.8,
-   "experience": 5.2
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹1174/100g",
-   "format": "Oil",
-   "keyIngredients": "niacinamide, salicylic acid (BHA), glycolic acid, saffron (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim, Acne/blemish claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/m/i/55-glycolic-niacinamide-brightening-cream-reduces-dark-spots-original-imahmgvhf63xwwhq.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/0/a/o/55-glycolic-niacinamide-brightening-cream-improve-skin-original-imahmfq52dbd9xzv.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/p/0/9/55-glycolic-niacinamide-brightening-cream-improve-skin-original-imahmfq5mgr2zpfw.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/6/a/5/55-glycolic-niacinamide-brightening-cream-improve-skin-original-imahmfq5wyjkfdq7.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/s/v/55-glycolic-niacinamide-brightening-cream-reduces-dark-spots-original-imahmgvhtybaxrr7.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/rejuveol-glycolic-acid-niacinamide-facial-cream-reduces-dark-spots/p/itm794967eb424f3",
-  "buyStore": "Flipkart",
-  "title": "REJUVEOL Glycolic acid Niacinamide facial cream,reduces Dark spot …",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "format:cream",
-   "format:oil",
-   "ing:niacinamide",
-   "ing:salicylic-acid-bha",
-   "ing:glycolic-acid",
-   "ing:collagen",
-   "ing:saffron",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:dark-spots",
-   "claim:whitening-claim",
-   "claim:anti-aging",
-   "claim:acne",
-   "claim:hydrating",
-   "claim:barrier",
-   "free:paraben",
-   "free:oil-free",
-   "free:derm",
-   "free:vegan",
-   "skin:all",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": true,
-   "derm": true,
-   "men": false,
-   "women": true
-  }
- },
- {
   "id": "leeford-itmb8b367de7954d",
   "brand": "Leeford",
   "model": "Melagrace Brightening Cream with Niacinamide Arbutin & Sq …",
@@ -39635,6 +39413,90 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false
+  }
+ },
+ {
+  "id": "rejuveol-itm794967eb424f3",
+  "brand": "REJUVEOL",
+  "model": "Glycolic acid Niacinamide facial cream,reduces Dark spot …",
+  "price": 587,
+  "capacityLine": "50 g",
+  "materialLine": "niacinamide + salicylic acid (BHA) + glycolic acid",
+  "featureLine": "Oil · Paraben-free · ₹1174/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Pricey: ₹1174/100g",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 5.3,
+   "ingredients": 6.8,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹1174/100g",
+   "format": "Oil",
+   "keyIngredients": "niacinamide, salicylic acid (BHA), glycolic acid, saffron (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/m/i/55-glycolic-niacinamide-brightening-cream-reduces-dark-spots-original-imahmgvhf63xwwhq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/0/a/o/55-glycolic-niacinamide-brightening-cream-improve-skin-original-imahmfq52dbd9xzv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/p/0/9/55-glycolic-niacinamide-brightening-cream-improve-skin-original-imahmfq5mgr2zpfw.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/6/a/5/55-glycolic-niacinamide-brightening-cream-improve-skin-original-imahmfq5wyjkfdq7.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/s/v/55-glycolic-niacinamide-brightening-cream-reduces-dark-spots-original-imahmgvhtybaxrr7.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/rejuveol-glycolic-acid-niacinamide-facial-cream-reduces-dark-spots/p/itm794967eb424f3",
+  "buyStore": "Flipkart",
+  "title": "REJUVEOL Glycolic acid Niacinamide facial cream,reduces Dark spot …",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "ing:glycolic-acid",
+   "ing:saffron",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:dark-spots",
+   "claim:whitening-claim",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:hydrating",
+   "claim:barrier",
+   "free:paraben",
+   "free:oil-free",
+   "free:derm",
+   "free:vegan",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
   }
  },
  {
@@ -41780,7 +41642,6 @@ const CTPRODUCTS = [
   "title": "Proskire Skin Perfecting Face Wash with Niacinamide, Ceramides & Licorice | Clear, Glow, Oil Control − 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -42450,7 +42311,6 @@ const CTPRODUCTS = [
   "title": "Délmarin Power Clean Face Wash for Men with Salicylic Acid, Niacinamide, Zinc PCA and Menthyl Lactate, Deep Cleansing, Oil Control, Instant Cooling Feel and Deep Marine Freshness, 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -42581,7 +42441,6 @@ const CTPRODUCTS = [
   "title": "DERMATOUCH Bright & Even Tone Face Wash with Niacinamide, Vitamin E and Kojic Acid | For Tan, Pigmentation Dark Spots & Uneven Skin Tone | Oil Control | Dermatologist Tested | For Men & Women | 150g",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:kojic-acid",
@@ -42715,7 +42574,6 @@ const CTPRODUCTS = [
   "title": "Deconstruct Salicylic Acid Oil Control Face Wash with Niacinamide | Facewash for Men & Women | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -42916,7 +42774,6 @@ const CTPRODUCTS = [
   "title": "The Man Company Vitamin C Face Wash For Man | Brightening & Glowing Skin I Oil Control | Vitamin C & Niacinamide | Hydrates | Gentle Deep Cleanse | Suitable For Oily, Dry & Sensitive Skin 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -43317,7 +43174,6 @@ const CTPRODUCTS = [
   "title": "Hyphen Oil Control 2% AHA + BHA, Salicylic Acid Face Wash for Oily Skin & Acne| Daily Exfoliating Cleanser with 2% Niacinamide | Deep Cleanses & Removes Dirt | For Men & Women - 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -43516,7 +43372,6 @@ const CTPRODUCTS = [
   "title": "Ocean Face Wash for Men 100ml | Anti-Acne | Oil Control, Niacinamide | CYAE Ocean Face Wash 100ml with Niacinamide, Menthol & Licorice. Anti-acne, oil control, brightening. For all skin types.",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:licorice",
@@ -45286,7 +45141,6 @@ const CTPRODUCTS = [
   "title": "Lacto Calamine Neem Face Wash With Aloe Vera & Turmeric | 150ml | Niacinamide & Salicylic Acid Face Wash | Facewash Reduces Pimples, Purifies Skin & Oil Control | For All Skin Types",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -45358,7 +45212,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "ing:niacinamide",
@@ -46244,7 +46097,6 @@ const CTPRODUCTS = [
   "title": "Muuchstac Ocean Face Wash for Men (2 x 100ml) – Anti-Acne/Pimple, Oil Control & Skin Brightening Cleanser – with Niacinamide, Menthol & Licorice Extracts – For All Skin Types",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:licorice",
@@ -46639,7 +46491,6 @@ const CTPRODUCTS = [
   "title": "Gentle Cleanser with Niacinamide | Aloe Vera & Vitamin B5 Pro | Pore Cleansing and Oil Control | For All Skin Types | For Women & Men | 100ml",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:aloe-vera",
@@ -47391,7 +47242,6 @@ const CTPRODUCTS = [
   "title": "Délmarin Acne Control Face Wash with 2% Salicylic Acid, 2% Niacinamide and Zinc PCA, Anti-Acne Cleanser for Oil Control and Pore Cleansing, Oily and Acne-Prone Skin, 80 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -47461,7 +47311,6 @@ const CTPRODUCTS = [
   "title": "2% Salicylic Acid Face Wash for Acne, Pimples, Blackheads and Oil Control - Niacinamide Cleanser for Oily, Acne-Prone Skin, Pore Cleansing, Men and Women, 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -47602,7 +47451,6 @@ const CTPRODUCTS = [
   "title": "My Oil-Balance Cleanser | Face Wash for Oily Skin | Niacinamide & Tea Tree Post-Biotics Face Wash | Fights Acne & Marks | pH Balanced | 100g",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:tea-tree",
@@ -47737,7 +47585,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne & Oil Control Face Wash for Men & Women | 1.5% Salicylic Acid + 3.5% Niacinamide | Deep Pore Cleanser for Oily & Acne-Prone Skin |100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -47806,7 +47653,6 @@ const CTPRODUCTS = [
   "title": "Acne Control Face Wash with Salicylic Acid & Niacinamide, 100 ml | A+ Care | 1.5% Salicylic Acid + 3.5% Niacinamide | Oil Control | Gentle Daily Cleanser | For Oily & Acne-Prone Skin",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -47944,7 +47790,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne & Oil Control Face Wash for Men & Women | 1.5% Salicylic Acid + 3.5% Niacinamide | Deep Pore Cleanser for Oily & Acne-Prone Skin | 2 × 100 ml | Pack of 2",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -48014,7 +47859,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne Brightening Face Wash with Niacinamide 4% Salicylic Acid 1% Vitamin C Aloe Vera Extract Oil Control Deep Cleansing Facial Cleanser Lightweight Non Sticky Daily Face Wash for Oily Acne Prone Skin 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -48087,7 +47931,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -48767,7 +48610,6 @@ const CTPRODUCTS = [
   "title": "Clear Skin Face Wash with Niacinamide, Aloe Vera & 1% Zinc PCA | Soap-Free, Sulphate-Free, Paraben-Free, pH Balanced | Oil Control, Gentle Cleansing & Acne Care | Face Wash for Oily, Combination & Sensitive Skin | Men & Women | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:bar",
    "format:wash",
    "ing:niacinamide",
@@ -48984,7 +48826,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -52715,7 +52556,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "ing:niacinamide",
    "ing:green-tea",
    "claim:pores",
@@ -52789,7 +52629,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "ing:niacinamide",
    "ing:green-tea",
    "claim:acne",
@@ -53131,7 +52970,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "ing:green-tea",
@@ -53202,7 +53040,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -53276,7 +53113,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:toner",
    "format:mist",
-   "format:oil",
    "ing:niacinamide",
    "ing:green-tea",
    "claim:acne",
@@ -53557,7 +53393,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:niacinamide",
    "ing:green-tea",
    "claim:brightening",
@@ -53767,7 +53602,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:green-tea",
@@ -56274,7 +56108,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "ing:niacinamide",
    "claim:acne",
    "claim:oil-control",
@@ -56342,7 +56175,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:vitamin-b5-panthenol",
@@ -56691,7 +56523,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -56977,7 +56808,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:niacinamide",
    "claim:brightening",
    "claim:pores",
@@ -57394,7 +57224,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -58028,7 +57857,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:kojic-acid",
@@ -58098,7 +57926,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -58374,7 +58201,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:green-tea",
@@ -58850,7 +58676,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -58918,7 +58743,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -58986,7 +58810,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -59054,7 +58877,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:toner",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -59965,6 +59787,74 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "hyphen-b0fdqzbv6k",
+  "brand": "Hyphen",
+  "model": "18% Brightening + 20% Collagen Face Serum | Double Shot Serum with 11% Mandarin 5% Niacina…",
+  "price": 590,
+  "capacityLine": "50 ml",
+  "materialLine": "niacinamide + bakuchiol",
+  "featureLine": "Serum · ₹1180/100ml",
+  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.2)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1180/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.5,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹1180/100ml",
+   "format": "Serum",
+   "keyIngredients": "niacinamide, bakuchiol (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/614M7aJAe8L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FDQZBV6K",
+  "buyStore": "Amazon",
+  "title": "Hyphen 18% Brightening + 20% Collagen Face Serum | Double Shot Serum with 11% Mandarin 5% Niacinamide 2% PGA & Bakuchiol | Summer Skincare | Brightening, Hydrating & Collagen Boost for Dry Skin - 50ml",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:niacinamide",
+   "ing:bakuchiol",
+   "ing:collagen",
+   "claim:brightening",
+   "claim:hydrating",
+   "skin:dry",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "conscious-chemist-b0d5dlnhjt",
   "brand": "Conscious Chemist",
   "model": "6 Peptide Serum for Face | 50ml | Complex Collagen Boosting Firming Essence for Face, Niac…",
@@ -60232,6 +60122,73 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "hyphen-b0gzl7frb7",
+  "brand": "Hyphen",
+  "model": "Bright & Glass Skin Face Care Duo | 18% Brightening + 20% Collagen with 11% Mandarin 5% Ni…",
+  "price": 972,
+  "capacityLine": "50 ml",
+  "materialLine": "niacinamide + ceramides",
+  "featureLine": "Toner · ₹1944/100ml",
+  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1944/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.2,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹1944/100ml",
+   "format": "Toner",
+   "keyIngredients": "niacinamide, ceramides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51DAin6r6fL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GZL7FRB7",
+  "buyStore": "Amazon",
+  "title": "Hyphen Bright & Glass Skin Face Care Duo | 18% Brightening + 20% Collagen with 11% Mandarin 5% Niacinamide Serum 50ml & 7% Ceramides-NMF Milky Face Toner Essence with 5% Glass Skin Blend 100ml",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:essence",
+   "format:toner",
+   "ing:niacinamide",
+   "ing:ceramides",
+   "ing:collagen",
+   "claim:brightening",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "ecoberry-b0brgfgv5n",
   "brand": "EcoBerry",
   "model": "Centella Asiatica (CICA) Niacinamide Glow Essence with Hyaluronic Acid | Natural | Oil-Fre…",
@@ -60277,7 +60234,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:essence",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:centella-cica",
@@ -60503,6 +60459,74 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "lngvty-b0h67v23cn",
+  "brand": "LNGVTY",
+  "model": "Deep Hydration, Glow Serum | Clinically proven to brighten, improve skin tone and glow, hy…",
+  "price": 1049,
+  "capacityLine": "30 ml",
+  "materialLine": "niacinamide + ceramides + peptides",
+  "featureLine": "Serum · ₹3497/100ml",
+  "highlight": "Live Amazon listing rated 4.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.6)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹3497/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 5.5
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹3497/100ml",
+   "format": "Serum",
+   "keyIngredients": "niacinamide, ceramides, peptides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.6/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71qA7kb90TL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H67V23CN",
+  "buyStore": "Amazon",
+  "title": "LNGVTY Deep Hydration, Glow Serum | Clinically proven to brighten, improve skin tone and glow, hydrate | Powered by peptides, vit. C, niacinamide, ceramides | Longevity for all skin types | 30ml",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "ing:niacinamide",
+   "ing:ceramides",
+   "ing:peptides",
+   "claim:brightening",
+   "claim:hydrating",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "advanced-b0hbrssjlm",
   "brand": "Advanced",
   "model": "Multi-Active Niacinamide Serum, 30 ml | 10% Niacinamide, Zinc PCA & Hyaluronic Acid, Fades…",
@@ -60685,7 +60709,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "claim:brightening",
@@ -61308,7 +61331,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "claim:brightening",
    "claim:pores",
@@ -61443,7 +61465,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -61783,7 +61804,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:calamine",
    "claim:dark-spots",
@@ -62485,6 +62505,72 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "wildglow-b0glprh5sk",
+  "brand": "WILDGLOW",
+  "model": "Niacinamide 5%,White Tea, Bisabolol, EGCG Brightening Serum for Hyperpigmentation, Dark Sp…",
+  "price": 999,
+  "capacityLine": "60 ml",
+  "materialLine": "niacinamide",
+  "featureLine": "Serum · ₹1665/100ml",
+  "highlight": "Live Amazon listing rated 4.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1665/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "60 ml",
+   "pricePer100": "₹1665/100ml",
+   "format": "Serum",
+   "keyIngredients": "niacinamide (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51+w9C2cpgL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GLPRH5SK",
+  "buyStore": "Amazon",
+  "title": "WILDGLOW Niacinamide 5%,White Tea, Bisabolol, EGCG Brightening Serum for Hyperpigmentation, Dark Spots and Scar Repair | Look 10 years younger In 4 weeks, 60ml",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "ing:niacinamide",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:barrier",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "vita-b0h2vwrnh6",
   "brand": "Vita",
   "model": "Niacinamide Gel Toner Pads, Dark Spot Corrector, Evening Skin Tone, Gentle Exfoliating Ton…",
@@ -62737,7 +62823,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -62894,6 +62979,71 @@ const CTPRODUCTS = [
    "actives": true,
    "freefrom": false,
    "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "mamaearth-b0h1g5mdgq",
+  "brand": "Mamaearth",
+  "model": "Rice Water Dewy Active Serum with 10% Niacinamide, Rice Water & Hyaluronic Acid - 10 ml | …",
+  "price": 199,
+  "capacityLine": "10 ml",
+  "materialLine": "niacinamide + hyaluronic acid + rice water",
+  "featureLine": "Serum · ₹1990/100ml",
+  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1990/100ml"
+  ],
+  "scores": {
+   "trust": 6.1,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 5.1
+  },
+  "fullSpec": {
+   "quantity": "10 ml",
+   "pricePer100": "₹1990/100ml",
+   "format": "Serum",
+   "keyIngredients": "niacinamide, hyaluronic acid, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51URze56qAL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H1G5MDGQ",
+  "buyStore": "Amazon",
+  "title": "Mamaearth Rice Water Dewy Active Serum with 10% Niacinamide, Rice Water & Hyaluronic Acid - 10 ml | For Glass Skin | Gives Dewy Finish | Brightens Skin | Suits All Skin Types",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:rice-water",
+   "claim:brightening",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
    "derm": false,
    "men": false,
    "women": false
@@ -63226,6 +63376,142 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "foxtale-b0gzk6lcjx",
+  "brand": "Foxtale",
+  "model": "Lightweight Brightening Face Moisturiser with Vitamin C & Niacinamide |Brightens & Evens S…",
+  "price": 283,
+  "capacityLine": "50 ml",
+  "materialLine": "vitamin C + niacinamide",
+  "featureLine": "Cream / gel · ₹566/100ml",
+  "highlight": "Live Amazon listing rated 4.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.6)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.2,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹566/100ml",
+   "format": "Cream / gel",
+   "keyIngredients": "vitamin C, niacinamide (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.6/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71MuxkKmMJL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GZK6LCJX",
+  "buyStore": "Amazon",
+  "title": "Foxtale Lightweight Brightening Face Moisturiser with Vitamin C & Niacinamide |Brightens & Evens Skin Tone, Fades Dark Spots & Deeply Hydrates | For Normal to Dry Skin | For Men & Women | 50 ml",
+  "tags": [
+   "scope:face",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:lightweight",
+   "skin:dry",
+   "aud:women",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "aurey-b0g1b5stvx",
+  "brand": "Aurey",
+  "model": "Korean Rice Face Pack 50gm | Brightening Face Pack with Korean Rice Extracts Niacinamide &…",
+  "price": 333,
+  "capacityLine": "50 g",
+  "materialLine": "niacinamide + rice water + clay/mud",
+  "featureLine": "Mask / pack · ₹666/100g",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹666/100g",
+   "format": "Mask / pack",
+   "keyIngredients": "niacinamide, rice water, clay/mud (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51QCJKYCBML._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G1B5STVX",
+  "buyStore": "Amazon",
+  "title": "Aurey Korean Rice Face Pack 50gm | Brightening Face Pack with Korean Rice Extracts Niacinamide & Kaolin Clay | Deep Cleansing Pore Care & Instant Glow | Suitable for All Skin Types",
+  "tags": [
+   "scope:face",
+   "format:clay-mask",
+   "format:pack",
+   "format:wash",
+   "ing:niacinamide",
+   "ing:rice-water",
+   "ing:clay",
+   "claim:brightening",
+   "claim:pores",
+   "claim:korean",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "the-face-shop-b0dn8nkfx1",
   "brand": "The Face Shop",
   "model": "Rice Water Bright Vegan Cream with Ceramide, Niacinamide & Hyaluronic Acid | Brightens Ski…",
@@ -63411,7 +63697,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:brightening",
@@ -63547,7 +63832,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:peptides",
@@ -63839,6 +64123,77 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0glwr28mw",
+  "brand": "Buy",
+  "model": "RYLLZ ESSENTIALS Rice Water Face Mask | With Kaolin Clay, 5% Niacinamide, 2% Salicylic Aci…",
+  "price": 297,
+  "capacityLine": "50 g",
+  "materialLine": "niacinamide + salicylic acid (BHA) + ceramides",
+  "featureLine": "Mask / pack · ₹594/100g",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.7,
+   "skin": 4,
+   "ingredients": 6.7,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹594/100g",
+   "format": "Mask / pack",
+   "keyIngredients": "niacinamide, salicylic acid (BHA), ceramides, rice water, clay/mud (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71xHWZglFzL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GLWR28MW",
+  "buyStore": "Amazon",
+  "title": "Buy RYLLZ ESSENTIALS Rice Water Face Mask | With Kaolin Clay, 5% Niacinamide, 2% Salicylic Acid & Ceramide | For Glass Skin, Glow, Dark Spots, Oil Control, Open Pores, Uneven & Dull Skin | Korean Skincare | 50Gm Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:clay-mask",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "ing:ceramides",
+   "ing:rice-water",
+   "ing:clay",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:korean",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "david-b0fg2n1k6k",
   "brand": "David",
   "model": "Austin Rose Niacinamide & Korean Rice Water Face Toner – Hydrating & Brightening Facial To…",
@@ -63885,7 +64240,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "ing:rose",
@@ -63903,6 +64257,77 @@ const CTPRODUCTS = [
   "filters": {
    "actives": true,
    "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "orum-b0ggrlgz42",
+  "brand": "Orum",
+  "model": "Glow Elixir Korean Rice Water Face Serum with 3% Niacinamide & 1% Alpha Arbutin, 0.5% Cera…",
+  "price": 467,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "niacinamide + ceramides + alpha arbutin",
+  "featureLine": "Serum",
+  "highlight": "Live Amazon listing rated 4.4★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.4)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.8,
+   "skin": 4,
+   "ingredients": 6.3,
+   "experience": 5.1
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Serum",
+   "keyIngredients": "niacinamide, ceramides, alpha arbutin, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71wjJiABV9L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GGRLGZ42",
+  "buyStore": "Amazon",
+  "title": "Orum Glow Elixir Korean Rice Water Face Serum with 3% Niacinamide & 1% Alpha Arbutin, 0.5% Ceramide Complex For Glowing Skin | Reduces Acne, Pigmentation, Dark Spots & Boosts Collagen | Pack of 1",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:ceramides",
+   "ing:collagen",
+   "ing:alpha-arbutin",
+   "ing:rice-water",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:korean",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
    "natural": false,
    "derm": false,
    "men": false,
@@ -64228,7 +64653,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:brightening",
@@ -64389,6 +64813,72 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "cerave-b0grwd4gz1",
+  "brand": "Cerave",
+  "model": "HA Water Gel with Hyaluronic Acid, Ceramides & Niacinamide for Plumpy hydration|Oil-free g…",
+  "price": 503,
+  "capacityLine": "25 ml",
+  "materialLine": "niacinamide + hyaluronic acid + ceramides",
+  "featureLine": "Oil · ₹2012/100ml",
+  "highlight": "Live Amazon listing rated 4.4★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.4)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹2012/100ml"
+  ],
+  "scores": {
+   "trust": 6.6,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "25 ml",
+   "pricePer100": "₹2012/100ml",
+   "format": "Oil",
+   "keyIngredients": "niacinamide, hyaluronic acid, ceramides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/613N4PHhhSL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GRWD4GZ1",
+  "buyStore": "Amazon",
+  "title": "CeraVe HA Water Gel with Hyaluronic Acid, Ceramides & Niacinamide for Plumpy hydration|Oil-free gel moisturizer| 3 sec fast absorption| Dermat recommended for Women & Men| 25 ml",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:ceramides",
+   "claim:hydrating",
+   "free:oil-free",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
   "id": "vita-b0fzl68276",
   "brand": "Vita",
   "model": "B3 Source, 40ml, 10% Niacinamide Glow Serum with 2% Arbutin for Radiant & Balanced Skin, V…",
@@ -64501,7 +64991,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -64592,6 +65081,75 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false
+  }
+ },
+ {
+  "id": "orum-b0ggrwhg6r",
+  "brand": "Orum",
+  "model": "Rice Water Face Toner with 2% Niacinamide, 1% Alpha Arbutin For Glowing & Brightens Skin, …",
+  "price": 385,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "niacinamide + alpha arbutin + rice water",
+  "featureLine": "Toner",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Toner",
+   "keyIngredients": "niacinamide, alpha arbutin, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71gxJ0V7aLL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GGRWHG6R",
+  "buyStore": "Amazon",
+  "title": "Orum Rice Water Face Toner with 2% Niacinamide, 1% Alpha Arbutin For Glowing & Brightens Skin, Tightening Open Pores & Fade Blemishes | For Men, Women & Korean Skin Care | Pack of 1",
+  "tags": [
+   "scope:face",
+   "format:toner",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:alpha-arbutin",
+   "ing:rice-water",
+   "claim:brightening",
+   "claim:acne",
+   "claim:pores",
+   "claim:korean",
+   "aud:women",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
   }
  },
  {
@@ -64734,6 +65292,72 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "mutuals-b0gzr26dl5",
+  "brand": "Mutuals",
+  "model": "Moisturising Rice Toner with Niacinamide and Soya, Brightens Dark Skin Tone, Deep Hydratio…",
+  "price": 249,
+  "capacityLine": "100 ml",
+  "materialLine": "niacinamide + rice water",
+  "featureLine": "Toner · ₹249/100ml",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹249/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹249/100ml",
+   "format": "Toner",
+   "keyIngredients": "niacinamide, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51KMZocePlL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GZR26DL5",
+  "buyStore": "Amazon",
+  "title": "Mutuals Moisturising Rice Toner with Niacinamide and Soya, Brightens Dark Skin Tone, Deep Hydration, 100ml",
+  "tags": [
+   "scope:unstated",
+   "format:toner",
+   "ing:niacinamide",
+   "ing:rice-water",
+   "claim:brightening",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "geoorganix-b0dft3bjy7",
   "brand": "GeoOrganiX",
   "model": "Niacinamide & Rice Ferment Face Mist & Toner - Hydrating and Brightening Facial Spray, 2-i…",
@@ -64790,6 +65414,78 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "gzen-b0h6b9ypxy",
+  "brand": "GZEN",
+  "model": "Niacinamide 5% Face Serum with Hyaluronic Acid, Rice Extract & Zinc PCA – Minimizes Pores,…",
+  "price": 399,
+  "capacityLine": "30 ml",
+  "materialLine": "niacinamide + hyaluronic acid + rice water",
+  "featureLine": "Serum · ₹1330/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1330/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 6.3,
+   "experience": 5.5
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹1330/100ml",
+   "format": "Serum",
+   "keyIngredients": "niacinamide, hyaluronic acid, rice water, zinc (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/6158Eqtv3ZL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H6B9YPXY",
+  "buyStore": "Amazon",
+  "title": "GZEN Niacinamide 5% Face Serum with Hyaluronic Acid, Rice Extract & Zinc PCA – Minimizes Pores, Controls Oil, Reduces Blemishes, Brightens Skin & Improves Texture, Hydrating Daily Vitamin B3 Serum for Glass Skin, All Skin Types (30ml)",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:oil",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:rice-water",
+   "ing:zinc",
+   "claim:brightening",
+   "claim:acne",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
    "store:amazon"
   ],
   "filters": {
@@ -64982,7 +65678,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:glutathione",
@@ -68807,6 +69502,71 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "beardo-b0gqyqhhys",
+  "brand": "Beardo",
+  "model": "Ultra Glow Brightening Face Serum for Men | Powered by 15% Niacinamide, Vitamin C, Glutath…",
+  "price": 148,
+  "capacityLine": "10 ml",
+  "materialLine": "vitamin C + niacinamide",
+  "featureLine": "Serum · ₹1480/100ml",
+  "highlight": "Live Amazon listing rated 2.7★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1480/100ml",
+   "Mixed buyer rating (2.7)"
+  ],
+  "scores": {
+   "trust": 4.8,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "10 ml",
+   "pricePer100": "₹1480/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, niacinamide (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Marketed for men",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "2.7/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61RptiUqJzL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GQYQHHYS",
+  "buyStore": "Amazon",
+  "title": "Beardo Ultra Glow Brightening Face Serum for Men | Powered by 15% Niacinamide, Vitamin C, Glutathione | Simple Serum for Men | Brightening Face Serum – 10ml",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:glutathione",
+   "claim:brightening",
+   "aud:men",
+   "size:travel",
+   "rating:low",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": true,
+   "women": false
+  }
+ },
+ {
   "id": "ihc-b0hbwp6gz8",
   "brand": "IHC",
   "model": "Glow 10% Vitamin C Face Serum with 5% Niacinamide & Glutathione- 30ML | Brightening Serum …",
@@ -68862,6 +69622,144 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "claim:lightweight",
    "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "pilgrim-b0h6fp8vnx",
+  "brand": "Pilgrim",
+  "model": "10% Vitamin C Serum 30ml (Pack of 2) for Glowing Skin with 5% Niacinamide | Fades Dark Spo…",
+  "price": 808,
+  "capacityLine": "60 ml (pack of 2)",
+  "materialLine": "vitamin C + niacinamide",
+  "featureLine": "Serum · ₹1347/100ml",
+  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1347/100ml"
+  ],
+  "scores": {
+   "trust": 5.4,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "30 ml × 2 pack",
+   "pricePer100": "₹1347/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, niacinamide (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61bqEoMAZZL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H6FP8VNX",
+  "buyStore": "Amazon",
+  "title": "Pilgrim 10% Vitamin C Serum 30ml (Pack of 2) for Glowing Skin with 5% Niacinamide | Fades Dark Spots, Evens Skin Tone |For All Oily, Combination, Normal Skin | Daily Radiance for Men & Women",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "format:kit",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "claim:brightening",
+   "claim:dark-spots",
+   "skin:oily",
+   "skin:combination",
+   "skin:normal",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "yeoul-b0gxkc6h5v",
+  "brand": "yeoul",
+  "model": "Goheung Yuja C Vita Brightening Serum 30mL | Korean Face Serum for Pigmentation, Dark Spot…",
+  "price": 1399,
+  "capacityLine": "30 ml",
+  "materialLine": "vitamin C + niacinamide",
+  "featureLine": "Serum · ₹4663/100ml",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹4663/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹4663/100ml",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, niacinamide (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71CGPijDXtL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GXKC6H5V",
+  "buyStore": "Amazon",
+  "title": "yeoul Goheung Yuja C Vita Brightening Serum 30mL | Korean Face Serum for Pigmentation, Dark Spots & Uneven Tone | Yuja Vitamin C + 5% Niacinamide | Antioxidant Glow & Hydrating Barrier Care",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:yuja-yuzu",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:korean",
    "aud:unisex",
    "size:travel",
    "rating:4.5",
@@ -70493,7 +71391,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:retinol",
@@ -72234,7 +73131,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "claim:brightening",
    "claim:pores",
@@ -72299,7 +73195,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:peel",
    "format:kit",
    "ing:niacinamide",
@@ -75053,7 +75948,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "claim:brightening",
@@ -75728,7 +76622,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:alpha-arbutin",
@@ -76061,7 +76954,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -76134,7 +77026,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:acne",
@@ -76331,7 +77222,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:acne",
@@ -76536,7 +77426,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:brightening",
@@ -77366,7 +78255,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:zinc",
@@ -77435,7 +78323,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -77767,7 +78654,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:brightening",
@@ -77973,7 +78859,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:acne",
@@ -78039,7 +78924,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -78306,7 +79190,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "claim:brightening",
    "claim:dark-spots",
@@ -78375,7 +79258,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "claim:dark-spots",
    "claim:acne",
@@ -78517,7 +79399,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "claim:pores",
@@ -79122,7 +80003,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "claim:brightening",
    "claim:dark-spots",
@@ -79340,7 +80220,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "skin:oily",
    "skin:combination",
@@ -79406,7 +80285,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:brightening",
@@ -79612,7 +80490,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:acne",
@@ -79679,7 +80556,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:acne",
@@ -79750,7 +80626,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:pores",
@@ -80434,7 +81309,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:zinc",
@@ -80504,7 +81378,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -81047,7 +81920,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:dark-spots",
@@ -81459,7 +82331,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:alpha-arbutin",
@@ -81808,7 +82679,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:vitamin-b5-panthenol",
    "ing:zinc",
@@ -81877,7 +82747,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:zinc",
@@ -81953,7 +82822,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:alpha-arbutin",
    "claim:brightening",
@@ -82099,7 +82967,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:tea-tree",
    "claim:acne",
@@ -82170,7 +83037,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "claim:brightening",
@@ -82719,7 +83585,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:green-tea",
@@ -84085,7 +84950,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -84495,7 +85359,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:zinc",
@@ -85120,7 +85983,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "spf:50",
    "pa:++++",
    "ing:vitamin-c",
@@ -85192,7 +86054,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "claim:dark-spots",
    "claim:pores",
@@ -85262,7 +86123,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:vitamin-b5-panthenol",
@@ -85467,7 +86327,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "claim:brightening",
@@ -86266,7 +87125,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:peptides",
    "ing:caffeine",
@@ -86540,7 +87398,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:green-tea",
@@ -86608,7 +87465,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "claim:acne",
@@ -86874,7 +87730,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:acne",
@@ -87074,7 +87929,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "claim:brightening",
    "claim:dark-spots",
@@ -87548,7 +88402,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:acne",
@@ -87615,7 +88468,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "claim:brightening",
    "claim:acne",
@@ -87691,7 +88543,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:alpha-arbutin",
@@ -88064,7 +88915,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:acne",
@@ -88409,7 +89259,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:acne",
@@ -88475,7 +89324,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:witch-hazel",
    "claim:brightening",
@@ -88547,7 +89395,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:alpha-arbutin",
    "claim:brightening",
@@ -88748,7 +89595,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:vitamin-e",
@@ -89018,7 +89864,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:vitamin-b5-panthenol",
@@ -90047,7 +90892,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "claim:brightening",
    "claim:dark-spots",
@@ -90450,7 +91294,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:acne",
@@ -90844,7 +91687,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -91112,7 +91954,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:zinc",
@@ -91513,7 +92354,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:acne",
@@ -91581,7 +92421,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:acne",
@@ -91651,7 +92490,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:dark-spots",
@@ -91720,7 +92558,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:green-tea",
@@ -91790,7 +92627,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:rice-water",
@@ -91993,7 +92829,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:brightening",
@@ -92207,7 +93042,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:vitamin-b5-panthenol",
    "ing:zinc",
@@ -92279,7 +93113,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:acne",
@@ -92415,7 +93248,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -93181,7 +94013,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "claim:brightening",
    "claim:dark-spots",
@@ -93256,7 +94087,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:zinc",
@@ -93324,7 +94154,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:green-tea",
@@ -93394,7 +94223,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:brightening",
@@ -93464,7 +94292,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:brightening",
@@ -93664,7 +94491,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:alpha-arbutin",
@@ -93734,7 +94560,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:acne",
@@ -93933,7 +94758,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:acne",
@@ -94065,7 +94889,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:acne",
@@ -94132,7 +94955,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:dark-spots",
@@ -94263,7 +95085,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "ing:zinc",
@@ -94402,7 +95223,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -94474,7 +95294,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:acne",
@@ -94890,7 +95709,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:acne",
@@ -95031,7 +95849,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:pores",
@@ -95099,7 +95916,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:zinc",
@@ -95240,7 +96056,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:zinc",
@@ -95374,7 +96189,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:zinc",
@@ -95443,7 +96257,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:acne",
@@ -95861,7 +96674,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:acne",
@@ -95927,7 +96739,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:zinc",
@@ -95998,7 +96809,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:acne",
@@ -96064,7 +96874,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "ing:squalane",
@@ -96469,7 +97278,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:acne",
@@ -96603,7 +97411,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:dark-spots",
@@ -96671,7 +97478,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:brightening",
@@ -96940,7 +97746,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:brightening",
@@ -97074,7 +97879,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:acne",
@@ -97141,7 +97945,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:alpha-arbutin",
    "ing:zinc",
@@ -97212,7 +98015,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -97281,7 +98083,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:vitamin-e",
@@ -97553,7 +98354,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:zinc",
    "claim:brightening",
@@ -97694,7 +98494,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -97836,7 +98635,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:centella-cica",
    "ing:zinc",
@@ -98249,7 +99047,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -98386,7 +99183,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -100632,7 +101428,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "spf:30",
    "pa:++",
    "ing:vitamin-c",
@@ -100773,7 +101568,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:retinol",
    "ing:salicylic-acid-bha",
@@ -101860,7 +102654,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:retinol",
    "ing:ceramides",
@@ -103559,6 +104352,72 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "dermina-b0hh9bgzwt",
+  "brand": "DERMINA",
+  "model": "Retinol 0.1% Face Serum, Bakuchiol 0.1%, Niacinamide 1% & Lactobionic Acid 0.5% | Anti-Age…",
+  "price": 549,
+  "capacityLine": "25 ml",
+  "materialLine": "niacinamide + retinol + bakuchiol",
+  "featureLine": "Serum · ₹2196/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹2196/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "25 ml",
+   "pricePer100": "₹2196/100ml",
+   "format": "Serum",
+   "keyIngredients": "niacinamide, retinol, bakuchiol (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61tZDBZEueL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HH9BGZWT",
+  "buyStore": "Amazon",
+  "title": "DERMINA Retinol 0.1% Face Serum, Bakuchiol 0.1%, Niacinamide 1% & Lactobionic Acid 0.5% | Anti-Ageing Skin Care for Smoother Texture, Firmness & Radiant-Looking Skin (25ml)",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:niacinamide",
+   "ing:retinol",
+   "ing:bakuchiol",
+   "claim:anti-aging",
+   "claim:exfoliating",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "dual-phase-b0gr678rtt",
   "brand": "Dual-Phase",
   "model": "Brightening & Collagen Facial Serum | 15% Brightening + 20% Collagen | Vitamin C, Niacinam…",
@@ -103895,6 +104754,75 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true
+  }
+ },
+ {
+  "id": "skynt-b0hfwj7c9l",
+  "brand": "SKYNT",
+  "model": "Multiregen Anti Aging Elixir Facial Serum 30 mL | Peptide Complex, Niacinamide & Bakuchiol…",
+  "price": 1999,
+  "capacityLine": "30 ml",
+  "materialLine": "niacinamide + bakuchiol + peptides",
+  "featureLine": "Serum · Paraben-free · ₹6663/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Pricey: ₹6663/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 5.3,
+   "ingredients": 6.4,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹6663/100ml",
+   "format": "Serum",
+   "keyIngredients": "niacinamide, bakuchiol, peptides (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/81aQK3GSa7L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HFWJ7C9L",
+  "buyStore": "Amazon",
+  "title": "SKYNT Multiregen Anti Aging Elixir Facial Serum 30 mL | Peptide Complex, Niacinamide & Bakuchiol, Paraben-Free, Vegan, Dermatologically Tested",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "ing:niacinamide",
+   "ing:bakuchiol",
+   "ing:peptides",
+   "claim:anti-aging",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": false
   }
  },
  {
@@ -104495,7 +105423,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:bakuchiol",
    "ing:hyaluronic-acid",
@@ -105297,6 +106224,73 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0fvy4wj6f",
+  "brand": "Buy",
+  "model": "Antinorm Facial in a Flash Face Scrub | De Tan & Dead Skin | 50g | 9 in 1 Enzyme Face Scru…",
+  "price": 1199,
+  "capacityLine": "50 g",
+  "materialLine": "niacinamide + kojic acid",
+  "featureLine": "Scrub / exfoliant · ₹2398/100g",
+  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹2398/100g",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹2398/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "niacinamide, kojic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51HcoWauDkL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FVY4WJ6F",
+  "buyStore": "Amazon",
+  "title": "Buy Antinorm Facial in a Flash Face Scrub | De Tan & Dead Skin | 50g | 9 in 1 Enzyme Face Scrub | Pore Refining | Niacinamide, Kojic Acid | For all Skin Types Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:scrub",
+   "ing:niacinamide",
+   "ing:kojic-acid",
+   "claim:de-tan",
+   "claim:pores",
+   "claim:exfoliating",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "de-tan-b0gw81cwjm",
   "brand": "De-Tan",
   "model": "Face Scrub 100g | Kojic Acid, Niacinamide & Vitamin E | Tan Removal, Skin Brightening & Ex…",
@@ -105618,7 +106612,6 @@ const CTPRODUCTS = [
   "title": "Iron & Oak Deep Clean Scrub | Exfoliating Face Scrub | Tan Removal | 100 g | Niacinamide | Walnut & Papaya Extract | Blackheads & Whiteheads | Excess Oil Control | Deep Cleansing",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "ing:niacinamide",
@@ -105688,7 +106681,6 @@ const CTPRODUCTS = [
   "title": "Face Scrub with AHA & Tea Tree Extract | Exfoliating Scrub for Acne, Blackheads & Dead Skin | Brightening & Oil Control | Niacinamide Formula | All Skin Types | Men & Women - 100 ML",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:scrub",
    "ing:niacinamide",
    "ing:aha",
@@ -106372,7 +107364,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:peel",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -107072,7 +108063,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "claim:hydrating",
@@ -107279,7 +108269,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
@@ -108304,7 +109293,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -108375,7 +109363,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
@@ -108446,7 +109433,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:peptides",
@@ -108990,7 +109976,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -109126,7 +110111,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -109334,7 +110318,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:witch-hazel",
@@ -109403,7 +110386,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "claim:brightening",
@@ -109472,7 +110454,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:foam",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -109604,7 +110585,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -110142,7 +111122,6 @@ const CTPRODUCTS = [
   "title": "Acne Control Face Cleanser 100ml with 2% Salicylic Acid | Face Wash for Oily & Acne-Prone Skin | Niacinamide & Ceramides | Oil-Free, Reduces Pimples, Blackheads & Redness | Daily Use",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -110846,7 +111825,6 @@ const CTPRODUCTS = [
   "title": "AAYURIX Salinamide Face Wash for Acne & Pimples | 2% Salicylic Acid + 2% Niacinamide + AHAs & PHAs | Deep Clean, Oil Control, Marks Removal | For Men & Women | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -111116,7 +112094,6 @@ const CTPRODUCTS = [
   "title": "Oil Control & Anti Acne Face Wash with 2% Salicylic Acid 1% Niacinamide & Licorice Extract for Oily Acne Prone Skin Deep Cleansing Pore Purifying Blackhead Removal Excess Oil Control Daily Facial",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -111186,7 +112163,6 @@ const CTPRODUCTS = [
   "title": "2% Salicylic Acid Anti-Acne Face Wash | Niacinamide 6%, Oil Control Cleanser (100ml)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -111322,7 +112298,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne Brightening Face Wash with Niacinamide Salicylic Acid Vitamin C Aloe Vera Extract Gentle Daily Cleanser for Oily Acne Prone Skin Deep Cleansing Oil Control Hydrating Face Cleanser 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -111394,7 +112369,6 @@ const CTPRODUCTS = [
   "title": "3% AHA-BHA Face Wash | For Acne Control, Oil Balance & Bright Skin | With 1% Glycolic Acid, 1% Lactic Acid & 1% Salicylic Acid (100ml)+ 4% AHA-BHA Underarm Roll-On | For Body Odour & Underarm Brightening | With 2% Lactic Acid, 1% Glycolic Acid, 1% Salicylic Acid & 1% Niacinamide (50ml)",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:wash",
    "format:roll-on",
    "ing:niacinamide",
@@ -111534,7 +112508,6 @@ const CTPRODUCTS = [
   "title": "Unisex Clarifying Face Wash with Niacinamide, 1% Salicylic Acid, Green Tea, and Cica | Helps Purify Pores Supports Oil Control for Acne & Acne Marks For All Skins Pack of 2 100ml Each_P (100ML)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -111603,7 +112576,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne Brightening Face Wash with Niacinamide 4% Salicylic Acid 1% Vitamin C Aloe Vera Extract Deep Cleansing Oil Control Face Cleanser for Oily Acne Prone Skin Lightweight Non Sticky Daily Face Wash 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -111674,7 +112646,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne Brightening Face Wash with Niacinamide 4% Salicylic Acid 1% Vitamin C Aloe Vera Extract Oil Control Deep Cleansing Daily Facial Cleanser for Oily Acne Prone Skin Lightweight Non Sticky 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -111892,7 +112863,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne & Brightening Face Wash with Niacinamide 4%, Salicylic Acid 1% & Vitamin C | Aloe Vera Extract Facial Cleanser | Deep Pore Cleansing, Oil Control & Acne Care | Lightweight Daily Face Wash for Oily, Combination & Acne-Prone Skin | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -111965,7 +112935,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne & Brightening Face Wash with Niacinamide 4%, Salicylic Acid 1% & Vitamin C | Aloe Vera Extract | Deep Cleansing Oil Control Face Cleanser | Helps Reduce Acne, Blemishes & Acne Marks | Daily Facial Wash for Oily & Combination Skin | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -112035,7 +113004,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne Brightening Face Wash with Niacinamide 4 Percent Salicylic Acid 1 Percent Vitamin C Aloe Vera Extract Daily Deep Cleansing Oil Control Face Cleanser for Oily Acne Prone Skin 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -112245,7 +113213,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne & Brightening Face Wash with Niacinamide 4%, Salicylic Acid 1% & Vitamin C | Aloe Vera Extract Face Cleanser for Oily & Acne-Prone Skin | Deep Cleansing, Oil Control & Skin Brightening | 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -112315,7 +113282,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne & Brightening Face Wash with Niacinamide 4%, Salicylic Acid 1% & Vitamin C | Aloe Vera Extract | Deep Cleansing Facial Cleanser for Oily & Acne-Prone Skin | Oil Control, Acne Care & Skin Brightening | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -112385,7 +113351,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne & Brightening Face Wash with Niacinamide 4%, Salicylic Acid 1% & Vitamin C | Aloe Vera Extract Facial Cleanser | Oil Control, Deep Pore Cleansing & Skin Brightening | Daily Face Wash for Oily & Acne-Prone Skin | 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -112456,7 +113421,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne & Brightening Face Wash with Niacinamide 4%, Salicylic Acid 1% & Vitamin C | Aloe Vera Extract | Deep Cleansing Oil Control Facial Cleanser | Helps Reduce Acne Marks & Brightens Skin | Lightweight Daily Face Wash | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -112526,7 +113490,6 @@ const CTPRODUCTS = [
   "title": "Unisex Clarifying Face Wash with Niacinamide, 1% Salicylic Acid, Green Tea, and Cica | Helps Purify Pores Supports Oil Control for Acne & Acne Marks For All Skins Pack of 2 100ml Each_P (200ML)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -112595,7 +113558,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne Brightening Face Wash with Aloe Vera Extracts, Niacinamide 4%, Salicylic Acid 1% & Vitamin C, Deep Cleansing Facial Cleanser for Oily & Acne Prone Skin, Oil Control, Skin Brightening, Lightweight Formula, 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -112868,7 +113830,6 @@ const CTPRODUCTS = [
   "title": "Dr. Sakhiya's Acne & Pimple Face Wash, 2% Salicylic Acid, Niacinamide, 70ml | Dermatologist formulated acne face wash with 2% Salicylic Acid & Niacinamide, oil-free, paraben-free, reduces breakouts, 70m.",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -113134,7 +114095,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:bakuchiol",
@@ -113841,7 +114801,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "claim:brightening",
@@ -114045,7 +115004,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -114114,7 +115072,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:alpha-arbutin",
@@ -114796,7 +115753,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:gel",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:kojic-acid",
@@ -115073,7 +116029,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -115210,7 +116165,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -115351,7 +116305,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -115487,7 +116440,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -115835,7 +116787,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:rice-water",
@@ -116168,7 +117119,6 @@ const CTPRODUCTS = [
   "title": "Mamaearth Rice Oil-Free Face Moisturizer for Oily Skin | With Rice Water & Niacinamide for Glass Skin | 24-Hour Hydration | Brightens Skin Tone | 80g",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -116236,7 +117186,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -116306,7 +117255,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:centella-cica",
    "claim:brightening",
@@ -117127,7 +118075,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -117196,7 +118143,6 @@ const CTPRODUCTS = [
   "title": "Mamaearth Rice Oil-Free Face Moisturizer With Rice Water & Niacinamide for Glass Skin - 150 g | 24-Hour Hydration | Brightens Skin Tone | Improves Skin Texture | Made Safe Approved",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -117264,7 +118210,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -117408,7 +118353,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:peptides",
@@ -117757,7 +118701,6 @@ const CTPRODUCTS = [
   "title": "The Derma Co. 5% Nia-Ceramide Mattifying Moisturizer -100 g | For Oily to Acne Prone Skin | 5% Niacinamide, 2% Ceramide | 24 hrs. Moisturization | Panthenol, Allantoin & Zinc PCA | Oil-free Moisturizer",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:vitamin-b5-panthenol",
@@ -117833,7 +118776,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -118732,7 +119674,6 @@ const CTPRODUCTS = [
   "title": "Matte Finish Face Moisturizer with 5% Niacinamide | For Oil Control, Brightening & Hydrating Skin | with 2% Rice Water, 2% Olive Squalane, 1% Ceramide Complex & 1% Hydrolyzed Collagen | All Skin Types | 50 g (Pack of 2)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:ceramides",
@@ -119293,7 +120234,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "claim:dark-spots",
@@ -119364,7 +120304,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -119632,7 +120571,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -119971,7 +120909,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:watermelon",
@@ -120107,7 +121044,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "claim:dark-spots",
    "claim:acne",
@@ -120178,7 +121114,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:alpha-arbutin",
@@ -120249,7 +121184,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -120318,7 +121252,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -120390,7 +121323,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -120602,7 +121534,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "claim:brightening",
@@ -120740,7 +121671,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:green-tea",
@@ -120946,7 +121876,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:ginseng",
    "claim:hydrating",
@@ -121082,7 +122011,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -121222,7 +122150,6 @@ const CTPRODUCTS = [
   "title": "Plum Green Tea Oil-Free Face Moisturizer | With Niacinamide & Hyaluronic Acid | Fights Pimples & Hydrates | Fades Blemishes & Brightens Skin | Non-Sticky & Long-Lasting Moisturizer for Face | 50ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:green-tea",
@@ -121289,7 +122216,6 @@ const CTPRODUCTS = [
   "title": "Fixderma Dewrav Acne Control & Oil Free Moisturizer for Face with Glycolic Acid | Niacinamide | Oily Skin | Face Moisturizer for Women & Men - 50 gm",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:niacinamide",
    "ing:glycolic-acid",
    "claim:acne",
@@ -121354,7 +122280,6 @@ const CTPRODUCTS = [
   "title": "Neutrogena Ultra Gentle Daily Moisturiser 100 ml | Oil Free | Glycerine, Niacinamide & Vitamin B5 | Light Weight & Non Greasy | 24 Hour Moisturization & Strengthens Skin's Moisture Barrier | Dry & Sensitive Skin | Fragrance & Paraben Free",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:niacinamide",
    "ing:vitamin-b5-panthenol",
    "ing:glycerin",
@@ -121426,7 +122351,6 @@ const CTPRODUCTS = [
   "title": "Aqualogica Radiance+ Oil-Free Moisturizer with Watermelon & Niacinamide for Deeply Nourished, Combination Skin, Oil-Free & Radiant Skin of Men & Women -100g",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:niacinamide",
    "ing:watermelon",
    "claim:brightening",
@@ -121492,7 +122416,6 @@ const CTPRODUCTS = [
   "title": "Dr. Sheth's Haldi & Hyaluronic Acid Oil-Free Face Moisturizer for All Skin Types | With Niacinamide | Dermatologically Tested | To Hydrate, Brighten & Nourish Skin Deeply | 50 g",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:turmeric",
@@ -121628,7 +122551,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "claim:dark-spots",
    "claim:acne",
@@ -121697,7 +122619,6 @@ const CTPRODUCTS = [
   "title": "mCaffeine Glow Boost 5% Niacinamide & Green Tea Oil Free Moisturizer | Brightens & Even-Tones | 72Hrs Moisturization | Reduces Acne Marks & Blemishes | Lightweight Moisturizer For All Skin Types -50ml",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:niacinamide",
    "ing:caffeine",
    "ing:green-tea",
@@ -121841,7 +122762,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:glycolic-acid",
    "ing:rice-water",
@@ -121911,7 +122831,6 @@ const CTPRODUCTS = [
   "title": "Gabit Ceramide & Hyaluronic Face Moisturiser | Lightweight Moisturizer to Hydrate & Brighten Skin | With Vitamin C, Niacinamide, Oats | For Women and Men | Oil Free for All Skin Types",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:colloidal-oatmeal",
@@ -121981,7 +122900,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:vitamin-b5-panthenol",
@@ -122048,7 +122966,6 @@ const CTPRODUCTS = [
   "title": "ReacHabits 2% Niacinamide & Rice Water Face Moisturizer 50gm | Fragrance Free, Non-comedogenic, Oil Free, 2x Hydration, Brighter Skin",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:hydrating",
@@ -122116,7 +123033,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -122187,7 +123103,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "ing:vitamin-e",
@@ -122258,7 +123173,6 @@ const CTPRODUCTS = [
   "title": "SOKU Hydration & Oil Control Combo | Intense Hydrating Face Wash & Oil-Free Moisturizer | Deep Cleansing, Hydrating & Brightening | With Hyaluronic Acid & Niacinamide | For All Skin Types",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -122536,7 +123450,6 @@ const CTPRODUCTS = [
   "title": "SUGANDA SKINCARE Soothing Ceramide Moisturizer for Dry Skin, Face, Restores Damaged Skin | Hydrating & Long Lasting (50Ml) | All Skin Types | Oil Free Moisturiser with Niacinamide",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:niacinamide",
    "ing:ceramides",
    "claim:hydrating",
@@ -123160,7 +124073,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:emulsion",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -124047,7 +124959,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:peptides",
@@ -135933,7 +136844,6 @@ const CTPRODUCTS = [
   "title": "Seong Sebum Control Korean Glass Facial Kit| 8 Steps Facial| With Rice Bran, Niacinamide & Korean Ginseng| Matte-Glow Finish, Oil Balancing, Radiant and Glowing Skin| For Oily Skin| 8 steps (57gm+65ml)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:rice-water",
@@ -136832,7 +137742,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -136903,7 +137812,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -138448,7 +139356,6 @@ const CTPRODUCTS = [
    "scope:body",
    "format:gel",
    "format:lotion",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -141277,7 +142184,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:body",
    "format:lotion",
-   "format:oil",
    "spf:50",
    "pa:++++",
    "ing:niacinamide",
@@ -141304,6 +142210,80 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": false
+  }
+ },
+ {
+  "id": "buy-b0h1mkgmqk",
+  "brand": "Buy",
+  "model": "Minimalist Body Hydration & Odour Control Duo | Niacinamide Body Lotion + Nonapeptide Roll…",
+  "price": 596,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "niacinamide + ceramides + peptides",
+  "featureLine": "Lotion",
+  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Lotion",
+   "keyIngredients": "niacinamide, ceramides, peptides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61xYbTsK8UL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61sfwxis0kL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/618ytnwQm5L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61uFWi1mNML._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61vWeOFtlQL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H1MKGMQK",
+  "buyStore": "Amazon",
+  "title": "Buy Minimalist Body Hydration & Odour Control Duo | Niacinamide Body Lotion + Nonapeptide Roll On | Moisturizes Dry Skin & Controls Body Odour | For Women & Men Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:roll-on",
+   "ing:niacinamide",
+   "ing:ceramides",
+   "ing:peptides",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:dry-skin-relief",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
   }
  },
  {
@@ -141352,7 +142332,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:rice-water",
@@ -142690,7 +143669,6 @@ const CTPRODUCTS = [
   "title": "Personal Touch Sunscreen SPF 50 PA+++ for Face | Sunstalker Korea 3 in 1| Lightweight Sunscreen with No White Cast | Non-Greasy, Acne Safe & Oil-Free | With Niacinamide | For Oily & Dry Skin | 50 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "spf:50",
    "pa:+++",
    "ing:niacinamide",
@@ -142715,6 +143693,74 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false
+  }
+ },
+ {
+  "id": "o3-b0f7fgnfvj",
+  "brand": "O3+",
+  "model": "Super Matte Sunscreen Gel SPF 50 PA ++++ With Niacinamide & Hyaluronic acid Suitable for N…",
+  "price": 449,
+  "capacityLine": "75 g",
+  "materialLine": "niacinamide + hyaluronic acid",
+  "featureLine": "Sunscreen · SPF 50 · ₹599/100g",
+  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.1,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "75 g",
+   "pricePer100": "₹599/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "niacinamide, hyaluronic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne/blemish claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51NK1PBwJdL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F7FGNFVJ",
+  "buyStore": "Amazon",
+  "title": "O3+ Super Matte Sunscreen Gel SPF 50 PA ++++ With Niacinamide & Hyaluronic acid Suitable for Normal, Oily and Acne Prone skin for Women and Men | 75g",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "spf:50",
+   "pa:++++",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:acne-prone",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
   }
  },
  {
@@ -142775,6 +143821,85 @@ const CTPRODUCTS = [
    "actives": true,
    "freefrom": false,
    "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "simple-b0f8w7w5n7",
+  "brand": "Simple",
+  "model": "Mattifying UV Fluid |SPF 50 PA++++ | With Niacinamide & GlutaAmino Technology| Sunscreen f…",
+  "price": 324,
+  "capacityLine": "40 ml",
+  "materialLine": "niacinamide",
+  "featureLine": "Sunscreen · SPF 50 · ₹810/100ml",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.5,
+   "skin": 4,
+   "ingredients": 5.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "40 ml",
+   "pricePer100": "₹810/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "niacinamide (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41J0qMrfagL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/418-AMw1W4L._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61Emi3bFETL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/51QJ-4DOyRL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/517Y6n7gBkL._SL1000_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F8W7W5N7",
+  "buyStore": "Amazon",
+  "title": "Simple Mattifying UV Fluid |SPF 50 PA++++ | With Niacinamide & GlutaAmino Technology| Sunscreen for Oily Skin & Dark Spots |Ultra Lightweight & Non-Sticky | UVA UVB & Bluelight protection | 40ml",
+  "tags": [
+   "scope:unstated",
+   "format:oil",
+   "format:emulsion",
+   "spf:50",
+   "pa:++++",
+   "ing:niacinamide",
+   "claim:dark-spots",
+   "claim:oil-control",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:blue-light",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:sensitive",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
    "derm": false,
    "men": false,
    "women": false
@@ -145055,7 +146180,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -146174,7 +147298,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:lotion",
    "format:foam",
-   "format:oil",
    "ing:niacinamide",
    "claim:brightening",
    "claim:dark-spots",
@@ -146663,7 +147786,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -147062,7 +148184,6 @@ const CTPRODUCTS = [
   "title": "WishCare Niacinamide Oil Balance Fluid Sunscreen SPF 50 PA++++",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:emulsion",
    "spf:50",
    "pa:++++",
@@ -147146,6 +148267,158 @@ const CTPRODUCTS = [
    "skin:all",
    "aud:unisex",
    "size:travel",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "scientifique-b0fl149fbb",
+  "brand": "SCIENTIFIQUE™",
+  "model": "Sunscreen SPF 50 PA++++ – Infused with Hyaluronic Acid, Vitamin E, Kojic Acid & Niacinamid…",
+  "price": 599,
+  "capacityLine": "50 g",
+  "materialLine": "niacinamide + hyaluronic acid + ceramides",
+  "featureLine": "Sunscreen · SPF 50 · ₹1198/100g",
+  "highlight": "Live Amazon listing rated 3.4★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1198/100g",
+   "Mixed buyer rating (3.4)"
+  ],
+  "scores": {
+   "trust": 3.3,
+   "skin": 4,
+   "ingredients": 6.7,
+   "experience": 5.6
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹1198/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "niacinamide, hyaluronic acid, ceramides, kojic acid, rose, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.4/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61yHJsLgziL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71apOHo7pUL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71de0KEpNiL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61ftmHm7rCL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/71OuvTs2gDL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FL149FBB",
+  "buyStore": "Amazon",
+  "title": "SCIENTIFIQUE™ Sunscreen SPF 50 PA++++ – Infused with Hyaluronic Acid, Vitamin E, Kojic Acid & Niacinamide | Broad-Spectrum UV Protection | Hydrating, Brightening & Anti-Pollution Sun Defense for All Skin Types (50 g)",
+  "tags": [
+   "scope:unstated",
+   "spf:50",
+   "pa:++++",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:ceramides",
+   "ing:kojic-acid",
+   "ing:rose",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:low",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "dermdoc-b0gtw5pckz",
+  "brand": "Dermdoc",
+  "model": "SPF 50 Ultra Violet Brightening Tinted Sunscreen with 4% Niacinamide, 100g | PA +++ | With…",
+  "price": 499,
+  "capacityLine": "100 g",
+  "materialLine": "niacinamide",
+  "featureLine": "Sunscreen · SPF 50 · ₹499/100g",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.8,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹499/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "niacinamide (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51aV7InZPGL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GTW5PCKZ",
+  "buyStore": "Amazon",
+  "title": "DERMDOC SPF 50 Ultra Violet Brightening Tinted Sunscreen with 4% Niacinamide, 100g | PA +++ | With Purple Tint | Evens Skin Tone | Lightweight | UVA & UVB Protection | Zero White Caste | Strengthens Skin Barrier | Ultra-Light & Non-Greasy",
+  "tags": [
+   "scope:unstated",
+   "spf:50",
+   "pa:+++",
+   "ing:niacinamide",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:barrier",
+   "claim:broad-spectrum",
+   "claim:tinted",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:standard",
    "rating:4.0",
    "store:amazon"
   ],
@@ -147361,6 +148634,150 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "wishcare-b0h4q6q91v",
+  "brand": "Wishcare",
+  "model": "Niacinamide Oil Balance Fluid Sunscreen SPF 50 PA++++, 80ml | In-Vivo Tested, Lightweight …",
+  "price": 599,
+  "capacityLine": "80 ml",
+  "materialLine": "niacinamide",
+  "featureLine": "Sunscreen · SPF 50 · ₹749/100ml",
+  "highlight": "Live Amazon listing rated 4.4★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.4)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.9,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "80 ml",
+   "pricePer100": "₹749/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "niacinamide (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41MYbyuzHHL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H4Q6Q91V",
+  "buyStore": "Amazon",
+  "title": "WishCare Niacinamide Oil Balance Fluid Sunscreen SPF 50 PA++++, 80ml | In-Vivo Tested, Lightweight & No White Cast, Photostable Sunscreen For Oily Skin with 8Hrs+ SPF Protection, For Women & Men",
+  "tags": [
+   "scope:unstated",
+   "format:emulsion",
+   "spf:50",
+   "pa:++++",
+   "ing:niacinamide",
+   "claim:no-white-cast",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "aqueria-b0gfn1m4t7",
+  "brand": "Aqueria",
+  "model": "Oil Control Brightening Gel Multi-Active French Sunscreen SPF 50 PA++++ | In-Vivo/In-Vitro…",
+  "price": 686,
+  "capacityLine": "100 g",
+  "materialLine": "niacinamide + salicylic acid (BHA) + hyaluronic acid",
+  "featureLine": "Sunscreen · SPF 50 · ₹686/100g",
+  "highlight": "Live Amazon listing rated 3.8★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (3.8)",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹686/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "niacinamide, salicylic acid (BHA), hyaluronic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Acne/blemish claim, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.8/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71m+xz6JxoL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GFN1M4T7",
+  "buyStore": "Amazon",
+  "title": "Aqueria Oil Control Brightening Gel Multi-Active French Sunscreen SPF 50 PA++++ | In-Vivo/In-Vitro Tested | 2% Niacinamide, BHA & Hyaluronic Acid | Modern UV Filters | Broad Spectrum UVA/UVB & Blue Light Protection | Lightweight, Non-Greasy, No White Cast | Suitable for Daily Use | For Oily, Acne-Prone & Combination Skin | 100g",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "spf:50",
+   "pa:++++",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "ing:hyaluronic-acid",
+   "claim:brightening",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:blue-light",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:combination",
+   "skin:acne-prone",
+   "aud:unisex",
+   "size:standard",
+   "rating:3.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "cu-b0gtvrcyqc",
   "brand": "CU",
   "model": "Aqua Anti-Tan Sunscreen SPF 50 PA++++ | Broad Spectrum UVA/UVB Protection with Niacinamide…",
@@ -147477,7 +148894,6 @@ const CTPRODUCTS = [
   "title": "HealNCure Niacinamide Oil Balance Fluid Sunscreen SPF 50 PA++++ - Light & Matte Sunscreen for Oily Skin with Broad Spectrum Protection & No White Cast - 50g",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:emulsion",
    "spf:50",
    "pa:++++",
@@ -148096,7 +149512,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:body",
    "format:lotion",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
@@ -148320,7 +149735,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -149278,7 +150692,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:body",
    "format:lotion",
-   "format:oil",
    "spf:50",
    "pa:++++",
    "ing:niacinamide",
@@ -150282,6 +151695,75 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0gsz8ddjx",
+  "brand": "Buy",
+  "model": "VASELINE Gluta Hya Dewy Radiance Body Lotion, 330 ml, for Dewy Glowing Skin from 1st Use, …",
+  "price": 419,
+  "capacityLine": "330 ml",
+  "materialLine": "niacinamide",
+  "featureLine": "Serum · ₹127/100ml",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹127/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.7,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "330 ml",
+   "pricePer100": "₹127/100ml",
+   "format": "Serum",
+   "keyIngredients": "niacinamide (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51gkejY0bwL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GSZ8DDJX",
+  "buyStore": "Amazon",
+  "title": "Buy VASELINE Gluta Hya Dewy Radiance Body Lotion, 330 ml, for Dewy Glowing Skin from 1st Use, with Glutathione, Hyaluron & Niacinamide, Non-Sticky Serum Burst Texture, for Women Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:serum",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:glutathione",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:exfoliating",
+   "aud:women",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
   "id": "aquasoft-b0g2s86qpn",
   "brand": "Aquasoft",
   "model": "Max Moisturizing Cream|Ceramide, Niacinamide & Shea Butter|72-Hour Hydration| Skin Barrier…",
@@ -150549,6 +152031,75 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0gk1ptszn",
+  "brand": "Buy",
+  "model": "NIVEA Super 10 Youth Body Serum Lotion 170ml | Niacinamide Retinol 120X Vitamin C Body Lot…",
+  "price": 210,
+  "capacityLine": "170 ml",
+  "materialLine": "vitamin C + niacinamide + retinol",
+  "featureLine": "Sunscreen · SPF 15 · ₹124/100ml",
+  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹124/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 5.3
+  },
+  "fullSpec": {
+   "quantity": "170 ml",
+   "pricePer100": "₹124/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, retinol (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 15",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/612oK9UEc8L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GK1PTSZN",
+  "buyStore": "Amazon",
+  "title": "Buy NIVEA Super 10 Youth Body Serum Lotion 170ml | Niacinamide Retinol 120X Vitamin C Body Lotion SPF15 Daily Sunscreen | Skin Tightening, Lightweight, Fast Absorbing Moisturizer | Youthful & Firm Skin in 5 Days Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:serum",
+   "spf:15",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:retinol",
+   "claim:hydrating",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
    "store:amazon"
   ],
   "filters": {
@@ -151020,7 +152571,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -151091,7 +152641,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -152369,7 +153918,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -153209,7 +154757,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:vitamin-c",
@@ -153298,7 +154845,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:kojic-acid",
    "claim:brightening",
@@ -153374,7 +154920,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:tranexamic-acid",
    "ing:almond",
@@ -153830,7 +155375,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "claim:brightening",
    "claim:dark-spots",
@@ -153905,7 +155449,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:kojic-acid",
    "claim:dark-spots",
@@ -153982,7 +155525,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:balm",
    "format:pack",
    "format:scrub",
@@ -154809,7 +156351,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:emulsion",
    "ing:niacinamide",
    "ing:kojic-acid",
@@ -155211,7 +156752,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:azelaic-acid",
@@ -156667,7 +158207,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "spf:50",
    "pa:+++",
    "ing:vitamin-c",
@@ -157946,7 +159485,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:niacinamide",
@@ -158180,7 +159718,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -158424,7 +159961,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:niacinamide",
@@ -158896,7 +160432,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:tranexamic-acid",
@@ -159669,7 +161204,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:niacinamide",
@@ -161411,7 +162945,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:niacinamide",
@@ -161497,7 +163030,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:niacinamide",
@@ -162610,7 +164142,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "claim:brightening",
    "claim:dark-spots",
@@ -162683,7 +164214,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "claim:brightening",
    "claim:dark-spots",
@@ -164255,7 +165785,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:serum",
-   "format:oil",
    "format:powder",
    "ing:niacinamide",
    "claim:brightening",
@@ -164413,7 +165942,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:niacinamide",
@@ -164488,7 +166016,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:niacinamide",
@@ -164648,7 +166175,6 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -164955,7 +166481,6 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:ampoule",
-   "format:oil",
    "format:emulsion",
    "ing:niacinamide",
    "ing:retinol",
@@ -165636,7 +167161,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "claim:dark-spots",
    "claim:acne",
@@ -167088,7 +168612,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:niacinamide",
@@ -167228,7 +168751,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -167458,7 +168980,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:collagen",
@@ -168066,7 +169587,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:alpha-arbutin",
@@ -168140,7 +169660,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:alpha-arbutin",
@@ -168433,7 +169952,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -168740,7 +170258,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -169197,7 +170714,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:alpha-arbutin",
@@ -169411,7 +170927,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:alpha-arbutin",
    "ing:rice-water",
@@ -169484,7 +170999,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:alpha-arbutin",
    "ing:rice-water",
@@ -169630,7 +171144,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:alpha-arbutin",
@@ -169706,7 +171219,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:alpha-arbutin",
@@ -169780,7 +171292,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:alpha-arbutin",
    "ing:rice-water",
@@ -169853,7 +171364,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:alpha-arbutin",
    "claim:brightening",
@@ -169926,7 +171436,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:alpha-arbutin",
    "ing:rice-water",
@@ -169999,7 +171508,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:alpha-arbutin",
    "ing:rice-water",
@@ -170073,7 +171581,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:alpha-arbutin",
    "ing:rice-water",
@@ -170147,7 +171654,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:alpha-arbutin",
    "ing:rice-water",
@@ -170220,7 +171726,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:alpha-arbutin",
    "ing:rice-water",
@@ -170359,7 +171864,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:alpha-arbutin",
@@ -170434,7 +171938,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:alpha-arbutin",
@@ -170511,7 +172014,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:alpha-arbutin",
    "ing:rice-water",
@@ -170733,7 +172235,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:vitamin-c",
@@ -170813,7 +172314,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -171039,7 +172539,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -171879,7 +173378,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:calamine",
    "claim:brightening",
@@ -172045,7 +173543,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:niacinamide",
@@ -172780,7 +174277,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "claim:brightening",
@@ -173561,7 +175057,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "ing:niacinamide",
    "claim:brightening",
    "claim:oil-control",
@@ -173709,7 +175204,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -173867,7 +175361,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "claim:brightening",
@@ -173947,7 +175440,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "ing:niacinamide",
    "ing:ceramides",
    "claim:brightening",
@@ -174480,7 +175972,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -174558,7 +176049,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:peptides",
    "ing:kojic-acid",
@@ -174714,7 +176204,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:vitamin-e",
@@ -176735,7 +178224,6 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:kojic-acid",
@@ -176819,7 +178307,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -177152,7 +178639,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:licorice",
@@ -177807,7 +179293,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "claim:acne",
@@ -179439,7 +180924,6 @@ const CTPRODUCTS = [
   "title": "WishCare Sunscreen - SPF 50+ PA++++ Niacinamide Oil Balance Fluid …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:emulsion",
    "spf:50+",
    "pa:++++",
@@ -179510,7 +180994,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:emulsion",
    "spf:50+",
    "pa:++++",
@@ -180119,7 +181602,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -180202,7 +181684,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -180350,7 +181831,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -180727,7 +182207,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -180805,7 +182284,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -181036,7 +182514,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:lactic-acid",
@@ -181271,7 +182748,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -181353,7 +182829,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:mandelic-acid",
@@ -181585,7 +183060,6 @@ const CTPRODUCTS = [
   "title": "Hiniva Beauty Niacinamide & Glycolic Acid for Bright, Clear & Gl …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -183281,6 +184755,641 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "lass-natural-itm78e4fc4dc99cb",
+  "brand": "Lass Natural",
+  "model": "Sunscreen - SPF 50+ PA++++ 7% Niacinamide Matte Guar …",
+  "price": 224,
+  "capacityLine": "50 g",
+  "materialLine": "niacinamide",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹448/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4.6,
+   "ingredients": 5.6,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹448/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "niacinamide (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Oily Skin, Combination Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/6/j/w/50-7-niacinamide-matte-guard-fluid-sunscreen-no-white-cast-for-original-imaheyj6mzrwhet5.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/k/l/o/50-7-niacinamide-matte-guard-fluid-sunscreen-no-white-cast-for-original-imaheyj6mzhzyup9.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/m/n/x/50-7-niacinamide-matte-guard-fluid-sunscreen-no-white-cast-for-original-imaheyj6ezj3gqrj.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/z/c/z/50-7-niacinamide-matte-guard-fluid-sunscreen-no-white-cast-for-original-imaheyj62jy27agb.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/1/9/v/50-7-niacinamide-matte-guard-fluid-sunscreen-no-white-cast-for-original-imaheyj6y9p27vcy.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/lass-natural-sunscreen-spf-50-pa-7-niacinamide-matte-guard-fluid-no-white-cast-oily-skin-care/p/itm78e4fc4dc99cb",
+  "buyStore": "Flipkart",
+  "title": "Lass Natural Sunscreen - SPF 50+ PA++++ 7% Niacinamide Matte Guar …",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "format:cream",
+   "format:emulsion",
+   "format:kit",
+   "spf:50+",
+   "pa:++++",
+   "sun:mineral",
+   "ing:niacinamide",
+   "ing:titanium-dioxide",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "free:paraben",
+   "free:vegan",
+   "skin:oily",
+   "skin:combination",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "herbify-itmc0817db0ebc32",
+  "brand": "Herbify",
+  "model": "Organic Sunscreen - SPF 50 PA++++ Sunhydra 2% Niacinamide …",
+  "price": 171,
+  "capacityLine": "100 g",
+  "materialLine": "niacinamide + hyaluronic acid",
+  "featureLine": "Sunscreen · SPF 50 · ₹171/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹171/100g",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.8,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹171/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "niacinamide, hyaluronic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Anti-aging claim, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/x/h/c/50-sunhydra-2-niacinamide-sunscreen-spf-50-pa-with-hyaluronic-original-imahnrejky6k78g2.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/4/i/8/50-sunhydra-2-niacinamide-sunscreen-spf-50-pa-with-hyaluronic-original-imahnreah9gvdfks.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/r/6/z/50-sunhydra-2-niacinamide-sunscreen-spf-50-pa-with-hyaluronic-original-imahnreangfntvt2.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/6/t/p/50-sunhydra-2-niacinamide-sunscreen-spf-50-pa-with-hyaluronic-original-imahnreadetnyc7v.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/h/8/g/50-sunhydra-2-niacinamide-sunscreen-spf-50-pa-with-hyaluronic-original-imahnrej7uzjsfwy.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/herbify-organic-sunscreen-spf-50-pa-sunhydra-2-niacinamide-pa-hyaluronic-acid/p/itmc0817db0ebc32",
+  "buyStore": "Flipkart",
+  "title": "Herbify Organic Sunscreen - SPF 50 PA++++ Sunhydra 2% Niacinamide …",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:emulsion",
+   "spf:50",
+   "pa:++++",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:oil-control",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "phillauri-itmc8e89d5de2c7c",
+  "brand": "Phillauri",
+  "model": "Sunscreen - SPF 50 PA+++ Niacinamide Vitamin C E Sun Pr …",
+  "price": 192,
+  "capacityLine": "120 ml",
+  "materialLine": "vitamin C + niacinamide + vitamin E",
+  "featureLine": "Sunscreen · SPF 50 · ₹160/100ml",
+  "highlight": "Live Flipkart listing rated 5★ by 43 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹160/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (5)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "120 ml",
+   "pricePer100": "₹160/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "5/5 (43 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/l/a/9/120-0-niacinamide-vitamin-c-e-sun-protection-cream-spf-50-pa-for-original-imahhbdkym85asjx.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/l/m/v/120-0-vitamin-c-e-sunscreen-daily-sun-protection-cream-smooth-original-imahhb9yfbarym6r.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/n/j/m/60-0-vitamin-c-e-sunscreen-daily-sun-protection-cream-smooth-original-imahhb9yyhkxhvkc.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/c/g/1/120-0-vitamin-c-e-sunscreen-daily-sun-protection-cream-smooth-original-imahhb9yzy2cyffe.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/e/o/e/180-0-vitamin-c-e-sunscreen-daily-sun-protection-cream-smooth-original-imahhb9yezynesvh.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/phillauri-sunscreen-spf-50-pa-niacinamide-vitamin-c-e-sun-protection-cream-all-skin-types/p/itmc8e89d5de2c7c",
+  "buyStore": "Flipkart",
+  "title": "Phillauri Sunscreen - SPF 50 PA+++ Niacinamide Vitamin C E Sun Pr …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "spf:50",
+   "pa:+++",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:vitamin-e",
+   "claim:exfoliating",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "dr-rivo-professional-itm0491db4d68a27",
+  "brand": "Dr rivo professional",
+  "model": "Sunscreen - SPF 50+ PA++++ with Niacinamide, …",
+  "price": 150,
+  "capacityLine": "50 g",
+  "materialLine": "niacinamide",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹300/100g",
+  "highlight": "Live Flipkart listing rated 4.2★ by 21 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Strong buyer rating (4.2)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.5,
+   "skin": 4.6,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹300/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "niacinamide (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "4.2/5 (21 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/j/b/k/50-with-niacinamide-uva-uvb-protection-for-all-skin-types-no-original-imahzfdukfvagwhm.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/a/z/o/50-with-niacinamide-multi-vitamins-no-white-cast-broad-spectrum-original-imahnsfggt6cvykh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/l/a/y/50-with-niacinamide-multi-vitamins-no-white-cast-broad-spectrum-original-imahnsf64jqzxyfd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/f/o/n/50-with-niacinamide-multi-vitamins-no-white-cast-broad-spectrum-original-imahnsf68q7hvq72.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/a/v/j/50-with-niacinamide-multi-vitamins-no-white-cast-broad-spectrum-original-imahnsfhdvnf69x2.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/rivo-professional-sunscreen-spf-50-pa-niacinamide-uva-uvb-protection-all-skin-types/p/itm0491db4d68a27",
+  "buyStore": "Flipkart",
+  "title": "Dr rivo professional Sunscreen - SPF 50+ PA++++ with Niacinamide, …",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "spf:50+",
+   "pa:++++",
+   "ing:niacinamide",
+   "ing:vitamin-b5-panthenol",
+   "claim:oil-control",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "free:paraben",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "regolith-itm8439f5adb26ea",
+  "brand": "Regolith",
+  "model": "Sunscreen - SPF 50 Vitamin C & Niacinamide Sunscreen - B …",
+  "price": 107,
+  "capacityLine": "120 g",
+  "materialLine": "vitamin C + niacinamide + hyaluronic acid",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹89/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹89/100g",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4.6,
+   "ingredients": 5.9,
+   "experience": 5.6
+  },
+  "fullSpec": {
+   "quantity": "120 g",
+   "pricePer100": "₹89/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide, hyaluronic acid (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/h/3/l/120-0-vitamin-c-niacinamide-sunscreen-brightening-sun-protection-original-imahm36yzk7njmff.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/w/6/1/120-0-sunscreen-cream-50-pa-with-niacinamide-vitamin-c-50-original-imahm33nrybaaf7f.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/2/p/p/60-0-sunscreen-cream-50-pa-with-niacinamide-vitamin-c-50-original-imahm33nrheznndr.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/h/s/i/180-0-sunscreen-cream-50-pa-with-niacinamide-vitamin-c-50-original-imahm33nwyfzqgzf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/l/c/c/60-0-sunscreen-cream-50-pa-with-niacinamide-vitamin-c-50-original-imahm33ntnf3ucjy.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/regolith-sunscreen-spf-50-vitamin-c-niacinamide-brightening-sun-protection/p/itm8439f5adb26ea",
+  "buyStore": "Flipkart",
+  "title": "Regolith Sunscreen - SPF 50 Vitamin C & Niacinamide Sunscreen - B …",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "spf:50",
+   "pa:+++",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:collagen",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "free:paraben",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "milgaari-itmf0577f5dd8d19",
+  "brand": "milgaari",
+  "model": "Sunscreen - SPF 50 PA++ Korean Vitamin C + Niacinamide S …",
+  "price": 248,
+  "capacityLine": "50 g",
+  "materialLine": "vitamin C + niacinamide",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹496/100g",
+  "highlight": "Live Flipkart listing rated 4.8★ by 4 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Strong buyer rating (4.8)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 5.1,
+   "ingredients": 6,
+   "experience": 5.3
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹496/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, niacinamide (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Non-comedogenic (per listing)",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "4.8/5 (4 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/i/w/w/50-korean-vitamin-c-niacinamide-sunscreen-broad-spectrum-original-imahf5hvcbsdujxp.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/n/d/y/50-spf-50-pa-korean-vitamin-c-niacinamide-sunscreen-broad-original-imahf5hssbhzaynu.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/k/v/o/50-spf-50-pa-korean-vitamin-c-niacinamide-sunscreen-broad-original-imahf5hsxgahhgpy.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/n/s/e/50-spf-50-pa-korean-vitamin-c-niacinamide-sunscreen-broad-original-imahf5hsrwgs3sxq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/1/i/v/50-spf-50-pa-korean-vitamin-c-niacinamide-sunscreen-broad-original-imahf5hsh9hgggk9.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/milgaari-sunscreen-spf-50-pa-korean-vitamin-c-niacinamide-broad-spectrum-lightweight/p/itmf0577f5dd8d19",
+  "buyStore": "Flipkart",
+  "title": "milgaari Sunscreen - SPF 50 PA++ Korean Vitamin C + Niacinamide S …",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "spf:50",
+   "pa:++",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:korean",
+   "claim:spf-claim",
+   "free:paraben",
+   "free:non-comedogenic",
+   "free:vegan",
+   "skin:oily",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "phillauri-itm480bf60ca61c6",
+  "brand": "Phillauri",
+  "model": "Sunscreen - SPF 50 PA+++ Niacinamide Sunscreen | Face C …",
+  "price": 192,
+  "capacityLine": "180 ml",
+  "materialLine": "niacinamide + hyaluronic acid + vitamin E",
+  "featureLine": "Sunscreen · SPF 50 · ₹107/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹107/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 6.1,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "180 ml",
+   "pricePer100": "₹107/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "niacinamide, hyaluronic acid, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/r/t/p/180-niacinamide-sunscreen-face-cream-spf50-sunscreen-lightweight-original-imahzc3eedzvpatt.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/k/2/r/120-0-hyaluronic-sunscreen-sunscreen-spf50-sunscreen-lotion-original-imahm5g3fjtdyfky.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/m/9/5/180-0-hyaluronic-sunscreen-sunscreen-spf50-sunscreen-lotion-original-imahm5g3ffzpkqpt.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/p/6/i/180-niacinamide-sunscreen-face-cream-spf50-sunscreen-lightweight-original-imahzbkuwjezefxk.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/q/p/k/180-0-hyaluronic-sunscreen-sunscreen-spf50-sunscreen-lotion-original-imahm5g33gh6gmnk.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/phillauri-sunscreen-spf-50-pa-niacinamide-spf50-face-cream/p/itm480bf60ca61c6",
+  "buyStore": "Flipkart",
+  "title": "Phillauri Sunscreen - SPF 50 PA+++ Niacinamide Sunscreen | Face C …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "spf:50",
+   "pa:+++",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:vitamin-e",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "free:vegan",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "dr-rivo-professional-itm4f09b2a316b20",
+  "brand": "Dr rivo professional",
+  "model": "Sunscreen - SPF 50 PA++++ with Niacinamide & …",
+  "price": 150,
+  "capacityLine": "50 g",
+  "materialLine": "niacinamide",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹300/100g",
+  "highlight": "Live Flipkart listing rated 4.7★ by 12 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Strong buyer rating (4.7)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4.6,
+   "ingredients": 5.3,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹300/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "niacinamide (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "4.7/5 (12 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/h/x/0/50-with-niacinamide-multi-vitamins-no-white-cast-broad-spectrum-original-imahn7d9yzxqe5sz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/a/z/o/50-with-niacinamide-multi-vitamins-no-white-cast-broad-spectrum-original-imahnsfggt6cvykh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/l/a/y/50-with-niacinamide-multi-vitamins-no-white-cast-broad-spectrum-original-imahnsf64jqzxyfd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/f/o/n/50-with-niacinamide-multi-vitamins-no-white-cast-broad-spectrum-original-imahnsf68q7hvq72.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/a/v/j/50-with-niacinamide-multi-vitamins-no-white-cast-broad-spectrum-original-imahnsfhdvnf69x2.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/rivo-professional-sunscreen-spf-50-pa-niacinamide-multi-vitamins-no-white-cast-broad-spectrum-suncream/p/itm4f09b2a316b20",
+  "buyStore": "Flipkart",
+  "title": "Dr rivo professional Sunscreen - SPF 50 PA++++ with Niacinamide & …",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "spf:50",
+   "pa:++++",
+   "ing:niacinamide",
+   "ing:vitamin-b5-panthenol",
+   "claim:oil-control",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "free:paraben",
+   "free:vegan",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
   "id": "vinr-b0f4ng5kgk",
   "brand": "VINR",
   "model": "7% Glycolic Acid Toner For Glowing Skin with 2% Niacinamide & 0.5% Hylauronic Acid | Dull …",
@@ -183914,7 +186023,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:niacinamide",
    "ing:glycolic-acid",
    "claim:acne",
@@ -187149,73 +189257,6 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true
-  }
- },
- {
-  "id": "hyphen-b0gzl7frb7",
-  "brand": "Hyphen",
-  "model": "Bright & Glass Skin Face Care Duo | 18% Brightening + 20% Collagen with 11% Mandarin 5% Ni…",
-  "price": 972,
-  "capacityLine": "50 ml",
-  "materialLine": "niacinamide + ceramides",
-  "featureLine": "Toner · ₹1944/100ml",
-  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1944/100ml",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 4.2,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.5
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹1944/100ml",
-   "format": "Toner",
-   "keyIngredients": "niacinamide, ceramides (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51DAin6r6fL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GZL7FRB7",
-  "buyStore": "Amazon",
-  "title": "Hyphen Bright & Glass Skin Face Care Duo | 18% Brightening + 20% Collagen with 11% Mandarin 5% Niacinamide Serum 50ml & 7% Ceramides-NMF Milky Face Toner Essence with 5% Glass Skin Blend 100ml",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "format:essence",
-   "format:toner",
-   "ing:niacinamide",
-   "ing:ceramides",
-   "ing:collagen",
-   "claim:brightening",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
   }
  },
  {
@@ -194134,7 +196175,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:kojic-acid",
    "claim:brightening",
@@ -197607,7 +199647,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "spf:50+",
    "pa:++++",
    "ing:niacinamide",
@@ -198305,7 +200344,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "spf:50",
    "pa:+++",
    "ing:vitamin-c",
@@ -199828,7 +201866,6 @@ const CTPRODUCTS = [
   "title": "ASAYA | Spot Light Depigmenting Sunscreen SPF 50 PA++++ | In-VIVO Tested | Niacinamide + Licorice Extract | Oil-Free, No White Cast, Daily Sunscreen For All Skin Types | 50 g",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "spf:50",
    "pa:++++",
    "ing:niacinamide",
@@ -201634,7 +203671,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "claim:pores",
@@ -201704,7 +203740,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "claim:pores",
@@ -203930,74 +205965,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "hyphen-b0fdqzbv6k",
-  "brand": "Hyphen",
-  "model": "18% Brightening + 20% Collagen Face Serum | Double Shot Serum with 11% Mandarin 5% Niacina…",
-  "price": 590,
-  "capacityLine": "50 ml",
-  "materialLine": "niacinamide + bakuchiol",
-  "featureLine": "Serum · ₹1180/100ml",
-  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.2)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1180/100ml",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 4.5,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 5.2
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹1180/100ml",
-   "format": "Serum",
-   "keyIngredients": "niacinamide, bakuchiol (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/614M7aJAe8L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0FDQZBV6K",
-  "buyStore": "Amazon",
-  "title": "Hyphen 18% Brightening + 20% Collagen Face Serum | Double Shot Serum with 11% Mandarin 5% Niacinamide 2% PGA & Bakuchiol | Summer Skincare | Brightening, Hydrating & Collagen Boost for Dry Skin - 50ml",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "ing:niacinamide",
-   "ing:bakuchiol",
-   "ing:collagen",
-   "claim:brightening",
-   "claim:hydrating",
-   "skin:dry",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
-  }
- },
- {
   "id": "generic-b0gr5wqx29",
   "brand": "Generic",
   "model": "The Pink Foundry Dark Spot & Hyperpigmentation Serum with 3% Tranexamic Acid 2% Alpha Arbu…",
@@ -205852,72 +207819,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "wildglow-b0glprh5sk",
-  "brand": "WILDGLOW",
-  "model": "Niacinamide 5%,White Tea, Bisabolol, EGCG Brightening Serum for Hyperpigmentation, Dark Sp…",
-  "price": 999,
-  "capacityLine": "60 ml",
-  "materialLine": "niacinamide",
-  "featureLine": "Serum · ₹1665/100ml",
-  "highlight": "Live Amazon listing rated 4.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.5)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1665/100ml",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 5,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.8
-  },
-  "fullSpec": {
-   "quantity": "60 ml",
-   "pricePer100": "₹1665/100ml",
-   "format": "Serum",
-   "keyIngredients": "niacinamide (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.5/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51+w9C2cpgL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GLPRH5SK",
-  "buyStore": "Amazon",
-  "title": "WILDGLOW Niacinamide 5%,White Tea, Bisabolol, EGCG Brightening Serum for Hyperpigmentation, Dark Spots and Scar Repair | Look 10 years younger In 4 weeks, 60ml",
-  "tags": [
-   "scope:unstated",
-   "format:serum",
-   "ing:niacinamide",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:barrier",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.5",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
-  }
- },
- {
   "id": "torriden-b0cqybczw5",
   "brand": "Torriden",
   "model": "Cellmazing Brightening Ampoule (30ml)- Potent 5D Vitamin C & Niacinamide Serum | Korean Fo…",
@@ -206330,76 +208231,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "yeoul-b0gxkc6h5v",
-  "brand": "yeoul",
-  "model": "Goheung Yuja C Vita Brightening Serum 30mL | Korean Face Serum for Pigmentation, Dark Spot…",
-  "price": 1399,
-  "capacityLine": "30 ml",
-  "materialLine": "vitamin C + niacinamide",
-  "featureLine": "Serum · ₹4663/100ml",
-  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (5.0)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹4663/100ml",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 5.1,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 5.2
-  },
-  "fullSpec": {
-   "quantity": "30 ml",
-   "pricePer100": "₹4663/100ml",
-   "format": "Serum",
-   "keyIngredients": "vitamin C, niacinamide (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71CGPijDXtL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GXKC6H5V",
-  "buyStore": "Amazon",
-  "title": "yeoul Goheung Yuja C Vita Brightening Serum 30mL | Korean Face Serum for Pigmentation, Dark Spots & Uneven Tone | Yuja Vitamin C + 5% Niacinamide | Antioxidant Glow & Hydrating Barrier Care",
-  "tags": [
-   "scope:face",
-   "format:serum",
-   "ing:vitamin-c",
-   "ing:niacinamide",
-   "ing:yuja-yuzu",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:korean",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
-  }
- },
- {
   "id": "fixderma-b0fh2kv3cd",
   "brand": "Fixderma",
   "model": "Skarfix Plus 4% Kojic Acid Face Serum | 2% Alpha Arbutin, 2% Niacinamide, 2% Vitamin C Ser…",
@@ -206463,74 +208294,6 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false
-  }
- },
- {
-  "id": "pilgrim-b0h6fp8vnx",
-  "brand": "Pilgrim",
-  "model": "10% Vitamin C Serum 30ml (Pack of 2) for Glowing Skin with 5% Niacinamide | Fades Dark Spo…",
-  "price": 808,
-  "capacityLine": "60 ml (pack of 2)",
-  "materialLine": "vitamin C + niacinamide",
-  "featureLine": "Serum · ₹1347/100ml",
-  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1347/100ml"
-  ],
-  "scores": {
-   "trust": 5.4,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.8
-  },
-  "fullSpec": {
-   "quantity": "30 ml × 2 pack",
-   "pricePer100": "₹1347/100ml",
-   "format": "Serum",
-   "keyIngredients": "vitamin C, niacinamide (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/61bqEoMAZZL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H6FP8VNX",
-  "buyStore": "Amazon",
-  "title": "Pilgrim 10% Vitamin C Serum 30ml (Pack of 2) for Glowing Skin with 5% Niacinamide | Fades Dark Spots, Evens Skin Tone |For All Oily, Combination, Normal Skin | Daily Radiance for Men & Women",
-  "tags": [
-   "scope:unstated",
-   "format:serum",
-   "format:kit",
-   "ing:vitamin-c",
-   "ing:niacinamide",
-   "claim:brightening",
-   "claim:dark-spots",
-   "skin:oily",
-   "skin:combination",
-   "skin:normal",
-   "aud:women",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
   }
  },
  {
@@ -207341,7 +209104,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -207543,7 +209305,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "claim:brightening",
@@ -209105,7 +210866,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "claim:dark-spots",
@@ -209659,7 +211419,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pads",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -213267,7 +215026,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -214085,7 +215843,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:rice-water",
@@ -214643,7 +216400,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "claim:brightening",
    "claim:dark-spots",
@@ -214655,139 +216411,6 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:3.5",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "foxtale-b0gzk6lcjx",
-  "brand": "Foxtale",
-  "model": "Lightweight Brightening Face Moisturiser with Vitamin C & Niacinamide |Brightens & Evens S…",
-  "price": 283,
-  "capacityLine": "50 ml",
-  "materialLine": "vitamin C + niacinamide",
-  "featureLine": "Cream / gel · ₹566/100ml",
-  "highlight": "Live Amazon listing rated 4.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.6)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 6.2,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹566/100ml",
-   "format": "Cream / gel",
-   "keyIngredients": "vitamin C, niacinamide (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.6/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71MuxkKmMJL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GZK6LCJX",
-  "buyStore": "Amazon",
-  "title": "Foxtale Lightweight Brightening Face Moisturiser with Vitamin C & Niacinamide |Brightens & Evens Skin Tone, Fades Dark Spots & Deeply Hydrates | For Normal to Dry Skin | For Men & Women | 50 ml",
-  "tags": [
-   "scope:face",
-   "ing:vitamin-c",
-   "ing:niacinamide",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:hydrating",
-   "claim:lightweight",
-   "skin:dry",
-   "aud:women",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "cerave-b0grwd4gz1",
-  "brand": "Cerave",
-  "model": "HA Water Gel with Hyaluronic Acid, Ceramides & Niacinamide for Plumpy hydration|Oil-free g…",
-  "price": 503,
-  "capacityLine": "25 ml",
-  "materialLine": "niacinamide + hyaluronic acid + ceramides",
-  "featureLine": "Oil · ₹2012/100ml",
-  "highlight": "Live Amazon listing rated 4.4★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.4)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹2012/100ml"
-  ],
-  "scores": {
-   "trust": 6.6,
-   "skin": 4,
-   "ingredients": 5.9,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "25 ml",
-   "pricePer100": "₹2012/100ml",
-   "format": "Oil",
-   "keyIngredients": "niacinamide, hyaluronic acid, ceramides (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/613N4PHhhSL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GRWD4GZ1",
-  "buyStore": "Amazon",
-  "title": "CeraVe HA Water Gel with Hyaluronic Acid, Ceramides & Niacinamide for Plumpy hydration|Oil-free gel moisturizer| 3 sec fast absorption| Dermat recommended for Women & Men| 25 ml",
-  "tags": [
-   "scope:unstated",
-   "format:gel",
-   "format:oil",
-   "ing:niacinamide",
-   "ing:hyaluronic-acid",
-   "ing:ceramides",
-   "claim:hydrating",
-   "free:oil-free",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
    "store:amazon"
   ],
   "filters": {
@@ -214846,7 +216469,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:hydrating",
@@ -214910,7 +216532,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -215463,7 +217084,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:ceramides",
    "claim:oil-control",
@@ -215534,7 +217154,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "claim:anti-aging",
@@ -215732,7 +217351,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -216204,7 +217822,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "claim:oil-control",
    "claim:hydrating",
@@ -216944,7 +218561,6 @@ const CTPRODUCTS = [
   "title": "Vitamin C Moisturizer | Vitamin E & Seabuckthorn | Lightweight, Oil-Free Face Moisturizer | Brightening & Deep Hydration | With Niacinamide & Shea Butter | For All Skin Types Men & Women | 100gms",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:balm",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -217634,7 +219250,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:peptides",
@@ -218403,75 +220018,6 @@ const CTPRODUCTS = [
   "filters": {
    "actives": true,
    "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
-  }
- },
- {
-  "id": "nivea-b0gk1ptszn",
-  "brand": "Nivea",
-  "model": "Super 10 Youth Body Serum Lotion 170ml | Niacinamide Retinol 120X Vitamin C Body Lotion SP…",
-  "price": 210,
-  "capacityLine": "170 ml",
-  "materialLine": "vitamin C + niacinamide + retinol",
-  "featureLine": "Sunscreen · SPF 15 · ₹124/100ml",
-  "highlight": "Live Amazon listing rated 3.8★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹124/100ml",
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (3.8)"
-  ],
-  "scores": {
-   "trust": 5.7,
-   "skin": 4,
-   "ingredients": 5.9,
-   "experience": 5.3
-  },
-  "fullSpec": {
-   "quantity": "170 ml",
-   "pricePer100": "₹124/100ml",
-   "format": "Sunscreen",
-   "keyIngredients": "vitamin C, niacinamide, retinol (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, SPF 15",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/612oK9UEc8L._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GK1PTSZN",
-  "buyStore": "Amazon",
-  "title": "NIVEA Super 10 Youth Body Serum Lotion 170ml | Niacinamide Retinol 120X Vitamin C Body Lotion SPF15 Daily Sunscreen | Skin Tightening, Lightweight, Fast Absorbing Moisturizer | Youthful & Firm Skin in 5 Days",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "format:serum",
-   "spf:15",
-   "ing:vitamin-c",
-   "ing:niacinamide",
-   "ing:retinol",
-   "claim:hydrating",
-   "claim:lightweight",
-   "claim:spf-claim",
-   "aud:unisex",
-   "size:large",
-   "rating:3.5",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
    "natural": false,
    "derm": false,
    "men": false,
@@ -219313,7 +220859,6 @@ const CTPRODUCTS = [
   "title": "5% Niacinamide & 1% Zinc PCA Oil Free Moisturiser,1% Acne Calming complex, with 5 Ceramides, Panthenol & Ectoin, for Oily Acne Prone Skin, 50ml",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:vitamin-b5-panthenol",
@@ -223460,7 +225005,6 @@ const CTPRODUCTS = [
    "scope:body",
    "format:gel",
    "format:lotion",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -226343,75 +227887,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "dermdoc-b0gtw5pckz",
-  "brand": "Dermdoc",
-  "model": "SPF 50 Ultra Violet Brightening Tinted Sunscreen with 4% Niacinamide, 100g | PA +++ | With…",
-  "price": 497,
-  "capacityLine": "100 g",
-  "materialLine": "niacinamide",
-  "featureLine": "Sunscreen · SPF 50 · ₹497/100g",
-  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.3)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 5.8,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹497/100g",
-   "format": "Sunscreen",
-   "keyIngredients": "niacinamide (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Brightening/glow claim, SPF 50",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51aV7InZPGL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GTW5PCKZ",
-  "buyStore": "Amazon",
-  "title": "DERMDOC SPF 50 Ultra Violet Brightening Tinted Sunscreen with 4% Niacinamide, 100g | PA +++ | With Purple Tint | Evens Skin Tone | Lightweight | UVA & UVB Protection | Zero White Caste | Strengthens Skin Barrier | Ultra-Light & Non-Greasy",
-  "tags": [
-   "scope:unstated",
-   "spf:50",
-   "pa:+++",
-   "ing:niacinamide",
-   "claim:brightening",
-   "claim:oil-control",
-   "claim:barrier",
-   "claim:broad-spectrum",
-   "claim:tinted",
-   "claim:lightweight",
-   "claim:spf-claim",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
-  }
- },
- {
   "id": "dot-key-b0cx1yq764",
   "brand": "Dot & Key",
   "model": "Strawberry Dew Tinted Sunscreen In-Vivo Tested SPF 50+ PA++++ With New-Age UV Filters, Bri…",
@@ -228485,7 +229960,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:gel",
    "format:cream",
-   "format:oil",
    "spf:60",
    "pa:++++",
    "ing:niacinamide",
@@ -228898,7 +230372,6 @@ const CTPRODUCTS = [
   "title": "DER.DÜFT Glow Up Sunscreen SPF 50 PA+++ | Broad Spectrum UVA/UVB Protection | Niacinamide, Vitamin C & Avocado Extract | Lightweight Oil-Free Sunscreen | No White Cast | For All Skin Types",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "spf:50",
    "pa:+++",
    "ing:vitamin-c",
@@ -230640,75 +232113,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "o3-b0f7fgnfvj",
-  "brand": "O3+",
-  "model": "Super Matte Sunscreen Gel SPF 50 PA ++++ With Niacinamide & Hyaluronic acid Suitable for N…",
-  "price": 449,
-  "capacityLine": "75 g",
-  "materialLine": "niacinamide + hyaluronic acid",
-  "featureLine": "Sunscreen · SPF 50 · ₹599/100g",
-  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.2)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 6.3,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "75 g",
-   "pricePer100": "₹599/100g",
-   "format": "Sunscreen",
-   "keyIngredients": "niacinamide, hyaluronic acid (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Acne/blemish claim, SPF 50",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51NK1PBwJdL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0F7FGNFVJ",
-  "buyStore": "Amazon",
-  "title": "O3+ Super Matte Sunscreen Gel SPF 50 PA ++++ With Niacinamide & Hyaluronic acid Suitable for Normal, Oily and Acne Prone skin for Women and Men | 75g",
-  "tags": [
-   "scope:unstated",
-   "format:gel",
-   "spf:50",
-   "pa:++++",
-   "ing:niacinamide",
-   "ing:hyaluronic-acid",
-   "claim:acne",
-   "claim:oil-control",
-   "claim:spf-claim",
-   "skin:oily",
-   "skin:acne-prone",
-   "aud:women",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
   "id": "matt-b0f5wnd68p",
   "brand": "MATT",
   "model": "LOOK Zero SUN Matte Gel SPF 50 PA++ Sunscreen (UVA/UVB/Blue Light Safe) with Niacinamide, …",
@@ -230904,7 +232308,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "spf:50+",
    "pa:++++",
    "sun:mineral",
@@ -230978,7 +232381,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "spf:50",
    "pa:+++",
    "ing:niacinamide",
@@ -231193,7 +232595,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "spf:60",
    "pa:++++",
    "ing:niacinamide",
@@ -231860,7 +233261,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -232008,7 +233408,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:peel",
    "format:wash",
    "format:kit",
@@ -232080,7 +233479,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:peel",
    "format:wash",
    "format:kit",
@@ -232811,7 +234209,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:glycolic-acid",
    "claim:brightening",
@@ -235211,7 +236608,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -235979,7 +237375,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:azelaic-acid",
    "ing:mugwort",
@@ -237148,7 +238543,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:foam",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -237486,7 +238880,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "claim:dark-spots",
    "claim:acne",
@@ -237553,7 +238946,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:zinc",
@@ -238580,7 +239972,6 @@ const CTPRODUCTS = [
   "title": "illumin8 2% Niacinamide Face Wash 50g With Glycolic Acid 1.4% For Skin Brightening | Gentle Exfoliating Beads for Oil Control & Acne | Removes Dead Skin | All Skin Types | For Men & Women 50g (1)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -238984,7 +240375,6 @@ const CTPRODUCTS = [
   "title": "Scar Safa Face Wash 75g | Deep Cleansing Facial Cleanser with Glycolic Acid, Hyaluronic Acid & Niacinamide | Oil Control Face Wash | Skin Refreshing Cleanser for Daily Skincare",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -239122,7 +240512,6 @@ const CTPRODUCTS = [
   "title": "Salicylic Acid 0.10% Face Wash with Niacinamide Glycolic Acid Vitamin C Aloe Vera for Acne Control Deep Cleansing Exfoliation Oil Free Healthy Clear Skin Daily Use Men Women All Pack Of 1",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -239191,7 +240580,6 @@ const CTPRODUCTS = [
   "title": "Scar Safa Face Wash 75g | Deep Cleansing Facial Cleanser with Glycolic Acid, Hyaluronic Acid & Niacinamide | Oil Control Face Wash | Skin Refreshing Cleanser for Daily Skincare",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -239256,7 +240644,6 @@ const CTPRODUCTS = [
   "title": "Exfoliating Face Wash with Glycolic Acid, Niacinamide, Arbutin, Licorice & Mandelic Acid, Deep Pore Cleansing Face Wash for Oil Control, Dead Skin & Uneven Skin Tone, 70ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -239523,7 +240910,6 @@ const CTPRODUCTS = [
   "title": "Exfoliating Face Wash with Glycolic Acid, Niacinamide, Arbutin, Licorice & Mandelic Acid, Deep Pore Cleansing, Oil Control, 70ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -240074,7 +241460,6 @@ const CTPRODUCTS = [
   "title": "Acne Control AHA BHA Face Wash | 2% Salicylic Acid, Glycolic Acid & 5% Niacinamide | Deep Cleansing, Oil Control & Clear Skin | For Men & Women | 100g",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -241911,7 +243296,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -241976,7 +243360,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -242187,7 +243570,6 @@ const CTPRODUCTS = [
   "title": "Hue Sunscreen SPF 50 With Niacinamide | Broad Spectrum PA+++ | Zero White Cast, Oil-Free, Lightweight | Fights Tanning, Dullness & Pigmentation | For All Skin Types | 50 ML",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "spf:50",
    "pa:+++",
    "ing:niacinamide",
@@ -242534,7 +243916,6 @@ const CTPRODUCTS = [
   "title": "Sunscreen SPF50 PA ++++ With Niacinamide and Hyaluronic acid | No white cast | No oily finish | Light weight | For all skin type | for UVA/UVB Protection",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "spf:50",
    "pa:++++",
    "ing:niacinamide",

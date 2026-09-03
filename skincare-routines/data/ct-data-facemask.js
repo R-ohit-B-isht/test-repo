@@ -355,7 +355,6 @@ const CTPRODUCTS = [
   "title": "glowseren Bio-Collagen Overnight Face Mask Korean Glass Skin Vita …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:sheet-mask",
    "format:peel-off",
    "format:pack",
@@ -828,7 +827,6 @@ const CTPRODUCTS = [
   "title": "GOIEZ Korean Night Wrapping Peel-off Mask For Hydration Lock (180 …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -1299,7 +1297,6 @@ const CTPRODUCTS = [
   "title": "FLLEK Collagen Korean Glass Skin Overnight Mask-FL1 for Deep Mois …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:sheet-mask",
    "format:peel-off",
    "format:sleeping-mask",
@@ -1379,7 +1376,6 @@ const CTPRODUCTS = [
   "title": "FLLEK Collagen Korean Glass Skin Overnight Mask-FL2 for Deep Mois …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:sheet-mask",
    "format:peel-off",
    "format:sleeping-mask",
@@ -1458,7 +1454,6 @@ const CTPRODUCTS = [
   "title": "FLLEK Collagen Korean Glass Skin Overnight Mask-FL7 for Deep Mois …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:sheet-mask",
    "format:peel-off",
    "format:sleeping-mask",
@@ -1616,7 +1611,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -2072,7 +2066,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -2146,7 +2139,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:sheet-mask",
    "format:peel-off",
    "format:peel",
@@ -2540,7 +2532,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:roll-on",
@@ -2618,7 +2609,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:sheet-mask",
    "format:peel-off",
    "format:pack",
@@ -3583,7 +3573,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:essence",
-   "format:oil",
    "format:sheet-mask",
    "format:peel-off",
    "format:pack",
@@ -3664,7 +3653,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -3744,7 +3732,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -4059,7 +4046,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:stick",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -5383,7 +5369,6 @@ const CTPRODUCTS = [
   "title": "sophin Organic Neem+ Tulsi Face Pack Skincare Powder Gives Refres …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -6356,7 +6341,6 @@ const CTPRODUCTS = [
   "title": "EMRIKA Best Facial Sheet Mask Deep Cleansing ( 20 PCS ) (40 g)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:sheet-mask",
    "format:clay-mask",
    "format:peel-off",
@@ -7797,7 +7781,6 @@ const CTPRODUCTS = [
   "title": "AFARAXIA Deep Hydration for all skin type sheet mask (25 ml)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:sheet-mask",
    "format:peel-off",
    "format:sleeping-mask",
@@ -7879,7 +7862,6 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:stick",
-   "format:oil",
    "format:sheet-mask",
    "format:clay-mask",
    "format:pack",
@@ -7967,7 +7949,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:stick",
-   "format:oil",
    "format:sheet-mask",
    "format:peel-off",
    "format:pack",
@@ -8048,7 +8029,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:stick",
-   "format:oil",
    "format:sheet-mask",
    "format:clay-mask",
    "format:peel-off",
@@ -8130,7 +8110,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:sheet-mask",
    "format:peel-off",
    "format:pack",
@@ -8602,7 +8581,6 @@ const CTPRODUCTS = [
   "title": "VIQEHAA 4pcs Gold pearl Sheet Mask for Reducing Acne, Enlarged Po …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:sheet-mask",
    "format:clay-mask",
    "format:peel-off",
@@ -9563,7 +9541,6 @@ const CTPRODUCTS = [
   "title": "Varniraj Bio-Collagen Face Mask (Pack of 4) Overnight Deep Collag …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:sheet-mask",
    "format:peel-off",
    "format:pack",
@@ -10565,7 +10542,6 @@ const CTPRODUCTS = [
   "title": "AUROVA Facial sheet Mask for Skin Glowing for Women and Men Combo …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:sheet-mask",
    "format:peel-off",
    "format:pack",
@@ -10954,7 +10930,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:serum",
-   "format:oil",
    "format:sheet-mask",
    "format:peel-off",
    "format:pack",
@@ -12387,7 +12362,6 @@ const CTPRODUCTS = [
   "title": "Twasa Sheet Mask (Fruit, Tomato, Pomegranate, Watermelon, Blueber …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:sheet-mask",
    "format:peel-off",
    "format:pack",
@@ -12478,7 +12452,6 @@ const CTPRODUCTS = [
   "title": "Twasa Natural Face Sheet Mask For Skin| Korean Face Sheet Mask fo …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:sheet-mask",
    "format:peel-off",
    "format:pack",
@@ -12713,7 +12686,6 @@ const CTPRODUCTS = [
   "title": "eiliaz Face Mask Sheet Cotton Facial Sheet Mask Deep Cleansing ( …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:sheet-mask",
    "format:clay-mask",
    "format:peel-off",
@@ -13651,7 +13623,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:sheet-mask",
    "format:pack",
    "format:kit",
@@ -13943,7 +13914,6 @@ const CTPRODUCTS = [
   "title": "QLOVYA Collagen Sheet Face Mask Hydrating Glow Brightening Skin C …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:sheet-mask",
    "format:peel-off",
    "format:pack",
@@ -15114,7 +15084,6 @@ const CTPRODUCTS = [
   "title": "LACASA BEAUTY CARE Collagen Face Sheet Mask | Korean Face sheet M …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:sheet-mask",
    "format:peel-off",
    "format:pack",
@@ -15265,7 +15234,6 @@ const CTPRODUCTS = [
   "title": "YILEST biodance collagen sheet mask for hydration,radiant glow,da …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:sheet-mask",
    "format:peel-off",
    "format:pack",
@@ -15426,7 +15394,6 @@ const CTPRODUCTS = [
   "title": "La'Conde Natural Clay Powder for Clay Mask 200g (200 g)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:peel",
@@ -24925,7 +24892,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -25662,7 +25628,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:stick",
-   "format:oil",
    "format:sheet-mask",
    "format:peel-off",
    "format:pack",
@@ -26127,7 +26092,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -26356,7 +26320,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -26432,7 +26395,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:scrub",
    "format:peel",
@@ -26581,7 +26543,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:peel",
    "ing:aloe-vera",
@@ -26807,7 +26768,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -27031,7 +26991,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -27847,7 +27806,6 @@ const CTPRODUCTS = [
   "title": "smartdrops Rose Peel-Off Mask for Radiant Skin & Moisture Lock, U …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel-off",
    "format:peel",
    "format:wash",
@@ -28625,7 +28583,6 @@ const CTPRODUCTS = [
   "title": "glowseren Collagen Night Face Mask Deep Hydration Sheet Mask (34 …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:sheet-mask",
    "format:peel-off",
    "format:pack",
@@ -28783,7 +28740,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:stick",
-   "format:oil",
    "format:sheet-mask",
    "format:clay-mask",
    "format:peel-off",
@@ -28864,7 +28820,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:stick",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:sleeping-mask",
@@ -29436,7 +29391,6 @@ const CTPRODUCTS = [
   "title": "Sonavi Refreshing Charcoal Peel-Off Mask for Healthy Skin | Face …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -30493,7 +30447,6 @@ const CTPRODUCTS = [
   "title": "Sonavi Charcoal Face Mask for Acne-Prone and Oily Skin | Peel Off …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel-off",
    "format:peel",
    "format:wash",
@@ -30777,7 +30730,6 @@ const CTPRODUCTS = [
   "title": "Sonavi Charcoal Peel Off Mask For Tan Removal & Detoxifying (60 g …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:peel-off",
    "format:peel",
    "ing:charcoal",
@@ -31084,7 +31036,6 @@ const CTPRODUCTS = [
   "title": "smartdrops Golden Peel Off Mask | Deep Cleansing & Oil Control (6 …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -31849,7 +31800,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:scrub",
@@ -31927,7 +31877,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:stick",
-   "format:oil",
    "format:peel-off",
    "format:peel",
    "ing:collagen",
@@ -32290,7 +32239,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -32819,7 +32767,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:peel",
    "ing:aloe-vera",
@@ -32969,7 +32916,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -33120,7 +33066,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -33269,7 +33214,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -33488,7 +33432,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -33712,7 +33655,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -33789,7 +33731,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -33863,7 +33804,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -33938,7 +33878,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -34091,7 +34030,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:peel",
    "ing:aloe-vera",
@@ -34238,7 +34176,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -34389,7 +34326,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:peel",
    "ing:aloe-vera",
@@ -34537,7 +34473,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -34763,7 +34698,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -34908,7 +34842,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -35060,7 +34993,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:peel",
    "ing:aloe-vera",
@@ -35211,7 +35143,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:scrub",
@@ -35363,7 +35294,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -35438,7 +35368,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -35589,7 +35518,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:peel",
    "format:wash",
@@ -35812,7 +35740,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -35887,7 +35814,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:scrub",
    "format:peel",
@@ -35963,7 +35889,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:peel-off",
    "format:scrub",
    "format:peel",
@@ -36187,7 +36112,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -36415,7 +36339,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:peel",
    "ing:aloe-vera",
@@ -36492,7 +36415,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:peel",
@@ -37178,7 +37100,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -37402,7 +37323,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -37482,7 +37402,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -37627,7 +37546,6 @@ const CTPRODUCTS = [
   "title": "INTIMIFY Gold Peel Off Face Mask, Removes Acne, Blackheads For Wo …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -38155,7 +38073,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:peel",
    "format:wash",
@@ -38228,7 +38145,6 @@ const CTPRODUCTS = [
   "title": "Regolith Activated Charcoal Peel Off Face Mask for Blackhead Remo …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -38629,7 +38545,6 @@ const CTPRODUCTS = [
   "title": "HOORZI Whitening Peel off Mask gold (130 ml)",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -39081,7 +38996,6 @@ const CTPRODUCTS = [
   "title": "Everyuth Naturals Golden Peel-off Mask (50 ml)",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -39304,7 +39218,6 @@ const CTPRODUCTS = [
   "title": "Yash Herbal Bamboo Charcoal Peel Off Mask, Oil Control, Remove Bl …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -39528,7 +39441,6 @@ const CTPRODUCTS = [
   "title": "INTIMIFY Charcoal Peel Off Face Mask Deep cleansing and exfoliati …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -42107,7 +42019,6 @@ const CTPRODUCTS = [
   "title": "JEKEMI Bio Collagen Overnight Face Mask Hydrating Hydrogel Pore M …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:sheet-mask",
    "format:peel-off",
    "format:pack",
@@ -43848,6 +43759,70 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0gcrtl4j3",
+  "brand": "Buy",
+  "model": "COOFANDY Yellow Collagen Facial Sheet Mask with Collagen Essence – Hydrating, Brightening,…",
+  "price": 399,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sheet mask",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sheet mask",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51XVkagJ1TL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GCRTL4J3",
+  "buyStore": "Amazon",
+  "title": "Buy COOFANDY Yellow Collagen Facial Sheet Mask with Collagen Essence – Hydrating, Brightening, and Firming Face Mask for Smooth, Healthy-Looking Skin, Radiant Skin Care, Korean Skin Care. Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:essence",
+   "format:sheet-mask",
+   "ing:collagen",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:korean",
+   "aud:unisex",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "mjcare-b0h8qfkczx",
   "brand": "MJCARE",
   "model": "Daily Moist Soothing Mask CICA includes 30 Sheet Masks enriched with Centella Asiatica, Te…",
@@ -43897,6 +43872,70 @@ const CTPRODUCTS = [
    "ing:aloe-vera",
    "claim:hydrating",
    "claim:soothing",
+   "claim:korean",
+   "aud:unisex",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0gcrmnf7b",
+  "brand": "Buy",
+  "model": "COOFANDY Yellow Collagen Face Mask, Brightening & Firming Facial Sheet Mask with Collagen …",
+  "price": 239,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sheet mask",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sheet mask",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51XVkagJ1TL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GCRMNF7B",
+  "buyStore": "Amazon",
+  "title": "Buy COOFANDY Yellow Collagen Face Mask, Brightening & Firming Facial Sheet Mask with Collagen Essence for Hydration, Elasticity, and Radiant Skin Care, Korean Skin Care. Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:essence",
+   "format:sheet-mask",
+   "ing:collagen",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:hydrating",
    "claim:korean",
    "aud:unisex",
    "rating:none",
@@ -43966,6 +44005,73 @@ const CTPRODUCTS = [
    "skin:all",
    "aud:unisex",
    "size:travel",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0f4xn4hh6",
+  "brand": "Buy",
+  "model": "Suroskie Rose Collagen Facial Essence Mask – Korean Brightening Sheet Mask With Real Rose …",
+  "price": 250,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "rose",
+  "featureLine": "Sheet mask",
+  "highlight": "Live Amazon listing rated 4.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Sheet mask",
+   "keyIngredients": "rose (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61r5ErRpH1L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F4XN4HH6",
+  "buyStore": "Amazon",
+  "title": "Buy Suroskie Rose Collagen Facial Essence Mask – Korean Brightening Sheet Mask With Real Rose Extract & Anti-Aging Collagen | Intense Hydration, Firming Glow, Radiance Boost For Dull, Dry, Tired Skin Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:essence",
+   "format:sheet-mask",
+   "ing:collagen",
+   "ing:rose",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:korean",
+   "aud:unisex",
    "rating:4.5",
    "store:amazon"
   ],
@@ -44088,7 +44194,6 @@ const CTPRODUCTS = [
   "title": "Korean Glass Skin Glow | Rice & Kaolin DIY Face Pack Base | Skin Brightening & Oil Control | Mix with Rose Water, Milk or Aloe Vera | Rice Powder for Face | Rice Flour for Face | For All Skin Types | 100g",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:pack",
    "format:powder",
    "ing:rice-water",
@@ -44112,6 +44217,77 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false
+  }
+ },
+ {
+  "id": "buy-b0h494qjhn",
+  "brand": "Buy",
+  "model": "Glamveda Korean Rice & Ceramide Peel-Off Mask for Men & Women | Brightening Face Pack for …",
+  "price": 156,
+  "capacityLine": "100 g",
+  "materialLine": "ceramides + rice water",
+  "featureLine": "Mask / pack · ₹156/100g",
+  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹156/100g",
+   "Contains evidence-backed actives (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.7,
+   "skin": 4.7,
+   "ingredients": 5.5,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹156/100g",
+   "format": "Mask / pack",
+   "keyIngredients": "ceramides, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51EK3JP6kFL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H494QJHN",
+  "buyStore": "Amazon",
+  "title": "Buy Glamveda Korean Rice & Ceramide Peel-Off Mask for Men & Women | Brightening Face Pack for Even Skin Tone | Anti-Ageing & Deep Nourishment | Hydrates Dry & Dull Skin | Dermatologically Tested | 100g Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:peel-off",
+   "format:pack",
+   "format:peel",
+   "ing:ceramides",
+   "ing:rice-water",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:korean",
+   "free:derm",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": true
   }
  },
  {
@@ -44371,6 +44547,76 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "aurey-b0g1b5stvx",
+  "brand": "Aurey",
+  "model": "Korean Rice Face Pack 50gm | Brightening Face Pack with Korean Rice Extracts Niacinamide &…",
+  "price": 333,
+  "capacityLine": "50 g",
+  "materialLine": "niacinamide + rice water + clay/mud",
+  "featureLine": "Mask / pack · ₹666/100g",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹666/100g",
+   "format": "Mask / pack",
+   "keyIngredients": "niacinamide, rice water, clay/mud (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51QCJKYCBML._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G1B5STVX",
+  "buyStore": "Amazon",
+  "title": "Aurey Korean Rice Face Pack 50gm | Brightening Face Pack with Korean Rice Extracts Niacinamide & Kaolin Clay | Deep Cleansing Pore Care & Instant Glow | Suitable for All Skin Types",
+  "tags": [
+   "scope:face",
+   "format:clay-mask",
+   "format:pack",
+   "format:wash",
+   "ing:niacinamide",
+   "ing:rice-water",
+   "ing:clay",
+   "claim:brightening",
+   "claim:pores",
+   "claim:korean",
+   "skin:all",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "rice-b0hc2s28k1",
   "brand": "Rice",
   "model": "Powder for Face | Korean Glass Skin Glow Face Pack Base with Rice & Kaolin | Natural Rice …",
@@ -44415,7 +44661,6 @@ const CTPRODUCTS = [
   "title": "Rice Powder for Face | Korean Glass Skin Glow Face Pack Base with Rice & Kaolin | Natural Rice Flour Face Mask for Skin Brightening, Oil Control & Glow | For All Skin Types | 100g",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:pack",
    "format:powder",
    "ing:rice-water",
@@ -44546,7 +44791,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:sheet-mask",
    "format:wash",
    "format:kit",
@@ -44569,6 +44813,77 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true
+  }
+ },
+ {
+  "id": "buy-b0glwr28mw",
+  "brand": "Buy",
+  "model": "RYLLZ ESSENTIALS Rice Water Face Mask | With Kaolin Clay, 5% Niacinamide, 2% Salicylic Aci…",
+  "price": 297,
+  "capacityLine": "50 g",
+  "materialLine": "niacinamide + salicylic acid (BHA) + ceramides",
+  "featureLine": "Mask / pack · ₹594/100g",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.7,
+   "skin": 4,
+   "ingredients": 6.7,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹594/100g",
+   "format": "Mask / pack",
+   "keyIngredients": "niacinamide, salicylic acid (BHA), ceramides, rice water, clay/mud (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71xHWZglFzL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GLWR28MW",
+  "buyStore": "Amazon",
+  "title": "Buy RYLLZ ESSENTIALS Rice Water Face Mask | With Kaolin Clay, 5% Niacinamide, 2% Salicylic Acid & Ceramide | For Glass Skin, Glow, Dark Spots, Oil Control, Open Pores, Uneven & Dull Skin | Korean Skincare | 50Gm Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:clay-mask",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "ing:ceramides",
+   "ing:rice-water",
+   "ing:clay",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:korean",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
   }
  },
  {
@@ -45545,7 +45860,6 @@ const CTPRODUCTS = [
   "title": "Green Tea Bubble Mask - Deep Cleansing Face Mask for Dark Spot Removal, Blackhead Remover, Oil Control | Pore Minimizer – For All Skin Types. (4-Pcs)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:green-tea",
    "claim:dark-spots",
@@ -45742,7 +46056,6 @@ const CTPRODUCTS = [
   "title": "Green Tea Bubble Mask - Deep Cleansing Face Mask for Dark Spot Removal, Blackhead Remover, Oil Control | Pore Minimizer – For All Skin Types. (8-Pcs)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:green-tea",
    "claim:dark-spots",
@@ -47279,7 +47592,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:sheet-mask",
    "format:wash",
    "format:kit",
@@ -47419,7 +47731,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:sheet-mask",
    "format:wash",
    "format:kit",
@@ -47620,7 +47931,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:sheet-mask",
    "format:wash",
    "format:kit",
@@ -47960,7 +48270,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:sheet-mask",
    "format:wash",
    "format:kit",
@@ -48286,7 +48595,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:sheet-mask",
    "format:wash",
    "format:kit",
@@ -48353,7 +48661,6 @@ const CTPRODUCTS = [
   "title": "O3+ Power Foil D-Tan Face Sheet Mask with Licorice | For Brightening, Radiant and Glowing Skin | Removes Tan | Oil Control, Acne & Fairness | For Women & Men",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:sheet-mask",
    "ing:licorice",
    "claim:brightening",
@@ -48420,7 +48727,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:sheet-mask",
    "format:wash",
    "format:kit",
@@ -48490,7 +48796,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:sheet-mask",
    "format:wash",
    "format:kit",
@@ -48562,7 +48867,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:sheet-mask",
    "format:wash",
    "format:kit",
@@ -48630,7 +48934,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:sheet-mask",
    "format:wash",
    "format:kit",
@@ -48825,7 +49128,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:sheet-mask",
    "format:wash",
    "format:kit",
@@ -49016,7 +49318,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:sheet-mask",
    "format:wash",
    "format:kit",
@@ -49146,7 +49447,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:sheet-mask",
    "format:wash",
    "format:kit",
@@ -49217,7 +49517,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:sheet-mask",
    "format:wash",
    "format:kit",
@@ -49613,7 +49912,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:sheet-mask",
    "format:wash",
    "format:kit",
@@ -49959,7 +50257,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:sheet-mask",
    "format:wash",
    "format:kit",
@@ -50095,7 +50392,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:sheet-mask",
    "format:wash",
    "format:kit",
@@ -50351,7 +50647,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:sheet-mask",
    "format:wash",
    "format:kit",
@@ -55074,7 +55369,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:stick",
-   "format:oil",
    "format:clay-mask",
    "format:powder",
    "ing:centella-cica",
@@ -55401,7 +55695,6 @@ const CTPRODUCTS = [
   "title": "Innisfree Super Volcanic Pore Clay Mask 2x Mini 20ml | Deep Cleansing & Oil Control | Blackhead Removal & Pore Care | Korean Skincare",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:clay-mask",
    "format:wash",
    "ing:clay",
@@ -55801,7 +56094,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:stick",
-   "format:oil",
    "format:clay-mask",
    "format:wash",
    "ing:green-tea",
@@ -56495,7 +56787,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:stick",
-   "format:oil",
    "format:clay-mask",
    "format:pack",
    "format:wash",
@@ -56904,7 +57195,6 @@ const CTPRODUCTS = [
   "title": "PORES BE PURE Charcoal Clay Face Mask For Men & Women | Deep Cleansing & Detoxifying Face Pack | Removes Blackheads & Whiteheads | Oil Control & Pore Purifying Face Mask For Glowing & Brightening Skin 100 G",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:pack",
    "format:wash",
@@ -57857,7 +58147,6 @@ const CTPRODUCTS = [
   "title": "Purifying Kaolin Clay Mask & Mud Face Mask - Blackhead Remover, Oil Control for Sensitive/Oily/Dry Skin | Detoxifying Scrub & Pore Cleaner | Helps Reduce Pores & Acne | 3.58oz 100g",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:scrub",
    "ing:clay",
@@ -58657,7 +58946,6 @@ const CTPRODUCTS = [
   "title": "De-Tan Face Mask for Glowing Skin Clay Mask for Women & Men | Brazilian Purple Clay and Kaolin Clay Face Mask with Lactic Acid | Deep Cleansing, Oil Control, Blackhead Removal & Radiant Complexion | 100g",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:wash",
    "ing:lactic-acid",
@@ -58794,7 +59082,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:stick",
-   "format:oil",
    "format:clay-mask",
    "format:wash",
    "ing:clay",
@@ -59592,7 +59879,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:stick",
-   "format:oil",
    "format:clay-mask",
    "format:wash",
    "ing:green-tea",
@@ -60131,7 +60417,6 @@ const CTPRODUCTS = [
   "title": "Mi Nature Neem & Green Tea Face Mask – Hyaluronic, salicylic Acid |Deep Cleansing Clay for Oily & Combination Skin, Pore Refining & Oil-Balancing, 50g",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:wash",
    "ing:salicylic-acid-bha",
@@ -60201,7 +60486,6 @@ const CTPRODUCTS = [
   "title": "Opuline Cambrian Blue Clay for Healthy and Glowing Skin| Face Mask to Detoxify and Oil Free Skin| 200 grams",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "ing:clay",
    "claim:brightening",
@@ -60672,7 +60956,6 @@ const CTPRODUCTS = [
   "title": "Mraada Glow Ritual Face Mask 100g | Natural Glow & Deep Cleansing Face Pack | Exfoliating, Skin Brightening & Pore Purifying Clay Mask | Oil Control & Radiant Skin Care for All Skin Types",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:pack",
    "format:wash",
@@ -60955,7 +61238,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:stick",
-   "format:oil",
    "format:clay-mask",
    "format:wash",
    "format:kit",
@@ -61093,7 +61375,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:stick",
-   "format:oil",
    "format:clay-mask",
    "format:wash",
    "format:kit",
@@ -61232,7 +61513,6 @@ const CTPRODUCTS = [
   "title": "Kaolin Clay Powder 150g, China Clay White Clay for Face, Oil Absorbing Facial Mask for Cleansing and Skin Care, Suitable for DIY Face Packs and Sensitive Skin",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:powder",
    "format:wash",
@@ -61503,7 +61783,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:stick",
-   "format:oil",
    "format:clay-mask",
    "format:wash",
    "ing:green-tea",
@@ -61827,7 +62106,6 @@ const CTPRODUCTS = [
   "title": "100% Natural Moroccan Blue Clay Face Mask Powder 100g | Deep Cleansing, Oil Control, Skin Detox, Glowing Skin",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:powder",
    "format:wash",
@@ -61894,7 +62172,6 @@ const CTPRODUCTS = [
   "title": "Green Tea Face Mask for Glowing Skin – Oil Control, Acne Removal & Deep Cleansing Clay Mask | Pore Minimizing, Blackhead Removal, Hydrating Face Pack for Men & Women (All Skin Types)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:pack",
    "format:wash",
@@ -62087,7 +62364,6 @@ const CTPRODUCTS = [
   "title": "Gelatin with Kaolin Clay Face Mask Kit 150g | Gelatin Powder 50gm, Kaolin Clay 50g, FREE Multani Mitti 50g | Deep Cleansing, Oil Control, Pore Care & Glowing Skin | DIY Facial Care for Men & Women",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:powder",
    "format:wash",
@@ -62549,7 +62825,6 @@ const CTPRODUCTS = [
   "title": "Rose Clay | Natural Pink Kaolin Clay Powder for Face Pack, Skin Brightening, Deep Cleansing & Oil Control | 100% Pure & Natural Clay for DIY Masks, 200g",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:pack",
    "format:powder",
@@ -62745,7 +63020,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:stick",
-   "format:oil",
    "format:clay-mask",
    "format:wash",
    "ing:green-tea",
@@ -62811,7 +63085,6 @@ const CTPRODUCTS = [
   "title": "Korean Clay Mask Powder 30g Collagen Face Mask for Glass Skin Glow Deep Cleansing Oil Control, Pore Minimizing, Skin Tightening White Clay, Exfoliating Face Mask for Women & Men",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:powder",
    "format:wash",
@@ -63082,7 +63355,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:stick",
-   "format:oil",
    "format:clay-mask",
    "format:wash",
    "ing:hyaluronic-acid",
@@ -63526,7 +63798,6 @@ const CTPRODUCTS = [
   "title": "Innisfree Super Volcanic Pore Clay Mask 2X 100ml | Premium Korean Skincare with Volcanic Clusters & AHA | Triple Exfoliation for Deep Pore Cleansing, Oil Control & Smoother Skin | For Oily & Combination Skin",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:clay-mask",
    "format:wash",
    "ing:aha",
@@ -64775,7 +65046,6 @@ const CTPRODUCTS = [
   "title": "Sanfe Glow Up Sheet Mask (Pack of 6) | Korean Facial Masks with Rose, Cucumber, Charcoal, Lemon, Papaya & Vitamin C | For Instant Glow, Hydration, Detan, Brightening & Oil Control | 150Gm",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:sheet-mask",
    "format:kit",
    "ing:vitamin-c",
@@ -66835,7 +67105,6 @@ const CTPRODUCTS = [
   "title": "12Pack, Deep Cleansing Bubble Face Mask for Hydrated and Clear Skin | Oil Control, Blackhead Remover, and Pore Minimizer | Easy-to-Use Skincare for Men and Women",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "claim:pores",
    "claim:oil-control",
@@ -67023,7 +67292,6 @@ const CTPRODUCTS = [
   "title": "Gold Peel Off Face Mask | Retinol Snake Venom | Gold Mask Deep Pore Cleansing, Blackhead Removal, Oil Control | Hydrating Facial Skincare | Anti Aging Skin Rejuvenation Glow Face Care Mask",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel-off",
    "format:peel",
    "format:wash",
@@ -67217,7 +67485,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:stick",
-   "format:oil",
    "format:clay-mask",
    "format:wash",
    "ing:green-tea",
@@ -67286,7 +67553,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:sheet-mask",
    "format:wash",
    "format:kit",
@@ -67416,7 +67682,6 @@ const CTPRODUCTS = [
   "title": "Lakyou Beauty Black Peel-Off Face Mask 130g Activated Charcoal | Deep Cleansing Mask for Blackhead Removal, Oil Control & Pore Minimizing Skincare Treatment |",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel-off",
    "format:peel",
    "format:wash",
@@ -69959,7 +70224,6 @@ const CTPRODUCTS = [
   "title": "GLAMVEDA Rice & Ceramide And Glycolic & Salicylic Anti Acne Peel Off Face Mask (200 ml) | For Oily & Acne Prone Skin | Oil balancing, Deep Cleansing | Blackhead & Pore care",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel-off",
    "format:peel",
    "format:wash",
@@ -70848,7 +71112,6 @@ const CTPRODUCTS = [
   "title": "Glamveda 0.05% ww Glycolic Acid & 0.05% ww Salicylic Acid Anti Acne Peel off mask | For Oily & Acne Prone Skin | Oil balancing, Deep Cleansing | Blackhead & Pore care | 100gm",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:peel-off",
    "format:peel",
    "format:wash",
@@ -72231,7 +72494,6 @@ const CTPRODUCTS = [
   "title": "Charcoal Mask Peel Off Oil Control Face Masks For Women/Girls - 130 Gm (130 g)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel-off",
    "format:peel",
    "ing:charcoal",
@@ -73137,7 +73399,6 @@ const CTPRODUCTS = [
   "title": "Charcoal Mask Peel Off Oil Control Face Masks For Women/Girls (Pack of 2) (260 g)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel-off",
    "format:peel",
    "format:kit",
@@ -73395,7 +73656,6 @@ const CTPRODUCTS = [
   "title": "Bamboo Charcoal Black Peel Off Face Mask | Deep Cleansing Blackhead Remover Mask | Oil Control & Pore Minimizing Face Mask for Men & Women | (60g) Pack of 1 – RIYANSHI ENTERPRISE",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel-off",
    "format:peel",
    "format:wash",
@@ -73596,7 +73856,6 @@ const CTPRODUCTS = [
   "title": "Charcoal Peel Off Face Mask for Men & Women | Deep Pore Cleansing Mask for Blackhead Removal | Oil Control & Skin Purifying Facial Mask with Cooling Effect | 120g",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel-off",
    "format:peel",
    "format:wash",
@@ -75367,7 +75626,6 @@ const CTPRODUCTS = [
   "title": "Charcoal Detoxifying & Oil Control Peel-Off Mask 100 ml",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:peel-off",
    "format:peel",
    "ing:charcoal",
@@ -75895,7 +76153,6 @@ const CTPRODUCTS = [
   "title": "Gold Peel Off Mask for Blackhead Removal – Retinol Snake Venom Face Mask for Deep Pore Cleansing, Oil Control & Skin Tightening – Anti Acne Gold Facial Mask for Oily Skin",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel-off",
    "format:peel",
    "format:wash",
@@ -78753,7 +79010,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:sleeping-mask",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -85104,7 +85360,6 @@ const CTPRODUCTS = [
   "title": "Rose & Beetroot Radiance Ritual Multani Mitti 300 Gms | Organic Double Filtered Herbal Face Pack for Bright Skin Glow Oil Control Tan Removal | Natural Skincare",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:pack",
    "ing:rose",
@@ -85239,7 +85494,6 @@ const CTPRODUCTS = [
   "title": "Multani Mitti & Sandalwood Face Pack Powder Combo with Facial Brush | 100% Pure Natural Skincare | Deep Cleansing, Oil Control & Glow | For All Skin Types",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:pack",
    "format:powder",
@@ -85439,7 +85693,6 @@ const CTPRODUCTS = [
   "title": "Glacier Water, Hydro-Collagen 5 in 1 Facial Sheet Mask (Pack of 3)| Instant Cooling, De-Tan, Oil Control & Glow Boost | Deep Cleansing Facial Mask",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:sheet-mask",
    "format:wash",
    "format:kit",
@@ -87432,7 +87685,6 @@ const CTPRODUCTS = [
   "title": "Bébéa - Natural Radiance Orange Peel Face Pack Powder, For Skin a …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:pack",
    "format:peel",
@@ -88292,7 +88544,6 @@ const CTPRODUCTS = [
   "title": "Glowith Orange Peel & Rice Powder for Face Pack – 100g Each | Nat …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -88453,7 +88704,6 @@ const CTPRODUCTS = [
   "title": "HENUREEKA Pomegranate (Anar)Peel Powder for Face Pack |Natural An …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -88765,7 +89015,6 @@ const CTPRODUCTS = [
   "title": "VIP ALDAT Multani Mitti Glow Herbal Natural Brightening Face Pack …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:sheet-mask",
    "format:clay-mask",
    "format:peel-off",
@@ -88995,7 +89244,6 @@ const CTPRODUCTS = [
   "title": "PERSONAL TOUCH SKINCARE Facebath Jeju Volcanic Clay Mask - Glycol …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -89078,7 +89326,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -89299,7 +89546,6 @@ const CTPRODUCTS = [
   "title": "Ourcares Face Pack for DeTan, Glowing Skin, Oil Control, Acne, Pi …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -89458,7 +89704,6 @@ const CTPRODUCTS = [
   "title": "Everyuth Naturals Chocolate Scrub,Neem Face Wash & Peel Off Mask …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -89786,7 +90031,6 @@ const CTPRODUCTS = [
   "title": "Ourcares Natural Care Instant Glow D Tan & Tan Removal Face Pack …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -89865,7 +90109,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -90016,7 +90259,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -90183,7 +90425,6 @@ const CTPRODUCTS = [
   "title": "Glowith Multani Mitti & Orange Peel Powder for Face Pack – 100g E …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -91307,77 +91548,6 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "glamveda-b0h494qjhn",
-  "brand": "Glamveda",
-  "model": "Korean Rice & Ceramide Peel-Off Mask for Men & Women | Brightening Face Pack for Even Skin…",
-  "price": 145,
-  "capacityLine": "100 g",
-  "materialLine": "ceramides + rice water",
-  "featureLine": "Mask / pack · ₹145/100g",
-  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹145/100g",
-   "Contains evidence-backed actives (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 4.7,
-   "skin": 4.7,
-   "ingredients": 5.5,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹145/100g",
-   "format": "Mask / pack",
-   "keyIngredients": "ceramides, rice water (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Dermatologically tested (per listing)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51EK3JP6kFL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H494QJHN",
-  "buyStore": "Amazon",
-  "title": "Glamveda Korean Rice & Ceramide Peel-Off Mask for Men & Women | Brightening Face Pack for Even Skin Tone | Anti-Ageing & Deep Nourishment | Hydrates Dry & Dull Skin | Dermatologically Tested | 100g",
-  "tags": [
-   "scope:face",
-   "format:peel-off",
-   "format:pack",
-   "format:peel",
-   "ing:ceramides",
-   "ing:rice-water",
-   "claim:brightening",
-   "claim:anti-aging",
-   "claim:hydrating",
-   "claim:korean",
-   "free:derm",
-   "aud:women",
-   "size:standard",
-   "rating:4.0",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": true,
-   "men": false,
-   "women": true
-  }
- },
- {
   "id": "dr-rashel-b08qfl5x53",
   "brand": "DR.RASHEL",
   "model": "Beauty Elixirs De-Tan Face Pack for Glowing Skin, Oil Control, Acne, Pimples, Detan, Blemi…",
@@ -91422,7 +91592,6 @@ const CTPRODUCTS = [
   "title": "DR.RASHEL Beauty Elixirs De-Tan Face Pack for Glowing Skin, Oil Control, Acne, Pimples, Detan, Blemishes, Pigmentation & Brightening, Face Cleansing for Face & Body (380 Ml)",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:pack",
    "format:wash",
    "claim:brightening",
@@ -91491,7 +91660,6 @@ const CTPRODUCTS = [
   "title": "Orange Peel Powder face pack- For Boosten Collagen, Tan Removal, Oil Control, Glowing Skin, Scars Removal,Natural Skin cleanse, Antioxidants Add Glow with Vitamin C -120gm | Eco-Friendly Glass Jar",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:pack",
    "format:peel",
    "format:powder",
@@ -91752,7 +91920,6 @@ const CTPRODUCTS = [
   "title": "Atrika Herbal Face Pack Powder Combo 350 g (Orange Peel Powder & Multani Mitti) | Natural Face Mask for Deep Cleansing, Oil Control & Skin Brightening | Chemical-Free Skincare for Men & Women",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:pack",
    "format:peel",

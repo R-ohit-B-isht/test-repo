@@ -478,7 +478,6 @@ const CTPRODUCTS = [
   "title": "Mamaearth Rice Oil-Free Face Moisturizer, for Oily Skin, With Ric …",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:rice-water",
    "claim:hydrating",
    "free:oil-free",
@@ -923,7 +922,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:rice-water",
@@ -2426,7 +2424,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:rice-water",
    "claim:oil-control",
    "claim:korean",
@@ -3007,7 +3004,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -3088,7 +3084,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -3172,7 +3167,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:scrub",
    "format:wash",
@@ -3254,7 +3248,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -3330,7 +3323,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -3631,7 +3623,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -6710,7 +6701,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:pack",
    "format:scrub",
    "ing:vitamin-c",
@@ -8950,7 +8940,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:retinol",
    "ing:bakuchiol",
    "ing:squalane",
@@ -16057,7 +16046,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "claim:brightening",
@@ -17300,7 +17288,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:retinol",
    "claim:anti-aging",
    "claim:acne",
@@ -17452,7 +17439,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:retinol",
    "claim:brightening",
@@ -17691,7 +17677,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:scrub",
    "format:wash",
@@ -17849,7 +17834,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:retinol",
    "ing:hyaluronic-acid",
@@ -18159,7 +18143,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -18446,7 +18429,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:salicylic-acid-bha",
    "claim:pores",
@@ -18843,7 +18825,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:lotion",
    "format:serum",
-   "format:oil",
    "format:balm",
    "format:pack",
    "format:wash",
@@ -18996,7 +18977,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:centella-cica",
    "ing:tea-tree",
@@ -19151,7 +19131,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:balm",
    "ing:aloe-vera",
    "ing:papaya",
@@ -19296,7 +19275,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:vitamin-c",
    "ing:ceramides",
    "ing:collagen",
@@ -19948,7 +19926,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:green-tea",
    "claim:anti-aging",
    "claim:hydrating",
@@ -20095,7 +20072,6 @@ const CTPRODUCTS = [
   "title": "Proven Honest Derma 3% Niacinamide Oil-Free Moisturizer with CICA …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:niacinamide",
    "ing:centella-cica",
    "claim:hydrating",
@@ -20934,7 +20910,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:balm",
    "ing:shea-butter",
    "claim:brightening",
@@ -21076,7 +21051,6 @@ const CTPRODUCTS = [
   "title": "Mamaearth Vitamin C Oil-Free Face Moisturizer- Vitamin C & Gotu K …",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:vitamin-c",
    "claim:hydrating",
    "free:oil-free",
@@ -21347,7 +21321,6 @@ const CTPRODUCTS = [
   "title": "Re'equil OIL FREE MOISTURISER FOR NORMAL, OILY & COMBINATION SKIN …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "claim:hydrating",
    "free:oil-free",
    "skin:oily",
@@ -21546,7 +21519,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "claim:hydrating",
    "claim:korean",
    "free:oil-free",
@@ -22181,7 +22153,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:centella-cica",
    "ing:vitamin-b5-panthenol",
@@ -23232,7 +23203,6 @@ const CTPRODUCTS = [
   "title": "Foxtale Oil Free Moisturizer with Hyaluronic Acid for Bright & Hy …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:hyaluronic-acid",
    "claim:hydrating",
    "claim:korean",
@@ -23659,7 +23629,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:peel-off",
    "format:sleeping-mask",
    "format:peel",
@@ -23733,7 +23702,6 @@ const CTPRODUCTS = [
   "title": "Minimalist 10% Vitamin B5 Oil Free Moisturizer for Men & Women | …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:vitamin-b5-panthenol",
    "claim:hydrating",
    "free:oil-free",
@@ -23802,7 +23770,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -23873,7 +23840,6 @@ const CTPRODUCTS = [
   "title": "Deconstruct Oil-Free Moisturizer | Non Sticky,Fast absorbing |72 …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
@@ -24080,7 +24046,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:colloidal-oatmeal",
    "claim:acne",
@@ -24213,7 +24178,6 @@ const CTPRODUCTS = [
   "title": "Fixderma Dewrav Acne Control & Oil Free Face Moisturizer with Nia …",
   "tags": [
    "scope:face",
-   "format:oil",
    "claim:acne",
    "claim:hydrating",
    "free:oil-free",
@@ -24901,7 +24865,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:vitamin-b5-panthenol",
    "ing:zinc",
@@ -25543,7 +25506,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
    "ing:saffron",
@@ -25776,7 +25738,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "claim:hydrating",
    "claim:korean",
    "free:oil-free",
@@ -25845,7 +25806,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:aloe-vera",
    "claim:brightening",
@@ -25988,7 +25948,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "claim:oil-control",
    "claim:hydrating",
    "claim:soothing",
@@ -26060,7 +26019,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "ing:hyaluronic-acid",
    "claim:oil-control",
    "claim:hydrating",
@@ -26132,7 +26090,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "claim:hydrating",
    "claim:korean",
@@ -26271,7 +26228,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:caffeine",
    "ing:coffee",
    "claim:hydrating",
@@ -26340,7 +26296,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "ing:hyaluronic-acid",
    "claim:oil-control",
    "claim:hydrating",
@@ -26501,7 +26456,6 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:mist",
-   "format:oil",
    "ing:niacinamide",
    "claim:brightening",
    "claim:hydrating",
@@ -26577,7 +26531,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:green-tea",
@@ -27049,7 +27002,6 @@ const CTPRODUCTS = [
   "title": "Dr. Sheth’s Ceramide & Vitamin C Oil-free Moisturizer | Light Fac …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:vitamin-c",
    "ing:ceramides",
    "claim:hydrating",
@@ -27116,7 +27068,6 @@ const CTPRODUCTS = [
   "title": "Plum Green Tea Oil-Free Face Moisturizer | Soothes & Fights Acne| …",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:green-tea",
    "claim:acne",
    "claim:hydrating",
@@ -27185,7 +27136,6 @@ const CTPRODUCTS = [
   "title": "Foxtale Oil Balancing Moisturizer for Oily Skin, Niacinamide | Li …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:niacinamide",
    "claim:hydrating",
    "skin:oily",
@@ -27320,7 +27270,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "claim:brightening",
    "claim:dark-spots",
    "claim:whitening-claim",
@@ -27396,7 +27345,6 @@ const CTPRODUCTS = [
   "title": "Mamaearth Tea Tree Oil-Free Moisturizer For Face For Oily Skin wi …",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:tea-tree",
    "claim:hydrating",
@@ -27464,7 +27412,6 @@ const CTPRODUCTS = [
   "title": "Mamaearth Ubtan Oil-Free Face Moisturizer with Turmeric & Saffron …",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:turmeric",
    "ing:saffron",
    "ing:ubtan",
@@ -27535,7 +27482,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:vitamin-e",
    "claim:brightening",
@@ -27688,7 +27634,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:toner",
-   "format:oil",
    "format:clay-mask",
    "format:kit",
    "ing:ceramides",
@@ -28002,7 +27947,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:kit",
    "claim:acne",
    "claim:oil-control",
@@ -28220,7 +28164,6 @@ const CTPRODUCTS = [
   "title": "Skinkraft Moisturizer - Oil Free Moisturizer for Oily Skin (45 ml …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "claim:hydrating",
    "free:oil-free",
    "skin:oily",
@@ -28445,7 +28388,6 @@ const CTPRODUCTS = [
   "title": "Mamaearth Vitamin C Oil-Free Moisturizer for Skin Illumination Fo …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:vitamin-c",
    "claim:hydrating",
    "free:oil-free",
@@ -28585,7 +28527,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "ing:niacinamide",
@@ -28676,7 +28617,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "spf:40",
    "pa:++++",
    "ing:ceramides",
@@ -28994,7 +28934,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:alpha-arbutin",
@@ -29755,7 +29694,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "spf:15",
    "claim:brightening",
    "claim:acne",
@@ -30054,7 +29992,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -30137,7 +30074,6 @@ const CTPRODUCTS = [
   "title": "The Derma Co 5% Vitamin C Oil-Free Daily Face Moisturizer for Ski …",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:vitamin-c",
    "claim:hydrating",
    "free:oil-free",
@@ -30203,7 +30139,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:aloe-vera",
    "ing:vitamin-b5-panthenol",
    "ing:probiotics",
@@ -30362,7 +30297,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:balm",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -30453,7 +30387,6 @@ const CTPRODUCTS = [
   "title": "Dr. Sheth’s Haldi & Hyaluronic Acid Oil-Free Moisturizer, Helps t …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:turmeric",
    "claim:hydrating",
@@ -30520,7 +30453,6 @@ const CTPRODUCTS = [
   "title": "The Derma Co 5% Propylene Oil Free Moisturizer with Propylene Gly …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "claim:hydrating",
    "free:oil-free",
    "aud:unisex",
@@ -30588,7 +30520,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "ing:ceramides",
    "ing:centella-cica",
    "claim:hydrating",
@@ -30721,7 +30652,6 @@ const CTPRODUCTS = [
   "title": "Aqualogica Glow+ Oil-free Moisturizer, with Papaya and Vitamin C …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:vitamin-c",
    "ing:papaya",
    "claim:brightening",
@@ -30791,7 +30721,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:hyaluronic-acid",
    "ing:centella-cica",
@@ -30872,7 +30801,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:green-tea",
    "claim:acne",
@@ -30950,7 +30878,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "format:kit",
    "ing:collagen",
    "ing:ubtan",
@@ -31019,7 +30946,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
@@ -31091,7 +31017,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:capsule",
    "format:kit",
    "spf:15",
@@ -31174,7 +31099,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "ing:colloidal-oatmeal",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -31255,7 +31179,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "claim:oil-control",
    "claim:hydrating",
    "free:oil-free",
@@ -31325,7 +31248,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "ing:vitamin-e",
@@ -31407,7 +31329,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "format:scrub",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -31481,7 +31402,6 @@ const CTPRODUCTS = [
   "title": "Mamaearth Oil Free Moisturizer For Face With Apple Cider Vinegar …",
   "tags": [
    "scope:face",
-   "format:oil",
    "claim:hydrating",
    "free:oil-free",
    "aud:unisex",
@@ -31617,7 +31537,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:green-tea",
    "claim:acne",
@@ -31699,7 +31618,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:ceramides",
    "claim:brightening",
    "claim:oil-control",
@@ -31771,7 +31689,6 @@ const CTPRODUCTS = [
   "title": "Aqualogica Illuminate+ Oil-Free Moisturizer with Wild Berries & A …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "claim:hydrating",
    "free:oil-free",
    "aud:unisex",
@@ -31914,7 +31831,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -31996,7 +31912,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
@@ -32148,7 +32063,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "claim:hydrating",
    "free:paraben",
    "free:oil-free",
@@ -32217,7 +32131,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "ing:green-tea",
    "claim:brightening",
    "claim:acne",
@@ -32291,7 +32204,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "claim:oil-control",
    "claim:hydrating",
    "free:oil-free",
@@ -32363,7 +32275,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "claim:hydrating",
    "free:fragrance",
    "free:oil-free",
@@ -32433,7 +32344,6 @@ const CTPRODUCTS = [
   "title": "Aqualogica Illuminate+ Oil-Free Moisturizer with Wild Berries and …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "claim:hydrating",
    "free:oil-free",
    "aud:unisex",
@@ -32501,7 +32411,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -32582,7 +32491,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "sun:mineral",
    "ing:aloe-vera",
    "ing:vitamin-e",
@@ -32812,7 +32720,6 @@ const CTPRODUCTS = [
   "title": "COSNET Glowtus Oil Free Moisturizer for Face – 100gm | Lightweigh …",
   "tags": [
    "scope:face",
-   "format:oil",
    "claim:brightening",
    "claim:hydrating",
    "free:oil-free",
@@ -32965,7 +32872,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:glycerin",
@@ -33048,7 +32954,6 @@ const CTPRODUCTS = [
   "title": "Chemist at Play Oil Control Face Moisturizer with 3% Niacinamide, …",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:niacinamide",
    "claim:oil-control",
    "claim:hydrating",
@@ -33114,7 +33019,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "claim:brightening",
    "claim:de-tan",
    "claim:dark-spots",
@@ -33195,7 +33099,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:peptides",
@@ -33287,7 +33190,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:colloidal-oatmeal",
@@ -33362,7 +33264,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:green-tea",
    "claim:brightening",
@@ -33441,7 +33342,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -33521,7 +33421,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:ceramides",
    "ing:aloe-vera",
    "claim:brightening",
@@ -33602,7 +33501,6 @@ const CTPRODUCTS = [
   "title": "clearlyU Glow & Hydrate Oil-Free Face Moisturiser for Oily Skin, …",
   "tags": [
    "scope:face",
-   "format:oil",
    "claim:brightening",
    "claim:hydrating",
    "free:oil-free",
@@ -33753,7 +33651,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "ing:niacinamide",
@@ -33844,7 +33741,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:sleeping-mask",
    "format:peel",
@@ -33925,7 +33821,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:salicylic-acid-bha",
    "ing:colloidal-oatmeal",
@@ -34007,7 +33902,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:vitamin-e",
    "claim:brightening",
@@ -34091,7 +33985,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -34169,7 +34062,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:lotion",
-   "format:oil",
    "claim:oil-control",
    "claim:hydrating",
    "free:fragrance",
@@ -34240,7 +34132,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:ceramides",
    "ing:aloe-vera",
@@ -34314,7 +34205,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "claim:acne",
    "claim:oil-control",
    "claim:hydrating",
@@ -34386,7 +34276,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "spf:30",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -34470,7 +34359,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:balm",
    "format:pack",
    "format:kit",
@@ -34636,7 +34524,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:saffron",
    "claim:brightening",
    "claim:whitening-claim",
@@ -34709,7 +34596,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "claim:hydrating",
    "claim:lightweight",
    "free:oil-free",
@@ -34868,7 +34754,6 @@ const CTPRODUCTS = [
   "title": "EIQ - EINSTEINIQ Hydralux Oil Free Day & Night Moisturiser Daily …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "claim:hydrating",
    "free:oil-free",
    "aud:unisex",
@@ -34935,7 +34820,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -35019,7 +34903,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:lotion",
-   "format:oil",
    "ing:vitamin-c",
    "ing:aloe-vera",
    "claim:brightening",
@@ -35092,7 +34975,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:ceramides",
@@ -35172,7 +35054,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "spf:50+",
    "pa:+++",
    "ing:niacinamide",
@@ -35252,7 +35133,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:kit",
    "ing:vitamin-c",
    "ing:aloe-vera",
@@ -35334,7 +35214,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "claim:anti-aging",
    "claim:oil-control",
    "claim:hydrating",
@@ -35409,7 +35288,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:pack",
    "ing:colloidal-oatmeal",
    "ing:ceramides",
@@ -35489,7 +35367,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "ing:vitamin-e",
    "claim:brightening",
    "claim:whitening-claim",
@@ -35562,7 +35439,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:aloe-vera",
    "ing:vitamin-b5-panthenol",
    "ing:glycerin",
@@ -35638,7 +35514,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:aloe-vera",
@@ -35725,7 +35600,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:glycerin",
    "ing:ginseng",
    "claim:brightening",
@@ -35799,7 +35673,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "claim:brightening",
    "claim:oil-control",
    "claim:hydrating",
@@ -36232,7 +36105,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:ceramides",
    "claim:acne",
@@ -36789,7 +36661,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:kit",
    "spf:30",
    "pa:+++",
@@ -37601,7 +37472,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:ceramides",
    "ing:aloe-vera",
@@ -37917,7 +37787,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:retinol",
    "ing:ceramides",
@@ -38324,7 +38193,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:ceramides",
    "ing:aloe-vera",
    "claim:brightening",
@@ -38404,7 +38272,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:pack",
    "ing:retinol",
    "ing:ceramides",
@@ -38722,7 +38589,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:retinal",
    "ing:ceramides",
    "ing:rice-water",
@@ -39045,7 +38911,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:ceramides",
    "ing:aloe-vera",
@@ -39125,7 +38990,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:ceramides",
    "ing:collagen",
@@ -39208,7 +39072,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:retinol",
    "ing:ceramides",
    "ing:collagen",
@@ -39288,7 +39151,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:retinol",
    "ing:ceramides",
@@ -39450,7 +39312,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:ceramides",
    "ing:aloe-vera",
@@ -40064,7 +39925,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "spf:30",
    "ing:niacinamide",
    "ing:ceramides",
@@ -40467,7 +40327,6 @@ const CTPRODUCTS = [
   "title": "QTWAYS CERAMIDE OIL FREE MOISTURIZER (100 ml)",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:ceramides",
    "claim:hydrating",
    "free:oil-free",
@@ -40763,7 +40622,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:ceramides",
    "claim:brightening",
    "claim:oil-control",
@@ -42066,7 +41924,6 @@ const CTPRODUCTS = [
   "title": "Dot & Key Blueberry Hydrate Barrier Repair Oil-Free Moisturizer ( …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "claim:hydrating",
    "claim:barrier",
    "free:oil-free",
@@ -42347,7 +42204,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:balm",
    "format:wash",
    "ing:shea-butter",
@@ -42752,7 +42608,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:patch",
    "spf:30",
    "claim:brightening",
@@ -42841,7 +42696,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:patch",
    "spf:30",
    "claim:brightening",
@@ -42929,7 +42783,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:patch",
    "spf:30",
    "claim:brightening",
@@ -43016,7 +42869,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:patch",
    "spf:30",
    "claim:brightening",
@@ -43490,7 +43342,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "claim:brightening",
    "claim:anti-aging",
    "claim:oil-control",
@@ -44002,7 +43853,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "ing:honey",
    "ing:almond",
    "claim:brightening",
@@ -44080,7 +43930,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:aloe-vera",
@@ -44246,7 +44095,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:kit",
    "ing:turmeric",
    "ing:sandalwood",
@@ -44324,7 +44172,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "claim:oil-control",
    "claim:hydrating",
    "free:paraben",
@@ -44399,7 +44246,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:balm",
    "format:kit",
    "ing:petrolatum",
@@ -44484,7 +44330,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:kit",
    "ing:honey",
    "ing:almond",
@@ -44563,7 +44408,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:balm",
    "format:kit",
    "ing:saffron",
@@ -44727,7 +44571,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "ing:aloe-vera",
    "claim:oil-control",
    "claim:hydrating",
@@ -44885,7 +44728,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:balm",
    "format:kit",
    "ing:aloe-vera",
@@ -44967,7 +44809,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:balm",
    "format:pack",
    "format:kit",
@@ -45050,7 +44891,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:aloe-vera",
@@ -45130,7 +44970,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:honey",
@@ -45215,7 +45054,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:balm",
    "ing:aloe-vera",
    "ing:vitamin-e",
@@ -45295,7 +45133,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:balm",
    "format:kit",
    "ing:honey",
@@ -45376,7 +45213,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "ing:aloe-vera",
    "ing:vitamin-e",
    "claim:oil-control",
@@ -50101,7 +49937,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "claim:brightening",
    "claim:de-tan",
    "claim:dark-spots",
@@ -51892,7 +51727,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:oil-control",
@@ -53173,7 +53007,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "spf:15",
    "claim:brightening",
    "claim:whitening-claim",
@@ -54098,7 +53931,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "spf:15",
    "ing:vitamin-c",
    "ing:saffron",
@@ -54333,7 +54165,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "spf:15",
    "claim:brightening",
    "claim:de-tan",
@@ -55762,7 +55593,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "spf:15",
    "ing:coffee",
    "ing:glycerin",
@@ -55842,7 +55672,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "spf:15",
    "ing:vitamin-c",
    "ing:coffee",
@@ -56666,7 +56495,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "claim:brightening",
    "free:paraben",
    "free:mineral-oil",
@@ -57830,7 +57658,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
    "ing:glutathione",
@@ -58287,7 +58114,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:vitamin-c",
    "ing:retinol",
    "ing:collagen",
@@ -58578,7 +58404,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:kit",
    "spf:30",
    "claim:brightening",
@@ -61081,7 +60906,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "claim:acne",
    "claim:pores",
    "claim:oil-control",
@@ -61156,7 +60980,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:ceramides",
@@ -61232,7 +61055,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:stick",
-   "format:oil",
    "format:clay-mask",
    "ing:niacinamide",
    "ing:retinol",
@@ -62146,7 +61968,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:vitamin-e",
    "ing:strawberry",
    "claim:brightening",
@@ -62374,7 +62195,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "spf:30",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -62457,7 +62277,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "ing:vitamin-c",
@@ -62629,7 +62448,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -62709,7 +62527,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:oil-control",
@@ -64171,7 +63988,6 @@ const CTPRODUCTS = [
   "title": "SKINAA Ceramide Lightweight Oil-Free Moisturiser Emulsion for Fac …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:emulsion",
    "ing:ceramides",
    "claim:hydrating",
@@ -64550,7 +64366,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "format:capsule",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -64626,7 +64441,6 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:essence",
-   "format:oil",
    "format:kit",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -65158,7 +64972,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:balm",
    "spf:15",
    "ing:honey",
@@ -67256,16 +67069,15 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "glymax-itm693998c6d6fee",
-  "brand": "Glymax",
-  "model": "OC SEBUM REGULATING MOISTURIZER (75 g)",
-  "price": 448,
-  "capacityLine": "75 g",
-  "materialLine": "hyaluronic acid",
-  "featureLine": "Oil · Paraben-free · ₹597/100g",
-  "highlight": "Live Flipkart listing rated 4.8★ by 5 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "id": "active-wow-itme7a22ac670bbb",
+  "brand": "Active Wow",
+  "model": "X Emirates Cream Smooth Glow Moisturizing Cream (50 g)",
+  "price": 163,
+  "capacityLine": "50 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream / gel · Paraben-free · ₹326/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [
-   "Contains evidence-backed actives (per listing)",
    "Paraben-free (per listing)",
    "Dermatologically tested (per listing)"
   ],
@@ -67273,312 +67085,18 @@ const CTPRODUCTS = [
    "Marketplace brand — limited track record"
   ],
   "scores": {
-   "trust": 5.6,
+   "trust": 4.4,
    "skin": 5.3,
-   "ingredients": 5.4,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "75 g",
-   "pricePer100": "₹597/100g",
-   "format": "Oil",
-   "keyIngredients": "hyaluronic acid (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Oily Skin, Sensitive Skin",
-   "rating": "4.8/5 (5 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/r/f/75-oc-sebum-regulating-moisturizer-glymax-cream-original-imahhafhzpfk8zkm.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/c/m/75-oc-moisturizer-glymax-cream-original-imahg2vzyy3gmhfv.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/k5wse4w0/moisturizer-cream/3/r/h/150-intensive-skin-hydrator-cream-glymax-cream-original-imafzgvkeepxeh6s.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/2/i/150-intensive-skin-hydrator-cream-for-all-skin-types-150g-glymax-original-imahzubzb9f4jrzn.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/i/o/300-intensive-skin-hydrator-cream-for-all-skin-types-glymax-original-imah3gaqubzzaayy.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/glymax-oc-sebum-regulating-moisturizer/p/itm693998c6d6fee",
-  "buyStore": "Flipkart",
-  "title": "Glymax OC SEBUM REGULATING MOISTURIZER (75 g)",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:oil",
-   "ing:hyaluronic-acid",
-   "ing:glycerin",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:lightweight",
-   "free:paraben",
-   "free:derm",
-   "free:sensitive-safe",
-   "skin:oily",
-   "skin:sensitive",
-   "aud:women",
-   "size:standard",
-   "rating:4.5",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": true,
-   "derm": true,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "glymax-itmd46aa3c82e83b",
-  "brand": "Glymax",
-  "model": "moisturizer (150 g)",
-  "price": 316,
-  "capacityLine": "150 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream / gel · ₹211/100g",
-  "highlight": "Live Flipkart listing rated 4.3★ by 52 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹211/100g",
-   "Strong buyer rating (4.3)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 4.7,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "150 g",
-   "pricePer100": "₹211/100g",
-   "format": "Cream / gel",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "4.3/5 (52 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/d/j/150-moisturizer-glymax-cream-original-imahey9yzavwyshu.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/k5wse4w0/moisturizer-cream/3/r/h/150-intensive-skin-hydrator-cream-glymax-cream-original-imafzgvkeepxeh6s.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/x/j/150-moisturising-cream-for-intensive-skin-hydrator-cream-glymax-original-imahejzvxhkvwbr3.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/s/t/150-cream-glymax-cream-original-imah9ygbptmsj3vn.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/t/n/300-intensive-skin-hydrator-cream-150g-pack-of-2-glymax-cream-original-imah65hgpvhq9st3.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/glymax-moisturizer/p/itmd46aa3c82e83b",
-  "buyStore": "Flipkart",
-  "title": "Glymax moisturizer (150 g)",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:lightweight",
-   "skin:all",
-   "aud:women",
-   "size:large",
-   "rating:4.0",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "glymax-itm7a34dfba73918",
-  "brand": "Glymax",
-  "model": "Moisturising Cream For Intensive Skin Hydrator Cream (150 …",
-  "price": 342,
-  "capacityLine": "150 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream / gel · Paraben-free · ₹228/100g",
-  "highlight": "Live Flipkart listing rated 4.3★ by 60 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹228/100g",
-   "Paraben-free (per listing)",
-   "Strong buyer rating (4.3)"
-  ],
-  "cons": [
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 4.7,
-   "skin": 4.6,
-   "ingredients": 4,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "150 g",
-   "pricePer100": "₹228/100g",
-   "format": "Cream / gel",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "4.3/5 (60 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/x/j/150-moisturising-cream-for-intensive-skin-hydrator-cream-glymax-original-imahejzvxhkvwbr3.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/j/b/500-intensive-skin-hydrator-cream-glymax-cream-original-imagzecmy2tzjx3u.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/t/n/300-intensive-skin-hydrator-cream-150g-pack-of-2-glymax-cream-original-imah65hgpvhq9st3.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/d/j/150-moisturizer-glymax-cream-original-imahey9yzavwyshu.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/l/r/300-cream-glymax-cream-original-imahjjrry2vyzxnp.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/glymax-moisturising-cream-intensive-skin-hydrator/p/itm7a34dfba73918",
-  "buyStore": "Flipkart",
-  "title": "Glymax Moisturising Cream For Intensive Skin Hydrator Cream (150 …",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "claim:hydrating",
-   "claim:barrier",
-   "claim:exfoliating",
-   "free:paraben",
-   "skin:all",
-   "aud:women",
-   "size:large",
-   "rating:4.0",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "it-pure-beauty-itm83d4d53bdb4a1",
-  "brand": "IT Pure Beauty",
-  "model": "Glycolic Acid Cream 6% w/w Oil-Free Moisturizer - …",
-  "price": 142,
-  "capacityLine": "50 ml",
-  "materialLine": "glycolic acid",
-  "featureLine": "Oil · Paraben-free · ₹284/100ml",
-  "highlight": "Live Flipkart listing rated 3.5★ by 4 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)"
-  ],
-  "cons": [
-   "Mixed buyer rating (3.5)",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 3.5,
-   "skin": 5.1,
-   "ingredients": 5.6,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹284/100ml",
-   "format": "Oil",
-   "keyIngredients": "glycolic acid (per listing)",
-   "freeFrom": "Paraben-free, Sulfate/SLS-free (per listing)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "3.5/5 (4 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/h/f/h/50-glycolic-acid-cream-6-w-w-oil-free-moisturizer-hydrating-original-imahemch7easxz6f.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/d/s/e/50-6-glycolic-acid-cream-for-glowing-skin-dark-spot-removal-original-imahemcg4vbmsrw4.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/l/e/d/50-6-glycolic-acid-cream-for-glowing-skin-dark-spot-removal-original-imahemcgxnypvwgz.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/c/b/9/50-high-potency-6-glycolic-acid-cream-with-2-kojic-acid-cream-original-imahcw5gyzaxh7fs.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/e/q/g/50-high-potency-6-glycolic-acid-cream-with-2-kojic-acid-cream-original-imahcw5gjpzdjnn9.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/pure-beauty-glycolic-acid-cream-6-w-w-oil-free-moisturizer-hydrating-even-toned-skin/p/itm83d4d53bdb4a1",
-  "buyStore": "Flipkart",
-  "title": "IT Pure Beauty Glycolic Acid Cream 6% w/w Oil-Free Moisturizer - …",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "format:oil",
-   "ing:glycolic-acid",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:dark-spots",
-   "claim:whitening-claim",
-   "claim:anti-aging",
-   "claim:pores",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "free:paraben",
-   "free:sulfate",
-   "free:oil-free",
-   "free:vegan",
-   "skin:all",
-   "aud:women",
-   "size:travel",
-   "rating:3.5",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "glyco-itm560f7b44c87a7",
-  "brand": "Glyco",
-  "model": "Glycolic Acid 6% Moisturizer Cream For Face And Skin (50 g)",
-  "price": 153,
-  "capacityLine": "50 g",
-  "materialLine": "glycolic acid",
-  "featureLine": "Cream / gel · ₹306/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 5,
-   "skin": 4,
-   "ingredients": 5.6,
+   "ingredients": 4.3,
    "experience": 4.9
   },
   "fullSpec": {
    "quantity": "50 g",
-   "pricePer100": "₹306/100g",
+   "pricePer100": "₹326/100g",
    "format": "Cream / gel",
-   "keyIngredients": "glycolic acid (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim",
    "audience": "Marketed for women",
@@ -67588,167 +67106,32 @@ const CTPRODUCTS = [
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/l/8/l/50-glycolic-acid-6-moisturizer-cream-for-face-and-skin-glyco-original-imahq6xag8kygyza.jpeg?q=90"
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/t/f/50-x-emirates-cream-smooth-glow-moisturizing-cream-activewow-original-imahnkhx9hqdz4nu.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/j/y/50-emirates-radiant-glow-face-cream-for-smooth-bright-and-fresh-original-imahnked6ymfjmmk.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/x/w/50-emirates-radiant-glow-face-cream-for-smooth-bright-and-fresh-original-imahnkedekmm8txf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/v/a/50-emirates-radiant-glow-face-cream-for-smooth-bright-and-fresh-original-imahnkedmhgy3urn.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/m/a/50-emirates-radiant-glow-face-cream-for-smooth-bright-and-fresh-original-imahnkedtgrrddy9.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/glyco-glycolic-acid-6-moisturizer-cream-face-skin/p/itm560f7b44c87a7",
+  "buyUrl": "https://www.flipkart.com/active-wow-x-emirates-cream-smooth-glow-moisturizing/p/itme7a22ac670bbb",
   "buyStore": "Flipkart",
-  "title": "Glyco Glycolic Acid 6% Moisturizer Cream For Face And Skin (50 g)",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "ing:glycolic-acid",
-   "claim:brightening",
-   "claim:hydrating",
-   "free:vegan",
-   "skin:all",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "glyco-itmf890b40d195c2",
-  "brand": "Glyco",
-  "model": "Glycoliclic Acid Exfoliating Moisturizer For Skin Routine ( …",
-  "price": 158,
-  "capacityLine": "30 g",
-  "materialLine": "glycolic acid",
-  "featureLine": "Scrub / exfoliant · ₹527/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 5,
-   "skin": 4,
-   "ingredients": 5.6,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "30 g",
-   "pricePer100": "₹527/100g",
-   "format": "Scrub / exfoliant",
-   "keyIngredients": "glycolic acid (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/m/n/g/50-glycolic-acid-exfoliating-moisturizer-for-skin-routine-glyco-original-imahq6xatmgb448c.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/glyco-glycolic-6-cream-smooth-skin-maintenance-formula/p/itmf890b40d195c2",
-  "buyStore": "Flipkart",
-  "title": "Glyco Glycoliclic Acid Exfoliating Moisturizer For Skin Routine ( …",
-  "tags": [
-   "scope:face",
-   "format:cream",
-   "ing:glycolic-acid",
-   "claim:brightening",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "free:vegan",
-   "skin:all",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "aqualogica-itmc55318f7f00e6",
-  "brand": "Aqualogica",
-  "model": "Glow+ Hydra Gel Moisturizer with Vitamin C & Papaya No …",
-  "price": 424,
-  "capacityLine": "200 g",
-  "materialLine": "vitamin C + papaya",
-  "featureLine": "Cream / gel · Paraben-free · ₹212/100g",
-  "highlight": "Live Flipkart listing rated 4.4★ by 14,004 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹212/100g",
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)"
-  ],
-  "cons": [],
-  "scores": {
-   "trust": 6.4,
-   "skin": 5.3,
-   "ingredients": 6,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "200 g",
-   "pricePer100": "₹212/100g",
-   "format": "Cream / gel",
-   "keyIngredients": "vitamin C, papaya (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Normal Skin, Combination Skin, All Skin Types",
-   "rating": "4.4/5 (14,004 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/u/0/200-0-glow-hydra-gel-moisturizer-with-vitamin-c-papaya-non-original-imahcjsqmbcpyqd4.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/l/l/200-0-glow-hydra-gel-moisturizer-with-vitamin-c-papaya-non-original-imahcjsqzdhhew2h.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/m/s/200-0-glow-hydra-gel-moisturizer-with-vitamin-c-papaya-non-original-imahcjsqjt3tzvz2.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/y/d/200-0-glow-hydra-gel-moisturizer-with-vitamin-c-papaya-non-original-imahcjsqhhngywe9.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/r/b/200-0-glow-hydra-gel-moisturizer-with-vitamin-c-papaya-non-original-imahcjsqsvhykp7s.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/aqualogica-glow-hydra-gel-moisturizer-vitamin-c-papaya-non-sticky-quick-absrobing/p/itmc55318f7f00e6",
-  "buyStore": "Flipkart",
-  "title": "Aqualogica Glow+ Hydra Gel Moisturizer with Vitamin C & Papaya No …",
+  "title": "Active Wow X Emirates Cream Smooth Glow Moisturizing Cream (50 g)",
   "tags": [
    "scope:both",
-   "format:gel",
-   "ing:vitamin-c",
-   "ing:papaya",
+   "format:cream",
    "claim:brightening",
-   "claim:oil-control",
+   "claim:whitening-claim",
    "claim:hydrating",
-   "claim:exfoliating",
-   "claim:lightweight",
+   "claim:barrier",
    "free:paraben",
    "free:derm",
-   "free:vegan",
-   "skin:combination",
-   "skin:normal",
    "skin:all",
    "aud:women",
-   "size:large",
-   "rating:4.0",
+   "size:travel",
+   "rating:none",
    "store:flipkart"
   ],
   "filters": {
-   "actives": true,
+   "actives": false,
    "freefrom": true,
    "natural": true,
    "derm": true,
@@ -67757,94 +67140,18 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "smartdrops-itmeb0576bc8e027",
-  "brand": "smartdrops",
-  "model": "Day & Night Face Moisturizer Cream With Collagen & Ret …",
-  "price": 202,
-  "capacityLine": "200 g",
-  "materialLine": "retinol",
-  "featureLine": "Cream / gel · Paraben-free · ₹101/100g",
-  "highlight": "Live Flipkart listing rated 4.2★ by 5 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹101/100g",
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)"
-  ],
-  "cons": [
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 5,
-   "skin": 5.3,
-   "ingredients": 5.3,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "200 g",
-   "pricePer100": "₹101/100g",
-   "format": "Cream / gel",
-   "keyIngredients": "retinol (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "4.2/5 (5 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/w/e/200-0-day-night-face-cream-for-radiant-spotless-glowing-skin-for-original-imahhayfc5gphynp.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/2/k/300-0-collagen-face-cream-day-night-use-lightweight-moisturizer-original-imahhauauaskrqx6.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/m/z/200-0-collagen-face-cream-day-night-use-lightweight-moisturizer-original-imahhauazmmedwhw.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/p/r/200-0-collagen-retinol-face-cream-soft-texture-suitable-for-all-original-imahhaujgsx3a8hf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/f/i/300-0-collagen-face-cream-day-night-use-lightweight-moisturizer-original-imahhauawqvaghkz.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/smartdrops-day-night-face-moisturizer-cream-collagen-retinol-glowing-skin/p/itmeb0576bc8e027",
-  "buyStore": "Flipkart",
-  "title": "smartdrops Day & Night Face Moisturizer Cream With Collagen & Ret …",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "ing:retinol",
-   "ing:collagen",
-   "claim:brightening",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "claim:lightweight",
-   "free:paraben",
-   "free:derm",
-   "free:vegan",
-   "skin:all",
-   "aud:women",
-   "size:large",
-   "rating:4.0",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": true,
-   "natural": false,
-   "derm": true,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "dermistry-itmf57e1656c494e",
-  "brand": "DERMISTRY",
-  "model": "Sensitive & Dry Skin Calming Moisturizer Lotion & Shea …",
-  "price": 450,
-  "capacityLine": "300 ml",
-  "materialLine": "kojic acid + caffeine + aloe vera",
-  "featureLine": "Serum · Paraben-free · ₹150/100ml",
+  "id": "enmoist-itmf2ea0d6e53f91",
+  "brand": "EnMoist",
+  "model": "AquaRex 100Hours Deep Hydration Moisturizer for Dry & Itc …",
+  "price": 114,
+  "capacityLine": "100 g",
+  "materialLine": "almond + vitamin E",
+  "featureLine": "Oil · Paraben-free · ₹114/100g",
   "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [
-   "Good value: ₹150/100ml",
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)"
+   "Good value: ₹114/100g",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
   ],
   "cons": [
    "Marketplace brand — limited track record"
@@ -67852,74 +67159,55 @@ const CTPRODUCTS = [
   "scores": {
    "trust": 4.4,
    "skin": 5.3,
-   "ingredients": 7.2,
-   "experience": 5.5
+   "ingredients": 5.1,
+   "experience": 4.6
   },
   "fullSpec": {
-   "quantity": "300 ml",
-   "pricePer100": "₹150/100ml",
-   "format": "Serum",
-   "keyIngredients": "kojic acid, caffeine, aloe vera, shea butter, vitamin E (per listing)",
+   "quantity": "100 g",
+   "pricePer100": "₹114/100g",
+   "format": "Oil",
+   "keyIngredients": "almond, vitamin E (per listing)",
    "freeFrom": "Paraben-free (per listing)",
    "dermTested": "Dermatologically tested (per listing)",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
+   "benefit": "Hydrating",
    "audience": "Marketed for women",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Dry Skin, Sensitive Skin, Combination Skin, Normal Skin, Oily Skin",
+   "skinType": "Dry Skin",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/b/3/300-sensitive-dry-skin-calming-shea-kokum-mango-body-butter-original-imahf8krject5qqt.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/j/e/300-mango-shea-kokum-body-butter-sensitive-dry-skin-gentle-sles-original-imahf8gjrnwg2zy3.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/w/j/300-mango-shea-kokum-body-butter-sensitive-dry-skin-gentle-sles-original-imahf8gjkzxw2pyu.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/w/h/200-sensitive-dry-very-skin-intense-hydration-moisturizer-shea-original-imahf8fzzbbbkyz7.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/k/h/200-sensitive-dry-very-skin-intense-hydration-moisturizer-shea-original-imahf8fzqajqhb77.jpeg?q=90"
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/j/b/100-aquarex-100hours-deep-hydration-moisturizer-for-dry-itchy-original-imahff7hrwzeejyv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/s/o/100-aquarex-100hours-deep-hydration-moisturizer-for-dry-itchy-original-imahff7hjpnsydzc.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/k/w/100-aquarex-100hours-deep-hydration-moisturizer-for-dry-itchy-original-imahff7hjmkfnk5b.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/y/3/100-aquarex-100hours-deep-hydration-moisturizer-for-dry-itchy-original-imahff7h8cjcuaab.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/j/v/100-aquarex-100hours-deep-hydration-moisturizer-for-dry-itchy-original-imahff7h2ywyuchj.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/dermistry-sensitive-dry-skin-calming-moisturizer-lotion-shea-kokum-mango-body-butter/p/itmf57e1656c494e",
+  "buyUrl": "https://www.flipkart.com/enmoist-aquarex-100hours-deep-hydration-moisturizer-dry-itchy-skin/p/itmf2ea0d6e53f91",
   "buyStore": "Flipkart",
-  "title": "DERMISTRY Sensitive & Dry Skin Calming Moisturizer Lotion & Shea …",
+  "title": "EnMoist AquaRex 100Hours Deep Hydration Moisturizer for Dry & Itc …",
   "tags": [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:serum",
    "format:oil",
-   "format:balm",
-   "ing:collagen",
-   "ing:kojic-acid",
-   "ing:coffee",
-   "ing:aloe-vera",
-   "ing:shea-butter",
+   "ing:almond",
    "ing:vitamin-e",
-   "ing:argan-oil",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:dark-spots",
-   "claim:whitening-claim",
+   "ing:glycerin",
    "claim:oil-control",
    "claim:hydrating",
-   "claim:barrier",
-   "claim:soothing",
-   "claim:exfoliating",
-   "claim:dry-skin-relief",
    "free:paraben",
    "free:derm",
-   "free:vegan",
-   "free:sensitive-safe",
-   "skin:oily",
    "skin:dry",
-   "skin:combination",
-   "skin:sensitive",
-   "skin:normal",
+   "skin:all",
    "aud:women",
-   "size:xl",
+   "size:standard",
    "rating:none",
    "store:flipkart"
   ],
   "filters": {
-   "actives": true,
+   "actives": false,
    "freefrom": true,
    "natural": true,
    "derm": true,
@@ -67928,16 +67216,82 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "dr-reddy-s-venusia-itm66ec486c9a750",
-  "brand": "Dr. Reddy's Venusia",
-  "model": "Max Intensive Moisturizing Cream For Dry Skin …",
-  "price": 1212,
-  "capacityLine": "600 g (pack of 2)",
+  "id": "excela-itm441d9017cbe18",
+  "brand": "Excela",
+  "model": "Max Moisturiser (200 g)",
+  "price": 471,
+  "capacityLine": "200 g",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream / gel · ₹202/100g",
-  "highlight": "Live Flipkart listing rated 4.5★ by 293 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "featureLine": "Cream / gel · ₹236/100g",
+  "highlight": "Live Flipkart listing rated 4.5★ by 385 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [
-   "Good value: ₹202/100g",
+   "Good value: ₹236/100g",
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.1,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "200 g",
+   "pricePer100": "₹236/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "4.5/5 (385 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/kcp4osw0/moisturizer-cream/m/z/p/200-max-moisturiser-excela-cream-original-imaftrhhnqwm4sqb.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/2/q/200-max-moisturiser-for-dry-and-itchy-skin-excela-lotion-original-imagx462fnrhfs8u.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/k/o/200-excelamax-moisturser-excela-lotion-original-imahhhywavkwgabh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/k/s/50-for-acne-prone-skin-excela-cream-original-imahntgjz68tyfcz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/d/n/200-excela-max-moisturiser-intense-hydration-for-dry-itchy-skin-original-imahdwzuzhkuzxbt.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/excela-max-moisturiser/p/itm441d9017cbe18",
+  "buyStore": "Flipkart",
+  "title": "Excela Max Moisturiser (200 g)",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "claim:acne",
+   "claim:hydrating",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "aurelderma-itma6d66ecf3a714",
+  "brand": "Aurelderma",
+  "model": "Seboedge Mattifying Moisturizer (50 g)",
+  "price": 301,
+  "capacityLine": "50 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream / gel · ₹602/100g",
+  "highlight": "Live Flipkart listing rated 4.5★ by 13 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
    "Strong buyer rating (4.5)"
   ],
   "cons": [
@@ -67951,8 +67305,8 @@ const CTPRODUCTS = [
    "experience": 4.6
   },
   "fullSpec": {
-   "quantity": "300 g × 2 pack",
-   "pricePer100": "₹202/100g",
+   "quantity": "50 g",
+   "pricePer100": "₹602/100g",
    "format": "Cream / gel",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -67962,30 +67316,993 @@ const CTPRODUCTS = [
    "audience": "Marketed for women",
    "naturalClaim": "Not stated in listing",
    "skinType": "All Skin Types",
-   "rating": "4.5/5 (293 ratings, Flipkart)",
-   "madeIn": "India"
+   "rating": "4.5/5 (13 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/z/g/300-max-intensive-moisturizing-cream-for-dry-skin-to-very-dry-original-imahkjrzf8j2aywu.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/v/6/300-max-intensive-moisturizing-cream-for-dry-skin-to-very-dry-original-imahkjrzageyvc7f.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/b/p/300-max-intensive-moisturizing-cream-for-dry-skin-to-very-dry-original-imahkjrznfdhhe2r.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/g/r/300-max-intensive-moisturizing-cream-for-dry-skin-to-very-dry-original-imahkjrzfnsstgsg.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/v/t/300-max-intensive-moisturizing-cream-for-dry-skin-to-very-dry-original-imahkjrzjmkmvmjb.jpeg?q=90"
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/n/p/50-by-seboedge-mattifying-moisturizing-cream-auralife-cream-original-imah2gh5ndvhsktg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/i/j/50-seboedge-aurelderma-cream-original-imahm6grbhpg9agv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/p/1/50-seboedge-mattifying-moisturizer-50gm-aurelderma-cream-original-imagmnfu6vrhzf64.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/o/o/u/50-allay-cream-aurelderma-original-imahhgyhqgsxhfeh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/x/f/100-by-euskin-cream-auralife-cream-original-imah29u97rqfadaz.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/dr-reddy-s-venusia-max-intensive-moisturizing-cream-dry-skin-very-skin-150-gmxpack-2/p/itm66ec486c9a750",
+  "buyUrl": "https://www.flipkart.com/aurelderma-seboedge-mattifying-moisturizer/p/itma6d66ecf3a714",
   "buyStore": "Flipkart",
-  "title": "Dr. Reddy's Venusia Max Intensive Moisturizing Cream For Dry Skin …",
+  "title": "Aurelderma Seboedge Mattifying Moisturizer (50 g)",
   "tags": [
    "scope:both",
    "format:cream",
-   "format:kit",
+   "claim:oil-control",
    "claim:hydrating",
-   "claim:dry-skin-relief",
-   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "biocare-itme8rcbrwzz7vmy",
+  "brand": "BIOCARE",
+  "model": "Vitamine E,A,B5 Intensive Moisturizing Cream (500 ml)",
+  "price": 171,
+  "capacityLine": "500 ml",
+  "materialLine": "vitamin E",
+  "featureLine": "Cream / gel · Paraben-free · ₹34/100ml",
+  "highlight": "Live Flipkart listing rated 3.8★ by 301 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹34/100ml",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Mixed buyer rating (3.8)",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4.6,
+   "ingredients": 4.7,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "500 ml",
+   "pricePer100": "₹34/100ml",
+   "format": "Cream / gel",
+   "keyIngredients": "vitamin E (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "3.8/5 (301 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/kovsvbk0/moisturizer-cream/j/g/z/500-vitamine-e-a-b5-intensive-moisturizing-cream-cream-biocare-original-imag38ra9afkmbh3.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/kovsvbk0/moisturizer-cream/a/k/u/500-vitamine-e-a-b5-intensive-moisturizing-cream-cream-biocare-original-imag38ratmpwprea.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/j9pyaa80/moisturizer-cream/9/z/d/500-almond-nourshing-cream-with-almond-biocare-original-imaezfamzmn4fcm9.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/jabdw280/moisturizer-cream/v/t/6/500-foot-spa-with-organic-peppermint-shea-butter-honey-cream-original-imaezuspetd6rszt.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/jx257680/moisturizer-cream/q/d/x/500-diamond-face-body-cream-pack-of-2-biocare-cream-original-imafhkqpvcx9kemg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/biocare-vitamine-e-a-b5-intensive-moisturizing-cream/p/itme8rcbrwzz7vmy",
+  "buyStore": "Flipkart",
+  "title": "BIOCARE Vitamine E,A,B5 Intensive Moisturizing Cream (500 ml)",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "ing:vitamin-e",
+   "claim:whitening-claim",
+   "claim:hydrating",
+   "free:paraben",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:3.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "bioderma-itm5e46df54bde9b",
+  "brand": "Bioderma",
+  "model": "Atoderm Creme Ultra-Nourishing Moisturizer For Normal To …",
+  "price": 400,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream / gel",
+  "highlight": "Live Flipkart listing rated 4.4★ by 12,501 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Strong buyer rating (4.4)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.6,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream / gel",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (12,501 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/l/i/500-atoderm-creme-ultra-nourishing-moisturizer-for-normal-to-original-imahggcfspk5bh9d.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/j/m/500-atoderm-creme-ultra-nourishing-moisturizer-for-normal-to-original-imahggcfah9vwfev.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/l/v/500-atoderm-creme-ultra-nourishing-moisturizer-for-normal-to-original-imahggcf8jvgxqme.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/y/2/500-atoderm-creme-ultra-nourishing-moisturizer-for-normal-to-original-imahggcfffxzcmfx.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/m/f/500-atoderm-creme-ultra-nourishing-moisturizer-for-normal-to-original-imahggcfk2k5zzrn.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/bioderma-atoderm-creme-ultra-nourishing-moisturizer-normal-sensitive-dry-skin/p/itm5e46df54bde9b",
+  "buyStore": "Flipkart",
+  "title": "BIODERMA Atoderm Creme Ultra-Nourishing Moisturizer For Normal To …",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "claim:hydrating",
+   "aud:unisex",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "absderma-itm0671568edba64",
+  "brand": "ABSDERMA",
+  "model": "Moisturizing Cream for Face & Body – 200ml Hydration Car …",
+  "price": 432,
+  "capacityLine": "400 ml (pack of 2)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Essence · ₹108/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹108/100ml"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4.3,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "200 ml × 2 pack",
+   "pricePer100": "₹108/100ml",
+   "format": "Essence",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/s/r/200-moisturizing-cream-for-face-body-200ml-hydration-care-original-imahhe85msghj6sm.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/d/u/200-moisturizing-cream-for-face-body-200ml-hydration-care-original-imahhe85avu7wynf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/e/t/200-moisturizing-cream-for-face-body-200ml-hydration-care-original-imahhe85jk4ahfxw.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/t/l/200-moisturizing-cream-for-face-body-200ml-hydration-care-original-imahhe85ftpjjdew.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/j/q/200-moisturizing-cream-for-face-body-200ml-hydration-care-original-imahhe853ebnz2rg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/absderma-moisturizing-cream-face-body-200ml-hydration-care/p/itm0671568edba64",
+  "buyStore": "Flipkart",
+  "title": "ABSDERMA Moisturizing Cream for Face & Body – 200ml Hydration Car …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:essence",
+   "format:pack",
+   "format:kit",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:whitening-claim",
+   "claim:hydrating",
+   "claim:ayurvedic",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itm8984b93b4067a",
+  "brand": "Nivea",
+  "model": "Body Milk, Lotion Moisturizer, with Hyaluronic acid, Moistu …",
+  "price": 108,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "hyaluronic acid",
+  "featureLine": "Lotion",
+  "highlight": "Live Flipkart listing rated 4.4★ by 2,70,980 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.4)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.6,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Lotion",
+   "keyIngredients": "hyaluronic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (2,70,980 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/g/e/-enriched-transparent-original-imahgdx2bdpzve7b.png?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/n/g/-original-imahgdx2ws3aytcs.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/z/8/-original-imahgdx2zkrd8g6d.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/o/5/-original-imahdh7jhcgasmzf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/g/2/-original-imahgdx2e3u3saqy.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-body-milk-lotion-moisturizer-hyaluronic-acid-moisture-serum-men-women/p/itm8984b93b4067a",
+  "buyStore": "Flipkart",
+  "title": "NIVEA Body Milk, Lotion Moisturizer, with Hyaluronic acid, Moistu …",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:hyaluronic-acid",
+   "ing:milk",
+   "claim:hydrating",
+   "aud:unisex",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "nivea-itmexpdthstpfbfv",
+  "brand": "NIVEA",
+  "model": "SOFT LIGHT MOISTURIZER 100ML + BODY MILK NOURISHING BODY LO …",
+  "price": 364,
+  "capacityLine": "100 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Balm / butter · ₹364/100ml",
+  "highlight": "Live Flipkart listing rated 4.3★ by 546 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Dermatologically tested (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 7,
+   "skin": 4.7,
+   "ingredients": 4.3,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹364/100ml",
+   "format": "Balm / butter",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "4.3/5 (546 ratings, Flipkart)",
+   "madeIn": "India"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/k9ej53k0/moisturizer-cream/8/9/z/250-nourishing-body-milk-body-lotion-200-ml-soft-light-original-imafr7a9bqzshhvp.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/7/m/140-gluta-hya-dewy-radiance-serum-in-moisturiser-lotion-70g-x-2n-original-imahqr8g5aradqmb.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/l/y/f/400-nourishing-lotion-body-milk-400ml-lotion-nivea-original-imahec29cqzfaueq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/o/w/-original-imahjjvnyrghvayd.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-soft-light-moisturizer-100ml-body-milk-nourishing-lotion-200ml/p/itmexpdthstpfbfv",
+  "buyStore": "Flipkart",
+  "title": "NIVEA SOFT LIGHT MOISTURIZER 100ML + BODY MILK NOURISHING BODY LO …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:balm",
+   "ing:milk",
+   "claim:hydrating",
+   "free:derm",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itm852811eaf06a2",
+  "brand": "NIVEA",
+  "model": "Combo Body Milk Lotion, Moisturizer, Hyaluronic acid & Soft …",
+  "price": 832,
+  "capacityLine": "800 ml",
+  "materialLine": "hyaluronic acid + vitamin E",
+  "featureLine": "Sunscreen · SPF 15 · ₹104/100ml",
+  "highlight": "Live Flipkart listing rated 4.5★ by 2,187 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹104/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.8,
+   "skin": 4.5,
+   "ingredients": 5.8,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "800 ml",
+   "pricePer100": "₹104/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "hyaluronic acid, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Non-comedogenic (per listing)",
+   "benefit": "Hydrating, SPF 15",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "4.5/5 (2,187 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/u/s/800-soft-light-moisturizer-200ml-body-milk-lotion-600ml-pack-of-original-imahcfaque4schcp.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/x/p/-original-imah9ce8by4tad3f.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/f/x/-original-imah9ce8g3fzjmds.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/s/w/-original-imah9ce8dkejgykh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/z/u/-original-imah9mcp4hx6dc9y.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-combo-body-milk-lotion-moisturizer-hyaluronic-acid-soft-spf15-uv-day-cream/p/itm852811eaf06a2",
+  "buyStore": "Flipkart",
+  "title": "NIVEA Combo Body Milk Lotion, Moisturizer, Hyaluronic acid & Soft …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:oil",
+   "format:kit",
+   "spf:15",
+   "ing:hyaluronic-acid",
+   "ing:vitamin-e",
+   "ing:jojoba",
+   "ing:milk",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:long-lasting",
+   "claim:spf-claim",
+   "free:non-comedogenic",
    "skin:all",
    "aud:women",
    "size:xl",
    "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itm5a343146a8c73",
+  "brand": "NIVEA",
+  "model": "SOFT LIGHT MOISTURIZING CREAM 25 ML ( PACK OF 10 ) (250 ml)",
+  "price": 394,
+  "capacityLine": "25 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · ₹1576/100ml",
+  "highlight": "Live Flipkart listing rated 4.2★ by 35 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Strong buyer rating (4.2)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1576/100ml"
+  ],
+  "scores": {
+   "trust": 6.3,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "25 ml",
+   "pricePer100": "₹1576/100ml",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "4.2/5 (35 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/3/y/250-soft-light-moisturizing-cream-25-ml-pack-of-10-nivea-lotion-original-imahggy6mscntgqu.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/h/f/300-soft-light-moisturizing-cream-25-ml-pack-of-12-nivea-lotion-original-imahggy7zj5euryh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/a/m/200-gluta-hya-flawless-glow-non-sticky-serum-in-lotion-vaseline-original-imahzmgyyzyetzfd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/p/q/300-soft-light-moisturizing-cream-50-ml-pack-of-6-nivea-lotion-original-imahggyazfed6a7z.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/5/6/200-soft-light-moisturizing-cream-50-ml-pack-of-4-nivea-lotion-original-imahggy8ckpshgkz.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-soft-light-moisturizing-cream-25-ml-pack-10/p/itm5a343146a8c73",
+  "buyStore": "Flipkart",
+  "title": "NIVEA SOFT LIGHT MOISTURIZING CREAM 25 ML ( PACK OF 10 ) (250 ml)",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:lotion",
+   "format:kit",
+   "claim:hydrating",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "7days-natural-itm17ab43c2d6b72",
+  "brand": "7days natural",
+  "model": "Moisturizer for women Advance Ultra Hydrating Lotio …",
+  "price": 155,
+  "capacityLine": "100 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · ₹155/100ml",
+  "highlight": "Live Flipkart listing rated 4.7★ by 140 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹155/100ml",
+   "Strong buyer rating (4.7)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 4.3,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹155/100ml",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Dry Skin, Sensitive Skin",
+   "rating": "4.7/5 (140 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/j/j/100-moisturizer-for-women-advance-ultra-hydrating-lotion-dry-original-imahzdzeck32pwyf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/m/o/100-moisturizer-for-women-advance-ultra-hydrating-lotion-dry-original-imahj5qvqqf5h62b.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/g/9/100-moisturizer-for-women-advance-ultra-hydrating-lotion-dry-original-imahj5qv7z5ffv8e.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/e/i/100-moisturizer-for-women-advance-ultra-hydrating-lotion-dry-original-imahj5qvdgzhzbvr.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/v/u/100-moisturizer-for-women-advance-ultra-hydrating-lotion-dry-original-imahj5qvtcyexc5a.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/7days-natural-moisturizer-women-advance-ultra-hydrating-lotion-dry-skin-barrier-repair/p/itm17ab43c2d6b72",
+  "buyStore": "Flipkart",
+  "title": "7days natural Moisturizer for women Advance Ultra Hydrating Lotio …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:barrier",
+   "free:sensitive-safe",
+   "skin:dry",
+   "skin:sensitive",
+   "aud:women",
+   "size:standard",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "slukrl-itm07c9286d4097f",
+  "brand": "slukrl",
+  "model": "Hydrating Moisturizer Lotion for Dry, Normal & Sensitive S …",
+  "price": 135,
+  "capacityLine": "200 g (pack of 2)",
+  "materialLine": "aloe vera",
+  "featureLine": "Oil · Paraben-free · ₹68/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹68/100g",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4.6,
+   "ingredients": 4.7,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g × 2 pack",
+   "pricePer100": "₹68/100g",
+   "format": "Oil",
+   "keyIngredients": "aloe vera (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Dry Skin, Oily Skin, Sensitive Skin, Normal Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/a/0/200-hydrating-moisturizer-lotion-for-dry-normal-sensitive-skin-original-imahj9pch7j8akxf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/r/9/25-itchcoat-malam-for-women-anti-fungal-moisturizing-skin-cream-original-imahkxythugehged.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/8/j/400-mix-nourishing-body-lotion-for-all-skin-types-02-glamblush-original-imahnq7cnxtcfsgn.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/r/x/100-crack-remove-foot-crack-cream-100-gm-fezona-cream-original-imagrdzfhpkgkptc.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/l/h/advansed-deep-nourish-body-lotion-fresh-feel-moisturiser-all-original-imah4svnhqbysbe6.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/slukrl-hydrating-moisturizer-lotion-dry-normal-sensitive-skin-daily-use/p/itm07c9286d4097f",
+  "buyStore": "Flipkart",
+  "title": "slukrl Hydrating Moisturizer Lotion for Dry, Normal & Sensitive S …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:balm",
+   "format:kit",
+   "ing:aloe-vera",
+   "ing:cocoa-butter",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:ayurvedic",
+   "free:paraben",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:sensitive",
+   "skin:normal",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "slukrl-itm38c181aa86f21",
+  "brand": "slukrl",
+  "model": "Moisturizer Lotion with Vitamin E for Dry, Normal & Sensit …",
+  "price": 170,
+  "capacityLine": "3000 g (pack of 6)",
+  "materialLine": "petrolatum + honey + almond",
+  "featureLine": "Oil · Paraben-free · ₹6/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹6/100g",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4.6,
+   "ingredients": 6.3,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "500 g × 6 pack",
+   "pricePer100": "₹6/100g",
+   "format": "Oil",
+   "keyIngredients": "petrolatum, honey, almond, vitamin E (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Dry Skin, Oily Skin, Sensitive Skin, Normal Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/u/c/450-moisturizer-lotion-with-vitamin-e-for-dry-normal-sensitive-original-imahhqpwdubkyc9w.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/d/0/700-moisture-lock-coconut-milk-serum-lotion-restore-radiance-original-imahfc3epcmzm7fb.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/t/7/700-moisture-lock-coconut-milk-serum-lotion-restore-radiance-original-imahfc3ef8gyfeqy.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/3/6/700-moisture-lock-coconut-milk-serum-lotion-restore-radiance-original-imahfc3es7z6gyxq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/6/6/700-moisture-lock-coconut-milk-serum-lotion-restore-radiance-original-imahfc3ejh3zkpqk.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/slukrl-moisturizer-lotion-vitamin-e-dry-normal-sensitive-skin-use/p/itm38c181aa86f21",
+  "buyStore": "Flipkart",
+  "title": "slukrl Moisturizer Lotion with Vitamin E for Dry, Normal & Sensit …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:pack",
+   "format:kit",
+   "ing:petrolatum",
+   "ing:honey",
+   "ing:almond",
+   "ing:vitamin-e",
+   "ing:glycerin",
+   "ing:coconut",
+   "ing:milk",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "free:paraben",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:sensitive",
+   "skin:normal",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "slukrl-itmce14479ebe787",
+  "brand": "slukrl",
+  "model": "Lightweight Moisturizer Lotion for Dry, Normal & Sensitive …",
+  "price": 168,
+  "capacityLine": "50 g",
+  "materialLine": "aloe vera + turmeric + sandalwood",
+  "featureLine": "Oil · Paraben-free · ₹336/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4.6,
+   "ingredients": 6.3,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹336/100g",
+   "format": "Oil",
+   "keyIngredients": "aloe vera, turmeric, sandalwood, honey, almond, vitamin E (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Dry Skin, Oily Skin, Sensitive Skin, Normal Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/7/q/450-lightweight-moisturizer-lotion-for-dry-normal-sensitive-skin-original-imahhqpwbyytquu6.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/d/0/700-moisture-lock-coconut-milk-serum-lotion-restore-radiance-original-imahfc3epcmzm7fb.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/t/7/700-moisture-lock-coconut-milk-serum-lotion-restore-radiance-original-imahfc3ef8gyfeqy.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/3/6/700-moisture-lock-coconut-milk-serum-lotion-restore-radiance-original-imahfc3es7z6gyxq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/6/6/700-moisture-lock-coconut-milk-serum-lotion-restore-radiance-original-imahfc3ejh3zkpqk.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/slukrl-lightweight-moisturizer-lotion-dry-normal-sensitive-skin-fresh-glow/p/itmce14479ebe787",
+  "buyStore": "Flipkart",
+  "title": "slukrl Lightweight Moisturizer Lotion for Dry, Normal & Sensitive …",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:lotion",
+   "format:balm",
+   "format:pack",
+   "format:kit",
+   "ing:aloe-vera",
+   "ing:turmeric",
+   "ing:sandalwood",
+   "ing:honey",
+   "ing:almond",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:lightweight",
+   "free:paraben",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:sensitive",
+   "skin:normal",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "alovit-itmb18194299b754",
+  "brand": "Alovit",
+  "model": "Moisturizing Cream PACK OF 2 (60 g)",
+  "price": 278,
+  "capacityLine": "120 g (pack of 2)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹232/100g",
+  "highlight": "Live Flipkart listing rated 4.5★ by 26 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹232/100g",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.5,
+   "skin": 5.3,
+   "ingredients": 4.3,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "60 g × 2 pack",
+   "pricePer100": "₹232/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Dry Skin, Normal Skin, Sensitive Skin",
+   "rating": "4.5/5 (26 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/y/j/120-alovit-moisturising-cream-60gm-pack-of-2-connote-cream-original-imagr894s22ffqus.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/k/j/120-alovit-moisturising-cream-60gm-pack-of-2-connote-cream-original-imagr82kmcs26hj4.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/3/a/120-alovit-moisturising-cream-60gm-pack-of-2-connote-cream-original-imah6esf53mkp4ba.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/y/u/120-alovit-moisturising-cream-60gm-pack-of-2-connote-cream-original-imahegycca7zmhm8.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/1/b/200-new-alovit-moisturzing-lotion-100ml-pack-of-2-connote-lotion-original-imagr89yhkkrgkjh.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/alovit-moisturizing-cream-pack-2/p/itmb18194299b754",
+  "buyStore": "Flipkart",
+  "title": "Alovit Moisturizing Cream PACK OF 2 (60 g)",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:kit",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:long-lasting",
+   "free:paraben",
+   "free:derm",
+   "free:sensitive-safe",
+   "skin:dry",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "vvqvv-itm44168bab68a23",
+  "brand": "vvqvv",
+  "model": "Eczmar Hydrating Cream: Rejuvenate and Moisturize Your Skin …",
+  "price": 109,
+  "capacityLine": "50 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream / gel · ₹218/100g",
+  "highlight": "Live Flipkart listing rated 4.3★ by 3 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹218/100g",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.7,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹218/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Anti-aging claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "4.3/5 (3 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/s/s/50-eczmar-moisturizing-cream-for-ultimate-skin-hydration-and-original-imah935mgfk9zqa5.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/y/1/50-eczmar-moisturizing-cream-for-ultimate-skin-hydration-and-original-imah935hy4qmzwfd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/o/p/50-eczem-aron-anti-fungl-cream-premium-quality-non-irritating-original-imahh6gxbgmnsygj.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/k/q/50-eczema-antifungal-cream-herbal-cream-for-professional-care-original-imahh6gwuep4u9cf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/kkvhea80/moisturizer-cream/g/e/p/200-intense-moisturizing-cream-baidyanath-cream-original-imagy4e53fuym222.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/vvqvv-eczmar-hydrating-cream-rejuvenate-moisturize-your-skin/p/itm44168bab68a23",
+  "buyStore": "Flipkart",
+  "title": "vvqvv Eczmar Hydrating Cream: Rejuvenate and Moisturize Your Skin …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
    "store:flipkart"
   ],
   "filters": {
@@ -68079,970 +68396,16 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "vvqvv-itm44168bab68a23",
-  "brand": "vvqvv",
-  "model": "Eczmar Hydrating Cream: Rejuvenate and Moisturize Your Skin …",
-  "price": 109,
-  "capacityLine": "50 g",
+  "id": "dr-reddy-s-venusia-itm66ec486c9a750",
+  "brand": "Dr. Reddy's Venusia",
+  "model": "Max Intensive Moisturizing Cream For Dry Skin …",
+  "price": 1212,
+  "capacityLine": "600 g (pack of 2)",
   "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream / gel · ₹218/100g",
-  "highlight": "Live Flipkart listing rated 4.3★ by 3 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "featureLine": "Cream / gel · ₹202/100g",
+  "highlight": "Live Flipkart listing rated 4.5★ by 293 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [
-   "Good value: ₹218/100g",
-   "Strong buyer rating (4.3)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 4.7,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹218/100g",
-   "format": "Cream / gel",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Anti-aging claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
-   "rating": "4.3/5 (3 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/s/s/50-eczmar-moisturizing-cream-for-ultimate-skin-hydration-and-original-imah935mgfk9zqa5.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/y/1/50-eczmar-moisturizing-cream-for-ultimate-skin-hydration-and-original-imah935hy4qmzwfd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/o/p/50-eczem-aron-anti-fungl-cream-premium-quality-non-irritating-original-imahh6gxbgmnsygj.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/k/q/50-eczema-antifungal-cream-herbal-cream-for-professional-care-original-imahh6gwuep4u9cf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/kkvhea80/moisturizer-cream/g/e/p/200-intense-moisturizing-cream-baidyanath-cream-original-imagy4e53fuym222.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/vvqvv-eczmar-hydrating-cream-rejuvenate-moisturize-your-skin/p/itm44168bab68a23",
-  "buyStore": "Flipkart",
-  "title": "vvqvv Eczmar Hydrating Cream: Rejuvenate and Moisturize Your Skin …",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "claim:anti-aging",
-   "claim:hydrating",
-   "free:sensitive-safe",
-   "skin:oily",
-   "skin:dry",
-   "skin:combination",
-   "skin:sensitive",
-   "skin:normal",
-   "skin:all",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "alovit-itmb18194299b754",
-  "brand": "Alovit",
-  "model": "Moisturizing Cream PACK OF 2 (60 g)",
-  "price": 278,
-  "capacityLine": "120 g (pack of 2)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Scrub / exfoliant · Paraben-free · ₹232/100g",
-  "highlight": "Live Flipkart listing rated 4.5★ by 26 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹232/100g",
-   "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
-  "cons": [
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 5.5,
-   "skin": 5.3,
-   "ingredients": 4.3,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "60 g × 2 pack",
-   "pricePer100": "₹232/100g",
-   "format": "Scrub / exfoliant",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types, Dry Skin, Normal Skin, Sensitive Skin",
-   "rating": "4.5/5 (26 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/y/j/120-alovit-moisturising-cream-60gm-pack-of-2-connote-cream-original-imagr894s22ffqus.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/k/j/120-alovit-moisturising-cream-60gm-pack-of-2-connote-cream-original-imagr82kmcs26hj4.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/3/a/120-alovit-moisturising-cream-60gm-pack-of-2-connote-cream-original-imah6esf53mkp4ba.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/1/b/200-new-alovit-moisturzing-lotion-100ml-pack-of-2-connote-lotion-original-imagr89yhkkrgkjh.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/y/u/120-alovit-moisturising-cream-60gm-pack-of-2-connote-cream-original-imahegycca7zmhm8.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/alovit-moisturizing-cream-pack-2/p/itmb18194299b754",
-  "buyStore": "Flipkart",
-  "title": "Alovit Moisturizing Cream PACK OF 2 (60 g)",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:lotion",
-   "format:kit",
-   "claim:brightening",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "claim:long-lasting",
-   "free:paraben",
-   "free:derm",
-   "free:sensitive-safe",
-   "skin:dry",
-   "skin:sensitive",
-   "skin:normal",
-   "skin:all",
-   "aud:women",
-   "size:standard",
-   "rating:4.5",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": true,
-   "natural": true,
-   "derm": true,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "slukrl-itmce14479ebe787",
-  "brand": "slukrl",
-  "model": "Lightweight Moisturizer Lotion for Dry, Normal & Sensitive …",
-  "price": 168,
-  "capacityLine": "50 g",
-  "materialLine": "aloe vera + vitamin E",
-  "featureLine": "Oil · Paraben-free · ₹336/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Paraben-free (per listing)"
-  ],
-  "cons": [
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 5.1,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹336/100g",
-   "format": "Oil",
-   "keyIngredients": "aloe vera, vitamin E (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Dry Skin, Oily Skin, Sensitive Skin, Normal Skin",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/7/q/450-lightweight-moisturizer-lotion-for-dry-normal-sensitive-skin-original-imahhqpwbyytquu6.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/d/0/700-moisture-lock-coconut-milk-serum-lotion-restore-radiance-original-imahfc3epcmzm7fb.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/t/7/700-moisture-lock-coconut-milk-serum-lotion-restore-radiance-original-imahfc3ef8gyfeqy.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/3/6/700-moisture-lock-coconut-milk-serum-lotion-restore-radiance-original-imahfc3es7z6gyxq.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/6/6/700-moisture-lock-coconut-milk-serum-lotion-restore-radiance-original-imahfc3ejh3zkpqk.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/slukrl-lightweight-moisturizer-lotion-dry-normal-sensitive-skin-fresh-glow/p/itmce14479ebe787",
-  "buyStore": "Flipkart",
-  "title": "slukrl Lightweight Moisturizer Lotion for Dry, Normal & Sensitive …",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "format:cream",
-   "format:lotion",
-   "format:oil",
-   "ing:aloe-vera",
-   "ing:vitamin-e",
-   "claim:brightening",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:soothing",
-   "claim:lightweight",
-   "free:paraben",
-   "free:sensitive-safe",
-   "skin:oily",
-   "skin:dry",
-   "skin:sensitive",
-   "skin:normal",
-   "aud:women",
-   "size:travel",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "slukrl-itm38c181aa86f21",
-  "brand": "slukrl",
-  "model": "Moisturizer Lotion with Vitamin E for Dry, Normal & Sensit …",
-  "price": 170,
-  "capacityLine": "600 g (pack of 6)",
-  "materialLine": "honey + almond + vitamin E",
-  "featureLine": "Oil · Paraben-free · ₹28/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹28/100g",
-   "Paraben-free (per listing)"
-  ],
-  "cons": [
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 5.5,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "100 g × 6 pack",
-   "pricePer100": "₹28/100g",
-   "format": "Oil",
-   "keyIngredients": "honey, almond, vitamin E (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Dry Skin, Oily Skin, Sensitive Skin, Normal Skin",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/u/c/450-moisturizer-lotion-with-vitamin-e-for-dry-normal-sensitive-original-imahhqpwdubkyc9w.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/d/0/700-moisture-lock-coconut-milk-serum-lotion-restore-radiance-original-imahfc3epcmzm7fb.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/t/7/700-moisture-lock-coconut-milk-serum-lotion-restore-radiance-original-imahfc3ef8gyfeqy.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/3/6/700-moisture-lock-coconut-milk-serum-lotion-restore-radiance-original-imahfc3es7z6gyxq.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/6/6/700-moisture-lock-coconut-milk-serum-lotion-restore-radiance-original-imahfc3ejh3zkpqk.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/slukrl-moisturizer-lotion-vitamin-e-dry-normal-sensitive-skin-use/p/itm38c181aa86f21",
-  "buyStore": "Flipkart",
-  "title": "slukrl Moisturizer Lotion with Vitamin E for Dry, Normal & Sensit …",
-  "tags": [
-   "scope:both",
-   "format:gel",
-   "format:cream",
-   "format:lotion",
-   "format:oil",
-   "format:pack",
-   "format:kit",
-   "ing:honey",
-   "ing:almond",
-   "ing:vitamin-e",
-   "ing:coconut",
-   "ing:milk",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:ayurvedic",
-   "free:paraben",
-   "free:sensitive-safe",
-   "skin:oily",
-   "skin:dry",
-   "skin:sensitive",
-   "skin:normal",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "slukrl-itm07c9286d4097f",
-  "brand": "slukrl",
-  "model": "Hydrating Moisturizer Lotion for Dry, Normal & Sensitive S …",
-  "price": 135,
-  "capacityLine": "400 ml (pack of 2)",
-  "materialLine": "aloe vera",
-  "featureLine": "Oil · Paraben-free · ₹34/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹34/100ml",
-   "Paraben-free (per listing)"
-  ],
-  "cons": [
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 4.4,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "200 ml × 2 pack",
-   "pricePer100": "₹34/100ml",
-   "format": "Oil",
-   "keyIngredients": "aloe vera (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Dry Skin, Oily Skin, Sensitive Skin, Normal Skin",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/a/0/200-hydrating-moisturizer-lotion-for-dry-normal-sensitive-skin-original-imahj9pch7j8akxf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/r/9/25-itchcoat-malam-for-women-anti-fungal-moisturizing-skin-cream-original-imahkxythugehged.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/8/j/400-mix-nourishing-body-lotion-for-all-skin-types-02-glamblush-original-imahnq7cnxtcfsgn.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/r/x/100-crack-remove-foot-crack-cream-100-gm-fezona-cream-original-imagrdzfhpkgkptc.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/l/h/advansed-deep-nourish-body-lotion-fresh-feel-moisturiser-all-original-imah4svnhqbysbe6.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/slukrl-hydrating-moisturizer-lotion-dry-normal-sensitive-skin-daily-use/p/itm07c9286d4097f",
-  "buyStore": "Flipkart",
-  "title": "slukrl Hydrating Moisturizer Lotion for Dry, Normal & Sensitive S …",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:lotion",
-   "format:oil",
-   "format:balm",
-   "format:kit",
-   "ing:aloe-vera",
-   "ing:cocoa-butter",
-   "claim:oil-control",
-   "claim:hydrating",
-   "free:paraben",
-   "free:sensitive-safe",
-   "skin:oily",
-   "skin:dry",
-   "skin:sensitive",
-   "skin:normal",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": true,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "7days-natural-itm17ab43c2d6b72",
-  "brand": "7days natural",
-  "model": "Moisturizer for women Advance Ultra Hydrating Lotio …",
-  "price": 155,
-  "capacityLine": "100 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · ₹155/100ml",
-  "highlight": "Live Flipkart listing rated 4.7★ by 140 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹155/100ml",
-   "Strong buyer rating (4.7)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 5.1,
-   "skin": 4,
-   "ingredients": 4.3,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹155/100ml",
-   "format": "Lotion",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Dry Skin, Sensitive Skin",
-   "rating": "4.7/5 (140 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/j/j/100-moisturizer-for-women-advance-ultra-hydrating-lotion-dry-original-imahzdzeck32pwyf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/m/o/100-moisturizer-for-women-advance-ultra-hydrating-lotion-dry-original-imahj5qvqqf5h62b.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/g/9/100-moisturizer-for-women-advance-ultra-hydrating-lotion-dry-original-imahj5qv7z5ffv8e.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/e/i/100-moisturizer-for-women-advance-ultra-hydrating-lotion-dry-original-imahj5qvdgzhzbvr.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/v/u/100-moisturizer-for-women-advance-ultra-hydrating-lotion-dry-original-imahj5qvtcyexc5a.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/7days-natural-moisturizer-women-advance-ultra-hydrating-lotion-dry-skin-barrier-repair/p/itm17ab43c2d6b72",
-  "buyStore": "Flipkart",
-  "title": "7days natural Moisturizer for women Advance Ultra Hydrating Lotio …",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:lotion",
-   "claim:brightening",
-   "claim:de-tan",
-   "claim:anti-aging",
-   "claim:hydrating",
-   "claim:barrier",
-   "free:sensitive-safe",
-   "skin:dry",
-   "skin:sensitive",
-   "aud:women",
-   "size:standard",
-   "rating:4.5",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itm5a343146a8c73",
-  "brand": "NIVEA",
-  "model": "SOFT LIGHT MOISTURIZING CREAM 25 ML ( PACK OF 10 ) (250 ml)",
-  "price": 394,
-  "capacityLine": "25 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Lotion · ₹1576/100ml",
-  "highlight": "Live Flipkart listing rated 4.2★ by 35 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Strong buyer rating (4.2)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1576/100ml"
-  ],
-  "scores": {
-   "trust": 6.3,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "25 ml",
-   "pricePer100": "₹1576/100ml",
-   "format": "Lotion",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "4.2/5 (35 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/3/y/250-soft-light-moisturizing-cream-25-ml-pack-of-10-nivea-lotion-original-imahggy6mscntgqu.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/h/f/300-soft-light-moisturizing-cream-25-ml-pack-of-12-nivea-lotion-original-imahggy7zj5euryh.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/a/m/200-gluta-hya-flawless-glow-non-sticky-serum-in-lotion-vaseline-original-imahzmgyyzyetzfd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/p/q/300-soft-light-moisturizing-cream-50-ml-pack-of-6-nivea-lotion-original-imahggyazfed6a7z.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/5/6/200-soft-light-moisturizing-cream-50-ml-pack-of-4-nivea-lotion-original-imahggy8ckpshgkz.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-soft-light-moisturizing-cream-25-ml-pack-10/p/itm5a343146a8c73",
-  "buyStore": "Flipkart",
-  "title": "NIVEA SOFT LIGHT MOISTURIZING CREAM 25 ML ( PACK OF 10 ) (250 ml)",
-  "tags": [
-   "scope:body",
-   "format:cream",
-   "format:lotion",
-   "format:kit",
-   "claim:hydrating",
-   "skin:all",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itm852811eaf06a2",
-  "brand": "NIVEA",
-  "model": "Combo Body Milk Lotion, Moisturizer, Hyaluronic acid & Soft …",
-  "price": 832,
-  "capacityLine": "800 ml",
-  "materialLine": "hyaluronic acid + vitamin E",
-  "featureLine": "Sunscreen · SPF 15 · ₹104/100ml",
-  "highlight": "Live Flipkart listing rated 4.5★ by 2,187 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹104/100ml",
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.5)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 6.8,
-   "skin": 4.5,
-   "ingredients": 5.8,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "800 ml",
-   "pricePer100": "₹104/100ml",
-   "format": "Sunscreen",
-   "keyIngredients": "hyaluronic acid, vitamin E (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Non-comedogenic (per listing)",
-   "benefit": "Hydrating, SPF 15",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "4.5/5 (2,187 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/u/s/800-soft-light-moisturizer-200ml-body-milk-lotion-600ml-pack-of-original-imahcfaque4schcp.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/x/p/-original-imah9ce8by4tad3f.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/f/x/-original-imah9ce8g3fzjmds.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/s/w/-original-imah9ce8dkejgykh.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/z/u/-original-imah9mcp4hx6dc9y.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-combo-body-milk-lotion-moisturizer-hyaluronic-acid-soft-spf15-uv-day-cream/p/itm852811eaf06a2",
-  "buyStore": "Flipkart",
-  "title": "NIVEA Combo Body Milk Lotion, Moisturizer, Hyaluronic acid & Soft …",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:lotion",
-   "format:oil",
-   "format:kit",
-   "spf:15",
-   "ing:hyaluronic-acid",
-   "ing:vitamin-e",
-   "ing:jojoba",
-   "ing:milk",
-   "claim:pores",
-   "claim:oil-control",
-   "claim:hydrating",
-   "claim:long-lasting",
-   "claim:spf-claim",
-   "free:non-comedogenic",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:4.5",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itmexpdthstpfbfv",
-  "brand": "NIVEA",
-  "model": "SOFT LIGHT MOISTURIZER 100ML + BODY MILK NOURISHING BODY LO …",
-  "price": 364,
-  "capacityLine": "100 ml",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Balm / butter · ₹364/100ml",
-  "highlight": "Live Flipkart listing rated 4.3★ by 546 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Dermatologically tested (per listing)",
-   "Strong buyer rating (4.3)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 7,
-   "skin": 4.7,
-   "ingredients": 4.3,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "100 ml",
-   "pricePer100": "₹364/100ml",
-   "format": "Balm / butter",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Dermatologically tested (per listing)",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "4.3/5 (546 ratings, Flipkart)",
-   "madeIn": "India"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/t/o/-original-imahm2vvzwgfydjd.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/k9ej53k0/moisturizer-cream/8/9/z/250-nourishing-body-milk-body-lotion-200-ml-soft-light-original-imafr7a9bqzshhvp.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/7/m/140-gluta-hya-dewy-radiance-serum-in-moisturiser-lotion-70g-x-2n-original-imahqr8g5aradqmb.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/l/y/f/400-nourishing-lotion-body-milk-400ml-lotion-nivea-original-imahec29cqzfaueq.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/o/w/-original-imahjjvnyrghvayd.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-soft-light-moisturizer-100ml-body-milk-nourishing-lotion-200ml/p/itmexpdthstpfbfv",
-  "buyStore": "Flipkart",
-  "title": "NIVEA SOFT LIGHT MOISTURIZER 100ML + BODY MILK NOURISHING BODY LO …",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:lotion",
-   "format:balm",
-   "ing:milk",
-   "claim:hydrating",
-   "free:derm",
-   "skin:all",
-   "aud:women",
-   "size:standard",
-   "rating:4.0",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": true,
-   "derm": true,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "nivea-itm8984b93b4067a",
-  "brand": "Nivea",
-  "model": "Body Milk, Lotion Moisturizer, with Hyaluronic acid, Moistu …",
-  "price": 108,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "hyaluronic acid",
-  "featureLine": "Lotion",
-  "highlight": "Live Flipkart listing rated 4.4★ by 2,70,980 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.4)"
-  ],
-  "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 6.6,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Lotion",
-   "keyIngredients": "hyaluronic acid (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.4/5 (2,70,980 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/g/e/-enriched-transparent-original-imahgdx2bdpzve7b.png?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/n/g/-original-imahgdx2ws3aytcs.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/z/8/-original-imahgdx2zkrd8g6d.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/o/5/-original-imahdh7jhcgasmzf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/g/2/-original-imahgdx2e3u3saqy.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/nivea-body-milk-lotion-moisturizer-hyaluronic-acid-moisture-serum-men-women/p/itm8984b93b4067a",
-  "buyStore": "Flipkart",
-  "title": "NIVEA Body Milk, Lotion Moisturizer, with Hyaluronic acid, Moistu …",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "ing:hyaluronic-acid",
-   "ing:milk",
-   "claim:hydrating",
-   "aud:unisex",
-   "rating:4.0",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
-  }
- },
- {
-  "id": "absderma-itm0671568edba64",
-  "brand": "ABSDERMA",
-  "model": "Moisturizing Cream for Face & Body – 200ml Hydration Car …",
-  "price": 432,
-  "capacityLine": "400 ml (pack of 2)",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Essence · ₹108/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹108/100ml"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "200 ml × 2 pack",
-   "pricePer100": "₹108/100ml",
-   "format": "Essence",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/s/r/200-moisturizing-cream-for-face-body-200ml-hydration-care-original-imahhe85msghj6sm.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/d/u/200-moisturizing-cream-for-face-body-200ml-hydration-care-original-imahhe85avu7wynf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/e/t/200-moisturizing-cream-for-face-body-200ml-hydration-care-original-imahhe85jk4ahfxw.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/t/l/200-moisturizing-cream-for-face-body-200ml-hydration-care-original-imahhe85ftpjjdew.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/j/q/200-moisturizing-cream-for-face-body-200ml-hydration-care-original-imahhe853ebnz2rg.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/absderma-moisturizing-cream-face-body-200ml-hydration-care/p/itm0671568edba64",
-  "buyStore": "Flipkart",
-  "title": "ABSDERMA Moisturizing Cream for Face & Body – 200ml Hydration Car …",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "format:essence",
-   "format:pack",
-   "format:kit",
-   "claim:whitening-claim",
-   "claim:hydrating",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:none",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "bioderma-itm5e46df54bde9b",
-  "brand": "Bioderma",
-  "model": "Atoderm Creme Ultra-Nourishing Moisturizer For Normal To …",
-  "price": 400,
-  "capacityLine": "Quantity not stated",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream / gel",
-  "highlight": "Live Flipkart listing rated 4.4★ by 12,501 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Strong buyer rating (4.4)"
-  ],
-  "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 6.6,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "Not stated in listing",
-   "pricePer100": "Not stated in listing",
-   "format": "Cream / gel",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.4/5 (12,501 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/l/i/500-atoderm-creme-ultra-nourishing-moisturizer-for-normal-to-original-imahggcfspk5bh9d.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/j/m/500-atoderm-creme-ultra-nourishing-moisturizer-for-normal-to-original-imahggcfah9vwfev.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/l/v/500-atoderm-creme-ultra-nourishing-moisturizer-for-normal-to-original-imahggcf8jvgxqme.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/y/2/500-atoderm-creme-ultra-nourishing-moisturizer-for-normal-to-original-imahggcfffxzcmfx.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/m/f/500-atoderm-creme-ultra-nourishing-moisturizer-for-normal-to-original-imahggcfk2k5zzrn.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/bioderma-atoderm-creme-ultra-nourishing-moisturizer-normal-sensitive-dry-skin/p/itm5e46df54bde9b",
-  "buyStore": "Flipkart",
-  "title": "BIODERMA Atoderm Creme Ultra-Nourishing Moisturizer For Normal To …",
-  "tags": [
-   "scope:unstated",
-   "format:cream",
-   "claim:hydrating",
-   "aud:unisex",
-   "rating:4.0",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
-  }
- },
- {
-  "id": "biocare-itme8rcbrwzz7vmy",
-  "brand": "BIOCARE",
-  "model": "Vitamine E,A,B5 Intensive Moisturizing Cream (500 ml)",
-  "price": 171,
-  "capacityLine": "500 ml",
-  "materialLine": "vitamin E",
-  "featureLine": "Cream / gel · Paraben-free · ₹34/100ml",
-  "highlight": "Live Flipkart listing rated 3.8★ by 301 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹34/100ml",
-   "Paraben-free (per listing)"
-  ],
-  "cons": [
-   "Mixed buyer rating (3.8)",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 4.7,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "500 ml",
-   "pricePer100": "₹34/100ml",
-   "format": "Cream / gel",
-   "keyIngredients": "vitamin E (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "All Skin Types",
-   "rating": "3.8/5 (301 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/kovsvbk0/moisturizer-cream/j/g/z/500-vitamine-e-a-b5-intensive-moisturizing-cream-cream-biocare-original-imag38ra9afkmbh3.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/kovsvbk0/moisturizer-cream/a/k/u/500-vitamine-e-a-b5-intensive-moisturizing-cream-cream-biocare-original-imag38ratmpwprea.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/j9pyaa80/moisturizer-cream/9/z/d/500-almond-nourshing-cream-with-almond-biocare-original-imaezfamzmn4fcm9.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/jabdw280/moisturizer-cream/v/t/6/500-foot-spa-with-organic-peppermint-shea-butter-honey-cream-original-imaezuspetd6rszt.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/jx257680/moisturizer-cream/q/d/x/500-diamond-face-body-cream-pack-of-2-biocare-cream-original-imafhkqpvcx9kemg.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/biocare-vitamine-e-a-b5-intensive-moisturizing-cream/p/itme8rcbrwzz7vmy",
-  "buyStore": "Flipkart",
-  "title": "BIOCARE Vitamine E,A,B5 Intensive Moisturizing Cream (500 ml)",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "ing:vitamin-e",
-   "claim:whitening-claim",
-   "claim:hydrating",
-   "free:paraben",
-   "skin:all",
-   "aud:women",
-   "size:xl",
-   "rating:3.5",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": true,
-   "natural": true,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "aurelderma-itma6d66ecf3a714",
-  "brand": "Aurelderma",
-  "model": "Seboedge Mattifying Moisturizer (50 g)",
-  "price": 301,
-  "capacityLine": "50 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream / gel · ₹602/100g",
-  "highlight": "Live Flipkart listing rated 4.5★ by 13 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
+   "Good value: ₹202/100g",
    "Strong buyer rating (4.5)"
   ],
   "cons": [
@@ -69056,8 +68419,8 @@ const CTPRODUCTS = [
    "experience": 4.6
   },
   "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹602/100g",
+   "quantity": "300 g × 2 pack",
+   "pricePer100": "₹202/100g",
    "format": "Cream / gel",
    "keyIngredients": "Not stated in listing",
    "freeFrom": "Not stated in listing",
@@ -69067,27 +68430,29 @@ const CTPRODUCTS = [
    "audience": "Marketed for women",
    "naturalClaim": "Not stated in listing",
    "skinType": "All Skin Types",
-   "rating": "4.5/5 (13 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
+   "rating": "4.5/5 (293 ratings, Flipkart)",
+   "madeIn": "India"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/n/p/50-by-seboedge-mattifying-moisturizing-cream-auralife-cream-original-imah2gh5ndvhsktg.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/i/j/50-seboedge-aurelderma-cream-original-imahm6grbhpg9agv.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/p/1/50-seboedge-mattifying-moisturizer-50gm-aurelderma-cream-original-imagmnfu6vrhzf64.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/o/o/u/50-allay-cream-aurelderma-original-imahhgyhqgsxhfeh.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/x/f/100-by-euskin-cream-auralife-cream-original-imah29u97rqfadaz.jpeg?q=90"
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/z/g/300-max-intensive-moisturizing-cream-for-dry-skin-to-very-dry-original-imahkjrzf8j2aywu.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/v/6/300-max-intensive-moisturizing-cream-for-dry-skin-to-very-dry-original-imahkjrzageyvc7f.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/b/p/300-max-intensive-moisturizing-cream-for-dry-skin-to-very-dry-original-imahkjrznfdhhe2r.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/g/r/300-max-intensive-moisturizing-cream-for-dry-skin-to-very-dry-original-imahkjrzfnsstgsg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/v/t/300-max-intensive-moisturizing-cream-for-dry-skin-to-very-dry-original-imahkjrzjmkmvmjb.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/aurelderma-seboedge-mattifying-moisturizer/p/itma6d66ecf3a714",
+  "buyUrl": "https://www.flipkart.com/dr-reddy-s-venusia-max-intensive-moisturizing-cream-dry-skin-very-skin-150-gmxpack-2/p/itm66ec486c9a750",
   "buyStore": "Flipkart",
-  "title": "Aurelderma Seboedge Mattifying Moisturizer (50 g)",
+  "title": "Dr. Reddy's Venusia Max Intensive Moisturizing Cream For Dry Skin …",
   "tags": [
    "scope:both",
    "format:cream",
-   "claim:oil-control",
+   "format:kit",
    "claim:hydrating",
+   "claim:dry-skin-relief",
+   "skin:dry",
    "skin:all",
    "aud:women",
-   "size:travel",
+   "size:xl",
    "rating:4.5",
    "store:flipkart"
   ],
@@ -69101,83 +68466,16 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "excela-itm441d9017cbe18",
-  "brand": "Excela",
-  "model": "Max Moisturiser (200 g)",
-  "price": 471,
-  "capacityLine": "200 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream / gel · ₹236/100g",
-  "highlight": "Live Flipkart listing rated 4.5★ by 385 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹236/100g",
-   "Strong buyer rating (4.5)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 6.1,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "200 g",
-   "pricePer100": "₹236/100g",
-   "format": "Cream / gel",
-   "keyIngredients": "Not stated in listing",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Acne/blemish claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "All Skin Types",
-   "rating": "4.5/5 (385 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://rukminim1.flixcart.com/image/612/612/kcp4osw0/moisturizer-cream/m/z/p/200-max-moisturiser-excela-cream-original-imaftrhhnqwm4sqb.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/2/q/200-max-moisturiser-for-dry-and-itchy-skin-excela-lotion-original-imagx462fnrhfs8u.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/k/o/200-excelamax-moisturser-excela-lotion-original-imahhhywavkwgabh.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/k/s/50-for-acne-prone-skin-excela-cream-original-imahntgjz68tyfcz.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/d/n/200-excela-max-moisturiser-intense-hydration-for-dry-itchy-skin-original-imahdwzuzhkuzxbt.jpeg?q=90"
-  ],
-  "buyUrl": "https://www.flipkart.com/excela-max-moisturiser/p/itm441d9017cbe18",
-  "buyStore": "Flipkart",
-  "title": "Excela Max Moisturiser (200 g)",
-  "tags": [
-   "scope:both",
-   "format:cream",
-   "claim:acne",
-   "claim:hydrating",
-   "skin:all",
-   "aud:women",
-   "size:large",
-   "rating:4.5",
-   "store:flipkart"
-  ],
-  "filters": {
-   "actives": false,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "enmoist-itmf2ea0d6e53f91",
-  "brand": "EnMoist",
-  "model": "AquaRex 100Hours Deep Hydration Moisturizer for Dry & Itc …",
-  "price": 114,
-  "capacityLine": "100 g",
-  "materialLine": "almond + vitamin E",
-  "featureLine": "Oil · Paraben-free · ₹114/100g",
+  "id": "dermistry-itmf57e1656c494e",
+  "brand": "DERMISTRY",
+  "model": "Sensitive & Dry Skin Calming Moisturizer Lotion & Shea …",
+  "price": 450,
+  "capacityLine": "900 ml (pack of 3)",
+  "materialLine": "caffeine + aloe vera + shea butter",
+  "featureLine": "Oil · Paraben-free · ₹50/100ml",
   "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [
-   "Good value: ₹114/100g",
+   "Good value: ₹50/100ml",
    "Paraben-free (per listing)",
    "Dermatologically tested (per listing)"
   ],
@@ -69187,50 +68485,66 @@ const CTPRODUCTS = [
   "scores": {
    "trust": 4.4,
    "skin": 5.3,
-   "ingredients": 5.1,
-   "experience": 4.6
+   "ingredients": 6.1,
+   "experience": 5.2
   },
   "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹114/100g",
+   "quantity": "300 ml × 3 pack",
+   "pricePer100": "₹50/100ml",
    "format": "Oil",
-   "keyIngredients": "almond, vitamin E (per listing)",
+   "keyIngredients": "caffeine, aloe vera, shea butter, vitamin E (per listing)",
    "freeFrom": "Paraben-free (per listing)",
    "dermTested": "Dermatologically tested (per listing)",
    "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
+   "benefit": "Hydrating, Brightening/glow claim",
    "audience": "Marketed for women",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
-   "skinType": "Dry Skin",
+   "skinType": "Dry Skin, Sensitive Skin, Combination Skin, Normal Skin, Oily Skin",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/j/b/100-aquarex-100hours-deep-hydration-moisturizer-for-dry-itchy-original-imahff7hrwzeejyv.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/s/o/100-aquarex-100hours-deep-hydration-moisturizer-for-dry-itchy-original-imahff7hjpnsydzc.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/k/w/100-aquarex-100hours-deep-hydration-moisturizer-for-dry-itchy-original-imahff7hjmkfnk5b.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/y/3/100-aquarex-100hours-deep-hydration-moisturizer-for-dry-itchy-original-imahff7h8cjcuaab.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/j/v/100-aquarex-100hours-deep-hydration-moisturizer-for-dry-itchy-original-imahff7h2ywyuchj.jpeg?q=90"
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/b/3/300-sensitive-dry-skin-calming-shea-kokum-mango-body-butter-original-imahf8krject5qqt.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/j/e/300-mango-shea-kokum-body-butter-sensitive-dry-skin-gentle-sles-original-imahf8gjrnwg2zy3.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/w/j/300-mango-shea-kokum-body-butter-sensitive-dry-skin-gentle-sles-original-imahf8gjkzxw2pyu.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/w/h/200-sensitive-dry-very-skin-intense-hydration-moisturizer-shea-original-imahf8fzzbbbkyz7.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/k/h/200-sensitive-dry-very-skin-intense-hydration-moisturizer-shea-original-imahf8fzqajqhb77.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/enmoist-aquarex-100hours-deep-hydration-moisturizer-dry-itchy-skin/p/itmf2ea0d6e53f91",
+  "buyUrl": "https://www.flipkart.com/dermistry-sensitive-dry-skin-calming-moisturizer-lotion-shea-kokum-mango-body-butter/p/itmf57e1656c494e",
   "buyStore": "Flipkart",
-  "title": "EnMoist AquaRex 100Hours Deep Hydration Moisturizer for Dry & Itc …",
+  "title": "DERMISTRY Sensitive & Dry Skin Calming Moisturizer Lotion & Shea …",
   "tags": [
    "scope:both",
    "format:cream",
    "format:lotion",
    "format:oil",
-   "ing:almond",
+   "format:balm",
+   "format:kit",
+   "ing:collagen",
+   "ing:coffee",
+   "ing:aloe-vera",
+   "ing:shea-butter",
    "ing:vitamin-e",
    "ing:glycerin",
+   "ing:argan-oil",
+   "claim:brightening",
    "claim:oil-control",
    "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:dry-skin-relief",
    "free:paraben",
    "free:derm",
+   "free:vegan",
+   "free:sensitive-safe",
+   "skin:oily",
    "skin:dry",
-   "skin:all",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
    "aud:women",
-   "size:standard",
+   "size:xl",
    "rating:none",
    "store:flipkart"
   ],
@@ -69244,34 +68558,185 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "active-wow-itme7a22ac670bbb",
-  "brand": "Active Wow",
-  "model": "X Emirates Cream Smooth Glow Moisturizing Cream (50 g)",
-  "price": 163,
-  "capacityLine": "50 g",
-  "materialLine": "Key ingredients not stated",
-  "featureLine": "Cream / gel · Paraben-free · ₹326/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "id": "smartdrops-itmeb0576bc8e027",
+  "brand": "smartdrops",
+  "model": "Day & Night Face Moisturizer Cream With Collagen & Ret …",
+  "price": 202,
+  "capacityLine": "200 g",
+  "materialLine": "retinol",
+  "featureLine": "Cream / gel · Paraben-free · ₹101/100g",
+  "highlight": "Live Flipkart listing rated 4.2★ by 5 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [
-   "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)"
+   "Good value: ₹101/100g",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
   ],
   "cons": [
    "Marketplace brand — limited track record"
   ],
   "scores": {
-   "trust": 4.4,
+   "trust": 5,
    "skin": 5.3,
-   "ingredients": 4.3,
+   "ingredients": 5.3,
    "experience": 4.9
   },
   "fullSpec": {
-   "quantity": "50 g",
-   "pricePer100": "₹326/100g",
+   "quantity": "200 g",
+   "pricePer100": "₹101/100g",
    "format": "Cream / gel",
-   "keyIngredients": "Not stated in listing",
+   "keyIngredients": "retinol (per listing)",
    "freeFrom": "Paraben-free (per listing)",
    "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "4.2/5 (5 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/w/e/200-0-day-night-face-cream-for-radiant-spotless-glowing-skin-for-original-imahhayfc5gphynp.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/2/k/300-0-collagen-face-cream-day-night-use-lightweight-moisturizer-original-imahhauauaskrqx6.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/m/z/200-0-collagen-face-cream-day-night-use-lightweight-moisturizer-original-imahhauazmmedwhw.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/p/r/200-0-collagen-retinol-face-cream-soft-texture-suitable-for-all-original-imahhaujgsx3a8hf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/f/i/300-0-collagen-face-cream-day-night-use-lightweight-moisturizer-original-imahhauawqvaghkz.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/smartdrops-day-night-face-moisturizer-cream-collagen-retinol-glowing-skin/p/itmeb0576bc8e027",
+  "buyStore": "Flipkart",
+  "title": "smartdrops Day & Night Face Moisturizer Cream With Collagen & Ret …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "ing:retinol",
+   "ing:collagen",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "aqualogica-itmc55318f7f00e6",
+  "brand": "Aqualogica",
+  "model": "Glow+ Hydra Gel Moisturizer with Vitamin C & Papaya No …",
+  "price": 424,
+  "capacityLine": "200 g",
+  "materialLine": "vitamin C + papaya",
+  "featureLine": "Cream / gel · Paraben-free · ₹212/100g",
+  "highlight": "Live Flipkart listing rated 4.4★ by 14,004 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹212/100g",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [],
+  "scores": {
+   "trust": 6.4,
+   "skin": 5.3,
+   "ingredients": 6,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "200 g",
+   "pricePer100": "₹212/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "vitamin C, papaya (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Normal Skin, Combination Skin, All Skin Types",
+   "rating": "4.4/5 (14,004 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/u/0/200-0-glow-hydra-gel-moisturizer-with-vitamin-c-papaya-non-original-imahcjsqmbcpyqd4.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/l/l/200-0-glow-hydra-gel-moisturizer-with-vitamin-c-papaya-non-original-imahcjsqzdhhew2h.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/m/s/200-0-glow-hydra-gel-moisturizer-with-vitamin-c-papaya-non-original-imahcjsqjt3tzvz2.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/y/d/200-0-glow-hydra-gel-moisturizer-with-vitamin-c-papaya-non-original-imahcjsqhhngywe9.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/r/b/200-0-glow-hydra-gel-moisturizer-with-vitamin-c-papaya-non-original-imahcjsqsvhykp7s.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/aqualogica-glow-hydra-gel-moisturizer-vitamin-c-papaya-non-sticky-quick-absrobing/p/itmc55318f7f00e6",
+  "buyStore": "Flipkart",
+  "title": "Aqualogica Glow+ Hydra Gel Moisturizer with Vitamin C & Papaya No …",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "ing:vitamin-c",
+   "ing:papaya",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "skin:combination",
+   "skin:normal",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "glyco-itmf890b40d195c2",
+  "brand": "Glyco",
+  "model": "Glycoliclic Acid Exfoliating Moisturizer For Skin Routine ( …",
+  "price": 158,
+  "capacityLine": "30 g",
+  "materialLine": "glycolic acid",
+  "featureLine": "Scrub / exfoliant · ₹527/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 5.6,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "30 g",
+   "pricePer100": "₹527/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "glycolic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim",
    "audience": "Marketed for women",
@@ -69281,23 +68746,19 @@ const CTPRODUCTS = [
    "madeIn": "Not stated in listing"
   },
   "images": [
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/t/f/50-x-emirates-cream-smooth-glow-moisturizing-cream-activewow-original-imahnkhx9hqdz4nu.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/j/y/50-emirates-radiant-glow-face-cream-for-smooth-bright-and-fresh-original-imahnked6ymfjmmk.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/x/w/50-emirates-radiant-glow-face-cream-for-smooth-bright-and-fresh-original-imahnkedekmm8txf.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/v/a/50-emirates-radiant-glow-face-cream-for-smooth-bright-and-fresh-original-imahnkedmhgy3urn.jpeg?q=90",
-   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/m/a/50-emirates-radiant-glow-face-cream-for-smooth-bright-and-fresh-original-imahnkedtgrrddy9.jpeg?q=90"
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/m/n/g/50-glycolic-acid-exfoliating-moisturizer-for-skin-routine-glyco-original-imahq6xatmgb448c.jpeg?q=90"
   ],
-  "buyUrl": "https://www.flipkart.com/active-wow-x-emirates-cream-smooth-glow-moisturizing/p/itme7a22ac670bbb",
+  "buyUrl": "https://www.flipkart.com/glyco-glycolic-6-cream-smooth-skin-maintenance-formula/p/itmf890b40d195c2",
   "buyStore": "Flipkart",
-  "title": "Active Wow X Emirates Cream Smooth Glow Moisturizing Cream (50 g)",
+  "title": "Glyco Glycoliclic Acid Exfoliating Moisturizer For Skin Routine ( …",
   "tags": [
-   "scope:both",
+   "scope:face",
    "format:cream",
+   "ing:glycolic-acid",
    "claim:brightening",
-   "claim:whitening-claim",
    "claim:hydrating",
-   "free:paraben",
-   "free:derm",
+   "claim:exfoliating",
+   "free:vegan",
    "skin:all",
    "aud:women",
    "size:travel",
@@ -69305,7 +68766,365 @@ const CTPRODUCTS = [
    "store:flipkart"
   ],
   "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "glyco-itm560f7b44c87a7",
+  "brand": "Glyco",
+  "model": "Glycolic Acid 6% Moisturizer Cream For Face And Skin (50 g)",
+  "price": 153,
+  "capacityLine": "50 g",
+  "materialLine": "glycolic acid",
+  "featureLine": "Cream / gel · ₹306/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 5.6,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹306/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "glycolic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/l/8/l/50-glycolic-acid-6-moisturizer-cream-for-face-and-skin-glyco-original-imahq6xag8kygyza.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/glyco-glycolic-acid-6-moisturizer-cream-face-skin/p/itm560f7b44c87a7",
+  "buyStore": "Flipkart",
+  "title": "Glyco Glycolic Acid 6% Moisturizer Cream For Face And Skin (50 g)",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "ing:glycolic-acid",
+   "claim:brightening",
+   "claim:hydrating",
+   "free:vegan",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "it-pure-beauty-itm83d4d53bdb4a1",
+  "brand": "IT Pure Beauty",
+  "model": "Glycolic Acid Cream 6% w/w Oil-Free Moisturizer - …",
+  "price": 142,
+  "capacityLine": "50 ml",
+  "materialLine": "glycolic acid",
+  "featureLine": "Oil · Paraben-free · ₹284/100ml",
+  "highlight": "Live Flipkart listing rated 3.5★ by 4 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Mixed buyer rating (3.5)",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.5,
+   "skin": 5.1,
+   "ingredients": 5.6,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹284/100ml",
+   "format": "Oil",
+   "keyIngredients": "glycolic acid (per listing)",
+   "freeFrom": "Paraben-free, Sulfate/SLS-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "3.5/5 (4 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/h/f/h/50-glycolic-acid-cream-6-w-w-oil-free-moisturizer-hydrating-original-imahemch7easxz6f.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/d/s/e/50-6-glycolic-acid-cream-for-glowing-skin-dark-spot-removal-original-imahemcg4vbmsrw4.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/l/e/d/50-6-glycolic-acid-cream-for-glowing-skin-dark-spot-removal-original-imahemcgxnypvwgz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/c/b/9/50-high-potency-6-glycolic-acid-cream-with-2-kojic-acid-cream-original-imahcw5gyzaxh7fs.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/e/q/g/50-high-potency-6-glycolic-acid-cream-with-2-kojic-acid-cream-original-imahcw5gjpzdjnn9.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/pure-beauty-glycolic-acid-cream-6-w-w-oil-free-moisturizer-hydrating-even-toned-skin/p/itm83d4d53bdb4a1",
+  "buyStore": "Flipkart",
+  "title": "IT Pure Beauty Glycolic Acid Cream 6% w/w Oil-Free Moisturizer - …",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "ing:glycolic-acid",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:dark-spots",
+   "claim:whitening-claim",
+   "claim:anti-aging",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "free:paraben",
+   "free:sulfate",
+   "free:oil-free",
+   "free:vegan",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:3.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "glymax-itm7a34dfba73918",
+  "brand": "Glymax",
+  "model": "Moisturising Cream For Intensive Skin Hydrator Cream (150 …",
+  "price": 342,
+  "capacityLine": "150 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream / gel · Paraben-free · ₹228/100g",
+  "highlight": "Live Flipkart listing rated 4.3★ by 60 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹228/100g",
+   "Paraben-free (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.7,
+   "skin": 4.6,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "150 g",
+   "pricePer100": "₹228/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "4.3/5 (60 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/x/j/150-moisturising-cream-for-intensive-skin-hydrator-cream-glymax-original-imahejzvxhkvwbr3.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/j/b/500-intensive-skin-hydrator-cream-glymax-cream-original-imagzecmy2tzjx3u.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/t/n/300-intensive-skin-hydrator-cream-150g-pack-of-2-glymax-cream-original-imah65hgpvhq9st3.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/d/j/150-moisturizer-glymax-cream-original-imahey9yzavwyshu.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/l/r/300-cream-glymax-cream-original-imahjjrry2vyzxnp.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/glymax-moisturising-cream-intensive-skin-hydrator/p/itm7a34dfba73918",
+  "buyStore": "Flipkart",
+  "title": "Glymax Moisturising Cream For Intensive Skin Hydrator Cream (150 …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "free:paraben",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
    "actives": false,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "glymax-itmd46aa3c82e83b",
+  "brand": "Glymax",
+  "model": "moisturizer (150 g)",
+  "price": 316,
+  "capacityLine": "150 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream / gel · ₹211/100g",
+  "highlight": "Live Flipkart listing rated 4.3★ by 52 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹211/100g",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.7,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "150 g",
+   "pricePer100": "₹211/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "4.3/5 (52 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/d/j/150-moisturizer-glymax-cream-original-imahey9yzavwyshu.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/k5wse4w0/moisturizer-cream/3/r/h/150-intensive-skin-hydrator-cream-glymax-cream-original-imafzgvkeepxeh6s.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/x/j/150-moisturising-cream-for-intensive-skin-hydrator-cream-glymax-original-imahejzvxhkvwbr3.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/s/t/150-cream-glymax-cream-original-imah9ygbptmsj3vn.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/t/n/300-intensive-skin-hydrator-cream-150g-pack-of-2-glymax-cream-original-imah65hgpvhq9st3.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/glymax-moisturizer/p/itmd46aa3c82e83b",
+  "buyStore": "Flipkart",
+  "title": "Glymax moisturizer (150 g)",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:lightweight",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "glymax-itm693998c6d6fee",
+  "brand": "Glymax",
+  "model": "OC SEBUM REGULATING MOISTURIZER (75 g)",
+  "price": 448,
+  "capacityLine": "75 g",
+  "materialLine": "hyaluronic acid",
+  "featureLine": "Oil · Paraben-free · ₹597/100g",
+  "highlight": "Live Flipkart listing rated 4.8★ by 5 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.6,
+   "skin": 5.3,
+   "ingredients": 5.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "75 g",
+   "pricePer100": "₹597/100g",
+   "format": "Oil",
+   "keyIngredients": "hyaluronic acid (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Oily Skin, Sensitive Skin",
+   "rating": "4.8/5 (5 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/r/f/75-oc-sebum-regulating-moisturizer-glymax-cream-original-imahhafhzpfk8zkm.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/c/m/75-oc-moisturizer-glymax-cream-original-imahg2vzyy3gmhfv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/k5wse4w0/moisturizer-cream/3/r/h/150-intensive-skin-hydrator-cream-glymax-cream-original-imafzgvkeepxeh6s.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/2/i/150-intensive-skin-hydrator-cream-for-all-skin-types-150g-glymax-original-imahzubzb9f4jrzn.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/i/o/300-intensive-skin-hydrator-cream-for-all-skin-types-glymax-original-imah3gaqubzzaayy.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/glymax-oc-sebum-regulating-moisturizer/p/itm693998c6d6fee",
+  "buyStore": "Flipkart",
+  "title": "Glymax OC SEBUM REGULATING MOISTURIZER (75 g)",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "ing:hyaluronic-acid",
+   "ing:glycerin",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:lightweight",
+   "free:paraben",
+   "free:derm",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:sensitive",
+   "aud:women",
+   "size:standard",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
    "freefrom": true,
    "natural": true,
    "derm": true,
@@ -69672,7 +69491,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "format:wash",
    "ing:strawberry",
    "claim:brightening",
@@ -70361,7 +70179,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:balm",
    "ing:colloidal-oatmeal",
    "ing:ceramides",
@@ -70442,7 +70259,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -71170,7 +70986,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:glycerin",
    "claim:oil-control",
    "claim:hydrating",
@@ -71306,7 +71121,6 @@ const CTPRODUCTS = [
   "title": "Dot & Key Watermelon Superglow Matte Oil Free Moisturizer,Control …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:watermelon",
    "claim:oil-control",
    "claim:hydrating",
@@ -72387,7 +72201,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -74729,7 +74542,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:kit",
    "spf:15",
    "ing:vitamin-c",
@@ -74874,7 +74686,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "format:kit",
    "claim:oil-control",
    "claim:hydrating",
@@ -75396,7 +75207,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "format:balm",
    "format:wash",
    "format:kit",
@@ -75493,7 +75303,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "ing:almond",
    "claim:oil-control",
    "claim:hydrating",
@@ -75713,7 +75522,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:rice-water",
@@ -76994,6 +76802,74 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "simple-b0gwyc8z79",
+  "brand": "Simple",
+  "model": "Hydrating Gel Wash| 100% Soap Free | Gentle Hydrating Facewash with Pentavitin & Panthenol…",
+  "price": 213,
+  "capacityLine": "100 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Wash / cleanser · ₹213/100ml",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹213/100ml",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.5,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹213/100ml",
+   "format": "Wash / cleanser",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51-iQWXjofL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GWYC8Z79",
+  "buyStore": "Amazon",
+  "title": "Simple Hydrating Gel Wash| 100% Soap Free | Gentle Hydrating Facewash with Pentavitin & Panthenol | Cleanser for Dry Sensitive Skin, 100 ml",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:bar",
+   "format:wash",
+   "ing:vitamin-b5-panthenol",
+   "claim:hydrating",
+   "free:sulfate",
+   "free:sensitive-safe",
+   "skin:dry",
+   "skin:sensitive",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "dwash-b07vyrdby4",
   "brand": "DWash",
   "model": "Hydrating Face Wash for Dry, Sensitive & Normal Skin (70ml) | 2-in-1 Cleanser & Moisturize…",
@@ -77920,7 +77796,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:essence",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:centella-cica",
@@ -79531,6 +79406,75 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "vt-b0f3hxj8q5",
+  "brand": "VT",
+  "model": "COSMETICS PDRN Glow Ampoule, PDRN Facial Mist, Deep Hydration Spray Serum, Vegan Skin Care…",
+  "price": 2299,
+  "capacityLine": "100 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Serum · Fragrance-free · ₹2299/100ml",
+  "highlight": "Live Amazon listing rated 4.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Fragrance-free (per listing)",
+   "Strong buyer rating (4.6)"
+  ],
+  "cons": [
+   "Pricey: ₹2299/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4.5,
+   "ingredients": 4.5,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹2299/100ml",
+   "format": "Serum",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Fragrance-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.6/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61jaKh+sPsL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F3HXJ8Q5",
+  "buyStore": "Amazon",
+  "title": "VT COSMETICS PDRN Glow Ampoule, PDRN Facial Mist, Deep Hydration Spray Serum, Vegan Skin Care, Light-weight Face Moisturizer, Plumping Effect, Fragrance-Free, Korean SkinCare (3.38 fl oz / 100 ml)",
+  "tags": [
+   "scope:face",
+   "format:serum",
+   "format:ampoule",
+   "format:mist",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:lightweight",
+   "claim:korean",
+   "free:fragrance",
+   "free:vegan",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "d-alba-b0bfq9rd5b",
   "brand": "d'alba",
   "model": "Piedmont Italian White Truffle First Spray Serum, Vegan Skin Care, Hydrating Face Moisturi…",
@@ -79717,6 +79661,73 @@ const CTPRODUCTS = [
    "ing:ginseng",
    "claim:brightening",
    "claim:hydrating",
+   "claim:korean",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "recluse-b0h9rr75wn",
+  "brand": "RECLUSE",
+  "model": "Collagen Wrinkle Stick for Face, PDRN Essence Stick Balm, Korean Skin Care Moisturizer, An…",
+  "price": 799,
+  "capacityLine": "5 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Essence · ₹15980/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹15980/100g",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "5 g",
+   "pricePer100": "₹15980/100g",
+   "format": "Essence",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61hEkRB37rL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H9RR75WN",
+  "buyStore": "Amazon",
+  "title": "RECLUSE Collagen Wrinkle Stick for Face, PDRN Essence Stick Balm, Korean Skin Care Moisturizer, Anti Aging Face Balm, Hydrating Glow for Neck & Under Eye, Elasticity Firming, 9.5g",
+  "tags": [
+   "scope:both",
+   "format:essence",
+   "format:stick",
+   "format:balm",
+   "ing:collagen",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:dark-circles",
    "claim:korean",
    "aud:unisex",
    "size:travel",
@@ -80056,7 +80067,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:essence",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:rice-water",
    "claim:brightening",
@@ -81140,7 +81150,6 @@ const CTPRODUCTS = [
    "format:essence",
    "format:toner",
    "format:mist",
-   "format:oil",
    "format:kit",
    "ing:hyaluronic-acid",
    "ing:rice-water",
@@ -81227,6 +81236,72 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "foxtale-b0gzk6lcjx",
+  "brand": "Foxtale",
+  "model": "Lightweight Brightening Face Moisturiser with Vitamin C & Niacinamide |Brightens & Evens S…",
+  "price": 283,
+  "capacityLine": "50 ml",
+  "materialLine": "vitamin C + niacinamide",
+  "featureLine": "Cream / gel · ₹566/100ml",
+  "highlight": "Live Amazon listing rated 4.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.6)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.2,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹566/100ml",
+   "format": "Cream / gel",
+   "keyIngredients": "vitamin C, niacinamide (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.6/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71MuxkKmMJL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GZK6LCJX",
+  "buyStore": "Amazon",
+  "title": "Foxtale Lightweight Brightening Face Moisturiser with Vitamin C & Niacinamide |Brightens & Evens Skin Tone, Fades Dark Spots & Deeply Hydrates | For Normal to Dry Skin | For Men & Women | 50 ml",
+  "tags": [
+   "scope:face",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:lightweight",
+   "skin:dry",
+   "aud:women",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
   "id": "minimalist-b0f6y86bsd",
   "brand": "Minimalist",
   "model": "Vitamin B5 10% Oil-Free Moisturizer for Face, Lightweight Gel Moisturizer for Oily & Combi…",
@@ -81272,7 +81347,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:vitamin-b5-panthenol",
    "ing:glycerin",
    "claim:hydrating",
@@ -81428,6 +81502,139 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "the-face-shop-b0gwctyv74",
+  "brand": "The Face Shop",
+  "model": "Rice Water Bright Sunscreen SPF 50+ PA++++ with Vitamin B5 Panthenol | Hydrating Korean Su…",
+  "price": 1240,
+  "capacityLine": "50 ml",
+  "materialLine": "rice water",
+  "featureLine": "Sunscreen · SPF 50 · ₹2480/100ml",
+  "highlight": "Live Amazon listing rated 4.4★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Strong buyer rating (4.4)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹2480/100ml"
+  ],
+  "scores": {
+   "trust": 5.9,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 5.3
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹2480/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41CYnNjYfQL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GWCTYV74",
+  "buyStore": "Amazon",
+  "title": "The Face Shop Rice Water Bright Sunscreen SPF 50+ PA++++ with Vitamin B5 Panthenol | Hydrating Korean Sun Cream for Glass Skin & Brightening | No White Cast, Non-Sticky Moisturizer, 50ml",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "spf:50+",
+   "pa:++++",
+   "ing:rice-water",
+   "ing:vitamin-b5-panthenol",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:no-white-cast",
+   "claim:korean",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "minimalist-b0fnn5kgc5",
+  "brand": "Minimalist",
+  "model": "Marula Oil 5% Face Moisturizer For Dry Skin With Hyaluronic Acid For Deep Nourishment & Hy…",
+  "price": 189,
+  "capacityLine": "30 g",
+  "materialLine": "hyaluronic acid",
+  "featureLine": "Oil · ₹630/100g",
+  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.2)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.3,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "30 g",
+   "pricePer100": "₹630/100g",
+   "format": "Oil",
+   "keyIngredients": "hyaluronic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61R+7CQzXKL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FNN5KGC5",
+  "buyStore": "Amazon",
+  "title": "Minimalist Marula Oil 5% Face Moisturizer For Dry Skin With Hyaluronic Acid For Deep Nourishment & Hydration, For Men & Women | 30 gm",
+  "tags": [
+   "scope:face",
+   "format:oil",
+   "ing:hyaluronic-acid",
+   "claim:hydrating",
+   "skin:dry",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
   "id": "ryllz-b0dzy12h1r",
   "brand": "RYLLZ",
   "model": "ESSENTIALS Rice Water Face Cream | with Rice Ferment Extract, 5% Niacinamide, Ceramide & P…",
@@ -81474,7 +81681,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:peptides",
@@ -81491,6 +81697,73 @@ const CTPRODUCTS = [
    "actives": true,
    "freefrom": false,
    "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "the-face-shop-b0gghyf4cx",
+  "brand": "The Face Shop",
+  "model": "Rice Water Bright Foaming Face Wash 100ml & Vegan Mucin Peptide 8 Moisturizer Cream 50ml",
+  "price": 1576,
+  "capacityLine": "100 ml",
+  "materialLine": "peptides + rice water",
+  "featureLine": "Wash / cleanser · ₹1576/100ml",
+  "highlight": "Live Amazon listing rated 5.0★ by 25654 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1576/100ml"
+  ],
+  "scores": {
+   "trust": 6.2,
+   "skin": 4,
+   "ingredients": 6,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹1576/100ml",
+   "format": "Wash / cleanser",
+   "keyIngredients": "peptides, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (25654 ratings, Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51FC1H7q1RL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GGHYF4CX",
+  "buyStore": "Amazon",
+  "title": "The Face Shop Rice Water Bright Foaming Face Wash 100ml & Vegan Mucin Peptide 8 Moisturizer Cream 50ml",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:foam",
+   "format:wash",
+   "ing:peptides",
+   "ing:rice-water",
+   "claim:hydrating",
+   "free:vegan",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
    "derm": false,
    "men": false,
    "women": false
@@ -81689,6 +81962,71 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0gtz59ffn",
+  "brand": "Buy",
+  "model": "W2 Rice Gel Day & Night Combo for Glowing Skin | Brightening Face Gel with Rice Extract | …",
+  "price": 999,
+  "capacityLine": "160 g (pack of 2)",
+  "materialLine": "rice water",
+  "featureLine": "Oil · ₹624/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "80 g × 2 pack",
+   "pricePer100": "₹624/100g",
+   "format": "Oil",
+   "keyIngredients": "rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61H-cGxvQkL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GTZ59FFN",
+  "buyStore": "Amazon",
+  "title": "Buy W2 Rice Gel Day & Night Combo for Glowing Skin | Brightening Face Gel with Rice Extract | Hydrating, Anti-Pigmentation, Oil Control Moisturizer for All Skin Types - 80g each (Pack of 2) Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "format:kit",
+   "ing:rice-water",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:oil-control",
+   "claim:hydrating",
+   "skin:all",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "latorice-b0f221h82r",
   "brand": "LATORICE",
   "model": "Unisex Rice Water Face Wash and Niacinamide Face Cream with Collagen and Hyaluronic Acid |…",
@@ -81757,6 +82095,72 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "cerave-b0grwd4gz1",
+  "brand": "Cerave",
+  "model": "HA Water Gel with Hyaluronic Acid, Ceramides & Niacinamide for Plumpy hydration|Oil-free g…",
+  "price": 503,
+  "capacityLine": "25 ml",
+  "materialLine": "niacinamide + hyaluronic acid + ceramides",
+  "featureLine": "Oil · ₹2012/100ml",
+  "highlight": "Live Amazon listing rated 4.4★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.4)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹2012/100ml"
+  ],
+  "scores": {
+   "trust": 6.6,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "25 ml",
+   "pricePer100": "₹2012/100ml",
+   "format": "Oil",
+   "keyIngredients": "niacinamide, hyaluronic acid, ceramides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/613N4PHhhSL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GRWD4GZ1",
+  "buyStore": "Amazon",
+  "title": "CeraVe HA Water Gel with Hyaluronic Acid, Ceramides & Niacinamide for Plumpy hydration|Oil-free gel moisturizer| 3 sec fast absorption| Dermat recommended for Women & Men| 25 ml",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:ceramides",
+   "claim:hydrating",
+   "free:oil-free",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
   "id": "rice-b0f6msrwx7",
   "brand": "Rice",
   "model": "Water Serum & Cream Combo | Hydrating & Brightening Skincare Set | Achieve Glass Skin Glow…",
@@ -81822,6 +82226,73 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "urban-b0gdsc15f3",
+  "brand": "URBAN",
+  "model": "THREADS ultimate glow with our Korean Glass Skin Essence. Infused with Rice Water & Cerami…",
+  "price": 249,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "ceramides + rice water",
+  "featureLine": "Essence",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Essence",
+   "keyIngredients": "ceramides, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71XZkTH-0+L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GDSC15F3",
+  "buyStore": "Amazon",
+  "title": "URBAN THREADS ultimate glow with our Korean Glass Skin Essence. Infused with Rice Water & Ceramides, this hydrating Cream repairs and brightens. Shop now for a flawless, dewy finish",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:essence",
+   "ing:ceramides",
+   "ing:rice-water",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:korean",
+   "aud:unisex",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "garnier-b0874w8x4h",
   "brand": "Garnier",
   "model": "Brightening Moisturiser, Serum Gel, Infused with Vitamin C and Lemon, For Radiant skin, Oi…",
@@ -81867,7 +82338,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:gel",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:lemon",
    "claim:brightening",
@@ -82150,6 +82620,72 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "pilgrim-b0hbmkhhdt",
+  "brand": "Pilgrim",
+  "model": "10% Vitamin C Serum 30ml for Glowing Skin & Korean Light Gel Oil Free Hydra Glow Moisturiz…",
+  "price": 769,
+  "capacityLine": "100 g",
+  "materialLine": "vitamin C",
+  "featureLine": "Serum · ₹769/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹769/100g",
+   "format": "Serum",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51W9QdHfF+L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HBMKHHDT",
+  "buyStore": "Amazon",
+  "title": "Pilgrim 10% Vitamin C Serum 30ml for Glowing Skin & Korean Light Gel Oil Free Hydra Glow Moisturizer Cream 100 g",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:cream",
+   "format:serum",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:korean",
+   "free:oil-free",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "generic-b0h71y12y9",
   "brand": "Generic",
   "model": "Vitamin C Booster Shot, 5% Dual Vitamin C + Glutathione Serum for Dark Spot Care, Hydratin…",
@@ -82325,7 +82861,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:zinc",
@@ -82396,7 +82931,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:vitamin-b5-panthenol",
@@ -82537,7 +83071,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -84013,7 +84546,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "ing:retinol",
    "ing:ceramides",
    "claim:brightening",
@@ -86807,7 +87339,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "spf:30",
    "pa:++",
    "ing:vitamin-c",
@@ -87616,7 +88147,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:retinol",
    "ing:salicylic-acid-bha",
@@ -90020,7 +90550,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "ing:retinol",
    "ing:ceramides",
    "claim:brightening",
@@ -90354,7 +90883,6 @@ const CTPRODUCTS = [
   "title": "wellwell 0.5% Retinol Night Creams For Fine Lines, Wrinkles, and Aging Concerns | Oil Free & Non Sticky Moisturizer | For Glowing Skin | For All Skin Types | Fragrance Free | 120Ml",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:retinol",
    "claim:brightening",
    "claim:anti-aging",
@@ -90827,7 +91355,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:retinol",
    "ing:ceramides",
@@ -90897,7 +91424,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "ing:retinol",
    "ing:ceramides",
    "claim:brightening",
@@ -93020,7 +93546,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "ing:retinol",
    "ing:ceramides",
    "claim:brightening",
@@ -95947,7 +96472,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "ing:retinol",
    "claim:anti-aging",
    "claim:hydrating",
@@ -96513,6 +97037,73 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "sadhev-b0hg5v23d1",
+  "brand": "Sadhev",
+  "model": "Anti-Ageing Face Care Combo | Anti-Wrinkle Face Cream 50gm + Face Serum 30ml w Bakuchiol &…",
+  "price": 3598,
+  "capacityLine": "50 g",
+  "materialLine": "retinol + bakuchiol",
+  "featureLine": "Serum · ₹7196/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹7196/100g",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.8,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹7196/100g",
+   "format": "Serum",
+   "keyIngredients": "retinol, bakuchiol (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71qOqG7akcL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HG5V23D1",
+  "buyStore": "Amazon",
+  "title": "Sadhev Anti-Ageing Face Care Combo | Anti-Wrinkle Face Cream 50gm + Face Serum 30ml w Bakuchiol & Naturally Derived Retinol | Reduces Fine Lines, Wrinkles & Dark Spots | Improves Firmness & Elasticity",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:serum",
+   "format:kit",
+   "ing:retinol",
+   "ing:bakuchiol",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "ras-b0f21n8cxj",
   "brand": "RAS",
   "model": "Brightening Serum with 2% Glutathione, Arbutin & Kojic Acid (30ml) + Super Charge SPF 30 D…",
@@ -96581,6 +97172,83 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false
+  }
+ },
+ {
+  "id": "buy-b0fn7k3jx5",
+  "brand": "Buy",
+  "model": "DR.RASHEL Rice water Face Scrub For Men & Women | Hydrating & Moisturizer Scrub | Cleanser…",
+  "price": 325,
+  "capacityLine": "760 ml (pack of 2)",
+  "materialLine": "rice water",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹43/100ml",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹43/100ml",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.2,
+   "skin": 5.3,
+   "ingredients": 4.7,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "380 ml × 2 pack",
+   "pricePer100": "₹43/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "rice water (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71Tjuw2RJmL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/51nu-T7E3vL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61xe7AKIjnL._SL1000_.jpg",
+   "https://m.media-amazon.com/images/I/61VmM4S0SRL._SL1001_.jpg",
+   "https://m.media-amazon.com/images/I/61yZKOta7EL._SL1001_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FN7K3JX5",
+  "buyStore": "Amazon",
+  "title": "Buy DR.RASHEL Rice water Face Scrub For Men & Women | Hydrating & Moisturizer Scrub | Cleanser Scrub For Deep Exfoliation & soothnes | Dead Skin Cell Remover Facial Scrub For All Skin Types | 380ml Each | Pack of 2 Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "format:cream",
+   "format:scrub",
+   "format:wash",
+   "format:kit",
+   "ing:rice-water",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "free:paraben",
+   "free:derm",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
   }
  },
  {
@@ -96754,7 +97422,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:peel",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -96826,7 +97493,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -96894,7 +97560,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
@@ -97032,7 +97697,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -97297,7 +97961,6 @@ const CTPRODUCTS = [
   "title": "Paula's Choice CLEAR Ultra-Light Hydrating Oil Free Face Sunscreen & Moisturizer, SPF 30 Sunscreen for Face with Green Tea & Chamomile, Pore Minimizer for Blemish- Prone Skin, UVA/UVB Protection - 15 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "spf:30",
    "ing:green-tea",
    "claim:acne",
@@ -97566,7 +98229,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -97636,7 +98298,6 @@ const CTPRODUCTS = [
   "title": "The Derma Co Oil-Free Daily Face Moisturizer | With Hyaluronic Acid, Ceramides & Multivitamins | For Non-Greasy & Hydrated Skin | Prolonged Moisturization | Strengthens Skin Barrier | 100 g",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:oil-control",
@@ -97703,7 +98364,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:rice-water",
@@ -98176,7 +98836,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:vitamin-e",
    "claim:brightening",
@@ -98437,7 +99096,6 @@ const CTPRODUCTS = [
   "title": "Mamaearth Rice Oil-Free Face Moisturizer for Oily Skin | With Rice Water & Niacinamide for Glass Skin | 24-Hour Hydration | Brightens Skin Tone | 80g",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -98505,7 +99163,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -98575,7 +99232,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:hyaluronic-acid",
    "claim:oil-control",
    "claim:hydrating",
@@ -98837,7 +99493,6 @@ const CTPRODUCTS = [
   "title": "Dr. Sheth's Ceramide & Vitamin C Oil-Free Face Moisturizer for Oily | Combination & Acne prone skin | Repairs Damaged Skin Barrier | Hydrates & Brighten | lightweight formula | 50 g",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:vitamin-c",
    "ing:ceramides",
    "claim:brightening",
@@ -98977,7 +99632,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:centella-cica",
    "claim:brightening",
@@ -99187,7 +99841,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "ing:hyaluronic-acid",
    "claim:hydrating",
    "claim:lightweight",
@@ -99386,7 +100039,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:aloe-vera",
    "ing:squalane",
    "ing:vitamin-e",
@@ -100264,7 +100916,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -100400,7 +101051,6 @@ const CTPRODUCTS = [
   "title": "Mamaearth Rice Oil-Free Face Moisturizer With Rice Water & Niacinamide for Glass Skin - 150 g | 24-Hour Hydration | Brightens Skin Tone | Improves Skin Texture | Made Safe Approved",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -100465,7 +101115,6 @@ const CTPRODUCTS = [
   "title": "The Derma Co 1% Salicylic Acid Oil-Free Moisturizer For Face with Oat Extract | Fights Active Acne | Deeply Moisturizes | 50 g",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:colloidal-oatmeal",
    "claim:acne",
@@ -100532,7 +101181,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -100804,7 +101452,6 @@ const CTPRODUCTS = [
   "title": "Deconstruct Oil-Free Moisturizer | Non Sticky, Lightweight, Non-Comedogenic & Fast-Absorbing | Tested for 72H Hydration | For Oily, Acne-Prone & Sensitive Skin |50g",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "claim:acne",
    "claim:oil-control",
    "claim:hydrating",
@@ -100945,7 +101592,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "claim:hydrating",
    "free:oil-free",
    "aud:unisex",
@@ -101082,7 +101728,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:peptides",
@@ -101419,7 +102064,6 @@ const CTPRODUCTS = [
   "title": "The Derma Co 5% Vitamin C Oil-Free Daily Face Moisturizer for Skin Radiance | For Oily Skin | For Skin Radiance | Non-Greasy Formula | 100 g",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:oil-control",
@@ -101688,7 +102332,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:vitamin-c",
    "ing:urea",
    "ing:aloe-vera",
@@ -102360,7 +103003,6 @@ const CTPRODUCTS = [
   "title": "Dove Men+care oil control face moisturizer, with koalin Clay, Vitamin B3, long lasting oil-free look, 100gm",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "ing:niacinamide",
    "ing:clay",
@@ -102564,7 +103206,6 @@ const CTPRODUCTS = [
   "title": "The Derma Co. 5% Nia-Ceramide Mattifying Moisturizer -100 g | For Oily to Acne Prone Skin | 5% Niacinamide, 2% Ceramide | 24 hrs. Moisturization | Panthenol, Allantoin & Zinc PCA | Oil-free Moisturizer",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:vitamin-b5-panthenol",
@@ -102909,7 +103550,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -103667,7 +104307,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:ceramides",
    "ing:peptides",
    "claim:oil-control",
@@ -104206,7 +104845,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:cucumber",
    "claim:acne",
    "claim:hydrating",
@@ -104274,7 +104912,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "claim:acne",
    "claim:oil-control",
    "claim:hydrating",
@@ -104413,7 +105050,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:ceramides",
    "ing:peptides",
    "claim:oil-control",
@@ -104545,7 +105181,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:aloe-vera",
    "ing:rose",
    "ing:neem",
@@ -104749,7 +105384,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "claim:brightening",
    "claim:oil-control",
    "claim:hydrating",
@@ -104879,7 +105513,6 @@ const CTPRODUCTS = [
   "title": "Dr. Sheth's Cica & Ceramide Oil-Free Face Moisturizer for Sensitive Skin | Dermatologically Tested to Soothe | Repair & Strengthen Barrier | 50 g",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:ceramides",
    "ing:centella-cica",
    "claim:hydrating",
@@ -104950,7 +105583,6 @@ const CTPRODUCTS = [
   "title": "DR.Rashel Vitamin C Moisturizer For Dry Skin | Oil Free Hydrating Moisturiser for Face | Skin Brightening Face Moisturizer for Women and Men-75 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:hydrating",
@@ -105415,7 +106047,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:ceramides",
    "ing:caffeine",
    "ing:coffee",
@@ -105544,7 +106175,6 @@ const CTPRODUCTS = [
   "title": "Matte Finish Face Moisturizer with 5% Niacinamide | For Oil Control, Brightening & Hydrating Skin | with 2% Rice Water, 2% Olive Squalane, 1% Ceramide Complex & 1% Hydrolyzed Collagen | All Skin Types | 50 g (Pack of 2)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:ceramides",
@@ -105948,7 +106578,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "claim:acne",
    "claim:oil-control",
    "claim:hydrating",
@@ -106729,7 +107358,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "claim:hydrating",
    "free:oil-free",
    "aud:unisex",
@@ -107449,7 +108077,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "claim:dark-spots",
@@ -107711,7 +108338,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:aloe-vera",
    "claim:hydrating",
    "free:oil-free",
@@ -107902,7 +108528,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -108500,7 +109125,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "claim:hydrating",
    "free:oil-free",
    "aud:unisex",
@@ -108563,7 +109187,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:vitamin-b5-panthenol",
    "ing:glycerin",
    "claim:hydrating",
@@ -108701,7 +109324,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:vitamin-e",
    "claim:oil-control",
@@ -108771,7 +109393,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -108979,7 +109600,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "ing:colloidal-oatmeal",
    "claim:acne",
    "claim:oil-control",
@@ -109251,7 +109871,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:hyaluronic-acid",
    "claim:acne",
    "claim:hydrating",
@@ -109385,7 +110004,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:hyaluronic-acid",
    "claim:oil-control",
    "claim:hydrating",
@@ -109658,7 +110276,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
@@ -109726,7 +110343,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:hyaluronic-acid",
    "claim:acne",
    "claim:hydrating",
@@ -109992,7 +110608,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:watermelon",
@@ -110128,7 +110743,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:hyaluronic-acid",
    "claim:acne",
    "claim:hydrating",
@@ -110199,7 +110813,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:allantoin",
    "claim:acne",
@@ -110337,7 +110950,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:aloe-vera",
    "ing:squalane",
    "ing:vitamin-e",
@@ -110408,7 +111020,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "claim:acne",
    "claim:hydrating",
    "claim:lightweight",
@@ -110544,7 +111155,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "ing:peptides",
@@ -110740,7 +111350,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "claim:dark-spots",
    "claim:acne",
@@ -110811,7 +111420,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:alpha-arbutin",
@@ -110882,7 +111490,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -111087,7 +111694,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "claim:acne",
    "claim:hydrating",
    "claim:lightweight",
@@ -111157,7 +111763,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:hyaluronic-acid",
    "claim:brightening",
    "claim:oil-control",
@@ -111225,7 +111830,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:rose",
    "claim:oil-control",
@@ -111360,7 +111964,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:allantoin",
    "claim:acne",
@@ -111431,7 +112034,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:kit",
    "ing:hyaluronic-acid",
    "claim:acne",
@@ -111504,7 +112106,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -111637,7 +112238,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -112107,7 +112707,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:vitamin-e",
    "claim:acne",
    "claim:hydrating",
@@ -112179,7 +112778,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:hyaluronic-acid",
    "claim:oil-control",
    "claim:hydrating",
@@ -112312,7 +112910,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:collagen",
    "claim:hydrating",
    "claim:lightweight",
@@ -112450,7 +113047,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -112521,7 +113117,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:acne",
@@ -112936,7 +113531,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:glutathione",
    "ing:vitamin-b5-panthenol",
    "claim:pores",
@@ -113479,7 +114073,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "spf:30",
    "claim:oil-control",
    "claim:hydrating",
@@ -113544,7 +114137,6 @@ const CTPRODUCTS = [
   "title": "Oyafect Oil-Free Moisturiser – Lightweight, Non-Greasy Moisturiser for All Skin Types | Pack Of 2 | 200ml",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:kit",
    "claim:oil-control",
    "claim:hydrating",
@@ -113947,7 +114539,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "claim:brightening",
@@ -114014,7 +114605,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
@@ -114220,7 +114810,6 @@ const CTPRODUCTS = [
   "title": "Cli face Bio Oil-Free Moisturizer | Deep Hydration & Skin Microbiota Balance | Enriched with Probiotics & Hyaluronic Acid | For Oily, Acne-Prone & Sensitive Skin-(50gm)",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:probiotics",
    "claim:acne",
@@ -114482,7 +115071,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:green-tea",
@@ -115012,7 +115600,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:kit",
    "claim:brightening",
    "claim:dark-spots",
@@ -115223,7 +115810,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -115497,7 +116083,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:vitamin-b5-panthenol",
    "ing:glycerin",
    "claim:hydrating",
@@ -115701,7 +116286,6 @@ const CTPRODUCTS = [
   "title": "Plum Green Tea Oil-Free Face Moisturizer | With Niacinamide & Hyaluronic Acid | Fights Pimples & Hydrates | Fades Blemishes & Brightens Skin | Non-Sticky & Long-Lasting Moisturizer for Face | 50ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:green-tea",
@@ -115771,7 +116355,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:vitamin-b5-panthenol",
    "claim:acne",
@@ -115843,7 +116426,6 @@ const CTPRODUCTS = [
   "title": "Mamaearth Vitamin C Oil-Free Moisturizer For Face with Vitamin C & Gotu Kola for Skin Illumination – 80 g",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:vitamin-c",
    "ing:turmeric",
    "ing:vitamin-e",
@@ -115916,7 +116498,6 @@ const CTPRODUCTS = [
   "title": "Mamaearth Tea Tree Oil-Free Moisturizer For Face For Oily Skin With Tea Tree & Salicylic Acid For Acne & Pimples 80g",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:tea-tree",
    "claim:acne",
@@ -115983,7 +116564,6 @@ const CTPRODUCTS = [
   "title": "Acnin Oil-Free Moisturizer SPF Protection 100ml | Clinically Proven Ceramide Formula | Strengthens Skin Barrier | Dermatologist Recommended for Acne-Prone, Oily, Sensitive Skin | Lightweight",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:ceramides",
    "claim:acne",
    "claim:hydrating",
@@ -116054,7 +116634,6 @@ const CTPRODUCTS = [
   "title": "The Derma Co 5% Propylene Oil-Free Moisturizer with Propylene Glycol & Hyaluronic Acid | Upto 48 hours Hydration | Lightweight Formula | For Oily Skin | 100 g",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:hyaluronic-acid",
    "claim:hydrating",
    "claim:lightweight",
@@ -116119,7 +116698,6 @@ const CTPRODUCTS = [
   "title": "Dot & Key Barrier Repair Oil-Free Moisturizer With 5 Ceramides & Hyaluronic | Instant Oil-Free Hydration, Repairs Damaged Skin barrier | Best for oily, sensitive & combination skin | 50gm",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:hydrating",
@@ -116186,7 +116764,6 @@ const CTPRODUCTS = [
   "title": "Fixderma Dewrav Acne Control & Oil Free Moisturizer for Face with Glycolic Acid | Niacinamide | Oily Skin | Face Moisturizer for Women & Men - 50 gm",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:niacinamide",
    "ing:glycolic-acid",
    "claim:acne",
@@ -116249,7 +116826,6 @@ const CTPRODUCTS = [
   "title": "Mamaearth Ubtan Oil-Free Face Moisturizer With Turmeric & Saffron For Skin Brightening - 80g",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:turmeric",
    "ing:saffron",
    "ing:ubtan",
@@ -116379,7 +116955,6 @@ const CTPRODUCTS = [
   "title": "Mamaearth Oil-Free Moisturizer For Face With Apple Cider Vinegar For Acne Prone Skin - 80 g",
   "tags": [
    "scope:face",
-   "format:oil",
    "claim:acne",
    "claim:hydrating",
    "free:oil-free",
@@ -116442,7 +117017,6 @@ const CTPRODUCTS = [
   "title": "Neutrogena Ultra Gentle Daily Moisturiser 100 ml | Oil Free | Glycerine, Niacinamide & Vitamin B5 | Light Weight & Non Greasy | 24 Hour Moisturization & Strengthens Skin's Moisture Barrier | Dry & Sensitive Skin | Fragrance & Paraben Free",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:niacinamide",
    "ing:vitamin-b5-panthenol",
    "ing:glycerin",
@@ -116514,7 +117088,6 @@ const CTPRODUCTS = [
   "title": "Aqualogica Radiance+ Oil-Free Moisturizer with Watermelon & Niacinamide for Deeply Nourished, Combination Skin, Oil-Free & Radiant Skin of Men & Women -100g",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:niacinamide",
    "ing:watermelon",
    "claim:brightening",
@@ -116581,7 +117154,6 @@ const CTPRODUCTS = [
   "title": "Ceuticoz Moduseb Oil Free Moisturizer for Acne & Oily Skin, 50g",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "claim:acne",
    "claim:hydrating",
    "free:oil-free",
@@ -116645,7 +117217,6 @@ const CTPRODUCTS = [
   "title": "Dr. Sheth's Haldi & Hyaluronic Acid Oil-Free Face Moisturizer for All Skin Types | With Niacinamide | Dermatologically Tested | To Hydrate, Brighten & Nourish Skin Deeply | 50 g",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:turmeric",
@@ -116781,7 +117352,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:kojic-acid",
    "ing:alpha-arbutin",
    "ing:saffron",
@@ -116919,7 +117489,6 @@ const CTPRODUCTS = [
   "title": "OIL FREE MOISTURIZER 100ML (pack of 2)",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:kit",
    "claim:hydrating",
    "free:oil-free",
@@ -117052,7 +117621,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "claim:dark-spots",
    "claim:acne",
@@ -117121,7 +117689,6 @@ const CTPRODUCTS = [
   "title": "Apifil Oil-Free Daily Moisturizer for Oily & Acne-Prone Skin 100ml | Lightweight, Non-Comedogenic | Dermatologist-Recommended | Fragrance-Free | Men & Women",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "claim:acne",
    "claim:hydrating",
    "claim:lightweight",
@@ -117188,7 +117755,6 @@ const CTPRODUCTS = [
   "title": "Cliface Oil-Free Hydrating Moisturizer 50g | Lightweight Daily Face Care | Non-Greasy | For Oily & Sensitive Skin",
   "tags": [
    "scope:face",
-   "format:oil",
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
@@ -117253,7 +117819,6 @@ const CTPRODUCTS = [
   "title": "Clface Bio Oil-Free Hydrating Moisturizer for Oily & Sensitive Skin | Lightweight Daily Face Moisturizer | Non-Greasy Formula, 50g",
   "tags": [
    "scope:face",
-   "format:oil",
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
@@ -117320,7 +117885,6 @@ const CTPRODUCTS = [
   "title": "Bio Oil Free Hydrating Moisturizer | Deep Hydration & Skin Microbiota Balance | Enriched with Probiotics & Hyaluronic Acid By Grow Key | For Oily, Acne-Prone & Sensitive Skin, 50g",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:probiotics",
    "claim:acne",
@@ -117389,7 +117953,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "claim:hydrating",
    "free:oil-free",
    "free:non-comedogenic",
@@ -117451,7 +118014,6 @@ const CTPRODUCTS = [
   "title": "CERASOFT OC Moisturizer for Oily Skin, 60g | Oil Free & Lightweight Face Moisturizer | 72 Hours Hydration | Non Greasy & Non Comedogenic Formula | Fragrance Free & Dye Free",
   "tags": [
    "scope:face",
-   "format:oil",
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
@@ -117520,7 +118082,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "ing:collagen",
    "ing:ubtan",
    "claim:brightening",
@@ -117585,7 +118146,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:green-tea",
    "ing:aloe-vera",
    "claim:oil-control",
@@ -117652,7 +118212,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:kit",
    "claim:brightening",
    "claim:oil-control",
@@ -117718,7 +118277,6 @@ const CTPRODUCTS = [
   "title": "mCaffeine Glow Boost 5% Niacinamide & Green Tea Oil Free Moisturizer | Brightens & Even-Tones | 72Hrs Moisturization | Reduces Acne Marks & Blemishes | Lightweight Moisturizer For All Skin Types -50ml",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:niacinamide",
    "ing:caffeine",
    "ing:green-tea",
@@ -117789,7 +118347,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "spf:50",
    "claim:hydrating",
    "claim:spf-claim",
@@ -117856,7 +118413,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "claim:hydrating",
    "claim:lightweight",
    "free:oil-free",
@@ -117920,7 +118476,6 @@ const CTPRODUCTS = [
   "title": "Aqualogica Bright+ Oil-Free Moisturizer with Blueberry & Kojic Acid (100g) Lightweight & Non-Sticky | Brightens & Evens Skin Tone | Fades Dark Spots & Pigmentation | Deeply Hydrates| For All Skin Types | For Men & Women",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:kojic-acid",
    "claim:brightening",
    "claim:dark-spots",
@@ -117990,7 +118545,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:ceramides",
    "claim:acne",
@@ -118059,7 +118613,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "claim:acne",
    "claim:oil-control",
    "claim:hydrating",
@@ -118125,7 +118678,6 @@ const CTPRODUCTS = [
   "title": "Cliface Bio Oil-Free Hydrating Moisturizer 50 g | Lightweight Daily Face Moisturiser | Non-Greasy Fresh Finish | Suitable for Oily & Sensitive Skin",
   "tags": [
    "scope:face",
-   "format:oil",
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
@@ -118191,7 +118743,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "claim:hydrating",
    "claim:lightweight",
    "free:oil-free",
@@ -118323,7 +118874,6 @@ const CTPRODUCTS = [
   "title": "ReacHabits 10% Vitamin B5 Oil Free Moisturizer 50g | Oily & Combination Skin, Fragrance Free, Non-comedogenic, Hyaluronic Acid, With Copper & Zinc",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:vitamin-b5-panthenol",
    "ing:zinc",
@@ -118533,7 +119083,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:glycolic-acid",
    "ing:rice-water",
@@ -118603,7 +119152,6 @@ const CTPRODUCTS = [
   "title": "DR.Rashel Vitamin C Moisturizer For Dry Skin | Oil Free Hydrating Moisturiser for Face | Skin Brightening Face Moisturizer for Women and Men",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:hydrating",
@@ -118667,7 +119215,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "claim:oil-control",
    "claim:hydrating",
    "claim:soothing",
@@ -118730,7 +119277,6 @@ const CTPRODUCTS = [
   "title": "Cliface Oil-Free Hydrating Moisturizer 50g | Lightweight Daily Face Care | Non-Greasy Formula",
   "tags": [
    "scope:face",
-   "format:oil",
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
@@ -118793,7 +119339,6 @@ const CTPRODUCTS = [
   "title": "Neutrogena Refreshingly Clear Oil-Free Moisturiser for Skin, 50ml",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "claim:hydrating",
    "free:oil-free",
    "aud:unisex",
@@ -118856,7 +119401,6 @@ const CTPRODUCTS = [
   "title": "Gabit Ceramide & Hyaluronic Face Moisturiser | Lightweight Moisturizer to Hydrate & Brighten Skin | With Vitamin C, Niacinamide, Oats | For Women and Men | Oil Free for All Skin Types",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:colloidal-oatmeal",
@@ -118924,7 +119468,6 @@ const CTPRODUCTS = [
   "title": "Mamaearth Beetroot Hydraful Moisturizer With Beetroot & Hyaluronic Acid For Hydrated Pink Glow - 50 g | 48-H Hydration | Oil Free Formula",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:beetroot",
    "claim:brightening",
@@ -119056,7 +119599,6 @@ const CTPRODUCTS = [
   "title": "Keth Laboratories Oil Free Hydration Moisturiser for All Skin | Unisex | Vitamin-A for Oily and Acne-Prone Soothing Skin | Multipurpose",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "claim:acne",
    "claim:hydrating",
    "claim:soothing",
@@ -119122,7 +119664,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:balm",
    "claim:hydrating",
    "free:mineral-oil",
@@ -119188,7 +119729,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:vitamin-b5-panthenol",
@@ -119257,7 +119797,6 @@ const CTPRODUCTS = [
   "title": "Moisture Surge 100H - 50ml Auto-Replenishing Hydrator Oil Free Face Moisturizer | With Hyaluronic Acid, Aloe and Vitamins C + E | For All Skin Types | Hydrating + Moisturizing- 50ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:aloe-vera",
    "claim:hydrating",
@@ -119322,7 +119861,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:sandalwood",
    "claim:brightening",
    "claim:hydrating",
@@ -119385,7 +119923,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "claim:brightening",
    "claim:hydrating",
    "claim:long-lasting",
@@ -119449,7 +119986,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:lemon",
    "claim:brightening",
    "claim:hydrating",
@@ -119513,7 +120049,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:neem",
    "claim:brightening",
    "claim:hydrating",
@@ -119577,7 +120112,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "claim:brightening",
    "claim:hydrating",
    "claim:long-lasting",
@@ -119641,7 +120175,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "ing:vitamin-c",
    "ing:vitamin-e",
    "claim:brightening",
@@ -119711,7 +120244,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:vitamin-b5-panthenol",
    "claim:acne",
@@ -119779,7 +120311,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:clay-mask",
    "ing:clay",
    "claim:brightening",
@@ -119845,7 +120376,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "claim:hydrating",
    "claim:long-lasting",
    "free:oil-free",
@@ -119908,7 +120438,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "claim:hydrating",
    "claim:soothing",
    "free:oil-free",
@@ -119971,7 +120500,6 @@ const CTPRODUCTS = [
   "title": "ReacHabits 2% Niacinamide & Rice Water Face Moisturizer 50gm | Fragrance Free, Non-comedogenic, Oil Free, 2x Hydration, Brighter Skin",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:hydrating",
@@ -120037,7 +120565,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:rose",
    "claim:brightening",
    "claim:hydrating",
@@ -120103,7 +120630,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -120171,7 +120697,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
@@ -120239,7 +120764,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:vitamin-b5-panthenol",
    "claim:hydrating",
    "claim:barrier",
@@ -120307,7 +120831,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:licorice",
    "claim:brightening",
    "claim:acne",
@@ -120374,7 +120897,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "ing:vitamin-e",
@@ -120575,7 +121097,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "claim:oil-control",
    "claim:hydrating",
    "claim:lightweight",
@@ -120643,7 +121164,6 @@ const CTPRODUCTS = [
   "title": "SOKU Hydration & Oil Control Combo | Intense Hydrating Face Wash & Oil-Free Moisturizer | Deep Cleansing, Hydrating & Brightening | With Hyaluronic Acid & Niacinamide | For All Skin Types",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -120712,7 +121232,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:hyaluronic-acid",
    "claim:oil-control",
    "claim:hydrating",
@@ -120780,7 +121299,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:mist",
-   "format:oil",
    "claim:brightening",
    "claim:hydrating",
    "claim:tinted",
@@ -121045,7 +121563,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "format:powder",
    "spf:30",
    "claim:oil-control",
@@ -121177,7 +121694,6 @@ const CTPRODUCTS = [
   "title": "Vitamin C Oil-Free Moisturiser with 5X Brightening Complex 50ml | 5 Ceramides, 4 Hyaluronic Acid Alpha Arbutin 2% Microbiome Complex Fades Spots & Strengthens Barrier, Dermatologically Tested",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -121246,7 +121762,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:kit",
    "claim:hydrating",
    "claim:long-lasting",
@@ -122446,7 +122961,6 @@ const CTPRODUCTS = [
   "title": "SUGANDA SKINCARE Soothing Ceramide Moisturizer for Dry Skin, Face, Restores Damaged Skin | Hydrating & Long Lasting (50Ml) | All Skin Types | Oil Free Moisturiser with Niacinamide",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:niacinamide",
    "ing:ceramides",
    "claim:hydrating",
@@ -122517,7 +123031,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "ing:vitamin-c",
    "ing:ceramides",
    "claim:brightening",
@@ -123668,7 +124181,6 @@ const CTPRODUCTS = [
   "title": "Dr. Sheth's Oats & Ceramide Oil-Free Face Moisturizer for Dry | Sensitive Skin | Dermatologically Tested | To Calm, Strengthen & Restore Barrier |100 g",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:colloidal-oatmeal",
    "ing:ceramides",
    "claim:hydrating",
@@ -124624,7 +125136,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:emulsion",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -124825,7 +125336,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:retinol",
    "ing:ceramides",
    "claim:anti-aging",
@@ -128057,7 +128567,6 @@ const CTPRODUCTS = [
   "title": "Dr. Sheth's Ceramide & Vitamin C Oil - Free Moisturizer| Lightweight Moisturizer To Hydrate & Brighten Skin | With Vitamin C, Ceramide & Ashwagandha | For Women & Men | 100G",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:vitamin-c",
    "ing:ceramides",
    "claim:brightening",
@@ -129262,7 +129771,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:peptides",
@@ -142451,7 +142959,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -143350,7 +143857,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "spf:50",
    "ing:vitamin-c",
    "ing:hyaluronic-acid",
@@ -147752,7 +148258,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:sleeping-mask",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -149849,7 +150354,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:vitamin-c",
    "claim:brightening",
    "claim:dark-spots",
@@ -150708,6 +151212,72 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "rejuvenating-b0h6rz2r7x",
+  "brand": "Rejuvenating",
+  "model": "UBTAN Cold Pressed Coconut Oil | 100% Pure Extra Virgin Coconut Oil For Hair Growth, Skin …",
+  "price": 189,
+  "capacityLine": "50 ml",
+  "materialLine": "ubtan",
+  "featureLine": "Oil · ₹378/100ml",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹378/100ml",
+   "format": "Oil",
+   "keyIngredients": "ubtan (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61TWrtv2qpL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H6RZ2R7X",
+  "buyStore": "Amazon",
+  "title": "Rejuvenating UBTAN Cold Pressed Coconut Oil | 100% Pure Extra Virgin Coconut Oil For Hair Growth, Skin Moisturizer, Baby & Body Massage | Ideal For Facial & Skin Brightening Glow | 50ml (Pack of 1)",
+  "tags": [
+   "scope:both",
+   "format:oil",
+   "format:kit",
+   "ing:ubtan",
+   "ing:coconut",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:ayurvedic",
+   "aud:kids",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "generic-b0cn9hbw91",
   "brand": "Generic",
   "model": "100% Plant Based Organic Rosehip Oil for Skin & Face – Pure and Cold Pressed Rose Hip Oil …",
@@ -151165,6 +151735,71 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0g6jsdf97",
+  "brand": "Buy",
+  "model": "EARTH LIKE Pure Cold-Pressed Rosehip Oil 30ml | Lightweight Natural Carrier Oil for Hair &…",
+  "price": 559,
+  "capacityLine": "30 ml",
+  "materialLine": "rosehip",
+  "featureLine": "Oil · ₹1863/100ml",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1863/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 4.7,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹1863/100ml",
+   "format": "Oil",
+   "keyIngredients": "rosehip (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41VhbyjApmL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G6JSDF97",
+  "buyStore": "Amazon",
+  "title": "Buy EARTH LIKE Pure Cold-Pressed Rosehip Oil 30ml | Lightweight Natural Carrier Oil for Hair & Skin | Non-Greasy Moisturizer for Daily Beauty & DIY Skincare Blends Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:unstated",
+   "format:oil",
+   "ing:rosehip",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:lightweight",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "mycina-b0hf8jz9sf",
   "brand": "Mycina",
   "model": "FC Rich Hydrating Face Moisturizer with Rose Hip Oil 50ml | Non-Comedogenic, Rose Hip Oil …",
@@ -151428,6 +152063,72 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": true
+  }
+ },
+ {
+  "id": "aquella-b0h8nck8s5",
+  "brand": "Aquella",
+  "model": "Liposomal Anti-Aging Face Cream | Hyaluronic Acid, Green Tea & Rosehip Oil | Firming & Hyd…",
+  "price": 899,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "hyaluronic acid + green tea + rosehip",
+  "featureLine": "Oil",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Oil",
+   "keyIngredients": "hyaluronic acid, green tea, rosehip (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/31SbvGx3xbL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H8NCK8S5",
+  "buyStore": "Amazon",
+  "title": "Aquella Liposomal Anti-Aging Face Cream | Hyaluronic Acid, Green Tea & Rosehip Oil | Firming & Hydrating Skincare",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:oil",
+   "ing:hyaluronic-acid",
+   "ing:green-tea",
+   "ing:rosehip",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "aud:unisex",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
   }
  },
  {
@@ -153279,7 +153980,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -153553,7 +154253,6 @@ const CTPRODUCTS = [
   "title": "UV Doux OC Moisturizer for Oily & Combination Skin | Oil-Free Hydration & Oil Control | Non-Comedogenic, Lightweight | With Bisabolol, Betaine, Squalane & Aloe Vera | Helps Prevent Acne Breakouts,50g",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:aloe-vera",
    "ing:squalane",
    "claim:acne",
@@ -154649,7 +155348,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:kit",
    "spf:50+",
    "sun:chemical",
@@ -160661,7 +161359,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:rice-water",
@@ -162135,7 +162832,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:hyaluronic-acid",
    "claim:brightening",
    "claim:oil-control",
@@ -162554,6 +163250,73 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0fypsny3g",
+  "brand": "Buy",
+  "model": "Cetaphil Baby Soothing Moisturising Cream 100 g for Newborns & Babies | 48H Hydration & 8H…",
+  "price": 449,
+  "capacityLine": "100 g",
+  "materialLine": "almond",
+  "featureLine": "Oil · ₹449/100g",
+  "highlight": "Live Amazon listing rated 4.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹449/100g",
+   "format": "Oil",
+   "keyIngredients": "almond (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/617Hy6RjhKL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FYPSNY3G",
+  "buyStore": "Amazon",
+  "title": "Buy Cetaphil Baby Soothing Moisturising Cream 100 g for Newborns & Babies | 48H Hydration & 8H Skin Barrier Protection | With Glycerin, Sunflower Seed Oil & Sweet Almond Oil | Gentle Face & Body Moisturiser Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:oil",
+   "ing:almond",
+   "ing:glycerin",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:long-lasting",
+   "aud:kids",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "cetaphil-b0f9482gnk",
   "brand": "Cetaphil",
   "model": "Restoraderm Body Moisturizer, Shea Butter, 295ml",
@@ -162664,6 +163427,268 @@ const CTPRODUCTS = [
    "skin:normal",
    "aud:unisex",
    "size:large",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0h4tvqnc9",
+  "brand": "Buy",
+  "model": "Cetaphil Baby Cream, Face & Body Moisturizing Cream | Advance Protection | Gentle & Soft w…",
+  "price": 2544,
+  "capacityLine": "340 g (pack of 4)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream / gel · ₹748/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4.3,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "85 g × 4 pack",
+   "pricePer100": "₹748/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41HI6DiPWIL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H4TVQNC9",
+  "buyStore": "Amazon",
+  "title": "Buy Cetaphil Baby Cream, Face & Body Moisturizing Cream | Advance Protection | Gentle & Soft with Organic Calendula 85gm (Pack of 4) Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:kit",
+   "claim:hydrating",
+   "aud:kids",
+   "size:xl",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0gvdr9qkg",
+  "brand": "Buy",
+  "model": "Cetaphil Baby Cream, Face & Body Moisturizing Cream | Advance Protection | Gentle & Soft w…",
+  "price": 1908,
+  "capacityLine": "255 g (pack of 3)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream / gel · ₹748/100g",
+  "highlight": "Live Amazon listing rated 4.4★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Strong buyer rating (4.4)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.8,
+   "skin": 4,
+   "ingredients": 4.3,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "85 g × 3 pack",
+   "pricePer100": "₹748/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51TxYb7d8IL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GVDR9QKG",
+  "buyStore": "Amazon",
+  "title": "Buy Cetaphil Baby Cream, Face & Body Moisturizing Cream | Advance Protection | Gentle & Soft with Organic Calendula 85gm (Pack of 3) Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:kit",
+   "claim:hydrating",
+   "aud:kids",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0gvdrqqn4",
+  "brand": "Buy",
+  "model": "Cetaphil Baby Soothing Moisturising Cream 566 g for Newborns & Babies | 48H Hydration & 8H…",
+  "price": 3238,
+  "capacityLine": "566 g",
+  "materialLine": "almond",
+  "featureLine": "Oil · ₹572/100g",
+  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.2,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "566 g",
+   "pricePer100": "₹572/100g",
+   "format": "Oil",
+   "keyIngredients": "almond (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/719LtTssPrL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GVDRQQN4",
+  "buyStore": "Amazon",
+  "title": "Buy Cetaphil Baby Soothing Moisturising Cream 566 g for Newborns & Babies | 48H Hydration & 8H Skin Barrier Protection | With Glycerin, Sunflower Seed Oil & Sweet Almond Oil | Gentle Face & Body Moisturiser Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:oil",
+   "ing:almond",
+   "ing:glycerin",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:long-lasting",
+   "aud:kids",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0h4v757zq",
+  "brand": "Buy",
+  "model": "Cetaphil Baby Soothing Moisturising Cream 100 g for Newborns & Babies | 48H Hydration & 8H…",
+  "price": 1347,
+  "capacityLine": "100 g",
+  "materialLine": "almond",
+  "featureLine": "Oil · ₹1347/100g",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1347/100g",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.7,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹1347/100g",
+   "format": "Oil",
+   "keyIngredients": "almond (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41pzol1li9L._SL1001_.jpg",
+   "https://m.media-amazon.com/images/I/81N7Zj3hjAL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71It0Gg9M2L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71EiABCc8sL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71yWgSEPmVL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H4V757ZQ",
+  "buyStore": "Amazon",
+  "title": "Buy Cetaphil Baby Soothing Moisturising Cream 100 g for Newborns & Babies | 48H Hydration & 8H Skin Barrier Protection | With Glycerin, Sunflower Seed Oil & Sweet Almond Oil | Gentle Face & Body Moisturiser Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:oil",
+   "format:pack",
+   "ing:almond",
+   "ing:glycerin",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:long-lasting",
+   "free:sensitive-safe",
+   "skin:sensitive",
+   "aud:kids",
+   "size:standard",
    "rating:4.0",
    "store:amazon"
   ],
@@ -163079,6 +164104,66 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "cetaphil-b0gxpg1j5t",
+  "brand": "Cetaphil",
+  "model": "Moisturising Cream 250g & Cetaphil Moisturising Cream 453g Combo",
+  "price": 3058,
+  "capacityLine": "250 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream / gel · ₹1223/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1223/100g"
+  ],
+  "scores": {
+   "trust": 5.7,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "250 g",
+   "pricePer100": "₹1223/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/313P8AtiFuL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GXPG1J5T",
+  "buyStore": "Amazon",
+  "title": "Cetaphil Moisturising Cream 250g & Cetaphil Moisturising Cream 453g Combo",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:kit",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "cetaphiloptimalhydrationreplenishingnightcream50glightweight-fastabsorptionhyaluronicacidbluedaisyextractniacinamide-b0dfhkc1lq",
   "brand": "CetaphilOptimalHydrationReplenishingNightCream50gLightweight&FastAbsorptionHyaluronicAcidBlueDaisyExtractNiacinamide",
   "model": "Optimal Hydration Daily Cream 50g Lightweight Moisturizer",
@@ -163137,6 +164222,69 @@ const CTPRODUCTS = [
   ],
   "filters": {
    "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0gy52v9l7",
+  "brand": "Buy",
+  "model": "Cetaphil Moisturising Cream 250g & Cetaphil Gentle Exfoliating SA Lotion 236ml Combo Onlin…",
+  "price": 2540,
+  "capacityLine": "250 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Scrub / exfoliant · ₹1016/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1016/100g",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "250 g",
+   "pricePer100": "₹1016/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/31+3ryq-8DL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GY52V9L7",
+  "buyStore": "Amazon",
+  "title": "Buy Cetaphil Moisturising Cream 250g & Cetaphil Gentle Exfoliating SA Lotion 236ml Combo Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:lotion",
+   "format:kit",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
    "freefrom": false,
    "natural": false,
    "derm": false,
@@ -165786,7 +166934,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "ing:green-tea",
    "claim:acne",
    "claim:oil-control",
@@ -166308,7 +167455,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "claim:dark-spots",
    "claim:acne",
@@ -167245,7 +168391,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:lotion",
-   "format:oil",
    "format:balm",
    "format:pack",
    "format:patch",
@@ -167317,7 +168462,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -169225,6 +170369,142 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "cetaphil-b0gvdndhw7",
+  "brand": "Cetaphil",
+  "model": "Baby Cream, Face & Body Moisturizing Cream | Advance Protection | Gentle & Soft with Organ…",
+  "price": 1272,
+  "capacityLine": "170 g (pack of 2)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream / gel · ₹748/100g",
+  "highlight": "Live Amazon listing rated 4.4★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Strong buyer rating (4.4)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.6,
+   "skin": 4,
+   "ingredients": 4.3,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "85 g × 2 pack",
+   "pricePer100": "₹748/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51kY1dA1KWL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61CwVZJTTBL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61Hnp85pq7L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61zd+x44RCL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/615usrpxk4L._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GVDNDHW7",
+  "buyStore": "Amazon",
+  "title": "Cetaphil Baby Cream, Face & Body Moisturizing Cream | Advance Protection | Gentle & Soft with Organic Calendula 85gm (Pack of 2)",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:pack",
+   "format:kit",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:long-lasting",
+   "free:hypoallergenic",
+   "aud:kids",
+   "size:large",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0gvdfd2mp",
+  "brand": "Buy",
+  "model": "Cetaphil Baby Soothing Moisturising Cream 100 g for Newborns & Babies | 48H Hydration & 8H…",
+  "price": 898,
+  "capacityLine": "100 g",
+  "materialLine": "almond",
+  "featureLine": "Oil · ₹898/100g",
+  "highlight": "Live Amazon listing rated 4.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹898/100g",
+   "format": "Oil",
+   "keyIngredients": "almond (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/711qdZ1pFGL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GVDFD2MP",
+  "buyStore": "Amazon",
+  "title": "Buy Cetaphil Baby Soothing Moisturising Cream 100 g for Newborns & Babies | 48H Hydration & 8H Skin Barrier Protection | With Glycerin, Sunflower Seed Oil & Sweet Almond Oil | Gentle Face & Body Moisturiser Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:oil",
+   "ing:almond",
+   "ing:glycerin",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:long-lasting",
+   "aud:kids",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "buy-b0d9lrklsr",
   "brand": "Buy",
   "model": "Cetaphil Moisturizing Lotion For Normal To Combination,Sensitive Skin|100 Ml|Moisturizer W…",
@@ -169292,6 +170572,71 @@ const CTPRODUCTS = [
    "freefrom": true,
    "natural": false,
    "derm": true,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0h4v3grcw",
+  "brand": "Buy",
+  "model": "Cetaphil Baby Soothing Moisturising Cream 566 g for Newborns & Babies | 48H Hydration & 8H…",
+  "price": 4857,
+  "capacityLine": "566 g",
+  "materialLine": "almond",
+  "featureLine": "Oil · ₹858/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "566 g",
+   "pricePer100": "₹858/100g",
+   "format": "Oil",
+   "keyIngredients": "almond (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51pZROSI-eL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H4V3GRCW",
+  "buyStore": "Amazon",
+  "title": "Buy Cetaphil Baby Soothing Moisturising Cream 566 g for Newborns & Babies | 48H Hydration & 8H Skin Barrier Protection | With Glycerin, Sunflower Seed Oil & Sweet Almond Oil | Gentle Face & Body Moisturiser Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:oil",
+   "ing:almond",
+   "ing:glycerin",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:long-lasting",
+   "aud:kids",
+   "size:xl",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
    "men": false,
    "women": false
   }
@@ -169416,6 +170761,67 @@ const CTPRODUCTS = [
   "filters": {
    "actives": false,
    "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0gxym9691",
+  "brand": "Buy",
+  "model": "Cetaphil Moisturising Cream 250g & Cetaphil Bright Healthy Radiance Day Protection Cream 5…",
+  "price": 2437,
+  "capacityLine": "250 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream / gel · ₹975/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "250 g",
+   "pricePer100": "₹975/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51N5hguzsxL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GXYM9691",
+  "buyStore": "Amazon",
+  "title": "Buy Cetaphil Moisturising Cream 250g & Cetaphil Bright Healthy Radiance Day Protection Cream 50g Combo Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:kit",
+   "claim:brightening",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
    "natural": false,
    "derm": false,
    "men": false,
@@ -169735,6 +171141,190 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "cetaphil-b0gxp4cfvq",
+  "brand": "Cetaphil",
+  "model": "Moisturising Cream 453g & Cetaphil Bright Healthy Radiance Day Protection Cream 50g Combo",
+  "price": 2888,
+  "capacityLine": "453 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream / gel · ₹638/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.7,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "453 g",
+   "pricePer100": "₹638/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51y25Y-bhEL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GXP4CFVQ",
+  "buyStore": "Amazon",
+  "title": "Cetaphil Moisturising Cream 453g & Cetaphil Bright Healthy Radiance Day Protection Cream 50g Combo",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:kit",
+   "claim:brightening",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:xl",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0gy4jg92b",
+  "brand": "Buy",
+  "model": "Cetaphil Moisturising Cream 250g & Cetaphil Bright Healthy Radiance Night Comfort Cream 50…",
+  "price": 2540,
+  "capacityLine": "250 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream / gel · ₹1016/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1016/100g",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "250 g",
+   "pricePer100": "₹1016/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51Qy2KgmbhL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GY4JG92B",
+  "buyStore": "Amazon",
+  "title": "Buy Cetaphil Moisturising Cream 250g & Cetaphil Bright Healthy Radiance Night Comfort Cream 50g Combo Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:kit",
+   "claim:brightening",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0gy4xh6sw",
+  "brand": "Buy",
+  "model": "Cetaphil Bright Healthy Radiance Night Comfort Cream 50g & Cetaphil Moisturising Cream 453…",
+  "price": 2991,
+  "capacityLine": "50 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream / gel · ₹5982/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹5982/100g",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹5982/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41bOUm6uC0L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GY4XH6SW",
+  "buyStore": "Amazon",
+  "title": "Buy Cetaphil Bright Healthy Radiance Night Comfort Cream 50g & Cetaphil Moisturising Cream 453g Combo Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:kit",
+   "claim:brightening",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
    "store:amazon"
   ],
   "filters": {
@@ -171052,7 +172642,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -172398,7 +173987,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:brightening",
@@ -173343,7 +174931,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:hyaluronic-acid",
    "ing:vitamin-e",
    "claim:brightening",
@@ -173723,7 +175310,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:licorice",
@@ -174785,7 +176371,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "ing:colloidal-oatmeal",
    "ing:ceramides",
    "ing:vitamin-e",
@@ -176798,6 +178383,90 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0gk1h8xqk",
+  "brand": "Buy",
+  "model": "The Routine Moist Lotion for Dry & Sensitive Skin, Deep Hydrating Body & Face Moisturizer …",
+  "price": 350,
+  "capacityLine": "200 ml",
+  "materialLine": "colloidal oatmeal + almond + shea butter",
+  "featureLine": "Oil · ₹175/100ml",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹175/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4.5,
+   "ingredients": 6.2,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹175/100ml",
+   "format": "Oil",
+   "keyIngredients": "colloidal oatmeal, almond, shea butter (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Non-comedogenic (per listing)",
+   "benefit": "Hydrating, Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61bDwuVRKCL._SL1254_.jpg",
+   "https://m.media-amazon.com/images/I/61HTBecOJGL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61Z70khReGL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61MSjvhh1KL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61wLgRYm8NL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GK1H8XQK",
+  "buyStore": "Amazon",
+  "title": "Buy The Routine Moist Lotion for Dry & Sensitive Skin, Deep Hydrating Body & Face Moisturizer with Almond Oil Jojoba Oil Colloidal Oatmeal Shea Butter, Non Greasy Non Irritating Non Comedogenic - 200ml Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:oil",
+   "format:balm",
+   "ing:colloidal-oatmeal",
+   "ing:almond",
+   "ing:shea-butter",
+   "ing:jojoba",
+   "claim:acne",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:lightweight",
+   "free:non-comedogenic",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:sensitive",
+   "aud:unisex",
+   "size:large",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "cetaphil-b0c5386wzm",
   "brand": "Cetaphil",
   "model": "Optimal Hydration Body Spray Moisturizer 207ml | Lightweight moisturizer & non-greasy | Hy…",
@@ -177252,6 +178921,72 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0h4tyh71g",
+  "brand": "Buy",
+  "model": "Cetaphil Baby Soothing Moisturising Cream 100 g for Newborns & Babies | 48H Hydration & 8H…",
+  "price": 1796,
+  "capacityLine": "100 g",
+  "materialLine": "almond",
+  "featureLine": "Oil · ₹1796/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1796/100g",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹1796/100g",
+   "format": "Oil",
+   "keyIngredients": "almond (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51QVrkzd-ML._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H4TYH71G",
+  "buyStore": "Amazon",
+  "title": "Buy Cetaphil Baby Soothing Moisturising Cream 100 g for Newborns & Babies | 48H Hydration & 8H Skin Barrier Protection | With Glycerin, Sunflower Seed Oil & Sweet Almond Oil | Gentle Face & Body Moisturiser Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:oil",
+   "ing:almond",
+   "ing:glycerin",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:long-lasting",
+   "aud:kids",
+   "size:standard",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "cetaphil-b0cl42zwb3",
   "brand": "Cetaphil",
   "model": "Moisturizing Lotion for Normal to Combination, Sensitive Skin| 100 ml| Moisturizer with Ni…",
@@ -177523,6 +179258,67 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true
+  }
+ },
+ {
+  "id": "cetaphil-b0gxp5skt1",
+  "brand": "Cetaphil",
+  "model": "Moisturising Cream 453g & Cetaphil Gentle Exfoliating SA Lotion 236ml Combo",
+  "price": 2991,
+  "capacityLine": "453 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Scrub / exfoliant · ₹660/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.7,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "453 g",
+   "pricePer100": "₹660/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51dCqJY-QiL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GXP5SKT1",
+  "buyStore": "Amazon",
+  "title": "Cetaphil Moisturising Cream 453g & Cetaphil Gentle Exfoliating SA Lotion 236ml Combo",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:lotion",
+   "format:kit",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "aud:unisex",
+   "size:xl",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
   }
  },
  {
@@ -177898,7 +179694,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -178491,7 +180286,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "claim:acne",
    "claim:oil-control",
    "claim:tinted",
@@ -178972,7 +180766,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -179530,7 +181323,6 @@ const CTPRODUCTS = [
   "title": "La Roche-Posay Mela B3 Anti-Dark Spots Moisturiser SPF30, 40ml | ADVANCED DARK SPOT CORRECTION, DAILY SUN PROTECTION, EASY DAILY APPLICATION, SKIN SAFE & NON-COMEDOGENIC, GENTLE ON THE SKIN",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "spf:30",
    "ing:niacinamide",
    "claim:dark-spots",
@@ -179675,7 +181467,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:gel",
    "format:cream",
-   "format:oil",
    "spf:50",
    "claim:brightening",
    "claim:dark-spots",
@@ -179696,6 +181487,76 @@ const CTPRODUCTS = [
    "actives": false,
    "freefrom": false,
    "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "minimalist-b0gwjrh5bf",
+  "brand": "Minimalist",
+  "model": "Daily Hydration & Sun Protection Mini Combo | SPF 50 PA++++ Cream Sunscreen 30g + 10% Vita…",
+  "price": 425,
+  "capacityLine": "30 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹1417/100g",
+  "highlight": "Live Amazon listing rated 3.8★ by 35414 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1417/100g",
+   "Mixed buyer rating (3.8)"
+  ],
+  "scores": {
+   "trust": 5.7,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "30 g",
+   "pricePer100": "₹1417/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Acne/blemish claim, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.8/5 (35414 ratings, Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41QqUJOGtwL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GWJRH5BF",
+  "buyStore": "Amazon",
+  "title": "Minimalist Daily Hydration & Sun Protection Mini Combo | SPF 50 PA++++ Cream Sunscreen 30g + 10% Vitamin B5 Oil-Free Gel Moisturizer 30g | For Oily & Acne-Prone Skin",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:cream",
+   "format:kit",
+   "spf:50",
+   "pa:++++",
+   "ing:vitamin-b5-panthenol",
+   "claim:acne",
+   "claim:hydrating",
+   "claim:spf-claim",
+   "free:oil-free",
+   "skin:oily",
+   "skin:acne-prone",
+   "aud:unisex",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
    "derm": false,
    "men": false,
    "women": false
@@ -181279,7 +183140,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:kojic-acid",
    "ing:saffron",
    "ing:gold",
@@ -181505,7 +183365,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:kojic-acid",
    "ing:saffron",
    "claim:dark-spots",
@@ -181727,7 +183586,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:niacinamide",
@@ -181807,7 +183665,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:wash",
    "ing:kojic-acid",
    "claim:brightening",
@@ -182357,7 +184214,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:kit",
    "spf:50+",
    "pa:+++",
@@ -184669,7 +186525,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "spf:15",
    "pa:++",
    "ing:vitamin-c",
@@ -185277,7 +187132,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:kojic-acid",
    "claim:dark-spots",
@@ -185354,7 +187208,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:balm",
    "format:pack",
    "format:scrub",
@@ -186029,7 +187882,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:kit",
    "spf:50+",
    "ing:niacinamide",
@@ -186697,7 +188549,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -188812,7 +190663,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:pha",
    "claim:pores",
@@ -188962,7 +190812,6 @@ const CTPRODUCTS = [
   "title": "Aqualogica Radiance+ Oil Free Moisturizer with Watermelon and Nia …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:watermelon",
    "claim:brightening",
    "claim:hydrating",
@@ -189032,7 +190881,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "ing:niacinamide",
    "claim:brightening",
    "claim:oil-control",
@@ -189264,7 +191112,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -189422,7 +191269,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "claim:brightening",
@@ -189500,7 +191346,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:tranexamic-acid",
@@ -189597,7 +191442,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "ing:niacinamide",
    "ing:ceramides",
    "claim:brightening",
@@ -189905,7 +191749,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -189985,7 +191828,6 @@ const CTPRODUCTS = [
   "title": "Aqualogica Radiance+ Oil Free Moisturizer with Watermelon & Niaci …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:watermelon",
    "claim:brightening",
    "claim:hydrating",
@@ -190276,7 +192118,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:peptides",
    "ing:kojic-acid",
@@ -190432,7 +192273,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:vitamin-e",
@@ -190741,7 +192581,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "ing:ceramides",
@@ -191495,7 +193334,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -192226,7 +194064,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:kojic-acid",
    "ing:vitamin-e",
@@ -192606,7 +194443,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -192693,7 +194529,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -192860,7 +194695,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:licorice",
@@ -193338,7 +195172,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:aloe-vera",
    "ing:cucumber",
@@ -194275,7 +196108,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -194356,7 +196188,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:scrub",
    "claim:acne",
    "claim:oil-control",
@@ -194859,7 +196690,6 @@ const CTPRODUCTS = [
    "format:cream",
    "format:lotion",
    "format:stick",
-   "format:oil",
    "format:balm",
    "format:clay-mask",
    "ing:vitamin-c",
@@ -195022,7 +196852,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:kit",
    "ing:kojic-acid",
    "claim:brightening",
@@ -195332,7 +197161,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "ing:hyaluronic-acid",
@@ -196986,7 +198814,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "claim:brightening",
    "claim:oil-control",
    "claim:hydrating",
@@ -198430,7 +200257,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:pack",
    "claim:brightening",
    "claim:acne",
@@ -199180,7 +201006,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:oil-control",
@@ -199251,7 +201076,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:oil-control",
@@ -199322,7 +201146,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:oil-control",
@@ -199394,7 +201217,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:oil-control",
@@ -199465,7 +201287,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "claim:brightening",
    "claim:whitening-claim",
    "claim:oil-control",
@@ -200429,7 +202250,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "claim:brightening",
    "claim:anti-aging",
    "claim:oil-control",
@@ -201791,7 +203611,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:serum",
-   "format:oil",
    "format:balm",
    "format:pack",
    "format:peel",
@@ -202246,7 +204065,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "ing:colloidal-oatmeal",
    "ing:cucumber",
    "claim:acne",
@@ -202330,6 +204148,1044 @@ const CTPRODUCTS = [
    "actives": false,
    "freefrom": false,
    "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "no-scars-itmbc5e793449b74",
+  "brand": "NO SCARS",
+  "model": "Day Cream with Sunscreen SPF 30PA+++ with With Aloevera …",
+  "price": 370,
+  "capacityLine": "25 g",
+  "materialLine": "aloe vera",
+  "featureLine": "Sunscreen · SPF 30 · ₹1480/100g",
+  "highlight": "Live Flipkart listing rated 4★ by 1,402 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1480/100g",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.2,
+   "skin": 4,
+   "ingredients": 4.7,
+   "experience": 5.3
+  },
+  "fullSpec": {
+   "quantity": "25 g",
+   "pricePer100": "₹1480/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "aloe vera (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 30",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Oily Skin, Sensitive Skin, Normal Skin, Dry Skin, Combination Skin",
+   "rating": "4/5 (1,402 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/k/v/25-day-cream-with-sunscreen-spf-30pa-with-bb-boint-wonderlite-no-original-imah7jnzmrgsdame.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/n/s/25-day-cream-with-sunscreen-spf-30pa-with-bb-boint-wonderlite-no-original-imah7jnzmsbxmbfv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/j/u/h/25-day-cream-with-spf-30-pa-for-skin-brightening-cream-with-bb-original-imah6xbfzz6bqbyq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/r/a/f/25-day-cream-with-spf-30-pa-for-skin-brightening-cream-with-bb-original-imah6xbffhzz5s4z.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/l/e/h/25-day-cream-with-spf-30-pa-for-skin-brightening-cream-with-bb-original-imah6xbfau8wkxdj.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/no-scars-day-cream-sunscreen-spf-30pa-aloevera-face-wash/p/itmbc5e793449b74",
+  "buyStore": "Flipkart",
+  "title": "NO SCARS Day Cream with Sunscreen SPF 30PA+++ with With Aloevera …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:wash",
+   "spf:30",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:spf-claim",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nivea-itmce81ced6b0d30",
+  "brand": "Nivea",
+  "model": "Soft Moisturizing Cream Vitamin E Face Cream & Body moistur …",
+  "price": 272,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "vitamin E",
+  "featureLine": "Cream / gel",
+  "highlight": "Live Flipkart listing rated 4.3★ by 9,620 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.5,
+   "skin": 4,
+   "ingredients": 4.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream / gel",
+   "keyIngredients": "vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (9,620 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/p/z/-enriched-transparent-original-imaha884mbsk8u77.png?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/7/z/-original-imahnbgqgazgdfrp.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/0/c/q/-original-imahhaddf6xz7v5v.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/5/i/-original-imahnbgq4hyvtpt3.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/u/w/-original-imahhaddhmzuwens.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nivea-soft-moisturizing-cream-vitamin-e-face-body-moisturizer-72h/p/itmce81ced6b0d30",
+  "buyStore": "Flipkart",
+  "title": "NIVEA Soft Moisturizing Cream Vitamin E Face Cream & Body moistur …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "ing:vitamin-e",
+   "claim:hydrating",
+   "aud:unisex",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "glowill-itm436bb31d8ea4a",
+  "brand": "GLOWILL",
+  "model": "Glycolic Acid 6% Face Cream - Anti-Acne & Hyperpigmentati …",
+  "price": 232,
+  "capacityLine": "60 g",
+  "materialLine": "glycolic acid",
+  "featureLine": "Cream / gel · Paraben-free · ₹387/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4.6,
+   "ingredients": 5.4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "60 g",
+   "pricePer100": "₹387/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "glycolic acid (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/v/r/120-0-glycolic-acid-6-face-cream-anti-acne-hyperpigmentation-original-imahqprqbhzhzmvh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/j/i/120-0-glycolic-acid-6-face-cream-anti-acne-hyperpigmentation-original-imahqprqpxhvhy7x.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/z/k/60-0-glycolic-acid-6-face-cream-anti-acne-hyperpigmentation-original-imahqprqfhzxzgs9.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/r/c/60-0-glycolic-acid-6-face-cream-anti-acne-hyperpigmentation-original-imahqprq42hdbmwc.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/e/u/180-0-glycolic-acid-6-face-cream-anti-acne-hyperpigmentation-original-imahqprqyjhvftgp.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/glowill-glycolic-acid-6-face-cream-anti-acne-hyperpigmentation/p/itm436bb31d8ea4a",
+  "buyStore": "Flipkart",
+  "title": "GLOWILL Glycolic Acid 6% Face Cream - Anti-Acne & Hyperpigmentati …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "ing:glycolic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:hydrating",
+   "free:paraben",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "glojox-itmd8681b28145ca",
+  "brand": "glojox",
+  "model": "FACE CREAM WITH GLUTATHIONE, KOJIC ACID , VITAMIN A ,VITAM …",
+  "price": 648,
+  "capacityLine": "60 g",
+  "materialLine": "vitamin C + kojic acid + licorice",
+  "featureLine": "Cream / gel · Paraben-free · ₹1080/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Pricey: ₹1080/100g",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 5.3,
+   "ingredients": 5.9,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "60 g",
+   "pricePer100": "₹1080/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "vitamin C, kojic acid, licorice (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/h/v/60-face-cream-with-glutathione-kojic-acid-vitamin-a-vitamin-c-original-imahzw77ztafpk5y.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/b/1/60-face-cream-with-glutathione-kojic-acid-vitamin-a-vitamin-c-original-imahzw723q27pgkv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/e/d/60-goljox-cream-with-glutathione-kojic-acid-vitamin-a-c-licorice-original-imahk79chtchdgua.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/n/d/60-face-cream-with-glutathione-kojic-acid-vitamin-a-vitamin-c-original-imahzw6z9bcbzs3r.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/g/u/60-goljox-cream-with-glutathione-kojic-acid-vitamin-a-c-licorice-original-imahk79cuc7nyj86.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/glojox-face-cream-glutathione-kojic-acid-vitamin-vitamin-c/p/itmd8681b28145ca",
+  "buyStore": "Flipkart",
+  "title": "glojox FACE CREAM WITH GLUTATHIONE, KOJIC ACID , VITAMIN A ,VITAM …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:pack",
+   "ing:vitamin-c",
+   "ing:kojic-acid",
+   "ing:glutathione",
+   "ing:licorice",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:whitening-claim",
+   "claim:hydrating",
+   "free:paraben",
+   "free:derm",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "beautiloon-itmd616e0f244405",
+  "brand": "beautiloon",
+  "model": "Sunscreen - SPF 50 PA++++ Hydra Shield Face Cream SPF …",
+  "price": 163,
+  "capacityLine": "50 g",
+  "materialLine": "vitamin C",
+  "featureLine": "Sunscreen · SPF 50 · ₹326/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹326/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/h/l/q/50-vitamin-c-sunscreen-spf-50-pa-brightening-formula-50-original-imahm2fcj38cyscc.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/a/f/k/50-daily-sunscreen-spf-50-pa-vitamin-c-sun-protection-50-original-imahm2ymxquvxymn.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/v/a/1/50-daily-sunscreen-spf-50-pa-vitamin-c-sun-protection-50-original-imahm2ymtz2kqqxn.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/5/g/x/50-sunscreen-spf-50-pa-face-cream-uv-protection-skin-care-50-original-imahhv8rtxrjuvtt.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/l/n/5/50-daily-sunscreen-spf-50-pa-vitamin-c-sun-protection-50-original-imahm2ymaw3zccag.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/beautiloon-sunscreen-spf-50-pa-hydra-shield-face-cream-moisture-lock-lotion/p/itmd616e0f244405",
+  "buyStore": "Flipkart",
+  "title": "beautiloon Sunscreen - SPF 50 PA++++ Hydra Shield Face Cream SPF …",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:lotion",
+   "spf:50",
+   "pa:++++",
+   "ing:vitamin-c",
+   "claim:brightening",
+   "claim:broad-spectrum",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "heliocare-itmb17633feffb49",
+  "brand": "Heliocare",
+  "model": "Sunscreen - SPF 50 PA++++ Gelcream Light Sunscreen Prot …",
+  "price": 290,
+  "capacityLine": "50 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹580/100g",
+  "highlight": "Live Flipkart listing rated 3.4★ by 63 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Mixed buyer rating (3.4)"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 4.6,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹580/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "3.4/5 (63 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/m/c/e/50-gelcream-light-sunscreen-protector-solar-broad-spectrum-high-original-imahghy9ghyf7kt6.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/r/2/k/50-color-gelcream-spf-50-tinted-sunscreen-light-shade-50-original-imahckthvetqfxgt.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/t/m/j/100-sunscreen-spf-50-pa-color-gelcream-light-suncreen-uvb-uva-original-imahggztjyhdeccf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/e/k/9/100-sunscreen-spf-50-pa-color-gelcream-light-suncreen-uvb-uva-original-imahggztp28egaeb.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/6/x/x/50-gelcream-light-sunscreen-protector-solar-broad-spectrum-high-original-imahghy9xhseyjqy.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/heliocare-sunscreen-spf-50-pa-gelcream-light-protector-solar-broad-spectrum-high-protection/p/itmb17633feffb49",
+  "buyStore": "Flipkart",
+  "title": "Heliocare Sunscreen - SPF 50 PA++++ Gelcream Light Sunscreen Prot …",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "format:cream",
+   "spf:50",
+   "pa:++++",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "free:paraben",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:low",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "heliocare-itmfdd2acdb85cbc",
+  "brand": "Heliocare",
+  "model": "Sunscreen - SPF 50 PA++++ Gel Cream Light SPF 50 Tinted …",
+  "price": 405,
+  "capacityLine": "50 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹810/100g",
+  "highlight": "Live Flipkart listing rated 2.3★ by 3 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (2.3)"
+  ],
+  "scores": {
+   "trust": 4.1,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹810/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "2.3/5 (3 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/t/q/y/50-gel-cream-light-spf-50-tinted-sunscreen-360-water-gel-spf-50-original-imahnyw5ghzhpzza.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/n/t/l/-original-imahqzwfbpucggby.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/1/o/w/-original-imahqzwfmnwvwxsw.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/c/w/s/50-advanced-spf-50-sunscreen-gel-50ml-pack-of-2-clear-50-original-imahnyupthgmq2xd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/e/y/x/50-360-water-gel-ultra-light-hydrating-sunscreen-for-dry-original-imahghytkhrgzxaj.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/heliocare-sunscreen-spf-50-pa-gel-cream-light-tinted-360-water-combo/p/itmfdd2acdb85cbc",
+  "buyStore": "Flipkart",
+  "title": "Heliocare Sunscreen - SPF 50 PA++++ Gel Cream Light SPF 50 Tinted …",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:cream",
+   "format:kit",
+   "spf:50",
+   "pa:++++",
+   "claim:tinted",
+   "claim:spf-claim",
+   "aud:women",
+   "size:travel",
+   "rating:low",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "heliocare-itm307b633ae560b",
+  "brand": "Heliocare",
+  "model": "Sunscreen - SPF 50 PA++++ Gel Cream Light SPF 50 Tinted …",
+  "price": 383,
+  "capacityLine": "100 g (pack of 2)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹383/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "50 g × 2 pack",
+   "pricePer100": "₹383/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Acne/blemish claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/s/f/4/50-gel-cream-light-spf-50-tinted-sunscreen-360-water-gel-spf-50-original-imahnyw5z7cyynf2.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/n/t/l/-original-imahqzwfbpucggby.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/1/o/w/-original-imahqzwfmnwvwxsw.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/n/g/z/50-360-water-gel-ultra-light-hydrating-sunscreen-for-dry-original-imahkyjhdehyzu8f.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/c/w/s/50-advanced-spf-50-sunscreen-gel-50ml-pack-of-2-clear-50-original-imahnyupthgmq2xd.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/heliocare-sunscreen-spf-50-pa-gel-cream-light-tinted-360-water-combo-b/p/itm307b633ae560b",
+  "buyStore": "Flipkart",
+  "title": "Heliocare Sunscreen - SPF 50 PA++++ Gel Cream Light SPF 50 Tinted …",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:cream",
+   "format:kit",
+   "spf:50",
+   "pa:++++",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:hydrating",
+   "claim:broad-spectrum",
+   "claim:tinted",
+   "claim:spf-claim",
+   "free:oil-free",
+   "skin:oily",
+   "skin:dry",
+   "skin:acne-prone",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "heliocare-itm6fab06e5ed0c4",
+  "brand": "Heliocare",
+  "model": "Sunscreen - SPF 50 PA++++ Gel Cream Light SPF 50 Tinted …",
+  "price": 405,
+  "capacityLine": "100 g (pack of 2)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹405/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "50 g × 2 pack",
+   "pricePer100": "₹405/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/s/x/d/50-gel-cream-light-spf-50-tinted-sunscreen-360-water-gel-spf-50-original-imahnyvzwvgeykfy.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/w/3/5/50-spf-50-pa-sunscreen-high-broad-spectrum-uvb-uva-gelcream-good-original-imahggzvvf7hu3fc.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/l/g/x/50-sunscreen-spf-50-pa-color-gelcream-light-suncreen-uvb-uva-50-original-imahghy6ckzhpdez.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/y/2/4/50-360-gel-oil-free-fast-absorbing-water-resistant-no-white-cast-original-imahnpzejgzvczth.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/a/e/6/50-spf-50-sunscreen-50-sunhalt-original-imahnucqzdzfu3xr.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/heliocare-sunscreen-spf-50-pa-gel-cream-light-tinted-360-water-combo-c/p/itm6fab06e5ed0c4",
+  "buyStore": "Flipkart",
+  "title": "Heliocare Sunscreen - SPF 50 PA++++ Gel Cream Light SPF 50 Tinted …",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:cream",
+   "format:lotion",
+   "format:kit",
+   "spf:50",
+   "pa:++++",
+   "claim:water-resistant",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:tinted",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "free:oil-free",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "heliocare-itm47a1fa5969a8e",
+  "brand": "Heliocare",
+  "model": "Sunscreen - SPF 50 PA++++ Gel Cream Light SPF 50 Tinted …",
+  "price": 405,
+  "capacityLine": "100 g (pack of 2)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹405/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "50 g × 2 pack",
+   "pricePer100": "₹405/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/7/t/2/50-gel-cream-light-spf-50-tinted-sunscreen-360-water-gel-spf-50-original-imahnyvzp5zmd6er.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/n/t/l/-original-imahqzwfbpucggby.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/1/o/w/-original-imahqzwfmnwvwxsw.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/e/y/x/50-360-water-gel-ultra-light-hydrating-sunscreen-for-dry-original-imahghytkhrgzxaj.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/t/j/n/50-360-water-gel-for-oily-acne-prone-skin-50-heliocare-original-imahkyjkgvj8gmwp.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/heliocare-sunscreen-spf-50-pa-gel-cream-light-tinted-360-water-combo-d/p/itm47a1fa5969a8e",
+  "buyStore": "Flipkart",
+  "title": "Heliocare Sunscreen - SPF 50 PA++++ Gel Cream Light SPF 50 Tinted …",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:cream",
+   "format:kit",
+   "spf:50",
+   "pa:++++",
+   "claim:broad-spectrum",
+   "claim:tinted",
+   "claim:spf-claim",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "heliocare-itm8b10f110cc169",
+  "brand": "Heliocare",
+  "model": "Sunscreen - SPF 50 PA++++ Gel Cream Light SPF 50 Tinted …",
+  "price": 385,
+  "capacityLine": "100 g (pack of 2)",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · SPF 50 · ₹385/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "50 g × 2 pack",
+   "pricePer100": "₹385/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/9/y/d/50-gel-cream-light-spf-50-tinted-sunscreen-360-water-gel-spf-50-original-imahnyvy7xzsjpxy.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/e/y/x/50-360-water-gel-ultra-light-hydrating-sunscreen-for-dry-original-imahghytkhrgzxaj.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/w/3/5/50-spf-50-pa-sunscreen-high-broad-spectrum-uvb-uva-gelcream-good-original-imahggzvvf7hu3fc.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/d/l/a/60-heliocare-oil-free-sunscreen-spf-50-for-lasting-glow-clear-50-original-imahzzcn9ht9zvff.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/7/t/2/50-gel-cream-light-spf-50-tinted-sunscreen-360-water-gel-spf-50-original-imahnyvzp5zmd6er.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/heliocare-sunscreen-spf-50-pa-gel-cream-light-tinted-360-water-combo/p/itm8b10f110cc169",
+  "buyStore": "Flipkart",
+  "title": "Heliocare Sunscreen - SPF 50 PA++++ Gel Cream Light SPF 50 Tinted …",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:cream",
+   "format:kit",
+   "spf:50",
+   "pa:++++",
+   "claim:dark-spots",
+   "claim:tinted",
+   "claim:spf-claim",
+   "free:oil-free",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "heiiocare-itmbec38b31c824a",
+  "brand": "heIiocare",
+  "model": "Sunscreen - SPF 50 PA++++ Color Gel Cream Light SPF 50 …",
+  "price": 178,
+  "capacityLine": "50 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹356/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4.6,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹356/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/c/f/c/50-color-gel-cream-light-spf-50-tinted-sunscreen-white-50-original-imahnpzfmjuvgdqc.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/m/d/r/50-color-gel-cream-light-spf-50-tinted-sunscreen-white-50-original-imahnpzf4ayenbzs.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/a/z/k/50-color-gel-cream-light-spf-50-tinted-sunscreen-white-50-original-imahnpzfcumgsghf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/q/j/d/50-color-gel-cream-light-spf-50-tinted-sunscreen-white-50-original-imahnpzfjarmwfxa.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/k/s/c/50-color-gel-cream-light-spf-50-tinted-sunscreen-white-50-original-imahnpzfugzzhuqs.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/heiiocare-sunscreen-spf-50-pa-color-gel-cream-light-tinted/p/itmbec38b31c824a",
+  "buyStore": "Flipkart",
+  "title": "heIiocare Sunscreen - SPF 50 PA++++ Color Gel Cream Light SPF 50 …",
+  "tags": [
+   "scope:face",
+   "format:gel",
+   "format:cream",
+   "spf:50",
+   "pa:++++",
+   "claim:broad-spectrum",
+   "claim:tinted",
+   "claim:spf-claim",
+   "free:paraben",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "smartdrops-itm4d229007737e8",
+  "brand": "smartdrops",
+  "model": "Sunscreen - SPF 50 PA++ Sunscreen Cream | Moisturiser …",
+  "price": 180,
+  "capacityLine": "180 g",
+  "materialLine": "vitamin C + hyaluronic acid + green tea",
+  "featureLine": "Sunscreen · SPF 50 · ₹100/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹100/100g",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 5.6
+  },
+  "fullSpec": {
+   "quantity": "180 g",
+   "pricePer100": "₹100/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "vitamin C, hyaluronic acid, green tea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/g/0/9/180-sunscreen-cream-moisturiser-brightening-vitamin-c-hyaluronic-original-imahmhzw6h29uxw8.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/n/k/s/180-vitamin-c-niacinamide-sunscreen-spf-50-broad-spectrum-daily-original-imahmf4hhcqmysda.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/l/p/2/180-vitamin-c-niacinamide-sunscreen-spf-50-broad-spectrum-daily-original-imahmf4hvc8fzvd8.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/n/f/k/180-vitamin-c-niacinamide-sunscreen-spf-50-broad-spectrum-daily-original-imahmf4hee96yya7.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/u/6/n/180-vitamin-c-niacinamide-sunscreen-spf-50-broad-spectrum-daily-original-imahmf4hyrrhytjh.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/smartdrops-sunscreen-spf-50-pa-cream-moisturiser-brightening-vitamin-c-hyaluronic-acid/p/itm4d229007737e8",
+  "buyStore": "Flipkart",
+  "title": "smartdrops Sunscreen - SPF 50 PA++ Sunscreen Cream | Moisturiser …",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:lotion",
+   "spf:50",
+   "pa:++",
+   "ing:vitamin-c",
+   "ing:hyaluronic-acid",
+   "ing:green-tea",
+   "claim:brightening",
+   "claim:whitening-claim",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:spf-claim",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "zelmora-itm4ae225ec228e2",
+  "brand": "ZELMORA",
+  "model": "Sunscreen - SPF 50 PA++++ Sunscreen SPF 50 Moisturizer Cr …",
+  "price": 161,
+  "capacityLine": "100 g",
+  "materialLine": "niacinamide + hyaluronic acid + green tea",
+  "featureLine": "Sunscreen · Paraben-free · SPF 50 · ₹161/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹161/100g",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4.6,
+   "ingredients": 7.2,
+   "experience": 5.3
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹161/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "niacinamide, hyaluronic acid, green tea, aloe vera, shea butter, vitamin E, zinc (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 50",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Sensitive Skin, Oily Skin, Normal Skin, Dry Skin, Combination Skin, All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/b/u/d/50-sunscreen-spf-50-moisturizer-cream-for-face-uv-protection-for-original-imahm2fhhpcfmdyf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/h/m/5/50-sun-cream-for-men-refined-everyday-sunscreen-version-supports-original-imahhzgmegpb2fbe.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/w/r/n/100-aloe-vera-sunscreen-spf-60-pa-ultimate-sun-protection-for-original-imahgpngrurxmphe.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/3/q/l/50-green-tea-zinc-super-matte-sunscreen-gel-spf-50-pa-sunscream-original-imahzrvnmbastsc7.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/p/b/b/100-spf-50-pa-sunscreen-cream-100ml-broad-spectrum-uv-protection-original-imahpmyrzutz7gfb.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/zelmora-sunscreen-spf-50-pa-moisturizer-cream-face-uv-protection-women-men/p/itm4ae225ec228e2",
+  "buyStore": "Flipkart",
+  "title": "ZELMORA Sunscreen - SPF 50 PA++++ Sunscreen SPF 50 Moisturizer Cr …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:balm",
+   "spf:50",
+   "pa:++++",
+   "sun:mineral",
+   "sun:chemical",
+   "ing:niacinamide",
+   "ing:hyaluronic-acid",
+   "ing:green-tea",
+   "ing:aloe-vera",
+   "ing:shea-butter",
+   "ing:vitamin-e",
+   "ing:zinc",
+   "ing:titanium-dioxide",
+   "ing:glycerin",
+   "claim:hydrating",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "free:paraben",
+   "free:vegan",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
    "derm": false,
    "men": false,
    "women": true
@@ -202748,7 +205604,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:peel",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -203163,7 +206018,6 @@ const CTPRODUCTS = [
   "title": "Dr. Sheth's Kesar & Kojic Acid Oil-Free Face Moisturizer for Normal to Oily Skin | Dermatologically Tested | to Hydrate | Reduce Pigmentation & Even Skin Tone | 50 g",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:kojic-acid",
    "ing:saffron",
    "claim:dark-spots",
@@ -213374,7 +216228,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "claim:brightening",
    "claim:dark-spots",
@@ -213386,139 +216239,6 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:3.5",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "foxtale-b0gzk6lcjx",
-  "brand": "Foxtale",
-  "model": "Lightweight Brightening Face Moisturiser with Vitamin C & Niacinamide |Brightens & Evens S…",
-  "price": 283,
-  "capacityLine": "50 ml",
-  "materialLine": "vitamin C + niacinamide",
-  "featureLine": "Cream / gel · ₹566/100ml",
-  "highlight": "Live Amazon listing rated 4.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.6)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 6.2,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹566/100ml",
-   "format": "Cream / gel",
-   "keyIngredients": "vitamin C, niacinamide (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, Brightening/glow claim",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.6/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/71MuxkKmMJL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GZK6LCJX",
-  "buyStore": "Amazon",
-  "title": "Foxtale Lightweight Brightening Face Moisturiser with Vitamin C & Niacinamide |Brightens & Evens Skin Tone, Fades Dark Spots & Deeply Hydrates | For Normal to Dry Skin | For Men & Women | 50 ml",
-  "tags": [
-   "scope:face",
-   "ing:vitamin-c",
-   "ing:niacinamide",
-   "claim:brightening",
-   "claim:dark-spots",
-   "claim:hydrating",
-   "claim:lightweight",
-   "skin:dry",
-   "aud:women",
-   "size:travel",
-   "rating:4.5",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": true
-  }
- },
- {
-  "id": "cerave-b0grwd4gz1",
-  "brand": "Cerave",
-  "model": "HA Water Gel with Hyaluronic Acid, Ceramides & Niacinamide for Plumpy hydration|Oil-free g…",
-  "price": 503,
-  "capacityLine": "25 ml",
-  "materialLine": "niacinamide + hyaluronic acid + ceramides",
-  "featureLine": "Oil · ₹2012/100ml",
-  "highlight": "Live Amazon listing rated 4.4★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.4)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹2012/100ml"
-  ],
-  "scores": {
-   "trust": 6.6,
-   "skin": 4,
-   "ingredients": 5.9,
-   "experience": 4.9
-  },
-  "fullSpec": {
-   "quantity": "25 ml",
-   "pricePer100": "₹2012/100ml",
-   "format": "Oil",
-   "keyIngredients": "niacinamide, hyaluronic acid, ceramides (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating",
-   "audience": "Marketed for women",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/613N4PHhhSL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0GRWD4GZ1",
-  "buyStore": "Amazon",
-  "title": "CeraVe HA Water Gel with Hyaluronic Acid, Ceramides & Niacinamide for Plumpy hydration|Oil-free gel moisturizer| 3 sec fast absorption| Dermat recommended for Women & Men| 25 ml",
-  "tags": [
-   "scope:unstated",
-   "format:gel",
-   "format:oil",
-   "ing:niacinamide",
-   "ing:hyaluronic-acid",
-   "ing:ceramides",
-   "claim:hydrating",
-   "free:oil-free",
-   "aud:women",
-   "size:travel",
-   "rating:4.0",
    "store:amazon"
   ],
   "filters": {
@@ -213577,7 +216297,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:rice-water",
    "claim:hydrating",
@@ -214129,7 +216848,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:ceramides",
    "claim:oil-control",
@@ -214200,7 +216918,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "claim:anti-aging",
@@ -214398,7 +217115,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -214870,7 +217586,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "claim:oil-control",
    "claim:hydrating",
@@ -215610,7 +218325,6 @@ const CTPRODUCTS = [
   "title": "Vitamin C Moisturizer | Vitamin E & Seabuckthorn | Lightweight, Oil-Free Face Moisturizer | Brightening & Deep Hydration | With Niacinamide & Shea Butter | For All Skin Types Men & Women | 100gms",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:balm",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -216300,7 +219014,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:peptides",
@@ -217910,7 +220623,6 @@ const CTPRODUCTS = [
   "title": "5% Niacinamide & 1% Zinc PCA Oil Free Moisturiser,1% Acne Calming complex, with 5 Ceramides, Panthenol & Ectoin, for Oily Acne Prone Skin, 50ml",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:niacinamide",
    "ing:ceramides",
    "ing:vitamin-b5-panthenol",
@@ -220011,7 +222723,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "claim:dark-spots",
    "claim:acne",
    "claim:oil-control",
@@ -221754,7 +224465,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "claim:brightening",
    "claim:dark-spots",
    "claim:oil-control",
@@ -231134,7 +233844,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:kit",
    "spf:50",
    "pa:+++",
@@ -231207,7 +233916,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:gel",
    "format:cream",
-   "format:oil",
    "spf:30",
    "pa:+++",
    "claim:acne",
@@ -231279,7 +233987,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "spf:50",
    "pa:++++",
    "claim:oil-control",
@@ -231721,7 +234428,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:peel",
    "format:kit",
    "ing:retinol",
@@ -231790,7 +234496,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:peel",
    "format:kit",
    "ing:retinol",
@@ -233019,7 +235724,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "spf:50+",
    "pa:+++",
    "ing:urea",

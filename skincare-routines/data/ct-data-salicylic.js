@@ -52,7 +52,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -122,7 +121,6 @@ const CTPRODUCTS = [
   "title": "Dermatouch Salicylic Acid 2% | For Acne & Oil Control | Suitable …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:oil-control",
@@ -187,7 +185,6 @@ const CTPRODUCTS = [
   "title": "Deconstruct Oil Control Face wash 0.5% Salicylic Acid| For Oily & …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -261,7 +258,6 @@ const CTPRODUCTS = [
   "title": "Dermatouch Salicylic Acid 2% | For Acne & Oil Control | Suitable …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:oil-control",
@@ -399,7 +395,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:oil-control",
@@ -467,7 +462,6 @@ const CTPRODUCTS = [
   "title": "Dermatouch Salicylic Acid 2% | For Acne & Oil Control| 250ml Fac …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:oil-control",
@@ -534,7 +528,6 @@ const CTPRODUCTS = [
   "title": "Dermatouch Salicylic Acid 2% | For Acne & Oil Control |Suitable …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -603,7 +596,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -675,7 +667,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:dark-spots",
@@ -820,7 +811,6 @@ const CTPRODUCTS = [
   "title": "Foxtale Anti-Acne & Oil-Control with 2% Salicylic Acid, Niacinami …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:oil-control",
@@ -1025,7 +1015,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "spf:50",
    "ing:salicylic-acid-bha",
@@ -1232,7 +1221,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:centella-cica",
@@ -1316,7 +1304,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
@@ -1390,7 +1377,6 @@ const CTPRODUCTS = [
   "title": "Minimalist 2% Salicylic Acid For Oily Skin | Sulphate Free, Anti …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -1604,7 +1590,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:tea-tree",
@@ -1677,7 +1662,6 @@ const CTPRODUCTS = [
   "title": "KIISIISO Men for Men Skin Care with Salicylic Acid Face Wash (10 …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:brightening",
@@ -1748,7 +1732,6 @@ const CTPRODUCTS = [
   "title": "Deconstruct Salicylic Acid + Niacinamide for Oil Control & Acne- …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -1818,7 +1801,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:foam",
    "format:stick",
-   "format:oil",
    "format:clay-mask",
    "format:wash",
    "format:kit",
@@ -1898,7 +1880,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:foam",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -1985,7 +1966,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:foam",
    "format:essence",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -2273,7 +2253,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:witch-hazel",
@@ -2547,7 +2526,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -2775,7 +2753,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:papaya",
@@ -2938,7 +2915,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:neem",
@@ -3217,7 +3193,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -3947,7 +3922,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:salicylic-acid-bha",
@@ -4560,7 +4534,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:patch",
    "format:wash",
@@ -4718,7 +4691,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -4957,7 +4929,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -5039,7 +5010,6 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:toner",
-   "format:oil",
    "format:pack",
    "format:scrub",
    "format:wash",
@@ -5270,7 +5240,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -6078,7 +6047,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:scrub",
    "format:patch",
@@ -6387,7 +6355,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:roll-on",
@@ -6836,7 +6803,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:sheet-mask",
    "format:peel-off",
    "format:peel",
@@ -7281,7 +7247,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:salicylic-acid-bha",
@@ -7503,7 +7468,6 @@ const CTPRODUCTS = [
   "title": "ORGANIC ALLIGATOR 2% Salicylic Acid,1% Niacinamide acid, Kojic &l …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "ing:vitamin-c",
@@ -7590,7 +7554,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -7870,7 +7833,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:bakuchiol",
    "ing:salicylic-acid-bha",
@@ -7944,7 +7906,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:bakuchiol",
@@ -8021,7 +7982,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:niacinamide",
@@ -8468,7 +8428,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -8622,7 +8581,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -8931,7 +8889,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:peel",
    "format:wash",
@@ -9322,7 +9279,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -9992,7 +9948,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -10656,7 +10611,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:bakuchiol",
    "ing:salicylic-acid-bha",
@@ -10826,7 +10780,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:vitamin-c",
@@ -12307,7 +12260,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -12386,7 +12338,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:vitamin-c",
@@ -14361,7 +14312,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:scrub",
    "format:wash",
@@ -14523,7 +14473,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:scrub",
    "format:wash",
@@ -15616,7 +15565,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:peel",
    "format:wash",
@@ -16221,7 +16169,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:serum",
    "format:mist",
-   "format:oil",
    "format:balm",
    "format:pack",
    "format:scrub",
@@ -17002,7 +16949,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:peel",
    "format:kit",
@@ -17890,7 +17836,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -18317,7 +18262,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:salicylic-acid-bha",
@@ -18537,7 +18481,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -18750,7 +18693,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
@@ -19050,7 +18992,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:green-tea",
    "claim:acne",
@@ -19122,7 +19063,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -19204,7 +19144,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
@@ -19736,7 +19675,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -19811,7 +19749,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:salicylic-acid-bha",
    "ing:pha",
@@ -19892,7 +19829,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -20129,7 +20065,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -20509,7 +20444,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -20863,7 +20797,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:body",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:salicylic-acid-bha",
    "claim:brightening",
@@ -21071,7 +21004,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -21314,7 +21246,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -21389,7 +21320,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:salicylic-acid-bha",
    "ing:aloe-vera",
@@ -21842,7 +21772,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "spf:50",
    "ing:salicylic-acid-bha",
@@ -22144,7 +22073,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:retinol",
    "ing:salicylic-acid-bha",
@@ -22527,7 +22455,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:salicylic-acid-bha",
@@ -22610,7 +22537,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:salicylic-acid-bha",
@@ -22691,7 +22617,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -22760,7 +22685,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -22984,7 +22908,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:salicylic-acid-bha",
    "claim:pores",
@@ -23058,7 +22981,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:centella-cica",
@@ -23216,7 +23138,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
    "ing:licorice",
@@ -24879,7 +24800,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:green-tea",
@@ -25601,7 +25521,6 @@ const CTPRODUCTS = [
   "title": "TUPIK Salicylic Acid for Daily Skin Care with Tea Tree Extract A …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -25685,7 +25604,6 @@ const CTPRODUCTS = [
   "title": "TUPIK Salicylic Acid Anti Acne Oil Control Formula with Tea Tree …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:kojic-acid",
@@ -25772,7 +25690,6 @@ const CTPRODUCTS = [
   "title": "TUPIK Salicylic Acid Deep Cleansing Oil Control with Natural Ex …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
@@ -25858,7 +25775,6 @@ const CTPRODUCTS = [
   "title": "TUPIK Salicylic Acid for Acne Care with Tea Tree Aloe Vera and O …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:tea-tree",
@@ -25942,7 +25858,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -26115,7 +26030,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:foam",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -26436,7 +26350,6 @@ const CTPRODUCTS = [
   "title": "TUPIK Salicylic Acid for Oily Skin | Acne Control Deep Pore Clea …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:aloe-vera",
@@ -26828,7 +26741,6 @@ const CTPRODUCTS = [
   "title": "krika 2% Salicylic acid Facewash for Glowing Face Wash (100 ml)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:green-tea",
@@ -26990,7 +26902,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -27145,7 +27056,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:foam",
    "format:essence",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -27227,7 +27137,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -27383,7 +27292,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -27540,7 +27448,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -27628,7 +27535,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:aloe-vera",
@@ -27710,7 +27616,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:aloe-vera",
@@ -28090,7 +27995,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -29437,7 +29341,6 @@ const CTPRODUCTS = [
   "title": "blestaaa essentialss 2% Salicylic Acid for Acne, Oil Control & C …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:de-tan",
@@ -29581,7 +29484,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -29660,7 +29562,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -29743,7 +29644,6 @@ const CTPRODUCTS = [
   "title": "Kronzam Salicylic Acid | Daily Acne Control | Deep Cleansing Fo …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:neem",
@@ -29979,7 +29879,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -30144,7 +30043,6 @@ const CTPRODUCTS = [
   "title": "ELIBLISS Salicylic with Green Tea, Leaf Extract for Oily Acne Pr …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -30376,7 +30274,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -30447,7 +30344,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -30521,7 +30417,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:essence",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:niacinamide",
@@ -30670,7 +30565,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -31047,7 +30941,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -31395,7 +31288,6 @@ const CTPRODUCTS = [
   "title": "Viaggio Oil Control & Acne Prone Skin Salicylic Acid Cleanser for …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -31466,7 +31358,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:peel",
    "format:wash",
    "ing:salicylic-acid-bha",
@@ -31545,7 +31436,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -31621,7 +31511,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -31698,7 +31587,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
@@ -32152,7 +32040,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -32572,7 +32459,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -32729,7 +32615,6 @@ const CTPRODUCTS = [
   "title": "Brinton UV Doux OC Salicylic & Glycolic Acid for Oily & Acne Pro …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -32806,7 +32691,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -32890,7 +32774,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -32968,7 +32851,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -33055,7 +32937,6 @@ const CTPRODUCTS = [
   "title": "BLUECHIP BerryBlush Anti-Acne Salicylic Acid Brightening – 2x50m …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
@@ -33139,7 +33020,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -33220,7 +33100,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -33459,7 +33338,6 @@ const CTPRODUCTS = [
   "title": "EDITH NATURALS Salicylic Acid 2% | For Acne & Oil Control |Suita …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
@@ -33539,7 +33417,6 @@ const CTPRODUCTS = [
   "title": "TUPIK Salicylic Acid for Oily Combination & Acne Prone Skin Dail …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:aloe-vera",
@@ -33935,7 +33812,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:pack",
    "format:peel",
    "ing:niacinamide",
@@ -34860,7 +34736,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -34938,7 +34813,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:salicylic-acid-bha",
@@ -35165,7 +35039,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -35939,7 +35812,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -38261,7 +38133,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:de-tan",
@@ -38810,7 +38681,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -39572,7 +39442,6 @@ const CTPRODUCTS = [
   "title": "HARMELY HARVEST AHA-BHA 3% Face Wash| Exfoliating Cleanser for Ac …",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "format:roll-on",
@@ -39664,7 +39533,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -39815,7 +39683,6 @@ const CTPRODUCTS = [
   "title": "HARMELY HARVEST AHA-BHA 3% Face Wash + AHA-BHA-PHA 8% Body Wash ( …",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -40463,7 +40330,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:salicylic-acid-bha",
@@ -40543,7 +40409,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:salicylic-acid-bha",
@@ -40627,7 +40492,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -40942,7 +40806,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -41020,7 +40883,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -42379,7 +42241,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -42451,7 +42312,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -42735,7 +42595,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -43172,7 +43031,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -43251,7 +43109,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -43648,7 +43505,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:serum",
    "format:mist",
-   "format:oil",
    "format:pack",
    "format:scrub",
    "format:wash",
@@ -43961,7 +43817,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -44726,7 +44581,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:lotion",
    "format:serum",
-   "format:oil",
    "format:balm",
    "format:pack",
    "format:wash",
@@ -45262,7 +45116,6 @@ const CTPRODUCTS = [
    "format:cream",
    "format:serum",
    "format:toner",
-   "format:oil",
    "format:pack",
    "format:kit",
    "spf:50",
@@ -45426,7 +45279,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:aloe-vera",
@@ -45503,7 +45355,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:colloidal-oatmeal",
    "claim:acne",
@@ -45573,7 +45424,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:aloe-vera",
@@ -45651,7 +45501,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:green-tea",
    "claim:acne",
@@ -45731,7 +45580,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -46478,7 +46326,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "spf:30",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -46637,7 +46484,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:kit",
    "ing:salicylic-acid-bha",
    "claim:oil-control",
@@ -47000,7 +46846,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "ing:vitamin-c",
@@ -47614,7 +47459,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -47694,7 +47538,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:oil-control",
@@ -48842,7 +48685,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:kit",
    "ing:salicylic-acid-bha",
    "claim:oil-control",
@@ -48992,7 +48834,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:salicylic-acid-bha",
    "ing:tea-tree",
@@ -49061,7 +48902,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "claim:brightening",
    "claim:acne",
@@ -49138,7 +48978,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -49465,7 +49304,6 @@ const CTPRODUCTS = [
    "format:gel",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:cocoa-butter",
@@ -50265,7 +50103,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -51375,7 +51212,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -51915,7 +51751,6 @@ const CTPRODUCTS = [
   "title": "Délmarin Power Clean Face Wash for Men with Salicylic Acid, Niacinamide, Zinc PCA and Menthyl Lactate, Deep Cleansing, Oil Control, Instant Cooling Feel and Deep Marine Freshness, 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -52111,7 +51946,6 @@ const CTPRODUCTS = [
   "title": "Neutrogena Oil Free Acne Wash | 2% Salicylic Acid Deep Cleansing Face Wash for Oily Skin|Hydrating, Alcohol Free, Non Comedogenic & Dermatologically Tested | For Oily Acne Prone Skin |For Men & Women 175ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -52181,7 +52015,6 @@ const CTPRODUCTS = [
   "title": "Deconstruct Salicylic Acid Oil Control Face Wash with Niacinamide | Facewash for Men & Women | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -52247,7 +52080,6 @@ const CTPRODUCTS = [
   "title": "Oil-Control Face Wash | Acne & Oily Skin Cleanser for Men & Women with 1% Salicylic Acid, Rice Water & Centella Asiatica – 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:rice-water",
@@ -52781,7 +52613,6 @@ const CTPRODUCTS = [
   "title": "Hyphen Oil Control 2% AHA + BHA, Salicylic Acid Face Wash for Oily Skin & Acne| Daily Exfoliating Cleanser with 2% Niacinamide | Deep Cleanses & Removes Dirt | For Men & Women - 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -52852,7 +52683,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
@@ -53932,7 +53762,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
@@ -54000,7 +53829,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -54220,7 +54048,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -54697,7 +54524,6 @@ const CTPRODUCTS = [
   "title": "Lacto Calamine Neem Face Wash With Aloe Vera & Turmeric | 150ml | Niacinamide & Salicylic Acid Face Wash | Facewash Reduces Pimples, Purifies Skin & Oil Control | For All Skin Types",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -54971,7 +54797,6 @@ const CTPRODUCTS = [
   "title": "Seoulskin 2% Salicylic Acid Acne Control Face Wash for Oily & Acne Prone Skin | With AHAs for Pore Cleansing, Oil Control & Sebum Regulation | Treats Active Acne | For Women & Men | 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -55307,7 +55132,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:pores",
@@ -55372,7 +55196,6 @@ const CTPRODUCTS = [
   "title": "DERMATOUCH Salicylic Acid 2% Face Wash | For Acne & Oil Control | Suitable to All Skin Types | For Both Men and Women | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -55437,7 +55260,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne Face Wash (100ml) with Salicylic Acid & Walnut Shell Powder – Deep Pore Cleansing Oil Control Face Cleanser for Pimples, Blackheads & Clear Skin",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:powder",
    "format:wash",
    "ing:salicylic-acid-bha",
@@ -55844,7 +55666,6 @@ const CTPRODUCTS = [
   "title": "Dot & Key CICA Face Wash for Acne Prone Skin, 2% Salicylic Acid with Green Tea | For Oily & Sensitive Skin | Sulphate Free for Men & Women | Oil Control Face Wash with Zinc | 175ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:green-tea",
@@ -56188,7 +56009,6 @@ const CTPRODUCTS = [
   "title": "COS-IQ Salicylic Acid Face Wash 2% with 10% Glycolic Acid For All Skin Type | Anti-Acne Exfoliating Face Cleanser for Pimples, Blackheads, Unclogging Pores & Oil Control Cleanser for Women & Men, 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -56322,7 +56142,6 @@ const CTPRODUCTS = [
   "title": "Délmarin Acne Control Face Wash with 2% Salicylic Acid, 2% Niacinamide and Zinc PCA, Anti-Acne Cleanser for Oil Control and Pore Cleansing, Oily and Acne-Prone Skin, 80 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -56393,7 +56212,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -56460,7 +56278,6 @@ const CTPRODUCTS = [
   "title": "2% Salicylic Acid Face Wash for Acne, Pimples, Blackheads and Oil Control - Niacinamide Cleanser for Oily, Acne-Prone Skin, Pore Cleansing, Men and Women, 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -56736,7 +56553,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne & Oil Control Face Wash for Men & Women | 1.5% Salicylic Acid + 3.5% Niacinamide | Deep Pore Cleanser for Oily & Acne-Prone Skin |100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -56805,7 +56621,6 @@ const CTPRODUCTS = [
   "title": "Acne Control Face Wash with Salicylic Acid & Niacinamide, 100 ml | A+ Care | 1.5% Salicylic Acid + 3.5% Niacinamide | Oil Control | Gentle Daily Cleanser | For Oily & Acne-Prone Skin",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -57224,7 +57039,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne & Oil Control Face Wash for Men & Women | 1.5% Salicylic Acid + 3.5% Niacinamide | Deep Pore Cleanser for Oily & Acne-Prone Skin | 2 × 100 ml | Pack of 2",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -57294,7 +57108,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne Brightening Face Wash with Niacinamide 4% Salicylic Acid 1% Vitamin C Aloe Vera Extract Oil Control Deep Cleansing Facial Cleanser Lightweight Non Sticky Daily Face Wash for Oily Acne Prone Skin 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -57367,7 +57180,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -57440,7 +57252,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -57513,7 +57324,6 @@ const CTPRODUCTS = [
   "title": "Salicylic Acid Face Wash for Acne & Oily Skin | Anti-Pimple Cleanser for Men & Women | Deep Cleansing, Oil Control, Acne-Prone Skinsalicylic acid Aloveera & Glycolic Acid & Vitamin-E-Acetae | All Skin Types | dermatologist recommended acne face wash",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -58345,7 +58155,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -59039,7 +58848,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -59375,7 +59183,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "claim:brightening",
@@ -59452,6 +59259,77 @@ const CTPRODUCTS = [
    "claim:brightening",
    "claim:pores",
    "claim:exfoliating",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0glwr28mw",
+  "brand": "Buy",
+  "model": "RYLLZ ESSENTIALS Rice Water Face Mask | With Kaolin Clay, 5% Niacinamide, 2% Salicylic Aci…",
+  "price": 297,
+  "capacityLine": "50 g",
+  "materialLine": "niacinamide + salicylic acid (BHA) + ceramides",
+  "featureLine": "Mask / pack · ₹594/100g",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.7,
+   "skin": 4,
+   "ingredients": 6.7,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹594/100g",
+   "format": "Mask / pack",
+   "keyIngredients": "niacinamide, salicylic acid (BHA), ceramides, rice water, clay/mud (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71xHWZglFzL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GLWR28MW",
+  "buyStore": "Amazon",
+  "title": "Buy RYLLZ ESSENTIALS Rice Water Face Mask | With Kaolin Clay, 5% Niacinamide, 2% Salicylic Acid & Ceramide | For Glass Skin, Glow, Dark Spots, Oil Control, Open Pores, Uneven & Dull Skin | Korean Skincare | 50Gm Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:clay-mask",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "ing:ceramides",
+   "ing:rice-water",
+   "ing:clay",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:korean",
    "aud:unisex",
    "size:travel",
    "rating:4.0",
@@ -59926,7 +59804,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:peel",
    "format:kit",
    "ing:niacinamide",
@@ -60339,7 +60216,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -60546,7 +60422,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -60829,7 +60704,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:green-tea",
@@ -61039,7 +60913,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:green-tea",
@@ -61375,7 +61248,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
@@ -61511,7 +61383,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:green-tea",
@@ -61735,7 +61606,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:green-tea",
@@ -61870,7 +61740,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -62074,7 +61943,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -62213,7 +62081,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -62354,7 +62221,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -62428,7 +62294,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -62562,7 +62427,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:retinol",
    "ing:salicylic-acid-bha",
@@ -62652,6 +62516,76 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true
+  }
+ },
+ {
+  "id": "buy-b0h291zm6y",
+  "brand": "Buy",
+  "model": "Mamaearth Mung Bean Pore Cleansing Face Scrub with Mung Bean, AHA BHA - 100g | Face Scrub …",
+  "price": 279,
+  "capacityLine": "100 g",
+  "materialLine": "salicylic acid (BHA)",
+  "featureLine": "Scrub / exfoliant · ₹279/100g",
+  "highlight": "Live Amazon listing rated 4.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.6)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹279/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "salicylic acid (BHA) (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.6/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51V8DQfI+gL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H291ZM6Y",
+  "buyStore": "Amazon",
+  "title": "Buy Mamaearth Mung Bean Pore Cleansing Face Scrub with Mung Bean, AHA BHA - 100g | Face Scrub for Oily Skin | India's 1st Foam Scrub for Deep Pore Cleansing | Gentle Exfoliation | Oil Control | Tan Removal Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:face",
+   "format:foam",
+   "format:scrub",
+   "format:wash",
+   "ing:salicylic-acid-bha",
+   "ing:aha",
+   "claim:de-tan",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:exfoliating",
+   "skin:oily",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
   }
  },
  {
@@ -68349,7 +68283,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -68417,7 +68350,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:peel",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -69513,7 +69445,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -70631,7 +70562,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:neem",
@@ -71448,7 +71378,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -71645,7 +71574,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -71713,7 +71641,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:tranexamic-acid",
    "claim:dark-spots",
@@ -71852,7 +71779,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:centella-cica",
    "ing:zinc",
@@ -72057,7 +71983,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
@@ -73563,7 +73488,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -75614,7 +75538,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:oil-control",
@@ -75679,7 +75602,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -75743,7 +75665,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:pores",
@@ -75809,7 +75730,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -76136,7 +76056,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -76744,7 +76663,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -77086,7 +77004,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:zinc",
    "claim:acne",
@@ -77286,7 +77203,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
@@ -77421,7 +77337,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:aloe-vera",
    "claim:acne",
@@ -77490,7 +77405,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -77557,7 +77471,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -77764,7 +77677,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -77834,7 +77746,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "claim:brightening",
    "claim:oil-control",
@@ -77899,7 +77810,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:green-tea",
    "ing:neem",
@@ -78031,7 +77941,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:peptides",
@@ -78233,7 +78142,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:azelaic-acid",
    "ing:green-tea",
@@ -79038,7 +78946,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:zinc",
    "claim:acne",
@@ -79307,7 +79214,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -79377,7 +79283,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -79648,7 +79553,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -79991,7 +79895,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:witch-hazel",
@@ -80253,7 +80156,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "claim:brightening",
@@ -80386,7 +80288,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -80521,7 +80422,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "claim:dark-spots",
@@ -80659,7 +80559,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:foam",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -80864,7 +80763,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -80997,7 +80895,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:cream",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
@@ -81533,7 +81430,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -81599,7 +81495,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -81735,7 +81630,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -82200,7 +82094,6 @@ const CTPRODUCTS = [
   "title": "Hyphen Anti-Acne 2% Salicylic Acid Face Wash | Oil Control & Pore Cleansing",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -83121,7 +83014,6 @@ const CTPRODUCTS = [
   "title": "DERMATOUCH Salicylic Acid 2% Face Wash | For Acne & Oil Control | Suitable to All Skin Types | For Both Men and Women | 50ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -83654,7 +83546,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -83722,7 +83613,6 @@ const CTPRODUCTS = [
   "title": "Earthwise 2% Salicylic and 1% Glycolic oil free Face Wash | Deep Cleansing Hydrating | Anti-Acne and Oil Control | Paraben-Free | Sulfate-Free | Suitable For All Skin Type | 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -83996,7 +83886,6 @@ const CTPRODUCTS = [
   "title": "Edith Naturals 2% Salicylic Acid Face Wash, Anti-Pimples, Removes Blackheads, Oil Free, Alcohol Free, 100 ML",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -84128,7 +84017,6 @@ const CTPRODUCTS = [
   "title": "ROTEX Will Impex Salisix Facewash | Salicylic Acid Face Wash for Acne, Pimples & Oily Skin | Deep Cleansing & Oil Control Formula | Dermatologist Recommended | 60 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -84196,7 +84084,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:pores",
@@ -84653,7 +84540,6 @@ const CTPRODUCTS = [
   "title": "Acne Control Face Cleanser 100ml with 2% Salicylic Acid | Face Wash for Oily & Acne-Prone Skin | Niacinamide & Ceramides | Oil-Free, Reduces Pimples, Blackheads & Redness | Daily Use",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -84723,7 +84609,6 @@ const CTPRODUCTS = [
   "title": "MEDISHOPP Salisix Face Wash 2% Salicylic Acid & Triclosan, Paraben-Free Deep Cleansing Face Wash for Oily & Acne-Prone Skin, Oil Control Facial Cleanser (60 ml)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -84932,7 +84817,6 @@ const CTPRODUCTS = [
   "title": "Yubari Salicylic Acid & Green Tea Face Wash – Oil Control, Sebum Regulation & Acne Care Cleanser | Sulfate-Free Daily Facewash for Oily, Combination & Acne-Prone Skin | Men & Women | 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:green-tea",
@@ -85349,7 +85233,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -85756,7 +85639,6 @@ const CTPRODUCTS = [
   "title": "Edith 2% Salicylic Acid Face Wash, Anti-Pimples, Revive Dead Skin, Oil Free, Remove Blackheads & Whitehead, 100 ML- pack of 2",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -86228,7 +86110,6 @@ const CTPRODUCTS = [
   "title": "Edith 2% Salicylic Acid Face Wash, Anti-Pimples, Removes Blackheads, Oil Free Skin, Alcohol Free, 100 ML",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -86421,7 +86302,6 @@ const CTPRODUCTS = [
   "title": "AAYURIX Salinamide Face Wash for Acne & Pimples | 2% Salicylic Acid + 2% Niacinamide + AHAs & PHAs | Deep Clean, Oil Control, Marks Removal | For Men & Women | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -86486,7 +86366,6 @@ const CTPRODUCTS = [
   "title": "Salicylic Acid Face Wash for Oily & Acne-Prone Skin for Women & Men with Hyaluronic Acid | Acne & Oil Control, Deep Pore Cleansing, Daily Use Face Cleanser | 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
@@ -86556,7 +86435,6 @@ const CTPRODUCTS = [
   "title": "Yubari’s Kino Tree Face Wash with 2% Salicylic Acid & Green Tea Extract | Deep Cleansing Oil Control Face Wash for Acne, Pimples & Blackheads | Gentle Exfoliating Cleanser for Oily & Acne-Prone Skin, 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:green-tea",
@@ -86625,7 +86503,6 @@ const CTPRODUCTS = [
   "title": "Salicylic Acid & Hyaluronic Acid Face Wash for Oily & Acne-Prone Skin | Acne Control, Oil Control Deep Cleansing Face Cleanser for Women & Men | 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
@@ -86892,7 +86769,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -87156,7 +87032,6 @@ const CTPRODUCTS = [
   "title": "Oil Control & Anti Acne Face Wash with 2% Salicylic Acid 1% Niacinamide & Licorice Extract for Oily Acne Prone Skin Deep Cleansing Pore Purifying Blackhead Removal Excess Oil Control Daily Facial",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -87226,7 +87101,6 @@ const CTPRODUCTS = [
   "title": "Oil Free Acne Wash | 2% Salicylic Acid Deep Cleansing Face Wash for Oily Skin|Hydrating, Alcohol Free, Non Comedogenic & Dermatologically Tested | For Oily Acne Prone Skin |For Men & Women (Pack of 1)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -87298,7 +87172,6 @@ const CTPRODUCTS = [
   "title": "2% Salicylic Acid Anti-Acne Face Wash | Niacinamide 6%, Oil Control Cleanser (100ml)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -87432,7 +87305,6 @@ const CTPRODUCTS = [
   "title": "KRUP Aqua Glow Beads Face Wash with Salicylic Acid & Vitamin E for Instant Glow & Oil Control - Acne Clearing BHA Cleanser for Men & Women | All Skin Types 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:vitamin-e",
@@ -88048,7 +87920,6 @@ const CTPRODUCTS = [
   "title": "Rotex Aczee Beta Skin Whitening Face Wash – Salicylic Acid 2% with Aloe Vera | Deep Cleansing, Oil Control & Skin Brightening | Gentle Exfoliating Face Wash for All Skin Types | 60g (Pack of 2)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -88249,7 +88120,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne Brightening Face Wash with Niacinamide Salicylic Acid Vitamin C Aloe Vera Extract Gentle Daily Cleanser for Oily Acne Prone Skin Deep Cleansing Oil Control Hydrating Face Cleanser 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -88321,7 +88191,6 @@ const CTPRODUCTS = [
   "title": "3% AHA-BHA Face Wash | For Acne Control, Oil Balance & Bright Skin | With 1% Glycolic Acid, 1% Lactic Acid & 1% Salicylic Acid (100ml)+ 4% AHA-BHA Underarm Roll-On | For Body Odour & Underarm Brightening | With 2% Lactic Acid, 1% Glycolic Acid, 1% Salicylic Acid & 1% Niacinamide (50ml)",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:wash",
    "format:roll-on",
    "ing:niacinamide",
@@ -88528,7 +88397,6 @@ const CTPRODUCTS = [
   "title": "Unisex Clarifying Face Wash with Niacinamide, 1% Salicylic Acid, Green Tea, and Cica | Helps Purify Pores Supports Oil Control for Acne & Acne Marks For All Skins Pack of 2 100ml Each_P (100ML)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -88597,7 +88465,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne Brightening Face Wash with Niacinamide 4% Salicylic Acid 1% Vitamin C Aloe Vera Extract Deep Cleansing Oil Control Face Cleanser for Oily Acne Prone Skin Lightweight Non Sticky Daily Face Wash 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -88668,7 +88535,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne Brightening Face Wash with Niacinamide 4% Salicylic Acid 1% Vitamin C Aloe Vera Extract Oil Control Deep Cleansing Daily Facial Cleanser for Oily Acne Prone Skin Lightweight Non Sticky 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -88740,7 +88606,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -89024,7 +88889,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne & Brightening Face Wash with Niacinamide 4%, Salicylic Acid 1% & Vitamin C | Aloe Vera Extract Facial Cleanser | Deep Pore Cleansing, Oil Control & Acne Care | Lightweight Daily Face Wash for Oily, Combination & Acne-Prone Skin | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -89097,7 +88961,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne & Brightening Face Wash with Niacinamide 4%, Salicylic Acid 1% & Vitamin C | Aloe Vera Extract | Deep Cleansing Oil Control Face Cleanser | Helps Reduce Acne, Blemishes & Acne Marks | Daily Facial Wash for Oily & Combination Skin | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -89168,7 +89031,6 @@ const CTPRODUCTS = [
   "title": "Clear Skin Protection Pack Salicylic Acid Face Wash and SPF 50 Sunscreen Combo Daily Skincare Set for Oil Control Skin Cleansing and Sun Protection Routine for Men and Women",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -89234,7 +89096,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne Brightening Face Wash with Niacinamide 4 Percent Salicylic Acid 1 Percent Vitamin C Aloe Vera Extract Daily Deep Cleansing Oil Control Face Cleanser for Oily Acne Prone Skin 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -89444,7 +89305,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne & Brightening Face Wash with Niacinamide 4%, Salicylic Acid 1% & Vitamin C | Aloe Vera Extract Face Cleanser for Oily & Acne-Prone Skin | Deep Cleansing, Oil Control & Skin Brightening | 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -89514,7 +89374,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne & Brightening Face Wash with Niacinamide 4%, Salicylic Acid 1% & Vitamin C | Aloe Vera Extract | Deep Cleansing Facial Cleanser for Oily & Acne-Prone Skin | Oil Control, Acne Care & Skin Brightening | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -89584,7 +89443,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne & Brightening Face Wash with Niacinamide 4%, Salicylic Acid 1% & Vitamin C | Aloe Vera Extract Facial Cleanser | Oil Control, Deep Pore Cleansing & Skin Brightening | Daily Face Wash for Oily & Acne-Prone Skin | 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -89655,7 +89513,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne & Brightening Face Wash with Niacinamide 4%, Salicylic Acid 1% & Vitamin C | Aloe Vera Extract | Deep Cleansing Oil Control Facial Cleanser | Helps Reduce Acne Marks & Brightens Skin | Lightweight Daily Face Wash | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -89725,7 +89582,6 @@ const CTPRODUCTS = [
   "title": "Unisex Clarifying Face Wash with Niacinamide, 1% Salicylic Acid, Green Tea, and Cica | Helps Purify Pores Supports Oil Control for Acne & Acne Marks For All Skins Pack of 2 100ml Each_P (200ML)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -89794,7 +89650,6 @@ const CTPRODUCTS = [
   "title": "Anti Acne Brightening Face Wash with Aloe Vera Extracts, Niacinamide 4%, Salicylic Acid 1% & Vitamin C, Deep Cleansing Facial Cleanser for Oily & Acne Prone Skin, Oil Control, Skin Brightening, Lightweight Formula, 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -90070,7 +89925,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -90474,7 +90328,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:pha",
@@ -90678,7 +90531,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:pha",
    "claim:pores",
@@ -90876,7 +90728,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -91215,7 +91066,6 @@ const CTPRODUCTS = [
   "title": "Dr. Sakhiya's Acne & Pimple Face Wash, 2% Salicylic Acid, Niacinamide, 70ml | Dermatologist formulated acne face wash with 2% Salicylic Acid & Niacinamide, oil-free, paraben-free, reduces breakouts, 70m.",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -91346,7 +91196,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:centella-cica",
    "ing:zinc",
@@ -91818,7 +91667,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:bakuchiol",
@@ -92503,7 +92351,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:neem",
@@ -92774,7 +92621,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -93258,7 +93104,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "claim:acne",
@@ -93325,7 +93170,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -93547,7 +93391,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "claim:brightening",
@@ -93684,7 +93527,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:oil-control",
@@ -94015,7 +93857,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -94292,7 +94133,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:zinc",
@@ -94361,7 +94201,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:alpha-arbutin",
@@ -94566,7 +94405,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:green-tea",
@@ -95246,7 +95084,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -95717,7 +95554,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:peptides",
    "claim:acne",
@@ -96258,7 +96094,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:foam",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -96458,7 +96293,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:gel",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:kojic-acid",
@@ -96799,7 +96633,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -96936,7 +96769,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:kit",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -97141,7 +96973,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -97277,7 +97108,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -97413,7 +97243,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -97484,7 +97313,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -97965,7 +97793,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -98308,7 +98135,6 @@ const CTPRODUCTS = [
   "title": "The Derma Co 1% Salicylic Acid Oil-Free Moisturizer For Face with Oat Extract | Fights Active Acne | Deeply Moisturizes | 50 g",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:colloidal-oatmeal",
    "claim:acne",
@@ -98375,7 +98201,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:vitamin-c",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -98582,7 +98407,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "claim:dark-spots",
@@ -98783,7 +98607,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "claim:acne",
    "claim:pores",
@@ -98849,7 +98672,6 @@ const CTPRODUCTS = [
   "title": "Mamaearth Tea Tree Oil-Free Moisturizer For Face For Oily Skin With Tea Tree & Salicylic Acid For Acne & Pimples 80g",
   "tags": [
    "scope:face",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:tea-tree",
    "claim:acne",
@@ -99397,7 +99219,6 @@ const CTPRODUCTS = [
   "title": "Mi Nature Neem & Green Tea Face Mask – Hyaluronic, salicylic Acid |Deep Cleansing Clay for Oily & Combination Skin, Pore Refining & Oil-Balancing, 50g",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:wash",
    "ing:salicylic-acid-bha",
@@ -99608,7 +99429,6 @@ const CTPRODUCTS = [
   "title": "GLAMVEDA Rice & Ceramide And Glycolic & Salicylic Anti Acne Peel Off Face Mask (200 ml) | For Oily & Acne Prone Skin | Oil balancing, Deep Cleansing | Blackhead & Pore care",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel-off",
    "format:peel",
    "format:wash",
@@ -99681,7 +99501,6 @@ const CTPRODUCTS = [
   "title": "Glamveda 0.05% ww Glycolic Acid & 0.05% ww Salicylic Acid Anti Acne Peel off mask | For Oily & Acne Prone Skin | Oil balancing, Deep Cleansing | Blackhead & Pore care | 100gm",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:peel-off",
    "format:peel",
    "format:wash",
@@ -102568,7 +102387,6 @@ const CTPRODUCTS = [
    "scope:body",
    "format:gel",
    "format:lotion",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -108224,6 +108042,77 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "buy-b0h2vjkryw",
+  "brand": "Buy",
+  "model": "WishCare SPF 50 Sunscreen Body Lotion & AHA BHA Exfoliating Body Lotion Combo | Broad Spec…",
+  "price": 759,
+  "capacityLine": "400 ml (pack of 2)",
+  "materialLine": "salicylic acid (BHA)",
+  "featureLine": "Sunscreen · SPF 50 · ₹190/100ml",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹190/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.7,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 5
+  },
+  "fullSpec": {
+   "quantity": "200 ml × 2 pack",
+   "pricePer100": "₹190/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "salicylic acid (BHA) (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51ApdjXu4hL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H2VJKRYW",
+  "buyStore": "Amazon",
+  "title": "Buy WishCare SPF 50 Sunscreen Body Lotion & AHA BHA Exfoliating Body Lotion Combo | Broad Spectrum UVA/UVB Protection with Gentle Chemical Exfoliation for Smooth, Hydrated & Even-Toned Skin | Pack of 2 (200ml each) Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:kit",
+   "spf:50",
+   "ing:salicylic-acid-bha",
+   "ing:aha",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:broad-spectrum",
+   "claim:spf-claim",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
   "id": "aha-b0dw995rnt",
   "brand": "AHA",
   "model": "+ BHA Body Lotion, 200ml, 72H Skin Soft Moisture, 5-in-1 Care for Very Dry Skin",
@@ -110775,7 +110664,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "claim:dark-spots",
    "claim:acne",
@@ -111066,6 +110954,83 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "aqueria-b0gfn1m4t7",
+  "brand": "Aqueria",
+  "model": "Oil Control Brightening Gel Multi-Active French Sunscreen SPF 50 PA++++ | In-Vivo/In-Vitro…",
+  "price": 686,
+  "capacityLine": "100 g",
+  "materialLine": "niacinamide + salicylic acid (BHA) + hyaluronic acid",
+  "featureLine": "Sunscreen · SPF 50 · ₹686/100g",
+  "highlight": "Live Amazon listing rated 3.8★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (3.8)",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹686/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "niacinamide, salicylic acid (BHA), hyaluronic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Acne/blemish claim, SPF 50",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.8/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71m+xz6JxoL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GFN1M4T7",
+  "buyStore": "Amazon",
+  "title": "Aqueria Oil Control Brightening Gel Multi-Active French Sunscreen SPF 50 PA++++ | In-Vivo/In-Vitro Tested | 2% Niacinamide, BHA & Hyaluronic Acid | Modern UV Filters | Broad Spectrum UVA/UVB & Blue Light Protection | Lightweight, Non-Greasy, No White Cast | Suitable for Daily Use | For Oily, Acne-Prone & Combination Skin | 100g",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "spf:50",
+   "pa:++++",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "ing:hyaluronic-acid",
+   "claim:brightening",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:no-white-cast",
+   "claim:broad-spectrum",
+   "claim:blue-light",
+   "claim:lightweight",
+   "claim:spf-claim",
+   "skin:oily",
+   "skin:combination",
+   "skin:acne-prone",
+   "aud:unisex",
+   "size:standard",
+   "rating:3.5",
    "store:amazon"
   ],
   "filters": {
@@ -111668,7 +111633,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:body",
    "format:lotion",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
@@ -112882,7 +112846,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "ing:licorice",
@@ -113983,7 +113946,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:serum",
    "format:mist",
-   "format:oil",
    "format:balm",
    "format:pack",
    "format:scrub",
@@ -115185,7 +115147,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:serum",
-   "format:oil",
    "format:balm",
    "format:pack",
    "format:scrub",
@@ -115269,7 +115230,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -115420,7 +115380,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "format:kit",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -115496,7 +115455,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -116929,7 +116887,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -117149,7 +117106,6 @@ const CTPRODUCTS = [
   "title": "CareVeda Glycolic & 1% Salicylic Acid for Acne & Oil Control | E …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "claim:acne",
@@ -117348,7 +117304,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:salicylic-acid-bha",
@@ -117732,7 +117687,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
    "claim:brightening",
@@ -118187,7 +118141,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:body",
    "format:lotion",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "claim:dark-spots",
@@ -119596,7 +119549,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -120133,7 +120085,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "format:balm",
    "format:wash",
    "format:roll-on",
@@ -120222,7 +120173,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "format:wash",
    "format:roll-on",
    "format:kit",
@@ -120300,7 +120250,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:lotion",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -120887,7 +120836,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:peel",
    "ing:salicylic-acid-bha",
@@ -122202,7 +122150,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -122920,7 +122867,6 @@ const CTPRODUCTS = [
   "title": "rizzolv AHA BHA FACE CLEANSER Face Wash (100 ml)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -123001,7 +122947,6 @@ const CTPRODUCTS = [
   "title": "La Era AHA BHA PHA | Exfoliating & Oil Control | For Clear, Glow …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -123079,7 +123024,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -123300,7 +123244,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -123603,7 +123546,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -123685,7 +123627,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:niacinamide",
@@ -124161,7 +124102,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:niacinamide",
@@ -125006,7 +124946,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:serum",
    "format:mist",
-   "format:oil",
    "format:balm",
    "format:pack",
    "format:wash",
@@ -125752,7 +125691,6 @@ const CTPRODUCTS = [
   "title": "SKKINNEDIT 2% Salicylic + 3% Glycolic Acid | Acne, Oil Control & …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "claim:acne",
@@ -125821,7 +125759,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -125895,7 +125832,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -125967,7 +125903,6 @@ const CTPRODUCTS = [
   "title": "CareVeda Glycolic & 1% Salicylic Acid for Acne & Oil Control | Ex …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "claim:acne",
@@ -126117,7 +126052,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -126200,7 +126134,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -126696,7 +126629,6 @@ const CTPRODUCTS = [
   "title": "CareVeda Glycolic & 1% Salicylic Acid for Acne & Oil Control | Ex …",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
    "claim:acne",
@@ -127108,7 +127040,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -127534,7 +127465,6 @@ const CTPRODUCTS = [
   "title": "ELIBLISS Pimple Clear with Glycolic & 1% Salicylic Anti-Acne & O …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -127774,7 +127704,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:pads",
    "format:wash",
    "ing:salicylic-acid-bha",
@@ -128100,7 +128029,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -128333,7 +128261,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -129039,7 +128966,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -129117,7 +129043,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -129189,7 +129114,6 @@ const CTPRODUCTS = [
   "title": "acnestar Anti-Acne with Aloe Vera & Salicylic Acid Face Wash (50 …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:aloe-vera",
@@ -129419,7 +129343,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:essence",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -129882,7 +129805,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:salicylic-acid-bha",
@@ -130244,7 +130166,6 @@ const CTPRODUCTS = [
   "title": "Globus Naturals Glycolic & 1% Salicylic Acid Herbal Anti Acne Fac …",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -130628,7 +130549,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -131008,7 +130928,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:essence",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -131460,7 +131379,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:lotion",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -131621,7 +131539,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -132251,6 +132168,87 @@ const CTPRODUCTS = [
   }
  },
  {
+  "id": "salisix-itmeba5f5d75d064",
+  "brand": "salisix",
+  "model": "- F with Salicylic & Glycolic Acid for Clear Skin, 6 in 1 …",
+  "price": 351,
+  "capacityLine": "60 ml",
+  "materialLine": "salicylic acid (BHA) + glycolic acid + papaya",
+  "featureLine": "Wash / cleanser · Paraben-free · ₹585/100ml",
+  "highlight": "Live Flipkart listing rated 4.8★ by 4 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Strong buyer rating (4.8)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4.6,
+   "ingredients": 6.2,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "60 ml",
+   "pricePer100": "₹585/100ml",
+   "format": "Wash / cleanser",
+   "keyIngredients": "salicylic acid (BHA), glycolic acid, papaya (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "4.8/5 (4 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/r/9/3/60-0-f-with-salicylic-glycolic-acid-for-clear-skin-6-in-1-original-imahhkzh6mq8k3kj.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/x/a/m/60-0-f-with-salicylic-glycolic-acid-for-clear-skin-6-in-1-original-imahhkzhkzkqygnq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/y/g/v/120-0-f-with-salicylic-glycolic-acid-for-clear-skin-6-in-1-original-imahhkzhzzma5fgb.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/e/w/u/120-0-f-with-salicylic-glycolic-acid-for-clear-skin-6-in-1-original-imahhkzhmdnnxh8a.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/4/a/b/60-0-f-with-salicylic-glycolic-acid-for-clear-skin-6-in-1-original-imahhkzhdauxzcrh.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/salisix-f-salicylic-glycolic-acid-clear-skin-6-1-foaming-face-wash/p/itmeba5f5d75d064",
+  "buyStore": "Flipkart",
+  "title": "salisix - F with Salicylic & Glycolic Acid for Clear Skin, 6 in 1 …",
+  "tags": [
+   "scope:face",
+   "format:foam",
+   "format:wash",
+   "ing:salicylic-acid-bha",
+   "ing:glycolic-acid",
+   "ing:papaya",
+   "claim:brightening",
+   "claim:acne",
+   "claim:exfoliating",
+   "free:paraben",
+   "free:fragrance",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
   "id": "generic-b0ffzn1vfb",
   "brand": "Generic",
   "model": "8% Glycolic Acid Face Toner with 1% Salicylic Acid Multi-functional Exfoliating Toner for …",
@@ -132800,7 +132798,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:pads",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -132941,7 +132938,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:toner",
-   "format:oil",
    "format:pads",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -133685,7 +133681,6 @@ const CTPRODUCTS = [
    "scope:unstated",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:peel",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -135146,7 +135141,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:toner",
-   "format:oil",
    "ing:salicylic-acid-bha",
    "ing:aha",
    "ing:green-tea",
@@ -135764,7 +135758,6 @@ const CTPRODUCTS = [
   "title": "La Era 3% AHA+BHA&PHA Skin Exfoliating Face Wash | Reduces Hyperpigmentation | Gently Exfoliates for Oil-Free Skin | with Witch Hazel Extract | 200ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -136630,7 +136623,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "claim:dark-spots",
@@ -136772,7 +136764,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:pads",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -136841,7 +136832,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "ing:vitamin-c",
    "ing:salicylic-acid-bha",
    "ing:hyaluronic-acid",
@@ -137186,7 +137176,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "claim:acne",
@@ -137327,76 +137316,6 @@ const CTPRODUCTS = [
    "skin:combination",
    "aud:unisex",
    "size:standard",
-   "rating:4.0",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
-  }
- },
- {
-  "id": "wishcare-b0h2vjkryw",
-  "brand": "Wishcare",
-  "model": "SPF 50 Sunscreen Body Lotion & AHA BHA Exfoliating Body Lotion Combo | Broad Spectrum UVA/…",
-  "price": 758,
-  "capacityLine": "400 ml (pack of 2)",
-  "materialLine": "salicylic acid (BHA)",
-  "featureLine": "Sunscreen · SPF 50 · ₹190/100ml",
-  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹190/100ml",
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.3)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 5.8,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 5
-  },
-  "fullSpec": {
-   "quantity": "200 ml × 2 pack",
-   "pricePer100": "₹190/100ml",
-   "format": "Sunscreen",
-   "keyIngredients": "salicylic acid (BHA) (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Hydrating, SPF 50",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51ApdjXu4hL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H2VJKRYW",
-  "buyStore": "Amazon",
-  "title": "WishCare SPF 50 Sunscreen Body Lotion & AHA BHA Exfoliating Body Lotion Combo | Broad Spectrum UVA/UVB Protection with Gentle Chemical Exfoliation for Smooth, Hydrated & Even-Toned Skin | Pack of 2 (200ml each)",
-  "tags": [
-   "scope:body",
-   "format:lotion",
-   "format:kit",
-   "spf:50",
-   "ing:salicylic-acid-bha",
-   "ing:aha",
-   "claim:dark-spots",
-   "claim:hydrating",
-   "claim:exfoliating",
-   "claim:broad-spectrum",
-   "claim:spf-claim",
-   "aud:unisex",
-   "size:xl",
    "rating:4.0",
    "store:amazon"
   ],
@@ -137943,7 +137862,6 @@ const CTPRODUCTS = [
    "scope:body",
    "format:gel",
    "format:lotion",
-   "format:oil",
    "spf:15",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -138607,7 +138525,6 @@ const CTPRODUCTS = [
    "scope:body",
    "format:gel",
    "format:lotion",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -138676,7 +138593,6 @@ const CTPRODUCTS = [
    "scope:body",
    "format:gel",
    "format:lotion",
-   "format:oil",
    "format:kit",
    "spf:15",
    "ing:salicylic-acid-bha",
@@ -141740,7 +141656,6 @@ const CTPRODUCTS = [
   "title": "face peeling solution 25% AHA + 2% BHA + 5% PHA",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -142182,7 +142097,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:peel",
    "spf:50",
    "pa:+++",
@@ -142341,7 +142255,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:peel",
    "spf:50",
    "ing:salicylic-acid-bha",
@@ -142494,7 +142407,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:peel",
    "spf:50",
    "pa:++++",
@@ -142721,7 +142633,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:gel",
    "format:serum",
-   "format:oil",
    "format:peel",
    "spf:50",
    "ing:salicylic-acid-bha",
@@ -144586,7 +144497,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -146532,7 +146442,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:peel",
    "format:kit",
    "ing:retinol",
@@ -146601,7 +146510,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:peel",
    "format:wash",
    "format:kit",
@@ -146737,7 +146645,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:peel",
    "format:wash",
    "format:kit",
@@ -146811,7 +146718,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:serum",
-   "format:oil",
    "format:peel",
    "format:kit",
    "ing:retinol",
@@ -146944,7 +146850,6 @@ const CTPRODUCTS = [
   "title": "Minimalist Salicylic Acid 2% Face Wash + AHA BHA PHA 25% Peeling Solution Mini Combo | Acne Control, Deep Pore Cleansing, Oil Control & Chemical Exfoliation Combo for Oily & Acne-Prone Skin",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel",
    "format:wash",
    "format:kit",
@@ -147085,7 +146990,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:foam",
    "format:serum",
-   "format:oil",
    "format:peel",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -148512,7 +148416,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -149270,7 +149173,6 @@ const CTPRODUCTS = [
    "scope:face",
    "format:foam",
    "format:serum",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -149543,7 +149445,6 @@ const CTPRODUCTS = [
   "title": "Glamveda Glycolic Acid & 0.05% ww Salicylic Acid Anti Acne face wash | For Oily & Acne Prone Skin | Oil balancing, Deep Cleansing | No Paraben, SLS | 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -149680,7 +149581,6 @@ const CTPRODUCTS = [
   "title": "Globus Naturals Pimple Clear Glycolic & 1% Salicylic Acid Face Wash, For Acne & Oil Control, Enriched with Aloe vera & Vitamin E (100ml) (Pack Of 2)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -149819,7 +149719,6 @@ const CTPRODUCTS = [
   "title": "Glamveda Glycolic Acid & 0.05% ww Salicylic Acid Anti Acne Face Wash (100ml Pack of 2) | For Oily & Acne Prone Skin | Oil balancing, Deep Cleansing | No Paraben, SLS",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -150493,7 +150392,6 @@ const CTPRODUCTS = [
   "title": "Glycolic & 1% Salicylic Acid Face Wash for Acne Prone Skin – Anti-Acne Cleanser for Men & Women – Fades Dark Spots & Acne Scars – Oil Control Pimple Clear Facewash with Tea Tree & Aloe Vera – 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -150898,7 +150796,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -151171,7 +151068,6 @@ const CTPRODUCTS = [
   "title": "3 Way Anti-bacterial Face Wash 100 ml | 1% Salicylic Acid, Glycolic Acid | Deep Cleansing | Oil Control | For Oily & Acne-Prone Skin | Paraben Free | For Women & Men - (Pack of 1)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:salicylic-acid-bha",
@@ -151382,7 +151278,6 @@ const CTPRODUCTS = [
   "title": "Aloe Vera Face Wash, 100g | Salicylic Acid, Glycolic Acid & Vitamin E Beads, Deep Cleansing for Oil Control, Smooth & Fresh Skin, Gentle Daily Face Wash",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -151449,7 +151344,6 @@ const CTPRODUCTS = [
   "title": "Salicylic Acid 0.10% Face Wash with Niacinamide Glycolic Acid Vitamin C Aloe Vera for Acne Control Deep Cleansing Exfoliation Oil Free Healthy Clear Skin Daily Use Men Women All Pack Of 1",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:vitamin-c",
@@ -151739,7 +151633,6 @@ const CTPRODUCTS = [
   "title": "Senesco Cooling AHA BHA Face Wash with 2% Salicylic Acid | Oil Control & Acne Care | Deep Cleansing Face Cleanser for Oily & Acne-Prone Skin | With Glycolic Acid, Lactic Acid & Vitamin E | 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -152545,7 +152438,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:bar",
    "format:wash",
    "format:kit",
@@ -152822,7 +152714,6 @@ const CTPRODUCTS = [
   "title": "Acne Control AHA BHA Face Wash | 2% Salicylic Acid, Glycolic Acid & 5% Niacinamide | Deep Cleansing, Oil Control & Clear Skin | For Men & Women | 100g",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -152891,7 +152782,6 @@ const CTPRODUCTS = [
   "title": "Mancrafters Deep Clean Anti-Acne Face Wash for Men | 2% Salicylic Acid + Glycolic Acid | Oil Control Face Wash for Oily & Acne-Prone Skin | Helps Clear Pores | 100 ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -153036,76 +152926,6 @@ const CTPRODUCTS = [
    "claim:acne",
    "skin:oily",
    "skin:acne-prone",
-   "aud:unisex",
-   "size:standard",
-   "rating:4.5",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
-  }
- },
- {
-  "id": "mamaearth-b0h291zm6y",
-  "brand": "Mamaearth",
-  "model": "Mung Bean Pore Cleansing Face Scrub with Mung Bean, AHA BHA - 100g | Face Scrub for Oily S…",
-  "price": 279,
-  "capacityLine": "100 g",
-  "materialLine": "salicylic acid (BHA)",
-  "featureLine": "Scrub / exfoliant · ₹279/100g",
-  "highlight": "Live Amazon listing rated 4.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.6)"
-  ],
-  "cons": [
-   "No free-from claims in listing"
-  ],
-  "scores": {
-   "trust": 6.9,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.2
-  },
-  "fullSpec": {
-   "quantity": "100 g",
-   "pricePer100": "₹279/100g",
-   "format": "Scrub / exfoliant",
-   "keyIngredients": "salicylic acid (BHA) (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "Not stated in listing",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.6/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51V8DQfI+gL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B0H291ZM6Y",
-  "buyStore": "Amazon",
-  "title": "Mamaearth Mung Bean Pore Cleansing Face Scrub with Mung Bean, AHA BHA - 100g | Face Scrub for Oily Skin | India's 1st Foam Scrub for Deep Pore Cleansing | Gentle Exfoliation | Oil Control | Tan Removal",
-  "tags": [
-   "scope:face",
-   "format:foam",
-   "format:oil",
-   "format:scrub",
-   "format:wash",
-   "ing:salicylic-acid-bha",
-   "ing:aha",
-   "claim:de-tan",
-   "claim:pores",
-   "claim:oil-control",
-   "claim:exfoliating",
-   "skin:oily",
    "aud:unisex",
    "size:standard",
    "rating:4.5",
@@ -153703,7 +153523,6 @@ const CTPRODUCTS = [
   "title": "BAKE 5% AHA BHA Face Wash with 1.5% Salicylic Acid, 2% Glycolic Acid & 1% Mandelic Acid for Open Pores, Acne & Dark Spots | For Oily Acne Prone Skin | Daily Exfoliation & Oil Control - 100ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -155692,7 +155511,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:unstated",
    "format:gel",
-   "format:oil",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
    "claim:acne",

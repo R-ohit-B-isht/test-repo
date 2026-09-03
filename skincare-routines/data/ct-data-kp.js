@@ -421,7 +421,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:urea",
    "claim:brightening",
    "claim:de-tan",
@@ -3861,7 +3860,6 @@ const CTPRODUCTS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:kit",
    "ing:urea",
    "claim:oil-control",
@@ -4845,7 +4843,6 @@ const CTPRODUCTS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:balm",
    "format:kit",
    "ing:niacinamide",
