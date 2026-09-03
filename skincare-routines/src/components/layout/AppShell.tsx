@@ -2,14 +2,30 @@ import { Outlet, useLocation } from 'react-router-dom';
 import { AppNavLink as NavLink } from '../ui/AppLink';
 import { clsx } from 'clsx';
 import { useEffect } from 'react';
+import { Monitor, Moon, Sun } from 'lucide-react';
 import { useManifest } from '../../data/hooks';
 import { DevPanel } from '../dev/DevPanel';
+import { setTheme, THEME_ORDER, useTheme } from '../../state/themeStore';
 
 const NAV = [
-  { to: '/', label: 'Routines', end: true },
-  { to: '/products', label: 'Products' },
-  { to: '/c/pigmentation', label: 'Pigmentation protocol' },
+  { to: '/', label: 'Routines', end: true, short: 'Routines' },
+  { to: '/products', label: 'Products', short: 'Products' },
+  { to: '/c/pigmentation', label: 'Pigmentation protocol', short: 'Protocol' },
 ];
+
+const THEME_ICON = { auto: Monitor, light: Sun, dark: Moon } as const;
+const THEME_LABEL = { auto: 'Theme: follows system', light: 'Theme: light', dark: 'Theme: dark' } as const;
+
+function ThemeToggle() {
+  const theme = useTheme();
+  const Icon = THEME_ICON[theme];
+  const next = THEME_ORDER[(THEME_ORDER.indexOf(theme) + 1) % THEME_ORDER.length];
+  return (
+    <button type="button" onClick={() => setTheme(next)} className="btn h-9 w-9 shrink-0 px-0" aria-label={`${THEME_LABEL[theme]}. Switch to ${next}`} title={THEME_LABEL[theme]}>
+      <Icon size={15} />
+    </button>
+  );
+}
 
 export function AppShell() {
   const manifest = useManifest();
@@ -18,33 +34,43 @@ export function AppShell() {
   return (
     <div className="min-h-dvh">
       <button type="button" onClick={() => document.getElementById('main')?.focus()}
-        className="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[60] focus:rounded focus:bg-primary focus:px-3 focus:py-2 focus:text-black">Skip to content</button>
-      <header className="sticky top-0 z-40 border-b border-line bg-black/85 backdrop-blur-md">
-        <div className="mx-auto flex h-14 max-w-[1440px] items-center justify-between gap-4 px-4 sm:px-6">
-          <NavLink to="/" className="flex items-center gap-2">
-            <span className="dot" aria-hidden />
-            <span className="mono text-[12px] tracking-[0.12em] text-display">SKIN·INDIA</span>
+        className="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[60] focus:rounded-full focus:bg-primary focus:px-4 focus:py-2 focus:text-page">Skip to content</button>
+      <header className="glass sticky top-0 z-40 border-b border-line">
+        <div className="mx-auto flex h-16 max-w-[1440px] items-center gap-4 px-4 sm:px-6">
+          <NavLink to="/" className="flex shrink-0 items-center gap-2.5 no-underline">
+            <span className="flex h-8 w-8 items-center justify-center rounded-full bg-accent text-[13px] font-extrabold text-accent-ink" aria-hidden>S</span>
+            <span className="hidden text-[15px] font-extrabold tracking-tight text-display sm:inline">Skin Ledger</span>
           </NavLink>
-          <nav aria-label="Primary" className="scrollbar-thin flex min-w-0 gap-1 overflow-x-auto">
+          <nav aria-label="Primary" className="scrollbar-none flex h-full min-w-0 flex-1 items-stretch gap-0 overflow-x-auto sm:justify-center sm:gap-1">
             {NAV.map((n) => (
               <NavLink key={n.to} to={n.to} end={n.end}
-                className={({ isActive }) => clsx('label press whitespace-nowrap rounded px-3 py-2 transition-colors hover:text-primary', isActive && 'bg-raised !text-display')}>
-                {n.label}
+                className={({ isActive }) => clsx('relative flex items-center whitespace-nowrap px-2 text-[13px] font-bold sm:px-3 sm:text-[14px] text-secondary no-underline transition-colors hover:text-display',
+                  'after:absolute after:inset-x-2 after:bottom-0 sm:after:inset-x-3 after:h-[3px] after:rounded-t-full after:bg-accent after:opacity-0 after:transition-opacity',
+                  isActive && 'text-display after:opacity-100')}>
+                <span className="sm:hidden">{n.short}</span><span className="hidden sm:inline">{n.label}</span>
               </NavLink>
             ))}
           </nav>
+          <ThemeToggle />
         </div>
       </header>
       <main id="main" tabIndex={-1} className="outline-none mx-auto max-w-[1440px] px-4 pb-24 sm:px-6">
         <Outlet />
       </main>
-      <footer className="border-t border-line">
-        <div className="mx-auto flex max-w-[1440px] flex-col gap-3 px-4 py-8 text-[12px] text-secondary sm:flex-row sm:items-center sm:justify-between sm:px-6">
-          <p>
-            Every product is a real listing captured live from Flipkart or Amazon.in. Unknown fields say so. Seller claims are labelled as claims — nothing here is lab-tested or medical advice.
-          </p>
+      <footer className="border-t border-line bg-surface">
+        <div className="mx-auto grid max-w-[1440px] gap-6 px-4 py-10 text-[13px] text-secondary sm:px-6 md:grid-cols-[1fr_auto]">
+          <div className="max-w-2xl">
+            <p className="text-[15px] font-extrabold text-display">Real listings or nothing.</p>
+            <p className="mt-2">
+              Every product is a real listing captured live from Flipkart or Amazon.in. Unknown fields say so. Seller claims are labelled as claims — nothing here is lab-tested or medical advice.
+            </p>
+          </div>
           {manifest.status === 'ready' && (
-            <p className="mono shrink-0">{manifest.data.total.toLocaleString('en-IN')} listings · {manifest.data.routines.count} routines · data {manifest.data.generatedAt.slice(0, 10)}</p>
+            <dl className="grid grid-cols-3 gap-6 self-start md:text-right">
+              <div><dt className="label">Listings</dt><dd className="mt-0.5 text-[20px] font-extrabold text-display">{manifest.data.total.toLocaleString('en-IN')}</dd></div>
+              <div><dt className="label">Routines</dt><dd className="mt-0.5 text-[20px] font-extrabold text-display">{manifest.data.routines.count}</dd></div>
+              <div><dt className="label">Data captured</dt><dd className="mt-0.5 text-[20px] font-extrabold text-display">{manifest.data.generatedAt.slice(0, 10)}</dd></div>
+            </dl>
           )}
         </div>
       </footer>

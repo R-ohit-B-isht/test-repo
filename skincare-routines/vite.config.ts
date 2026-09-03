@@ -10,7 +10,6 @@ export default defineConfig({
         manualChunks: {
           react: ['react', 'react-dom', 'react-router-dom'],
           motion: ['gsap', '@gsap/react', 'framer-motion'],
-          three: ['@designcodeio/threeui/components/DotMatrixBackground'],
         },
       },
     },

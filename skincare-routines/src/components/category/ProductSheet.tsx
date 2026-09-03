@@ -2,11 +2,11 @@ import { useState } from 'react';
 import { ExternalLink } from 'lucide-react';
 import { clsx } from 'clsx';
 import { Sheet } from '../ui/Sheet';
-import { ScoreBar, Skeleton, StatusBlock, ZoneBadge } from '../ui/primitives';
+import { ScoreBadge, ScoreBar, Skeleton, StatusBlock, ZoneBadge } from '../ui/primitives';
 import { useDetail } from '../../data/hooks';
 import type { ProductRow, ScoreKey } from '../../lib/types';
 import { SCORE_META } from '../../domain/scoreMeta';
-import { rupees, storeLabel, verdict } from '../../lib/format';
+import { rupees, specLabel, storeLabel } from '../../lib/format';
 import type { ScopeKey } from './ProductCard';
 
 
@@ -20,50 +20,50 @@ export function ProductSheet({ category, shards, row, rank, scope, weights, onCl
     <Sheet open={!!row} onClose={onClose} title={title}>
       {row && (
         <div className="space-y-6">
-          <header className="flex items-start justify-between gap-4">
-            <div>
-              <p className="label">#{rank} · {storeLabel(row.st)}</p>
-              <h2 className="mt-1 text-[20px] leading-tight text-display">{row.b}</h2>
-              <p className="mt-1 text-[14px] text-secondary">{row.m}</p>
-            </div>
-            <ZoneBadge zone={scope} />
-          </header>
-
-          <div className="grid gap-4 sm:grid-cols-[160px_1fr]">
-            <div>
-              <div className="aspect-[4/5] overflow-hidden rounded bg-white">
-                <img src={detail.status === 'ready' ? detail.data.images[img] ?? row.img : row.img} alt={title} className="h-full w-full object-contain" />
-              </div>
-              {detail.status === 'ready' && detail.data.images.length > 1 && (
-                <div className="mt-2 flex gap-1.5 overflow-x-auto scrollbar-thin" role="tablist" aria-label="Listing images">
-                  {detail.data.images.slice(0, 6).map((src, i) => (
-                    <button key={src} type="button" role="tab" aria-selected={img === i} onClick={() => setImg(i)}
-                      className={clsx('h-11 w-9 shrink-0 overflow-hidden rounded border bg-white', img === i ? 'border-primary' : 'border-line')}>
-                      <img src={src} alt="" className="h-full w-full object-contain" loading="lazy" />
-                    </button>
-                  ))}
+          <div className="card overflow-hidden">
+            <div className="grid gap-0 sm:grid-cols-[220px_minmax(0,1fr)]">
+              <div className="bg-white p-4">
+                <div className="h-[220px] overflow-hidden sm:aspect-[4/5] sm:h-auto">
+                  <img src={detail.status === 'ready' ? detail.data.images[img] ?? row.img : row.img} alt={title} className="h-full w-full object-contain" />
                 </div>
-              )}
-            </div>
-            <div>
-              <div className="flex items-baseline gap-3">
-                <span className="display text-[56px] leading-none">{row.s.toFixed(1)}</span>
-                <span className="label">{verdict(row.s)} / 100</span>
+                {detail.status === 'ready' && detail.data.images.length > 1 && (
+                  <div className="mt-3 flex gap-2 overflow-x-auto scrollbar-thin" role="tablist" aria-label="Listing images">
+                    {detail.data.images.slice(0, 6).map((src, i) => (
+                      <button key={src} type="button" role="tab" aria-selected={img === i} onClick={() => setImg(i)}
+                        className={clsx('h-12 w-10 shrink-0 overflow-hidden rounded-md border-2 bg-white', img === i ? 'border-accent' : 'border-line')}>
+                        <img src={src} alt="" className="h-full w-full object-contain" loading="lazy" />
+                      </button>
+                    ))}
+                  </div>
+                )}
               </div>
-              <dl className="mt-3 grid grid-cols-2 gap-x-4 gap-y-2 text-[13px]">
-                <div><dt className="label">Price</dt><dd className="mono text-display">{rupees(row.p)}</dd></div>
-                <div><dt className="label">Rating</dt><dd className="mono text-display">{row.r !== null ? `${row.r}★${row.rc !== null ? ` · ${row.rc.toLocaleString('en-IN')} ratings` : ''}` : 'Not stated in listing'}</dd></div>
-                <div><dt className="label">Size</dt><dd className="text-primary">{row.q}</dd></div>
-                <div><dt className="label">Format</dt><dd className="text-primary">{row.f}</dd></div>
-              </dl>
-              {detail.status === 'ready' && <p className="mt-3 text-[13px] text-secondary">{detail.data.highlight}</p>}
-              {detail.status === 'loading' && <Skeleton className="mt-3 h-10" />}
+              <div className="p-5">
+                <div className="flex flex-wrap items-center gap-2">
+                  <span className="mono rounded-full bg-raised px-2.5 py-1 text-[12px] font-extrabold text-display">#{rank}</span>
+                  <ZoneBadge zone={scope} />
+                  <span className="label">{storeLabel(row.st)}</span>
+                </div>
+                <p className="mt-3 text-[13px] font-bold text-accent">{row.b}</p>
+                <h2 className="mt-1 text-[20px] leading-snug text-display">{row.m}</h2>
+                <div className="mt-4 flex flex-wrap items-center justify-between gap-3">
+                  <ScoreBadge score={row.s} size="lg" />
+                  <span className="mono text-[24px] font-extrabold text-display">{rupees(row.p)}</span>
+                </div>
+                <dl className="mt-4 grid grid-cols-2 gap-3 border-t border-line pt-4 text-[13px]">
+                  <div><dt className="label">Rating</dt><dd className="mono mt-0.5 font-bold text-display">{row.r !== null ? `${row.r}★${row.rc !== null ? ` · ${row.rc.toLocaleString('en-IN')}` : ''}` : <span className="font-medium text-muted">Not stated</span>}</dd></div>
+                  <div><dt className="label">Size</dt><dd className="mt-0.5 font-bold text-display">{row.q}</dd></div>
+                  <div className="col-span-2"><dt className="label">Format</dt><dd className="mt-0.5 font-bold text-display">{row.f}</dd></div>
+                </dl>
+                {detail.status === 'ready' && <p className="mt-4 text-[14px] leading-relaxed text-secondary">{detail.data.highlight}</p>}
+                {detail.status === 'loading' && <Skeleton className="mt-4 h-10" />}
+              </div>
             </div>
           </div>
 
-          <section aria-labelledby="scores-h">
-            <h3 id="scores-h" className="label mb-3">Score breakdown · price is never scored</h3>
-            <div className="space-y-3">
+          <section aria-labelledby="scores-h" className="card p-5">
+            <h3 id="scores-h" className="text-[15px] font-extrabold text-display">Score breakdown</h3>
+            <p className="mt-0.5 text-[12px] text-muted">Out of 10 per dimension · price is never scored</p>
+            <div className="mt-4 space-y-4">
               {SCORE_META.map((m) => <ScoreBar key={m.key} label={`${m.label} · ${Math.round(weights[m.key] * 100)}%`} value={row.sc[m.key]} hint={m.hint} />)}
             </div>
           </section>
@@ -72,29 +72,29 @@ export function ProductSheet({ category, shards, row, rank, scope, weights, onCl
           {detail.status === 'loading' && <div className="space-y-2"><Skeleton className="h-4 w-1/2" /><Skeleton className="h-4" /><Skeleton className="h-4 w-5/6" /></div>}
           {detail.status === 'ready' && (
             <>
-              <section className="grid gap-4 sm:grid-cols-2">
-                <div>
-                  <h3 className="label mb-2 text-success">For</h3>
-                  <ul className="space-y-1.5 text-[13px] text-primary">{detail.data.pros.map((p) => <li key={p} className="flex gap-2"><span className="text-success">+</span>{p}</li>)}</ul>
+              <section className="grid grid-cols-1 gap-4 sm:grid-cols-2">
+                <div className="card p-5">
+                  <h3 className="text-[14px] font-extrabold text-success">For</h3>
+                  <ul className="mt-3 space-y-2 text-[13px] text-primary">{detail.data.pros.map((p) => <li key={p} className="flex gap-2"><span className="font-extrabold text-success">+</span>{p}</li>)}</ul>
                 </div>
-                <div>
-                  <h3 className="label mb-2 text-warning">Against</h3>
-                  <ul className="space-y-1.5 text-[13px] text-primary">{detail.data.cons.map((c) => <li key={c} className="flex gap-2"><span className="text-warning">−</span>{c}</li>)}</ul>
+                <div className="card p-5">
+                  <h3 className="text-[14px] font-extrabold text-warning">Against</h3>
+                  <ul className="mt-3 space-y-2 text-[13px] text-primary">{detail.data.cons.map((c) => <li key={c} className="flex gap-2"><span className="font-extrabold text-warning">−</span>{c}</li>)}</ul>
                 </div>
               </section>
-              <section>
-                <h3 className="label mb-2">What the listing states</h3>
-                <dl className="divide-y divide-line border-y border-line text-[13px]">
+              <section className="card p-5">
+                <h3 className="text-[15px] font-extrabold text-display">What the listing states</h3>
+                <dl className="mt-3 divide-y divide-line text-[13px]">
                   {Object.entries(detail.data.fullSpec).map(([k, val]) => (
-                    <div key={k} className="grid grid-cols-[minmax(110px,35%)_1fr] gap-3 py-2">
-                      <dt className="text-secondary">{k}</dt>
-                      <dd className={clsx(val === 'Not stated in listing' ? 'text-muted' : 'text-primary')}>{val}</dd>
+                    <div key={k} className="grid grid-cols-[minmax(110px,35%)_1fr] gap-3 py-2.5">
+                      <dt className="text-secondary">{specLabel(k)}</dt>
+                      <dd className={clsx('font-semibold', val === 'Not stated in listing' ? 'font-medium text-muted' : 'text-display')}>{val}</dd>
                     </div>
                   ))}
                 </dl>
-                <p className="mt-2 text-[11px] text-muted">Values are the seller's own listing claims, not lab tests. Missing fields are shown as “Not stated in listing”.</p>
+                <p className="mt-3 text-[12px] text-muted">Values are the seller's own listing claims, not lab tests. Missing fields are shown as “Not stated in listing”.</p>
               </section>
-              <a href={detail.data.buyUrl} target="_blank" rel="noopener noreferrer" className="btn btn-primary w-full">
+              <a href={detail.data.buyUrl} target="_blank" rel="noopener noreferrer" className="btn btn-accent h-12 w-full no-underline">
                 View on {storeLabel(detail.data.buyStore)} <ExternalLink size={14} />
               </a>
             </>

@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { ChevronDown, Search } from 'lucide-react';
+import { Check, ChevronDown, Search } from 'lucide-react';
 import { clsx } from 'clsx';
 import type { FacetGroupDef, FacetRow } from '../../lib/types';
 import type { CategoryIndex } from '../../domain/index';
@@ -42,11 +42,11 @@ function PriceFacet({ cap, value, onChange }: { cap: number; value: number | nul
     <section className="card p-4">
       <div className="flex items-center justify-between">
         <h3 className="label">Price ceiling</h3>
-        <span className="mono text-[12px] text-primary">{value === null ? 'Any' : `≤ ${rupees(v)}`}</span>
+        <span className="mono text-[13px] font-extrabold text-display">{value === null ? 'Any price' : `≤ ${rupees(v)}`}</span>
       </div>
       <input type="range" className="range mt-2" min={100} max={cap} step={50} value={v} aria-label="Maximum price"
         onChange={(e) => onChange(Number(e.target.value) >= cap ? null : Number(e.target.value))} />
-      <p className="mt-1 text-[11px] text-muted">Price is a filter only — it never affects the score.</p>
+      <p className="mt-1 text-[12px] text-muted">Price is a filter only — it never affects the score.</p>
     </section>
   );
 }
@@ -69,9 +69,9 @@ function FacetGroup({ id, def, rows, idx, liveCounts, state, onToggle, onToggleA
     <section className="card">
       <button type="button" className="flex w-full items-center justify-between gap-3 px-4 py-3 text-left" onClick={() => setOpen((o) => !o)} aria-expanded={open} aria-controls={`facet-${id}`}>
         <span>
-          <span className="label !text-primary">{def.label}</span>
-          {selected.length > 0 && <span className="mono ml-2 rounded-full bg-primary px-1.5 text-[10px] text-black">{selected.length}</span>}
-          <span className="mt-0.5 block text-[11px] text-muted">{def.hint}</span>
+          <span className="text-[14px] font-extrabold text-display">{def.label}</span>
+          {selected.length > 0 && <span className="mono ml-2 inline-flex h-5 min-w-5 items-center justify-center rounded-full bg-accent px-1.5 text-[11px] font-extrabold text-accent-ink">{selected.length}</span>}
+          <span className="mt-0.5 block text-[12px] text-muted">{def.hint}</span>
         </span>
         <ChevronDown size={16} className={clsx('shrink-0 text-muted transition-transform duration-200', open && 'rotate-180')} aria-hidden />
       </button>
@@ -82,12 +82,12 @@ function FacetGroup({ id, def, rows, idx, liveCounts, state, onToggle, onToggleA
               {searchable && (
                 <label className="relative flex-1">
                   <Search size={13} className="pointer-events-none absolute left-2.5 top-1/2 -translate-y-1/2 text-muted" aria-hidden />
-                  <input value={q} onChange={(e) => setQ(e.target.value)} placeholder={`Search ${def.label.toLowerCase()}`} className="field h-8 w-full pl-7 text-[11px]" aria-label={`Search ${def.label}`} />
+                  <input value={q} onChange={(e) => setQ(e.target.value)} placeholder={`Search ${def.label.toLowerCase()}`} className="field h-9 w-full pl-8 text-[13px]" aria-label={`Search ${def.label}`} />
                 </label>
               )}
               {def.mode === 'and' && (
                 <button type="button" aria-pressed={matchAll} onClick={() => onToggleAll(id)} title="Require every selected item instead of any"
-                  className={clsx('label h-8 shrink-0 rounded border px-2 transition-colors', matchAll ? 'border-primary bg-primary !text-black' : 'border-line-strong')}>
+                  className={clsx('chip !h-9 shrink-0 !px-3 !text-[12px]')} aria-label={matchAll ? 'Requiring every selected item' : 'Matching any selected item'}>
                   {matchAll ? 'Match all' : 'Match any'}
                 </button>
               )}
@@ -101,23 +101,23 @@ function FacetGroup({ id, def, rows, idx, liveCounts, state, onToggle, onToggleA
               return (
                 <li key={r.tag}>
                   <button type="button" role="checkbox" aria-checked={on} onClick={() => onToggle(r.tag)} disabled={!on && live === 0}
-                    className={clsx('press flex w-full items-center gap-2.5 rounded px-1.5 py-1.5 text-left text-[13px] transition-colors hover:bg-raised disabled:cursor-not-allowed disabled:opacity-40', on && 'text-display')}>
-                    <span className={clsx('flex h-4 w-4 shrink-0 items-center justify-center rounded-[3px] border', on ? 'border-primary bg-primary' : 'border-line-strong')} aria-hidden>
-                      {on && <span className="h-2 w-2 bg-black" />}
+                    className={clsx('press flex w-full items-center gap-3 rounded-lg px-2 py-2 text-left text-[14px] transition-colors hover:bg-raised disabled:cursor-not-allowed disabled:opacity-40', on ? 'font-bold text-display' : 'text-primary')}>
+                    <span className={clsx('flex h-5 w-5 shrink-0 items-center justify-center rounded-md border-2 transition-colors', on ? 'border-accent bg-accent text-accent-ink' : 'border-line-strong')} aria-hidden>
+                      {on && <Check size={12} strokeWidth={3} />}
                     </span>
                     <span className="flex-1 truncate">{r.label}</span>
-                    <span className="mono text-[11px] text-muted tabular-nums">{live.toLocaleString('en-IN')}</span>
+                    <span className="mono text-[12px] text-muted">{live.toLocaleString('en-IN')}</span>
                   </button>
                 </li>
               );
             })}
-            {!shown.length && <li className="px-1.5 py-1 text-[12px] text-muted">No match in this group.</li>}
+            {!shown.length && <li className="px-2 py-1 text-[13px] text-muted">No match in this group.</li>}
           </ul>
           <div className="mt-2 flex items-center justify-between">
             {visibleRows.length > SHOW_LIMIT && !q ? (
-              <button type="button" className="label hover:text-primary" onClick={() => setShowAll((s) => !s)}>{showAll ? 'Show fewer' : `Show all ${visibleRows.length}`}</button>
+              <button type="button" className="label !text-accent hover:underline" onClick={() => setShowAll((s) => !s)}>{showAll ? 'Show fewer' : `Show all ${visibleRows.length}`}</button>
             ) : <span />}
-            {selected.length > 0 && <button type="button" className="label hover:text-primary" onClick={() => onClear(id)}>Clear</button>}
+            {selected.length > 0 && <button type="button" className="label hover:text-display hover:underline" onClick={() => onClear(id)}>Clear</button>}
           </div>
         </div>
       )}

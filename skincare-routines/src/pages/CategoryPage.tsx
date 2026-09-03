@@ -7,7 +7,7 @@ import { sortPositions } from '../domain/sort';
 import { useFilterState } from '../state/useFilterState';
 import { useDevPublish } from '../components/dev/devStore';
 import { AppLink } from '../components/ui/AppLink';
-import { Kicker, StatusBlock, ZoneBadge } from '../components/ui/primitives';
+import { Kicker, SectionHead, StatusBlock, ZoneBadge } from '../components/ui/primitives';
 import { Sheet } from '../components/ui/Sheet';
 import { ScopeControl } from '../components/category/ScopeControl';
 import { FilterPanel } from '../components/category/FilterPanel';
@@ -76,9 +76,9 @@ function CategoryView({ id }: { id: string }) {
 
   return (
     <div className="pb-24">
-      <header className="pt-6 sm:pt-10">
+      <header className="pt-6 sm:pt-8">
         <div className="flex flex-wrap items-center justify-between gap-3">
-          <AppLink to="/products" className="label inline-flex items-center gap-1 hover:text-primary"><ChevronLeft size={14} />All categories</AppLink>
+          <AppLink to="/products" className="inline-flex items-center gap-1 text-[13px] font-bold text-secondary no-underline hover:text-display"><ChevronLeft size={14} />All categories</AppLink>
           <label className="flex items-center gap-2">
             <span className="label">Jump to</span>
             <select className="field" value={id} aria-label="Switch category" onChange={(e) => navigate(`/c/${e.target.value}${isDev ? '?dev=1' : ''}`)}>
@@ -86,36 +86,35 @@ function CategoryView({ id }: { id: string }) {
             </select>
           </label>
         </div>
-        <div className="mt-6 grid gap-6 lg:grid-cols-[1fr_auto] lg:items-end">
+        <div className="mt-6 grid gap-6 lg:grid-cols-[minmax(0,1fr)_auto] lg:items-end">
           <div className="max-w-3xl">
-            <div className="flex items-center gap-3"><Kicker>{meta.kicker}</Kicker><ZoneBadge zone={meta.zone} /></div>
-            <h1 className="mt-2 text-[clamp(30px,4.5vw,52px)] leading-[1.02] text-display">{meta.label}</h1>
-            <p className="mt-3 text-[15px] text-secondary">{meta.blurb}</p>
-            
+            <div className="flex flex-wrap items-center gap-3"><Kicker>{meta.kicker}</Kicker><ZoneBadge zone={meta.zone} /></div>
+            <h1 className="mt-3 text-[clamp(32px,4.8vw,56px)] leading-[1.02] text-display">{meta.label}</h1>
+            <p className="mt-3 max-w-2xl text-[15px] leading-relaxed text-secondary sm:text-[16px]">{meta.blurb}</p>
           </div>
-          <dl className="grid grid-cols-3 gap-4 text-right lg:gap-6">
-            <div><dt className="label">Listings</dt><dd className="display text-[36px]">{idx.items.length.toLocaleString('en-IN')}</dd></div>
-            <div><dt className="label">Brands</dt><dd className="display text-[36px]">{idx.brands.length.toLocaleString('en-IN')}</dd></div>
-            <div><dt className="label">Filters</dt><dd className="display text-[36px]">{idx.tagIndex.length}</dd></div>
+          <dl className="grid grid-cols-3 gap-3 sm:gap-4">
+            {[['Listings', idx.items.length], ['Brands', idx.brands.length], ['Filter tags', idx.tagIndex.length]].map(([k, n]) => (
+              <div key={k} className="card px-4 py-3 sm:min-w-[120px]"><dt className="label">{k}</dt><dd className="mono mt-0.5 text-[24px] font-extrabold text-display sm:text-[28px]">{Number(n).toLocaleString('en-IN')}</dd></div>
+            ))}
           </dl>
         </div>
       </header>
 
       {isProtocol && (
-        <section className="mt-8" aria-labelledby="protocol-h">
-          <h2 id="protocol-h" className="label mb-3">The 4-step protocol · pick a step to filter</h2>
+        <section className="mt-10" aria-labelledby="protocol-h">
+          <SectionHead id="protocol-h" title="The 4-step plan" sub="Pick a step to see only the products for that stage. Steps stack with every other filter." />
           <ProtocolIntro rows={idx.facets.step ?? []} selected={stepSelected} onToggle={toggleTag} />
         </section>
       )}
 
-      <div className="sticky top-14 z-30 -mx-4 mt-8 border-b border-line bg-black/85 px-4 py-3 backdrop-blur sm:-mx-6 sm:px-6">
+      <div className="glass sticky top-16 z-30 -mx-4 mt-8 border-b border-line px-4 py-3 sm:-mx-6 sm:px-6">
         <ScopeControl rows={idx.facets.scope ?? []} selected={scopeSelected} onToggle={toggleTag} onClear={() => clearGroup('scope')} />
       </div>
 
-      <div className="mt-6 grid gap-8 lg:grid-cols-[300px_1fr]">
+      <div className="mt-6 grid gap-8 lg:grid-cols-[300px_minmax(0,1fr)]">
         <aside className="hidden lg:block" aria-label="Filters">
-          <div className="scrollbar-thin sticky top-[128px] max-h-[calc(100dvh-140px)] overflow-y-auto pr-1">
-            <div className="mb-3 flex items-center justify-between"><h2 className="label !text-primary">Filters</h2>{activeCount > 0 && <button type="button" className="label hover:text-primary" onClick={clearAll}>Clear all ({activeCount})</button>}</div>
+          <div className="scrollbar-thin sticky top-[136px] max-h-[calc(100dvh-152px)] overflow-y-auto pr-1">
+            <div className="mb-3 flex items-center justify-between"><h2 className="text-[16px] font-extrabold text-display">Filters</h2>{activeCount > 0 && <button type="button" className="label !text-accent hover:underline" onClick={clearAll}>Clear all ({activeCount})</button>}</div>
             {panel}
           </div>
         </aside>
@@ -125,7 +124,7 @@ function CategoryView({ id }: { id: string }) {
           <ActiveChips idx={idx} groups={m.groups} state={state} onRemove={toggleTag} onPrice={onPrice} onQuery={onQuery} onClearAll={clearAll} />
           {positions.length === 0 ? (
             <StatusBlock title="No listing matches every filter" body="Nothing in the captured data fits this combination. Loosen a filter, switch a group to “match any”, or clear all."
-              action={<button type="button" className="btn btn-primary" onClick={clearAll}>Clear all filters</button>} />
+              action={<button type="button" className="btn btn-accent" onClick={clearAll}>Clear all filters</button>} />
           ) : (
             <ProductList idx={idx} positions={positions} compare={compare} compareMax={COMPARE_MAX} onOpen={onOpen} onCompare={onCompare} />
           )}
@@ -133,9 +132,9 @@ function CategoryView({ id }: { id: string }) {
       </div>
 
       <Sheet open={filtersOpen} onClose={() => setFiltersOpen(false)} title={`Filters · ${positions.length.toLocaleString('en-IN')} results`}>
-        <div className="mb-3 flex items-center justify-between"><span className="label">OR within a group · AND across groups</span>{activeCount > 0 && <button type="button" className="label hover:text-primary" onClick={clearAll}>Clear all</button>}</div>
+        <div className="mb-3 flex items-center justify-between"><span className="text-[12px] text-muted">Any within a group · all groups together</span>{activeCount > 0 && <button type="button" className="label !text-accent hover:underline" onClick={clearAll}>Clear all</button>}</div>
         {panel}
-        <button type="button" className="btn btn-primary mt-4 w-full" onClick={() => setFiltersOpen(false)}>Show {positions.length.toLocaleString('en-IN')} results</button>
+        <button type="button" className="btn btn-accent mt-4 h-12 w-full" onClick={() => setFiltersOpen(false)}>Show {positions.length.toLocaleString('en-IN')} results</button>
       </Sheet>
 
       <ProductSheet category={id} shards={m.shards} row={openRow} rank={openRow ? rankOf(openRow.id) : 0} scope={openRow ? scopeOf(openRow.t) : 'unstated'} weights={m.weights} onClose={() => setOpenId(null)} />

@@ -1,23 +1,31 @@
 import type { ReactNode } from 'react';
-import { HeroMatrix } from '../fx/HeroMatrix';
+import { Check } from 'lucide-react';
 import { SplitText } from '../fx/SplitText';
 import { Kicker } from '../ui/primitives';
 
-interface Props { kicker: string; number?: string; title: string; lede: string; aside?: ReactNode; matrix?: boolean; children?: ReactNode }
+interface Props { kicker: string; title: string; lede: string; proofs?: string[]; aside?: ReactNode; children?: ReactNode }
 
-export function Hero({ kicker, number, title, lede, aside, matrix, children }: Props) {
+/** Headspace-style opener: heavy tight heading, one lede, a row of check-mark proof bullets built from real counts, ≤2 CTAs. */
+export function Hero({ kicker, title, lede, proofs, aside, children }: Props) {
   return (
-    <section className="relative -mx-4 overflow-hidden border-b border-line px-4 pb-10 pt-10 sm:-mx-6 sm:px-6 sm:pb-14 sm:pt-16">
-      {matrix && <HeroMatrix />}
-      <div className="relative mx-auto grid max-w-[1440px] items-end gap-8 lg:grid-cols-[auto_1fr]">
-        {number && <div className="display text-[clamp(72px,14vw,168px)]" aria-hidden>{number}</div>}
-        <div className="max-w-2xl">
+    <section className="relative pb-10 pt-10 sm:pb-14 sm:pt-16">
+      <div className="grid items-end gap-8 lg:grid-cols-[minmax(0,1fr)_minmax(0,380px)]">
+        <div className="max-w-3xl">
           <Kicker>{kicker}</Kicker>
-          <SplitText as="h1" text={title} className="mt-3 text-[clamp(28px,4vw,48px)] leading-[1.05] text-display" />
-          <p className="mt-4 max-w-xl text-[15px] text-secondary sm:text-base">{lede}</p>
-          {children && <div className="mt-6">{children}</div>}
+          <SplitText as="h1" text={title} className="mt-4 text-[clamp(34px,5.2vw,64px)] leading-[1.02] text-display" />
+          <p className="mt-5 max-w-2xl text-[16px] leading-relaxed text-secondary sm:text-[18px]">{lede}</p>
+          {proofs && proofs.length > 0 && (
+            <ul className="mt-6 flex flex-wrap gap-x-6 gap-y-2" aria-label="What is behind this page">
+              {proofs.map((p) => (
+                <li key={p} className="flex items-center gap-2 text-[14px] font-bold text-primary">
+                  <span className="flex h-5 w-5 items-center justify-center rounded-full bg-accent-soft text-accent" aria-hidden><Check size={12} strokeWidth={3} /></span>{p}
+                </li>
+              ))}
+            </ul>
+          )}
+          {children && <div className="mt-8 flex flex-wrap gap-3">{children}</div>}
         </div>
-        {aside && <div className="lg:col-span-2">{aside}</div>}
+        {aside && <div className="min-w-0">{aside}</div>}
       </div>
     </section>
   );

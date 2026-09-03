@@ -22,10 +22,10 @@ export function DevPanel() {
   if (params.get('dev') !== '1') return null;
   const bp = vw < 640 ? 'xs' : vw < 768 ? 'sm' : vw < 1024 ? 'md' : vw < 1280 ? 'lg' : vw < 1536 ? 'xl' : '2xl';
   return (
-    <aside aria-label="Developer panel" className="fixed bottom-3 left-3 z-[70] max-w-[min(92vw,420px)] rounded border border-warning/60 bg-black/90 p-3 font-mono text-[11px] text-primary shadow-xl backdrop-blur">
+    <aside aria-label="Developer panel" className="card fixed bottom-3 left-3 z-[70] max-w-[min(92vw,420px)] !border-warning/60 p-3 font-mono text-[11px] text-primary shadow-xl">
       <div className="flex items-center justify-between gap-3">
-        <span className="text-warning">DEV MODE</span>
-        <button type="button" className="text-secondary hover:text-primary" onClick={() => setOpen((o) => !o)} aria-expanded={open}>{open ? 'hide' : 'show'}</button>
+        <span className="font-bold text-warning">DEV MODE</span>
+        <button type="button" className="font-bold text-secondary hover:text-primary" onClick={() => setOpen((o) => !o)} aria-expanded={open}>{open ? 'hide' : 'show'}</button>
       </div>
       {open && (
         <dl className="mt-2 grid grid-cols-[auto_1fr] gap-x-3 gap-y-1 break-all">

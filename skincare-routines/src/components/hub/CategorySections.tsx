@@ -1,5 +1,6 @@
 import { Reveal } from '../fx/Reveal';
 import { CategoryCard } from './CategoryCard';
+import { SectionHead } from '../ui/primitives';
 import type { CategoryMeta, Zone } from '../../lib/types';
 
 type SectionKey = Zone | 'protocol';
@@ -20,14 +21,9 @@ export function CategorySections({ categories, compact }: { categories: Category
         if (!cats.length) return null;
         return (
           <section key={s.key} aria-labelledby={`zone-${s.key}`}>
-            <div className="mb-5 flex flex-wrap items-end justify-between gap-3 border-b border-line pb-3">
-              <div>
-                <h2 id={`zone-${s.key}`} className={`text-[26px] ${s.tone}`}>{s.title}</h2>
-                {!compact && <p className="mt-1 text-[13px] text-secondary">{s.sub}</p>}
-              </div>
-              <span className="label">{cats.length} categories · {cats.reduce((n, c) => n + c.count, 0).toLocaleString('en-IN')} listings</span>
-            </div>
-            <Reveal className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+            <SectionHead id={`zone-${s.key}`} title={s.title} tone={s.tone} sub={compact ? undefined : s.sub}
+              meta={`${cats.length} categories · ${cats.reduce((n, c) => n + c.count, 0).toLocaleString('en-IN')} listings`} />
+            <Reveal className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
               {cats.map((c) => <CategoryCard key={c.id} cat={c} />)}
             </Reveal>
           </section>
