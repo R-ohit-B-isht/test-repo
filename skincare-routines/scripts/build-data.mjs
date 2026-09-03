@@ -12,6 +12,7 @@ import vm from 'node:vm';
 import { createRequire } from 'node:module';
 import { fileURLToPath } from 'node:url';
 import { CATEGORIES, WEIGHTS, CRITERIA, ROUTINE_WEIGHTS, ROUTINE_CRITERIA, PHASES, phaseOf, ROUTINE_CATEGORY_LABELS, ZONE_LABELS } from './lib/registry.mjs';
+import { assertBenchmarkSet, matchBenchmark, publicBenchmark } from './lib/benchmarks.mjs';
 
 const require = createRequire(import.meta.url);
 const { GROUPS, labelFor } = require('./lib/facets.cjs');
@@ -70,7 +71,11 @@ const manifest = {
   phases: PHASES,
   shards: SHARDS,
   categories: [],
+  benchmarks: [],
 };
+
+const BENCHMARKS = loadGlobal('benchmarks.js', 'BENCHMARKS');
+assertBenchmarkSet(BENCHMARKS, new Set(CATEGORIES.map((c) => c.id)));
 
 let grandTotal = 0;
 for (const cat of CATEGORIES) {
@@ -121,7 +126,11 @@ for (const cat of CATEGORIES) {
     priceMax: Math.max(...items.map((x) => x.p)),
   });
   grandTotal += items.length;
-  console.log(`${cat.id.padEnd(13)} ${String(items.length).padStart(5)}  facets=${Object.keys(facets).length}  tags=${tagIndex.length}  face/body/both/unstated=${byScope.face}/${byScope.body}/${byScope.both}/${byScope.unstated}`);
+  const bench = BENCHMARKS.find((b) => b.category === cat.id);
+  const market = matchBenchmark(bench, items);
+  manifest.benchmarks.push(publicBenchmark(bench, market));
+  const marketLine = market.status === 'not-found' ? 'no listing' : `${market.status} #${market.rank}/${market.of} ${market.title.slice(0, 50)}`;
+  console.log(`${cat.id.padEnd(13)} ${String(items.length).padStart(5)}  facets=${Object.keys(facets).length}  tags=${tagIndex.length}  face/body/both/unstated=${byScope.face}/${byScope.body}/${byScope.both}/${byScope.unstated}  benchmark=${bench.brand} ${bench.name} → ${marketLine}`);
 }
 
 // Routines (data.js .. data4.js push into one ROUTINES array)

@@ -232,4 +232,21 @@
   @keyframes ring-draw { from { stroke-dasharray: 0 10000; } }
   .ring-arc { animation: ring-draw 0.7s cubic-bezier(0.23, 1, 0.32, 1) both; }
   .glass { background: color-mix(in srgb, var(--page) 88%, transparent); backdrop-filter: blur(12px); }
+
+  /* Reference-ceiling card: the single inverted (ink) surface on a category page, so the benchmark reads as the
+     measuring stick and not as a marketplace row. Inverts cleanly in both themes because it swaps page/primary. */
+  .ceiling {
+    --fg: var(--page);
+    --fg-dim: color-mix(in srgb, var(--page) 68%, transparent);
+    --fg-line: color-mix(in srgb, var(--page) 22%, transparent);
+    background: var(--primary); border-color: var(--primary); color: var(--fg);
+  }
+  .ceiling h2 { color: var(--fg); }
+  .ceiling :focus-visible { outline-color: var(--fg); }
+  .ceiling ::selection { background: var(--fg); color: var(--primary); }
+  .score-ceiling { background: var(--page); color: var(--display); }
+  .btn-ceiling { background: var(--fg); border-color: var(--fg); color: var(--primary); }
+  .btn-ceiling:hover { background: var(--fg); border-color: var(--fg); filter: brightness(0.94); }
+  .btn-ceiling-ghost { background: transparent; border-color: var(--fg-line); color: var(--fg); }
+  .btn-ceiling-ghost:hover { background: transparent; border-color: var(--fg); }
 }

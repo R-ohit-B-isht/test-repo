@@ -20,6 +20,7 @@ import { ProductList } from '../components/category/ProductList';
 import { ProductSheet } from '../components/category/ProductSheet';
 import { CompareTray } from '../components/category/CompareTray';
 import { ProtocolIntro } from '../components/category/ProtocolIntro';
+import { BenchmarkCard } from '../components/category/BenchmarkCard';
 import type { ScopeKey } from '../components/category/ProductCard';
 import type { CategoryMeta } from '../lib/types';
 
@@ -41,6 +42,7 @@ function CategoryView({ id }: { id: string }) {
   const navigate = useNavigate();
 
   const meta: CategoryMeta | undefined = manifest.status === 'ready' ? manifest.data.categories.find((c) => c.id === id) : undefined;
+  const bench = manifest.status === 'ready' ? manifest.data.benchmarks.find((b) => b.category === id) : undefined;
   const idx = cat.status === 'ready' ? cat.data : null;
 
   const matched = useMemo(() => (idx ? applyFilter(idx, state) : new Uint32Array()), [idx, state]);
@@ -70,6 +72,7 @@ function CategoryView({ id }: { id: string }) {
     page: 'category', category: id, records: idx?.items.length ?? null, matched: matched.length, sort: state.sort,
     filters: state.tags.join(', ') || '—', matchAllGroups: state.allGroups.join(', ') || '—', priceMax: state.priceMax, query: state.query || '—',
     facetGroups: idx ? Object.keys(idx.facets).length : null, tagVocabulary: idx?.tagIndex.length ?? null, compare: compare.length,
+    benchmark: bench ? `${bench.brand} ${bench.name} → ${bench.market.status === 'not-found' ? 'not sold in India' : `${bench.market.status} #${bench.market.rank} (${bench.market.id})`}` : null,
     weights: manifest.status === 'ready' ? JSON.stringify(manifest.data.weights) : null,
   });
 
@@ -135,6 +138,7 @@ function CategoryView({ id }: { id: string }) {
           </div>
         </aside>
         <div className="min-w-0 space-y-4">
+          {bench && <BenchmarkCard bench={bench} onOpenListing={onOpen} />}
           <Toolbar idx={idx} featured={meta.featured} selected={state.tags} live={live} sort={state.sort} onSort={(k) => update({ sort: k })}
             query={state.query} onQuery={onQuery} onToggle={toggleTag} onOpenFilters={() => setFiltersOpen(true)} activeCount={activeCount} resultCount={positions.length} />
           <ActiveChips idx={idx} groups={m.groups} state={state} onRemove={toggleTag} onPrice={onPrice} onQuery={onQuery} onClearAll={clearAllWithUndo} />

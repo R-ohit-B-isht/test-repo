@@ -31,9 +31,37 @@ export interface Manifest {
   phases: string[];
   shards: number;
   categories: CategoryMeta[];
+  benchmarks: Benchmark[];
   routines: { count: number; categories: string[] };
   total: number;
 }
+
+export interface BenchmarkLink { label: string; url: string }
+export interface BenchmarkEvidence extends BenchmarkLink { publisher: string; note?: string }
+export interface BenchmarkListing { id: string; rank: number; of: number; score: number; price: number; store: string; title: string; listings: number; note: string | null }
+/**
+ * How the benchmark relates to the real Flipkart / Amazon.in listings of its category:
+ * `found` = the same product with its actual rank; `related` = a regional/renamed variant, never claimed as identical; `not-found` = explicit.
+ */
+export type BenchmarkMarket =
+  | ({ status: 'found' } & BenchmarkListing)
+  | ({ status: 'related' } & BenchmarkListing & { note: string })
+  | { status: 'not-found'; note: string };
+/** The reference ceiling shown above a category list. Fixed at 100 by definition; never part of the ranked index. */
+export interface Benchmark {
+  category: string;
+  brand: string;
+  name: string;
+  variant: string | null;
+  maker: BenchmarkLink;
+  image: { url: string; source: string };
+  why: string;
+  facts: { k: string; v: string }[];
+  evidence: BenchmarkEvidence[];
+  caution: string | null;
+  market: BenchmarkMarket;
+}
+export const BENCHMARK_SCORE = 100;
 
 /** Compact list row — everything needed to render a card without the detail shard. */
 export interface ProductRow {
