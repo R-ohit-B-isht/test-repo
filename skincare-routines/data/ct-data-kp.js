@@ -1,0 +1,14783 @@
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-03.
+// Unknown fields are honestly marked, never invented.
+const CTPRODUCTS = [
+ {
+  "id": "be-bodywise-itm38483416e694e",
+  "brand": "Be Bodywise",
+  "model": "10% Urea Body Lotion | 48 Hour Dry Skin Relief | For …",
+  "price": 200,
+  "capacityLine": "300 ml",
+  "materialLine": "urea",
+  "featureLine": "Lotion · Paraben-free · ₹67/100ml",
+  "highlight": "Live Flipkart listing rated 4.4★ by 5,391 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹67/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [],
+  "scores": {
+   "trust": 6.4,
+   "skin": 5.3,
+   "ingredients": 5.6,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "300 ml",
+   "pricePer100": "₹67/100ml",
+   "format": "Lotion",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "4.4/5 (5,391 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/z/x/300-10-urea-body-lotion-48-hour-dry-skin-relief-for-very-dry-original-imahgg3nn3nv8jkf.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/h/o/300-10-urea-body-lotion-48-hour-dry-skin-relief-for-very-dry-original-imahgg3nsyqq5utb.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/h/k/300-10-urea-body-lotion-48-hour-dry-skin-relief-for-very-dry-original-imahgg3nyygmmp5v.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/6/g/300-10-urea-body-lotion-48-hour-dry-skin-relief-for-very-dry-original-imahgg3nfqk8khtd.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/c/k/300-10-urea-body-lotion-48-hour-dry-skin-relief-for-very-dry-original-imahgg3nuuwzezzd.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/bodywise-10-urea-body-lotion-48-hour-dry-skin-relief-very-flaky/p/itm38483416e694e",
+  "buyStore": "Flipkart",
+  "title": "Be Bodywise 10% Urea Body Lotion | 48 Hour Dry Skin Relief | For …",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "ing:urea",
+   "claim:hydrating",
+   "claim:long-lasting",
+   "claim:dry-skin-relief",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "drmtlgy-itm69e375a4ee7d1",
+  "brand": "DRMTLGY",
+  "model": "Keratosis Pilaris Treatment Lactic Acid Skin Lotion for R …",
+  "price": 4332,
+  "capacityLine": "150 g (pack of 2)",
+  "materialLine": "lactic acid + urea + tea tree",
+  "featureLine": "Lotion · ₹2888/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹2888/100g",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "75 g × 2 pack",
+   "pricePer100": "₹2888/100g",
+   "format": "Lotion",
+   "keyIngredients": "lactic acid, urea, tea tree (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/l23mhzk0/moisturizer-cream/e/t/q/196-keratosis-pilaris-treatment-lactic-acid-skin-lotion-for-original-imagdgnrj8z2msky.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/l23mhzk0/moisturizer-cream/8/j/v/196-keratosis-pilaris-treatment-lactic-acid-skin-lotion-for-original-imagdgnra9cm4y7y.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/l23mhzk0/moisturizer-cream/d/j/7/196-keratosis-pilaris-treatment-lactic-acid-skin-lotion-for-original-imagdgnrcqqmchfc.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/l23mhzk0/moisturizer-cream/s/7/u/196-keratosis-pilaris-treatment-lactic-acid-skin-lotion-for-original-imagdgnr4rraetsy.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/l23mhzk0/moisturizer-cream/g/l/x/196-keratosis-pilaris-treatment-lactic-acid-skin-lotion-for-original-imagdgnrm4kfzgac.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/drmtlgy-keratosis-pilaris-treatment-lactic-acid-skin-lotion-rough-bumpy/p/itm69e375a4ee7d1",
+  "buyStore": "Flipkart",
+  "title": "DRMTLGY Keratosis Pilaris Treatment Lactic Acid Skin Lotion for R …",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:lotion",
+   "format:balm",
+   "format:kit",
+   "ing:lactic-acid",
+   "ing:urea",
+   "ing:tea-tree",
+   "ing:cocoa-butter",
+   "claim:acne",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:kp",
+   "skin:dry",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "dr-itm304d9a447b98a",
+  "brand": "Dr.",
+  "model": "Sheth’s Tea Tree & Lactic Acid Body Lotion | Treats Body Acne …",
+  "price": 80,
+  "capacityLine": "300 ml",
+  "materialLine": "lactic acid + tea tree",
+  "featureLine": "Lotion · ₹27/100ml",
+  "highlight": "Live Flipkart listing rated 4.2★ by 4,920 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹27/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.2)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.5,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "300 ml",
+   "pricePer100": "₹27/100ml",
+   "format": "Lotion",
+   "keyIngredients": "lactic acid, tea tree (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (4,920 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/k/e/300-tea-tree-lactic-acid-body-lotion-treats-body-acne-original-imahykh8gzhkfxa6.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/h/q/300-tea-tree-lactic-acid-body-lotion-helps-to-treat-body-acne-dr-original-imagw7z54mcpfb5p.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/z/x/300-tea-tree-lactic-acid-body-lotion-helps-to-treat-body-acne-dr-original-imagw7z5q5mzfyze.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/anti-ageing/1/n/n/30-rosehip-retinol-serum-for-aging-damaged-dull-skin-dr-sheth-s-original-imagf4b7hva6x5dw.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/m/u/200-0-tea-tree-lactic-acid-body-lotion-helps-to-reduce-body-acne-original-imaheqsfjgfffr4e.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/dr-sheths-tea-tree-lactic-acid-body-lotion-treats-acne-exfoliating-non-sticky/p/itm304d9a447b98a",
+  "buyStore": "Flipkart",
+  "title": "Dr. Sheth’s Tea Tree & Lactic Acid Body Lotion | Treats Body Acne …",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:lactic-acid",
+   "ing:tea-tree",
+   "claim:acne",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "aqurea-itm7f1de47bdd15e",
+  "brand": "Aqurea",
+  "model": "20 Moisturizing Urea Cream with Lactic Acid, Aloe Vera & T …",
+  "price": 448,
+  "capacityLine": "100 g",
+  "materialLine": "lactic acid + urea + tea tree",
+  "featureLine": "Oil · ₹448/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 6.3,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹448/100g",
+   "format": "Oil",
+   "keyIngredients": "lactic acid, urea, tea tree, aloe vera (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/4/f/i/100-20-moisturizing-urea-cream-with-lactic-acid-aloe-vera-tea-original-imahguz3hcxvzkzh.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/aqurea-20-moisturizing-urea-cream-lactic-acid-aloe-vera-tea-tree-oil/p/itm7f1de47bdd15e",
+  "buyStore": "Flipkart",
+  "title": "Aqurea 20 Moisturizing Urea Cream with Lactic Acid, Aloe Vera & T …",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:oil",
+   "ing:lactic-acid",
+   "ing:urea",
+   "ing:tea-tree",
+   "ing:aloe-vera",
+   "claim:hydrating",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "digital-guardeer-itmd580eb1b8ceca",
+  "brand": "DIGITAL GUARDEER",
+  "model": "Urea Moisturizing Cream for Dry & Rough Skin, Ha …",
+  "price": 207,
+  "capacityLine": "100 g",
+  "materialLine": "vitamin C + retinol + urea",
+  "featureLine": "Cream / gel · Paraben-free · ₹207/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹207/100g",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 5.3,
+   "ingredients": 7.2,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹207/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "vitamin C, retinol, urea, hyaluronic acid, rice water (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/l/s/200-0-urea-moisturizing-cream-for-dry-rough-skin-hands-feet-original-imahpbzjmpwxvt4j.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/j/5/200-0-urea-moisturizing-cream-for-dry-rough-skin-hands-feet-original-imahpbzjfsqzphy6.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/z/p/100-0-urea-moisturizing-cream-for-dry-rough-skin-hands-feet-original-imahpbzjythcx6bv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/x/c/200-0-urea-moisturizing-cream-for-dry-rough-skin-hands-feet-original-imahpbzjezehxtnc.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/i/2/100-0-urea-moisturizing-cream-for-dry-rough-skin-hands-feet-original-imahpbzjjqydn6fj.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/digital-guardeer-urea-moisturizing-cream-dry-rough-skin-hands-feet-elbows-knees/p/itmd580eb1b8ceca",
+  "buyStore": "Flipkart",
+  "title": "DIGITAL GUARDEER Urea Moisturizing Cream for Dry & Rough Skin, Ha …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "ing:vitamin-c",
+   "ing:retinol",
+   "ing:urea",
+   "ing:hyaluronic-acid",
+   "ing:rice-water",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:lightweight",
+   "claim:korean",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "vexana-itm6c1bb9ea17da1",
+  "brand": "vexana",
+  "model": "Dead Skin spot fading urea cream (50 g)",
+  "price": 146,
+  "capacityLine": "50 g",
+  "materialLine": "urea",
+  "featureLine": "Oil · Paraben-free · ₹292/100g",
+  "highlight": "Live Flipkart listing rated 4.3★ by 11 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.2,
+   "skin": 5.3,
+   "ingredients": 5.6,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹292/100g",
+   "format": "Oil",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Oily Skin, Sensitive Skin",
+   "rating": "4.3/5 (11 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/l/o/50-dead-skin-spot-fading-urea-cream-vexana-cream-original-imahbzfhgmshmfzc.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/s/w/50-dark-spot-spot-fading-urea-cream-vexana-cream-original-imahbzfhz9yqw3ek.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/a/8/200-amzubl01-amazing-organics-lotion-original-imah84ygueunf2de.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/m/1/100-20-urea-cream-foot-care-for-rough-dry-dead-skin-corns-and-original-imahcshwz7hgacun.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/4/e/50-urea-20-cream-100g-aqurea-cream-original-imah6khm5wkfhubh.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/vexana-dead-skin-spot-fading-urea-cream/p/itm6c1bb9ea17da1",
+  "buyStore": "Flipkart",
+  "title": "vexana Dead Skin spot fading urea cream (50 g)",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:oil",
+   "ing:urea",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "bejoy-itm3082dc7b32286",
+  "brand": "Bejoy",
+  "model": "Intensive Urea Cream for Soft, Smooth Skin Moisturizing Car …",
+  "price": 161,
+  "capacityLine": "100 g",
+  "materialLine": "vitamin C + urea + aloe vera",
+  "featureLine": "Cream / gel · ₹161/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹161/100g",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 6.2,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹161/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "vitamin C, urea, aloe vera (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/h/d/100-intensive-urea-cream-for-soft-smooth-skin-moisturizing-care-original-imahzem4d8qgzxb2.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/o/q/100-lotion-for-skin-protection-pack-of-1-cetarich-cream-original-imagh8g2vnpujfca.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/kkvhea80/moisturizer-cream/g/e/p/200-intense-moisturizing-cream-baidyanath-cream-original-imagy4e53fuym222.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/o/x/150-4-bhuja-charbhuja-underarm-brightening-cream-for-men-women-original-imahpggujgeahaz4.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/t/e/50-herbal-eczemaron-cream-50ml-pack-of-1-bejoy-gel-original-imahk3avd8uhhktj.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/bejoy-intensive-urea-cream-soft-smooth-skin-moisturizing-care-hands-feet/p/itm3082dc7b32286",
+  "buyStore": "Flipkart",
+  "title": "Bejoy Intensive Urea Cream for Soft, Smooth Skin Moisturizing Car …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "ing:vitamin-c",
+   "ing:urea",
+   "ing:aloe-vera",
+   "claim:hydrating",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "cosmo-itm12b82d788d603",
+  "brand": "COSMO",
+  "model": "Advanced Body Care 30% Urea Smoothing Gel Cream Extremely D …",
+  "price": 385,
+  "capacityLine": "100 g",
+  "materialLine": "urea + ceramides + tea tree",
+  "featureLine": "Oil · Paraben-free · ₹385/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4.6,
+   "ingredients": 6.7,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹385/100g",
+   "format": "Oil",
+   "keyIngredients": "urea, ceramides, tea tree, aloe vera, cucumber (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/o/p/100-advanced-body-care-30-urea-smoothing-gel-cream-extremely-dry-original-imahhde6hrahj9nk.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/z/5/316-urea-repair-lotion-dryness-relief-advanced-skin-repair-with-original-imahjxfwqrxkkseb.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/4/e/50-urea-20-cream-100g-aqurea-cream-original-imah6khm5wkfhubh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/q/n/600-10-urea-intense-body-lotion-for-very-dry-rough-skin-glamveda-original-imahp5yzbchktzss.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/v/7/100-10-moisturizing-urea-cream-100gm-aqurea-cream-original-imah7gqr8xqhsjsv.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/cosmo-advanced-body-care-30-urea-smoothing-gel-cream-extremely-dry-rough-skin/p/itm12b82d788d603",
+  "buyStore": "Flipkart",
+  "title": "COSMO Advanced Body Care 30% Urea Smoothing Gel Cream Extremely D …",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:lotion",
+   "format:oil",
+   "ing:urea",
+   "ing:ceramides",
+   "ing:tea-tree",
+   "ing:aloe-vera",
+   "ing:cucumber",
+   "ing:glycerin",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:dry-skin-relief",
+   "free:paraben",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "aqurea-itmf84d0c7f366cf",
+  "brand": "Aqurea",
+  "model": "10 MOISTURIZING UREA CREAM, 100GM (100 g)",
+  "price": 268,
+  "capacityLine": "100 g",
+  "materialLine": "urea",
+  "featureLine": "Cream / gel · ₹268/100g",
+  "highlight": "Live Flipkart listing rated 4.2★ by 130 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.2)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.5,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹268/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (130 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/v/7/100-10-moisturizing-urea-cream-100gm-aqurea-cream-original-imah7gqr8xqhsjsv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/e/v/100-10-moisturizing-urea-cream-100gm-aqurea-cream-original-imah7gqrgzeg8jbg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/z/q/100-cream-10-deep-moisturising-exfoliating-cream-for-dry-rough-original-imahmrhda7pawpks.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/4/e/50-urea-20-cream-100g-aqurea-cream-original-imah6khm5wkfhubh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/a/8/200-amzubl01-amazing-organics-lotion-original-imah84ygueunf2de.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/aqurea-10-moisturizing-urea-cream-100gm/p/itmf84d0c7f366cf",
+  "buyStore": "Flipkart",
+  "title": "Aqurea 10 MOISTURIZING UREA CREAM, 100GM (100 g)",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "ing:urea",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "aqurea-itm72a9b4eb9fc55",
+  "brand": "Aqurea",
+  "model": "10 MOISTURIZING UREA CREAM, 100GM",
+  "price": 220,
+  "capacityLine": "100 g",
+  "materialLine": "urea",
+  "featureLine": "Cream / gel · ₹220/100g",
+  "highlight": "Live Flipkart listing rated 4.2★ by 9 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹220/100g",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.2)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.5,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹220/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (9 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/foot-filer/o/l/r/10-moisturizing-urea-cream-100gm-1-aqurea-original-imahhgkaps5tazfh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/foot-filer/n/2/u/10-moisturizing-urea-cream-100gm-1-aqurea-original-imahhgkagduxd6gf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/foot-filer/4/x/g/foot-peeling-mask-natural-exfoliating-treatment-for-dry-feet-original-imahfgk6huzckyh2.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/foot-filer/3/m/g/moisturizing-silicone-spa-gel-socks-for-crack-heel-repair-original-imahk8kqj8npdtqh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/foot-filer/a/6/0/foot-filer-foot-scrubber-for-dead-skin-pedicure-tool-1-feelhigh-original-imah4qnk5zsxeffj.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/aqurea-10-moisturizing-urea-cream-100gm/p/itm72a9b4eb9fc55",
+  "buyStore": "Flipkart",
+  "title": "Aqurea 10 MOISTURIZING UREA CREAM, 100GM",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "ing:urea",
+   "claim:hydrating",
+   "skin:dry",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nmf-itmccf25ce35d980",
+  "brand": "NMF",
+  "model": "e Urea Cream For Intense Moisturisation for thick and dry ski …",
+  "price": 465,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "urea",
+  "featureLine": "Cream / gel",
+  "highlight": "Live Flipkart listing rated 4.5★ by 472 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream / gel",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.5/5 (472 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/0/o/150-urea-cream-for-intense-moisturisation-for-thick-and-dry-skin-original-imahpz27y62h9fyf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/7/1/150-urea-cream-for-intense-moisturisation-for-thick-and-dry-skin-original-imahpz28zkdbvdte.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/g/d/150-urea-cream-for-intense-moisturisation-for-thick-and-dry-skin-original-imahpz46zykgertq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/u/u/150-urea-cream-for-dry-and-sensitive-skin-nmfe-cream-original-imah56a5qzshfwcx.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/4/i/150-urea-cream-for-dry-and-sensitive-skin-nmfe-cream-original-imah5634u4zbctzw.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nmf-e-urea-cream-intense-moisturisation-thick-dry-skin/p/itmccf25ce35d980",
+  "buyStore": "Flipkart",
+  "title": "NMF e Urea Cream For Intense Moisturisation for thick and dry ski …",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "ing:urea",
+   "claim:hydrating",
+   "aud:unisex",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "aqurea-itm9c1082748fd7d",
+  "brand": "Aqurea",
+  "model": "MOISTURIZING UREA CREAM 20 G (100 ml)",
+  "price": 407,
+  "capacityLine": "20 g",
+  "materialLine": "urea",
+  "featureLine": "Cream / gel · ₹2035/100g",
+  "highlight": "Live Flipkart listing rated 4.5★ by 227 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹2035/100g",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "20 g",
+   "pricePer100": "₹2035/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "4.5/5 (227 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/4/e/50-urea-20-cream-100g-aqurea-cream-original-imah6khm5wkfhubh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/2/v/100-20-moisturizing-urea-cream-aqurea-cream-original-imah87hphvu5y2n2.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/z/q/100-cream-10-deep-moisturising-exfoliating-cream-for-dry-rough-original-imahmrhda7pawpks.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/v/7/100-10-moisturizing-urea-cream-100gm-aqurea-cream-original-imah7gqr8xqhsjsv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/3/q/100-20-cream-100gm-for-very-dry-scaly-skin-with-urea-20-aqurea-original-imahmq5gsqtsq9h3.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/aqurea-moisturizing-urea-cream-20-g/p/itm9c1082748fd7d",
+  "buyStore": "Flipkart",
+  "title": "Aqurea MOISTURIZING UREA CREAM 20 G (100 ml)",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "ing:urea",
+   "claim:hydrating",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "emcutix-itm168c3805b2848",
+  "brand": "emcutix",
+  "model": "UREA DERM 10% UREA CREAM FOR DRY AND ITCHY SKIN (200 g)",
+  "price": 776,
+  "capacityLine": "200 g",
+  "materialLine": "urea",
+  "featureLine": "Cream / gel · Paraben-free · ₹388/100g",
+  "highlight": "Live Flipkart listing rated 4.6★ by 9 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.6,
+   "skin": 5.3,
+   "ingredients": 5.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "200 g",
+   "pricePer100": "₹388/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Dry Skin",
+   "rating": "4.6/5 (9 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/s/9/200-urea-derm-10-urea-cream-for-dry-and-itchy-skin-emcutix-cream-original-imahk259quzrvpt4.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/e/v/200-urea-derm-10-urea-cream-for-dry-and-itchy-skin-emcutix-cream-original-imahk259vexnweez.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/q/c/100-10-urea-moisturizing-cream-for-dry-itchy-skin-for-eczema-original-imahfg95ymjhz95v.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/v/7/100-10-moisturizing-urea-cream-100gm-aqurea-cream-original-imah7gqr8xqhsjsv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/l/z/100-20-urea-moisturizing-cream-for-severe-dryness-ichthyosis-original-imahfg97nhmhtdk9.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/emcutix-urea-derm-10-cream-dry-itchy-skin/p/itm168c3805b2848",
+  "buyStore": "Flipkart",
+  "title": "emcutix UREA DERM 10% UREA CREAM FOR DRY AND ITCHY SKIN (200 g)",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "ing:urea",
+   "ing:hyaluronic-acid",
+   "ing:glycerin",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "free:paraben",
+   "free:derm",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "aqurea-itm5112577d59e1b",
+  "brand": "Aqurea",
+  "model": "20 Moisturizing Urea Cream (100 g)",
+  "price": 437,
+  "capacityLine": "100 g",
+  "materialLine": "urea + aloe vera",
+  "featureLine": "Cream / gel · Paraben-free · ₹437/100g",
+  "highlight": "Live Flipkart listing rated 4.1★ by 24 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.9,
+   "skin": 5.3,
+   "ingredients": 5.8,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹437/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "urea, aloe vera (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "4.1/5 (24 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/2/v/100-20-moisturizing-urea-cream-aqurea-cream-original-imah87hphvu5y2n2.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/e/b/100-20-moisturizing-urea-cream-aqurea-cream-original-imah87hpdfgc9eew.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/4/e/50-urea-20-cream-100g-aqurea-cream-original-imah6khm5wkfhubh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/f/k/100-cream-20-for-very-dry-scaly-skin-with-urea-20-propylene-original-imahmrgudfpfngys.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/i/y/100-aqurea-20-aqurea-hf-cream-original-imahz6mhesgtthwg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/aqurea-20-moisturizing-urea-cream/p/itm5112577d59e1b",
+  "buyStore": "Flipkart",
+  "title": "Aqurea 20 Moisturizing Urea Cream (100 g)",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "ing:urea",
+   "ing:aloe-vera",
+   "claim:hydrating",
+   "free:paraben",
+   "free:derm",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "aqurea-itm455bda00276c1",
+  "brand": "Aqurea",
+  "model": "20 Moisturizing Urea Cream 100gm (100 ml)",
+  "price": 448,
+  "capacityLine": "100 g",
+  "materialLine": "urea",
+  "featureLine": "Cream / gel · Paraben-free · ₹448/100g",
+  "highlight": "Live Flipkart listing rated 4.6★ by 14 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.6,
+   "skin": 5.3,
+   "ingredients": 5.4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹448/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "4.6/5 (14 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/s/p/100-20-moisturizing-urea-cream-100gm-aqurea-cream-original-imah93dhtgybzj78.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/4/e/50-urea-20-cream-100g-aqurea-cream-original-imah6khm5wkfhubh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/v/7/100-10-moisturizing-urea-cream-100gm-aqurea-cream-original-imah7gqr8xqhsjsv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/3/q/100-20-cream-100gm-for-very-dry-scaly-skin-with-urea-20-aqurea-original-imahmq5gsqtsq9h3.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/2/v/100-20-moisturizing-urea-cream-aqurea-cream-original-imah87hphvu5y2n2.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/aqurea-20-moisturizing-urea-cream-100gm/p/itm455bda00276c1",
+  "buyStore": "Flipkart",
+  "title": "Aqurea 20 Moisturizing Urea Cream 100gm (100 ml)",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "ing:urea",
+   "claim:brightening",
+   "claim:hydrating",
+   "free:paraben",
+   "free:derm",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nmf-e-itm2ca0ef8f78303",
+  "brand": "NMF e",
+  "model": "Urea 20% Cream for Severe Dry Skin & Xerosis With Shea Butt …",
+  "price": 490,
+  "capacityLine": "100 g",
+  "materialLine": "urea + shea butter",
+  "featureLine": "Cream / gel · ₹490/100g",
+  "highlight": "Live Flipkart listing rated 4.1★ by 10 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.9,
+   "skin": 4.7,
+   "ingredients": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹490/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "urea, shea butter (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Dry Skin",
+   "rating": "4.1/5 (10 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/c/b/-original-imahqhtcchwphhwg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/b/8/50-urea-40-cream-for-cracked-heel-rough-thick-skin-lactic-acid-original-imahjyhaunegethu.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/k/3/50-urea-40-cream-for-cracked-heel-rough-thick-skin-lactic-acid-original-imahjyhaqgzxzhtq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/1/9/50-urea-40-cream-for-cracked-heel-rough-thick-skin-lactic-acid-original-imahjyhaqcztgsjx.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/y/w/50-urea-40-cream-for-cracked-heel-rough-thick-skin-lactic-acid-original-imahjyhaydhuqym3.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nmf-e-urea-20-cream-severe-dry-skin-xerosis-shea-butter/p/itm2ca0ef8f78303",
+  "buyStore": "Flipkart",
+  "title": "NMF e Urea 20% Cream for Severe Dry Skin & Xerosis With Shea Butt …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:balm",
+   "ing:urea",
+   "ing:shea-butter",
+   "claim:hydrating",
+   "claim:dry-skin-relief",
+   "free:derm",
+   "skin:dry",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "aqurea-itm30975a19dcf3d",
+  "brand": "Aqurea",
+  "model": "HF 40% Cream Gel High-Strength Urea with Glycerin, Aloe Ve …",
+  "price": 405,
+  "capacityLine": "50 g",
+  "materialLine": "urea + tea tree + aloe vera",
+  "featureLine": "Oil · Paraben-free · ₹810/100g",
+  "highlight": "Live Flipkart listing rated 4.5★ by 13 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.5,
+   "skin": 5.3,
+   "ingredients": 6.2,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹810/100g",
+   "format": "Oil",
+   "keyIngredients": "urea, tea tree, aloe vera (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "4.5/5 (13 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/r/b/50-hf-40-cream-gel-high-strength-urea-with-glycerin-aloe-vera-original-imahmq5xkkwzg2m6.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/w/2/50-hf-40-cream-gel-high-strength-urea-with-glycerin-aloe-vera-original-imahmq5x22srnwng.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/d/d/50-hf-40-cream-gel-high-strength-urea-with-glycerin-aloe-vera-original-imahmq5xmjgyuzwq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/9/u/50-hf-cream-gel-40-strength-urea-formula-for-hyperkeratotic-skin-original-imahmrgahvkqamzq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/d/k/100-hf-richly-nourishing-hand-foot-cream-gel-with-alovera-tea-original-imah93dnfcuyytp8.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/aqurea-hf-40-cream-gel-high-strength-urea-glycerin-aloe-vera-tea-tree-oil/p/itm30975a19dcf3d",
+  "buyStore": "Flipkart",
+  "title": "Aqurea HF 40% Cream Gel High-Strength Urea with Glycerin, Aloe Ve …",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:oil",
+   "ing:urea",
+   "ing:tea-tree",
+   "ing:aloe-vera",
+   "ing:glycerin",
+   "claim:hydrating",
+   "free:paraben",
+   "free:derm",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "aqurea-itm248373c3fd40f",
+  "brand": "Aqurea",
+  "model": "20% Cream 100gm – For very dry, scaly skin with Urea 20% ( …",
+  "price": 385,
+  "capacityLine": "100 g",
+  "materialLine": "urea",
+  "featureLine": "Cream / gel · Paraben-free · ₹385/100g",
+  "highlight": "Live Flipkart listing rated 4★ by 5 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.7,
+   "skin": 5.3,
+   "ingredients": 5.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹385/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "4/5 (5 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/3/q/100-20-cream-100gm-for-very-dry-scaly-skin-with-urea-20-aqurea-original-imahmq5gsqtsq9h3.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/9/s/100-20-cream-100gm-for-very-dry-scaly-skin-with-urea-20-aqurea-original-imahmq5gpzzjgtgk.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/0/q/t/100-20-cream-100gm-for-very-dry-scaly-skin-with-urea-20-aqurea-original-imahmq5ghyhdhz46.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/4/e/50-urea-20-cream-100g-aqurea-cream-original-imah6khm5wkfhubh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/f/k/100-cream-20-for-very-dry-scaly-skin-with-urea-20-propylene-original-imahmrgudfpfngys.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/aqurea-20-cream-100gm-very-dry-scaly-skin-urea/p/itm248373c3fd40f",
+  "buyStore": "Flipkart",
+  "title": "Aqurea 20% Cream 100gm – For very dry, scaly skin with Urea 20% ( …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "ing:urea",
+   "claim:hydrating",
+   "claim:dry-skin-relief",
+   "free:paraben",
+   "free:derm",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "aqurea-itmfac5a56fef078",
+  "brand": "Aqurea",
+  "model": "10% Urea Moisturising & Exfoliating Cream for Dry Rough Th …",
+  "price": 249,
+  "capacityLine": "100 g",
+  "materialLine": "urea + tea tree + aloe vera",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹249/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹249/100g",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4.6,
+   "ingredients": 5.9,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹249/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "urea, tea tree, aloe vera (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/f/3/i/100-cream-10-deep-moisturising-exfoliating-cream-for-dry-rough-original-imahguz2uyc4hxh5.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/b/7/100-10-urea-moisturising-exfoliating-cream-for-dry-rough-original-imahzy8bbdubyfen.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/h/t/100-10-urea-moisturising-exfoliating-cream-for-dry-rough-original-imahzy8b2y8jx4yc.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/k/l/z/200-20-moisturizing-urea-cream-lactic-acid-aloe-vera-tea-tree-original-imahzqgm3zap8vuw.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/6/r/p/100-cream-10-deep-moisturising-exfoliating-cream-for-dry-rough-original-imahguz36c7hghny.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/aqurea-10-urea-moisturising-exfoliating-cream-dry-rough-thickened-skin/p/itmfac5a56fef078",
+  "buyStore": "Flipkart",
+  "title": "Aqurea 10% Urea Moisturising & Exfoliating Cream for Dry Rough Th …",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:oil",
+   "ing:urea",
+   "ing:tea-tree",
+   "ing:aloe-vera",
+   "ing:glycerin",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:dry-skin-relief",
+   "free:paraben",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "devdexports-itm94a28145019bf",
+  "brand": "DEVDEXPORTS",
+  "model": "COTA-RY-LL Cream for Dry Skin | Urea-Enriched Natural …",
+  "price": 243,
+  "capacityLine": "75 g",
+  "materialLine": "urea",
+  "featureLine": "Cream / gel · ₹324/100g",
+  "highlight": "Live Flipkart listing rated 3.9★ by 11 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (3.9)",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.1,
+   "skin": 4,
+   "ingredients": 5.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "75 g",
+   "pricePer100": "₹324/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "3.9/5 (11 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/m/8/75-cota-ry-ll-cream-for-dry-skin-urea-enriched-natural-original-imahjgupvknrrbzf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/x/f/75-moisturising-for-dry-skin-cream-cotaryl-cream-original-imahn8fcgdyf6yb2.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/4/e/50-urea-20-cream-100g-aqurea-cream-original-imah6khm5wkfhubh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/c/m/75-cotarylcream-for-dry-skin-natural-moisturizing-factor-cotaryl-original-imahkkn2nyz5ewa9.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/9/i/c/75-cotaryl-original-imahy7fxvryjsp45.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/devdexports-cota-ry-ll-cream-dry-skin-urea-enriched-natural-moisturizing-factor/p/itm94a28145019bf",
+  "buyStore": "Flipkart",
+  "title": "DEVDEXPORTS COTA-RY-LL Cream for Dry Skin | Urea-Enriched Natural …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "ing:urea",
+   "claim:hydrating",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:3.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "velite-itm1a7123c1fa163",
+  "brand": "velite",
+  "model": "Healz Cream Moisturising Cream With Urea & Lactic (75 g)",
+  "price": 412,
+  "capacityLine": "75 g",
+  "materialLine": "lactic acid + urea",
+  "featureLine": "Lotion · ₹549/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "75 g",
+   "pricePer100": "₹549/100g",
+   "format": "Lotion",
+   "keyIngredients": "lactic acid, urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/r/x/75-healz-cream-moisturising-cream-with-urea-lactic-velite-cream-original-imahhvnbf7gm7atn.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/h/h/75-healz-cream-moisturising-cream-with-urea-lactic-velite-cream-original-imahhvnbgexjm23p.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/w/z/75-healz-cream-moisturising-cream-with-urea-lactic-velite-cream-original-imahhvnbyywkmpzn.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/sunscreen/t/w/2/50-solecross-spf-50-sun-block-lotion-50-zydus-cadila-original-imagtjhghadjzcj4.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/s/5/100-moisturiser-logifeel-lotion-original-imahefufrvgzgxgz.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/velite-healz-cream-moisturising-urea-lactic/p/itm1a7123c1fa163",
+  "buyStore": "Flipkart",
+  "title": "velite Healz Cream Moisturising Cream With Urea & Lactic (75 g)",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:roll-on",
+   "ing:lactic-acid",
+   "ing:urea",
+   "ing:glycerin",
+   "ing:gold",
+   "claim:hydrating",
+   "claim:barrier",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "emcutix-itm24e7ae85d8d71",
+  "brand": "emcutix",
+  "model": "UREA DERM MOISTURISING CREAM (100 g)",
+  "price": 500,
+  "capacityLine": "100 g",
+  "materialLine": "urea",
+  "featureLine": "Cream / gel · Paraben-free · ₹500/100g",
+  "highlight": "Live Flipkart listing rated 4.1★ by 7 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.9,
+   "skin": 5.3,
+   "ingredients": 5.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹500/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Dry Skin",
+   "rating": "4.1/5 (7 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/t/e/100-urea-derm-moisturising-cream-emcutix-cream-original-imahjy7vrbkendgm.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/c/v/100-urea-derm-moisturising-cream-emcutix-cream-original-imahjy7vpfbgmuaw.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/l/z/100-20-urea-moisturizing-cream-for-severe-dryness-ichthyosis-original-imahfg97nhmhtdk9.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/v/7/100-10-moisturizing-urea-cream-100gm-aqurea-cream-original-imah7gqr8xqhsjsv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/a/8/200-amzubl01-amazing-organics-lotion-original-imah84ygueunf2de.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/emcutix-urea-derm-moisturising-cream/p/itm24e7ae85d8d71",
+  "buyStore": "Flipkart",
+  "title": "emcutix UREA DERM MOISTURISING CREAM (100 g)",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "ing:urea",
+   "ing:glycerin",
+   "claim:hydrating",
+   "claim:barrier",
+   "free:paraben",
+   "free:derm",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "raaso-itm7ebd9d4c5dca8",
+  "brand": "RAASO",
+  "model": "Max 20% Urea Moisturizing Cream with Lactic Acid & Aloe Ver …",
+  "price": 448,
+  "capacityLine": "100 g",
+  "materialLine": "lactic acid + urea + snail mucin",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹448/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 5.3,
+   "ingredients": 7.2,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹448/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "lactic acid, urea, snail mucin, tea tree, aloe vera (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Anti-aging claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/m/b/100-moisturizing-urea-cream-xerolene-max-cream-original-imahneywx2y4vhru.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/i/r/100-moisturizing-urea-cream-xerolene-max-cream-original-imahneyvf8wjkdyy.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/8/q/100-moisturizing-urea-cream-xerolene-max-cream-original-imahneyvhd6mfzz3.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/3/q/100-20-cream-100gm-for-very-dry-scaly-skin-with-urea-20-aqurea-original-imahmq5gsqtsq9h3.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/f/k/100-cream-20-for-very-dry-scaly-skin-with-urea-20-propylene-original-imahmrgudfpfngys.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/raaso-max-20-urea-moisturizing-cream-lactic-acid-aloe-vera-100g/p/itm7ebd9d4c5dca8",
+  "buyStore": "Flipkart",
+  "title": "RAASO Max 20% Urea Moisturizing Cream with Lactic Acid & Aloe Ver …",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:oil",
+   "format:pack",
+   "ing:lactic-acid",
+   "ing:urea",
+   "ing:collagen",
+   "ing:snail-mucin",
+   "ing:tea-tree",
+   "ing:aloe-vera",
+   "claim:anti-aging",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "urea-derm-itm23c775b510dbe",
+  "brand": "Urea Derm",
+  "model": "10% Urea Moisturizing Cream for Dry & Itchy Skin for Ec …",
+  "price": 436,
+  "capacityLine": "100 ml",
+  "materialLine": "lactic acid + urea",
+  "featureLine": "Cream / gel · Paraben-free · ₹436/100ml",
+  "highlight": "Live Flipkart listing rated 3.2★ by 6 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Mixed buyer rating (3.2)",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.5,
+   "skin": 5.3,
+   "ingredients": 5.8,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹436/100ml",
+   "format": "Cream / gel",
+   "keyIngredients": "lactic acid, urea (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "3.2/5 (6 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/q/b/100-10-urea-moisturizing-cream-for-dry-itchy-skin-for-eczema-original-imahfrh99cavkg34.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/n/d/100-10-urea-moisturizing-cream-for-dry-itchy-skin-for-eczema-original-imahfrh9bbcv42re.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/x/z/100-10-urea-moisturizing-cream-for-dry-itchy-skin-for-eczema-original-imahfrh9nuejepra.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/n/k/100-10-urea-moisturizing-cream-for-dry-itchy-skin-for-eczema-original-imahfrh9ucgfexha.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/6/l/100-10-urea-moisturizing-cream-for-dry-itchy-skin-for-eczema-original-imahfrh94h87drba.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/urea-derm-10-moisturizing-cream-dry-itchy-skin-eczema-psoriasis/p/itm23c775b510dbe",
+  "buyStore": "Flipkart",
+  "title": "Urea Derm 10% Urea Moisturizing Cream for Dry & Itchy Skin for Ec …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "ing:lactic-acid",
+   "ing:urea",
+   "ing:allantoin",
+   "claim:hydrating",
+   "free:paraben",
+   "free:derm",
+   "skin:dry",
+   "skin:all",
+   "aud:kids",
+   "size:standard",
+   "rating:low",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "aesthetic-science-itm18e74529d5456",
+  "brand": "AESTHETIC SCIENCE",
+  "model": "OLESOFT PPK UREA CREAM (100 g)",
+  "price": 629,
+  "capacityLine": "100 g",
+  "materialLine": "urea",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹629/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 5.3,
+   "ingredients": 5.6,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹629/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/j/k/100-olesoft-ppk-urea-cream-aesthetic-science-cream-original-imahqbmybu4v2hhc.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/aesthetic-science-olesoft-ppk-urea-cream/p/itm18e74529d5456",
+  "buyStore": "Flipkart",
+  "title": "AESTHETIC SCIENCE OLESOFT PPK UREA CREAM (100 g)",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:scrub",
+   "format:wash",
+   "ing:urea",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "sereko-itmfcac22655b0a5",
+  "brand": "SEREKO",
+  "model": "10% Urea & Avocado Oil Body Lotion | 48H Moisturization | …",
+  "price": 270,
+  "capacityLine": "30 ml",
+  "materialLine": "urea",
+  "featureLine": "Oil · ₹900/100ml",
+  "highlight": "Live Flipkart listing rated 3.6★ by 5 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (3.6)",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.6,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹900/100ml",
+   "format": "Oil",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Dry Skin",
+   "rating": "3.6/5 (5 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/t/y/30-10-urea-avocado-oil-body-lotion-48h-moisturization-very-dry-original-imahfmqqgqzpzsvg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/j/z/30-10-urea-avocado-oil-body-lotion-48h-moisturization-very-dry-original-imahfmqqjxm6tsdu.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/e/a/30-10-urea-avocado-oil-body-lotion-48h-moisturization-very-dry-original-imahfmqqgawfgtzh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/b/r/30-10-urea-avocado-oil-body-lotion-48h-moisturization-very-dry-original-imahfmqqqzrevzgz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/x/9/30-10-urea-avocado-oil-body-lotion-48h-moisturization-very-dry-original-imahfmqqfmypsghe.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/sereko-10-urea-avocado-oil-body-lotion-48h-moisturization-very-dry-flaky-skin/p/itmfcac22655b0a5",
+  "buyStore": "Flipkart",
+  "title": "SEREKO 10% Urea & Avocado Oil Body Lotion | 48H Moisturization | …",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:oil",
+   "ing:urea",
+   "ing:avocado",
+   "claim:hydrating",
+   "claim:long-lasting",
+   "claim:dry-skin-relief",
+   "skin:dry",
+   "aud:women",
+   "size:travel",
+   "rating:3.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "the-love-co-itm58efefab74834",
+  "brand": "THE LOVE CO",
+  "model": "10% Urea Body Lotion, 0.5% Hyaluronic Acid & 4% Niaci …",
+  "price": 310,
+  "capacityLine": "350 ml",
+  "materialLine": "niacinamide + urea + hyaluronic acid",
+  "featureLine": "Lotion · Paraben-free · ₹89/100ml",
+  "highlight": "Live Flipkart listing rated 4.4★ by 37 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹89/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.3,
+   "skin": 5.3,
+   "ingredients": 6.4,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "350 ml",
+   "pricePer100": "₹89/100ml",
+   "format": "Lotion",
+   "keyIngredients": "niacinamide, urea, hyaluronic acid (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Dry Skin",
+   "rating": "4.4/5 (37 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/q/k/350-10-urea-body-lotion-0-5-hyaluronic-acid-4-niacinamide-original-imahgfckews3ccnt.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/c/n/350-10-urea-body-lotion-0-5-hyaluronic-acid-4-niacinamide-original-imahhx495y3axgch.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/z/o/350-10-urea-body-lotion-0-5-hyaluronic-acid-4-niacinamide-original-imahhx49ypkzgbaz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/y/y/350-10-urea-body-lotion-0-5-hyaluronic-acid-4-niacinamide-original-imahhx49gdgxzm3r.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/9/o/350-10-urea-body-lotion-0-5-hyaluronic-acid-4-niacinamide-original-imahhx49szcyghdg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/love-co-10-urea-body-lotion-0-5-hyaluronic-acid-4-niacinamide-nourishes-dry-skin/p/itm58efefab74834",
+  "buyStore": "Flipkart",
+  "title": "THE LOVE CO 10% Urea Body Lotion, 0.5% Hyaluronic Acid & 4% Niaci …",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "ing:niacinamide",
+   "ing:urea",
+   "ing:hyaluronic-acid",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "glamveda-itm7fc081d74d8a3",
+  "brand": "GLAMVEDA",
+  "model": "10% Urea Intense Body Lotion for Very Dry & Rough Skin ( …",
+  "price": 130,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "urea",
+  "featureLine": "Lotion",
+  "highlight": "Live Flipkart listing rated 4.9★ by 54 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.9)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Lotion",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.9/5 (54 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/q/n/600-10-urea-intense-body-lotion-for-very-dry-rough-skin-glamveda-original-imahp5yzbchktzss.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/s/y/600-0-10-urea-intense-body-lotion-for-very-dry-rough-skin-original-imahh2k3vk2889u7.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/d/l/600-0-10-urea-intense-body-lotion-for-very-dry-rough-skin-original-imahh2k3yqhwvcwy.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/i/5/200-0-10-urea-intense-body-lotion-for-very-dry-rough-skin-original-imahh2k3hrtqtrpr.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/v/q/600-0-10-urea-intense-body-lotion-for-very-dry-rough-skin-original-imahh2k3rnzru2sw.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/glamveda-10-urea-intense-body-lotion-very-dry-rough-skin/p/itm7fc081d74d8a3",
+  "buyStore": "Flipkart",
+  "title": "GLAMVEDA 10% Urea Intense Body Lotion for Very Dry & Rough Skin ( …",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:urea",
+   "claim:dry-skin-relief",
+   "aud:unisex",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "hshealthstore-itmc10bde1524375",
+  "brand": "HSHEALTHSTORE",
+  "model": "10% Urea Body Lotion with Bioactive Ceramide Intens …",
+  "price": 417,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "urea + ceramides + shea butter",
+  "featureLine": "Lotion",
+  "highlight": "Live Flipkart listing rated 4.8★ by 13 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.8)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Lotion",
+   "keyIngredients": "urea, ceramides, shea butter (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.8/5 (13 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/n/n/200-10-urea-body-lotion-with-bioactive-ceramide-intensive-dry-original-imahpe6dzw42jz5g.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/0/t/200-10-urea-body-lotion-with-bioactive-ceramide-intensive-dry-original-imahzv9grrwz5cxn.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/g/a/200-10-urea-body-lotion-with-bioactive-ceramide-intensive-dry-original-imahzv9gqsmfvgvn.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/s/q/200-10-urea-body-lotion-with-bioactive-ceramide-intensive-dry-original-imahzv9gmk7f6agr.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/k/z/200-10-urea-body-lotion-with-bioactive-ceramide-intensive-dry-original-imahzv9gtbz6pczs.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/hshealthstore-10-urea-body-lotion-bioactive-ceramide-intensive-dry-skin-repair-hydration/p/itmc10bde1524375",
+  "buyStore": "Flipkart",
+  "title": "HSHEALTHSTORE 10% Urea Body Lotion with Bioactive Ceramide Intens …",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:urea",
+   "ing:ceramides",
+   "aud:unisex",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "vitamash-itm8b57c4790aeee",
+  "brand": "VITAMASH",
+  "model": "Spot Fading Vitamin E Urea Cream (100 g)",
+  "price": 222,
+  "capacityLine": "100 g",
+  "materialLine": "urea + turmeric + honey",
+  "featureLine": "Mask / pack · Paraben-free · ₹222/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹222/100g",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 5.3,
+   "ingredients": 7,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹222/100g",
+   "format": "Mask / pack",
+   "keyIngredients": "urea, turmeric, honey, almond, vitamin E (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/2/n/100-spot-fading-vitamin-e-urea-cream-vitamash-cream-original-imahnyzg8dqegfzv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/d/m/100-spot-fading-vitamin-e-urea-cream-vitamash-cream-original-imahnyzgy6e54fyt.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/3/k/100-spot-fading-vitamin-e-urea-cream-vitamash-cream-original-imahnyzghavfjrrn.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/r/p/100-spot-fading-vitamin-e-urea-cream-vitamash-cream-original-imahnyzg3zfuuhbr.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/m/h/100-spot-fading-vitamin-e-urea-cream-vitamash-cream-original-imahnyzg6mdtnxnd.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/vitamash-spot-fading-vitamin-e-urea-cream/p/itm8b57c4790aeee",
+  "buyStore": "Flipkart",
+  "title": "VITAMASH Spot Fading Vitamin E Urea Cream (100 g)",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:pack",
+   "format:wash",
+   "ing:urea",
+   "ing:turmeric",
+   "ing:honey",
+   "ing:almond",
+   "ing:vitamin-e",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:ayurvedic",
+   "free:paraben",
+   "free:derm",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "reaxi-itm55bf86ada6d4e",
+  "brand": "reaxi",
+  "model": "60% Urea Cream for Extremely Dry Skin, Moisturizing & Nouri …",
+  "price": 343,
+  "capacityLine": "80 g",
+  "materialLine": "urea",
+  "featureLine": "Cream / gel · Sulfate/SLS-free · ₹429/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Sulfate/SLS-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4.5,
+   "ingredients": 5.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "80 g",
+   "pricePer100": "₹429/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Sulfate/SLS-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/y/m/7/40-0-60-urea-cream-for-extremely-dry-skin-moisturizing-original-imahq7xvmsyjzvch.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/c/q/s/80-0-60-urea-cream-for-extremely-dry-skin-moisturizing-original-imahq7xvmwzuaqum.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/9/x/l/80-0-60-urea-cream-for-extremely-dry-skin-moisturizing-original-imahq7xvrreyyugm.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/x/b/l/40-0-60-urea-cream-for-extremely-dry-skin-moisturizing-original-imahq7xvrqavahhh.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/reaxi-60-urea-cream-extremely-dry-skin-moisturizing-nourishing-skin-care-dead-softening/p/itm55bf86ada6d4e",
+  "buyStore": "Flipkart",
+  "title": "reaxi 60% Urea Cream for Extremely Dry Skin, Moisturizing & Nouri …",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:pack",
+   "ing:urea",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:ayurvedic",
+   "free:sulfate",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "sazzio-itm4c5ed873b75b6",
+  "brand": "sazzio",
+  "model": "Urea 42% Cream with 2% Salicylic Acid for Dry Skin & Crack …",
+  "price": 199,
+  "capacityLine": "60 g",
+  "materialLine": "salicylic acid (BHA) + urea + tea tree",
+  "featureLine": "Oil · ₹332/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 6.8,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "60 g",
+   "pricePer100": "₹332/100g",
+   "format": "Oil",
+   "keyIngredients": "salicylic acid (BHA), urea, tea tree, aloe vera (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/v/t/z/180-0-urea-42-cream-with-2-salicylic-acid-for-dry-skin-cracked-original-imahqrszz2rrfdgh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/1/2/t/60-0-urea-42-cream-with-2-salicylic-acid-for-dry-skin-cracked-original-imahqrszjpyy7mrf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/2/o/c/120-0-urea-42-cream-with-2-salicylic-acid-for-dry-skin-cracked-original-imahqrszfbknhjdc.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/g/p/6/120-0-urea-42-cream-with-2-salicylic-acid-for-dry-skin-cracked-original-imahqrszjjdnzgwq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/q/v/q/120-0-urea-42-cream-with-2-salicylic-acid-for-dry-skin-cracked-original-imahqrszwhuzhymu.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/sazzio-urea-42-cream-2-salicylic-acid-dry-skin-cracked-heels-intensive-moisturizing-foot-care-coconut-oil-aloe-vera-tea-tree-oil-camellia/p/itm4c5ed873b75b6",
+  "buyStore": "Flipkart",
+  "title": "sazzio Urea 42% Cream with 2% Salicylic Acid for Dry Skin & Crack …",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:oil",
+   "format:pack",
+   "ing:salicylic-acid-bha",
+   "ing:urea",
+   "ing:tea-tree",
+   "ing:aloe-vera",
+   "ing:coconut",
+   "claim:hydrating",
+   "free:vegan",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "be-bodywise-itma7355e9b898ad",
+  "brand": "Be Bodywise",
+  "model": "20% Urea Body Lotion for Very Dry & Flaky Skin Repair …",
+  "price": 183,
+  "capacityLine": "300 ml",
+  "materialLine": "urea + ceramides + shea butter",
+  "featureLine": "Lotion · Paraben-free · ₹61/100ml",
+  "highlight": "Live Flipkart listing rated 4.5★ by 327 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹61/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [],
+  "scores": {
+   "trust": 6.6,
+   "skin": 5.3,
+   "ingredients": 6.4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "300 ml",
+   "pricePer100": "₹61/100ml",
+   "format": "Lotion",
+   "keyIngredients": "urea, ceramides, shea butter (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "4.5/5 (327 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/g/c/600-20-urea-body-lotion-for-very-dry-flaky-skin-repair-48h-original-imahgr9bvjrzj4cy.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/w/r/300-20-urea-body-lotion-48h-hydration-for-very-dry-flaky-skin-original-imahgg4fgbwfpfmg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/m/3/300-20-urea-body-lotion-48h-hydration-for-very-dry-flaky-skin-original-imahgg4fdpnkhrg3.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/w/n/300-20-urea-body-lotion-48h-hydration-for-very-dry-flaky-skin-original-imahgg4fxjphzcth.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/x/x/300-20-urea-body-lotion-48h-hydration-for-very-dry-flaky-skin-original-imahgg4f4fhuyxux.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/bodywise-20-urea-body-lotion-very-dry-flaky-skin-repair-48h-hydration-300-ml-x-2/p/itma7355e9b898ad",
+  "buyStore": "Flipkart",
+  "title": "Be Bodywise 20% Urea Body Lotion for Very Dry & Flaky Skin Repair …",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:balm",
+   "ing:urea",
+   "ing:ceramides",
+   "ing:shea-butter",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:long-lasting",
+   "claim:dry-skin-relief",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "morise-itm84ffee90f0782",
+  "brand": "morise",
+  "model": "Max Intense Moisturizing Lotion With Urea, Hyaluronic Acid …",
+  "price": 364,
+  "capacityLine": "100 g",
+  "materialLine": "urea + hyaluronic acid",
+  "featureLine": "Serum · Paraben-free · ₹364/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4.6,
+   "ingredients": 5.8,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹364/100g",
+   "format": "Serum",
+   "keyIngredients": "urea, hyaluronic acid (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/s/l/100-max-intense-moisturizing-lotion-with-urea-hyaluronic-acid-original-imahhwegxgdntfga.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/h/k/100-max-intense-moisturizing-lotion-with-urea-hyaluronic-acid-original-imahhwegycfxmw8h.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/i/i/100-max-intense-moisturizing-lotion-with-urea-hyaluronic-acid-original-imahhweguk8v3fkj.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/0/y/100-max-intense-moisturizing-lotion-with-urea-hyaluronic-acid-original-imahhwegqggf5c23.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/a/f/275-niacinamide-soft-glowing-skin-non-sticky-nourishing-lotion-original-imagwmks2q6ebuxq.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/morise-max-intense-moisturizing-lotion-urea-hyaluronic-acid-dry-rough-skin/p/itm84ffee90f0782",
+  "buyStore": "Flipkart",
+  "title": "morise Max Intense Moisturizing Lotion With Urea, Hyaluronic Acid …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:serum",
+   "format:kit",
+   "ing:urea",
+   "ing:hyaluronic-acid",
+   "ing:milk",
+   "claim:whitening-claim",
+   "claim:hydrating",
+   "free:paraben",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "be-bodywise-itma9f9a08d12dc3",
+  "brand": "Be Bodywise",
+  "model": "5% Lactic Acid Body Lotion | For Improving Skin Textu …",
+  "price": 224,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "lactic acid",
+  "featureLine": "Lotion",
+  "highlight": "Live Flipkart listing rated 4.3★ by 4,544 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.8,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Lotion",
+   "keyIngredients": "lactic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (4,544 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/t/j/200-5-lactic-acid-body-lotion-for-improving-skin-texture-original-imahggnfwczykar2.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/r/g/200-5-lactic-acid-body-lotion-for-improving-skin-texture-original-imahggnfbw9rrprb.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/i/r/200-5-lactic-acid-body-lotion-for-improving-skin-texture-original-imahggnftjyutt5v.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/4/o/200-5-lactic-acid-body-lotion-for-improving-skin-texture-original-imahggnfvpz2ubmg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/k/y/200-5-lactic-acid-body-lotion-for-improving-skin-texture-original-imahggnf2zct9hcg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/bodywise-5-lactic-acid-body-lotion-improving-skin-texture-strawberry-legs/p/itma9f9a08d12dc3",
+  "buyStore": "Flipkart",
+  "title": "Be Bodywise 5% Lactic Acid Body Lotion | For Improving Skin Textu …",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:lactic-acid",
+   "aud:unisex",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "fancyperks-itmb3e750228223c",
+  "brand": "FANCYPERKS",
+  "model": "5% Lactic Acid Body Lotion (200 ml)",
+  "price": 215,
+  "capacityLine": "200 ml",
+  "materialLine": "lactic acid + ceramides + centella/cica",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹108/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹108/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 5.3,
+   "ingredients": 6.6,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹108/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "lactic acid, ceramides, centella/cica, neem (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/7/8/200-5-lactic-acid-body-lotion-fancyperks-lotion-original-imahpf9fbqjb2zpx.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/j/m/200-5-lactic-acid-body-lotion-fancyperks-lotion-original-imahpf9fvvkqhh3h.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/b/o/200-5-lactic-acid-body-lotion-fancyperks-lotion-original-imahpf9frq87sppf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/q/s/200-5-lactic-acid-body-lotion-fancyperks-lotion-original-imahpf9ffcwd5gyy.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/l4x2rgw0/moisturizer-cream/g/n/u/500-biocare-lemon-gel-500-ml-fezona-gel-original-imagfpqxteekvzsx.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/fancyperks-5-lactic-acid-body-lotion/p/itmb3e750228223c",
+  "buyStore": "Flipkart",
+  "title": "FANCYPERKS 5% Lactic Acid Body Lotion (200 ml)",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:lotion",
+   "ing:lactic-acid",
+   "ing:ceramides",
+   "ing:centella-cica",
+   "ing:neem",
+   "ing:lemon",
+   "claim:brightening",
+   "claim:whitening-claim",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "free:paraben",
+   "free:derm",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "samput-itmf8128be223950",
+  "brand": "SAMPUT",
+  "model": "Tea Tree & Lactic Acid-Body Lotion For Men & Women-pack of …",
+  "price": 835,
+  "capacityLine": "150 g (pack of 3)",
+  "materialLine": "lactic acid + tea tree + aloe vera",
+  "featureLine": "Toner · Paraben-free · ₹557/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 5.3,
+   "ingredients": 7.2,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "50 g × 3 pack",
+   "pricePer100": "₹557/100g",
+   "format": "Toner",
+   "keyIngredients": "lactic acid, tea tree, aloe vera, rose, almond (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/a/b/250-tea-tree-lactic-acid-body-lotion-for-men-women-pack-of-3-original-imahkf5zgnuvezqe.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/r/c/250-tea-tree-lactic-acid-body-lotion-for-men-women-pack-of-1-original-imahjnd6rjx3am7h.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/5/l/250-tea-tree-lactic-acid-body-lotion-for-men-women-pack-of-1-original-imahjnd6ta2ggmsd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/u/s/250-tea-tree-lactic-acid-body-lotion-for-men-women-pack-of-1-original-imahjnd6b8adbscs.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/j/b/250-tea-tree-lactic-acid-body-lotion-for-men-women-pack-of-1-original-imahjnd6vrsh7tkj.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/samput-tea-tree-lactic-acid-body-lotion-men-women-pack-3/p/itmf8128be223950",
+  "buyStore": "Flipkart",
+  "title": "SAMPUT Tea Tree & Lactic Acid-Body Lotion For Men & Women-pack of …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:kit",
+   "ing:lactic-acid",
+   "ing:tea-tree",
+   "ing:aloe-vera",
+   "ing:rose",
+   "ing:almond",
+   "claim:hydrating",
+   "claim:soothing",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "wow-itma02c19db6c60a",
+  "brand": "Wow",
+  "model": "SKIN SCIENCE Shea Butter With Lactic Acid Body Lotion (400 ml …",
+  "price": 112,
+  "capacityLine": "400 ml",
+  "materialLine": "lactic acid + shea butter",
+  "featureLine": "Lotion · ₹28/100ml",
+  "highlight": "Live Flipkart listing rated 4.2★ by 47,069 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹28/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.2)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.3,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹28/100ml",
+   "format": "Lotion",
+   "keyIngredients": "lactic acid, shea butter (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (47,069 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/2/l/-original-imahqzrgzfyudrbg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/m/y/-original-imahqzrgxfgbxasz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/i/u/-original-imahqzrg3sf3bnjg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/v/a/-original-imahqzrgy5zdc3hy.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/h/s/-original-imahqzrgyhzywup5.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/wow-skin-science-shea-butter-lactic-acid-body-lotion/p/itma02c19db6c60a",
+  "buyStore": "Flipkart",
+  "title": "WOW SKIN SCIENCE Shea Butter With Lactic Acid Body Lotion (400 ml …",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:balm",
+   "ing:lactic-acid",
+   "ing:shea-butter",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "wow-itm4d934e5c6e1c9",
+  "brand": "Wow",
+  "model": "SKIN SCIENCE Himalayan Rose With Lactic Acid Body Lotion (400 …",
+  "price": 56,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "lactic acid + rose",
+  "featureLine": "Lotion",
+  "highlight": "Live Flipkart listing rated 4.1★ by 27,966 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.1,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Lotion",
+   "keyIngredients": "lactic acid, rose (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (27,966 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/a/o/-original-imahqzrgytb53hkd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/y/e/400-himalayan-rose-with-lactic-acid-body-lotion-wow-skin-science-original-imahpyzzh8f6g5ng.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/h/2/400-himalayan-rose-with-lactic-acid-body-lotion-wow-skin-science-original-imahpyzz5hzuhfrw.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/e/4/400-himalayan-rose-with-lactic-acid-body-lotion-wow-skin-science-original-imahpzfhbh6g66y6.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/g/z/800-himalayan-rose-lactic-acid-body-lotion-hydrates-dry-original-imahgnsgv8cyyjkg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/wow-skin-science-himalayan-rose-lactic-acid-body-lotion/p/itm4d934e5c6e1c9",
+  "buyStore": "Flipkart",
+  "title": "WOW SKIN SCIENCE Himalayan Rose With Lactic Acid Body Lotion (400 …",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:lactic-acid",
+   "ing:rose",
+   "aud:unisex",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "samput-itmbae9d4de2a4c8",
+  "brand": "SAMPUT",
+  "model": "Tea Tree & Lactic Acid-Body Lotion For Men & Women-pack of …",
+  "price": 385,
+  "capacityLine": "250 ml",
+  "materialLine": "niacinamide + lactic acid + tea tree",
+  "featureLine": "Toner · Paraben-free · ₹154/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹154/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 5.3,
+   "ingredients": 7.2,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "250 ml",
+   "pricePer100": "₹154/100ml",
+   "format": "Toner",
+   "keyIngredients": "niacinamide, lactic acid, tea tree, aloe vera, rose, almond (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/k/2/250-tea-tree-lactic-acid-body-lotion-for-men-women-pack-of-1-original-imahhg6xmpebtkyg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/v/z/250-tea-tree-lactic-acid-body-lotion-for-men-women-pack-of-1-original-imahhg6xh9w4cdg7.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/l/c/250-tea-tree-lactic-acid-body-lotion-for-men-women-pack-of-1-original-imahhg6xaazfv4qk.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/p/y/250-tea-tree-lactic-acid-body-lotion-for-men-women-pack-of-1-original-imahhg6xk25rezwd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/w/2/250-tea-tree-lactic-acid-body-lotion-for-men-women-pack-of-1-original-imahhg6xygauvknx.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/samput-tea-tree-lactic-acid-body-lotion-men-women-pack-1/p/itmbae9d4de2a4c8",
+  "buyStore": "Flipkart",
+  "title": "SAMPUT Tea Tree & Lactic Acid-Body Lotion For Men & Women-pack of …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:lactic-acid",
+   "ing:tea-tree",
+   "ing:aloe-vera",
+   "ing:rose",
+   "ing:almond",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "arata-itm7ea89a813c065",
+  "brand": "ARATA",
+  "model": "Smoothening Body Lotion for Bumpy & Strawberry Skin | Glyco …",
+  "price": 132,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion",
+  "highlight": "Live Flipkart listing rated 4.3★ by 13 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.7,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (13 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/i/v/250-smoothening-body-lotion-for-bumpy-strawberry-skin-glycolic-original-imahm22vhzmgk9nu.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/k/u/250-smoothening-body-lotion-for-bumpy-strawberry-skin-glycolic-original-imahm22vharkw3zc.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/k/j/250-smoothening-body-lotion-for-bumpy-strawberry-skin-glycolic-original-imahm22vccsjwkew.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/h/w/250-smoothening-body-lotion-for-bumpy-strawberry-skin-glycolic-original-imahm22vawjsbwgs.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/i/v/250-smoothening-body-lotion-for-bumpy-strawberry-skin-glycolic-original-imahm22vxgjxfjsp.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/arata-smoothening-body-lotion-bumpy-strawberry-skin-glycolic-salicylic-acid/p/itm7ea89a813c065",
+  "buyStore": "Flipkart",
+  "title": "ARATA Smoothening Body Lotion for Bumpy & Strawberry Skin | Glyco …",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:strawberry",
+   "claim:kp",
+   "aud:unisex",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "biopanth-itm43f348cb8dad7",
+  "brand": "BIOPANTH",
+  "model": "Super Bright Salicylic Acid & Niacinamide Body Lotion | …",
+  "price": 615,
+  "capacityLine": "200 ml",
+  "materialLine": "niacinamide + salicylic acid (BHA)",
+  "featureLine": "Lotion · ₹308/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹308/100ml",
+   "format": "Lotion",
+   "keyIngredients": "niacinamide, salicylic acid (BHA) (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/b/5/400-super-bright-salicylic-acid-niacinamide-body-lotion-aha-bha-original-imahzg5kzghfurqu.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/z/k/400-super-bright-salicylic-acid-niacinamide-body-lotion-aha-bha-original-imahzg5kwzghzerd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/f/1/200-super-bright-skin-nourishing-moisturizing-body-lotion-aha-original-imahnukwztajnqrr.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/a/0/400-super-bright-salicylic-acid-niacinamide-body-lotion-aha-bha-original-imahzg5krdesztz7.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/p/x/200-super-bright-skin-nourishing-moisturizing-body-lotion-aha-original-imahnuh6ajhgzsxr.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/biopanth-super-bright-salicylic-acid-niacinamide-body-lotion-aha-bha/p/itm43f348cb8dad7",
+  "buyStore": "Flipkart",
+  "title": "BIOPANTH Super Bright Salicylic Acid & Niacinamide Body Lotion | …",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "ing:aha",
+   "claim:hydrating",
+   "claim:kp",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "velite-itm64e3655be2a0b",
+  "brand": "velite",
+  "model": "Defitis Fix Lotion Ammonium lactate Lotion (150 ml)",
+  "price": 448,
+  "capacityLine": "150 ml",
+  "materialLine": "vitamin C + ammonium lactate + ceramides",
+  "featureLine": "Lotion · Paraben-free · ₹299/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 5.3,
+   "ingredients": 6.4,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "150 ml",
+   "pricePer100": "₹299/100ml",
+   "format": "Lotion",
+   "keyIngredients": "vitamin C, ammonium lactate, ceramides (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/r/3/150-defitis-fix-lotion-ammonium-lactate-lotion-velite-cream-original-imahhdysm4wdgf2h.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/j/0/150-defitis-fix-lotion-ammonium-lactate-lotion-velite-cream-original-imahhdysnergkgug.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/y/z/150-defitis-fix-lotion-ammonium-lactate-lotion-velite-cream-original-imahhdyswzpwcg7e.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/u/n/150-moisturizer-lotion-150-ml-lacderm-lotion-original-imahjzy7vshdahqh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/4/3/n/50-hydra-bio-membrane-skin-repair-moisturizing-cream-for-women-original-imahktbyqmee8bb8.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/velite-defitis-fix-lotion-ammonium-lactate/p/itm64e3655be2a0b",
+  "buyStore": "Flipkart",
+  "title": "velite Defitis Fix Lotion Ammonium lactate Lotion (150 ml)",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "ing:vitamin-c",
+   "ing:ammonium-lactate",
+   "ing:ceramides",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "estetica-cosmetics-itm2b25b2fe64245",
+  "brand": "Estetica Cosmetics",
+  "model": "Estetica Strawberry Skin Brightening & Freshne …",
+  "price": 135,
+  "capacityLine": "100 g",
+  "materialLine": "rice water + papaya",
+  "featureLine": "Wash / cleanser · Paraben-free · ₹135/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹135/100g",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4.6,
+   "ingredients": 5.3,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹135/100g",
+   "format": "Wash / cleanser",
+   "keyIngredients": "rice water, papaya (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/k/q/k/50-strawberry-glow-enhancing-anti-dullness-face-cleanser-original-imahmhrvgqyaafts.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/w/o/m/50-juicy-strawberry-brightening-deep-cleansing-radiance-facewash-original-imahmzchckwn52ms.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/j/8/p/50-strawberry-skin-illuminating-refreshing-facewash-p2-estetica-original-imahmpczfzv9xky3.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/r/m/q/50-juicy-strawberry-brightening-deep-cleansing-radiance-facewash-original-imahmzchptjpdmec.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/d/h/u/50-strawberry-clear-skin-transformation-facewash-estetica-original-imahmc4dbgggqxjk.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/estetica-cosmetics-strawberry-skin-brightening-freshness-boost-facewash-face-wash/p/itm2b25b2fe64245",
+  "buyStore": "Flipkart",
+  "title": "Estetica Cosmetics Estetica Strawberry Skin Brightening & Freshne …",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:essence",
+   "format:wash",
+   "format:kit",
+   "ing:rice-water",
+   "ing:papaya",
+   "ing:strawberry",
+   "claim:brightening",
+   "claim:acne",
+   "claim:kp",
+   "claim:korean",
+   "free:paraben",
+   "free:vegan",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "dermease-itm391b678d739dc",
+  "brand": "DERMEASE",
+  "model": "1% Salicylic Acid Daily Exfoliating Body Lotion (300 ml)",
+  "price": 161,
+  "capacityLine": "300 ml",
+  "materialLine": "salicylic acid (BHA) + glycolic acid + aloe vera",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹54/100ml",
+  "highlight": "Live Flipkart listing rated 4.2★ by 12 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹54/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 5.3,
+   "ingredients": 6.2,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "300 ml",
+   "pricePer100": "₹54/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "salicylic acid (BHA), glycolic acid, aloe vera (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "4.2/5 (12 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/n/p/300-1-salicylic-acid-daily-exfoliating-body-lotion-dermease-original-imagzw4wmqh9aymr.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/5/x/300-1-salicylic-acid-daily-exfoliating-body-lotion-dermease-original-imagzw4wpnrazyfu.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/0/o/300-1-salicylic-acid-daily-exfoliating-body-lotion-dermease-original-imagzw4wk8nswvm6.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/e/r/300-1-salicylic-acid-daily-exfoliating-body-lotion-dermease-original-imagzw4wxfhzytt7.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/z/9/300-1-salicylic-acid-daily-exfoliating-body-lotion-dermease-original-imagzw4wjhdy2nuq.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/dermease-1-salicylic-acid-daily-exfoliating-body-lotion/p/itm391b678d739dc",
+  "buyStore": "Flipkart",
+  "title": "DERMEASE 1% Salicylic Acid Daily Exfoliating Body Lotion (300 ml)",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "ing:salicylic-acid-bha",
+   "ing:glycolic-acid",
+   "ing:cocoa-butter",
+   "ing:glycerin",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "free:paraben",
+   "free:derm",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "cerave-itmd1fffa4ab408e",
+  "brand": "CeraVe",
+  "model": "SA Smoothing Cream for exfoliating Rough & Bumpy Skin With …",
+  "price": 1055,
+  "capacityLine": "177 ml",
+  "materialLine": "salicylic acid (BHA) + lactic acid + urea",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹596/100ml",
+  "highlight": "Live Flipkart listing rated 2.8★ by 4 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Mixed buyer rating (2.8)"
+  ],
+  "scores": {
+   "trust": 5.3,
+   "skin": 6.3,
+   "ingredients": 6.4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "177 ml",
+   "pricePer100": "₹596/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "salicylic acid (BHA), lactic acid, urea (per listing)",
+   "freeFrom": "Paraben-free, Fragrance-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Non-comedogenic (per listing)",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Dry Skin",
+   "rating": "2.8/5 (4 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/j/z/-original-imahzv83zzyw2gyz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/e/i/-original-imahzv83cmjfqgyf.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/u/h/-original-imahzv834pcptzvk.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/k/d/-original-imahzv83gccxqd5p.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/8/m/-original-imahzv83k4whajuy.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/cerave-sa-smoothing-cream-exfoliating-rough-bumpy-skin-salicylic-acid/p/itmd1fffa4ab408e",
+  "buyStore": "Flipkart",
+  "title": "CeraVe SA Smoothing Cream for exfoliating Rough & Bumpy Skin With …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "ing:salicylic-acid-bha",
+   "ing:lactic-acid",
+   "ing:aha",
+   "ing:urea",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:kp",
+   "free:paraben",
+   "free:fragrance",
+   "free:derm",
+   "free:non-comedogenic",
+   "free:vegan",
+   "skin:dry",
+   "aud:women",
+   "size:large",
+   "rating:low",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "febelvn-itm82e40a3e82ba5",
+  "brand": "febelvn",
+  "model": "Keratosis Pilaris Body Serum with Salicylic Acid Smooth S …",
+  "price": 365,
+  "capacityLine": "50 ml",
+  "materialLine": "salicylic acid (BHA)",
+  "featureLine": "Scrub / exfoliant · ₹730/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹730/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "salicylic acid (BHA) (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/h/s/t/50-keratosis-pilaris-body-serum-with-salicylic-acid-smooth-skin-original-imahhwdkhjjw5ahs.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/h/a/b/50-keratosis-pilaris-body-serum-with-salicylic-acid-smooth-skin-original-imahhwdkst4cksst.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/n/q/r/50-keratosis-pilaris-body-serum-with-salicylic-acid-smooth-skin-original-imahhwdkab9hmhgr.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/u/7/x/50-keratosis-pilaris-body-serum-with-salicylic-acid-smooth-skin-original-imahhwdkmfefnjst.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/febelvn-keratosis-pilaris-body-serum-salicylic-acid-smooth-skin-care-solution/p/itm82e40a3e82ba5",
+  "buyStore": "Flipkart",
+  "title": "febelvn Keratosis Pilaris Body Serum with Salicylic Acid Smooth S …",
+  "tags": [
+   "scope:body",
+   "format:serum",
+   "format:pack",
+   "ing:salicylic-acid-bha",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:exfoliating",
+   "claim:kp",
+   "claim:lightweight",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "aqurea-itm080114abeb454",
+  "brand": "Aqurea",
+  "model": "Cream 20% For very dry scaly skin with Urea 20%Propylene G …",
+  "price": 436,
+  "capacityLine": "100 g",
+  "materialLine": "urea + aloe vera",
+  "featureLine": "Cream / gel · ₹436/100g",
+  "highlight": "Live Flipkart listing rated 4.7★ by 6 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.7)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹436/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "urea, aloe vera (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "4.7/5 (6 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/f/k/100-cream-20-for-very-dry-scaly-skin-with-urea-20-propylene-original-imahmrgudfpfngys.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/3/q/100-20-cream-100gm-for-very-dry-scaly-skin-with-urea-20-aqurea-original-imahmq5gsqtsq9h3.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/2/v/100-20-moisturizing-urea-cream-aqurea-cream-original-imah87hphvu5y2n2.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/4/e/50-urea-20-cream-100g-aqurea-cream-original-imah6khm5wkfhubh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/i/y/100-aqurea-20-aqurea-hf-cream-original-imahz6mhesgtthwg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/aqurea-cream-20-very-dry-scaly-skin-urea-20-propylene-glycol-aloe-vera/p/itm080114abeb454",
+  "buyStore": "Flipkart",
+  "title": "Aqurea Cream 20% For very dry scaly skin with Urea 20%Propylene G …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "ing:urea",
+   "ing:aloe-vera",
+   "claim:hydrating",
+   "claim:dry-skin-relief",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "nmf-itm62d61647ae396",
+  "brand": "NMF",
+  "model": "CREAM WITH ALOE VERA & UREA (300 g)",
+  "price": 686,
+  "capacityLine": "300 g",
+  "materialLine": "urea + aloe vera",
+  "featureLine": "Cream / gel · Paraben-free · ₹229/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹229/100g",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 5.3,
+   "ingredients": 6,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "300 g",
+   "pricePer100": "₹229/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "urea, aloe vera (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Dry Skin, Sensitive Skin",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/7/n/300-cream-with-aloe-vera-urea-nmf-cream-original-imahqy5ysmffruhh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/k/6/300-cream-with-aloe-vera-urea-nmf-cream-original-imahhmbs8xkpptmr.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/nmf-cream-aloe-vera-urea/p/itm62d61647ae396",
+  "buyStore": "Flipkart",
+  "title": "NMF CREAM WITH ALOE VERA & UREA (300 g)",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "ing:urea",
+   "ing:aloe-vera",
+   "claim:hydrating",
+   "claim:barrier",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "free:sensitive-safe",
+   "skin:dry",
+   "skin:sensitive",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "urea-derm-itm7e4a9fa035f1a",
+  "brand": "Urea Derm",
+  "model": "20% Urea Moisturizing Cream for Severe Dryness, Ichthyo …",
+  "price": 572,
+  "capacityLine": "200 ml",
+  "materialLine": "urea",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹286/100ml",
+  "highlight": "Live Flipkart listing rated 3.9★ by 8 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Mixed buyer rating (3.9)",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.6,
+   "skin": 5.3,
+   "ingredients": 5.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹286/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "3.9/5 (8 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/l/z/100-20-urea-moisturizing-cream-for-severe-dryness-ichthyosis-original-imahfg97nhmhtdk9.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/u/t/100-20-urea-moisturizing-cream-for-severe-dryness-ichthyosis-original-imahedbevunfpj2f.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/p/5/100-20-urea-moisturizing-cream-for-severe-dryness-ichthyosis-original-imahedbezqvmaw4t.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/z/7/200-20-urea-moisturizing-cream-for-severe-dryness-ichthyosis-original-imahfrhgmkzfbgfy.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/7/8/o/100-20-urea-moisturizing-cream-for-severe-dryness-ichthyosis-original-imahedbecjzzr7fm.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/urea-derm-20-moisturizing-cream-severe-dryness-ichthyosis-psoriasis/p/itm7e4a9fa035f1a",
+  "buyStore": "Flipkart",
+  "title": "Urea Derm 20% Urea Moisturizing Cream for Severe Dryness, Ichthyo …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "ing:urea",
+   "ing:allantoin",
+   "ing:glycerin",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:dry-skin-relief",
+   "free:paraben",
+   "free:derm",
+   "skin:all",
+   "aud:kids",
+   "size:large",
+   "rating:3.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "euceerin-itmc6347a0fba5f4",
+  "brand": "Euceerin",
+  "model": "Advanced Repair Body Cream, Urea Enriched, Unscented Bod …",
+  "price": 2500,
+  "capacityLine": "453 g",
+  "materialLine": "urea",
+  "featureLine": "Sunscreen · Paraben-free · ₹552/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 5.8,
+   "ingredients": 5.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "453 g",
+   "pricePer100": "₹552/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Paraben-free, Fragrance-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/c/y/453-advanced-repair-body-cream-urea-enriched-unscented-body-original-imahptchgcdw3qqz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/r/b/454-advanced-repair-body-cream-for-dry-to-very-dry-skin-original-imahparwmynh3q4u.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/g/b/453-advanced-repair-body-cream-urea-enriched-unscented-body-original-imahptchkqyacwqg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/v/c/454-advanced-repair-body-cream-for-dry-to-very-dry-skin-original-imahparwbqx64hwy.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/y/x/454-advanced-repair-body-cream-for-dry-to-very-dry-skin-original-imahparwmz5z6amb.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/euceerin-advanced-repair-body-cream-urea-enriched-unscented-cream/p/itmc6347a0fba5f4",
+  "buyStore": "Flipkart",
+  "title": "Euceerin Advanced Repair Body Cream, Urea Enriched, Unscented Bod …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "ing:aha",
+   "ing:urea",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "free:paraben",
+   "free:fragrance",
+   "free:derm",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "sereko-itm892e1764b827a",
+  "brand": "SEREKO",
+  "model": "Hydra-Repair 10% Urea Body Lotion | 48 Hour Dry Skin Relie …",
+  "price": 801,
+  "capacityLine": "200 ml",
+  "materialLine": "urea",
+  "featureLine": "Lotion · ₹401/100ml",
+  "highlight": "Live Flipkart listing rated 4.8★ by 46 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.8)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹401/100ml",
+   "format": "Lotion",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "4.8/5 (46 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/r/x/200-hydra-repair-10-urea-body-lotion-48-hour-dry-skin-relief-for-original-imahfgzyupz3hph6.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/z/f/200-hydra-repair-10-urea-body-lotion-48-hour-dry-skin-relief-for-original-imahfgzy2z9qz2th.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/x/c/200-hydra-repair-10-urea-body-lotion-48-hour-dry-skin-relief-for-original-imahfgzyhcjssuez.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/m/i/200-hydra-repair-10-urea-body-lotion-48-hour-dry-skin-relief-for-original-imahfgzyuwded5kz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/o/c/200-hydra-repair-10-urea-body-lotion-48-hour-dry-skin-relief-for-original-imahfgzyhabygux2.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/sereko-hydra-repair-10-urea-body-lotion-48-hour-dry-skin-relief-flaky/p/itm892e1764b827a",
+  "buyStore": "Flipkart",
+  "title": "SEREKO Hydra-Repair 10% Urea Body Lotion | 48 Hour Dry Skin Relie …",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "ing:urea",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:long-lasting",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "canbro-itmd4e17a2c19fa1",
+  "brand": "canbro",
+  "model": "MOIAILK-U 10% MOISTURIZING UREA CREAM (PACK OF 2) (200 g)",
+  "price": 437,
+  "capacityLine": "400 g (pack of 2)",
+  "materialLine": "urea",
+  "featureLine": "Oil · ₹109/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹109/100g",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "200 g × 2 pack",
+   "pricePer100": "₹109/100g",
+   "format": "Oil",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/j/e/200-moiailk-u-10-moisturizing-urea-cream-pack-of-2-canbro-cream-original-imahndxbgnf9hqze.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/t/i/200-moiailk-u-10-moisturizing-urea-cream-pack-of-2-canbro-cream-original-imahndxbwse8xcdb.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/canbro-moiailk-u-10-moisturizing-urea-cream-pack-2/p/itmd4e17a2c19fa1",
+  "buyStore": "Flipkart",
+  "title": "canbro MOIAILK-U 10% MOISTURIZING UREA CREAM (PACK OF 2) (200 g)",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:oil",
+   "format:kit",
+   "ing:urea",
+   "claim:oil-control",
+   "claim:hydrating",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "cosmo-itm3c574b14a7916",
+  "brand": "COSMO",
+  "model": "Urea Repair Lotion Dryness Relief Advanced Skin Repair with …",
+  "price": 404,
+  "capacityLine": "316 ml",
+  "materialLine": "urea + ceramides + papaya",
+  "featureLine": "Sunscreen · Paraben-free · SPF 30 · ₹128/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹128/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4.6,
+   "ingredients": 5.9,
+   "experience": 5.6
+  },
+  "fullSpec": {
+   "quantity": "316 ml",
+   "pricePer100": "₹128/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "urea, ceramides, papaya (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, SPF 30",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/z/5/316-urea-repair-lotion-dryness-relief-advanced-skin-repair-with-original-imahjxfwqrxkkseb.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/j/j/316-urea-repair-lotion-dryness-relief-advanced-skin-repair-with-original-imahjxfw8fmmjmhy.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/o/p/100-advanced-body-care-30-urea-smoothing-gel-cream-extremely-dry-original-imahhde6hrahj9nk.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/l/d/1000-designs-beaute-cucumber-melon-cooling-refreshing-body-original-imagpzj3p33qrgyx.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/h/q/1000-beaute-romance-enchanting-perfumed-body-lotion-cosmo-lotion-original-imagpzk9yut8yrsz.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/cosmo-urea-repair-lotion-dryness-relief-advanced-skin-10-ceramide/p/itm3c574b14a7916",
+  "buyStore": "Flipkart",
+  "title": "COSMO Urea Repair Lotion Dryness Relief Advanced Skin Repair with …",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:lotion",
+   "spf:30",
+   "ing:urea",
+   "ing:ceramides",
+   "ing:papaya",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:spf-claim",
+   "claim:dry-skin-relief",
+   "free:paraben",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "vexana-itm44f98245ca2a2",
+  "brand": "vexana",
+  "model": "dark spot spot fading urea cream (50 g)",
+  "price": 135,
+  "capacityLine": "50 g",
+  "materialLine": "urea",
+  "featureLine": "Cream / gel · Paraben-free · ₹270/100g",
+  "highlight": "Live Flipkart listing rated 4.5★ by 4 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.5,
+   "skin": 5.3,
+   "ingredients": 5.6,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹270/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Oily Skin, Sensitive Skin",
+   "rating": "4.5/5 (4 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/s/w/50-dark-spot-spot-fading-urea-cream-vexana-cream-original-imahbzfhz9yqw3ek.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/r/y/50-spot-fading-urea-cream-vexana-cream-original-imahbdt4azgmhphz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/j/s/50-spot-fading-urea-cream-vexana-cream-original-imahbdt4rzt5wumu.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/f/n/50-spot-fading-urea-cream-vexana-cream-original-imahbdt4e4ajbvgy.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/l/o/50-dead-skin-spot-fading-urea-cream-vexana-cream-original-imahbzfhgmshmfzc.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/vexana-dark-spot-fading-urea-cream/p/itm44f98245ca2a2",
+  "buyStore": "Flipkart",
+  "title": "vexana dark spot spot fading urea cream (50 g)",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "ing:urea",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "doomsday-itm89976a4370c61",
+  "brand": "DOOMSDAY",
+  "model": "kuan ux moisturising urea cream enriched with tea tree o …",
+  "price": 849,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "urea + tea tree",
+  "featureLine": "Cream / gel",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream / gel",
+   "keyIngredients": "urea, tea tree (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/h/q/300-0-kuan-ux-moisturising-urea-cream-enriched-with-tea-tree-oil-original-imahfyq2pgqz4yz2.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/f/h/80-dermitar-lotion-controls-dandruff-pack-of-3-doomsday-cream-original-imahhrthcrvfznz9.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/q/5/400-h-hdermadew-baby-lotion-pack-of-4-100-4-h-h-lotion-original-imahmcykah6nyfkq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/p/e/600-cleasing-milk-lotion-with-cucumber-and-aloevera-ext-pack-of-original-imahpgguzrczcqhx.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/6/w/s/60-sunban-forte-cream-60-gm-h-h-cream-original-imah5gfdwpxkfhen.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/doomsday-kuan-ux-moisturising-urea-cream-enriched-tea-tree-oil-aloevera/p/itm89976a4370c61",
+  "buyStore": "Flipkart",
+  "title": "DOOMSDAY kuan ux moisturising urea cream enriched with tea tree o …",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "ing:urea",
+   "ing:tea-tree",
+   "claim:hydrating",
+   "aud:unisex",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "be-bodywise-itm791ccb147287e",
+  "brand": "Be Bodywise",
+  "model": "20% Urea Body Lotion | 48H Hydration | For Very Dry & …",
+  "price": 183,
+  "capacityLine": "300 ml",
+  "materialLine": "urea + ceramides + shea butter",
+  "featureLine": "Lotion · Paraben-free · ₹61/100ml",
+  "highlight": "Live Flipkart listing rated 4.5★ by 327 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹61/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [],
+  "scores": {
+   "trust": 6.6,
+   "skin": 5.3,
+   "ingredients": 6.4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "300 ml",
+   "pricePer100": "₹61/100ml",
+   "format": "Lotion",
+   "keyIngredients": "urea, ceramides, shea butter (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "4.5/5 (327 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/1/9/300-20-urea-body-lotion-48h-hydration-for-very-dry-flaky-skin-original-imahgg4fgys3jydu.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/d/r/300-20-urea-body-lotion-48h-hydration-for-very-dry-flaky-skin-original-imahgg4fhcasbhfw.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/m/3/300-20-urea-body-lotion-48h-hydration-for-very-dry-flaky-skin-original-imahgg4fdpnkhrg3.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/w/r/300-20-urea-body-lotion-48h-hydration-for-very-dry-flaky-skin-original-imahgg4fgbwfpfmg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/x/x/300-20-urea-body-lotion-48h-hydration-for-very-dry-flaky-skin-original-imahgg4f4fhuyxux.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/bodywise-20-urea-body-lotion-48h-hydration-very-dry-flaky-skin-ceramides/p/itm791ccb147287e",
+  "buyStore": "Flipkart",
+  "title": "Be Bodywise 20% Urea Body Lotion | 48H Hydration | For Very Dry & …",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:balm",
+   "ing:urea",
+   "ing:ceramides",
+   "ing:shea-butter",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:long-lasting",
+   "claim:dry-skin-relief",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "be-bodywise-itmfceccd5288fb1",
+  "brand": "Be Bodywise",
+  "model": "10% Urea Body Lotion | 48 Hour Dry Skin Relief | For …",
+  "price": 200,
+  "capacityLine": "200 ml",
+  "materialLine": "urea + shea butter",
+  "featureLine": "Lotion · Paraben-free · ₹100/100ml",
+  "highlight": "Live Flipkart listing rated 4.4★ by 5,400 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹100/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [],
+  "scores": {
+   "trust": 6.4,
+   "skin": 5.3,
+   "ingredients": 5.7,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹100/100ml",
+   "format": "Lotion",
+   "keyIngredients": "urea, shea butter (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "4.4/5 (5,400 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/r/q/400-10-urea-body-lotion-48-hour-dry-skin-relief-for-dry-flaky-original-imahgg4zghsj7yys.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/y/w/300-body-lotion-48-hour-dry-skin-relief-for-very-dry-flaky-skin-original-imahhe6yqrvxtqwa.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/i/3/300-10-urea-body-lotion-48-hour-dry-skin-relief-for-very-dry-original-imahgg3nb3cmxvmr.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/h/w/p/300-body-lotion-48-hour-dry-skin-relief-for-very-dry-flaky-skin-original-imahhe6ywkqs4s2w.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/u/b/300-10-urea-body-lotion-48-hour-dry-skin-relief-for-very-dry-original-imahgg3ny4yszfjw.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/bodywise-10-urea-body-lotion-48-hour-dry-skin-relief-flaky-skin-200ml-x-2/p/itmfceccd5288fb1",
+  "buyStore": "Flipkart",
+  "title": "Be Bodywise 10% Urea Body Lotion | 48 Hour Dry Skin Relief | For …",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "ing:urea",
+   "ing:shea-butter",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:lightweight",
+   "claim:long-lasting",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "borsalimedicare-itm7a5fb1bb30fb0",
+  "brand": "BORSALIMEDICARE",
+  "model": "Aqurea 10 Urea Moisturizing Cream 100g | 10% Urea …",
+  "price": 245,
+  "capacityLine": "100 g",
+  "materialLine": "vitamin C + lactic acid + urea",
+  "featureLine": "Cream / gel · ₹245/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹245/100g",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹245/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "vitamin C, lactic acid, urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/v/r/s/100-aqurea-10-urea-moisturizing-cream-100g-urea-with-lactic-acid-original-imahp5bcryj4wxcb.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/b/j/j/100-aqurea-10-urea-moisturizing-cream-100g-urea-with-lactic-acid-original-imahp5bcfr8tuczk.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/b/q/15-melano-tx-ultra-cream-15-g-advanced-skin-care-borsalimedicare-original-imahpr92vhdgcfk7.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/r/9/10-opexa-advanced-scar-treatment-gel-10g-dimethicone-ascorbyl-original-imahp5znxaqfg5vg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/c/8/30-briglo-liposomal-depigmenting-gel-cream-30g-borsali-medicare-original-imahpkuwyhta93zs.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/borsalimedicare-aqurea-10-urea-moisturizing-cream-100g-10-lactic-acid/p/itm7a5fb1bb30fb0",
+  "buyStore": "Flipkart",
+  "title": "BORSALIMEDICARE Aqurea 10 Urea Moisturizing Cream 100g | 10% Urea …",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "ing:vitamin-c",
+   "ing:lactic-acid",
+   "ing:urea",
+   "claim:hydrating",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "dr-itm4bebbf598d5f7",
+  "brand": "Dr.",
+  "model": "Sheth’s Tea Tree & Lactic Acid Body Lotion, Helps to Reduce B …",
+  "price": 80,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "lactic acid + tea tree",
+  "featureLine": "Lotion",
+  "highlight": "Live Flipkart listing rated 4.2★ by 4,920 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.2)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.5,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Lotion",
+   "keyIngredients": "lactic acid, tea tree (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (4,920 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/x/m/u/200-0-tea-tree-lactic-acid-body-lotion-helps-to-reduce-body-acne-original-imaheqsfjgfffr4e.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/a/k/200-0-tea-tree-lactic-acid-body-lotion-helps-to-reduce-body-acne-original-imaheqsfm2e35zas.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/m/m/200-0-tea-tree-lactic-acid-body-lotion-helps-to-reduce-body-acne-original-imaheqsfqjgmruth.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/a/g/200-0-tea-tree-lactic-acid-body-lotion-helps-to-reduce-body-acne-original-imaheqsfzhsggydr.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/k/e/300-tea-tree-lactic-acid-body-lotion-treats-body-acne-original-imahykh8gzhkfxa6.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/dr-sheths-tea-tree-lactic-acid-body-lotion-helps-reduce-acne/p/itm4bebbf598d5f7",
+  "buyStore": "Flipkart",
+  "title": "Dr. Sheth’s Tea Tree & Lactic Acid Body Lotion, Helps to Reduce B …",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:lactic-acid",
+   "ing:tea-tree",
+   "aud:unisex",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "bake-itm3df683b3e9fa9",
+  "brand": "BAKE",
+  "model": "Glycolic Acid + Lactic Acid AHA Exfoliating Body Lotion for …",
+  "price": 398,
+  "capacityLine": "200 ml",
+  "materialLine": "glycolic acid + lactic acid",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹199/100ml",
+  "highlight": "Live Flipkart listing rated 4★ by 3 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹199/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.2,
+   "skin": 4.6,
+   "ingredients": 6,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹199/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "glycolic acid, lactic acid (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Combination Skin, Dry Skin, Normal Skin, Combination Skin",
+   "rating": "4/5 (3 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/f/l/0/200-glycolic-acid-lactic-acid-exfoliating-body-lotion-for-smooth-original-imahq4tz8brmxyup.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/k/w/5/200-glycolic-acid-lactic-acid-exfoliating-body-lotion-for-smooth-original-imahq4tz2f9yvagh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/w/e/u/200-glycolic-acid-lactic-acid-exfoliating-body-lotion-for-smooth-original-imahq4tznfphpmrj.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/c/3/200-glycolic-acid-lactic-acid-aha-exfoliating-body-lotion-for-original-imahq4uaukgtqcgg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/shopsy-moisturizer-cream/o/a/t/200-glycolic-acid-lactic-acid-exfoliating-body-lotion-for-smooth-original-imahq4tzd2gavkzu.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/bake-glycolic-acid-lactic-aha-exfoliating-body-lotion-rough-uneven-skin/p/itm3df683b3e9fa9",
+  "buyStore": "Flipkart",
+  "title": "BAKE Glycolic Acid + Lactic Acid AHA Exfoliating Body Lotion for …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "ing:glycolic-acid",
+   "ing:lactic-acid",
+   "ing:aha",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "free:paraben",
+   "free:vegan",
+   "skin:dry",
+   "skin:combination",
+   "skin:normal",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "odilo-itmf1829ab768cd7",
+  "brand": "Odilo",
+  "model": "SKIN SCIENCE Shea Butter With Lactic Acid Body Lotion (500 …",
+  "price": 154,
+  "capacityLine": "500 ml",
+  "materialLine": "lactic acid + shea butter",
+  "featureLine": "Lotion · Paraben-free · ₹31/100ml",
+  "highlight": "Live Flipkart listing rated 4.1★ by 40 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹31/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.9,
+   "skin": 5.3,
+   "ingredients": 5.8,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "500 ml",
+   "pricePer100": "₹31/100ml",
+   "format": "Lotion",
+   "keyIngredients": "lactic acid, shea butter (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "4.1/5 (40 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/y/n/500-skin-science-shea-butter-with-lactic-acid-body-lotion-odilo-original-imahq99yhmjhgenk.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/e/3/500-skin-science-shea-butter-with-lactic-acid-body-lotion-odilo-original-imahq99yecg4za4q.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/0/w/500-skin-science-shea-butter-with-lactic-acid-body-lotion-odilo-original-imahq99ydxmxstpe.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/o/q/500-skin-science-shea-butter-with-lactic-acid-body-lotion-odilo-original-imahq99yzzhgvugh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/j/z/500-skin-science-shea-butter-with-lactic-acid-body-lotion-odilo-original-imahq99ynzmsw4nh.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/odilo-skin-science-shea-butter-lactic-acid-body-lotion/p/itmf1829ab768cd7",
+  "buyStore": "Flipkart",
+  "title": "Odilo SKIN SCIENCE Shea Butter With Lactic Acid Body Lotion (500 …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:balm",
+   "ing:lactic-acid",
+   "ing:shea-butter",
+   "claim:brightening",
+   "claim:hydrating",
+   "free:paraben",
+   "free:derm",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "samput-itmc41c28b36cc67",
+  "brand": "SAMPUT",
+  "model": "Tea Tree & Lactic Acid-Body Lotion For Men & Women-pack of …",
+  "price": 643,
+  "capacityLine": "500 ml (pack of 2)",
+  "materialLine": "lactic acid + tea tree + aloe vera",
+  "featureLine": "Toner · Paraben-free · ₹129/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹129/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 5.3,
+   "ingredients": 7.2,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "250 ml × 2 pack",
+   "pricePer100": "₹129/100ml",
+   "format": "Toner",
+   "keyIngredients": "lactic acid, tea tree, aloe vera, rose, almond (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/k/v/250-tea-tree-lactic-acid-body-lotion-for-men-women-pack-of-2-original-imahkf5ubhm8mndm.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/u/h/250-tea-tree-lactic-acid-body-lotion-for-men-women-pack-of-1-original-imahj23fvcejy8fe.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/m/w/250-tea-tree-lactic-acid-body-lotion-for-men-women-pack-of-1-original-imahj23f3zvcyxrm.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/7/x/250-tea-tree-lactic-acid-body-lotion-for-men-women-pack-of-1-original-imahj23fxhankktg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/s/o/250-tea-tree-lactic-acid-body-lotion-for-men-women-pack-of-1-original-imahj23f8nfctgqp.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/samput-tea-tree-lactic-acid-body-lotion-men-women-pack-2/p/itmc41c28b36cc67",
+  "buyStore": "Flipkart",
+  "title": "SAMPUT Tea Tree & Lactic Acid-Body Lotion For Men & Women-pack of …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:balm",
+   "format:kit",
+   "ing:lactic-acid",
+   "ing:tea-tree",
+   "ing:aloe-vera",
+   "ing:rose",
+   "ing:almond",
+   "ing:cocoa-butter",
+   "claim:hydrating",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "be-bodywise-itm23e3312d88b5e",
+  "brand": "Be Bodywise",
+  "model": "5% Lactic Acid Body Lotion | 10% Niacinamide Hydratin …",
+  "price": 729,
+  "capacityLine": "400 ml",
+  "materialLine": "niacinamide + lactic acid",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹182/100ml",
+  "highlight": "Live Flipkart listing rated 4.5★ by 75 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹182/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [],
+  "scores": {
+   "trust": 6.6,
+   "skin": 5.3,
+   "ingredients": 6,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹182/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "niacinamide, lactic acid (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
+   "rating": "4.5/5 (75 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/x/r/400-5-lactic-acid-body-lotion-10-niacinamide-hydrating-body-original-imah6qpfzdxy3rgz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/4/n/400-5-lactic-acid-body-lotion-10-niacinamide-hydrating-body-original-imah6qpfregwzn9z.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/0/k/400-5-lactic-acid-body-lotion-10-niacinamide-hydrating-body-original-imah6qpfmxjxr4sz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/4/q/400-5-lactic-acid-body-lotion-10-niacinamide-hydrating-body-original-imah6qpfpaphdgfs.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/f/c/400-5-lactic-acid-body-lotion-10-niacinamide-hydrating-body-original-imah6qpffdzb6gep.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/bodywise-5-lactic-acid-body-lotion-10-niacinamide-hydrating-skin-care/p/itm23e3312d88b5e",
+  "buyStore": "Flipkart",
+  "title": "Be Bodywise 5% Lactic Acid Body Lotion | 10% Niacinamide Hydratin …",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "ing:niacinamide",
+   "ing:lactic-acid",
+   "ing:strawberry",
+   "claim:brightening",
+   "claim:acne",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:kp",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "wow-skin-science-itm1c3afc46395fa",
+  "brand": "WOW SKIN SCIENCE",
+  "model": "Himalayan Rose & Lactic Acid Body Lotion |Hydrat …",
+  "price": 56,
+  "capacityLine": "1600 ml (pack of 2)",
+  "materialLine": "lactic acid + rose",
+  "featureLine": "Lotion · Paraben-free · ₹4/100ml",
+  "highlight": "Live Flipkart listing rated 4.1★ by 27,966 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹4/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.9,
+   "skin": 5.3,
+   "ingredients": 6,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "800 ml × 2 pack",
+   "pricePer100": "₹4/100ml",
+   "format": "Lotion",
+   "keyIngredients": "lactic acid, rose (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "4.1/5 (27,966 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/g/z/800-himalayan-rose-lactic-acid-body-lotion-hydrates-dry-original-imahgnsgv8cyyjkg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/a/o/-original-imahqzrgytb53hkd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/j/u/-original-imaguf85vft399bd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/k/t/n/400-coconut-milk-with-lactic-acid-body-lotion-wow-skin-science-enriched-transparent-original-imahhhj64zfvzh8h.png?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/2/l/-original-imahqzrgzfyudrbg.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/wow-skin-science-himalayan-rose-lactic-acid-body-lotion-hydrates-dry-sensitive-skin-pack-2/p/itm1c3afc46395fa",
+  "buyStore": "Flipkart",
+  "title": "WOW SKIN SCIENCE Himalayan Rose & Lactic Acid Body Lotion |Hydrat …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:kit",
+   "ing:lactic-acid",
+   "ing:rose",
+   "claim:hydrating",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "free:sensitive-safe",
+   "skin:sensitive",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "pinkup-itma5a46e0f86d9d",
+  "brand": "pinkup",
+  "model": "D-Tan Remover Body Lotion Saffron + Lactic Acid +Niacinami …",
+  "price": 170,
+  "capacityLine": "200 g (pack of 2)",
+  "materialLine": "niacinamide + lactic acid + tea tree",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹85/100g",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹85/100g",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4.6,
+   "ingredients": 7.2,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "100 g × 2 pack",
+   "pricePer100": "₹85/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "niacinamide, lactic acid, tea tree, saffron, shea butter (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/u/e/100-d-tan-remover-body-lotion-saffron-lactic-acid-niacinamide-original-imahhdw8ugbkndms.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/p/p/100-d-tan-remover-body-lotion-saffron-lactic-acid-niacinamide-original-imahhdw84qcyyfdc.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/9/1/100-d-tan-remover-body-lotion-saffron-lactic-acid-niacinamide-original-imahhdw8gt88hdht.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/2/d/100-d-tan-remover-body-lotion-saffron-lactic-acid-niacinamide-original-imahhdw8qznr2xhc.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/j/5/6/400-0-collagen-anti-aging-lotion-for-face-body-for-skin-original-imahggzgqkj58j9g.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/pinkup-d-tan-remover-body-lotion-saffron-lactic-acid-niacinamide/p/itma5a46e0f86d9d",
+  "buyStore": "Flipkart",
+  "title": "pinkup D-Tan Remover Body Lotion Saffron + Lactic Acid +Niacinami …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:oil",
+   "format:balm",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:lactic-acid",
+   "ing:glutathione",
+   "ing:tea-tree",
+   "ing:saffron",
+   "ing:shea-butter",
+   "ing:cocoa-butter",
+   "ing:gold",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "free:paraben",
+   "free:vegan",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "ras-luxury-oils-itm32de5d3a06ebd",
+  "brand": "RAS Luxury Oils",
+  "model": "Brighten Lactic Acid body lotion (200 ml)",
+  "price": 874,
+  "capacityLine": "400 ml (pack of 2)",
+  "materialLine": "lactic acid + aloe vera",
+  "featureLine": "Lotion · Paraben-free · ₹219/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹219/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 5.3,
+   "ingredients": 5.8,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml × 2 pack",
+   "pricePer100": "₹219/100ml",
+   "format": "Lotion",
+   "keyIngredients": "lactic acid, aloe vera (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/f/f/b/200-brighten-lactic-acid-body-lotion-ras-luxury-oils-lotion-original-imagmyefgbgtvjrc.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/z/s/h/200-brighten-lactic-acid-body-lotion-ras-luxury-oils-lotion-original-imagmyefrz8whgbn.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/x/f/75-moisturising-for-dry-skin-cream-cotaryl-cream-original-imahn8fcgdyf6yb2.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/1/j/300-moisturzing-lotion-dermatologist-recommended-for-men-women-original-imahzgfy4wvasggg.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/a/g/484-original-healing-cream-for-dry-sensitive-skin-fragrance-free-original-imahpcuhwcpkekhr.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/ras-luxury-oils-brighten-lactic-acid-body-lotion/p/itm32de5d3a06ebd",
+  "buyStore": "Flipkart",
+  "title": "RAS Luxury Oils Brighten Lactic Acid body lotion (200 ml)",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:balm",
+   "format:peel",
+   "format:kit",
+   "ing:lactic-acid",
+   "ing:cocoa-butter",
+   "ing:glycerin",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:whitening-claim",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "free:paraben",
+   "free:derm",
+   "free:hypoallergenic",
+   "skin:oily",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "bandido-itm4b0cb88626756",
+  "brand": "BANDIDO",
+  "model": "Magic De‑Tan Body Lotion | Saffron + Lactic Acid + Niacin …",
+  "price": 207,
+  "capacityLine": "100 ml",
+  "materialLine": "niacinamide + lactic acid + aloe vera",
+  "featureLine": "Lotion · Paraben-free · ₹207/100ml",
+  "highlight": "Live Flipkart listing rated 4★ by 205 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹207/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.7,
+   "skin": 5.3,
+   "ingredients": 7.2,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹207/100ml",
+   "format": "Lotion",
+   "keyIngredients": "niacinamide, lactic acid, aloe vera, saffron, shea butter, vitamin E (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "4/5 (205 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/p/q/100-magic-de-tan-body-lotion-saffron-lactic-acid-niacinamide-original-imahpaytcgsphtyb.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/0/m/t/100-magic-de-tan-body-lotion-saffron-lactic-acid-niacinamide-original-imahmw5efhzuwuzq.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/m/h/m/100-magic-de-tan-body-lotion-saffron-lactic-acid-niacinamide-original-imahmw5cg9pt2e4v.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/a/a/100-magic-de-tan-body-lotion-saffron-lactic-acid-niacinamide-original-imahmw5cwrzwztdm.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/o/m/100-magic-de-tan-body-lotion-saffron-lactic-acid-niacinamide-original-imahmw5cadhcv77m.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/bandido-magic-detan-body-lotion-saffron-lactic-acid-niacinamide/p/itm4b0cb88626756",
+  "buyStore": "Flipkart",
+  "title": "BANDIDO Magic De‑Tan Body Lotion | Saffron + Lactic Acid + Niacin …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "format:balm",
+   "ing:niacinamide",
+   "ing:lactic-acid",
+   "ing:aloe-vera",
+   "ing:saffron",
+   "ing:shea-butter",
+   "ing:vitamin-e",
+   "ing:glycerin",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:whitening-claim",
+   "claim:hydrating",
+   "claim:lightweight",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "phillauri-itm78cd5bd5db524",
+  "brand": "Phillauri",
+  "model": "Body Lotion For Smooths Rough & Bumpy Skin And Reduces …",
+  "price": 122,
+  "capacityLine": "200 ml",
+  "materialLine": "almond + vitamin E",
+  "featureLine": "Oil · ₹61/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹61/100ml"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹61/100ml",
+   "format": "Oil",
+   "keyIngredients": "almond, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Anti-aging claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/a/z/body-lotion-for-smooths-rough-bumpy-skin-and-reduces-fine-lines-original-imah4kxpfgxh6dhk.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/x/e/body-lotion-anti-ageing-cream-reduces-fine-lines-lightens-dark-original-imah4kwygxafynzz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/e/l/body-lotion-anti-ageing-cream-reduces-fine-lines-lightens-dark-original-imah4kwyznkwkydt.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/s/q/body-lotion-anti-ageing-cream-reduces-fine-lines-lightens-dark-original-imah4kwyczpwv3wv.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/q/b/f/150-0-face-body-cream-with-vitamin-c-skin-care-cream-for-skin-original-imahhv8pyexnge6c.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/phillauri-body-lotion-smooths-rough-bumpy-skin-reduces-fine-lines/p/itm78cd5bd5db524",
+  "buyStore": "Flipkart",
+  "title": "Phillauri Body Lotion For Smooths Rough & Bumpy Skin And Reduces …",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:oil",
+   "ing:almond",
+   "ing:vitamin-e",
+   "ing:milk",
+   "claim:anti-aging",
+   "claim:hydrating",
+   "claim:kp",
+   "claim:dry-skin-relief",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "estetica-itm247f468a0e0db",
+  "brand": "Estetica",
+  "model": "Strawberry Skin Brightening & Glow Enhancing Face Cleans …",
+  "price": 99,
+  "capacityLine": "50 ml",
+  "materialLine": "vitamin C + rice water",
+  "featureLine": "Wash / cleanser · ₹198/100ml",
+  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹198/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 6,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹198/100ml",
+   "format": "Wash / cleanser",
+   "keyIngredients": "vitamin C, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/g/2/r/50-estetica-strawberry-glow-skin-brightening-facewash-estetica-original-imahmec6ystqesne.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/s/8/g/50-strawberry-extract-skin-refresh-glow-boost-facewash-estetica-original-imahmju5rveqr72g.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/face-wash/a/x/k/50-strawberry-skin-brightening-glow-enhancing-face-cleanser-original-imahmjvjgeqbffsd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/l/d/e/50-strawberry-clear-skin-transformation-facewash-estetica-original-imahmc4duaznxhxc.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/skin-treatment/d/h/u/50-strawberry-clear-skin-transformation-facewash-estetica-original-imahmc4dbgggqxjk.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/estetica-strawberry-skin-brightening-glow-enhancing-face-cleanser-wash/p/itm247f468a0e0db",
+  "buyStore": "Flipkart",
+  "title": "Estetica Strawberry Skin Brightening & Glow Enhancing Face Cleans …",
+  "tags": [
+   "scope:face",
+   "format:cream",
+   "format:wash",
+   "ing:vitamin-c",
+   "ing:rice-water",
+   "ing:strawberry",
+   "claim:brightening",
+   "claim:barrier",
+   "claim:kp",
+   "claim:ayurvedic",
+   "free:vegan",
+   "skin:all",
+   "aud:women",
+   "size:travel",
+   "rating:none",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "peach-and-musk-itm391ac41601af4",
+  "brand": "Peach and Musk",
+  "model": "1% Salicylic Acid Body Lotion with Rice Extract AH …",
+  "price": 240,
+  "capacityLine": "200 ml",
+  "materialLine": "salicylic acid (BHA) + rice water",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹120/100ml",
+  "highlight": "Live Flipkart listing rated 4.9★ by 35 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹120/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.6,
+   "skin": 5.3,
+   "ingredients": 6,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹120/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "salicylic acid (BHA), rice water (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "4.9/5 (35 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/b/q/200-1-salicylic-acid-body-lotion-with-rice-extract-aha-bha-fades-original-imahcwz98k3zemdh.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/5/n/2/200-1-salicylic-acid-body-lotion-with-rice-extract-aha-bha-fades-original-imahcwz99zsf287z.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/e/4/200-1-salicylic-acid-body-lotion-with-rice-extract-aha-bha-fades-original-imahcwz9nhs6waga.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/p/k/200-1-salicylic-acid-body-lotion-with-rice-extract-aha-bha-fades-original-imahcwz9ygzc4fyz.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/g/r/q/100-massa-clean-natural-wart-gel-safe-for-all-skin-types-gabbu-original-imahzzc2maqsg3c4.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/peach-musk-1-salicylic-acid-body-lotion-rice-extract-aha-bha-fades-dark-spots-fast/p/itm391ac41601af4",
+  "buyStore": "Flipkart",
+  "title": "Peach and Musk 1% Salicylic Acid Body Lotion with Rice Extract AH …",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:lotion",
+   "ing:salicylic-acid-bha",
+   "ing:aha",
+   "ing:rice-water",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "bake-itm28a95c875e8e5",
+  "brand": "BAKE",
+  "model": "12% AHA + BHA Body Lotion for Body Acne, Rough, Bumpy Skin & …",
+  "price": 718,
+  "capacityLine": "600 ml",
+  "materialLine": "salicylic acid (BHA)",
+  "featureLine": "Lotion · Paraben-free · ₹120/100ml",
+  "highlight": "Live Flipkart listing rated 4.5★ by 204 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹120/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.5,
+   "skin": 5.3,
+   "ingredients": 5.6,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "600 ml",
+   "pricePer100": "₹120/100ml",
+   "format": "Lotion",
+   "keyIngredients": "salicylic acid (BHA) (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Oily Skin, Combination Skin, Normal Skin, Sensitive Skin",
+   "rating": "4.5/5 (204 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/l/l/400-10-aha-2-bha-body-lotion-spf-30-pa-for-back-body-acne-original-imahzrzhzdjh5rdr.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/8/2/200-10-aha-2-bha-body-lotion-spf-30-pa-for-back-body-acne-original-imahzkdacuzespcd.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/6/y/200-10-aha-2-bha-body-lotion-spf-30-pa-for-back-body-acne-original-imahzj3shmvutrpm.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/y/q/x/200-10-aha-2-bha-body-lotion-spf-30-pa-for-back-body-acne-original-imahzj3syhzthj4y.jpeg?q=90",
+   "https://rukminim1.flixcart.com/image/612/612/xif0q/moisturizer-cream/r/o/t/200-10-aha-2-bha-body-lotion-spf-30-pa-for-back-body-acne-original-imahzj3shtczpkyr.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/bake-12-aha-bha-body-lotion-acne-rough-bumpy-skin-strawberry-legs/p/itm28a95c875e8e5",
+  "buyStore": "Flipkart",
+  "title": "BAKE 12% AHA + BHA Body Lotion for Body Acne, Rough, Bumpy Skin & …",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "ing:salicylic-acid-bha",
+   "ing:aha",
+   "ing:strawberry",
+   "claim:acne",
+   "claim:hydrating",
+   "claim:kp",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:normal",
+   "aud:women",
+   "size:xl",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "be-bodywise-b0c2vkvpjq",
+  "brand": "Be Bodywise",
+  "model": "Pigmentation Cream 100gm | 2.5% Lactic Acid, 2% Urea, Retinol & Kojic Acid | Reduces Tan, …",
+  "price": 599,
+  "capacityLine": "100 g",
+  "materialLine": "retinol + lactic acid + urea",
+  "featureLine": "Cream / gel · ₹599/100g",
+  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.4,
+   "skin": 4,
+   "ingredients": 6.3,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹599/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "retinol, lactic acid, urea, kojic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61Bg5bbABoL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71uDZQQWQEL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81OwFg2piOL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71dGstm2ZNL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/81t89q6qZiL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0C2VKVPJQ",
+  "buyStore": "Amazon",
+  "title": "Be Bodywise Pigmentation Cream 100gm | 2.5% Lactic Acid, 2% Urea, Retinol & Kojic Acid | Reduces Tan, Pigmentation & Evens Skin Tone | Treats Dark Patches & Rough Skin on Elbows, Knees, Back of Neck & Thighs | For Daily Use",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:patch",
+   "ing:retinol",
+   "ing:lactic-acid",
+   "ing:urea",
+   "ing:kojic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:oil-control",
+   "claim:barrier",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "aravi-b0f67b5fcd",
+  "brand": "Aravi",
+  "model": "Organic 10% AHA + 1% BHA Exfoliating Body Lotion With Ceramide, Niacinamide & Shea Butter …",
+  "price": 889,
+  "capacityLine": "600 ml (pack of 3)",
+  "materialLine": "niacinamide + salicylic acid (BHA) + ceramides",
+  "featureLine": "Scrub / exfoliant · ₹148/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹148/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 6.6,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "200 ml × 3 pack",
+   "pricePer100": "₹148/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "niacinamide, salicylic acid (BHA), ceramides, shea butter (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/611uOUHnLKL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F67B5FCD",
+  "buyStore": "Amazon",
+  "title": "Aravi Organic 10% AHA + 1% BHA Exfoliating Body Lotion With Ceramide, Niacinamide & Shea Butter | Treats Strawberry Legs & Bumpy Skin | Brightening & Smoothing - Pack of 3 (200 ml Each)",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:balm",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "ing:aha",
+   "ing:ceramides",
+   "ing:shea-butter",
+   "ing:strawberry",
+   "claim:brightening",
+   "claim:exfoliating",
+   "claim:kp",
+   "aud:unisex",
+   "size:xl",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "serious-b00mr97age",
+  "brand": "Serious",
+  "model": "Serum AHA BHA Liquid Exfoliant - For Ingrown Hairs, Keratosis Pilaris, Pimples, Dark Spots…",
+  "price": 5605,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "salicylic acid (BHA)",
+  "featureLine": "Serum",
+  "highlight": "Live Amazon listing rated 4.4★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.4)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.8,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Serum",
+   "keyIngredients": "salicylic acid (BHA) (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41HpGAllwDL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B00MR97AGE",
+  "buyStore": "Amazon",
+  "title": "Serious Serum AHA BHA Liquid Exfoliant - For Ingrown Hairs, Keratosis Pilaris, Pimples, Dark Spots and Beard Bumps",
+  "tags": [
+   "scope:unstated",
+   "format:serum",
+   "ing:salicylic-acid-bha",
+   "ing:aha",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:kp",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "paula-s-choice-b0861gh5yn",
+  "brand": "Paula'S Choice",
+  "model": "Weightless Body Treatment 2% BHA, Salicylic Acid & Chamomile Lotion Exfoliant, Moisturizer…",
+  "price": 1200,
+  "capacityLine": "60 ml",
+  "materialLine": "salicylic acid (BHA)",
+  "featureLine": "Lotion · Paraben-free · ₹2000/100ml",
+  "highlight": "Live Amazon listing rated 4.4★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Strong buyer rating (4.4)"
+  ],
+  "cons": [
+   "Pricey: ₹2000/100ml"
+  ],
+  "scores": {
+   "trust": 5.9,
+   "skin": 5.1,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "60 ml",
+   "pricePer100": "₹2000/100ml",
+   "format": "Lotion",
+   "keyIngredients": "salicylic acid (BHA) (per listing)",
+   "freeFrom": "Paraben-free, Fragrance-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61-nHZkeztL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0861GH5YN",
+  "buyStore": "Amazon",
+  "title": "Paula's Choice Weightless Body Treatment 2% BHA, Salicylic Acid & Chamomile Lotion Exfoliant, Moisturizer for Keratosis Pilaris (KP) Prone Skin & Clogged Pores, Fragrance-Free & Paraben-Free - 60 ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:salicylic-acid-bha",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:kp",
+   "free:paraben",
+   "free:fragrance",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "dermatouch-b0gzpxhvrw",
+  "brand": "Dermatouch",
+  "model": "AHA 10% BHA 1% Body Lotion For Men and Women | Body lotion For Dry Skin – De-tan, Moisturi…",
+  "price": 299,
+  "capacityLine": "200 ml",
+  "materialLine": "salicylic acid (BHA)",
+  "featureLine": "Lotion · ₹150/100ml",
+  "highlight": "Live Amazon listing rated 1.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹150/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (1.0)"
+  ],
+  "scores": {
+   "trust": 4.1,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹150/100ml",
+   "format": "Lotion",
+   "keyIngredients": "salicylic acid (BHA) (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "1.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61m7-h29r6L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GZPXHVRW",
+  "buyStore": "Amazon",
+  "title": "DERMATOUCH AHA 10% BHA 1% Body Lotion For Men and Women | Body lotion For Dry Skin – De-tan, Moisturizing & Bumpy Skin | Suitable For All Skin Types | 200ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:salicylic-acid-bha",
+   "ing:aha",
+   "claim:de-tan",
+   "claim:hydrating",
+   "claim:kp",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:low",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "get-b0fhkvsk9h",
+  "brand": "Get",
+  "model": "Nectar Happiness Ceramide AHA 6% + BHA 1% Barrier Repair Body Lotion | Strawberry Skin, Ta…",
+  "price": 175,
+  "capacityLine": "200 ml",
+  "materialLine": "niacinamide + salicylic acid (BHA) + glycolic acid",
+  "featureLine": "Scrub / exfoliant · ₹88/100ml",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹88/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.7,
+   "skin": 4,
+   "ingredients": 6.7,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹88/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "niacinamide, salicylic acid (BHA), glycolic acid, lactic acid, ceramides, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61-3wgvicdL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FHKVSK9H",
+  "buyStore": "Amazon",
+  "title": "Get Nectar Happiness Ceramide AHA 6% + BHA 1% Barrier Repair Body Lotion | Strawberry Skin, Tan & Uneven Texture Exfoliating & Hydrating Moisturizer | 2% Niacinamide, 4% Glycolic Acid, 2% Lactic Acid, 1% Salicylic Acid, Rice Water | 200ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "ing:glycolic-acid",
+   "ing:lactic-acid",
+   "ing:aha",
+   "ing:ceramides",
+   "ing:rice-water",
+   "ing:strawberry",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:kp",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "the-derma-co-b0dhhj2s1x",
+  "brand": "The Derma Co",
+  "model": "5% Nia-Ceramide Deep Moisturizing Cream | 5% Niacinamide & Ceramide | 72hrs.Hydration | Ur…",
+  "price": 386,
+  "capacityLine": "100 g",
+  "materialLine": "niacinamide + urea + colloidal oatmeal",
+  "featureLine": "Cream / gel · ₹386/100g",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.8,
+   "skin": 4,
+   "ingredients": 6.3,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹386/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "niacinamide, urea, colloidal oatmeal, ceramides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51+VQCTnmGL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DHHJ2S1X",
+  "buyStore": "Amazon",
+  "title": "The Derma Co 5% Nia-Ceramide Deep Moisturizing Cream | 5% Niacinamide & Ceramide | 72hrs.Hydration | Urea, Lipids & Oat Extracts | Moisturizer for Dry to Very Dry Skin-100g",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "ing:niacinamide",
+   "ing:urea",
+   "ing:colloidal-oatmeal",
+   "ing:ceramides",
+   "claim:hydrating",
+   "claim:long-lasting",
+   "claim:dry-skin-relief",
+   "skin:dry",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "fcl-b08bzkx1kx",
+  "brand": "FCL",
+  "model": "Bio Retinol Body Lotion, For Skin- Ageing, Keratosis Pilaris, Smoothen Rough, Bumpy & Tann…",
+  "price": 1250,
+  "capacityLine": "200 ml",
+  "materialLine": "retinol",
+  "featureLine": "Sunscreen · SPF 30 · ₹625/100ml",
+  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 4.5,
+   "ingredients": 5.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹625/100ml",
+   "format": "Sunscreen",
+   "keyIngredients": "retinol (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Non-comedogenic (per listing)",
+   "benefit": "SPF 30",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41B7JxLnZ5L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B08BZKX1KX",
+  "buyStore": "Amazon",
+  "title": "FCL Bio Retinol Body Lotion, For Skin- Ageing, Keratosis Pilaris, Smoothen Rough, Bumpy & Tanned Skin, Maintains Oil Balance, Non-Comedogenic Formulation 200ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:oil",
+   "spf:30",
+   "ing:retinol",
+   "ing:vitamin-b5-panthenol",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:kp",
+   "claim:spf-claim",
+   "free:non-comedogenic",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "be-bodywise-b0fwrq24kd",
+  "brand": "Be Bodywise",
+  "model": "20% Urea Body Lotion 300ml | 48 Hrs Moisturization For Very Dry & Flaky Skin| Exfoliates &…",
+  "price": 549,
+  "capacityLine": "300 ml",
+  "materialLine": "niacinamide + lactic acid + urea",
+  "featureLine": "Scrub / exfoliant · ₹183/100ml",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹183/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.8,
+   "skin": 4,
+   "ingredients": 7,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "300 ml",
+   "pricePer100": "₹183/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "niacinamide, lactic acid, urea, ceramides, shea butter (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61SZtj9x-QL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FWRQ24KD",
+  "buyStore": "Amazon",
+  "title": "Be Bodywise 20% Urea Body Lotion 300ml | 48 Hrs Moisturization For Very Dry & Flaky Skin| Exfoliates & Repairs Skin Barrier |With Ceramides, Kokum & Mango Seed Butter | Non-Greasy & Lightweight Formula",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:balm",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:lactic-acid",
+   "ing:urea",
+   "ing:ceramides",
+   "ing:shea-butter",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:long-lasting",
+   "claim:dry-skin-relief",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "cerave-b07wl7wv52",
+  "brand": "Cerave",
+  "model": "SA Smoothing Cream | Exfoliating and Skin Smoothing Cream for Rough, Dry & Bumpy Skin with…",
+  "price": 1115,
+  "capacityLine": "177 ml",
+  "materialLine": "niacinamide + salicylic acid (BHA) + lactic acid",
+  "featureLine": "Scrub / exfoliant · Fragrance-free · ₹630/100ml",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Fragrance-free (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [],
+  "scores": {
+   "trust": 7,
+   "skin": 5.7,
+   "ingredients": 7,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "177 ml",
+   "pricePer100": "₹630/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "niacinamide, salicylic acid (BHA), lactic acid, urea, hyaluronic acid, ceramides (per listing)",
+   "freeFrom": "Fragrance-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Non-comedogenic (per listing)",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61Ax6DZbi3L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07WL7WV52",
+  "buyStore": "Amazon",
+  "title": "CeraVe SA Smoothing Cream | Exfoliating and Skin Smoothing Cream for Rough, Dry & Bumpy Skin with Salicylic Acid & Ceramides | Dermatologist Recommended, 177ml",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "ing:lactic-acid",
+   "ing:aha",
+   "ing:urea",
+   "ing:hyaluronic-acid",
+   "ing:ceramides",
+   "ing:strawberry",
+   "claim:dark-spots",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:kp",
+   "claim:lightweight",
+   "claim:long-lasting",
+   "free:fragrance",
+   "free:derm",
+   "free:non-comedogenic",
+   "skin:dry",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "dermatouch-b0fvmgdh8w",
+  "brand": "Dermatouch",
+  "model": "AHA 10% BHA 1% Body Lotion For Men and Women | Body lotion For Dry Skin – De-tan, Moisturi…",
+  "price": 299,
+  "capacityLine": "200 ml",
+  "materialLine": "salicylic acid (BHA) + lactic acid",
+  "featureLine": "Scrub / exfoliant · ₹150/100ml",
+  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹150/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.3,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹150/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "salicylic acid (BHA), lactic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61m7-h29r6L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FVMGDH8W",
+  "buyStore": "Amazon",
+  "title": "DERMATOUCH AHA 10% BHA 1% Body Lotion For Men and Women | Body lotion For Dry Skin – De-tan, Moisturizing & Bumpy Skin | Suitable For All Skin Types | 200ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:oil",
+   "format:emulsion",
+   "format:kit",
+   "ing:salicylic-acid-bha",
+   "ing:lactic-acid",
+   "ing:aha",
+   "ing:olive",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:dark-spots",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:kp",
+   "claim:dry-skin-relief",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "aqurea-b0gvfpq91h",
+  "brand": "AQUREA",
+  "model": "Cream 20% 100gm – For very dry, scaly skin with Urea 20%, Lactic Acid, Propylene Glycol & …",
+  "price": 496,
+  "capacityLine": "100 g",
+  "materialLine": "lactic acid + urea + aloe vera",
+  "featureLine": "Scrub / exfoliant · ₹496/100g",
+  "highlight": "Live Amazon listing rated 4.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹496/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "lactic acid, urea, aloe vera (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71XdjQ+sUTL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GVFPQ91H",
+  "buyStore": "Amazon",
+  "title": "AQUREA Cream 20% 100gm – For very dry, scaly skin with Urea 20%, Lactic Acid, Propylene Glycol & Aloe Vera. Hydrates, exfoliates & reduces keratin; ideal for ichthyosis & xerosis.",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:patch",
+   "format:kit",
+   "ing:lactic-acid",
+   "ing:urea",
+   "ing:aloe-vera",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:dry-skin-relief",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "dr-sheth-s-b0d376x2hd",
+  "brand": "Dr. Sheth'S",
+  "model": "Tea Tree & Lactic Acid Body Lotion- 300 ml | Treats Body Acne | Moisturizes and Light Weig…",
+  "price": 259,
+  "capacityLine": "300 ml",
+  "materialLine": "salicylic acid (BHA) + lactic acid + tea tree",
+  "featureLine": "Scrub / exfoliant · ₹86/100ml",
+  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹86/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.4,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "300 ml",
+   "pricePer100": "₹86/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "salicylic acid (BHA), lactic acid, tea tree (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41923xYCfdL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0D376X2HD",
+  "buyStore": "Amazon",
+  "title": "Dr. Sheth's Tea Tree & Lactic Acid Body Lotion- 300 ml | Treats Body Acne | Moisturizes and Light Weight | Exfoliating and Non Sticky",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:oil",
+   "format:kit",
+   "ing:salicylic-acid-bha",
+   "ing:lactic-acid",
+   "ing:tea-tree",
+   "ing:licorice",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:kp",
+   "claim:lightweight",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "thriveco-b0dknzg5yf",
+  "brand": "ThriveCo",
+  "model": "Smoothing Body Lotion for Dry, Rough & Bumpy skin | With AHA, Mahua Oil & Urea | Moisturiz…",
+  "price": 379,
+  "capacityLine": "150 ml",
+  "materialLine": "urea",
+  "featureLine": "Oil · ₹253/100ml",
+  "highlight": "Live Amazon listing rated 3.8★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (3.8)",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "150 ml",
+   "pricePer100": "₹253/100ml",
+   "format": "Oil",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.8/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61l5PuWE+NL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DKNZG5YF",
+  "buyStore": "Amazon",
+  "title": "ThriveCo Smoothing Body Lotion for Dry, Rough & Bumpy skin | With AHA, Mahua Oil & Urea | Moisturizes, Hydrates & Treats Keratosis Pilaris,Strawberry Skin in Men & Women | 150 ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:oil",
+   "format:kit",
+   "ing:aha",
+   "ing:urea",
+   "ing:strawberry",
+   "claim:hydrating",
+   "claim:kp",
+   "skin:dry",
+   "aud:women",
+   "size:large",
+   "rating:3.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "dermatouch-b0gzprzc1l",
+  "brand": "Dermatouch",
+  "model": "AHA 10% BHA 1% Body Lotion For Men and Women | Body lotion For Dry Skin – De-tan, Moisturi…",
+  "price": 159,
+  "capacityLine": "100 ml",
+  "materialLine": "salicylic acid (BHA) + lactic acid",
+  "featureLine": "Scrub / exfoliant · ₹159/100ml",
+  "highlight": "Live Amazon listing rated 4.9★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹159/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.7,
+   "skin": 4.7,
+   "ingredients": 5.5,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹159/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "salicylic acid (BHA), lactic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.9/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71aFhvKCHfL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GZPRZC1L",
+  "buyStore": "Amazon",
+  "title": "DERMATOUCH AHA 10% BHA 1% Body Lotion For Men and Women | Body lotion For Dry Skin – De-tan, Moisturizing & Bumpy Skin | Suitable For All Skin Types | 100ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:oil",
+   "format:emulsion",
+   "ing:salicylic-acid-bha",
+   "ing:lactic-acid",
+   "ing:aha",
+   "ing:olive",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:dark-spots",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:kp",
+   "claim:dry-skin-relief",
+   "free:derm",
+   "free:sensitive-safe",
+   "skin:dry",
+   "skin:sensitive",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "drmtlgy-b07kwfnspd",
+  "brand": "Drmtlgy",
+  "model": "Keratosis Pilaris Treatment Lactic Acid Skin Lotion. For Rough And Bumpy Skin, Kp, Dry Ski…",
+  "price": 3934,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "lactic acid",
+  "featureLine": "Lotion",
+  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Lotion",
+   "keyIngredients": "lactic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51ZRslX5YOL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07KWFNSPD",
+  "buyStore": "Amazon",
+  "title": "Drmtlgy Keratosis Pilaris Treatment Lactic Acid Skin Lotion. For Rough And Bumpy Skin, Kp, Dry Skin, And Folliculitis. 12% Alpha Hydroxy Acid (Aha) Lotion",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:lactic-acid",
+   "ing:aha",
+   "claim:kp",
+   "skin:dry",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "paula-s-choice-b00949eqoo",
+  "brand": "Paula'S Choice",
+  "model": "Skin Revealing Body Lotion 10% AHA, Glycolic Acid & Shea Butter Exfoliant, Moisturizer for…",
+  "price": 5779,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "glycolic acid + shea butter",
+  "featureLine": "Lotion · Paraben-free",
+  "highlight": "Live Amazon listing rated 4.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "Quantity not stated"
+  ],
+  "scores": {
+   "trust": 6.1,
+   "skin": 5.1,
+   "ingredients": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Lotion",
+   "keyIngredients": "glycolic acid, shea butter (per listing)",
+   "freeFrom": "Paraben-free, Fragrance-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Anti-aging claim, Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61RNKKzQaaL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B00949EQOO",
+  "buyStore": "Amazon",
+  "title": "Paula's Choice Skin Revealing Body Lotion 10% AHA, Glycolic Acid & Shea Butter Exfoliant, Moisturizer for Keratosis Pilaris (KP) Prone Skin",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:balm",
+   "ing:glycolic-acid",
+   "ing:aha",
+   "ing:shea-butter",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:hydrating",
+   "claim:kp",
+   "claim:lightweight",
+   "claim:dry-skin-relief",
+   "free:paraben",
+   "free:fragrance",
+   "free:sensitive-safe",
+   "skin:oily",
+   "skin:combination",
+   "skin:sensitive",
+   "skin:all",
+   "aud:unisex",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "aravi-b0db8hvnp3",
+  "brand": "Aravi",
+  "model": "Organic 10% AHA + 1% BHA Body Lotion For Exfoliation - Treats Strawberry Legs & Bumpy Skin…",
+  "price": 359,
+  "capacityLine": "200 ml",
+  "materialLine": "niacinamide + salicylic acid (BHA) + ceramides",
+  "featureLine": "Scrub / exfoliant · ₹180/100ml",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹180/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.7,
+   "skin": 4,
+   "ingredients": 6.6,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹180/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "niacinamide, salicylic acid (BHA), ceramides, shea butter (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/512CLOW6g7L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DB8HVNP3",
+  "buyStore": "Amazon",
+  "title": "Aravi Organic 10% AHA + 1% BHA Body Lotion For Exfoliation - Treats Strawberry Legs & Bumpy Skin With Ceramide - Skin Brightening Lotion With Niacinamide and Shea Butter - 200 ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:balm",
+   "format:patch",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "ing:aha",
+   "ing:ceramides",
+   "ing:shea-butter",
+   "ing:strawberry",
+   "claim:brightening",
+   "claim:acne",
+   "claim:pores",
+   "claim:exfoliating",
+   "claim:kp",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "clensta-b0cmd8nv1k",
+  "brand": "Clensta",
+  "model": "Leg And Thigh Serum Spray 1% Salicylic acid + Glycolic Acid For Hydrates, Keratosis Pilari…",
+  "price": 422,
+  "capacityLine": "60 ml",
+  "materialLine": "salicylic acid (BHA) + glycolic acid + caffeine",
+  "featureLine": "Scrub / exfoliant · ₹703/100ml",
+  "highlight": "Live Amazon listing rated 4.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "60 ml",
+   "pricePer100": "₹703/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "salicylic acid (BHA), glycolic acid, caffeine (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61+3hKL5qkL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CMD8NV1K",
+  "buyStore": "Amazon",
+  "title": "Clensta Leg And Thigh Serum Spray 1% Salicylic acid + Glycolic Acid For Hydrates, Keratosis Pilaris, Rough Skin Dark Spots & Daily Use| Men & Women | For all skin types 60ml",
+  "tags": [
+   "scope:body",
+   "format:serum",
+   "format:mist",
+   "ing:salicylic-acid-bha",
+   "ing:glycolic-acid",
+   "ing:caffeine",
+   "claim:dark-spots",
+   "claim:anti-aging",
+   "claim:acne",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:kp",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "noreva-b002eaj3os",
+  "brand": "Noreva",
+  "model": "Kerapil Dermo-Regulating Care Cream | Smoothing and Moisturizing Body Care | With Ammonium…",
+  "price": 1700,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "lactic acid + ammonium lactate",
+  "featureLine": "Scrub / exfoliant",
+  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.2)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.6,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "lactic acid, ammonium lactate (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41s9fgqr9fL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B002EAJ3OS",
+  "buyStore": "Amazon",
+  "title": "Noreva Kerapil Dermo-Regulating Care Cream | Smoothing and Moisturizing Body Care | With Ammonium Lactate and Lactic Acid | For Rough and Bumpy Skin",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "ing:lactic-acid",
+   "ing:ammonium-lactate",
+   "ing:glycerin",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:kp",
+   "claim:lightweight",
+   "skin:dry",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "amazing-b0dpsdst5p",
+  "brand": "Amazing",
+  "model": "Organics 10% Urea Body Lotion for Dry and Cracked Skin, 48h Dry Skin Relief - 200ml",
+  "price": 350,
+  "capacityLine": "200 ml",
+  "materialLine": "urea",
+  "featureLine": "Lotion · ₹175/100ml",
+  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹175/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.2)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.5,
+   "skin": 4,
+   "ingredients": 5.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹175/100ml",
+   "format": "Lotion",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61pPA0xYV5L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DPSDST5P",
+  "buyStore": "Amazon",
+  "title": "Amazing Organics 10% Urea Body Lotion for Dry and Cracked Skin, 48h Dry Skin Relief - 200ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:urea",
+   "claim:hydrating",
+   "claim:long-lasting",
+   "skin:dry",
+   "skin:all",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "teenilicious-b0g6zqcvk1",
+  "brand": "Teenilicious",
+  "model": "Bum Body Cream for Butt Acne 100gm - Improves Rough and Bumpy Skin, Reduces Butt Acne, Boo…",
+  "price": 210,
+  "capacityLine": "100 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Wash / cleanser · ₹210/100g",
+  "highlight": "Live Amazon listing rated 3.8★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹210/100g"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (3.8)",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹210/100g",
+   "format": "Wash / cleanser",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.8/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/31l+sMsOnSL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G6ZQCVK1",
+  "buyStore": "Amazon",
+  "title": "Teenilicious Bum Body Cream for Butt Acne 100gm - Improves Rough and Bumpy Skin, Reduces Butt Acne, Boosts Deep Moisturisation, Unclogs Skin Pores, Evens Skin Tone",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:wash",
+   "claim:acne",
+   "claim:pores",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:kp",
+   "free:sensitive-safe",
+   "skin:sensitive",
+   "aud:unisex",
+   "size:standard",
+   "rating:3.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "clear-b0h9bt7jw2",
+  "brand": "Clear",
+  "model": "& Confident Body Lotion | Daily AHA Exfoliation for Rough & Bumpy Skin, Tan, Acne & Strawb…",
+  "price": 359,
+  "capacityLine": "200 ml",
+  "materialLine": "salicylic acid (BHA) + glycolic acid + lactic acid",
+  "featureLine": "Scrub / exfoliant · ₹180/100ml",
+  "highlight": "Live Amazon listing rated 3.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹180/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (3.0)",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹180/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "salicylic acid (BHA), glycolic acid, lactic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/3134O05uTLL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H9BT7JW2",
+  "buyStore": "Amazon",
+  "title": "Clear & Confident Body Lotion | Daily AHA Exfoliation for Rough & Bumpy Skin, Tan, Acne & Strawberry | Niacinnamide, Lactic Acid SALICYLIC ACID 1% W/w | Smooth feel from 1st Use | 200ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:salicylic-acid-bha",
+   "ing:glycolic-acid",
+   "ing:lactic-acid",
+   "ing:aha",
+   "ing:strawberry",
+   "claim:acne",
+   "claim:exfoliating",
+   "claim:kp",
+   "aud:unisex",
+   "size:large",
+   "rating:low",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "bake-b0cnxz2pfw",
+  "brand": "BAKE",
+  "model": "10% AHA + 2% BHA Body Lotion for Strawberry Legs | Lactic Acid & Niacinamide | 48H Moistur…",
+  "price": 398,
+  "capacityLine": "300 ml",
+  "materialLine": "niacinamide + salicylic acid (BHA) + lactic acid",
+  "featureLine": "Scrub / exfoliant · ₹133/100ml",
+  "highlight": "Live Amazon listing rated 3.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹133/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (3.5)",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.5,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "300 ml",
+   "pricePer100": "₹133/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "niacinamide, salicylic acid (BHA), lactic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.5/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71Fdv3Sy5aL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CNXZ2PFW",
+  "buyStore": "Amazon",
+  "title": "BAKE 10% AHA + 2% BHA Body Lotion for Strawberry Legs | Lactic Acid & Niacinamide | 48H Moisture, Lactic Acid & Salicylic Acid Lotion for Rough & Bumpy Skin | 300ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "ing:lactic-acid",
+   "ing:aha",
+   "ing:strawberry",
+   "claim:pores",
+   "claim:exfoliating",
+   "claim:kp",
+   "claim:long-lasting",
+   "aud:unisex",
+   "size:xl",
+   "rating:3.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "amlactin-b07h44rr5c",
+  "brand": "AmLactin",
+  "model": "Rapid Relief Restoring Lotion + Ceramides | 24-Hr Dryness Relief | Powerful Alpha-Hydroxy …",
+  "price": 4673,
+  "capacityLine": "192 g (pack of 2)",
+  "materialLine": "lactic acid + ceramides",
+  "featureLine": "Scrub / exfoliant · ₹2434/100g",
+  "highlight": "Live Amazon listing rated 4.4★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Dermatologically tested (per listing)",
+   "Strong buyer rating (4.4)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹2434/100g",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.3,
+   "skin": 4.7,
+   "ingredients": 5.8,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "96 g × 2 pack",
+   "pricePer100": "₹2434/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "lactic acid, ceramides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71dTyBYAdHL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07H44RR5C",
+  "buyStore": "Amazon",
+  "title": "AmLactin Rapid Relief Restoring Lotion + Ceramides | 24-Hr Dryness Relief | Powerful Alpha-Hydroxy Therapy Gently Exfoliates | Lactic Acid (AHA) | Rough Flaky Dry Skin | Twin Pack (2) 7.9 oz. Bottles",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:pack",
+   "format:kit",
+   "ing:lactic-acid",
+   "ing:aha",
+   "ing:ceramides",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:kp",
+   "claim:dry-skin-relief",
+   "free:derm",
+   "skin:dry",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "bake-b0cnwkkqj1",
+  "brand": "BAKE",
+  "model": "12% Glycolic & Lactic Acid Body Lotion with Kojic Dipalmitate, Niacinamide for Dark Spots,…",
+  "price": 447,
+  "capacityLine": "300 ml",
+  "materialLine": "niacinamide + glycolic acid + lactic acid",
+  "featureLine": "Scrub / exfoliant · ₹149/100ml",
+  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹149/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.2)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.5,
+   "skin": 4,
+   "ingredients": 6.3,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "300 ml",
+   "pricePer100": "₹149/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "niacinamide, glycolic acid, lactic acid, kojic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61rXvI5oyRL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CNWKKQJ1",
+  "buyStore": "Amazon",
+  "title": "BAKE 12% Glycolic & Lactic Acid Body Lotion with Kojic Dipalmitate, Niacinamide for Dark Spots, Body Acne | Dead Skin Removal & Uneven Skin Tone | 48H Moisture | 300ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:glycolic-acid",
+   "ing:lactic-acid",
+   "ing:aha",
+   "ing:kojic-acid",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:long-lasting",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "be-bodywise-b0g594j9nm",
+  "brand": "Be Bodywise",
+  "model": "7% Glycolic Acid Body Stick 30g & 10% Urea Body Lotion 200ml | Deep Hydration & Gentle Exf…",
+  "price": 1049,
+  "capacityLine": "30 g",
+  "materialLine": "glycolic acid + urea + shea butter",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹3497/100g",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "Pricey: ₹3497/100g"
+  ],
+  "scores": {
+   "trust": 6.2,
+   "skin": 5.5,
+   "ingredients": 6.4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "30 g",
+   "pricePer100": "₹3497/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "glycolic acid, urea, shea butter (per listing)",
+   "freeFrom": "Paraben-free, Sulfate/SLS-free, Alcohol-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61699Bi6QnL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G594J9NM",
+  "buyStore": "Amazon",
+  "title": "Be Bodywise 7% Glycolic Acid Body Stick 30g & 10% Urea Body Lotion 200ml | Deep Hydration & Gentle Exfoliation | Smoothens Rough Skin, Reduces Bumps & Ingrown Hair | For Dry, Flaky & Textured Skin",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:stick",
+   "format:balm",
+   "ing:glycolic-acid",
+   "ing:urea",
+   "ing:shea-butter",
+   "ing:strawberry",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:kp",
+   "claim:long-lasting",
+   "claim:dry-skin-relief",
+   "free:paraben",
+   "free:sulfate",
+   "free:alcohol",
+   "free:vegan",
+   "skin:dry",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "sobo-b0ggc7k84k",
+  "brand": "SOBO",
+  "model": "Beauty 10% AHA + 1% BHA Body Lotion | Glycolic Acid 5%, Lactic Acid 5% & Salicylic Acid 1%…",
+  "price": 379,
+  "capacityLine": "200 ml",
+  "materialLine": "niacinamide + salicylic acid (BHA) + glycolic acid",
+  "featureLine": "Lotion · ₹190/100ml",
+  "highlight": "Live Amazon listing rated 4.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹190/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 6.7,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹190/100ml",
+   "format": "Lotion",
+   "keyIngredients": "niacinamide, salicylic acid (BHA), glycolic acid, lactic acid, hyaluronic acid, ceramides, shea butter, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51jeXcDlbZL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GGC7K84K",
+  "buyStore": "Amazon",
+  "title": "SOBO Beauty 10% AHA + 1% BHA Body Lotion | Glycolic Acid 5%, Lactic Acid 5% & Salicylic Acid 1% | For Strawberry Skin, Tan & Uneven Texture | 200 ml | Perfumed",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:balm",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "ing:glycolic-acid",
+   "ing:lactic-acid",
+   "ing:aha",
+   "ing:hyaluronic-acid",
+   "ing:ceramides",
+   "ing:shea-butter",
+   "ing:vitamin-e",
+   "ing:vitamin-b5-panthenol",
+   "ing:strawberry",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:kp",
+   "claim:dry-skin-relief",
+   "aud:unisex",
+   "size:large",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "suganda-b0bwypsf1x",
+  "brand": "Suganda",
+  "model": "SKINCARE Unscented Lactic Body Lotion With 5% Lactic Acid, Improves Skin Texture & Reduce …",
+  "price": 296,
+  "capacityLine": "100 ml",
+  "materialLine": "niacinamide + lactic acid",
+  "featureLine": "Lotion · ₹296/100ml",
+  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.2)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.6,
+   "skin": 4,
+   "ingredients": 5.8,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹296/100ml",
+   "format": "Lotion",
+   "keyIngredients": "niacinamide, lactic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41+cSU4IIZL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0BWYPSF1X",
+  "buyStore": "Amazon",
+  "title": "SUGANDA SKINCARE Unscented Lactic Body Lotion With 5% Lactic Acid, Improves Skin Texture & Reduce Strawberry Legs (100Ml).",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:patch",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:lactic-acid",
+   "ing:strawberry",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:kp",
+   "free:fragrance",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "fixderma-b0gczjlmvc",
+  "brand": "Fixderma",
+  "model": "Dewrav 10% AHA + 1% BHA Deep Exfoliating Body Lotion with Lactic & 1% Salicylic Acid | Bod…",
+  "price": 536,
+  "capacityLine": "200 ml",
+  "materialLine": "salicylic acid (BHA) + lactic acid",
+  "featureLine": "Scrub / exfoliant · ₹268/100ml",
+  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.3,
+   "skin": 4,
+   "ingredients": 5.8,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹268/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "salicylic acid (BHA), lactic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/610uZLhagnL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GCZJLMVC",
+  "buyStore": "Amazon",
+  "title": "Fixderma Dewrav 10% AHA + 1% BHA Deep Exfoliating Body Lotion with Lactic & 1% Salicylic Acid | Body Exfoliator | Body Lotion for Women & Men | Moisturizer for Body for All Skin Types - 200 ml",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "format:kit",
+   "ing:salicylic-acid-bha",
+   "ing:lactic-acid",
+   "ing:aha",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "skin:dry",
+   "skin:sensitive",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "bake-b0dkkj37r3",
+  "brand": "BAKE",
+  "model": "10% Lactic Acid Body Lotion with Azelaic Acid | Smooths Rough & Bumpy Skin, Exfoliates Ski…",
+  "price": 397,
+  "capacityLine": "300 ml",
+  "materialLine": "lactic acid",
+  "featureLine": "Scrub / exfoliant · ₹132/100ml",
+  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹132/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 4,
+   "ingredients": 5.4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "300 ml",
+   "pricePer100": "₹132/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "lactic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71TD13rx8IL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DKKJ37R3",
+  "buyStore": "Amazon",
+  "title": "BAKE 10% Lactic Acid Body Lotion with Azelaic Acid | Smooths Rough & Bumpy Skin, Exfoliates Skin & Reduces Body Acne | Ultra Hydrating Body Lotion | 300ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:kit",
+   "ing:lactic-acid",
+   "ing:azelaic-acid",
+   "claim:brightening",
+   "claim:acne",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:kp",
+   "claim:dry-skin-relief",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "aveeno-b0b6kkpp2p",
+  "brand": "Aveeno",
+  "model": "Tone + Texture Daily Renewing Body Lotion with Prebiotic Oat Hydrates & Smooths Dry, Rough…",
+  "price": 2690,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "PHA + colloidal oatmeal",
+  "featureLine": "Scrub / exfoliant · Fragrance-free",
+  "highlight": "Live Amazon listing rated 4.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Fragrance-free (per listing)",
+   "Strong buyer rating (4.6)"
+  ],
+  "cons": [
+   "Quantity not stated"
+  ],
+  "scores": {
+   "trust": 6.9,
+   "skin": 4.5,
+   "ingredients": 5.8,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "PHA, colloidal oatmeal (per listing)",
+   "freeFrom": "Fragrance-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.6/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61I5DXMoSkL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0B6KKPP2P",
+  "buyStore": "Amazon",
+  "title": "Aveeno Tone + Texture Daily Renewing Body Lotion with Prebiotic Oat Hydrates & Smooths Dry, Rough, Bumpy Skin Even KP, Fragrance-Free, 18 fl. Oz",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:lotion",
+   "format:emulsion",
+   "ing:niacinamide",
+   "ing:pha",
+   "ing:colloidal-oatmeal",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:kp",
+   "free:fragrance",
+   "free:sensitive-safe",
+   "skin:dry",
+   "skin:sensitive",
+   "aud:unisex",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "sereko-b0fp9n7h5g",
+  "brand": "Sereko",
+  "model": "10% Urea & Avocado Oil Body Lotion 200ML | For Strawberry legs, Detans, Rough Bumpy skin| …",
+  "price": 802,
+  "capacityLine": "200 ml",
+  "materialLine": "salicylic acid (BHA) + urea + hyaluronic acid",
+  "featureLine": "Scrub / exfoliant · ₹401/100ml",
+  "highlight": "Live Amazon listing rated 3.9★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (3.9)",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.1,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹401/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "salicylic acid (BHA), urea, hyaluronic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51oIqW25WVL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FP9N7H5G",
+  "buyStore": "Amazon",
+  "title": "Sereko 10% Urea & Avocado Oil Body Lotion 200ML | For Strawberry legs, Detans, Rough Bumpy skin| Body lotion for Men & Women | AHA BHA free | Gentle Exfoliating | with 48H Moisturization | Very dry, flaky skin",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:oil",
+   "format:patch",
+   "format:kit",
+   "ing:salicylic-acid-bha",
+   "ing:aha",
+   "ing:urea",
+   "ing:hyaluronic-acid",
+   "ing:strawberry",
+   "ing:avocado",
+   "claim:brightening",
+   "claim:de-tan",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:kp",
+   "claim:long-lasting",
+   "claim:dry-skin-relief",
+   "aud:women",
+   "size:large",
+   "rating:3.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "cetaphil-b0c2qdg9z7",
+  "brand": "Cetaphil",
+  "model": "Pro Urea 10% - Bottle of 200ml Smoothing Repair Lotion",
+  "price": 1422,
+  "capacityLine": "200 ml",
+  "materialLine": "lactic acid + urea",
+  "featureLine": "Lotion · ₹711/100ml",
+  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹711/100ml",
+   "format": "Lotion",
+   "keyIngredients": "lactic acid, urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51ncGJL+CnL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0C2QDG9Z7",
+  "buyStore": "Amazon",
+  "title": "Cetaphil Pro Urea 10% - Bottle of 200ml Smoothing Repair Lotion",
+  "tags": [
+   "scope:unstated",
+   "format:lotion",
+   "ing:lactic-acid",
+   "ing:urea",
+   "ing:vitamin-e",
+   "claim:barrier",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "skinvest-b0ckw9qy13",
+  "brand": "Skinvest",
+  "model": "Bye Bye Bumps Ingrown Hair & Razor Bumps Treatment Spray | Dermatologist Tested AHA BHA Ex…",
+  "price": 569,
+  "capacityLine": "50 ml",
+  "materialLine": "niacinamide + salicylic acid (BHA) + glycolic acid",
+  "featureLine": "Scrub / exfoliant · ₹1138/100ml",
+  "highlight": "Live Amazon listing rated 3.8★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1138/100ml",
+   "Mixed buyer rating (3.8)"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 4.7,
+   "ingredients": 6.7,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹1138/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "niacinamide, salicylic acid (BHA), glycolic acid, lactic acid, tranexamic acid, centella/cica (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.8/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41Q3lmqDH7L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CKW9QY13",
+  "buyStore": "Amazon",
+  "title": "Skinvest Bye Bye Bumps Ingrown Hair & Razor Bumps Treatment Spray | Dermatologist Tested AHA BHA Exfoliating Body Mist for Strawberry Skin, KP & Bikini Bumps | 50ml",
+  "tags": [
+   "scope:body",
+   "format:mist",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "ing:glycolic-acid",
+   "ing:lactic-acid",
+   "ing:aha",
+   "ing:tranexamic-acid",
+   "ing:centella-cica",
+   "ing:strawberry",
+   "claim:pores",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:kp",
+   "claim:lightweight",
+   "free:derm",
+   "skin:dry",
+   "skin:sensitive",
+   "aud:unisex",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "skinvest-b0ctzwk22p",
+  "brand": "Skinvest",
+  "model": "Bomb Bum Body Cream 100gm + Bye Bye Bumps Exfoliating Mist 50ml Helps for Visibly Tightens…",
+  "price": 1874,
+  "capacityLine": "200 g (pack of 2)",
+  "materialLine": "salicylic acid (BHA) + caffeine",
+  "featureLine": "Scrub / exfoliant · ₹937/100g",
+  "highlight": "Live Amazon listing rated 3.8★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (3.8)",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g × 2 pack",
+   "pricePer100": "₹937/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "salicylic acid (BHA), caffeine (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.8/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/616ptFFBw+L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CTZWK22P",
+  "buyStore": "Amazon",
+  "title": "Skinvest Bomb Bum Body Cream 100gm + Bye Bye Bumps Exfoliating Mist 50ml Helps for Visibly Tightens Skin, Reduces Stretch Marks, Repairs Strawberry Skin Bumps & Uneven Texture, For Men & Women",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:mist",
+   "format:kit",
+   "ing:salicylic-acid-bha",
+   "ing:collagen",
+   "ing:caffeine",
+   "ing:strawberry",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:kp",
+   "claim:lightweight",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:3.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "amlactin-b07brdvk2l",
+  "brand": "AmLactin",
+  "model": "Rapid Relief Restoring Lotion + Ceramides | 24-Hr Dry Skin Relief | Powerful Alpha-Hydroxy…",
+  "price": 2648,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "lactic acid + ceramides",
+  "featureLine": "Scrub / exfoliant · Paraben-free",
+  "highlight": "Live Amazon listing rated 4.4★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)",
+   "Strong buyer rating (4.4)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.8,
+   "skin": 4.6,
+   "ingredients": 5.5,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "lactic acid, ceramides (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61D0KuyBLFL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07BRDVK2L",
+  "buyStore": "Amazon",
+  "title": "AmLactin Rapid Relief Restoring Lotion + Ceramides | 24-Hr Dry Skin Relief | Powerful Alpha-Hydroxy Therapy Gently Exfoliates | Lactic Acid (AHA) Restores Rough Flaky Dry Skin | Paraben-Free 7.9 oz.",
+  "tags": [
+   "scope:unstated",
+   "format:lotion",
+   "ing:lactic-acid",
+   "ing:aha",
+   "ing:ceramides",
+   "claim:exfoliating",
+   "free:paraben",
+   "skin:dry",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "healncure-b0fjs4jnpl",
+  "brand": "Healncure",
+  "model": "Acantho Skin Lightening Cream with Retinol, Lactic Acid & Urea for Neck, Elbows & Knees, 5…",
+  "price": 279,
+  "capacityLine": "50 g",
+  "materialLine": "retinol + lactic acid + urea",
+  "featureLine": "Cream / gel · ₹558/100g",
+  "highlight": "Live Amazon listing rated 4.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹558/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "retinol, lactic acid, urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61etfs-dv7L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FJS4JNPL",
+  "buyStore": "Amazon",
+  "title": "Healncure Acantho Skin Lightening Cream with Retinol, Lactic Acid & Urea for Neck, Elbows & Knees, 50g",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "ing:retinol",
+   "ing:lactic-acid",
+   "ing:urea",
+   "claim:whitening-claim",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "generic-b0hfw39l7t",
+  "brand": "Generic",
+  "model": "5% Urea with Niacinamide Body Lotion 100ml | For Very Dry & Rough Skin, 48Hr Deep Moisturi…",
+  "price": 699,
+  "capacityLine": "100 ml",
+  "materialLine": "niacinamide + urea",
+  "featureLine": "Lotion · ₹699/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹699/100ml",
+   "format": "Lotion",
+   "keyIngredients": "niacinamide, urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61j7YNzzLeL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HFW39L7T",
+  "buyStore": "Amazon",
+  "title": "5% Urea with Niacinamide Body Lotion 100ml | For Very Dry & Rough Skin, 48Hr Deep Moisturization for Dry skin, Non-Greasy Barrier Repair",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:niacinamide",
+   "ing:urea",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:long-lasting",
+   "claim:dry-skin-relief",
+   "skin:dry",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "generic-b0cs66kp6w",
+  "brand": "Generic",
+  "model": "1% Salicylic Acid Daily Exfoliating Body Lotion 300 ml | Paraben Free Deep Nourishing & Sk…",
+  "price": 210,
+  "capacityLine": "300 ml",
+  "materialLine": "salicylic acid (BHA)",
+  "featureLine": "Scrub / exfoliant · Paraben-free · ₹70/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹70/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4.6,
+   "ingredients": 5.1,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "300 ml",
+   "pricePer100": "₹70/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "salicylic acid (BHA) (per listing)",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/616K0O+7CoL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CS66KP6W",
+  "buyStore": "Amazon",
+  "title": "1% Salicylic Acid Daily Exfoliating Body Lotion 300 ml | Paraben Free Deep Nourishing & Skin Brightening Lotion Suitable for all skin types",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:salicylic-acid-bha",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "free:paraben",
+   "skin:all",
+   "aud:unisex",
+   "size:xl",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "citta-b0dxkvq3nj",
+  "brand": "CITTA",
+  "model": "Depigmentation Body Cream with Retinol, Lactic Acid & Almond Oil – Reduces Tan, Pigmentati…",
+  "price": 519,
+  "capacityLine": "50 g",
+  "materialLine": "retinol + lactic acid + almond",
+  "featureLine": "Oil · ₹1038/100g",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1038/100g",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹1038/100g",
+   "format": "Oil",
+   "keyIngredients": "retinol, lactic acid, almond (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61QEBwdjfaL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DXKVQ3NJ",
+  "buyStore": "Amazon",
+  "title": "CITTA Depigmentation Body Cream with Retinol, Lactic Acid & Almond Oil – Reduces Tan, Pigmentation & Evens Skin Tone – Treats Dark Patches on Elbows, Knees, Neck & Thighs – For Men & Women – 50g",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:oil",
+   "format:patch",
+   "ing:retinol",
+   "ing:lactic-acid",
+   "ing:almond",
+   "claim:dark-spots",
+   "aud:women",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "sereko-b0fpqmxc5r",
+  "brand": "Sereko",
+  "model": "10% Urea & Avocado Oil Body Lotion 30ML | For Strawberry legs, Detans, Rough Bumpy skin| B…",
+  "price": 285,
+  "capacityLine": "30 ml",
+  "materialLine": "salicylic acid (BHA) + urea",
+  "featureLine": "Scrub / exfoliant · ₹950/100ml",
+  "highlight": "Live Amazon listing rated 3.9★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (3.9)",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.1,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹950/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "salicylic acid (BHA), urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/410EQYopjcL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FPQMXC5R",
+  "buyStore": "Amazon",
+  "title": "Sereko 10% Urea & Avocado Oil Body Lotion 30ML | For Strawberry legs, Detans, Rough Bumpy skin| Body lotion for Men & Women | AHA BHA free | Gentle Exfoliating | with 48H Moisturization | Very dry, flaky skin",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:oil",
+   "ing:salicylic-acid-bha",
+   "ing:aha",
+   "ing:urea",
+   "ing:strawberry",
+   "ing:avocado",
+   "claim:de-tan",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:kp",
+   "claim:long-lasting",
+   "claim:dry-skin-relief",
+   "aud:women",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "glamveda-b0gqhvv3ts",
+  "brand": "Glamveda",
+  "model": "10% Urea Body Lotion for Very Dry & Rough Skin | Intense Moisturizer for Long-Lasting Hydr…",
+  "price": 269,
+  "capacityLine": "200 ml",
+  "materialLine": "urea",
+  "featureLine": "Lotion · ₹135/100ml",
+  "highlight": "Live Amazon listing rated 3.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹135/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (3.0)",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3,
+   "skin": 4,
+   "ingredients": 5.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹135/100ml",
+   "format": "Lotion",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "3.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51ajZK0gepL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51gbKtC8T-L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61ZNuOPOl6L._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/51R9xKzn0DL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61AxKO9hxvL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GQHVV3TS",
+  "buyStore": "Amazon",
+  "title": "Glamveda 10% Urea Body Lotion for Very Dry & Rough Skin | Intense Moisturizer for Long-Lasting Hydration | Non-Greasy & Lightweight | Repairs & Softens Skin | 200ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:patch",
+   "format:kit",
+   "ing:urea",
+   "claim:dark-spots",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:dry-skin-relief",
+   "aud:women",
+   "size:large",
+   "rating:low",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "cotaryl-b0d33fkc1b",
+  "brand": "COTARYL",
+  "model": "Emmet Healthcare Cream For Dry Skin | Cream Of Urea With Natural Moisturising Factor | Net…",
+  "price": 175,
+  "capacityLine": "75 g",
+  "materialLine": "urea",
+  "featureLine": "Cream / gel · ₹233/100g",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹233/100g",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.7,
+   "skin": 4,
+   "ingredients": 5.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "75 g",
+   "pricePer100": "₹233/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51rHbr9+nqL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0D33FKC1B",
+  "buyStore": "Amazon",
+  "title": "COTARYL Emmet Healthcare Cream For Dry Skin | Cream Of Urea With Natural Moisturising Factor | Net Weight - 75G | (Pack Of 1)",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:kit",
+   "ing:urea",
+   "claim:hydrating",
+   "skin:dry",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "kitcoz-b0gzc66gp2",
+  "brand": "Kitcoz",
+  "model": "Nigriclear™ 20% Urea Cream for Dark, Rough Elbows, Knees & Neck, 50g | Diabetic Friendly C…",
+  "price": 389,
+  "capacityLine": "50 g",
+  "materialLine": "urea",
+  "featureLine": "Cream / gel · ₹778/100g",
+  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹778/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71kWkwR3K0L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GZC66GP2",
+  "buyStore": "Amazon",
+  "title": "Kitcoz Nigriclear™ 20% Urea Cream for Dark, Rough Elbows, Knees & Neck, 50g | Diabetic Friendly Cream for Thick, Rough & Hardened Skin",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "ing:urea",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "urea-b0fp2z68kd",
+  "brand": "Urea",
+  "model": "Derm Moisturizing Cream with 10% Urea – 100g | Intense Hydration for Dry, Irritated & Itch…",
+  "price": 999,
+  "capacityLine": "200 g (pack of 2)",
+  "materialLine": "urea",
+  "featureLine": "Cream / gel · ₹500/100g",
+  "highlight": "Live Amazon listing rated 4.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g × 2 pack",
+   "pricePer100": "₹500/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61vi5kOtoUL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FP2Z68KD",
+  "buyStore": "Amazon",
+  "title": "Urea Derm Moisturizing Cream with 10% Urea – 100g | Intense Hydration for Dry, Irritated & Itchy Skin | Clinically Proven Formula for Rough, Scaly, and Sensitive Skin, Origin in Canada (Pack of 2)",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:kit",
+   "ing:urea",
+   "claim:hydrating",
+   "claim:soothing",
+   "free:sensitive-safe",
+   "skin:dry",
+   "skin:sensitive",
+   "aud:unisex",
+   "size:large",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "cota-ry-ll-b0cwljrtyj",
+  "brand": "Cota-Ry-Ll",
+  "model": "Cream For Dry Skin | Cream Of Urea With Natural Moisturising Factor | Net Weight - 75G | P…",
+  "price": 274,
+  "capacityLine": "75 g",
+  "materialLine": "urea",
+  "featureLine": "Cream / gel · ₹365/100g",
+  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.2,
+   "skin": 4,
+   "ingredients": 5.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "75 g",
+   "pricePer100": "₹365/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51DgHZsfvlL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CWLJRTYJ",
+  "buyStore": "Amazon",
+  "title": "Cota-Ry-Ll Cream For Dry Skin | Cream Of Urea With Natural Moisturising Factor | Net Weight - 75G | Pack Of (2)",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "ing:urea",
+   "claim:hydrating",
+   "skin:dry",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "ureaderm-b0fp2wwhd9",
+  "brand": "UreaDerm",
+  "model": "Moisturizing Cream with 20% Urea – 100g | Advanced Treatment for Dry, Thickened, and Scaly…",
+  "price": 1199,
+  "capacityLine": "200 g (pack of 2)",
+  "materialLine": "urea",
+  "featureLine": "Cream / gel · ₹600/100g",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g × 2 pack",
+   "pricePer100": "₹600/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/617S2w59AOL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FP2WWHD9",
+  "buyStore": "Amazon",
+  "title": "UreaDerm Moisturizing Cream with 20% Urea – 100g | Advanced Treatment for Dry, Thickened, and Scaly Skin | Helps Relieve Symptoms of Ichthyosis & Psoriasis | Skin Barrier Repair, made in Australia (Pack of 2)",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:kit",
+   "ing:urea",
+   "claim:hydrating",
+   "claim:barrier",
+   "skin:dry",
+   "aud:unisex",
+   "size:large",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "urea-b0h4hcqgdw",
+  "brand": "Urea",
+  "model": "Derm Moisturising Cream, 20% Urea, 100g, for Dry & Thickened Skin, Ichthyosis & Psoriasis …",
+  "price": 574,
+  "capacityLine": "100 g",
+  "materialLine": "urea",
+  "featureLine": "Cream / gel · ₹574/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹574/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61L9P22qRrL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H4HCQGDW",
+  "buyStore": "Amazon",
+  "title": "Urea Derm Moisturising Cream, 20% Urea, 100g, for Dry & Thickened Skin, Ichthyosis & Psoriasis Relief",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "ing:urea",
+   "claim:hydrating",
+   "skin:dry",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "be-bodywise-b0b5zbrdz8",
+  "brand": "Be Bodywise",
+  "model": "10% Urea Body Lotion 200ml | 48 Hour Dry Skin Relief | For Very Dry & Flaky Skin | With Ce…",
+  "price": 399,
+  "capacityLine": "200 ml",
+  "materialLine": "urea + ceramides",
+  "featureLine": "Lotion · ₹200/100ml",
+  "highlight": "Live Amazon listing rated 4.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹200/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.1,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹200/100ml",
+   "format": "Lotion",
+   "keyIngredients": "urea, ceramides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61laHUF0SuL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0B5ZBRDZ8",
+  "buyStore": "Amazon",
+  "title": "Be Bodywise 10% Urea Body Lotion 200ml | 48 Hour Dry Skin Relief | For Very Dry & Flaky Skin | With Ceramides, Kokum & Mango Seed Butter | Non-Greasy & Lightweight Formula",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:balm",
+   "ing:urea",
+   "ing:ceramides",
+   "claim:oil-control",
+   "claim:lightweight",
+   "claim:long-lasting",
+   "claim:dry-skin-relief",
+   "skin:dry",
+   "aud:unisex",
+   "size:large",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "logiifeel-b0hf6c9p4l",
+  "brand": "Logiifeel",
+  "model": "IMF Glycolic Acid, Urea & Lactic Acid Cream 50g | For External Use Only, 50g Jar",
+  "price": 218,
+  "capacityLine": "50 g",
+  "materialLine": "glycolic acid + lactic acid + urea",
+  "featureLine": "Cream / gel · ₹436/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹436/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "glycolic acid, lactic acid, urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71RaWaOZGWL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HF6C9P4L",
+  "buyStore": "Amazon",
+  "title": "Logiifeel IMF Glycolic Acid, Urea & Lactic Acid Cream 50g | For External Use Only, 50g Jar",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "ing:glycolic-acid",
+   "ing:lactic-acid",
+   "ing:urea",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "remoiz-b0fq5qf1hl",
+  "brand": "Remoiz",
+  "model": "Cream of Urea with Natural Moisturising Factors, Moisturising Cream 100g (Pack of 2)",
+  "price": 498,
+  "capacityLine": "200 g (pack of 2)",
+  "materialLine": "urea",
+  "featureLine": "Cream / gel · ₹249/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹249/100g",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g × 2 pack",
+   "pricePer100": "₹249/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41E75dhrvfL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FQ5QF1HL",
+  "buyStore": "Amazon",
+  "title": "Remoiz Cream of Urea with Natural Moisturising Factors, Moisturising Cream 100g (Pack of 2)",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:kit",
+   "ing:urea",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "remoiz-b0h9lt5v1c",
+  "brand": "Remoiz",
+  "model": "Cream of Urea with Natural Moisturising Factors 50g,Pack of 3 | Pack of 3, Moisturising Cr…",
+  "price": 396,
+  "capacityLine": "150 g (pack of 3)",
+  "materialLine": "urea",
+  "featureLine": "Cream / gel · ₹264/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "50 g × 3 pack",
+   "pricePer100": "₹264/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/318J7OtUSiL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H9LT5V1C",
+  "buyStore": "Amazon",
+  "title": "Remoiz Cream of Urea with Natural Moisturising Factors 50g,Pack of 3 | Pack of 3, Moisturising Cream, Urea Formula",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:kit",
+   "ing:urea",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "dermpod-b0hf4kxf4h",
+  "brand": "Dermpod",
+  "model": "Urea, Lactic Acid, Propylene Glycol & Light Liquid Paraffin Cream – 100 gm | Emollient, Hu…",
+  "price": 375,
+  "capacityLine": "100 g",
+  "materialLine": "lactic acid + urea",
+  "featureLine": "Cream / gel · ₹375/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹375/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "lactic acid, urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61ennAAEZ2L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HF4KXF4H",
+  "buyStore": "Amazon",
+  "title": "Dermpod Urea, Lactic Acid, Propylene Glycol & Light Liquid Paraffin Cream – 100 gm | Emollient, Humectant & Keratolytic Moisturizing Cream",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "ing:lactic-acid",
+   "ing:urea",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "remoiz-b0fq2j63xc",
+  "brand": "Remoiz",
+  "model": "Cream with Urea and Natural Moisturizing Factors | Pack of 2 | Each 100 g",
+  "price": 475,
+  "capacityLine": "200 g (pack of 2)",
+  "materialLine": "urea",
+  "featureLine": "Cream / gel · ₹238/100g",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹238/100g",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g × 2 pack",
+   "pricePer100": "₹238/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61bE+2CntnL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FQ2J63XC",
+  "buyStore": "Amazon",
+  "title": "Remoiz Cream with Urea and Natural Moisturizing Factors | Pack of 2 | Each 100 g",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:kit",
+   "ing:urea",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:large",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "aqu-b0gx6plgcl",
+  "brand": "Aqu",
+  "model": "- rea 20 Urea Cream (20%) 100g | Intensive Moisturizing & Skin Repair | With Lactic Acid, …",
+  "price": 596,
+  "capacityLine": "100 g",
+  "materialLine": "lactic acid + urea + tea tree",
+  "featureLine": "Oil · ₹596/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 6.3,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹596/100g",
+   "format": "Oil",
+   "keyIngredients": "lactic acid, urea, tea tree, aloe vera (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41UvuDKG+AL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GX6PLGCL",
+  "buyStore": "Amazon",
+  "title": "Aqu - rea 20 Urea Cream (20%) 100g | Intensive Moisturizing & Skin Repair | With Lactic Acid, Aloe Vera & Tea Tree Oil | For Dry & Cracked Skin",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:oil",
+   "ing:lactic-acid",
+   "ing:urea",
+   "ing:tea-tree",
+   "ing:aloe-vera",
+   "claim:hydrating",
+   "claim:barrier",
+   "skin:dry",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "aqu-b0hdd1hn3l",
+  "brand": "Aqu",
+  "model": "- rea HF Urea 40% Cream Gel | Intensive Moisturizing & Exfoliating Cream for Dry, Rough, C…",
+  "price": 449,
+  "capacityLine": "50 g",
+  "materialLine": "urea + tea tree + aloe vera",
+  "featureLine": "Scrub / exfoliant · ₹898/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹898/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "urea, tea tree, aloe vera (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/3100bLrwrRL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HDD1HN3L",
+  "buyStore": "Amazon",
+  "title": "Aqu - rea HF Urea 40% Cream Gel | Intensive Moisturizing & Exfoliating Cream for Dry, Rough, Cracked Skin | With Aloe Vera & Tea Tree Oil | 50g",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:cream",
+   "format:oil",
+   "ing:urea",
+   "ing:tea-tree",
+   "ing:aloe-vera",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "skin:dry",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "dermpod-b0hdzmnbb3",
+  "brand": "Dermpod",
+  "model": "Cream 100g | Urea, Lactic Acid, Propylene Glycol & Light Liquid Paraffin Cream | Moisturiz…",
+  "price": 383,
+  "capacityLine": "100 g",
+  "materialLine": "lactic acid + urea",
+  "featureLine": "Cream / gel · ₹383/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹383/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "lactic acid, urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61ennAAEZ2L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HDZMNBB3",
+  "buyStore": "Amazon",
+  "title": "Dermpod Cream 100g | Urea, Lactic Acid, Propylene Glycol & Light Liquid Paraffin Cream | Moisturizing Cream for Dry and Rough Skin",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "ing:lactic-acid",
+   "ing:urea",
+   "claim:hydrating",
+   "skin:dry",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "moicent-b0fnl5xmz9",
+  "brand": "Moicent",
+  "model": "U Cream 100g – With Urea, Lactic Acid, Propylene Glycol & Liquid Paraffin | Deep Moisturiz…",
+  "price": 228,
+  "capacityLine": "100 g",
+  "materialLine": "lactic acid + urea",
+  "featureLine": "Cream / gel · ₹228/100g",
+  "highlight": "Live Amazon listing rated 4.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹228/100g",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.6)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹228/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "lactic acid, urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.6/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/619kYt9GIiL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FNL5XMZ9",
+  "buyStore": "Amazon",
+  "title": "Moicent U Cream 100g – With Urea, Lactic Acid, Propylene Glycol & Liquid Paraffin | Deep Moisturizing Cream for Dry, Rough & Cracked Skin | Intensive Hydration & Skin Softening Formula | All Skin Types",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "ing:lactic-acid",
+   "ing:urea",
+   "claim:hydrating",
+   "skin:dry",
+   "skin:all",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "remoiz-b0gcsbqk6d",
+  "brand": "Remoiz",
+  "model": "Moisturizing Cream 100g x 2 | Urea & Natural Moisturizers For Soft, Smooth Skin",
+  "price": 466,
+  "capacityLine": "100 g",
+  "materialLine": "urea",
+  "featureLine": "Oil · ₹466/100g",
+  "highlight": "Live Amazon listing rated 4.4★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.4)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.8,
+   "skin": 4,
+   "ingredients": 5.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹466/100g",
+   "format": "Oil",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41gEo0VRP+L.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GCSBQK6D",
+  "buyStore": "Amazon",
+  "title": "Remoiz Moisturizing Cream 100g x 2 | Urea & Natural Moisturizers For Soft, Smooth Skin",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "format:oil",
+   "ing:urea",
+   "ing:mineral-oil",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "remoiz-b0gghrr6xf",
+  "brand": "Remoiz",
+  "model": "Moisturizing Cream 100g Pack of 2 | With Urea & Natural Moisturizing Factors | Daily Hydra…",
+  "price": 466,
+  "capacityLine": "200 g (pack of 2)",
+  "materialLine": "urea",
+  "featureLine": "Cream / gel · ₹233/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹233/100g",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g × 2 pack",
+   "pricePer100": "₹233/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41gEo0VRP+L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GGHRR6XF",
+  "buyStore": "Amazon",
+  "title": "Remoiz Moisturizing Cream 100g Pack of 2 | With Urea & Natural Moisturizing Factors | Daily Hydration Care",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:kit",
+   "ing:urea",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "remoiz-b0gcfgw25r",
+  "brand": "Remoiz",
+  "model": "Cream 100g (Pack of 2) | Urea & Natural Moisturizing Factors For Soft Skin",
+  "price": 466,
+  "capacityLine": "200 g (pack of 2)",
+  "materialLine": "urea",
+  "featureLine": "Cream / gel · ₹233/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹233/100g",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g × 2 pack",
+   "pricePer100": "₹233/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41gEo0VRP+L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GCFGW25R",
+  "buyStore": "Amazon",
+  "title": "Remoiz Cream 100g (Pack of 2) | Urea & Natural Moisturizing Factors For Soft Skin",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:kit",
+   "ing:urea",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "moisilk-b0gflh2t75",
+  "brand": "MOISILK",
+  "model": "U 40% MOISTURIZING UREA GEL SOFTENS & SMOOTHENS ROUGH, THICK & CRACKED SKIN GENTLY EXFOLIA…",
+  "price": 699,
+  "capacityLine": "100 g (pack of 2)",
+  "materialLine": "urea",
+  "featureLine": "Scrub / exfoliant · ₹699/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "50 g × 2 pack",
+   "pricePer100": "₹699/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61rVK5zRWIL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GFLH2T75",
+  "buyStore": "Amazon",
+  "title": "MOISILK U 40% MOISTURIZING UREA GEL SOFTENS & SMOOTHENS ROUGH, THICK & CRACKED SKIN GENTLY EXFOLIATES SCALES & DEAD SKIN GEL 50GM (PACK OF 2)",
+  "tags": [
+   "scope:unstated",
+   "format:gel",
+   "format:kit",
+   "ing:urea",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "healthstores-b0ghs57b4w",
+  "brand": "Healthstores",
+  "model": "Deep Moisturizer | 10% Urea Body Lotion 200ml | With Bio-active Ceramides | 72 Hour Hydrat…",
+  "price": 449,
+  "capacityLine": "200 ml",
+  "materialLine": "urea + ceramides",
+  "featureLine": "Lotion · ₹225/100ml",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹225/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹225/100ml",
+   "format": "Lotion",
+   "keyIngredients": "urea, ceramides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51SX-OQLPPL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GHS57B4W",
+  "buyStore": "Amazon",
+  "title": "Healthstores Deep Moisturizer | 10% Urea Body Lotion 200ml | With Bio-active Ceramides | 72 Hour Hydration & Skin Repair | Intensive Moisturizing Body Cream for Dry & Rough Skin | Non-Greasy & Lightweight Formula",
+  "tags": [
+   "scope:body",
+   "format:cream",
+   "format:lotion",
+   "ing:urea",
+   "ing:ceramides",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:lightweight",
+   "claim:long-lasting",
+   "skin:dry",
+   "aud:unisex",
+   "size:large",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "logi-feel-imf-b0hbkbr12v",
+  "brand": "Logi-feel-IMF",
+  "model": "Cream with Glycolic Acid, Urea & Lactic Acid | Hydrates, Exfoliates & Softens Dry, Rough, …",
+  "price": 400,
+  "capacityLine": "20 g",
+  "materialLine": "glycolic acid + lactic acid + urea",
+  "featureLine": "Scrub / exfoliant · ₹2000/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹2000/100g",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "20 g",
+   "pricePer100": "₹2000/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "glycolic acid, lactic acid, urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51KcT5AwGRL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HBKBR12V",
+  "buyStore": "Amazon",
+  "title": "Logi-feel-IMF Cream with Glycolic Acid, Urea & Lactic Acid | Hydrates, Exfoliates & Softens Dry, Rough, Thickened Skin | 20 g Jar",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "ing:glycolic-acid",
+   "ing:lactic-acid",
+   "ing:urea",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "aqurea-b0h9sv8zmw",
+  "brand": "AQUREA",
+  "model": "Cream 10% Urea 100g (Pack of 3, Total 300g) | Deep Moisturising & Exfoliating Cream for Dr…",
+  "price": 801,
+  "capacityLine": "300 g (pack of 3)",
+  "materialLine": "urea",
+  "featureLine": "Scrub / exfoliant · ₹267/100g",
+  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.2)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.5,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g × 3 pack",
+   "pricePer100": "₹267/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61-T7M9KpUL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H9SV8ZMW",
+  "buyStore": "Amazon",
+  "title": "AQUREA Cream 10% Urea 100g (Pack of 3, Total 300g) | Deep Moisturising & Exfoliating Cream for Dry, Rough & Thickened Skin | Triple Action Hydration & Barrier Repair",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:kit",
+   "ing:urea",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "skin:dry",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "moisturex-b084pqcpw7",
+  "brand": "Moisturex",
+  "model": "- Bottle of 100gm Cream",
+  "price": 258,
+  "capacityLine": "100 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream / gel · ₹258/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹258/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71GhSG2hthL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B084PQCPW7",
+  "buyStore": "Amazon",
+  "title": "Moisturex - Bottle of 100gm Cream",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "generic-b0f48mwttf",
+  "brand": "Generic",
+  "model": "The Love Co 10% Urea Body Lotion 350ml | Body Lotion for Very Dry & Rough Skin | 48Hr Deep…",
+  "price": 353,
+  "capacityLine": "350 ml",
+  "materialLine": "niacinamide + urea + hyaluronic acid",
+  "featureLine": "Scrub / exfoliant · ₹101/100ml",
+  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹101/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4.7,
+   "ingredients": 5.9,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "350 ml",
+   "pricePer100": "₹101/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "niacinamide, urea, hyaluronic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61UIKIFzZlL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61c6Yq5XhML._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71WJXWsnYXL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71rEuWOU4RL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61B2No7RNSL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F48MWTTF",
+  "buyStore": "Amazon",
+  "title": "The Love Co 10% Urea Body Lotion 350ml | Body Lotion for Very Dry & Rough Skin | 48Hr Deep Moisturization with Hyaluronic Acid & Niacinamide | Non-Greasy Barrier Repair Lotion for Dry Flaky Skin",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:patch",
+   "ing:niacinamide",
+   "ing:urea",
+   "ing:hyaluronic-acid",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "claim:kp",
+   "claim:lightweight",
+   "claim:long-lasting",
+   "claim:dry-skin-relief",
+   "free:derm",
+   "free:sensitive-safe",
+   "skin:dry",
+   "skin:sensitive",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "udderly-b00d86vj0s",
+  "brand": "Udderly",
+  "model": "Smooth Extra Care Cream with 10% Urea for dry skin, Unscented, 8 Ounce (Pack of 2)",
+  "price": 3686,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "urea",
+  "featureLine": "Cream / gel",
+  "highlight": "Live Amazon listing rated 4.5★ by Get it faster buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Cream / gel",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.5/5 (Get it faster ratings, Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61WsKywNk0L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B00D86VJ0S",
+  "buyStore": "Amazon",
+  "title": "Udderly Smooth Extra Care Cream with 10% Urea for dry skin, Unscented, 8 Ounce (Pack of 2)",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:kit",
+   "ing:urea",
+   "free:fragrance",
+   "skin:dry",
+   "aud:unisex",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "babe-b0f24m47dz",
+  "brand": "Babe",
+  "model": "10 Urea Repairing Lotion 100 ml",
+  "price": 870,
+  "capacityLine": "100 ml",
+  "materialLine": "urea",
+  "featureLine": "Lotion · ₹870/100ml",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹870/100ml",
+   "format": "Lotion",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/31GcJORxhsL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F24M47DZ",
+  "buyStore": "Amazon",
+  "title": "Babe 10 Urea Repairing Lotion 100 ml",
+  "tags": [
+   "scope:unstated",
+   "format:lotion",
+   "ing:urea",
+   "claim:barrier",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "urea-b00hjbx1u4",
+  "brand": "UREA",
+  "model": "LT 10% 8OZ TOP by UREA",
+  "price": 2235,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "urea",
+  "featureLine": "Other",
+  "highlight": "Live Amazon listing rated 4.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.6)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Other",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.6/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61MdLJE82iL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B00HJBX1U4",
+  "buyStore": "Amazon",
+  "title": "UREA LT 10% 8OZ TOP by UREA",
+  "tags": [
+   "scope:unstated",
+   "ing:urea",
+   "aud:unisex",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "glamveda-b0gqhx1jdh",
+  "brand": "Glamveda",
+  "model": "10% Urea Body Lotion for Very Dry & Rough Skin | Intense Moisturizer for Long-Lasting Hydr…",
+  "price": 445,
+  "capacityLine": "600 ml (pack of 3)",
+  "materialLine": "urea",
+  "featureLine": "Lotion · ₹74/100ml",
+  "highlight": "Live Amazon listing rated 3.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹74/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (3.0)",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "200 ml × 3 pack",
+   "pricePer100": "₹74/100ml",
+   "format": "Lotion",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51UqwcJkvbL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GQHX1JDH",
+  "buyStore": "Amazon",
+  "title": "Glamveda 10% Urea Body Lotion for Very Dry & Rough Skin | Intense Moisturizer for Long-Lasting Hydration | Non-Greasy & Lightweight | Repairs & Softens Skin | 200ml, Pack of 3",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:kit",
+   "ing:urea",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:lightweight",
+   "claim:dry-skin-relief",
+   "aud:unisex",
+   "size:xl",
+   "rating:low",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "cosmo-b0g51s2gc1",
+  "brand": "Cosmo",
+  "model": "Urea Repair Lotion | Dryness Relief Advanced Skin Repair with 10% Urea & Ceramide for Silk…",
+  "price": 449,
+  "capacityLine": "316 ml",
+  "materialLine": "urea + ceramides",
+  "featureLine": "Lotion · ₹142/100ml",
+  "highlight": "Live Amazon listing rated 3.9★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹142/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (3.9)",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.1,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "316 ml",
+   "pricePer100": "₹142/100ml",
+   "format": "Lotion",
+   "keyIngredients": "urea, ceramides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51Hbfk4w7lL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71i6Z2PkoeL._SL1200_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G51S2GC1",
+  "buyStore": "Amazon",
+  "title": "Cosmo Urea Repair Lotion | Dryness Relief Advanced Skin Repair with 10% Urea & Ceramide for Silky Smooth, Hydrated Skin - 316ml",
+  "tags": [
+   "scope:unstated",
+   "format:lotion",
+   "ing:urea",
+   "ing:ceramides",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:lightweight",
+   "claim:dry-skin-relief",
+   "aud:unisex",
+   "size:xl",
+   "rating:3.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "glamveda-b0gqhn9zt9",
+  "brand": "Glamveda",
+  "model": "10% Urea Body Lotion for Very Dry & Rough Skin | Intense Moisturizer for Long-Lasting Hydr…",
+  "price": 389,
+  "capacityLine": "400 ml (pack of 2)",
+  "materialLine": "urea",
+  "featureLine": "Lotion · ₹97/100ml",
+  "highlight": "Live Amazon listing rated 3.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹97/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (3.0)",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "200 ml × 2 pack",
+   "pricePer100": "₹97/100ml",
+   "format": "Lotion",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51ghwsNPE9L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GQHN9ZT9",
+  "buyStore": "Amazon",
+  "title": "Glamveda 10% Urea Body Lotion for Very Dry & Rough Skin | Intense Moisturizer for Long-Lasting Hydration | Non-Greasy & Lightweight | Repairs & Softens Skin | 200ml, Pack of 2",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:kit",
+   "ing:urea",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:lightweight",
+   "claim:dry-skin-relief",
+   "aud:unisex",
+   "size:xl",
+   "rating:low",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "skinlab-b08yp48gk2",
+  "brand": "SKINLAB",
+  "model": "Ceracare U+ Ultra-Repair Moisturiser – Dermatologist-Formulated with 10% Urea & Ceramides …",
+  "price": 2100,
+  "capacityLine": "100 ml",
+  "materialLine": "urea + ceramides",
+  "featureLine": "Cream / gel · ₹2100/100ml",
+  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.2)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹2100/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.5,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹2100/100ml",
+   "format": "Cream / gel",
+   "keyIngredients": "urea, ceramides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51k9kLc1cUL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B08YP48GK2",
+  "buyStore": "Amazon",
+  "title": "SKINLAB Ceracare U+ Ultra-Repair Moisturiser – Dermatologist-Formulated with 10% Urea & Ceramides – Intensive Relief for Very Dry, Rough, Flaky & Tight Skin, 100ml",
+  "tags": [
+   "scope:unstated",
+   "ing:urea",
+   "ing:ceramides",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:dry-skin-relief",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "aqua-b000052yme",
+  "brand": "Aqua",
+  "model": "Care Lotion for Dry Skin, with 10% Urea - 8 fl oz",
+  "price": 2429,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "urea",
+  "featureLine": "Lotion",
+  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.2)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.5,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Lotion",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51hm4zGbTlL._AC_SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B000052YME",
+  "buyStore": "Amazon",
+  "title": "Aqua Care Lotion for Dry Skin, with 10% Urea - 8 fl oz",
+  "tags": [
+   "scope:unstated",
+   "format:lotion",
+   "ing:urea",
+   "skin:dry",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "generic-b0gvybnq2k",
+  "brand": "Generic",
+  "model": "Cream Urea Lactic Acid | 60 g",
+  "price": 197,
+  "capacityLine": "60 g",
+  "materialLine": "lactic acid + urea",
+  "featureLine": "Cream / gel · ₹328/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "60 g",
+   "pricePer100": "₹328/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "lactic acid, urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41hxJ6iZLOL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GVYBNQ2K",
+  "buyStore": "Amazon",
+  "title": "Cream Urea Lactic Acid | 60 g",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "ing:lactic-acid",
+   "ing:urea",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "moisturex-b08k9vcj64",
+  "brand": "Moisturex",
+  "model": "Soft - Tube of 300Gm Cream",
+  "price": 699,
+  "capacityLine": "300 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream / gel · ₹233/100g",
+  "highlight": "Live Amazon listing rated 4.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹233/100g",
+   "Strong buyer rating (4.6)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.2,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "300 g",
+   "pricePer100": "₹233/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.6/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51bA4lZ4UML._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B08K9VCJ64",
+  "buyStore": "Amazon",
+  "title": "Moisturex Soft - Tube of 300Gm Cream",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "suganda-b09lvcqj6p",
+  "brand": "Suganda",
+  "model": "5% Lactic Body Lotion with Niacinamide, Vitamin E & Organic Sunflower Oil | Soothes with C…",
+  "price": 402,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "niacinamide + lactic acid + vitamin E",
+  "featureLine": "Oil · Fragrance-free",
+  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Fragrance-free (per listing)",
+   "Strong buyer rating (4.2)"
+  ],
+  "cons": [
+   "Quantity not stated"
+  ],
+  "scores": {
+   "trust": 5.6,
+   "skin": 4.5,
+   "ingredients": 6.2,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Oil",
+   "keyIngredients": "niacinamide, lactic acid, vitamin E (per listing)",
+   "freeFrom": "Fragrance-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/619PZ55kChL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B09LVCQJ6P",
+  "buyStore": "Amazon",
+  "title": "Suganda 5% Lactic Body Lotion with Niacinamide, Vitamin E & Organic Sunflower Oil | Soothes with Calendula | Smooths KP & Strawberry Skin, Reduces Tan | Lightweight, Non-Sticky, Award-Winning | Fragrance-Free [Package might Vary]",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:oil",
+   "ing:niacinamide",
+   "ing:lactic-acid",
+   "ing:vitamin-e",
+   "ing:strawberry",
+   "claim:oil-control",
+   "claim:soothing",
+   "claim:kp",
+   "claim:lightweight",
+   "free:fragrance",
+   "aud:unisex",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "balea-b073yb14w2",
+  "brand": "Balea",
+  "model": "body lotion Urea, 400 ml - German product",
+  "price": 2816,
+  "capacityLine": "400 ml",
+  "materialLine": "urea",
+  "featureLine": "Lotion · ₹704/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹704/100ml",
+   "format": "Lotion",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51oAEQLr1TL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B073YB14W2",
+  "buyStore": "Amazon",
+  "title": "Balea body lotion Urea, 400 ml - German product",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:urea",
+   "aud:unisex",
+   "size:xl",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "moisture-b0hdr4hdjq",
+  "brand": "Moisture",
+  "model": "Restore Body Lotion with Ceramides, Urea & Niacinamide, Long-Lasting Moisture, Dry Skin Re…",
+  "price": 399,
+  "capacityLine": "200 ml",
+  "materialLine": "niacinamide + urea + ceramides",
+  "featureLine": "Lotion · ₹200/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹200/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹200/100ml",
+   "format": "Lotion",
+   "keyIngredients": "niacinamide, urea, ceramides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41UziCD8wLL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HDR4HDJQ",
+  "buyStore": "Amazon",
+  "title": "Moisture Restore Body Lotion with Ceramides, Urea & Niacinamide, Long-Lasting Moisture, Dry Skin Relief & Skin Barrier Care, Lightweight Daily Body Moisturizer, pH Balanced, 200ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:niacinamide",
+   "ing:urea",
+   "ing:ceramides",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:lightweight",
+   "free:ph-balanced",
+   "skin:dry",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "urea-b0fhqqypdd",
+  "brand": "Urea",
+  "model": "Derm Moisturizing Cream with 10% Urea – 100g | Intense Hydration for Dry, Irritated & Itch…",
+  "price": 500,
+  "capacityLine": "100 g",
+  "materialLine": "urea",
+  "featureLine": "Cream / gel · ₹500/100g",
+  "highlight": "Live Amazon listing rated 4.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹500/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51LW1oiQymL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FHQQYPDD",
+  "buyStore": "Amazon",
+  "title": "Urea Derm Moisturizing Cream with 10% Urea – 100g | Intense Hydration for Dry, Irritated & Itchy Skin | Clinically Proven Formula for Rough, Scaly, and Sensitive Skin, made in Australia",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "ing:urea",
+   "claim:hydrating",
+   "claim:soothing",
+   "free:sensitive-safe",
+   "skin:dry",
+   "skin:sensitive",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "skinorita-b0h8jbgfb5",
+  "brand": "SkinoRita",
+  "model": "Cream of Urea with Natural Moisturizing Factors, 100g (Pack Of 3)",
+  "price": 399,
+  "capacityLine": "300 g (pack of 3)",
+  "materialLine": "urea",
+  "featureLine": "Cream / gel · ₹133/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹133/100g",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g × 3 pack",
+   "pricePer100": "₹133/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41su316qICL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H8JBGFB5",
+  "buyStore": "Amazon",
+  "title": "SkinoRita Cream of Urea with Natural Moisturizing Factors, 100g (Pack Of 3)",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:kit",
+   "ing:urea",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:xl",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "moistril-b0hgf1gpwl",
+  "brand": "Moistril",
+  "model": "Urea Lactic Acid Propylene Glycol Cream, 75 gm (pack of 5) | Propylene Glycol, Liquid Para…",
+  "price": 400,
+  "capacityLine": "375 g (pack of 5)",
+  "materialLine": "lactic acid + urea",
+  "featureLine": "Cream / gel · ₹107/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹107/100g",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "75 g × 5 pack",
+   "pricePer100": "₹107/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "lactic acid, urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61k3nq3R5+L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HGF1GPWL",
+  "buyStore": "Amazon",
+  "title": "Moistril Urea Lactic Acid Propylene Glycol Cream, 75 gm (pack of 5) | Propylene Glycol, Liquid Paraffin, Deep Moisturisation, Dry Skin Relief, Derma Care",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:kit",
+   "ing:lactic-acid",
+   "ing:urea",
+   "claim:hydrating",
+   "skin:dry",
+   "aud:unisex",
+   "size:xl",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "be-bodywise-b0bfqx7ms9",
+  "brand": "Be Bodywise",
+  "model": "5% AHA Lactic Acid Body Lotion with 48Hr Moisturisation 200ml | Dermatologically Tested | …",
+  "price": 350,
+  "capacityLine": "200 ml",
+  "materialLine": "lactic acid + centella/cica + aloe vera",
+  "featureLine": "Lotion · ₹175/100ml",
+  "highlight": "Live Amazon listing rated 4.2★ by Get it faster buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹175/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.1,
+   "skin": 4.7,
+   "ingredients": 5.9,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹175/100ml",
+   "format": "Lotion",
+   "keyIngredients": "lactic acid, centella/cica, aloe vera (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Get it faster ratings, Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61btQcvsmWL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0BFQX7MS9",
+  "buyStore": "Amazon",
+  "title": "Be Bodywise 5% AHA Lactic Acid Body Lotion with 48Hr Moisturisation 200ml | Dermatologically Tested | Improves Skin Texture & Reduces Appearance of Strawberry Legs | With Lactic Acid, Aloe Vera & Cica Extract",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:lactic-acid",
+   "ing:aha",
+   "ing:centella-cica",
+   "ing:aloe-vera",
+   "ing:strawberry",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:kp",
+   "claim:long-lasting",
+   "free:derm",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "be-b0d4f1mtkg",
+  "brand": "Be",
+  "model": "Neude Body Lotion with Ceramide, Lactic Acid, Niacinamide & Hyaluronic Acid for Deep Hydra…",
+  "price": 299,
+  "capacityLine": "250 ml",
+  "materialLine": "niacinamide + lactic acid + hyaluronic acid",
+  "featureLine": "Lotion · ₹120/100ml",
+  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹120/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 4,
+   "ingredients": 6.3,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "250 ml",
+   "pricePer100": "₹120/100ml",
+   "format": "Lotion",
+   "keyIngredients": "niacinamide, lactic acid, hyaluronic acid, ceramides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51hlhRA-DhL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0D4F1MTKG",
+  "buyStore": "Amazon",
+  "title": "Be Neude Body Lotion with Ceramide, Lactic Acid, Niacinamide & Hyaluronic Acid for Deep Hydration, Barrier Repair & Dark Spot Reduction, Ultralight, Non-Sticky Body Lotion Smmmoothie, 250ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:niacinamide",
+   "ing:lactic-acid",
+   "ing:hyaluronic-acid",
+   "ing:ceramides",
+   "claim:dark-spots",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "atulya-b0fkmnw3zp",
+  "brand": "Atulya",
+  "model": "Royal Vanilla Body Lotion Enriched With Lactic Acid | Smooth Skin, Nourishing Feel | Non-G…",
+  "price": 274,
+  "capacityLine": "400 ml",
+  "materialLine": "lactic acid",
+  "featureLine": "Lotion · ₹69/100ml",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹69/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹69/100ml",
+   "format": "Lotion",
+   "keyIngredients": "lactic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/510Bvwu6GWL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FKMNW3ZP",
+  "buyStore": "Amazon",
+  "title": "Atulya Royal Vanilla Body Lotion Enriched With Lactic Acid | Smooth Skin, Nourishing Feel | Non-Greasy Formula | For all skin types | 400 ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:lactic-acid",
+   "claim:oil-control",
+   "claim:hydrating",
+   "skin:all",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "tea-b0g5pn6mw9",
+  "brand": "Tea",
+  "model": "Tree & Lactic Acid Body Lotion – Clarifying, Hydrating & Exfoliating Formula for Smooth, C…",
+  "price": 349,
+  "capacityLine": "250 ml",
+  "materialLine": "lactic acid + tea tree",
+  "featureLine": "Scrub / exfoliant · ₹140/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹140/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "250 ml",
+   "pricePer100": "₹140/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "lactic acid, tea tree (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/616jZFlMwkL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G5PN6MW9",
+  "buyStore": "Amazon",
+  "title": "Tea Tree & Lactic Acid Body Lotion – Clarifying, Hydrating & Exfoliating Formula for Smooth, Clear & Soft Skin | 250 ml (Pack Of 1)",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:kit",
+   "ing:lactic-acid",
+   "ing:tea-tree",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "tea-b0g5pl7bsq",
+  "brand": "Tea",
+  "model": "Tree & Lactic Acid Body Lotion – Clarifying, Hydrating & Exfoliating Formula for Smooth, C…",
+  "price": 749,
+  "capacityLine": "750 ml (pack of 3)",
+  "materialLine": "lactic acid + tea tree",
+  "featureLine": "Scrub / exfoliant · ₹100/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹100/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "250 ml × 3 pack",
+   "pricePer100": "₹100/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "lactic acid, tea tree (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/717gAlrbwNL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G5PL7BSQ",
+  "buyStore": "Amazon",
+  "title": "Tea Tree & Lactic Acid Body Lotion – Clarifying, Hydrating & Exfoliating Formula for Smooth, Clear & Soft Skin | 250 ml (Pack Of 3)",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:kit",
+   "ing:lactic-acid",
+   "ing:tea-tree",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "aud:unisex",
+   "size:xl",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "tea-b0g5plz9yt",
+  "brand": "Tea",
+  "model": "Tree & Lactic Acid Body Lotion – Clarifying, Hydrating & Exfoliating Formula for Smooth, C…",
+  "price": 549,
+  "capacityLine": "500 ml (pack of 2)",
+  "materialLine": "lactic acid + tea tree",
+  "featureLine": "Scrub / exfoliant · ₹110/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹110/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "250 ml × 2 pack",
+   "pricePer100": "₹110/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "lactic acid, tea tree (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71h5p9KaKnL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G5PLZ9YT",
+  "buyStore": "Amazon",
+  "title": "Tea Tree & Lactic Acid Body Lotion – Clarifying, Hydrating & Exfoliating Formula for Smooth, Clear & Soft Skin | 250 ml (Pack Of 2)",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:kit",
+   "ing:lactic-acid",
+   "ing:tea-tree",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "aud:unisex",
+   "size:xl",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "advik-b0dydz842t",
+  "brand": "Advik",
+  "model": "Ayurveda Rose Body Lotion with Rose Water and Lactic Acid, 100ml | Body Lotion for Summer …",
+  "price": 660,
+  "capacityLine": "100 ml",
+  "materialLine": "lactic acid + rose",
+  "featureLine": "Toner · ₹660/100ml",
+  "highlight": "Live Amazon listing rated 3.9★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (3.9)",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.1,
+   "skin": 4,
+   "ingredients": 5.8,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹660/100ml",
+   "format": "Toner",
+   "keyIngredients": "lactic acid, rose (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "3.9/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71qh8LBLuyL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61p6T2kAl2L._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/614z-JUM8DL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71ryTenkvrL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71qclNYkAJL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DYDZ842T",
+  "buyStore": "Amazon",
+  "title": "Advik Ayurveda Rose Body Lotion with Rose Water and Lactic Acid, 100ml | Body Lotion for Summer and Winters | For Dry Skin | For Men and Women | For Skin Brightening and Moisturising",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:lactic-acid",
+   "ing:rose",
+   "claim:brightening",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:ayurvedic",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:3.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "austin-b0hhhcm4n6",
+  "brand": "Austin",
+  "model": "Life Science Overlay Lotion for Hyperpigmentation, 60 ml | Kojic Acid & Arbutin, Depigment…",
+  "price": 329,
+  "capacityLine": "60 ml",
+  "materialLine": "lactic acid + kojic acid + alpha arbutin",
+  "featureLine": "Lotion · ₹548/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 6.3,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "60 ml",
+   "pricePer100": "₹548/100ml",
+   "format": "Lotion",
+   "keyIngredients": "lactic acid, kojic acid, alpha arbutin, aloe vera (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/614XkFOeKPL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0HHHCM4N6",
+  "buyStore": "Amazon",
+  "title": "Austin Life Science Overlay Lotion for Hyperpigmentation, 60 ml | Kojic Acid & Arbutin, Depigmentation, Lactic Acid Formula, Aloe Vera Extract, For External Use Only",
+  "tags": [
+   "scope:unstated",
+   "format:lotion",
+   "ing:lactic-acid",
+   "ing:kojic-acid",
+   "ing:alpha-arbutin",
+   "ing:aloe-vera",
+   "claim:dark-spots",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "dermatouch-b0gzpv2h44",
+  "brand": "Dermatouch",
+  "model": "AHA 10% BHA 1% Body Lotion For Men and Women | Body lotion For Dry Skin – De-tan, Moisturi…",
+  "price": 598,
+  "capacityLine": "400 ml (pack of 2)",
+  "materialLine": "salicylic acid (BHA)",
+  "featureLine": "Lotion · ₹150/100ml",
+  "highlight": "Live Amazon listing rated 1.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹150/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (1.0)"
+  ],
+  "scores": {
+   "trust": 4.1,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "200 ml × 2 pack",
+   "pricePer100": "₹150/100ml",
+   "format": "Lotion",
+   "keyIngredients": "salicylic acid (BHA) (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "1.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61m7-h29r6L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GZPV2H44",
+  "buyStore": "Amazon",
+  "title": "DERMATOUCH AHA 10% BHA 1% Body Lotion For Men and Women | Body lotion For Dry Skin – De-tan, Moisturizing & Bumpy Skin | Suitable For All Skin Types | 200ml (Pack of 2)",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:kit",
+   "ing:salicylic-acid-bha",
+   "ing:aha",
+   "claim:de-tan",
+   "claim:hydrating",
+   "claim:kp",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:xl",
+   "rating:low",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "fixderma-b0dfyjpc38",
+  "brand": "Fixderma",
+  "model": "Durave 10% AHA + 1% BHA Deep Exfoliating Body Lotion with Lactic & 1% Salicylic Acid | Bod…",
+  "price": 506,
+  "capacityLine": "200 ml",
+  "materialLine": "salicylic acid (BHA) + lactic acid",
+  "featureLine": "Scrub / exfoliant · ₹253/100ml",
+  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.3,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹253/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "salicylic acid (BHA), lactic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51MkaEgVXYL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DFYJPC38",
+  "buyStore": "Amazon",
+  "title": "Fixderma Durave 10% AHA + 1% BHA Deep Exfoliating Body Lotion with Lactic & 1% Salicylic Acid | Body Exfoliator | Body Lotion for Women & Men | Moisturizer for Body for All Skin Types - 200 ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:salicylic-acid-bha",
+   "ing:lactic-acid",
+   "ing:aha",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "generic-b0dqy6lhy9",
+  "brand": "Generic",
+  "model": "1% Salicylic Acid Skin Brightening Body Lotion, Rice Extract with AHA + BHA Reduces Appear…",
+  "price": 299,
+  "capacityLine": "200 ml",
+  "materialLine": "salicylic acid (BHA) + rice water",
+  "featureLine": "Lotion · ₹150/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹150/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹150/100ml",
+   "format": "Lotion",
+   "keyIngredients": "salicylic acid (BHA), rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/6120ctBSR5L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DQY6LHY9",
+  "buyStore": "Amazon",
+  "title": "1% Salicylic Acid Skin Brightening Body Lotion, Rice Extract with AHA + BHA Reduces Appearance of Strawberry Skin, Reduces Pigmentations & Dark Spots, Both Men and Women- 200ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:salicylic-acid-bha",
+   "ing:aha",
+   "ing:rice-water",
+   "ing:strawberry",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:kp",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "moisturex-b0895m1r9r",
+  "brand": "Moisturex",
+  "model": "Soft Lotion - Bottle of 100 ml Lotion",
+  "price": 386,
+  "capacityLine": "100 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · ₹386/100ml",
+  "highlight": "Live Amazon listing rated 4.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Strong buyer rating (4.6)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.2,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹386/100ml",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.6/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41RXI8V1YvL.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0895M1R9R",
+  "buyStore": "Amazon",
+  "title": "Moisturex Soft Lotion - Bottle of 100 ml Lotion",
+  "tags": [
+   "scope:unstated",
+   "format:lotion",
+   "aud:kids",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "moisturex-b08tbbcwmr",
+  "brand": "Moisturex",
+  "model": "Soft Cream, 300gms",
+  "price": 765,
+  "capacityLine": "300 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream / gel · ₹255/100g",
+  "highlight": "Live Amazon listing rated 4.4★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Strong buyer rating (4.4)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.9,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "300 g",
+   "pricePer100": "₹255/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/718Yo3Y22oL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B08TBBCWMR",
+  "buyStore": "Amazon",
+  "title": "Moisturex Soft Cream, 300gms",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "remoiz-b0fwznw92l",
+  "brand": "Remoiz",
+  "model": "Moisturizing Cream with Urea & Natural Hydration Complex | Intensive Hydration for Dry & R…",
+  "price": 466,
+  "capacityLine": "200 g (pack of 2)",
+  "materialLine": "urea",
+  "featureLine": "Cream / gel · ₹233/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹233/100g",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g × 2 pack",
+   "pricePer100": "₹233/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51I6gEGp52L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FWZNW92L",
+  "buyStore": "Amazon",
+  "title": "Remoiz Moisturizing Cream with Urea & Natural Hydration Complex | Intensive Hydration for Dry & Rough Skin | Pack of 2 x 100g",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:kit",
+   "ing:urea",
+   "claim:hydrating",
+   "skin:dry",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "generic-b0dpmr4rsp",
+  "brand": "Generic",
+  "model": "Skin Affairs Velvet Touch Body Lotion for Men & Women – Body lotion for dry skin – Detans,…",
+  "price": 691,
+  "capacityLine": "200 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · ₹346/100ml",
+  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.2,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹346/100ml",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41wqz2ob31L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DPMR4RSP",
+  "buyStore": "Amazon",
+  "title": "Skin Affairs Velvet Touch Body Lotion for Men & Women – Body lotion for dry skin – Detans, Smooths Rough & Bumpy Skin 200ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "claim:de-tan",
+   "claim:kp",
+   "skin:dry",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "wow-b0g3xcbk69",
+  "brand": "Wow",
+  "model": "Skin Science Vegan Nordic Oat Milk Soothing Body Lotion for Dry & Sensitive Skin | 6% Barr…",
+  "price": 319,
+  "capacityLine": "200 ml",
+  "materialLine": "lactic acid + colloidal oatmeal + shea butter",
+  "featureLine": "Lotion · ₹160/100ml",
+  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹160/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.2)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.3,
+   "skin": 4,
+   "ingredients": 6.4,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹160/100ml",
+   "format": "Lotion",
+   "keyIngredients": "lactic acid, colloidal oatmeal, shea butter (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61HVtUNqKUL._SL1024_.jpg",
+   "https://m.media-amazon.com/images/I/61JJnAcqweL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61j379xhQTL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71D3rjUlidL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61HFUq4lkqL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G3XCBK69",
+  "buyStore": "Amazon",
+  "title": "WOW Skin Science Vegan Nordic Oat Milk Soothing Body Lotion for Dry & Sensitive Skin | 6% Barrier Repair Actives with Lactic Acid + Beta Glucan + Shea Butter | Deep Hydration, Barrier Strength & Texture Smoothness | 200 ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:balm",
+   "ing:lactic-acid",
+   "ing:colloidal-oatmeal",
+   "ing:shea-butter",
+   "ing:milk",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "free:vegan",
+   "free:sensitive-safe",
+   "skin:dry",
+   "skin:sensitive",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0dyyrqnhv",
+  "brand": "Buy",
+  "model": "UREA PURA 200 Online at Low Prices in India - Amazon.in",
+  "price": 107,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "urea",
+  "featureLine": "Other",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Other",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41UuE4zo1FL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DYYRQNHV",
+  "buyStore": "Amazon",
+  "title": "Buy UREA PURA 200 Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:unstated",
+   "ing:urea",
+   "aud:unisex",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "remoiz-b0h9m1flrs",
+  "brand": "Remoiz",
+  "model": "Cream with Urea and Natural Moisturizing Factors 100g, Pack of 2 | Pack of 2, Moisturising…",
+  "price": 467,
+  "capacityLine": "200 g (pack of 2)",
+  "materialLine": "urea",
+  "featureLine": "Cream / gel · ₹234/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹234/100g",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g × 2 pack",
+   "pricePer100": "₹234/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/411xbrvYWfL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H9M1FLRS",
+  "buyStore": "Amazon",
+  "title": "Remoiz Cream with Urea and Natural Moisturizing Factors 100g, Pack of 2 | Pack of 2, Moisturising Cream, Urea Formula",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:kit",
+   "ing:urea",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "wow-b07jz23dvy",
+  "brand": "Wow",
+  "model": "Skin Science Shea Butter With Lactic Acid Body Lotion | Hydrates Very Dry Skin | Long Last…",
+  "price": 352,
+  "capacityLine": "400 ml",
+  "materialLine": "lactic acid + shea butter",
+  "featureLine": "Lotion · ₹88/100ml",
+  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹88/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.1,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "400 ml",
+   "pricePer100": "₹88/100ml",
+   "format": "Lotion",
+   "keyIngredients": "lactic acid, shea butter (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/718P47IqeKL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07JZ23DVY",
+  "buyStore": "Amazon",
+  "title": "WOW Skin Science Shea Butter With Lactic Acid Body Lotion | Hydrates Very Dry Skin | Long Lasting 48 hrs Moisturization | Smoothens Rough, Flaky Skin | Calms Itchy Skin - 400ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:balm",
+   "ing:lactic-acid",
+   "ing:shea-butter",
+   "claim:hydrating",
+   "claim:soothing",
+   "claim:long-lasting",
+   "claim:dry-skin-relief",
+   "skin:dry",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "get-b0h2pxlgsg",
+  "brand": "Get",
+  "model": "Nectar Happiness Ceramide AHA 6% + BHA 1% Barrier Repair Body Lotion | Exfoliating & Hydra…",
+  "price": 349,
+  "capacityLine": "400 ml (pack of 2)",
+  "materialLine": "niacinamide + salicylic acid (BHA) + glycolic acid",
+  "featureLine": "Scrub / exfoliant · ₹87/100ml",
+  "highlight": "Live Amazon listing rated 3.8★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹87/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (3.8)",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 6.7,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "200 ml × 2 pack",
+   "pricePer100": "₹87/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "niacinamide, salicylic acid (BHA), glycolic acid, lactic acid, ceramides, rice water (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.8/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/711+Ah9Z8GL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H2PXLGSG",
+  "buyStore": "Amazon",
+  "title": "Get Nectar Happiness Ceramide AHA 6% + BHA 1% Barrier Repair Body Lotion | Exfoliating & Hydrating Moisturizer | 2% Niacinamide, 4% Glycolic Acid, 2% Lactic Acid, 1% Salicylic Acid, Rice Water | 200ml (Pack of 2)",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "ing:glycolic-acid",
+   "ing:lactic-acid",
+   "ing:aha",
+   "ing:ceramides",
+   "ing:rice-water",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "aud:unisex",
+   "size:xl",
+   "rating:3.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "wow-b0dx7c9htc",
+  "brand": "Wow",
+  "model": "Skin Science Shea Butter With Lactic Acid Body Lotion | Hydrates Very Dry Skin | Long Last…",
+  "price": 689,
+  "capacityLine": "800 ml (pack of 2)",
+  "materialLine": "lactic acid + shea butter",
+  "featureLine": "Lotion · ₹86/100ml",
+  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹86/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.2)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.3,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "400 ml × 2 pack",
+   "pricePer100": "₹86/100ml",
+   "format": "Lotion",
+   "keyIngredients": "lactic acid, shea butter (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/716IIzcvVML._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71UKNXElWHL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71QV5GjhWJL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71aXJBefADL._SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/61VIHcL90uL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DX7C9HTC",
+  "buyStore": "Amazon",
+  "title": "WOW Skin Science Shea Butter With Lactic Acid Body Lotion | Hydrates Very Dry Skin | Long Lasting 48 hrs Moisturization | Smoothens Rough, Flaky Skin | Calms Itchy Skin - 400ml (Pack of 2)",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:balm",
+   "format:pack",
+   "format:kit",
+   "ing:lactic-acid",
+   "ing:collagen",
+   "ing:shea-butter",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:long-lasting",
+   "claim:dry-skin-relief",
+   "skin:dry",
+   "skin:all",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "generic-b0g5fgvx1q",
+  "brand": "Generic",
+  "model": "Natural Tea Tree & 1% Lactic Acid Body Lotion – Blemish Control & Brightening | 250 ml (Te…",
+  "price": 699,
+  "capacityLine": "750 ml (pack of 3)",
+  "materialLine": "lactic acid + tea tree",
+  "featureLine": "Lotion · ₹93/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹93/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.8,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "250 ml × 3 pack",
+   "pricePer100": "₹93/100ml",
+   "format": "Lotion",
+   "keyIngredients": "lactic acid, tea tree (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61VOHYDvRXL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G5FGVX1Q",
+  "buyStore": "Amazon",
+  "title": "Natural Tea Tree & 1% Lactic Acid Body Lotion – Blemish Control & Brightening | 250 ml (Tea Tree & Lactic Acid Body Lostion_250 Ml Pack of 3)",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:kit",
+   "ing:lactic-acid",
+   "ing:tea-tree",
+   "claim:brightening",
+   "claim:acne",
+   "aud:unisex",
+   "size:xl",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "generic-b0g157ytp3",
+  "brand": "Generic",
+  "model": "Skin Science Coconut Oil Body Lotion with Lactic Acid | 48HR Moisture Lock with Moisture D…",
+  "price": 219,
+  "capacityLine": "30 ml",
+  "materialLine": "lactic acid",
+  "featureLine": "Oil · ₹730/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "30 ml",
+   "pricePer100": "₹730/100ml",
+   "format": "Oil",
+   "keyIngredients": "lactic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41tV5lIyO4L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G157YTP3",
+  "buyStore": "Amazon",
+  "title": "Skin Science Coconut Oil Body Lotion with Lactic Acid | 48HR Moisture Lock with Moisture Deep Hydration, Non-Sticky Smooth Skin | For Normal to Dry Skin | 30 ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:oil",
+   "ing:lactic-acid",
+   "ing:coconut",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:long-lasting",
+   "skin:dry",
+   "aud:unisex",
+   "size:travel",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "body-b0d79kkf28",
+  "brand": "Body",
+  "model": "Lotion with Ceramide, Lactic Acid, Niacinamide & Hyaluronic Acid for Deep Hydration, Barri…",
+  "price": 549,
+  "capacityLine": "500 ml (pack of 2)",
+  "materialLine": "niacinamide + lactic acid + hyaluronic acid",
+  "featureLine": "Lotion · ₹110/100ml",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹110/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.7,
+   "skin": 4,
+   "ingredients": 6.3,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "250 ml × 2 pack",
+   "pricePer100": "₹110/100ml",
+   "format": "Lotion",
+   "keyIngredients": "niacinamide, lactic acid, hyaluronic acid, ceramides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51c4jM9ejpL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0D79KKF28",
+  "buyStore": "Amazon",
+  "title": "Body Lotion with Ceramide, Lactic Acid, Niacinamide & Hyaluronic Acid for Deep Hydration, Barrier Repair & Dark Spot Reduction, Ultralight, Non-Sticky Body Lotion Smmmoothie, 250ml- Pack of 2",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:lactic-acid",
+   "ing:hyaluronic-acid",
+   "ing:ceramides",
+   "claim:dark-spots",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:barrier",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "rose-b0h4m6cn2h",
+  "brand": "Rose",
+  "model": "Body Lotion with Lactic Acid | Lightweight Moisturizing Formula for Daily Body Care | Non-…",
+  "price": 199,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "lactic acid + rose",
+  "featureLine": "Lotion · Paraben-free",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Paraben-free (per listing)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 5.1,
+   "ingredients": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Lotion",
+   "keyIngredients": "lactic acid, rose (per listing)",
+   "freeFrom": "Paraben-free, Sulfate/SLS-free (per listing)",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61sJQnRWLqL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H4M6CN2H",
+  "buyStore": "Amazon",
+  "title": "Rose Body Lotion with Lactic Acid | Lightweight Moisturizing Formula for Daily Body Care | Non-Greasy Lotion | Sulphate Free & Paraben Free | For Men & Women",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:lactic-acid",
+   "ing:rose",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:lightweight",
+   "free:paraben",
+   "free:sulfate",
+   "aud:women",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": true,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "dermatouch-b0gzqjcrdq",
+  "brand": "Dermatouch",
+  "model": "AHA 10% BHA 1% Body Lotion For Men and Women | Body lotion For Dry Skin – De-tan, Moisturi…",
+  "price": 318,
+  "capacityLine": "200 ml (pack of 2)",
+  "materialLine": "salicylic acid (BHA)",
+  "featureLine": "Lotion · ₹159/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹159/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 ml × 2 pack",
+   "pricePer100": "₹159/100ml",
+   "format": "Lotion",
+   "keyIngredients": "salicylic acid (BHA) (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71aFhvKCHfL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GZQJCRDQ",
+  "buyStore": "Amazon",
+  "title": "DERMATOUCH AHA 10% BHA 1% Body Lotion For Men and Women | Body lotion For Dry Skin – De-tan, Moisturizing & Bumpy Skin | Suitable For All Skin Types | 100ml (Pack of 2)",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:kit",
+   "ing:salicylic-acid-bha",
+   "ing:aha",
+   "claim:de-tan",
+   "claim:hydrating",
+   "claim:kp",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:large",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "major-b071z33z11",
+  "brand": "Major",
+  "model": "Ammonium Lactate 12%, 8oz",
+  "price": 1717,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "ammonium lactate",
+  "featureLine": "Other",
+  "highlight": "Live Amazon listing rated 4.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.6)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Other",
+   "keyIngredients": "ammonium lactate (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.6/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61Zv2gi+QPL._AC_SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71FrCxBGl2L._AC_SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71CE+xLP9lL._AC_SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71jNu3ayTiL._AC_SL1500_.jpg",
+   "https://m.media-amazon.com/images/I/71vMn3oKPyL._AC_SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B071Z33Z11",
+  "buyStore": "Amazon",
+  "title": "Major Ammonium Lactate 12%, 8oz",
+  "tags": [
+   "scope:unstated",
+   "ing:ammonium-lactate",
+   "aud:unisex",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "moisturex-b08k9sdwnm",
+  "brand": "Moisturex",
+  "model": "Soft - Tube of 100Gm Cream",
+  "price": 318,
+  "capacityLine": "100 g",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Cream / gel · ₹318/100g",
+  "highlight": "Live Amazon listing rated 4.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Strong buyer rating (4.6)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.2,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹318/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.6/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/710idruqN3L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B08K9SDWNM",
+  "buyStore": "Amazon",
+  "title": "Moisturex Soft - Tube of 100Gm Cream",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "clear-b0gqcbmbp6",
+  "brand": "Clear",
+  "model": "Skin Salicylic Acid Body Lotion with Lavender, Cedarwood & Red Sandalwood, Lightweight Non…",
+  "price": 284,
+  "capacityLine": "250 ml",
+  "materialLine": "salicylic acid (BHA) + sandalwood",
+  "featureLine": "Lotion · ₹114/100ml",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹114/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "250 ml",
+   "pricePer100": "₹114/100ml",
+   "format": "Lotion",
+   "keyIngredients": "salicylic acid (BHA), sandalwood (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61ehKCzFz+L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GQCBMBP6",
+  "buyStore": "Amazon",
+  "title": "Clear Skin Salicylic Acid Body Lotion with Lavender, Cedarwood & Red Sandalwood, Lightweight Non-Greasy Body Moisturizer for Smooth, Balanced & Hydrated Skin, Daily Use, 250 ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:salicylic-acid-bha",
+   "ing:sandalwood",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:lightweight",
+   "aud:unisex",
+   "size:large",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "perfume-b0gs33zktq",
+  "brand": "Perfume",
+  "model": "Body Lotion with Shea Butter, Cocoa Butter & Hyaluronic Acid | Niacinamide, Caffeine & Sal…",
+  "price": 529,
+  "capacityLine": "200 ml",
+  "materialLine": "niacinamide + salicylic acid (BHA) + hyaluronic acid",
+  "featureLine": "Lotion · ₹265/100ml",
+  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (5.0)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 6.7,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹265/100ml",
+   "format": "Lotion",
+   "keyIngredients": "niacinamide, salicylic acid (BHA), hyaluronic acid, caffeine, shea butter (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "5.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51AIR9WSTRL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61Vd7n11hqL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61DT+oy-UfL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61hQ58DMcKL._SL1080_.jpg",
+   "https://m.media-amazon.com/images/I/61GU9oUbM-L._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GS33ZKTQ",
+  "buyStore": "Amazon",
+  "title": "Perfume Body Lotion with Shea Butter, Cocoa Butter & Hyaluronic Acid | Niacinamide, Caffeine & Salicylic Acid | Deep Moisturizing Brightening Body Lotion for Dry Skin | Long-Lasting Fragrance | Men & Women | 200ml (Daily Dew)",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:balm",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "ing:hyaluronic-acid",
+   "ing:caffeine",
+   "ing:shea-butter",
+   "ing:cocoa-butter",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:barrier",
+   "claim:exfoliating",
+   "skin:dry",
+   "aud:women",
+   "size:large",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "buy-b0c3k3pqlb",
+  "brand": "Buy",
+  "model": "AmLactin Daily Vitamin C Exfoliating & Hydrating AHA Body Lotion, 225 g | 7% Lactic Acid, …",
+  "price": 2299,
+  "capacityLine": "225 g",
+  "materialLine": "vitamin C + lactic acid",
+  "featureLine": "Scrub / exfoliant · ₹1022/100g",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1022/100g",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.7,
+   "skin": 4.5,
+   "ingredients": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "225 g",
+   "pricePer100": "₹1022/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "vitamin C, lactic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Non-comedogenic (per listing)",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71o82hhqc9L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0C3K3PQLB",
+  "buyStore": "Amazon",
+  "title": "Buy AmLactin Daily Vitamin C Exfoliating & Hydrating AHA Body Lotion, 225 g | 7% Lactic Acid, For Normal to Dry Skin, Lightweight, Non-Comedogenic Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:vitamin-c",
+   "ing:lactic-acid",
+   "ing:aha",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "free:non-comedogenic",
+   "skin:dry",
+   "aud:unisex",
+   "size:large",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "aqua-b0fnlh3k1d",
+  "brand": "Aqua",
+  "model": "Glyco Cream with Glycolic Acid, Urea & Cetylated Fatty Ester Complex | Exfoliating & Moist…",
+  "price": 380,
+  "capacityLine": "50 g",
+  "materialLine": "glycolic acid + urea",
+  "featureLine": "Scrub / exfoliant · ₹760/100g",
+  "highlight": "Live Amazon listing rated 2.9★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (2.9)",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "50 g",
+   "pricePer100": "₹760/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "glycolic acid, urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "2.9/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51pbhBjNFsL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FNLH3K1D",
+  "buyStore": "Amazon",
+  "title": "Aqua Glyco Cream with Glycolic Acid, Urea & Cetylated Fatty Ester Complex | Exfoliating & Moisturizing Cream for Rough, Dry & Dull Skin – 50g",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "ing:glycolic-acid",
+   "ing:urea",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "aud:unisex",
+   "size:travel",
+   "rating:low",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "entod-b0fly7n7x4",
+  "brand": "Entod",
+  "model": "Beauty SkinoRita Urea Cream with Natural Moisturizing Factors � Pack of 3 (100g Each, Tota…",
+  "price": 858,
+  "capacityLine": "300 g (pack of 3)",
+  "materialLine": "urea",
+  "featureLine": "Cream / gel · ₹286/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.4,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 g × 3 pack",
+   "pricePer100": "₹286/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "urea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41XLPoAbKWL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FLY7N7X4",
+  "buyStore": "Amazon",
+  "title": "Entod Beauty SkinoRita Urea Cream with Natural Moisturizing Factors � Pack of 3 (100g Each, Total 300g)",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "format:kit",
+   "ing:urea",
+   "claim:hydrating",
+   "aud:unisex",
+   "size:xl",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "berkowits-b0bh8t9f8z",
+  "brand": "Berkowits",
+  "model": "Radiate Lactic Acid Body Lotion With Niacinamide and Vitamin E For Men and Women | 200ml",
+  "price": 474,
+  "capacityLine": "200 ml",
+  "materialLine": "niacinamide + lactic acid + vitamin E",
+  "featureLine": "Lotion · ₹237/100ml",
+  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹237/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 4,
+   "ingredients": 5.9,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹237/100ml",
+   "format": "Lotion",
+   "keyIngredients": "niacinamide, lactic acid, vitamin E (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41aJcEZXACL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0BH8T9F8Z",
+  "buyStore": "Amazon",
+  "title": "Berkowits Radiate Lactic Acid Body Lotion With Niacinamide and Vitamin E For Men and Women | 200ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:niacinamide",
+   "ing:lactic-acid",
+   "ing:vitamin-e",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "dermlogic-b07fc61tyk",
+  "brand": "Dermlogic",
+  "model": "Exfoliating 12% Lactic Acid Body Lotion",
+  "price": 5420,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "lactic acid",
+  "featureLine": "Scrub / exfoliant",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "lactic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51Lx4RLEdeL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B07FC61TYK",
+  "buyStore": "Amazon",
+  "title": "Dermlogic Exfoliating 12% Lactic Acid Body Lotion",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:lactic-acid",
+   "claim:exfoliating",
+   "aud:unisex",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "generic-b0g5ftrdwk",
+  "brand": "Generic",
+  "model": "Natural Tea Tree & 1% Lactic Acid Body Lotion – Blemish Control & Brightening | 250 ml (Te…",
+  "price": 299,
+  "capacityLine": "250 ml",
+  "materialLine": "lactic acid + tea tree",
+  "featureLine": "Lotion · ₹120/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹120/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.8,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "250 ml",
+   "pricePer100": "₹120/100ml",
+   "format": "Lotion",
+   "keyIngredients": "lactic acid, tea tree (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/616jZFlMwkL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G5FTRDWK",
+  "buyStore": "Amazon",
+  "title": "Natural Tea Tree & 1% Lactic Acid Body Lotion – Blemish Control & Brightening | 250 ml (Tea Tree & Lactic Acid Body Lostion_250 Ml Pack of 1)",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:kit",
+   "ing:lactic-acid",
+   "ing:tea-tree",
+   "claim:brightening",
+   "claim:acne",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "generic-b0g5g4c8t8",
+  "brand": "Generic",
+  "model": "Natural Tea Tree & 1% Lactic Acid Body Lotion – Blemish Control & Brightening | 250 ml (Te…",
+  "price": 549,
+  "capacityLine": "500 ml (pack of 2)",
+  "materialLine": "lactic acid + tea tree",
+  "featureLine": "Lotion · ₹110/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹110/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.8,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "250 ml × 2 pack",
+   "pricePer100": "₹110/100ml",
+   "format": "Lotion",
+   "keyIngredients": "lactic acid, tea tree (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim, Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61Zg-2qg25L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0G5G4C8T8",
+  "buyStore": "Amazon",
+  "title": "Natural Tea Tree & 1% Lactic Acid Body Lotion – Blemish Control & Brightening | 250 ml (Tea Tree & Lactic Acid Body Lostion_250 Ml Pack of 2)",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:kit",
+   "ing:lactic-acid",
+   "ing:tea-tree",
+   "claim:brightening",
+   "claim:acne",
+   "aud:unisex",
+   "size:xl",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "biowite-hk-b0gpd6ddwy",
+  "brand": "BIOWITE-HK",
+  "model": "Brightening & Hydrating Lotion | With Kojic Acid & Lactic Acid | Lightweight Fast-Absorbin…",
+  "price": 359,
+  "capacityLine": "50 ml",
+  "materialLine": "lactic acid + kojic acid",
+  "featureLine": "Lotion · ₹718/100ml",
+  "highlight": "Live Amazon listing rated 3.8★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Mixed buyer rating (3.8)",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.9
+  },
+  "fullSpec": {
+   "quantity": "50 ml",
+   "pricePer100": "₹718/100ml",
+   "format": "Lotion",
+   "keyIngredients": "lactic acid, kojic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "3.8/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41nhW7CoqVL._SL1080_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GPD6DDWY",
+  "buyStore": "Amazon",
+  "title": "BIOWITE-HK Brightening & Hydrating Lotion | With Kojic Acid & Lactic Acid | Lightweight Fast-Absorbing Body Lotion for Even-Looking Skin Tone & Smooth Texture | 24 Hour Hydration – 50 ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:lactic-acid",
+   "ing:kojic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:lightweight",
+   "claim:long-lasting",
+   "aud:unisex",
+   "size:travel",
+   "rating:3.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "aravi-b0f679b5dd",
+  "brand": "Aravi",
+  "model": "Organic 10% AHA + 1% BHA Exfoliating Body Lotion With Ceramide, Niacinamide & Shea Butter …",
+  "price": 679,
+  "capacityLine": "400 ml (pack of 2)",
+  "materialLine": "niacinamide + salicylic acid (BHA) + ceramides",
+  "featureLine": "Scrub / exfoliant · ₹170/100ml",
+  "highlight": "Live Amazon listing rated 4.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹170/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.6)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.1,
+   "skin": 4,
+   "ingredients": 6.6,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "200 ml × 2 pack",
+   "pricePer100": "₹170/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "niacinamide, salicylic acid (BHA), ceramides, shea butter (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "4.6/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61n-WJ73riL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F679B5DD",
+  "buyStore": "Amazon",
+  "title": "Aravi Organic 10% AHA + 1% BHA Exfoliating Body Lotion With Ceramide, Niacinamide & Shea Butter | Treats Strawberry Legs & Bumpy Skin | Brightening & Smoothing - Pack of 2 (200 ml Each)",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:balm",
+   "format:kit",
+   "ing:niacinamide",
+   "ing:salicylic-acid-bha",
+   "ing:aha",
+   "ing:ceramides",
+   "ing:shea-butter",
+   "ing:strawberry",
+   "claim:brightening",
+   "claim:exfoliating",
+   "claim:kp",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "dermatouch-b0fvmkx54d",
+  "brand": "Dermatouch",
+  "model": "AHA 10% BHA 1% Body Lotion For Men and Women | Body lotion For Dry Skin – De-tan, Moisturi…",
+  "price": 159,
+  "capacityLine": "100 ml",
+  "materialLine": "salicylic acid (BHA)",
+  "featureLine": "Lotion · ₹159/100ml",
+  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹159/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.3,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹159/100ml",
+   "format": "Lotion",
+   "keyIngredients": "salicylic acid (BHA) (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61V+cXv0ERL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0FVMKX54D",
+  "buyStore": "Amazon",
+  "title": "DERMATOUCH AHA 10% BHA 1% Body Lotion For Men and Women | Body lotion For Dry Skin – De-tan, Moisturizing & Bumpy Skin | Suitable For All Skin Types | 100ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:salicylic-acid-bha",
+   "ing:aha",
+   "claim:de-tan",
+   "claim:hydrating",
+   "claim:kp",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "savlon-b0gxz5ctdw",
+  "brand": "Savlon",
+  "model": "Acne Science Exfoliating Face & Body Acne Wash 250ml | Antibacterial Formula with 1% Salic…",
+  "price": 301,
+  "capacityLine": "250 ml",
+  "materialLine": "salicylic acid (BHA) + lactic acid",
+  "featureLine": "Scrub / exfoliant · ₹120/100ml",
+  "highlight": "Live Amazon listing rated 4.9★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹120/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Dermatologically tested (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.6,
+   "skin": 4.7,
+   "ingredients": 5.5,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "250 ml",
+   "pricePer100": "₹120/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "salicylic acid (BHA), lactic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.9/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/611G-GIxmFL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GXZ5CTDW",
+  "buyStore": "Amazon",
+  "title": "Savlon Acne Science Exfoliating Face & Body Acne Wash 250ml | Antibacterial Formula with 1% Salicylic Acid + 1% Lactic Acid | Helps Fight Acne-Causing Bacteria & Reduce Body Acne in 7 Days | Dermatologically Tested",
+  "tags": [
+   "scope:both",
+   "format:wash",
+   "ing:salicylic-acid-bha",
+   "ing:lactic-acid",
+   "claim:acne",
+   "claim:exfoliating",
+   "free:derm",
+   "aud:unisex",
+   "size:large",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "buy-b0b3j4mrv7",
+  "brand": "Buy",
+  "model": "SUGANDA SKINCARE 5% Lactic acid UNSCENTED EXFOLIATING Body Lotion|Moisturizer with NIACINA…",
+  "price": 1044,
+  "capacityLine": "500 ml",
+  "materialLine": "niacinamide + lactic acid + shea butter",
+  "featureLine": "Scrub / exfoliant · ₹209/100ml",
+  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹209/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.2)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.5,
+   "skin": 4,
+   "ingredients": 6.1,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "500 ml",
+   "pricePer100": "₹209/100ml",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "niacinamide, lactic acid, shea butter (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61DCsqKhoDL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0B3J4MRV7",
+  "buyStore": "Amazon",
+  "title": "Buy SUGANDA SKINCARE 5% Lactic acid UNSCENTED EXFOLIATING Body Lotion|Moisturizer with NIACINAMIDE, SHEA BUTTER & CALENDULA|For STRAWBERRY SKIN improving SKIN-TEXTURE & BRIGHTENING (500ml)|Cruelty-free Online at Low Prices in India - Amazon.in",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:balm",
+   "ing:niacinamide",
+   "ing:lactic-acid",
+   "ing:shea-butter",
+   "ing:strawberry",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:kp",
+   "free:fragrance",
+   "free:vegan",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "be-bodywise-b0ds28v3j5",
+  "brand": "Be Bodywise",
+  "model": "10% Urea Body Lotion 300ml | 48 Hour Dry Skin Relief | For Very Dry & Flaky Skin | With Ce…",
+  "price": 449,
+  "capacityLine": "300 ml",
+  "materialLine": "urea + ceramides",
+  "featureLine": "Lotion · ₹150/100ml",
+  "highlight": "Live Amazon listing rated 4.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹150/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.1,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "300 ml",
+   "pricePer100": "₹150/100ml",
+   "format": "Lotion",
+   "keyIngredients": "urea, ceramides (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61yw1YK82oL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0DS28V3J5",
+  "buyStore": "Amazon",
+  "title": "Be Bodywise 10% Urea Body Lotion 300ml | 48 Hour Dry Skin Relief | For Very Dry & Flaky Skin | With Ceramides, Kokum & Mango Seed Butter | Non-Greasy & Lightweight Formula",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:balm",
+   "ing:urea",
+   "ing:ceramides",
+   "claim:oil-control",
+   "claim:lightweight",
+   "claim:long-lasting",
+   "claim:dry-skin-relief",
+   "skin:dry",
+   "aud:unisex",
+   "size:xl",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "ga-12-b0h3h2xhw9",
+  "brand": "GA-12",
+  "model": "Glycolic Acid Cream For Pigmentation, Bumpy Skin & Acne Scars, 30g By Grow Key (1)",
+  "price": 180,
+  "capacityLine": "30 g",
+  "materialLine": "glycolic acid",
+  "featureLine": "Cream / gel · ₹600/100g",
+  "highlight": "Live Amazon listing rated 4.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.5)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "30 g",
+   "pricePer100": "₹600/100g",
+   "format": "Cream / gel",
+   "keyIngredients": "glycolic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.5/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/613BHMKbxpL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H3H2XHW9",
+  "buyStore": "Amazon",
+  "title": "GA-12 Glycolic Acid Cream For Pigmentation, Bumpy Skin & Acne Scars, 30g By Grow Key (1)",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "ing:glycolic-acid",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:kp",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.5",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "thriveco-itm07988322db2d1",
+  "brand": "ThriveCo",
+  "model": "Smoothing Body Lotion for Dry, Rough & Bumpy skin, Moist …",
+  "price": 341,
+  "capacityLine": "100 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Lotion · Paraben-free · ₹341/100ml",
+  "highlight": "Live Flipkart listing rated 4.7★ by 46 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Paraben-free (per listing)",
+   "Dermatologically tested (per listing)",
+   "Strong buyer rating (4.7)"
+  ],
+  "cons": [
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 5.6,
+   "skin": 5.3,
+   "ingredients": 4.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹341/100ml",
+   "format": "Lotion",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Paraben-free (per listing)",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Marketed for women",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "All Skin Types",
+   "rating": "4.7/5 (46 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/h/r/150-smoothing-body-lotion-for-dry-rough-bumpy-skin-moisturizes-original-imahcze3yjhp99yz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/u/o/n/150-smoothing-body-lotion-for-dry-rough-bumpy-skin-moisturizes-original-imahcze3ydh9wzvh.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/t/0/h/150-smoothing-body-lotion-for-dry-rough-bumpy-skin-moisturizes-original-imahcze383gm5t3t.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/n/i/150-smoothing-body-lotion-for-dry-rough-bumpy-skin-moisturizes-original-imahcze3yd4u7vp4.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/9/m/j/150-smoothing-body-lotion-for-dry-rough-bumpy-skin-moisturizes-original-imahcze3ghkb3kny.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/thriveco-smoothing-body-lotion-dry-rough-bumpy-skin-moisturizes-hydrates-skin/p/itm07988322db2d1",
+  "buyStore": "Flipkart",
+  "title": "ThriveCo Smoothing Body Lotion for Dry, Rough & Bumpy skin, Moist …",
+  "tags": [
+   "scope:both",
+   "format:lotion",
+   "claim:hydrating",
+   "claim:kp",
+   "free:paraben",
+   "free:derm",
+   "free:vegan",
+   "skin:dry",
+   "skin:all",
+   "aud:women",
+   "size:standard",
+   "rating:4.5",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": true,
+   "natural": true,
+   "derm": true,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "ga-b0d473pckh",
+  "brand": "GA",
+  "model": "12 Cream 30g | Glycolic Acid Cream| 12% Glycolic Acid– Intense Exfoliation for Pigmentatio…",
+  "price": 164,
+  "capacityLine": "30 g",
+  "materialLine": "glycolic acid",
+  "featureLine": "Scrub / exfoliant · ₹547/100g",
+  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.2,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "30 g",
+   "pricePer100": "₹547/100g",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "glycolic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Acne/blemish claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.0/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/41olePFq1rL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0D473PCKH",
+  "buyStore": "Amazon",
+  "title": "GA 12 Cream 30g | Glycolic Acid Cream| 12% Glycolic Acid– Intense Exfoliation for Pigmentation, Bumpy Skin & Acne Scars",
+  "tags": [
+   "scope:unstated",
+   "format:cream",
+   "ing:glycolic-acid",
+   "claim:dark-spots",
+   "claim:acne",
+   "claim:exfoliating",
+   "claim:kp",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "wildoak-b0h5rcwx77",
+  "brand": "WildOak",
+  "model": "Brightening Body Serum | 100ml | Glycolic Acid, Niacinamide, Kojic Acid, Alpha Arbutin & T…",
+  "price": 399,
+  "capacityLine": "100 ml",
+  "materialLine": "niacinamide + glycolic acid + kojic acid",
+  "featureLine": "Serum · ₹399/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 6.7,
+   "experience": 5.5
+  },
+  "fullSpec": {
+   "quantity": "100 ml",
+   "pricePer100": "₹399/100ml",
+   "format": "Serum",
+   "keyIngredients": "niacinamide, glycolic acid, kojic acid, alpha arbutin, tranexamic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/71IWJRSEKcL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0H5RCWX77",
+  "buyStore": "Amazon",
+  "title": "WildOak Brightening Body Serum | 100ml | Glycolic Acid, Niacinamide, Kojic Acid, Alpha Arbutin & Tranexamic Acid | Smooths Rough & Bumpy Skin | Reduce Tan & Dark Areas | Hydrates & Evens Skin Tone",
+  "tags": [
+   "scope:body",
+   "format:serum",
+   "ing:niacinamide",
+   "ing:glycolic-acid",
+   "ing:kojic-acid",
+   "ing:alpha-arbutin",
+   "ing:tranexamic-acid",
+   "claim:brightening",
+   "claim:hydrating",
+   "claim:kp",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "boofootel-b0f848nfw8",
+  "brand": "Boofootel",
+  "model": "SOOPERSMOOTH Body Serum for Bumpy Skin, Dark Spots & Pigmentation | Glycolic Acid, Lactic …",
+  "price": 1450,
+  "capacityLine": "100 g",
+  "materialLine": "vitamin C + niacinamide + glycolic acid",
+  "featureLine": "Serum · ₹1450/100g",
+  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.2)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹1450/100g",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.5,
+   "skin": 4,
+   "ingredients": 6.3,
+   "experience": 5.1
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹1450/100g",
+   "format": "Serum",
+   "keyIngredients": "vitamin C, niacinamide, glycolic acid, lactic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.2/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/517N5MTP8NL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0F848NFW8",
+  "buyStore": "Amazon",
+  "title": "Boofootel SOOPERSMOOTH Body Serum for Bumpy Skin, Dark Spots & Pigmentation | Glycolic Acid, Lactic Acid, Vitamin C, Niacinamide | Body Brightening & Dark Spot Serum | Smooth, Even Skin Tone & Ingrown Hair Treatment | 100g",
+  "tags": [
+   "scope:body",
+   "format:serum",
+   "ing:vitamin-c",
+   "ing:niacinamide",
+   "ing:glycolic-acid",
+   "ing:lactic-acid",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:kp",
+   "aud:unisex",
+   "size:standard",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "wishcare-b0gfn18ltf",
+  "brand": "Wishcare",
+  "model": "10% AHA + 1% BHA Body Lotion for Men & Women - Body lotion for dry skin - Detans, Smooths …",
+  "price": 759,
+  "capacityLine": "400 ml (pack of 2)",
+  "materialLine": "salicylic acid (BHA)",
+  "featureLine": "Lotion · ₹190/100ml",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹190/100ml",
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 5.8,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "200 ml × 2 pack",
+   "pricePer100": "₹190/100ml",
+   "format": "Lotion",
+   "keyIngredients": "salicylic acid (BHA) (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51D5AEZPIBL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GFN18LTF",
+  "buyStore": "Amazon",
+  "title": "WishCare 10% AHA + 1% BHA Body Lotion for Men & Women - Body lotion for dry skin - Detans, Smooths Rough & Bumpy Skin 200ml (Pack of 2)",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "format:kit",
+   "ing:salicylic-acid-bha",
+   "ing:aha",
+   "claim:de-tan",
+   "claim:kp",
+   "skin:dry",
+   "aud:women",
+   "size:xl",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "aha-b0gghc89rf",
+  "brand": "AHA",
+  "model": "BHA Body Lotion 200ml Moisturizing Formula for Dry Skin | Helps De-Tan & Smooth Rough, Bum…",
+  "price": 323,
+  "capacityLine": "200 ml",
+  "materialLine": "salicylic acid (BHA)",
+  "featureLine": "Lotion · ₹162/100ml",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹162/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹162/100ml",
+   "format": "Lotion",
+   "keyIngredients": "salicylic acid (BHA) (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/518XD85UeML._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GGHC89RF",
+  "buyStore": "Amazon",
+  "title": "AHA BHA Body Lotion 200ml Moisturizing Formula for Dry Skin | Helps De-Tan & Smooth Rough, Bumpy Skin | Smooth, Radiant & Healthy Looking Skin | Non-Greasy Formula",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:salicylic-acid-bha",
+   "ing:aha",
+   "claim:de-tan",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:kp",
+   "skin:dry",
+   "aud:unisex",
+   "size:large",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "moody-b0cnxvlk1s",
+  "brand": "Moody",
+  "model": "AcneXpert 5% AHA Body Lotion with Salicylic Acid & Green Tea | Body Lotion for Acne Prone …",
+  "price": 249,
+  "capacityLine": "200 ml",
+  "materialLine": "salicylic acid (BHA) + green tea",
+  "featureLine": "Lotion · ₹125/100ml",
+  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Good value: ₹125/100ml",
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.4,
+   "skin": 4,
+   "ingredients": 5.5,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "200 ml",
+   "pricePer100": "₹125/100ml",
+   "format": "Lotion",
+   "keyIngredients": "salicylic acid (BHA), green tea (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Acne/blemish claim",
+   "audience": "Marketed for women",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.1/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/51OK1am3nJL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0CNXVLK1S",
+  "buyStore": "Amazon",
+  "title": "Moody AcneXpert 5% AHA Body Lotion with Salicylic Acid & Green Tea | Body Lotion for Acne Prone Skin | Helps Reduce Body Acne, Strawberry Legs & Rough Texture | 48-Hour Moisturization for Men & Women | 200ml",
+  "tags": [
+   "scope:body",
+   "format:lotion",
+   "ing:salicylic-acid-bha",
+   "ing:aha",
+   "ing:green-tea",
+   "ing:strawberry",
+   "claim:acne",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "claim:kp",
+   "skin:acne-prone",
+   "aud:women",
+   "size:large",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": true
+  }
+ },
+ {
+  "id": "retiswis-b0c783x32f",
+  "brand": "Retiswis",
+  "model": "Retinol Mandelic-Acid Glycolic Acid Azelaic Acid Ammonium Lactate Exfoliates Dead-Skin Hel…",
+  "price": 1200,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "retinol + glycolic acid + mandelic acid",
+  "featureLine": "Scrub / exfoliant",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 6.3,
+   "experience": 4.5
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Scrub / exfoliant",
+   "keyIngredients": "retinol, glycolic acid, mandelic acid, ammonium lactate (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/412hRyx0f4L._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0C783X32F",
+  "buyStore": "Amazon",
+  "title": "Retiswis Retinol Mandelic-Acid Glycolic Acid Azelaic Acid Ammonium Lactate Exfoliates Dead-Skin Helps Stimulate Growth Pack of 2",
+  "tags": [
+   "scope:unstated",
+   "format:kit",
+   "ing:retinol",
+   "ing:glycolic-acid",
+   "ing:mandelic-acid",
+   "ing:azelaic-acid",
+   "ing:ammonium-lactate",
+   "claim:exfoliating",
+   "aud:unisex",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "fab-b08gns58pq",
+  "brand": "FAB",
+  "model": "KP BUMP ERASER 10% AHA 2OZ 56.7 ML",
+  "price": 1400,
+  "capacityLine": "7 ml",
+  "materialLine": "Key ingredients not stated",
+  "featureLine": "Other · ₹20000/100ml",
+  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Pricey: ₹20000/100ml",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 4.7,
+   "skin": 4,
+   "ingredients": 4,
+   "experience": 4.2
+  },
+  "fullSpec": {
+   "quantity": "7 ml",
+   "pricePer100": "₹20000/100ml",
+   "format": "Other",
+   "keyIngredients": "Not stated in listing",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Not stated in listing",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (Amazon)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61gB6JTv5BL._AC_UL320_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B08GNS58PQ",
+  "buyStore": "Amazon",
+  "title": "FAB KP BUMP ERASER 10% AHA 2OZ 56.7 ML",
+  "tags": [
+   "scope:unstated",
+   "ing:aha",
+   "claim:kp",
+   "aud:unisex",
+   "size:travel",
+   "rating:4.0",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": false,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "virtues-b0gzfbd73m",
+  "brand": "Virtues",
+  "model": "Sunscreen Lotion SPF-50 with Niacinamide, Lactic Acid, Ginger Extract & Turmeric Extract, …",
+  "price": 288,
+  "capacityLine": "100 g",
+  "materialLine": "niacinamide + lactic acid + turmeric",
+  "featureLine": "Sunscreen · ₹288/100g",
+  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)"
+  ],
+  "cons": [
+   "No free-from claims in listing",
+   "Marketplace brand — limited track record"
+  ],
+  "scores": {
+   "trust": 3.9,
+   "skin": 4,
+   "ingredients": 6.2,
+   "experience": 4.8
+  },
+  "fullSpec": {
+   "quantity": "100 g",
+   "pricePer100": "₹288/100g",
+   "format": "Sunscreen",
+   "keyIngredients": "niacinamide, lactic acid, turmeric (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Brightening/glow claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
+   "skinType": "Not stated in listing",
+   "rating": "No rating yet",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://m.media-amazon.com/images/I/61BXjbzLWBL._SL1500_.jpg"
+  ],
+  "buyUrl": "https://www.amazon.in/dp/B0GZFBD73M",
+  "buyStore": "Amazon",
+  "title": "Virtues Sunscreen Lotion SPF-50 with Niacinamide, Lactic Acid, Ginger Extract & Turmeric Extract, 100g",
+  "tags": [
+   "scope:unstated",
+   "format:lotion",
+   "ing:niacinamide",
+   "ing:lactic-acid",
+   "ing:turmeric",
+   "claim:brightening",
+   "claim:dark-spots",
+   "claim:barrier",
+   "claim:soothing",
+   "claim:exfoliating",
+   "claim:broad-spectrum",
+   "aud:unisex",
+   "size:standard",
+   "rating:none",
+   "store:amazon"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": true,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ }
+];

@@ -1,138 +1,17 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Men's Skincare Routines — Ranked</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Doto:wght@400..700&family=Space+Grotesk:wght@300;400;500&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
-  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Crect width='16' height='16' fill='%23000'/%3E%3Ccircle cx='8' cy='8' r='4' fill='none' stroke='%23E8E8E8' stroke-width='1.5'/%3E%3C/svg%3E" />
-  <link rel="stylesheet" href="styles.css" />
-</head>
-<body>
-  <div class="dev-banner">[DEV MODE] SCORE TABLE LOGGED TO CONSOLE</div>
-  <nav class="site-nav">
-    <a href="index.html" class="nav-link active" aria-current="page">ROUTINES</a>
-    <a href="body-wash.html" class="nav-link">BODY WASH &rarr;</a>
-    <a href="de-tan.html" class="nav-link">DE-TAN &rarr;</a>
-    <a href="pigmentation.html" class="nav-link">OLD TAN / PIGMENTATION &rarr;</a>
-    <a href="#categories" class="nav-link">PRODUCT CATEGORIES &darr;</a>
-  </nav>
-  <header>
-    <div class="masthead">
-      <span class="label">SKINCARE / ROUTINES FROM AROUND THE WORLD, NOT PRODUCTS</span>
-      <span class="label">RESEARCHED LIVE IN BROWSER · 2026</span>
-    </div>
-    <div class="hero">
-      <span class="hero-number">142</span>
-      <div class="hero-side">
-        <h1>What to do, when — worldwide.<br>Ranked honestly.</h1>
-        <p class="hero-sub">142 published skincare routines and routine models from around the world — every page read
-          live in the browser: the American Academy of Dermatology, Mayo Clinic, Cleveland Clinic, Harvard Health,
-          National Eczema Association, National Rosacea Society and peer-reviewed research (the Hughes 2013 daily-sunscreen
-          RCT, tretinoin evidence, smoking-and-skin-aging); world systems from Korea (10-step, 7-skin, glass skin, hanbang,
-          cica), Japan (kasanezuke, mochi-skin philosophy), France, Germany, India (Dinacharya, ubtan, monsoon), Morocco's
-          hammam, Turkey's hammam, the Russian banya, ancient Egypt, Persia, the Philippines, Vietnam, Mexico, Poland, Greece,
-          Indonesia's lulur, Myanmar's thanaka, Nordic minimalism, Finnish sauna, Australia's SunSmart 5 S's and more;
-          named methods and trends (skin cycling, slugging, flooding, fasting, streaming, sandwiching, caveman, 60-second rule, double moisturizing, jade rolling, Kobido, face yoga, face plunges);
-          skin-type, concern and body-area routines; and occasion/climate routines from weddings, festivals, beach days,
-          flights and night shifts to winter, summer, monsoon, high-altitude and air-conditioned offices. Every step carries one of 21 phase labels —
-          REMOVE → CLEANSE → BATHE → EXFOLIATE → STEAM → TONE → ESSENCE → MIST → SERUM → RETINOID → SPOT → TREAT → MASK → MASSAGE → COLD → EYE → SEAL → OIL → PROTECT, plus SHAVE, HABITS and CARE — and is transcribed exactly
-          as its source prescribes it, never invented. Ranked with evidence &amp; authorship weighted highest.
-          General published guidance, not a personal prescription — persistent skin issues belong with a
-          board-certified dermatologist.</p>
-      </div>
-    </div>
-    <div class="masthead tags">
-      <span class="tag">EVIDENCE 30%</span>
-      <span class="tag">COVERAGE 24%</span>
-      <span class="tag">ADHERENCE 20%</span>
-      <span class="tag">SOURCE-LINKED</span>
-      <span class="tag">NOTHING INVENTED</span>
-    </div>
-  </header>
-
-  <div class="controls">
-    <select id="sort" aria-label="Sort">
-      <option value="score">SORT: OVERALL SCORE</option>
-      <option value="evidence">SORT: EVIDENCE &amp; AUTHORSHIP</option>
-      <option value="coverage">SORT: COVERAGE</option>
-      <option value="adherence">SORT: SIMPLICITY</option>
-      <option value="timeAsc">SORT: QUICKEST FIRST</option>
-      <option value="timeDesc">SORT: MOST THOROUGH FIRST</option>
-    </select>
-    <select id="category" aria-label="Category">
-      <option value="all">CATEGORY: ALL</option>
-      <option value="core">CORE DAILY</option>
-      <option value="global">WORLD STYLES (K/J/FR/AYUR)</option>
-      <option value="method">NAMED METHODS</option>
-      <option value="occasion">OCCASIONS &amp; CLIMATE</option>
-      <option value="concern">CONCERN-DRIVEN</option>
-    </select>
-    <select id="type" aria-label="Filter">
-      <option value="all">FILTER: ALL</option>
-      <option value="aad">AAD-AUTHORED ONLY</option>
-      <option value="spf">DAILY SPF BUILT IN</option>
-      <option value="exfoliation">INCLUDES EXFOLIATION</option>
-      <option value="actives">USES ACTIVE INGREDIENTS</option>
-      <option value="quick">QUICK (&le;6 STEPS/DAY)</option>
-      <option value="shaving">COVERS SHAVING</option>
-    </select>
-    <label class="label">MAX STEPS/DAY <input type="range" id="maxSteps" min="3" max="19" step="1" value="19" />
-      <span id="maxStepsLabel" class="mono-val">19 steps</span></label>
-    <span id="count" class="tag"></span>
-  </div>
-
-  <main>
-    <h2 class="section-title" id="categories">PRODUCT RANKINGS &mdash; SHOP BY CATEGORY</h2>
-    <p class="note">Every product type from the routines gets its own ranked page &mdash; 23,500+ live Flipkart + Amazon listings
-      visited in the browser, scored from real listing signals, never invented. Plus body wash, de-tan and the pigmentation protocol.</p>
-    <div class="cat-hub">
-      <a class="cat-card" href="facewash.html"><span class="cat-count">2,060</span><span class="cat-name">FACE WASH / CLEANSER</span><span class="cat-desc">Washes, balms &amp; micellar waters</span></a>
-      <a class="cat-card" href="toner.html"><span class="cat-count">2,027</span><span class="cat-name">TONER</span><span class="cat-desc">Toners, rose waters &amp; tonics</span></a>
-      <a class="cat-card" href="essence.html"><span class="cat-count">257</span><span class="cat-name">ESSENCE</span><span class="cat-desc">Snail mucin, rice &amp; K-beauty layers</span></a>
-      <a class="cat-card" href="vitaminc.html"><span class="cat-count">2,199</span><span class="cat-name">VITAMIN C</span><span class="cat-desc">Brightening serums &amp; creams</span></a>
-      <a class="cat-card" href="niacinamide.html"><span class="cat-count">3,230</span><span class="cat-name">NIACINAMIDE</span><span class="cat-desc">Barrier + dark-spot serums</span></a>
-      <a class="cat-card" href="retinol.html"><span class="cat-count">1,347</span><span class="cat-name">RETINOL</span><span class="cat-desc">Retinoids &amp; bakuchiol</span></a>
-      <a class="cat-card" href="exfoliator.html"><span class="cat-count">1,938</span><span class="cat-name">EXFOLIATOR / AHA</span><span class="cat-desc">Scrubs, peels &amp; AHA serums</span></a>
-      <a class="cat-card" href="salicylic.html"><span class="cat-count">1,971</span><span class="cat-name">SALICYLIC / BHA</span><span class="cat-desc">Acne &amp; pore liquid exfoliants</span></a>
-      <a class="cat-card" href="moisturizer.html"><span class="cat-count">2,765</span><span class="cat-name">MOISTURIZER</span><span class="cat-desc">Day, night, gel &amp; ceramide creams</span></a>
-      <a class="cat-card" href="sunscreen.html"><span class="cat-count">2,923</span><span class="cat-name">SUNSCREEN</span><span class="cat-desc">The non-negotiable daily SPF</span></a>
-      <a class="cat-card" href="facemask.html"><span class="cat-count">1,335</span><span class="cat-name">FACE MASK</span><span class="cat-desc">Sheet, clay &amp; sleeping masks</span></a>
-      <a class="cat-card" href="eyecream.html"><span class="cat-count">917</span><span class="cat-name">EYE CREAM</span><span class="cat-desc">Under-eye &amp; dark-circle care</span></a>
-      <a class="cat-card" href="faceoil.html"><span class="cat-count">630</span><span class="cat-name">FACE OIL</span><span class="cat-desc">Squalane, rosehip &amp; kumkumadi</span></a>
-      <a class="cat-card" href="body-wash.html"><span class="cat-count">1,932</span><span class="cat-name">BODY WASH</span><span class="cat-desc">Shower gels &amp; body cleansers</span></a>
-      <a class="cat-card" href="de-tan.html"><span class="cat-count">2,236</span><span class="cat-name">DE-TAN</span><span class="cat-desc">Packs, scrubs &amp; kits</span></a>
-      <a class="cat-card" href="pigmentation.html"><span class="cat-count">8,285</span><span class="cat-name">OLD TAN / PIGMENTATION</span><span class="cat-desc">The 4-step fading protocol</span></a>
-    </div>
-
-    <h2 class="section-title">RANKED ROUTINES</h2>
-    <div id="cards" class="grid"></div>
-
-    <h2 class="section-title">FULL COMPARISON TABLE</h2>
-    <p class="note">Every routine dimension, side by side. Click column headers to sort; first columns stay pinned on desktop.</p>
-    <div id="table" class="table-wrap"></div>
-  </main>
-
-  <footer>
-    <span class="label">WEIGHTS</span> Evidence 30 · Coverage 24 · Adherence 20 · Skin-type fit 14 · Time cost 12<br />
-    <span class="label">SOURCES</span> AAD patient guidance, Cleveland Clinic (Dr. Wu), Mayo Clinic, Healthline (medically
-    reviewed), Vogue (Drs. Camp &amp; Gratch), Dr. Whitney Bowe (Skin Cycling), Dr. Muneeb Shah (Slugging), Dr. Heather Rogers
-    (event prep), Dr. Nkem Ugonabo (Skinimalism), CeraVe, Dermalogica, Evolve, KoreaPeek, J-Beauty Decoded, French Girl Beauty,
-    Care to Beauty, OneKind, Healf, Zennora, Art of Vedas, Harvard Health, Cancer Council Australia, National Eczema Association,
-    National Rosacea Society, AASM, PubMed/PMC peer-reviewed papers, Westlake / West / Rao dermatology practices, Doctor Anne (MD),
-    plus clearly-labelled editorial, brand and traditional/cultural sources (scored lower on evidence) — all pages read live in the
-    browser, 2026. Every card links to its source.<br />
-    <span class="label">HONESTY</span> Steps are transcribed from the sources, never invented; missing fields say "Not stated in source".
-    This is general published guidance, not medical advice — see a board-certified dermatologist for persistent concerns.
-  </footer>
-
-  <script src="data.js"></script>
-  <script src="data2.js"></script>
-  <script src="data3.js"></script>
-  <script src="data4.js"></script>
-  <script src="scoring.js"></script>
-  <script src="app.js"></script>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="description" content="Skincare routines from around the world, ranked — plus 40,000 live Flipkart and Amazon.in skincare listings ranked by trust, skin safety and actives. Nothing invented." />
+    <title>Skincare — routines & product rankings, India</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Doto:wght@400..700&family=Space+Grotesk:wght@300;400;500&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
 </html>
