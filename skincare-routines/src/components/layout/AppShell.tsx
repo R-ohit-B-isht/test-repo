@@ -17,7 +17,8 @@ export function AppShell() {
   useEffect(() => { window.scrollTo({ top: 0, behavior: 'instant' }); }, [pathname]);
   return (
     <div className="min-h-dvh">
-      <a href="#main" className="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[60] focus:rounded focus:bg-primary focus:px-3 focus:py-2 focus:text-black">Skip to content</a>
+      <button type="button" onClick={() => document.getElementById('main')?.focus()}
+        className="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[60] focus:rounded focus:bg-primary focus:px-3 focus:py-2 focus:text-black">Skip to content</button>
       <header className="sticky top-0 z-40 border-b border-line bg-black/85 backdrop-blur-md">
         <div className="mx-auto flex h-14 max-w-[1440px] items-center justify-between gap-4 px-4 sm:px-6">
           <NavLink to="/" className="flex items-center gap-2">
@@ -34,7 +35,7 @@ export function AppShell() {
           </nav>
         </div>
       </header>
-      <main id="main" className="mx-auto max-w-[1440px] px-4 pb-24 sm:px-6">
+      <main id="main" tabIndex={-1} className="outline-none mx-auto max-w-[1440px] px-4 pb-24 sm:px-6">
         <Outlet />
       </main>
       <footer className="border-t border-line">
