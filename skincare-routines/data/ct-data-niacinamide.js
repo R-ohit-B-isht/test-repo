@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-03.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-04.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -2175,7 +2175,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-itm47f23270b84ff",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "DeTan Facewash, With Niacinamide & Vitamin C, Reduces Tan …",
   "price": 156,
   "capacityLine": "Quantity not stated",
@@ -5890,7 +5890,7 @@ const CTPRODUCTS = [
  {
   "id": "tnw-itm5c38f22700281",
   "brand": "TNW",
-  "model": "- The Natural Wash Vitamin C Face Toner With Niacinamide & Wi …",
+  "model": "The Natural Wash Vitamin C Face Toner With Niacinamide & Wi …",
   "price": 258,
   "capacityLine": "Quantity not stated",
   "materialLine": "vitamin C + niacinamide",
@@ -37405,8 +37405,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-itm42641b2ff9040",
-  "brand": "Lakmé",
+  "id": "lakme-itm42641b2ff9040",
+  "brand": "Lakme",
   "model": "Perfect Radiance Day Gel Cream,10% Niacinamide Resorcinol C …",
   "price": 99,
   "capacityLine": "Quantity not stated",
@@ -37419,11 +37419,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 6.3,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.5
@@ -40508,7 +40507,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b0c6qhp7vk",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Detan Face Wash for Tan Removal in Just 7 Days | Contains Vitamin C and Niacinamide | Face…",
   "price": 148,
   "capacityLine": "100 g",
@@ -50026,7 +50025,7 @@ const CTPRODUCTS = [
  {
   "id": "plix-b0crz8bvn7",
   "brand": "PLIX",
-  "model": "- THE PLANT FIX Jamun Clarifying Fruity Toner (150 Ml)|With Niacinamide & Jamun Extract|Ta…",
+  "model": "THE PLANT FIX Jamun Clarifying Fruity Toner (150 Ml)|With Niacinamide & Jamun Extract|Targ…",
   "price": 209,
   "capacityLine": "150 ml",
   "materialLine": "niacinamide",
@@ -55783,7 +55782,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "paula-s-choice-b008eppiq4",
-  "brand": "Paula'S Choice",
+  "brand": "Paula's Choice",
   "model": "Skin Balancing Pore-Reducing Face Toner with Niacinamide, for Oily Skin & Combination, Min…",
   "price": 2230,
   "capacityLine": "190 ml",
@@ -60260,7 +60259,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "nature-s-essence-b0b42dcvq9",
-  "brand": "Nature'S Essence",
+  "brand": "Nature's Essence",
   "model": "10% Niacinamide Anti Pigmentation Serum | Face Serum for Acne & Blemishes, 30ml",
   "price": 95,
   "capacityLine": "30 ml",
@@ -61006,9 +61005,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b0cnjy38gh",
-  "brand": "Nature’s",
-  "model": "Essence Vitamin C Serum Face Cream | Infused with Yuzu Lemon & Niacinamide | Brightens & G…",
+  "id": "nature-s-essence-b0cnjy38gh",
+  "brand": "Nature's Essence",
+  "model": "Vitamin C Serum Face Cream | Infused with Yuzu Lemon & Niacinamide | Brightens & Gives Glo…",
   "price": 62,
   "capacityLine": "25 g",
   "materialLine": "vitamin C + niacinamide",
@@ -61020,11 +61019,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Mixed buyer rating (3.8)",
-   "Marketplace brand — limited track record"
+   "Mixed buyer rating (3.8)"
   ],
   "scores": {
-   "trust": 3.9,
+   "trust": 5,
    "skin": 4,
    "ingredients": 5.5,
    "experience": 4.8
@@ -84567,7 +84565,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b0bv23kfgy",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Serum boost sunscreen For All skin types prevent and fade dark patches with the power of S…",
   "price": 309,
   "capacityLine": "100 g",
@@ -85527,7 +85525,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0fp44pkg5",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Centella & 10% Niacinamide Face Serum | Oil & Sebum Control | Acne Scars, Acne Marks, Redn…",
   "price": 439,
   "capacityLine": "30 ml",
@@ -106905,8 +106903,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b0gf24dvdk",
-  "brand": "L'Oréal",
+  "id": "l-oreal-b0gf24dvdk",
+  "brand": "L'Oreal",
   "model": "Paris Glycolic-Bright Anti Dark Spot Exfoliant Peel, 25ml | 15% AHA + BHA + PHA + Niacinam…",
   "price": 785,
   "capacityLine": "25 ml",
@@ -106918,11 +106916,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Pricey: ₹3140/100ml",
-   "Marketplace brand — limited track record"
+   "Pricey: ₹3140/100ml"
   ],
   "scores": {
-   "trust": 4.2,
+   "trust": 6,
    "skin": 4,
    "ingredients": 6.3,
    "experience": 4.8
@@ -118942,7 +118939,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b077nd8562",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Bright Beauty Day Cream 35 g, Non-Oily, Mattifying Daily Face Moisturizer, SPF 15 - With N…",
   "price": 164,
   "capacityLine": "35 g",
@@ -122373,7 +122370,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0b8s53p74",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Haldi & Hyaluronic Acid Oil-Free Face Moisturizer for All Skin Types | With Niacinamide | …",
   "price": 314,
   "capacityLine": "50 g",
@@ -127262,8 +127259,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b0dq47xl51",
-  "brand": "LAKMÉ",
+  "id": "lakme-b0dq47xl51",
+  "brand": "Lakme",
   "model": "Perfect Radiance Brightening Day Cream 15G With Niacinamide For Pigmentation, Moisturiser …",
   "price": 168,
   "capacityLine": "30 g (pack of 2)",
@@ -127274,11 +127271,10 @@ const CTPRODUCTS = [
    "Contains evidence-backed actives (per listing)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.4,
+   "trust": 6.1,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.9
@@ -127390,7 +127386,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b099qvjgcr",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Bright Beauty Light Cream with UV Filter | Niasorcinol | 100x Better than Vitamin C | Niac…",
   "price": 215,
   "capacityLine": "50 g",
@@ -127787,7 +127783,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b00u1cbumo",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Bright Beauty Spf 15 Day Cream 50 G, Non-Oily, Mattifying Daily Face Moisturizer - With Ni…",
   "price": 242,
   "capacityLine": "50 g",
@@ -128537,8 +128533,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b0bxd1nxqr",
-  "brand": "LAKMÉ",
+  "id": "lakme-b0bxd1nxqr",
+  "brand": "Lakme",
   "model": "Skin Solutions Sheet Mask Brightening with Niacinamide 25ml",
   "price": 100,
   "capacityLine": "25 ml",
@@ -128550,11 +128546,10 @@ const CTPRODUCTS = [
    "Strong buyer rating (4.3)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.7,
+   "trust": 6.5,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.5
@@ -144126,7 +144121,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b0d3jc7hbp",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Hydra Miracle Hydrating Gel Body Lotion | Gives Hydrated Plump Skin| Hyaluronic Acid & Vit…",
   "price": 177,
   "capacityLine": "180 ml",
@@ -158315,9 +158310,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "dr-itm192723e4b069d",
-  "brand": "Dr.",
-  "model": "Sheth’s Sunscreen - SPF 50 PA+++ Centella & Niacinamide Oil & …",
+  "id": "dr-sheth-s-itm192723e4b069d",
+  "brand": "Dr. Sheth's",
+  "model": "Sunscreen - SPF 50 PA+++ Centella & Niacinamide Oil & …",
   "price": 629,
   "capacityLine": "Quantity not stated",
   "materialLine": "niacinamide + centella/cica",
@@ -158329,11 +158324,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 5.6,
    "skin": 4,
    "ingredients": 5.5,
    "experience": 5.3
@@ -174373,8 +174367,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-itm7ec672469c143",
-  "brand": "Lakmé",
+  "id": "lakme-itm7ec672469c143",
+  "brand": "Lakme",
   "model": "Perfect Radiance Serum with 15% Niacinamide Resorcinol Pro …",
   "price": 256,
   "capacityLine": "Quantity not stated",
@@ -174387,11 +174381,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 6.3,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.8
@@ -178746,9 +178739,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "dr-itmc8b7d134d78b3",
-  "brand": "Dr.",
-  "model": "Sheth’s Niacinamide Moisturizing Cream | 48-Hour* Hydration ( …",
+  "id": "dr-sheth-s-itmc8b7d134d78b3",
+  "brand": "Dr. Sheth's",
+  "model": "Niacinamide Moisturizing Cream | 48-Hour* Hydration ( …",
   "price": 434,
   "capacityLine": "100 g",
   "materialLine": "niacinamide",
@@ -178758,11 +178751,10 @@ const CTPRODUCTS = [
    "Contains evidence-backed actives (per listing)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.4,
+   "trust": 5.4,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.6
@@ -178878,8 +178870,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-itm0b8ea86dd4cb9",
-  "brand": "Lakmé",
+  "id": "lakme-itm0b8ea86dd4cb9",
+  "brand": "Lakme",
   "model": "Perfect Radiance Brightening Night Cream with Niacinamide F …",
   "price": 412,
   "capacityLine": "Quantity not stated",
@@ -178892,11 +178884,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.7,
+   "trust": 6.5,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.5
@@ -188643,7 +188634,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0bk1nz259",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Kesar & 2% Kojic Acid Daily Pigmentation Correction Face Cream | Lightweight & Non-Greasy …",
   "price": 299,
   "capacityLine": "30 g",
@@ -198510,8 +198501,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b0744r95bt",
-  "brand": "Lakmē",
+  "id": "lakme-b0744r95bt",
+  "brand": "Lakme",
   "model": "Water Light Gel In-Vivo tested SPF 50 PA++++ Sunscreen with Niacinamide For Oily Skin 50g",
   "price": 212,
   "capacityLine": "50 g",
@@ -198522,11 +198513,10 @@ const CTPRODUCTS = [
    "Contains evidence-backed actives (per listing)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.4,
+   "trust": 6.1,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.6
@@ -198701,8 +198691,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b085wjvx7c",
-  "brand": "Lakmé",
+  "id": "lakme-b085wjvx7c",
+  "brand": "Lakme",
   "model": "Tinted Sunscreen SPF 50 PA++++ | Niacinamide | Even Tone | In-Vivo Tested | No White Cast …",
   "price": 209,
   "capacityLine": "50 ml",
@@ -198713,11 +198703,10 @@ const CTPRODUCTS = [
    "Contains evidence-backed actives (per listing)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.4,
+   "trust": 6.1,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.6
@@ -199466,7 +199455,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b0d3jbpzlv",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "SUN MIRACLE SPF 50 PA+++ LIGHTWEIGHT SUNSCREEN BODY LOTION, PROTECTS FROM UVA/UVB RAYS, 1%…",
   "price": 410,
   "capacityLine": "90 ml",
@@ -199745,8 +199734,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b0cs6nqtfj",
-  "brand": "Lakmē",
+  "id": "lakme-b0cs6nqtfj",
+  "brand": "Lakme",
   "model": "5% Niacinamide & VIT C water-light Sunscreen gel SPF 50 Pa++++In-Vivo tested, 2X Glow,56G",
   "price": 275,
   "capacityLine": "56 g",
@@ -199757,11 +199746,10 @@ const CTPRODUCTS = [
    "Contains evidence-backed actives (per listing)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.2,
+   "trust": 6,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.9
@@ -199812,7 +199800,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b0bv24b5jy",
-  "brand": "POND’S",
+  "brand": "Pond's",
   "model": "Sun Miracle SPF 50 PA+++ Crème Gel Sunscreen-Protect & Bright, With 3% Niacinamide, Fade D…",
   "price": 241,
   "capacityLine": "100 g",
@@ -199824,11 +199812,10 @@ const CTPRODUCTS = [
    "Contains evidence-backed actives (per listing)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.2,
+   "trust": 6,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.6
@@ -201823,7 +201810,7 @@ const CTPRODUCTS = [
  {
   "id": "asaya-b0d6gnk61w",
   "brand": "ASAYA",
-  "model": "| Spot Light Depigmenting Sunscreen SPF 50 PA++++ | In-VIVO Tested | Niacinamide + Licoric…",
+  "model": "Spot Light Depigmenting Sunscreen SPF 50 PA++++ | In-VIVO Tested | Niacinamide + Licorice …",
   "price": 399,
   "capacityLine": "50 g",
   "materialLine": "niacinamide + licorice",
@@ -203248,7 +203235,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0c7qpw7zk",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Gulab & 6% Glycolic Acid & 5% Niacinamide Instant Brightening Face Serum | Improves Skin T…",
   "price": 374,
   "capacityLine": "30 ml",
@@ -216286,7 +216273,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0dlw7t8z7",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Centella And Niacinamide Moisturizing Cream |For Oily & Acne Prone Skin | Fades Acne Marks…",
   "price": 262,
   "capacityLine": "50 g",
@@ -220886,7 +220873,7 @@ const CTPRODUCTS = [
  {
   "id": "radiance-b0hgfxg54t",
   "brand": "Radiance",
-  "model": ", Hydration & UV Defence Combo | 30ml Serum + 50ml Moisturizer + 50ml Sunscreen SPF 50 PA+…",
+  "model": "Hydration & UV Defence Combo | 30ml Serum + 50ml Moisturizer + 50ml Sunscreen SPF 50 PA+++…",
   "price": 960,
   "capacityLine": "30 ml",
   "materialLine": "vitamin C + niacinamide + hyaluronic acid",
@@ -224889,7 +224876,7 @@ const CTPRODUCTS = [
  {
   "id": "aha-b0dqjgsv7y",
   "brand": "AHA",
-  "model": "|BHA Body Lotion 50 ml, 10% AHA, 2% BHA, Niacinamide, Milk Protien, Ceramide Complex With …",
+  "model": "BHA Body Lotion 50 ml, 10% AHA, 2% BHA, Niacinamide, Milk Protien, Ceramide Complex With E…",
   "price": 149,
   "capacityLine": "50 ml",
   "materialLine": "niacinamide + salicylic acid (BHA) + ceramides",
@@ -226859,8 +226846,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b00cs1km8y",
-  "brand": "Lakmē",
+  "id": "lakme-b00cs1km8y",
+  "brand": "Lakme",
   "model": "Sun Expert SPF 30 PA++ Ultra Matte Lotion Sunscreen with Niacinamide | Helps reduce pigmen…",
   "price": 234,
   "capacityLine": "100 ml",
@@ -226872,11 +226859,10 @@ const CTPRODUCTS = [
    "Contains evidence-backed actives (per listing)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.4,
+   "trust": 6.1,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.6
@@ -227416,7 +227402,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b0bv24p1s1",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Serum boost sunscreen For All skin types prevent and fade dark patches with the power of S…",
   "price": 198,
   "capacityLine": "50 g",
@@ -229986,7 +229972,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b0ctzpvdp1",
-  "brand": "POND’S",
+  "brand": "Pond's",
   "model": "Sun Miracle SPF 50 PA+++ Crème Gel Sunscreen -Protect & Bright, With 3% Niacinamide, Fade …",
   "price": 99,
   "capacityLine": "12 g",
@@ -229998,11 +229984,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Mixed buyer rating (3.8)",
-   "Marketplace brand — limited track record"
+   "Mixed buyer rating (3.8)"
   ],
   "scores": {
-   "trust": 3.9,
+   "trust": 5.7,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.6
@@ -230533,8 +230518,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b0744rjw22",
-  "brand": "Lakmē",
+  "id": "lakme-b0744rjw22",
+  "brand": "Lakme",
   "model": "Water Light Gel In-Vivo tested SPF 50 PA++++ Sunscreen with Niacinamide For Oily Skin 100g",
   "price": 344,
   "capacityLine": "100 g",
@@ -230545,11 +230530,10 @@ const CTPRODUCTS = [
    "Contains evidence-backed actives (per listing)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.4,
+   "trust": 6.1,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.6
@@ -233646,8 +233630,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b0chj2ftdf",
-  "brand": "L'Oréal",
+  "id": "l-oreal-b0chj2ftdf",
+  "brand": "L'Oreal",
   "model": "Paris Glycolic Bright Dark Circle Eye Serum, 20ml | 3% Glycolic + Niacinamide + Vitamin CG…",
   "price": 289,
   "capacityLine": "20 ml",
@@ -233659,11 +233643,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Pricey: ₹1445/100ml",
-   "Marketplace brand — limited track record"
+   "Pricey: ₹1445/100ml"
   ],
   "scores": {
-   "trust": 4.4,
+   "trust": 6.1,
    "skin": 4,
    "ingredients": 5.5,
    "experience": 4.5

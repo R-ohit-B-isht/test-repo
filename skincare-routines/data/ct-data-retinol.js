@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-03.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-04.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -30126,7 +30126,7 @@ const CTPRODUCTS = [
    "Marketplace brand — limited track record"
   ],
   "scores": {
-   "trust": 5,
+   "trust": 6.1,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.8
@@ -38986,9 +38986,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b0b429z6v6",
-  "brand": "Nature’s",
-  "model": "Essence 0.3% Pro-Retinol Age Renewal Serum | Anti-Ageing Face Serum For Women's | Reduces …",
+  "id": "nature-s-essence-b0b429z6v6",
+  "brand": "Nature's Essence",
+  "model": "0.3% Pro-Retinol Age Renewal Serum | Anti-Ageing Face Serum For Women's | Reduces Fine Lin…",
   "price": 258,
   "capacityLine": "30 ml",
   "materialLine": "retinol",
@@ -38999,11 +38999,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Mixed buyer rating (3.5)",
-   "Marketplace brand — limited track record"
+   "Mixed buyer rating (3.5)"
   ],
   "scores": {
-   "trust": 3.5,
+   "trust": 4.6,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.5
@@ -43953,7 +43952,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0bnq92szv",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Rosehip & Retinol Serum with Rosehip Oil Extract and 0.3% Retinol | Retinol serum for face…",
   "price": 559,
   "capacityLine": "30 ml",
@@ -45018,7 +45017,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b0cpdmyhxc",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Youthful Miracle Hexyl Retinol Complex, Renew & Repair Serum 28ml",
   "price": 674,
   "capacityLine": "28 ml",
@@ -45698,7 +45697,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "paula-s-choice-b00tu7yic0",
-  "brand": "Paula'S Choice",
+  "brand": "Paula's Choice",
   "model": "Resist Intensive Wrinkle-Repair Retinol Serum, Squalane, Vitamin C & E, Anti-Aging & Wrink…",
   "price": 4200,
   "capacityLine": "30 ml",
@@ -53515,7 +53514,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b077ndkg7d",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Youthful Miracle Hexyl Retinol Complex, Renew & Repair Day Cream 50g SPF 15 PA++",
   "price": 398,
   "capacityLine": "50 g",
@@ -53643,7 +53642,7 @@ const CTPRODUCTS = [
  {
   "id": "cosrx-b0b5dkj8ts",
   "brand": "Cosrx",
-  "model": "| Retinol 0.1% Cream | Gentle Anti-Aging Night Cream for Wrinkles & Fine Line | Korean Ski…",
+  "model": "Retinol 0.1% Cream | Gentle Anti-Aging Night Cream for Wrinkles & Fine Line | Korean Skinc…",
   "price": 2300,
   "capacityLine": "20 ml",
   "materialLine": "retinol",
@@ -54431,7 +54430,7 @@ const CTPRODUCTS = [
  {
   "id": "plix-b0ch33wfsg",
   "brand": "PLIX",
-  "model": "- THE PLANT FIX Pomegranate 1% Retinol & 1% Bakuchi Oil Anti Ageing Night Cream | Reduces …",
+  "model": "THE PLANT FIX Pomegranate 1% Retinol & 1% Bakuchi Oil Anti Ageing Night Cream | Reduces Fi…",
   "price": 380,
   "capacityLine": "50 g",
   "materialLine": "retinol",
@@ -55946,7 +55945,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b079np5ftz",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Youthful Miracle Hexyl Retinol Complex, Renew & Repair Night Cream 50g",
   "price": 470,
   "capacityLine": "50 g",
@@ -64004,7 +64003,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b008kh3cqo",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Age Miracle Wrinkle Corrector Anti Aging Night Cream, with Retinol-C Complex, 50 grams",
   "price": 499,
   "capacityLine": "50 g",
@@ -74249,7 +74248,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0dt1fykff",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Bakuchiol & PDRN Ampoule Face Serum | 3000 ppm PDRN | Anti ageing | Renews and repairs ski…",
   "price": 849,
   "capacityLine": "30 ml",
@@ -80084,7 +80083,7 @@ const CTPRODUCTS = [
  {
   "id": "smoothage-b0g1sp9jz4",
   "brand": "SmoothAge",
-  "model": "| Retinal 0.1% Face Serum | Advanced Vitamin A Treatment with Retinal, Bakuchiol & Squalan…",
+  "model": "Retinal 0.1% Face Serum | Advanced Vitamin A Treatment with Retinal, Bakuchiol & Squalane …",
   "price": 1322,
   "capacityLine": "20 ml",
   "materialLine": "retinol + bakuchiol + squalane",
@@ -83381,7 +83380,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "paula-s-choice-b00l5o31vk",
-  "brand": "Paula'S Choice",
+  "brand": "Paula's Choice",
   "model": "Clinical 1% Retinol Treatment With Peptides & Vitamin C For Deep Wrinkles And Dark Spots C…",
   "price": 1759,
   "capacityLine": "5 ml",
@@ -84197,8 +84196,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b0gxb6dhmw",
-  "brand": "L’Oréal",
+  "id": "l-oreal-b0gxb6dhmw",
+  "brand": "L'Oreal",
   "model": "Paris Revitalift Energising Red Cream Day 50ml | Anti-Aging Face Moisturizer with Pro-Reti…",
   "price": 1299,
   "capacityLine": "50 ml",
@@ -84214,7 +84213,7 @@ const CTPRODUCTS = [
    "Mixed buyer rating (3.0)"
   ],
   "scores": {
-   "trust": 3,
+   "trust": 4.8,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.9
@@ -84265,7 +84264,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "l-oreal-b00e62g3ao",
-  "brand": "L’Oreal",
+  "brand": "L'Oreal",
   "model": "Paris Revitalift Day Cream SPF 35, Anti Wrinkle & Firming Moisturizer with Pro-Retinol, An…",
   "price": 840,
   "capacityLine": "50 ml",
@@ -84278,11 +84277,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Pricey: ₹1680/100ml",
-   "Marketplace brand — limited track record"
+   "Pricey: ₹1680/100ml"
   ],
   "scores": {
-   "trust": 5,
+   "trust": 6.8,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 5
@@ -84400,8 +84398,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b0h1n5bd96",
-  "brand": "L'Oréal",
+  "id": "l-oreal-b0h1n5bd96",
+  "brand": "L'Oreal",
   "model": "Paris Revitalift Anti Ageing Day Cream SPF 30 with Advanced UVA Protection Pro Retinol A a…",
   "price": 1399,
   "capacityLine": "50 ml",
@@ -84413,11 +84411,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Pricey: ₹2798/100ml",
-   "Marketplace brand — limited track record"
+   "Pricey: ₹2798/100ml"
   ],
   "scores": {
-   "trust": 3.9,
+   "trust": 5.7,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.6

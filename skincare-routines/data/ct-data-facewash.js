@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-03.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-04.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -12253,7 +12253,7 @@ const CTPRODUCTS = [
    "Marketplace brand — limited track record"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 6.3,
    "skin": 4,
    "ingredients": 4,
    "experience": 4.9
@@ -13207,7 +13207,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-itm47f23270b84ff",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "DeTan Facewash, With Niacinamide & Vitamin C, Reduces Tan …",
   "price": 156,
   "capacityLine": "Quantity not stated",
@@ -30315,7 +30315,7 @@ const CTPRODUCTS = [
  {
   "id": "sheny-itmef836235115d0",
   "brand": "Sheny",
-  "model": "|dry skin Suitable for All Skin Types | 200ml Face Wash (20 …",
+  "model": "dry skin Suitable for All Skin Types | 200ml Face Wash (20 …",
   "price": 146,
   "capacityLine": "200 ml",
   "materialLine": "clay/mud + almond",
@@ -50435,7 +50435,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b08nyd1ggk",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Bright Beauty Spot Less Fairness Face Wash|| Removes Dead Skin And Dark Spots|| 200 g",
   "price": 249,
   "capacityLine": "200 g",
@@ -50500,7 +50500,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b0c6qhp7vk",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Detan Face Wash for Tan Removal in Just 7 Days | Contains Vitamin C and Niacinamide | Face…",
   "price": 148,
   "capacityLine": "100 g",
@@ -51287,7 +51287,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b08pq6vwpt",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Pure Detox Face Wash 200 g|| Daily Exfoliating & Brightening Cleanser|| Deep Cleans Oily S…",
   "price": 268,
   "capacityLine": "200 g",
@@ -53695,7 +53695,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b0chw4ckjf",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Hydra Miracle Gentle Gel Face Wash 100g | Refreshing Gel Face Wash | Gently cleanses and b…",
   "price": 174,
   "capacityLine": "100 g",
@@ -55120,7 +55120,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b07j2mqr2k",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Men Energy Bright Anti-Dullness Facewash With Coffee Bean|| 100 g",
   "price": 150,
   "capacityLine": "100 g",
@@ -58626,7 +58626,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0dswpdh5f",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Kesar & Kojic Acid Face Wash | 2% Kojic Acid | For All Skin Types | Detans skin | Fades Pi…",
   "price": 297,
   "capacityLine": "100 g",
@@ -59142,7 +59142,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b00fmuocx4",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Bright Beauty Spot-less Fairness & Germ Removal Facewash 50 g",
   "price": 82,
   "capacityLine": "50 g",
@@ -59651,7 +59651,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b00xttme9y",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Men Pollution Out Activated Charcoal Deep Clean Facewash|| 100 g",
   "price": 196,
   "capacityLine": "100 g",
@@ -61201,8 +61201,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b07pg9vr1x",
-  "brand": "L’Oréal",
+  "id": "l-oreal-b07pg9vr1x",
+  "brand": "L'Oreal",
   "model": "Paris Men Expert Wake-up Effect Face Wash 100ml, Hydra Energetic Face Wash With Vitamin C*…",
   "price": 890,
   "capacityLine": "100 ml",
@@ -61214,11 +61214,10 @@ const CTPRODUCTS = [
    "Strong buyer rating (4.6)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 5.1,
+   "trust": 6.9,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.2
@@ -66035,7 +66034,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0b721t831",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Neem & Salicylic Acid Foaming Face Wash | 2% Salicylic Acid | For Oily & Acne-Prone Skin |…",
   "price": 296,
   "capacityLine": "100 ml",
@@ -67479,8 +67478,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b0b9rfcs5s",
-  "brand": "L'Oréal",
+  "id": "l-oreal-b0b9rfcs5s",
+  "brand": "L'Oreal",
   "model": "Paris Glycolic Bright Daily Foaming Face Cleanser, 50ml | Glycolic Acid face wash | For du…",
   "price": 148,
   "capacityLine": "50 ml",
@@ -67492,11 +67491,10 @@ const CTPRODUCTS = [
    "Strong buyer rating (4.2)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 6.3,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.2
@@ -76425,7 +76423,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b07tdz7vg7",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Bright Beauty Spot-less Fairness & Germ Removal Facewash 150 g",
   "price": 194,
   "capacityLine": "150 g",
@@ -78817,7 +78815,7 @@ const CTPRODUCTS = [
  {
   "id": "plix-b0f4kzvr4m",
   "brand": "PLIX",
-  "model": "- THE PLANT FIX 5% Pineapple Juicy Mini Facewash For Depigmentation | For Skin Brightening…",
+  "model": "THE PLANT FIX 5% Pineapple Juicy Mini Facewash For Depigmentation | For Skin Brightening &…",
   "price": 190,
   "capacityLine": "50 ml",
   "materialLine": "Key ingredients not stated",
@@ -84587,8 +84585,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b0cb4bkwv8",
-  "brand": "LAKMÉ",
+  "id": "lakme-b0cb4bkwv8",
+  "brand": "Lakme",
   "model": "Biphasic Micellar Face Cleansing Water 100ml | Removes Waterproof Makeup | Oil and Water F…",
   "price": 182,
   "capacityLine": "100 ml",
@@ -84600,11 +84598,10 @@ const CTPRODUCTS = [
    "Strong buyer rating (4.2)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 6.3,
    "skin": 4,
    "ingredients": 4,
    "experience": 4.2
@@ -85636,8 +85633,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b0g64gx3lx",
-  "brand": "L’Oréal",
+  "id": "l-oreal-b0g64gx3lx",
+  "brand": "L'Oreal",
   "model": "Paris Micellar Water Pure (Płyn Micelarny) 200 ml | Gentle Makeup Remover & Face Cleanser …",
   "price": 675,
   "capacityLine": "200 ml",
@@ -85646,11 +85643,10 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 3.9,
+   "trust": 5.7,
    "skin": 4,
    "ingredients": 4,
    "experience": 4.2
@@ -86064,8 +86060,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b0h26pfb1f",
-  "brand": "L’Oréal",
+  "id": "l-oreal-b0h26pfb1f",
+  "brand": "L'Oreal",
   "model": "Paris Revitalift Micellar Water 200ml | Makeup Remover, Face Cleanser & Soothing Micellar …",
   "price": 640,
   "capacityLine": "200 ml",
@@ -86074,11 +86070,10 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 3.9,
+   "trust": 5.7,
    "skin": 4,
    "ingredients": 4,
    "experience": 4.2
@@ -87325,8 +87320,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b01lyfhy7s",
-  "brand": "L'Oréal",
+  "id": "l-oreal-b01lyfhy7s",
+  "brand": "L'Oreal",
   "model": "L'Oreal Paris Micellar Water Normal to Dry Sensitive Skin 400ml",
   "price": 4891,
   "capacityLine": "400 ml",
@@ -87338,11 +87333,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Pricey: ₹1223/100ml",
-   "Marketplace brand — limited track record"
+   "Pricey: ₹1223/100ml"
   ],
   "scores": {
-   "trust": 5.1,
+   "trust": 6.9,
    "skin": 4,
    "ingredients": 4,
    "experience": 4.2
@@ -91372,7 +91366,7 @@ const CTPRODUCTS = [
  {
   "id": "care-b07sg73v98",
   "brand": "Care",
-  "model": "- Soft Sweep Micellar Cleanser and Facial Toner, Alcohol-Free and Paraben-Free Micellar Cl…",
+  "model": "Soft Sweep Micellar Cleanser and Facial Toner, Alcohol-Free and Paraben-Free Micellar Clea…",
   "price": 5300,
   "capacityLine": "Quantity not stated",
   "materialLine": "hyaluronic acid",
@@ -91438,7 +91432,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "johnson-s-b08yy21g4p",
-  "brand": "Johnson'S",
+  "brand": "Johnson's",
   "model": "Fresh Hydration Micellar Cleansing Jelly with Rose Water - 200 ml",
   "price": 699,
   "capacityLine": "200 ml",
@@ -102845,7 +102839,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "nature-s-essence-b0cmd4z7ly",
-  "brand": "Nature'S Essence",
+  "brand": "Nature's Essence",
   "model": "CTM Combo - The Ultimate Skincare Trio, Cleansing Milk - Toner - Moisturiser, 300ml",
   "price": 179,
   "capacityLine": "300 ml",
@@ -103784,7 +103778,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "nature-s-essence-b0db637t2f",
-  "brand": "Nature'S Essence",
+  "brand": "Nature's Essence",
   "model": "Bright Glow Vitamin C Gel Facewash, Bright Glow Vitamin C Serum & Bright Glow Vitamin C Se…",
   "price": 219,
   "capacityLine": "Quantity not stated",
@@ -107857,7 +107851,7 @@ const CTPRODUCTS = [
  {
   "id": "saliac-b0bzzqwpr6",
   "brand": "Saliac",
-  "model": "- Tube of 60ml Face Wash",
+  "model": "Tube of 60ml Face Wash",
   "price": 425,
   "capacityLine": "60 ml",
   "materialLine": "Key ingredients not stated",
@@ -114956,7 +114950,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "paula-s-choice-b00949c6u0",
-  "brand": "Paula'S Choice",
+  "brand": "Paula's Choice",
   "model": "Skin Balancing Oil-Reducing Cleanser with Aloe, Face Wash for Oily Skin & Large Pores - 23…",
   "price": 1870,
   "capacityLine": "237 ml",
@@ -117090,7 +117084,7 @@ const CTPRODUCTS = [
  {
   "id": "lavelle-b0dpg4fr6v",
   "brand": "LAVELLE",
-  "model": "- Clear Glow Facewash – Deep Cleansing & Brightening Facial Cleanser | Removes Dirt, Oil &…",
+  "model": "Clear Glow Facewash – Deep Cleansing & Brightening Facial Cleanser | Removes Dirt, Oil & I…",
   "price": 699,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
@@ -129429,7 +129423,7 @@ const CTPRODUCTS = [
  {
   "id": "owash-itm009f436212ea7",
   "brand": "Owash",
-  "model": ", Pack of 2, Ultra Mild for Oily Skin Face Wash (150 ml)",
+  "model": "Pack of 2, Ultra Mild for Oily Skin Face Wash (150 ml)",
   "price": 1187,
   "capacityLine": "300 ml (pack of 2)",
   "materialLine": "Key ingredients not stated",
@@ -133467,7 +133461,7 @@ const CTPRODUCTS = [
  {
   "id": "plix-b0ct2sq1lg",
   "brand": "PLIX",
-  "model": "- THE PLANT FIX | Pineapple Clarifying Regime With Pineapple Exfoliation Fruity Toner, Dep…",
+  "model": "THE PLANT FIX | Pineapple Clarifying Regime With Pineapple Exfoliation Fruity Toner, Depig…",
   "price": 995,
   "capacityLine": "280 ml",
   "materialLine": "salicylic acid (BHA)",
@@ -139406,8 +139400,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b09st9tn64",
-  "brand": "L'Oréal",
+  "id": "l-oreal-b09st9tn64",
+  "brand": "L'Oreal",
   "model": "Paris Glycolic Bright Daily Foaming Face Cleanser, 100ml | Glycolic Acid face wash | For d…",
   "price": 317,
   "capacityLine": "100 ml",
@@ -139419,11 +139413,10 @@ const CTPRODUCTS = [
    "Strong buyer rating (4.2)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 6.3,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.2
@@ -141477,7 +141470,7 @@ const CTPRODUCTS = [
  {
   "id": "biocutis-b0c2qcqp9w",
   "brand": "Biocutis",
-  "model": "- Tube of 100ml Face Wash with Salicylic Acid and Glycolic Acid",
+  "model": "Tube of 100ml Face Wash with Salicylic Acid and Glycolic Acid",
   "price": 300,
   "capacityLine": "100 ml",
   "materialLine": "salicylic acid (BHA) + glycolic acid",

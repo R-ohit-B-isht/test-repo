@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-03.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-04.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -156,9 +156,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "dr-itm304d9a447b98a",
-  "brand": "Dr.",
-  "model": "Sheth’s Tea Tree & Lactic Acid Body Lotion | Treats Body Acne …",
+  "id": "dr-sheth-s-itm304d9a447b98a",
+  "brand": "Dr. Sheth's",
+  "model": "Tea Tree & Lactic Acid Body Lotion | Treats Body Acne …",
   "price": 80,
   "capacityLine": "300 ml",
   "materialLine": "lactic acid + tea tree",
@@ -170,11 +170,10 @@ const CTPRODUCTS = [
    "Strong buyer rating (4.2)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 5.6,
    "skin": 4,
    "ingredients": 5.5,
    "experience": 4.2
@@ -4336,9 +4335,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "dr-itm4bebbf598d5f7",
-  "brand": "Dr.",
-  "model": "Sheth’s Tea Tree & Lactic Acid Body Lotion, Helps to Reduce B …",
+  "id": "dr-sheth-s-itm4bebbf598d5f7",
+  "brand": "Dr. Sheth's",
+  "model": "Tea Tree & Lactic Acid Body Lotion, Helps to Reduce B …",
   "price": 80,
   "capacityLine": "Quantity not stated",
   "materialLine": "lactic acid + tea tree",
@@ -4350,11 +4349,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 5.6,
    "skin": 4,
    "ingredients": 5.5,
    "experience": 4.2
@@ -5563,7 +5561,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "paula-s-choice-b0861gh5yn",
-  "brand": "Paula'S Choice",
+  "brand": "Paula's Choice",
   "model": "Weightless Body Treatment 2% BHA, Salicylic Acid & Chamomile Lotion Exfoliant, Moisturizer…",
   "price": 1200,
   "capacityLine": "60 ml",
@@ -6215,7 +6213,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0d376x2hd",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Tea Tree & Lactic Acid Body Lotion- 300 ml | Treats Body Acne | Moisturizes and Light Weig…",
   "price": 259,
   "capacityLine": "300 ml",
@@ -6504,7 +6502,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "paula-s-choice-b00949eqoo",
-  "brand": "Paula'S Choice",
+  "brand": "Paula's Choice",
   "model": "Skin Revealing Body Lotion 10% AHA, Glycolic Acid & Shea Butter Exfoliant, Moisturizer for…",
   "price": 5779,
   "capacityLine": "Quantity not stated",
@@ -9232,7 +9230,7 @@ const CTPRODUCTS = [
  {
   "id": "aqu-b0gx6plgcl",
   "brand": "Aqu",
-  "model": "- rea 20 Urea Cream (20%) 100g | Intensive Moisturizing & Skin Repair | With Lactic Acid, …",
+  "model": "rea 20 Urea Cream (20%) 100g | Intensive Moisturizing & Skin Repair | With Lactic Acid, Al…",
   "price": 596,
   "capacityLine": "100 g",
   "materialLine": "lactic acid + urea + tea tree",
@@ -9300,7 +9298,7 @@ const CTPRODUCTS = [
  {
   "id": "aqu-b0hdd1hn3l",
   "brand": "Aqu",
-  "model": "- rea HF Urea 40% Cream Gel | Intensive Moisturizing & Exfoliating Cream for Dry, Rough, C…",
+  "model": "rea HF Urea 40% Cream Gel | Intensive Moisturizing & Exfoliating Cream for Dry, Rough, Cra…",
   "price": 449,
   "capacityLine": "50 g",
   "materialLine": "urea + tea tree + aloe vera",
@@ -9962,7 +9960,7 @@ const CTPRODUCTS = [
  {
   "id": "moisturex-b084pqcpw7",
   "brand": "Moisturex",
-  "model": "- Bottle of 100gm Cream",
+  "model": "Bottle of 100gm Cream",
   "price": 258,
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",

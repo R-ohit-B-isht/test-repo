@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-03.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-04.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -34224,7 +34224,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0gy4lmbkh",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Copper & Argireline® Peptide B'tox Eye Cream | Reduces Dark Circles, Puffiness & Wrinkles …",
   "price": 749,
   "capacityLine": "15 g",
@@ -53854,8 +53854,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b0h1j6wv2l",
-  "brand": "L'Oréal",
+  "id": "l-oreal-b0h1j6wv2l",
+  "brand": "L'Oreal",
   "model": "Paris Men Expert Hydra Energetic Ice Cold Eye Roller with Vitamin C and Caffeine for Dark …",
   "price": 923,
   "capacityLine": "Quantity not stated",
@@ -53867,11 +53867,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 3.9,
+   "trust": 5.7,
    "skin": 4,
    "ingredients": 5.5,
    "experience": 4.2
@@ -62678,8 +62677,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b0chj2ftdf",
-  "brand": "L'Oréal",
+  "id": "l-oreal-b0chj2ftdf",
+  "brand": "L'Oreal",
   "model": "Paris Glycolic Bright Dark Circle Eye Serum, 20ml | 3% Glycolic + Niacinamide + Vitamin CG…",
   "price": 289,
   "capacityLine": "20 ml",
@@ -62691,11 +62690,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Pricey: ₹1445/100ml",
-   "Marketplace brand — limited track record"
+   "Pricey: ₹1445/100ml"
   ],
   "scores": {
-   "trust": 4.4,
+   "trust": 6.1,
    "skin": 4,
    "ingredients": 5.5,
    "experience": 4.5

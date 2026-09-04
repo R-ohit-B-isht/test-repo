@@ -1,6 +1,155 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-03.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-04.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
+ {
+  "id": "l-oreal-itm155984e002a4d",
+  "brand": "L'Oreal",
+  "model": "Paris Revitalift Hyaluronic Acid Line Filling Water Cream For Hydrated & Plump Skin",
+  "price": 454,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "hyaluronic acid",
+  "featureLine": "Serum",
+  "highlight": "Live Flipkart listing rated 4.3★ by 7,725 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Strong buyer rating (4.3)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 6.5,
+   "skin": 4,
+   "ingredients": 5.1,
+   "experience": 5.2
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Serum",
+   "keyIngredients": "hyaluronic acid (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Not stated in listing",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.3/5 (7,725 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/3/b/6/-original-imahk8g6ekb8fedz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/i/r/-original-imahk8g6g4vzyhpd.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/y/b/-original-imahk8g6pw5fqhja.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/d/q/-original-imahk8g6xhhqz5dz.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/w/x/-original-imahk8g6rchzrn3f.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/l-oral-paris-revitalift-hyaluronic-acid-line-filling-water-cream-hydrated-plump-skin/p/itm155984e002a4d",
+  "buyStore": "Flipkart",
+  "title": "L'Oréal Paris Revitalift Hyaluronic Acid Line Filling Water Cream For Hydrated & Plump Skin",
+  "tags": [
+   "scope:both",
+   "format:gel",
+   "format:cream",
+   "format:serum",
+   "ing:hyaluronic-acid",
+   "claim:brightening",
+   "claim:anti-aging",
+   "claim:oil-control",
+   "claim:hydrating",
+   "claim:lightweight",
+   "skin:oily",
+   "skin:dry",
+   "skin:combination",
+   "skin:normal",
+   "skin:mature",
+   "aud:unisex",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": false,
+   "men": false,
+   "women": false
+  }
+ },
+ {
+  "id": "l-oreal-itmac50031b5f2cb",
+  "brand": "L'Oreal",
+  "model": "Paris Revitalift Laser X3 Night Cream Mask | For Anti-Aging",
+  "price": 1259,
+  "capacityLine": "Quantity not stated",
+  "materialLine": "retinol",
+  "featureLine": "Mask / pack",
+  "highlight": "Live Flipkart listing rated 4.4★ by 1,030 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "pros": [
+   "Contains evidence-backed actives (per listing)",
+   "Dermatologically tested (per listing)",
+   "Strong buyer rating (4.4)"
+  ],
+  "cons": [
+   "Quantity not stated",
+   "No free-from claims in listing"
+  ],
+  "scores": {
+   "trust": 7.1,
+   "skin": 4.7,
+   "ingredients": 5.1,
+   "experience": 4.6
+  },
+  "fullSpec": {
+   "quantity": "Not stated in listing",
+   "pricePer100": "Not stated in listing",
+   "format": "Mask / pack",
+   "keyIngredients": "retinol (per listing)",
+   "freeFrom": "Not stated in listing",
+   "dermTested": "Dermatologically tested (per listing)",
+   "nonComedogenic": "Not stated in listing",
+   "benefit": "Hydrating, Anti-aging claim",
+   "audience": "Unisex / not stated",
+   "naturalClaim": "Not stated in listing",
+   "skinType": "Not stated in listing",
+   "rating": "4.4/5 (1,030 ratings, Flipkart)",
+   "madeIn": "Not stated in listing"
+  },
+  "images": [
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/o/v/l/-original-imahh2zfvzms85h3.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/d/x/d/-original-imahh2zfz45vghx9.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/a/z/f/-original-imahh2zfmghugcd9.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/4/u/x/-original-imahh2zf4kw67xed.jpeg?q=90",
+   "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/8/y/b/-original-imahh2zfsutyh6cq.jpeg?q=90"
+  ],
+  "buyUrl": "https://www.flipkart.com/l-oral-paris-revitalift-laser-x3-night-cream-mask-anti-aging/p/itmac50031b5f2cb",
+  "buyStore": "Flipkart",
+  "title": "L'Oréal Paris Revitalift Laser X3 Night Cream Mask | For Anti-Aging",
+  "tags": [
+   "scope:both",
+   "format:cream",
+   "claim:anti-aging",
+   "claim:pores",
+   "claim:hydrating",
+   "claim:exfoliating",
+   "free:derm",
+   "skin:oily",
+   "skin:all",
+   "aud:unisex",
+   "rating:4.0",
+   "store:flipkart"
+  ],
+  "filters": {
+   "actives": true,
+   "freefrom": false,
+   "natural": false,
+   "derm": true,
+   "men": false,
+   "women": false
+  }
+ },
  {
   "id": "hyphen-itm199b342a903f2",
   "brand": "HYPHEN",
@@ -19242,7 +19391,7 @@ const CTPRODUCTS = [
    "Marketplace brand — limited track record"
   ],
   "scores": {
-   "trust": 5.2,
+   "trust": 6.3,
    "skin": 5.3,
    "ingredients": 6,
    "experience": 4.9
@@ -24068,7 +24217,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-itm4d10ff13b8955",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Light Moisturiser with Cera-Hyamino for 5X Dryness Repair …",
   "price": 286,
   "capacityLine": "Quantity not stated",
@@ -25472,7 +25621,7 @@ const CTPRODUCTS = [
    "Marketplace brand — limited track record"
   ],
   "scores": {
-   "trust": 5,
+   "trust": 6.1,
    "skin": 5.3,
    "ingredients": 6.4,
    "experience": 5.2
@@ -26952,9 +27101,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "dr-itm4dd25d1e22654",
-  "brand": "Dr.",
-  "model": "Sheth’s Ceramide & Vitamin C Oil-free Moisturizer | Light Fac …",
+  "id": "dr-sheth-s-itm4dd25d1e22654",
+  "brand": "Dr. Sheth's",
+  "model": "Ceramide & Vitamin C Oil-free Moisturizer | Light Fac …",
   "price": 329,
   "capacityLine": "Quantity not stated",
   "materialLine": "vitamin C + ceramides",
@@ -26966,11 +27115,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.7,
+   "trust": 5.8,
    "skin": 4,
    "ingredients": 5.5,
    "experience": 4.6
@@ -27154,7 +27302,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-itm7183d02f7d22c",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Super Light Gel Non-Sticky Fresh Feel Moisturiser For Hydr …",
   "price": 349,
   "capacityLine": "Quantity not stated",
@@ -30337,9 +30485,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "dr-itm2999677e19633",
-  "brand": "Dr.",
-  "model": "Sheth’s Haldi & Hyaluronic Acid Oil-Free Moisturizer, Helps t …",
+  "id": "dr-sheth-s-itm2999677e19633",
+  "brand": "Dr. Sheth's",
+  "model": "Haldi & Hyaluronic Acid Oil-Free Moisturizer, Helps t …",
   "price": 349,
   "capacityLine": "Quantity not stated",
   "materialLine": "hyaluronic acid + turmeric",
@@ -30351,11 +30499,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 5.6,
    "skin": 4,
    "ingredients": 5.5,
    "experience": 4.6
@@ -30469,9 +30616,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "dr-itmdcab20cb2d84d",
-  "brand": "Dr.",
-  "model": "Sheth’s Cica & Ceramide Oil-Free Moisturizer - Gentle Hydrati …",
+  "id": "dr-sheth-s-itmdcab20cb2d84d",
+  "brand": "Dr. Sheth's",
+  "model": "Cica & Ceramide Oil-Free Moisturizer - Gentle Hydrati …",
   "price": 335,
   "capacityLine": "Quantity not stated",
   "materialLine": "ceramides + centella/cica",
@@ -30483,11 +30630,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 5.6,
    "skin": 4,
    "ingredients": 5.5,
    "experience": 4.6
@@ -34707,7 +34853,7 @@ const CTPRODUCTS = [
  {
   "id": "eiq-itme91b6409ce4c3",
   "brand": "EIQ",
-  "model": "- EINSTEINIQ Hydralux Oil Free Day & Night Moisturiser Daily …",
+  "model": "EINSTEINIQ Hydralux Oil Free Day & Night Moisturiser Daily …",
   "price": 549,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
@@ -52620,8 +52766,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-itm42641b2ff9040",
-  "brand": "Lakmé",
+  "id": "lakme-itm42641b2ff9040",
+  "brand": "Lakme",
   "model": "Perfect Radiance Day Gel Cream,10% Niacinamide Resorcinol C …",
   "price": 99,
   "capacityLine": "Quantity not stated",
@@ -52634,11 +52780,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 6.3,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.5
@@ -56381,7 +56526,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-itmdb92b52f70db3",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Bright Beauty Day Brightening Face Cream | SPF 15 (35 g)",
   "price": 169,
   "capacityLine": "35 g",
@@ -64025,7 +64170,7 @@ const CTPRODUCTS = [
    "Marketplace brand — limited track record"
   ],
   "scores": {
-   "trust": 5.1,
+   "trust": 6.9,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.6
@@ -77821,9 +77966,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b093cgms8m",
-  "brand": "Nature’s",
-  "model": "Essence Flawless Papaya Face Cream, 60Gm",
+  "id": "nature-s-essence-b093cgms8m",
+  "brand": "Nature's Essence",
+  "model": "Flawless Papaya Face Cream, 60Gm",
   "price": 108,
   "capacityLine": "60 g",
   "materialLine": "papaya",
@@ -77833,11 +77978,10 @@ const CTPRODUCTS = [
    "Good value: ₹180/100g"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.2,
+   "trust": 5.3,
    "skin": 4,
    "ingredients": 4.4,
    "experience": 4.8
@@ -77889,9 +78033,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b0bln9q27q",
-  "brand": "Nature’s",
-  "model": "Essence Face Cream For Daily Use|Skin Brightening Face Cream For Women||Brightening Cream …",
+  "id": "nature-s-essence-b0bln9q27q",
+  "brand": "Nature's Essence",
+  "model": "Face Cream For Daily Use|Skin Brightening Face Cream For Women||Brightening Cream With 2% …",
   "price": 281,
   "capacityLine": "45 g",
   "materialLine": "alpha arbutin",
@@ -77902,11 +78046,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Mixed buyer rating (3.6)",
-   "Marketplace brand — limited track record"
+   "Mixed buyer rating (3.6)"
   ],
   "scores": {
-   "trust": 3.6,
+   "trust": 4.7,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.8
@@ -78089,9 +78232,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b0cnjy38gh",
-  "brand": "Nature’s",
-  "model": "Essence Vitamin C Serum Face Cream | Infused with Yuzu Lemon & Niacinamide | Brightens & G…",
+  "id": "nature-s-essence-b0cnjy38gh",
+  "brand": "Nature's Essence",
+  "model": "Vitamin C Serum Face Cream | Infused with Yuzu Lemon & Niacinamide | Brightens & Gives Glo…",
   "price": 62,
   "capacityLine": "25 g",
   "materialLine": "vitamin C + niacinamide",
@@ -78103,11 +78246,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Mixed buyer rating (3.8)",
-   "Marketplace brand — limited track record"
+   "Mixed buyer rating (3.8)"
   ],
   "scores": {
-   "trust": 3.9,
+   "trust": 5,
    "skin": 4,
    "ingredients": 5.5,
    "experience": 4.8
@@ -78681,7 +78823,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "nature-s-essence-b0cmd4z7ly",
-  "brand": "Nature'S Essence",
+  "brand": "Nature's Essence",
   "model": "CTM Combo - The Ultimate Skincare Trio, Cleansing Milk - Toner - Moisturiser, 300ml",
   "price": 179,
   "capacityLine": "300 ml",
@@ -80020,9 +80162,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b0cvbfm8dm",
-  "brand": "Nature’s",
-  "model": "Essence Hydra Glow Oil free Moisturizer for face, Glowing Skin, light formulation gel infu…",
+  "id": "nature-s-essence-b0cvbfm8dm",
+  "brand": "Nature's Essence",
+  "model": "Hydra Glow Oil free Moisturizer for face, Glowing Skin, light formulation gel infused with…",
   "price": 140,
   "capacityLine": "100 g",
   "materialLine": "hyaluronic acid + rice water",
@@ -80033,11 +80175,10 @@ const CTPRODUCTS = [
    "Contains evidence-backed actives (per listing)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.2,
+   "trust": 5.3,
    "skin": 4,
    "ingredients": 5.5,
    "experience": 5.2
@@ -84781,7 +84922,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b077ndkg7d",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Youthful Miracle Hexyl Retinol Complex, Renew & Repair Day Cream 50g SPF 15 PA++",
   "price": 398,
   "capacityLine": "50 g",
@@ -84909,7 +85050,7 @@ const CTPRODUCTS = [
  {
   "id": "cosrx-b0b5dkj8ts",
   "brand": "Cosrx",
-  "model": "| Retinol 0.1% Cream | Gentle Anti-Aging Night Cream for Wrinkles & Fine Line | Korean Ski…",
+  "model": "Retinol 0.1% Cream | Gentle Anti-Aging Night Cream for Wrinkles & Fine Line | Korean Skinc…",
   "price": 2300,
   "capacityLine": "20 ml",
   "materialLine": "retinol",
@@ -85371,7 +85512,7 @@ const CTPRODUCTS = [
  {
   "id": "plix-b0ch33wfsg",
   "brand": "PLIX",
-  "model": "- THE PLANT FIX Pomegranate 1% Retinol & 1% Bakuchi Oil Anti Ageing Night Cream | Reduces …",
+  "model": "THE PLANT FIX Pomegranate 1% Retinol & 1% Bakuchi Oil Anti Ageing Night Cream | Reduces Fi…",
   "price": 380,
   "capacityLine": "50 g",
   "materialLine": "retinol",
@@ -86624,7 +86765,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b079np5ftz",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Youthful Miracle Hexyl Retinol Complex, Renew & Repair Night Cream 50g",
   "price": 470,
   "capacityLine": "50 g",
@@ -91777,7 +91918,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b008kh3cqo",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Age Miracle Wrinkle Corrector Anti Aging Night Cream, with Retinol-C Complex, 50 grams",
   "price": 499,
   "capacityLine": "50 g",
@@ -97720,7 +97861,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "paula-s-choice-b0861gh5yn",
-  "brand": "Paula'S Choice",
+  "brand": "Paula's Choice",
   "model": "Weightless Body Treatment 2% BHA, Salicylic Acid & Chamomile Lotion Exfoliant, Moisturizer…",
   "price": 1200,
   "capacityLine": "60 ml",
@@ -97787,7 +97928,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "paula-s-choice-b0105g0r7o",
-  "brand": "Paula'S Choice",
+  "brand": "Paula's Choice",
   "model": "RESIST Daily Hydrating Fluid Face Moisturizer SPF 50, UVA & UVB Protection, Chamomile & Vi…",
   "price": 1200,
   "capacityLine": "15 ml",
@@ -97851,7 +97992,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "paula-s-choice-b00nggfltu",
-  "brand": "Paula'S Choice",
+  "brand": "Paula's Choice",
   "model": "RESIST Daily Hydrating Fluid Face Cream/Moisturizer SPF 50, UVA & UVB Protection, Chamomil…",
   "price": 3440,
   "capacityLine": "60 ml",
@@ -97918,7 +98059,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "paula-s-choice-b0105g7p1k",
-  "brand": "Paula'S Choice",
+  "brand": "Paula's Choice",
   "model": "CLEAR Ultra-Light Hydrating Oil Free Face Sunscreen & Moisturizer, SPF 30 Sunscreen for Fa…",
   "price": 900,
   "capacityLine": "15 ml",
@@ -98719,8 +98860,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b00gssjmuc",
-  "brand": "Lakmé",
+  "id": "lakme-b00gssjmuc",
+  "brand": "Lakme",
   "model": "Peach Milk Moisturiser SPF 30 with 2% Pro-Ceramide | Daily UV Defense, Hydrating & Skin Ba…",
   "price": 182,
   "capacityLine": "120 ml",
@@ -98733,11 +98874,10 @@ const CTPRODUCTS = [
    "Strong buyer rating (4.2)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 6.3,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 5
@@ -98792,7 +98932,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b09z6r5xsk",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Super Light Gel Oil Free Face Moisturizer 50 g | With Hyaluronic Acid & Vitamin E for Fres…",
   "price": 159,
   "capacityLine": "50 g",
@@ -99379,8 +99519,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b017ba976o",
-  "brand": "Lakmé",
+  "id": "lakme-b017ba976o",
+  "brand": "Lakme",
   "model": "Peach Milk Intense Moisturiser with 2% Pro Ceramide | 24hr Deep Hydration for Strong Skin …",
   "price": 156,
   "capacityLine": "120 ml",
@@ -99392,11 +99532,10 @@ const CTPRODUCTS = [
    "Contains evidence-backed actives (per listing)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.4,
+   "trust": 6.1,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.9
@@ -99450,7 +99589,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0b8s79pf7",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Ceramide & Vitamin C Oil-Free Face Moisturizer for Oily | Combination & Acne prone skin | …",
   "price": 307,
   "capacityLine": "50 g",
@@ -99933,7 +100072,7 @@ const CTPRODUCTS = [
  {
   "id": "embryolisse-b004kelk4c",
   "brand": "Embryolisse",
-  "model": "- Lait-Crème Concentré - 3 in 1 Multifunction Moisturiser - Primer, Moisturiser, and Make-…",
+  "model": "Lait-Crème Concentré - 3 in 1 Multifunction Moisturiser - Primer, Moisturiser, and Make-up…",
   "price": 1372,
   "capacityLine": "30 ml",
   "materialLine": "Key ingredients not stated",
@@ -100136,8 +100275,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b0cdlx8161",
-  "brand": "Lakmé",
+  "id": "lakme-b0cdlx8161",
+  "brand": "Lakme",
   "model": "Peach Milk Creme Moisturizer with 2% Pro-Ceramide & Peptides | Repairs Damaged Skin Barrie…",
   "price": 384,
   "capacityLine": "300 g",
@@ -100150,11 +100289,10 @@ const CTPRODUCTS = [
    "Strong buyer rating (4.4)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.8,
+   "trust": 6.6,
    "skin": 4,
    "ingredients": 5.5,
    "experience": 4.6
@@ -101478,8 +101616,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b09wj825r7",
-  "brand": "Lakmé",
+  "id": "lakme-b09wj825r7",
+  "brand": "Lakme",
   "model": "Peach Milk Creme Moisturizer with 2% Pro-Ceramide & Peptides | Repairs Damaged Skin Barrie…",
   "price": 309,
   "capacityLine": "200 g",
@@ -101492,11 +101630,10 @@ const CTPRODUCTS = [
    "Strong buyer rating (4.3)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.7,
+   "trust": 6.5,
    "skin": 4,
    "ingredients": 5.5,
    "experience": 4.6
@@ -101548,7 +101685,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b09z6t8h41",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Super Light Gel Oil Free Face Moisturizer 100 g | With Cera-Hyamino for Ultimate Soft Smoo…",
   "price": 245,
   "capacityLine": "100 g",
@@ -102685,7 +102822,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b09z6wrlsr",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Light Cream Moisturiser with Cera-Hyamino for 5X Dryness Repair for Ultimate Soft, Smooth …",
   "price": 254,
   "capacityLine": "200 ml",
@@ -104060,7 +104197,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b077nd8562",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Bright Beauty Day Cream 35 g, Non-Oily, Mattifying Daily Face Moisturizer, SPF 15 - With N…",
   "price": 164,
   "capacityLine": "35 g",
@@ -105075,7 +105212,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b09z6vzx8y",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Light Moisturiser with Cera-Hyamino for 5X Dryness Repair for Ultimate Soft, Smooth Skin |…",
   "price": 218,
   "capacityLine": "100 ml",
@@ -105469,7 +105606,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0chfvybfl",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Cica & Ceramide Oil-Free Face Moisturizer for Sensitive Skin | Dermatologically Tested to …",
   "price": 314,
   "capacityLine": "50 g",
@@ -107314,7 +107451,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b0dfwpg1rm",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Super Light Gel Oil Free Face Moisturizer 300 g | With Cera-Hyamino for Ultimate Soft Smoo…",
   "price": 448,
   "capacityLine": "300 g",
@@ -109081,7 +109218,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b09z6tjp7y",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Super Light Gel Oil Free Face Moisturizer 200 g | With Cera-Hyamino for Ultimate Soft Smoo…",
   "price": 309,
   "capacityLine": "200 g",
@@ -109481,8 +109618,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b0b6hly9kq",
-  "brand": "Lakmé",
+  "id": "lakme-b0b6hly9kq",
+  "brand": "Lakme",
   "model": "Peach Milk Gel Moisturiser with 2% Pro Ceramide | 24hr Deep Hydration for Strong Skin Barr…",
   "price": 91,
   "capacityLine": "50 g",
@@ -109495,11 +109632,10 @@ const CTPRODUCTS = [
    "Strong buyer rating (4.3)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.7,
+   "trust": 6.5,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.9
@@ -110093,8 +110229,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b0gwqgk2d3",
-  "brand": "Lakmē",
+  "id": "lakme-b0gwqgk2d3",
+  "brand": "Lakme",
   "model": "Peach Milk Icy Sorbet Gel: First Ever Cooling Face Moisturizer with 2% Pro-Ceramides, Pept…",
   "price": 520,
   "capacityLine": "200 g",
@@ -110105,11 +110241,10 @@ const CTPRODUCTS = [
    "Contains evidence-backed actives (per listing)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.2,
+   "trust": 6,
    "skin": 4,
    "ingredients": 5.5,
    "experience": 4.9
@@ -114835,7 +114970,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b0h5r1jbxg",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Biome Miracle, Freeze Recovery Gel, Skincare Gel, 50ml, with Cera-Hyamino Complex, and 50 …",
   "price": 314,
   "capacityLine": "50 ml",
@@ -114896,7 +115031,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b0h5r32g8y",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "BIOME Miracle UV Invisigel | 100HR Hydrating Gel Moisturizer With SPF50 PA+++ | For All Sk…",
   "price": 359,
   "capacityLine": "50 g",
@@ -117174,7 +117309,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0b8s53p74",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Haldi & Hyaluronic Acid Oil-Free Face Moisturizer for All Skin Types | With Niacinamide | …",
   "price": 314,
   "capacityLine": "50 g",
@@ -117307,7 +117442,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0fm115wfc",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Kesar & Kojic Acid Oil-Free Moisturizer | For Pigmentation-Free & Glowing Skin | Kesar Ext…",
   "price": 467,
   "capacityLine": "100 g",
@@ -122984,7 +123119,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0dgx8ll21",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Ceramide & Vitamin C Moisturizing Cream | With 2% Vitamin C Complex, 1% Ceramide | For Dry…",
   "price": 399,
   "capacityLine": "100 g",
@@ -124138,7 +124273,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0f26qfqrf",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Oats & Ceramide Oil-Free Face Moisturizer for Dry | Sensitive Skin | Dermatologically Test…",
   "price": 483,
   "capacityLine": "100 g",
@@ -128240,8 +128375,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b0gwq94p8h",
-  "brand": "Lakmē",
+  "id": "lakme-b0gwq94p8h",
+  "brand": "Lakme",
   "model": "Peach Milk Icy Sorbet Gel: First Ever Cooling Face Moisturizer with 2% Pro-Ceramides, Pept…",
   "price": 238,
   "capacityLine": "100 g",
@@ -128253,11 +128388,10 @@ const CTPRODUCTS = [
    "Contains evidence-backed actives (per listing)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.2,
+   "trust": 6,
    "skin": 4,
    "ingredients": 5.5,
    "experience": 4.9
@@ -128524,7 +128658,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0cm6jsf84",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Ceramide & Vitamin C Oil - Free Moisturizer| Lightweight Moisturizer To Hydrate & Brighten…",
   "price": 479,
   "capacityLine": "100 g",
@@ -128590,7 +128724,7 @@ const CTPRODUCTS = [
  {
   "id": "emolene-b086572k3n",
   "brand": "Emolene",
-  "model": "- Moisturizing Cream, Hydronourish Dry Skin, Restores Moisture Balance, Smoothens Skin, No…",
+  "model": "Moisturizing Cream, Hydronourish Dry Skin, Restores Moisture Balance, Smoothens Skin, Non-…",
   "price": 336,
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
@@ -129796,7 +129930,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b0cdgdrv9w",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Light Moisturiser with Cera-Hyamino for 5X Dryness Repair for Ultimate Soft, Smooth Skin |…",
   "price": 299,
   "capacityLine": "300 ml",
@@ -133609,7 +133743,7 @@ const CTPRODUCTS = [
  {
   "id": "avocado-b0g2xhkfzb",
   "brand": "Avocado",
-  "model": "| avocado cream | Avocado Face Cream | Night Cream Skin Whitening | Avocado Night Cream fo…",
+  "model": "avocado cream | Avocado Face Cream | Night Cream Skin Whitening | Avocado Night Cream for …",
   "price": 249,
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
@@ -135570,8 +135704,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b082vnhbwk",
-  "brand": "L'Oréal",
+  "id": "l-oreal-b082vnhbwk",
+  "brand": "L'Oreal",
   "model": "Paris Night Cream for the Face, Moisturising Anti-Ageing Night Cream with Calcium to Reduc…",
   "price": 999,
   "capacityLine": "50 ml",
@@ -135583,11 +135717,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Pricey: ₹1998/100ml",
-   "Marketplace brand — limited track record"
+   "Pricey: ₹1998/100ml"
   ],
   "scores": {
-   "trust": 5,
+   "trust": 6.8,
    "skin": 4,
    "ingredients": 4,
    "experience": 4.6
@@ -139372,8 +139505,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b09stbth86",
-  "brand": "L'Oréal",
+  "id": "l-oreal-b09stbth86",
+  "brand": "L'Oreal",
   "model": "Paris Glycolic Bright Day Cream with SPF 17, 50ml | Bright & Glowing Skin| Reduces dark sp…",
   "price": 522,
   "capacityLine": "50 ml",
@@ -139386,11 +139519,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Pricey: ₹1044/100ml",
-   "Marketplace brand — limited track record"
+   "Pricey: ₹1044/100ml"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 6.3,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.9
@@ -139975,8 +140107,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b007e9lr5c",
-  "brand": "L'Oréal",
+  "id": "l-oreal-b007e9lr5c",
+  "brand": "L'Oreal",
   "model": "Paris Day Cream, SPF 35 Pa++, Anti-Wrinkle and Radiance, Boosts Skin Elasticity, With Cent…",
   "price": 629,
   "capacityLine": "50 ml",
@@ -139988,11 +140120,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Pricey: ₹1258/100ml",
-   "Marketplace brand — limited track record"
+   "Pricey: ₹1258/100ml"
   ],
   "scores": {
-   "trust": 4.4,
+   "trust": 6.1,
    "skin": 4,
    "ingredients": 5.5,
    "experience": 5.3
@@ -140236,8 +140367,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b0dq47xl51",
-  "brand": "LAKMÉ",
+  "id": "lakme-b0dq47xl51",
+  "brand": "Lakme",
   "model": "Perfect Radiance Brightening Day Cream 15G With Niacinamide For Pigmentation, Moisturiser …",
   "price": 168,
   "capacityLine": "30 g (pack of 2)",
@@ -140248,11 +140379,10 @@ const CTPRODUCTS = [
    "Contains evidence-backed actives (per listing)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.4,
+   "trust": 6.1,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.9
@@ -140560,7 +140690,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b00cpljifk",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Age Miracle Wrinkle Corrector Spf 18 Pa++ Anti Aging Day Cream, 50 g",
   "price": 619,
   "capacityLine": "50 g",
@@ -141611,7 +141741,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b00u1cbumo",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Bright Beauty Spf 15 Day Cream 50 G, Non-Oily, Mattifying Daily Face Moisturizer - With Ni…",
   "price": 242,
   "capacityLine": "50 g",
@@ -141869,8 +141999,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b0h4h1cnl8",
-  "brand": "L'Oréal",
+  "id": "l-oreal-b0h4h1cnl8",
+  "brand": "L'Oreal",
   "model": "Paris Age Perfect Collagen Expert Day Cream 50ml | Anti-Aging Face Moisturizer for Mature …",
   "price": 1985,
   "capacityLine": "50 ml",
@@ -141882,11 +142012,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Pricey: ₹3970/100ml",
-   "Marketplace brand — limited track record"
+   "Pricey: ₹3970/100ml"
   ],
   "scores": {
-   "trust": 5.1,
+   "trust": 6.9,
    "skin": 4,
    "ingredients": 4,
    "experience": 4.6
@@ -142187,8 +142316,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b0gyyv21yz",
-  "brand": "L’Oréal",
+  "id": "l-oreal-b0gyyv21yz",
+  "brand": "L'Oreal",
   "model": "Paris Age Perfect Golden Age 60+ Day Cream 50ml – Anti-Sagging Face Moisturizer for Very M…",
   "price": 1980,
   "capacityLine": "50 ml",
@@ -142202,7 +142331,7 @@ const CTPRODUCTS = [
    "Mixed buyer rating (1.0)"
   ],
   "scores": {
-   "trust": 3,
+   "trust": 4.8,
    "skin": 4,
    "ingredients": 4,
    "experience": 4.9
@@ -142250,9 +142379,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b08961gxjq",
-  "brand": "L'Oréal",
-  "model": "- HYALURON SPECIALIST DAY CREAM - Anti-wrinkle face cream - Day - SPF 20-50 ml",
+  "id": "l-oreal-b08961gxjq",
+  "brand": "L'Oreal",
+  "model": "HYALURON SPECIALIST DAY CREAM - Anti-wrinkle face cream - Day - SPF 20-50 ml",
   "price": 949,
   "capacityLine": "50 ml",
   "materialLine": "Key ingredients not stated",
@@ -142263,11 +142392,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Pricey: ₹1898/100ml",
-   "Marketplace brand — limited track record"
+   "Pricey: ₹1898/100ml"
   ],
   "scores": {
-   "trust": 5,
+   "trust": 6.8,
    "skin": 4,
    "ingredients": 4,
    "experience": 4.6
@@ -142315,8 +142443,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b0gxb6dhmw",
-  "brand": "L’Oréal",
+  "id": "l-oreal-b0gxb6dhmw",
+  "brand": "L'Oreal",
   "model": "Paris Revitalift Energising Red Cream Day 50ml | Anti-Aging Face Moisturizer with Pro-Reti…",
   "price": 1299,
   "capacityLine": "50 ml",
@@ -142332,7 +142460,7 @@ const CTPRODUCTS = [
    "Mixed buyer rating (3.0)"
   ],
   "scores": {
-   "trust": 3,
+   "trust": 4.8,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.9
@@ -142778,7 +142906,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "l-oreal-b00e62g3ao",
-  "brand": "L’Oreal",
+  "brand": "L'Oreal",
   "model": "Paris Revitalift Day Cream SPF 35, Anti Wrinkle & Firming Moisturizer with Pro-Retinol, An…",
   "price": 840,
   "capacityLine": "50 ml",
@@ -142791,11 +142919,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Pricey: ₹1680/100ml",
-   "Marketplace brand — limited track record"
+   "Pricey: ₹1680/100ml"
   ],
   "scores": {
-   "trust": 5,
+   "trust": 6.8,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 5
@@ -144197,8 +144324,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b0h1n5bd96",
-  "brand": "L'Oréal",
+  "id": "l-oreal-b0h1n5bd96",
+  "brand": "L'Oreal",
   "model": "Paris Revitalift Anti Ageing Day Cream SPF 30 with Advanced UVA Protection Pro Retinol A a…",
   "price": 1399,
   "capacityLine": "50 ml",
@@ -144210,11 +144337,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Pricey: ₹2798/100ml",
-   "Marketplace brand — limited track record"
+   "Pricey: ₹2798/100ml"
   ],
   "scores": {
-   "trust": 3.9,
+   "trust": 5.7,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.6
@@ -145268,8 +145394,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b0b9lgk48h",
-  "brand": "L'Oréal",
+  "id": "l-oreal-b0b9lgk48h",
+  "brand": "L'Oreal",
   "model": "Paris Glycolic Bright Glowing Day Cream 50ML",
   "price": 710,
   "capacityLine": "50 ml",
@@ -145282,11 +145408,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Pricey: ₹1420/100ml",
-   "Marketplace brand — limited track record"
+   "Pricey: ₹1420/100ml"
   ],
   "scores": {
-   "trust": 4.7,
+   "trust": 6.5,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.5
@@ -150834,7 +150959,7 @@ const CTPRODUCTS = [
  {
   "id": "avocado-b0ct5t8yk7",
   "brand": "Avocado",
-  "model": ", Grapeseed & Jojoba Facial Oil –Organic, Cold-Pressed, and Vegan | Natural Moisturizer fo…",
+  "model": "Grapeseed & Jojoba Facial Oil –Organic, Cold-Pressed, and Vegan | Natural Moisturizer for …",
   "price": 449,
   "capacityLine": "135 ml (pack of 3)",
   "materialLine": "Key ingredients not stated",
@@ -150898,7 +151023,7 @@ const CTPRODUCTS = [
  {
   "id": "jojoba-b0ct5tdf6c",
   "brand": "Jojoba",
-  "model": ", Argan & Apricot Facial Oil: Cold-pressed, paraben-free, organic a moisturizer for radian…",
+  "model": "Argan & Apricot Facial Oil: Cold-pressed, paraben-free, organic a moisturizer for radiant …",
   "price": 449,
   "capacityLine": "135 ml (pack of 3)",
   "materialLine": "Key ingredients not stated",
@@ -160827,8 +160952,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b079nhbd4d",
-  "brand": "Lakmé",
+  "id": "lakme-b079nhbd4d",
+  "brand": "Lakme",
   "model": "Peach Milk Moisturiser SPF 30 with 2% Pro-Ceramide | Daily UV Defense, Hydrating & Skin Ba…",
   "price": 219,
   "capacityLine": "200 ml",
@@ -160841,11 +160966,10 @@ const CTPRODUCTS = [
    "Strong buyer rating (4.2)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 6.3,
    "skin": 4,
    "ingredients": 5.9,
    "experience": 5.6
@@ -168891,7 +169015,7 @@ const CTPRODUCTS = [
  {
   "id": "aqua-b0h8yf7418",
   "brand": "Aqua",
-  "model": "-Soft Max Intense Moisturizing Cream with Ceramide | 72H Hydration | Repairs, Hydrates & P…",
+  "model": "Soft Max Intense Moisturizing Cream with Ceramide | 72H Hydration | Repairs, Hydrates & Pr…",
   "price": 399,
   "capacityLine": "100 g",
   "materialLine": "ceramides",
@@ -174887,7 +175011,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b07t8nwdjv",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Super Light Gel Oil Free Face Moisturizer 147 g, With Hyaluronic Acid & Vitamin E for Fres…",
   "price": 390,
   "capacityLine": "147 g",
@@ -180378,8 +180502,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b0b9rbg83z",
-  "brand": "L'Oréal",
+  "id": "l-oreal-b0b9rbg83z",
+  "brand": "L'Oreal",
   "model": "Paris Glycolic Bright Day Cream with SPF 17, 15ml | Bright & Glowing Skin| Reduces dark sp…",
   "price": 259,
   "capacityLine": "15 ml",
@@ -180392,11 +180516,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Pricey: ₹1727/100ml",
-   "Marketplace brand — limited track record"
+   "Pricey: ₹1727/100ml"
   ],
   "scores": {
-   "trust": 4.7,
+   "trust": 6.5,
    "skin": 4.7,
    "ingredients": 5.1,
    "experience": 4.9
@@ -183332,7 +183455,7 @@ const CTPRODUCTS = [
    "Marketplace brand — limited track record"
   ],
   "scores": {
-   "trust": 4.9,
+   "trust": 5.9,
    "skin": 4.7,
    "ingredients": 5.8,
    "experience": 4.6
@@ -189155,8 +189278,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-itm5c1340268b398",
-  "brand": "L'Oréal",
+  "id": "l-oreal-itm5c1340268b398",
+  "brand": "L'Oreal",
   "model": "Paris Glycolic Bright Day Cream with SPF 30, Brightens Da …",
   "price": 1607,
   "capacityLine": "Quantity not stated",
@@ -189169,11 +189292,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 6.3,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.9
@@ -194727,9 +194849,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "dr-itmc8b7d134d78b3",
-  "brand": "Dr.",
-  "model": "Sheth’s Niacinamide Moisturizing Cream | 48-Hour* Hydration ( …",
+  "id": "dr-sheth-s-itmc8b7d134d78b3",
+  "brand": "Dr. Sheth's",
+  "model": "Niacinamide Moisturizing Cream | 48-Hour* Hydration ( …",
   "price": 434,
   "capacityLine": "100 g",
   "materialLine": "niacinamide",
@@ -194739,11 +194861,10 @@ const CTPRODUCTS = [
    "Contains evidence-backed actives (per listing)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.4,
+   "trust": 5.4,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.6
@@ -194793,8 +194914,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-itm0b8ea86dd4cb9",
-  "brand": "Lakmé",
+  "id": "lakme-itm0b8ea86dd4cb9",
+  "brand": "Lakme",
   "model": "Perfect Radiance Brightening Night Cream with Niacinamide F …",
   "price": 412,
   "capacityLine": "Quantity not stated",
@@ -194807,11 +194928,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.7,
+   "trust": 6.5,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.5
@@ -196277,8 +196397,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-itm437c0e6eda961",
-  "brand": "Lakmé",
+  "id": "lakme-itm437c0e6eda961",
+  "brand": "Lakme",
   "model": "Peach Milk Moisturiser SPF 30 & Ceramide, Barrier Repair, A …",
   "price": 224,
   "capacityLine": "Quantity not stated",
@@ -196291,11 +196411,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.8,
+   "trust": 6.6,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 5
@@ -205906,7 +206025,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0bk1nz259",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Kesar & 2% Kojic Acid Daily Pigmentation Correction Face Cream | Lightweight & Non-Greasy …",
   "price": 299,
   "capacityLine": "30 g",
@@ -205974,7 +206093,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0chfs8twy",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Kesar & Kojic Acid Oil-Free Face Moisturizer for Normal to Oily Skin | Dermatologically Te…",
   "price": 262,
   "capacityLine": "50 g",
@@ -206307,7 +206426,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0dhx3v43q",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Kesar & Kojic Acid Moisturizing Cream | For Normal to Combination Skin | Reduces Pigmentat…",
   "price": 374,
   "capacityLine": "100 g",
@@ -212537,7 +212656,7 @@ const CTPRODUCTS = [
  {
   "id": "plix-b0btscrjj8",
   "brand": "PLIX",
-  "model": "- THE PLANT FIX Skin Depigmentation Pineapple Face Cream For Women & Men|Hyperpigmentation…",
+  "model": "THE PLANT FIX Skin Depigmentation Pineapple Face Cream For Women & Men|Hyperpigmentation,T…",
   "price": 499,
   "capacityLine": "50 g",
   "materialLine": "alpha arbutin",
@@ -215566,7 +215685,7 @@ const CTPRODUCTS = [
  {
   "id": "plix-b0ct2sq1lg",
   "brand": "PLIX",
-  "model": "- THE PLANT FIX | Pineapple Clarifying Regime With Pineapple Exfoliation Fruity Toner, Dep…",
+  "model": "THE PLANT FIX | Pineapple Clarifying Regime With Pineapple Exfoliation Fruity Toner, Depig…",
   "price": 995,
   "capacityLine": "280 ml",
   "materialLine": "salicylic acid (BHA)",
@@ -216114,7 +216233,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0dlw7t8z7",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Centella And Niacinamide Moisturizing Cream |For Oily & Acne Prone Skin | Fades Acne Marks…",
   "price": 262,
   "capacityLine": "50 g",
@@ -220650,7 +220769,7 @@ const CTPRODUCTS = [
  {
   "id": "radiance-b0hgfxg54t",
   "brand": "Radiance",
-  "model": ", Hydration & UV Defence Combo | 30ml Serum + 50ml Moisturizer + 50ml Sunscreen SPF 50 PA+…",
+  "model": "Hydration & UV Defence Combo | 30ml Serum + 50ml Moisturizer + 50ml Sunscreen SPF 50 PA+++…",
   "price": 960,
   "capacityLine": "30 ml",
   "materialLine": "vitamin C + niacinamide + hyaluronic acid",
@@ -222080,7 +222199,7 @@ const CTPRODUCTS = [
  {
   "id": "glycerine-b0c4352zpz",
   "brand": "Glycerine",
-  "model": "| Soft & Glowing Skin | Moisturizer Cream for Beauty & Care | Organic for Hair Care | Dryn…",
+  "model": "Soft & Glowing Skin | Moisturizer Cream for Beauty & Care | Organic for Hair Care | Drynes…",
   "price": 350,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",

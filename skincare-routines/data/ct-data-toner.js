@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-03.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-04.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -8349,7 +8349,7 @@ const CTPRODUCTS = [
  {
   "id": "tnw-itmc878c9f970dfb",
   "brand": "TNW",
-  "model": "- The Natural Wash Steam Distilled Rose Water Toner & Hydrato …",
+  "model": "The Natural Wash Steam Distilled Rose Water Toner & Hydrato …",
   "price": 215,
   "capacityLine": "Quantity not stated",
   "materialLine": "rose",
@@ -32033,7 +32033,7 @@ const CTPRODUCTS = [
  {
   "id": "tnw-itm80c9faee85a15",
   "brand": "TNW",
-  "model": "- The Natural Wash Cucumber Toner & Makeup Remover | Hydratin …",
+  "model": "The Natural Wash Cucumber Toner & Makeup Remover | Hydratin …",
   "price": 212,
   "capacityLine": "Quantity not stated",
   "materialLine": "cucumber",
@@ -42036,7 +42036,7 @@ const CTPRODUCTS = [
  {
   "id": "tnw-itm5c38f22700281",
   "brand": "TNW",
-  "model": "- The Natural Wash Vitamin C Face Toner With Niacinamide & Wi …",
+  "model": "The Natural Wash Vitamin C Face Toner With Niacinamide & Wi …",
   "price": 258,
   "capacityLine": "Quantity not stated",
   "materialLine": "vitamin C + niacinamide",
@@ -47875,7 +47875,7 @@ const CTPRODUCTS = [
  {
   "id": "care-b07sg73v98",
   "brand": "Care",
-  "model": "- Soft Sweep Micellar Cleanser and Facial Toner, Alcohol-Free and Paraben-Free Micellar Cl…",
+  "model": "Soft Sweep Micellar Cleanser and Facial Toner, Alcohol-Free and Paraben-Free Micellar Clea…",
   "price": 5300,
   "capacityLine": "Quantity not stated",
   "materialLine": "hyaluronic acid",
@@ -47941,7 +47941,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "johnson-s-b08yy21g4p",
-  "brand": "Johnson'S",
+  "brand": "Johnson's",
   "model": "Fresh Hydration Micellar Cleansing Jelly with Rose Water - 200 ml",
   "price": 699,
   "capacityLine": "200 ml",
@@ -51220,7 +51220,7 @@ const CTPRODUCTS = [
  {
   "id": "plix-b0crz8bvn7",
   "brand": "PLIX",
-  "model": "- THE PLANT FIX Jamun Clarifying Fruity Toner (150 Ml)|With Niacinamide & Jamun Extract|Ta…",
+  "model": "THE PLANT FIX Jamun Clarifying Fruity Toner (150 Ml)|With Niacinamide & Jamun Extract|Targ…",
   "price": 209,
   "capacityLine": "150 ml",
   "materialLine": "niacinamide",
@@ -62853,9 +62853,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b0cgm7bnyp",
-  "brand": "Nature’s",
-  "model": "Essence Refreshing Rose Toner, 100Ml",
+  "id": "nature-s-essence-b0cgm7bnyp",
+  "brand": "Nature's Essence",
+  "model": "Refreshing Rose Toner, 100Ml",
   "price": 63,
   "capacityLine": "100 ml",
   "materialLine": "rose",
@@ -62866,11 +62866,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Mixed buyer rating (3.9)",
-   "Marketplace brand — limited track record"
+   "Mixed buyer rating (3.9)"
   ],
   "scores": {
-   "trust": 4.1,
+   "trust": 5.1,
    "skin": 4,
    "ingredients": 4.4,
    "experience": 4.2
@@ -66915,7 +66914,7 @@ const CTPRODUCTS = [
  {
   "id": "kayapalat-b0f8bf3htz",
   "brand": "KAYAPALAT",
-  "model": "- Rose Water To Make A Healthier Skin And Better Skin Tone | Natural Facial Toner and Hydr…",
+  "model": "Rose Water To Make A Healthier Skin And Better Skin Tone | Natural Facial Toner and Hydrat…",
   "price": 119,
   "capacityLine": "100 g",
   "materialLine": "rose",
@@ -72792,7 +72791,7 @@ const CTPRODUCTS = [
  {
   "id": "benton-b07qmtgy8z",
   "brand": "Benton",
-  "model": ", Deep Green Tea Toner, 5.07 fl oz (150 ml)",
+  "model": "Deep Green Tea Toner, 5.07 fl oz (150 ml)",
   "price": 2290,
   "capacityLine": "150 ml",
   "materialLine": "green tea",
@@ -76419,7 +76418,7 @@ const CTPRODUCTS = [
  {
   "id": "cucumber-b0dh4w6xxb",
   "brand": "Cucumber",
-  "model": ", Green Tea & Neem Hydrating Face Toner For Glowing Skin | Pure & Natural Face Toner For M…",
+  "model": "Green Tea & Neem Hydrating Face Toner For Glowing Skin | Pure & Natural Face Toner For Men…",
   "price": 565,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "green tea + cucumber + neem",
@@ -76485,7 +76484,7 @@ const CTPRODUCTS = [
  {
   "id": "cucumber-b0dh4txy6b",
   "brand": "Cucumber",
-  "model": ", Green Tea & Honey Hydrating Face Toner For Glowing Skin | Pure & Natural Face Toner For …",
+  "model": "Green Tea & Honey Hydrating Face Toner For Glowing Skin | Pure & Natural Face Toner For Me…",
   "price": 565,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "green tea + honey + cucumber",
@@ -77290,7 +77289,7 @@ const CTPRODUCTS = [
  {
   "id": "cucumber-b0dgxzhqmc",
   "brand": "Cucumber",
-  "model": ", Green Tea & Neem Face Mist Skin Toner for Face | Pure & Natural Face Toner For Men & Wom…",
+  "model": "Green Tea & Neem Face Mist Skin Toner for Face | Pure & Natural Face Toner For Men & Women…",
   "price": 399,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "green tea + cucumber + neem",
@@ -77355,7 +77354,7 @@ const CTPRODUCTS = [
  {
   "id": "cucumber-b0dh4vmcv2",
   "brand": "Cucumber",
-  "model": ", Green Tea & Vitamin C Hydrating Face Toner For Glowing Skin | Pure & Natural Face Toner …",
+  "model": "Green Tea & Vitamin C Hydrating Face Toner For Glowing Skin | Pure & Natural Face Toner Fo…",
   "price": 565,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "vitamin C + green tea + cucumber",
@@ -77973,7 +77972,7 @@ const CTPRODUCTS = [
  {
   "id": "cucumber-b0dh4y5bwq",
   "brand": "Cucumber",
-  "model": ", Green Tea & Rose Petal Hydrating Face Toner For Glowing Skin | Pure & Natural Face Toner…",
+  "model": "Green Tea & Rose Petal Hydrating Face Toner For Glowing Skin | Pure & Natural Face Toner F…",
   "price": 565,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "green tea + rose + cucumber",
@@ -78239,7 +78238,7 @@ const CTPRODUCTS = [
  {
   "id": "cucumber-b0dgxy8597",
   "brand": "Cucumber",
-  "model": ", Green Tea & Honey Face Mist Skin Toner for Face | Pure & Natural Face Toner For Men & Wo…",
+  "model": "Green Tea & Honey Face Mist Skin Toner for Face | Pure & Natural Face Toner For Men & Wome…",
   "price": 399,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "green tea + honey + cucumber",
@@ -78510,7 +78509,7 @@ const CTPRODUCTS = [
  {
   "id": "cucumber-b0dh23yqx2",
   "brand": "Cucumber",
-  "model": ", Green Tea & Neem Face Mist Skin Toner for Face | Pure & Natural Face Toner For Men & Wom…",
+  "model": "Green Tea & Neem Face Mist Skin Toner for Face | Pure & Natural Face Toner For Men & Women…",
   "price": 569,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "green tea + cucumber + neem",
@@ -78642,7 +78641,7 @@ const CTPRODUCTS = [
  {
   "id": "cucumber-b0dgxzq1gx",
   "brand": "Cucumber",
-  "model": ", Green Tea & Vitamin C Face Mist Skin Toner for Face | Pure & Natural Face Toner For Men …",
+  "model": "Green Tea & Vitamin C Face Mist Skin Toner for Face | Pure & Natural Face Toner For Men & …",
   "price": 399,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "vitamin C + green tea + cucumber",
@@ -78835,7 +78834,7 @@ const CTPRODUCTS = [
  {
   "id": "cucumber-b0dh24hhl4",
   "brand": "Cucumber",
-  "model": ", Green Tea & Honey Face Mist Skin Toner for Face | Pure & Natural Face Toner For Men & Wo…",
+  "model": "Green Tea & Honey Face Mist Skin Toner for Face | Pure & Natural Face Toner For Men & Wome…",
   "price": 569,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "green tea + honey + cucumber",
@@ -79237,7 +79236,7 @@ const CTPRODUCTS = [
  {
   "id": "cucumber-b0dh26b8z1",
   "brand": "Cucumber",
-  "model": ", Green Tea & Neem Face Mist Skin Toner for Face | Pure & Natural Face Toner For Men & Wom…",
+  "model": "Green Tea & Neem Face Mist Skin Toner for Face | Pure & Natural Face Toner For Men & Women…",
   "price": 569,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "green tea + cucumber + neem",
@@ -79367,7 +79366,7 @@ const CTPRODUCTS = [
  {
   "id": "cucumber-b0dh21srtd",
   "brand": "Cucumber",
-  "model": ", Green Tea & Honey Face Mist Skin Toner for Face | Pure & Natural Face Toner For Men & Wo…",
+  "model": "Green Tea & Honey Face Mist Skin Toner for Face | Pure & Natural Face Toner For Men & Wome…",
   "price": 569,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "green tea + honey + cucumber",
@@ -79712,7 +79711,7 @@ const CTPRODUCTS = [
  {
   "id": "cucumber-b0dgxxprky",
   "brand": "Cucumber",
-  "model": ", Green Tea & Rose Petal Face Mist Skin Toner for Face | Pure & Natural Face Toner For Men…",
+  "model": "Green Tea & Rose Petal Face Mist Skin Toner for Face | Pure & Natural Face Toner For Men &…",
   "price": 399,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "green tea + rose + cucumber",
@@ -79915,7 +79914,7 @@ const CTPRODUCTS = [
  {
   "id": "cucumber-b0dh1zx9xr",
   "brand": "Cucumber",
-  "model": ", Green Tea & Vitamin C Face Mist Skin Toner for Face | Pure & Natural Face Toner For Men …",
+  "model": "Green Tea & Vitamin C Face Mist Skin Toner for Face | Pure & Natural Face Toner For Men & …",
   "price": 569,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "vitamin C + green tea + cucumber",
@@ -80042,7 +80041,7 @@ const CTPRODUCTS = [
  {
   "id": "cucumber-b0dh249l4l",
   "brand": "Cucumber",
-  "model": ", Green Tea & Vitamin C Face Mist Skin Toner for Face | Pure & Natural Face Toner For Men …",
+  "model": "Green Tea & Vitamin C Face Mist Skin Toner for Face | Pure & Natural Face Toner For Men & …",
   "price": 569,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "vitamin C + green tea + cucumber",
@@ -82377,7 +82376,7 @@ const CTPRODUCTS = [
  {
   "id": "plix-b0crz9y2g8",
   "brand": "PLIX",
-  "model": "- THE PLANT FIX Pineapple PHA 3% Alcohol Free Face Toner (150ml) | Pore Tightening & Mild …",
+  "model": "THE PLANT FIX Pineapple PHA 3% Alcohol Free Face Toner (150ml) | Pore Tightening & Mild Ex…",
   "price": 263,
   "capacityLine": "150 ml",
   "materialLine": "PHA",
@@ -86396,7 +86395,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "paula-s-choice-b008eppiq4",
-  "brand": "Paula'S Choice",
+  "brand": "Paula's Choice",
   "model": "Skin Balancing Pore-Reducing Face Toner with Niacinamide, for Oily Skin & Combination, Min…",
   "price": 2230,
   "capacityLine": "190 ml",
@@ -100265,7 +100264,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "nature-s-essence-b0cmd4z7ly",
-  "brand": "Nature'S Essence",
+  "brand": "Nature's Essence",
   "model": "CTM Combo - The Ultimate Skincare Trio, Cleansing Milk - Toner - Moisturiser, 300ml",
   "price": 179,
   "capacityLine": "300 ml",
@@ -118228,7 +118227,7 @@ const CTPRODUCTS = [
  {
   "id": "gfsu-itm5dd8b58ec3894",
   "brand": "GFSU",
-  "model": "- GO FOR SOMETHING UNIQUE Alcohol-Free Toner For Oily, Acne- …",
+  "model": "GO FOR SOMETHING UNIQUE Alcohol-Free Toner For Oily, Acne- …",
   "price": 325,
   "capacityLine": "40 g",
   "materialLine": "glycolic acid + PHA + hyaluronic acid",
@@ -137174,7 +137173,7 @@ const CTPRODUCTS = [
  {
   "id": "restore-b0h9dsknrc",
   "brand": "RESTORE",
-  "model": "- \"AGEING WELL\" Rice Water Toner | Hyaluronic Acid Japanese Rice Water Probiotic Lactic Ac…",
+  "model": "\"AGEING WELL\" Rice Water Toner | Hyaluronic Acid Japanese Rice Water Probiotic Lactic Acid…",
   "price": 499,
   "capacityLine": "100 ml",
   "materialLine": "lactic acid + hyaluronic acid + rice water",
@@ -142549,7 +142548,7 @@ const CTPRODUCTS = [
  {
   "id": "plix-b0ct2sq1lg",
   "brand": "PLIX",
-  "model": "- THE PLANT FIX | Pineapple Clarifying Regime With Pineapple Exfoliation Fruity Toner, Dep…",
+  "model": "THE PLANT FIX | Pineapple Clarifying Regime With Pineapple Exfoliation Fruity Toner, Depig…",
   "price": 995,
   "capacityLine": "280 ml",
   "materialLine": "salicylic acid (BHA)",

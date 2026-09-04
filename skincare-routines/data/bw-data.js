@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-03.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-04.
 // Unknown fields are honestly marked, never invented.
 const WASHES = [
  {
@@ -93448,7 +93448,7 @@ const WASHES = [
  {
   "id": "tedibar-b09lvxh68z",
   "brand": "Tedibar",
-  "model": "- Body wash for Babies| 100% soap & Alkali free | Skin-friendly pH 5.5| Recommended by ped…",
+  "model": "Body wash for Babies| 100% soap & Alkali free | Skin-friendly pH 5.5| Recommended by pedia…",
   "price": 630,
   "capacityLine": "250 ml",
   "materialLine": "Key ingredients not stated",
@@ -95309,7 +95309,7 @@ const WASHES = [
  {
   "id": "plix-b0c6y3cj3x",
   "brand": "PLIX",
-  "model": "- THE PLANT FIX Jamun 2% Salicylic Acid Body Wash For Body Acne | Paraben & Silicones Free…",
+  "model": "THE PLANT FIX Jamun 2% Salicylic Acid Body Wash For Body Acne | Paraben & Silicones Free |…",
   "price": 299,
   "capacityLine": "236 ml",
   "materialLine": "salicylic acid",
@@ -98480,7 +98480,7 @@ const WASHES = [
  {
   "id": "cocky-b0f8jc44bh",
   "brand": "Cocky",
-  "model": "- The One Body Wash for Men | All-in-One Deep Cleansing, De-Tan, Detox, Anti-Acne | Powere…",
+  "model": "The One Body Wash for Men | All-in-One Deep Cleansing, De-Tan, Detox, Anti-Acne | Powered …",
   "price": 556,
   "capacityLine": "300 ml",
   "materialLine": "charcoal + salicylic acid",
@@ -112773,7 +112773,7 @@ const WASHES = [
  {
   "id": "cocky-b0glgxdwcc",
   "brand": "Cocky",
-  "model": "- The One Body Wash for Men | All-in-One Deep Cleansing, De-Tan, Detox, Anti-Acne | Powere…",
+  "model": "The One Body Wash for Men | All-in-One Deep Cleansing, De-Tan, Detox, Anti-Acne | Powered …",
   "price": 999,
   "capacityLine": "600 ml (pack of 2)",
   "materialLine": "charcoal + salicylic acid",

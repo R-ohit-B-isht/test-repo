@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-03.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-04.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -6267,7 +6267,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-itmdb92b52f70db3",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Bright Beauty Day Brightening Face Cream | SPF 15 (35 g)",
   "price": 169,
   "capacityLine": "35 g",
@@ -9009,7 +9009,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b0bv23kfgy",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Serum boost sunscreen For All skin types prevent and fade dark patches with the power of S…",
   "price": 309,
   "capacityLine": "100 g",
@@ -9213,7 +9213,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b077ndkg7d",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Youthful Miracle Hexyl Retinol Complex, Renew & Repair Day Cream 50g SPF 15 PA++",
   "price": 398,
   "capacityLine": "50 g",
@@ -10311,7 +10311,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "paula-s-choice-b0105g0r7o",
-  "brand": "Paula'S Choice",
+  "brand": "Paula's Choice",
   "model": "RESIST Daily Hydrating Fluid Face Moisturizer SPF 50, UVA & UVB Protection, Chamomile & Vi…",
   "price": 1200,
   "capacityLine": "15 ml",
@@ -10375,7 +10375,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "paula-s-choice-b00nggfltu",
-  "brand": "Paula'S Choice",
+  "brand": "Paula's Choice",
   "model": "RESIST Daily Hydrating Fluid Face Cream/Moisturizer SPF 50, UVA & UVB Protection, Chamomil…",
   "price": 3440,
   "capacityLine": "60 ml",
@@ -10442,7 +10442,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "paula-s-choice-b0105g7p1k",
-  "brand": "Paula'S Choice",
+  "brand": "Paula's Choice",
   "model": "CLEAR Ultra-Light Hydrating Oil Free Face Sunscreen & Moisturizer, SPF 30 Sunscreen for Fa…",
   "price": 900,
   "capacityLine": "15 ml",
@@ -10568,8 +10568,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b00gssjmuc",
-  "brand": "Lakmé",
+  "id": "lakme-b00gssjmuc",
+  "brand": "Lakme",
   "model": "Peach Milk Moisturiser SPF 30 with 2% Pro-Ceramide | Daily UV Defense, Hydrating & Skin Ba…",
   "price": 182,
   "capacityLine": "120 ml",
@@ -10582,11 +10582,10 @@ const CTPRODUCTS = [
    "Strong buyer rating (4.2)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 6.3,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 5
@@ -10848,7 +10847,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b077nd8562",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Bright Beauty Day Cream 35 g, Non-Oily, Mattifying Daily Face Moisturizer, SPF 15 - With N…",
   "price": 164,
   "capacityLine": "35 g",
@@ -11573,7 +11572,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b0h5r32g8y",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "BIOME Miracle UV Invisigel | 100HR Hydrating Gel Moisturizer With SPF50 PA+++ | For All Sk…",
   "price": 359,
   "capacityLine": "50 g",
@@ -12980,8 +12979,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b09stbth86",
-  "brand": "L'Oréal",
+  "id": "l-oreal-b09stbth86",
+  "brand": "L'Oreal",
   "model": "Paris Glycolic Bright Day Cream with SPF 17, 50ml | Bright & Glowing Skin| Reduces dark sp…",
   "price": 522,
   "capacityLine": "50 ml",
@@ -12994,11 +12993,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Pricey: ₹1044/100ml",
-   "Marketplace brand — limited track record"
+   "Pricey: ₹1044/100ml"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 6.3,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.9
@@ -13324,8 +13322,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b007e9lr5c",
-  "brand": "L'Oréal",
+  "id": "l-oreal-b007e9lr5c",
+  "brand": "L'Oreal",
   "model": "Paris Day Cream, SPF 35 Pa++, Anti-Wrinkle and Radiance, Boosts Skin Elasticity, With Cent…",
   "price": 629,
   "capacityLine": "50 ml",
@@ -13337,11 +13335,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Pricey: ₹1258/100ml",
-   "Marketplace brand — limited track record"
+   "Pricey: ₹1258/100ml"
   ],
   "scores": {
-   "trust": 4.4,
+   "trust": 6.1,
    "skin": 4,
    "ingredients": 5.5,
    "experience": 5.3
@@ -13530,7 +13527,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b00cpljifk",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Age Miracle Wrinkle Corrector Spf 18 Pa++ Anti Aging Day Cream, 50 g",
   "price": 619,
   "capacityLine": "50 g",
@@ -13999,7 +13996,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b00u1cbumo",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Bright Beauty Spf 15 Day Cream 50 G, Non-Oily, Mattifying Daily Face Moisturizer - With Ni…",
   "price": 242,
   "capacityLine": "50 g",
@@ -14196,9 +14193,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b08961gxjq",
-  "brand": "L'Oréal",
-  "model": "- HYALURON SPECIALIST DAY CREAM - Anti-wrinkle face cream - Day - SPF 20-50 ml",
+  "id": "l-oreal-b08961gxjq",
+  "brand": "L'Oreal",
+  "model": "HYALURON SPECIALIST DAY CREAM - Anti-wrinkle face cream - Day - SPF 20-50 ml",
   "price": 949,
   "capacityLine": "50 ml",
   "materialLine": "Key ingredients not stated",
@@ -14209,11 +14206,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Pricey: ₹1898/100ml",
-   "Marketplace brand — limited track record"
+   "Pricey: ₹1898/100ml"
   ],
   "scores": {
-   "trust": 5,
+   "trust": 6.8,
    "skin": 4,
    "ingredients": 4,
    "experience": 4.6
@@ -14397,7 +14393,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "l-oreal-b00e62g3ao",
-  "brand": "L’Oreal",
+  "brand": "L'Oreal",
   "model": "Paris Revitalift Day Cream SPF 35, Anti Wrinkle & Firming Moisturizer with Pro-Retinol, An…",
   "price": 840,
   "capacityLine": "50 ml",
@@ -14410,11 +14406,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Pricey: ₹1680/100ml",
-   "Marketplace brand — limited track record"
+   "Pricey: ₹1680/100ml"
   ],
   "scores": {
-   "trust": 5,
+   "trust": 6.8,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 5
@@ -15243,8 +15238,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b0h1n5bd96",
-  "brand": "L'Oréal",
+  "id": "l-oreal-b0h1n5bd96",
+  "brand": "L'Oreal",
   "model": "Paris Revitalift Anti Ageing Day Cream SPF 30 with Advanced UVA Protection Pro Retinol A a…",
   "price": 1399,
   "capacityLine": "50 ml",
@@ -15256,11 +15251,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Pricey: ₹2798/100ml",
-   "Marketplace brand — limited track record"
+   "Pricey: ₹2798/100ml"
   ],
   "scores": {
-   "trust": 3.9,
+   "trust": 5.7,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.6
@@ -18602,8 +18596,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b079nhbd4d",
-  "brand": "Lakmé",
+  "id": "lakme-b079nhbd4d",
+  "brand": "Lakme",
   "model": "Peach Milk Moisturiser SPF 30 with 2% Pro-Ceramide | Daily UV Defense, Hydrating & Skin Ba…",
   "price": 219,
   "capacityLine": "200 ml",
@@ -18616,11 +18610,10 @@ const CTPRODUCTS = [
    "Strong buyer rating (4.2)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 6.3,
    "skin": 4,
    "ingredients": 5.9,
    "experience": 5.6
@@ -20769,7 +20762,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b09wjg7qtr",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Ceramide & Vitamin C Sunscreen SPF 50+ PA++++",
   "price": 439,
   "capacityLine": "Quantity not stated",
@@ -24587,7 +24580,7 @@ const CTPRODUCTS = [
  {
   "id": "plix-b0fm8qym3m",
   "brand": "PLIX",
-  "model": "- THE PLANT FIX Watermelon Hydra-Cool Sunscreen Body Lotion With SPF 50 | PA++++ | Ceramid…",
+  "model": "THE PLANT FIX Watermelon Hydra-Cool Sunscreen Body Lotion With SPF 50 | PA++++ | Ceramides…",
   "price": 389,
   "capacityLine": "150 ml",
   "materialLine": "ceramides + centella/cica",
@@ -26781,7 +26774,7 @@ const CTPRODUCTS = [
  {
   "id": "kdit-b0hd7fdsmr",
   "brand": "KDIT",
-  "model": "- Instant Skin Lightening Cream with Sunscreen, SPF 30, 20 g (Pack of 1)",
+  "model": "Instant Skin Lightening Cream with Sunscreen, SPF 30, 20 g (Pack of 1)",
   "price": 495,
   "capacityLine": "20 g",
   "materialLine": "Key ingredients not stated",
@@ -30258,7 +30251,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0dvb9cgds",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Ceramide & Vitamin C Oil-Free Sunscreen SPF 50+ PA++++",
   "price": 409,
   "capacityLine": "Quantity not stated",
@@ -32836,8 +32829,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "av-ne-b07n4pppkd",
-  "brand": "AvèNe",
+  "id": "avene-b07n4pppkd",
+  "brand": "Avene",
   "model": "Sun Cleanance Sunscreen SPF50+ 50ml",
   "price": 2374,
   "capacityLine": "50 ml",
@@ -33100,8 +33093,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b0b9rbg83z",
-  "brand": "L'Oréal",
+  "id": "l-oreal-b0b9rbg83z",
+  "brand": "L'Oreal",
   "model": "Paris Glycolic Bright Day Cream with SPF 17, 15ml | Bright & Glowing Skin| Reduces dark sp…",
   "price": 259,
   "capacityLine": "15 ml",
@@ -33114,11 +33107,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Pricey: ₹1727/100ml",
-   "Marketplace brand — limited track record"
+   "Pricey: ₹1727/100ml"
   ],
   "scores": {
-   "trust": 4.7,
+   "trust": 6.5,
    "skin": 4.7,
    "ingredients": 5.1,
    "experience": 4.9
@@ -35329,7 +35321,7 @@ const CTPRODUCTS = [
  {
   "id": "sun-b0fzsz33hh",
   "brand": "Sun",
-  "model": "| SPF 50+ PA+++ Moisturising & Repairing Sunscreen for Men | No White Cast | Lightweight &…",
+  "model": "SPF 50+ PA+++ Moisturising & Repairing Sunscreen for Men | No White Cast | Lightweight & N…",
   "price": 499,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
@@ -36742,8 +36734,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "av-ne-b07pmcktbp",
-  "brand": "AvèNe",
+  "id": "avene-b07pmcktbp",
+  "brand": "Avene",
   "model": "Sunscreen SPF50+ Spray, High Protection Sunscreen for Intense Sun Exposure, UVA and UVB Pr…",
   "price": 2849,
   "capacityLine": "Quantity not stated",
@@ -37851,8 +37843,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-itm5c1340268b398",
-  "brand": "L'Oréal",
+  "id": "l-oreal-itm5c1340268b398",
+  "brand": "L'Oreal",
   "model": "Paris Glycolic Bright Day Cream with SPF 30, Brightens Da …",
   "price": 1607,
   "capacityLine": "Quantity not stated",
@@ -37865,11 +37857,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 6.3,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.9
@@ -41022,9 +41013,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "dr-itm5a20d778dfe4f",
-  "brand": "Dr.",
-  "model": "Sheth’s Sunscreen - SPF 50 PA++++ Ceramide & Vitamin C|SPF 50 …",
+  "id": "dr-sheth-s-itm5a20d778dfe4f",
+  "brand": "Dr. Sheth's",
+  "model": "Sunscreen - SPF 50 PA++++ Ceramide & Vitamin C|SPF 50 …",
   "price": 659,
   "capacityLine": "Quantity not stated",
   "materialLine": "vitamin C + ceramides",
@@ -41036,11 +41027,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 5.6,
    "skin": 4,
    "ingredients": 5.5,
    "experience": 5
@@ -41478,7 +41468,7 @@ const CTPRODUCTS = [
    "Marketplace brand — limited track record"
   ],
   "scores": {
-   "trust": 4.4,
+   "trust": 5.4,
    "skin": 4,
    "ingredients": 5.5,
    "experience": 5
@@ -44143,9 +44133,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "dr-itm192723e4b069d",
-  "brand": "Dr.",
-  "model": "Sheth’s Sunscreen - SPF 50 PA+++ Centella & Niacinamide Oil & …",
+  "id": "dr-sheth-s-itm192723e4b069d",
+  "brand": "Dr. Sheth's",
+  "model": "Sunscreen - SPF 50 PA+++ Centella & Niacinamide Oil & …",
   "price": 629,
   "capacityLine": "Quantity not stated",
   "materialLine": "niacinamide + centella/cica",
@@ -44157,11 +44147,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 5.6,
    "skin": 4,
    "ingredients": 5.5,
    "experience": 5.3
@@ -56516,7 +56505,7 @@ const CTPRODUCTS = [
  {
   "id": "eiq-itm2f62db4fe8db1",
   "brand": "EIQ",
-  "model": "- EINSTEINIQ Sunscreen - SPF 50PA ++++ PA++++ Sunbliss Matte …",
+  "model": "EINSTEINIQ Sunscreen - SPF 50PA ++++ PA++++ Sunbliss Matte …",
   "price": 729,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
@@ -58633,9 +58622,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "dr-itmc847452973dbf",
-  "brand": "Dr.",
-  "model": "Sheth’s Sunscreen - SPF 50+ PA+++ Haldi & Hyaluronic Acid Sun …",
+  "id": "dr-sheth-s-itmc847452973dbf",
+  "brand": "Dr. Sheth's",
+  "model": "Sunscreen - SPF 50+ PA+++ Haldi & Hyaluronic Acid Sun …",
   "price": 455,
   "capacityLine": "Quantity not stated",
   "materialLine": "hyaluronic acid + turmeric",
@@ -58647,11 +58636,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 5.6,
    "skin": 4,
    "ingredients": 5.5,
    "experience": 5
@@ -58930,8 +58918,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-itm437c0e6eda961",
-  "brand": "Lakmé",
+  "id": "lakme-itm437c0e6eda961",
+  "brand": "Lakme",
   "model": "Peach Milk Moisturiser SPF 30 & Ceramide, Barrier Repair, A …",
   "price": 224,
   "capacityLine": "Quantity not stated",
@@ -58944,11 +58932,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.8,
+   "trust": 6.6,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 5
@@ -117425,8 +117412,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-itmc0577196ab744",
-  "brand": "Lakmé",
+  "id": "lakme-itmc0577196ab744",
+  "brand": "Lakme",
   "model": "Sunscreen - SPF 50 PA+++ Sun Expert 5% Nia-VIT C Sunscreen, …",
   "price": 449,
   "capacityLine": "Quantity not stated",
@@ -117439,11 +117426,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.7,
+   "trust": 6.5,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.9
@@ -117906,7 +117892,7 @@ const CTPRODUCTS = [
  {
   "id": "tnw-itm88965bce62fa0",
   "brand": "TNW",
-  "model": "- The Natural Wash Sunscreen - SPF 50 PA+++ Sun Defence SPF 5 …",
+  "model": "The Natural Wash Sunscreen - SPF 50 PA+++ Sun Defence SPF 5 …",
   "price": 362,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
@@ -163347,7 +163333,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0csph8ftz",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Kesar & Kojic Acid Sunscreen SPF 50+ PA++++ | In-Vivo Tested | No White Cast | for Oily-ac…",
   "price": 374,
   "capacityLine": "50 g",
@@ -163906,7 +163892,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0d1vdgqh5",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Ceramide & Vitamin C Sunscreen | In-Vivo Tested | Protects, Moisturizes & Brightens Skin |…",
   "price": 269,
   "capacityLine": "30 g",
@@ -163973,8 +163959,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b0744r95bt",
-  "brand": "Lakmē",
+  "id": "lakme-b0744r95bt",
+  "brand": "Lakme",
   "model": "Water Light Gel In-Vivo tested SPF 50 PA++++ Sunscreen with Niacinamide For Oily Skin 50g",
   "price": 212,
   "capacityLine": "50 g",
@@ -163985,11 +163971,10 @@ const CTPRODUCTS = [
    "Contains evidence-backed actives (per listing)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.4,
+   "trust": 6.1,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.6
@@ -164359,73 +164344,6 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true
-  }
- },
- {
-  "id": "lakm-b085wjvx7c",
-  "brand": "Lakmé",
-  "model": "Tinted Sunscreen SPF 50 PA++++ | Niacinamide | Even Tone | In-Vivo Tested | No White Cast …",
-  "price": 209,
-  "capacityLine": "50 ml",
-  "materialLine": "niacinamide",
-  "featureLine": "Sunscreen · SPF 50 · ₹418/100ml",
-  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
-  "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
-  ],
-  "scores": {
-   "trust": 4.4,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.6
-  },
-  "fullSpec": {
-   "quantity": "50 ml",
-   "pricePer100": "₹418/100ml",
-   "format": "Sunscreen",
-   "keyIngredients": "niacinamide (per listing)",
-   "freeFrom": "Not stated in listing",
-   "dermTested": "Not stated in listing",
-   "nonComedogenic": "Not stated in listing",
-   "benefit": "SPF 50",
-   "audience": "Unisex / not stated",
-   "naturalClaim": "Not stated in listing",
-   "skinType": "Not stated in listing",
-   "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing"
-  },
-  "images": [
-   "https://m.media-amazon.com/images/I/51wlTTPlSPL._AC_UL320_.jpg"
-  ],
-  "buyUrl": "https://www.amazon.in/dp/B085WJVX7C",
-  "buyStore": "Amazon",
-  "title": "Lakmé Tinted Sunscreen SPF 50 PA++++ | Niacinamide | Even Tone | In-Vivo Tested | No White Cast | Blue Light Shield | 50 ml",
-  "tags": [
-   "scope:unstated",
-   "spf:50",
-   "pa:++++",
-   "ing:niacinamide",
-   "claim:dark-spots",
-   "claim:no-white-cast",
-   "claim:blue-light",
-   "claim:tinted",
-   "claim:spf-claim",
-   "aud:unisex",
-   "size:travel",
-   "rating:4.0",
-   "store:amazon"
-  ],
-  "filters": {
-   "actives": true,
-   "freefrom": false,
-   "natural": false,
-   "derm": false,
-   "men": false,
-   "women": false
   }
  },
  {
@@ -167207,7 +167125,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b0d3jbpzlv",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "SUN MIRACLE SPF 50 PA+++ LIGHTWEIGHT SUNSCREEN BODY LOTION, PROTECTS FROM UVA/UVB RAYS, 1%…",
   "price": 410,
   "capacityLine": "90 ml",
@@ -167782,9 +167700,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b0brqcgy28",
-  "brand": "Nature’s",
-  "model": "Essence Sunban Suncreen SPF 50 PA+++ | No White Cast and Broad Spectrum Sun screen | For A…",
+  "id": "nature-s-essence-b0brqcgy28",
+  "brand": "Nature's Essence",
+  "model": "Sunban Suncreen SPF 50 PA+++ | No White Cast and Broad Spectrum Sun screen | For All Skin …",
   "price": 170,
   "capacityLine": "60 ml",
   "materialLine": "Key ingredients not stated",
@@ -167792,11 +167710,10 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.2,
+   "trust": 5.3,
    "skin": 4,
    "ingredients": 4,
    "experience": 4.6
@@ -169466,8 +169383,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b0cs6nqtfj",
-  "brand": "Lakmē",
+  "id": "lakme-b0cs6nqtfj",
+  "brand": "Lakme",
   "model": "5% Niacinamide & VIT C water-light Sunscreen gel SPF 50 Pa++++In-Vivo tested, 2X Glow,56G",
   "price": 275,
   "capacityLine": "56 g",
@@ -169478,11 +169395,10 @@ const CTPRODUCTS = [
    "Contains evidence-backed actives (per listing)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.2,
+   "trust": 6,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.9
@@ -169738,7 +169654,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b0bv24b5jy",
-  "brand": "POND’S",
+  "brand": "Pond's",
   "model": "Sun Miracle SPF 50 PA+++ Crème Gel Sunscreen-Protect & Bright, With 3% Niacinamide, Fade D…",
   "price": 241,
   "capacityLine": "100 g",
@@ -169750,11 +169666,10 @@ const CTPRODUCTS = [
    "Contains evidence-backed actives (per listing)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.2,
+   "trust": 6,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.6
@@ -169943,8 +169858,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b0cs6n189g",
-  "brand": "Lakmē",
+  "id": "lakme-b0cs6n189g",
+  "brand": "Lakme",
   "model": "5% Hyaluronic water-light Sunscreen gel SPF 50 Pa++++ In-Vivo tested, Plump & Hydrated ski…",
   "price": 229,
   "capacityLine": "56 g",
@@ -169955,11 +169870,10 @@ const CTPRODUCTS = [
    "Contains evidence-backed actives (per listing)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.4,
+   "trust": 6.1,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 5
@@ -183454,7 +183368,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0c7vcpfpm",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Mineral Sunscreen SPF 50 PA+++ | Water Proof Sunscreen | No White Cast | Quick-absorbing |…",
   "price": 524,
   "capacityLine": "50 g",
@@ -183522,7 +183436,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0gx1wqnny",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "100% Mineral Invisible Fluid Sunscreen | In-Vivo Tested | SPF 50+ PA++++ | 3X Protection S…",
   "price": 454,
   "capacityLine": "50 g",
@@ -192068,7 +191982,7 @@ const CTPRODUCTS = [
  {
   "id": "radiance-b0hgfxg54t",
   "brand": "Radiance",
-  "model": ", Hydration & UV Defence Combo | 30ml Serum + 50ml Moisturizer + 50ml Sunscreen SPF 50 PA+…",
+  "model": "Hydration & UV Defence Combo | 30ml Serum + 50ml Moisturizer + 50ml Sunscreen SPF 50 PA+++…",
   "price": 960,
   "capacityLine": "30 ml",
   "materialLine": "vitamin C + niacinamide + hyaluronic acid",
@@ -193978,8 +193892,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b00cs1km8y",
-  "brand": "Lakmē",
+  "id": "lakme-b00cs1km8y",
+  "brand": "Lakme",
   "model": "Sun Expert SPF 30 PA++ Ultra Matte Lotion Sunscreen with Niacinamide | Helps reduce pigmen…",
   "price": 234,
   "capacityLine": "100 ml",
@@ -193991,11 +193905,10 @@ const CTPRODUCTS = [
    "Contains evidence-backed actives (per listing)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.4,
+   "trust": 6.1,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.6
@@ -195045,9 +194958,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b0brqbtkd1",
-  "brand": "Nature’s",
-  "model": "Essence Sunban Suncreen Spf 30 Pa+++ | No White Cast And Broad Spectrum Sun Screen | For A…",
+  "id": "nature-s-essence-b0brqbtkd1",
+  "brand": "Nature's Essence",
+  "model": "Sunban Suncreen Spf 30 Pa+++ | No White Cast And Broad Spectrum Sun Screen | For All Skin …",
   "price": 120,
   "capacityLine": "60 ml",
   "materialLine": "Key ingredients not stated",
@@ -195058,11 +194971,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Mixed buyer rating (3.9)",
-   "Marketplace brand — limited track record"
+   "Mixed buyer rating (3.9)"
   ],
   "scores": {
-   "trust": 4.1,
+   "trust": 5.1,
    "skin": 4,
    "ingredients": 4,
    "experience": 4.6
@@ -195184,7 +195096,7 @@ const CTPRODUCTS = [
  {
   "id": "spf-30-b0cspqqb22",
   "brand": "Spf-30",
-  "model": ", Uva/Uvb Rays Protection Sunscreen Gel For All Skin Types, For Men & Women",
+  "model": "Uva/Uvb Rays Protection Sunscreen Gel For All Skin Types, For Men & Women",
   "price": 215,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
@@ -209787,7 +209699,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b0bv24p1s1",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Serum boost sunscreen For All skin types prevent and fade dark patches with the power of S…",
   "price": 198,
   "capacityLine": "50 g",
@@ -212099,7 +212011,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0d9q6v457",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Kesar & Kojic Acid Sunscreen SPF 50+ Pa++++ |In-Vivo Tested | For Pigmentation-Free Skin |…",
   "price": 269,
   "capacityLine": "30 g",
@@ -212169,8 +212081,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b09w2nlcvg",
-  "brand": "LAKMÉ",
+  "id": "lakme-b09w2nlcvg",
+  "brand": "Lakme",
   "model": "Sun Expert SPF 25 PA++ Super Matte Lotion Sunscreen For All skin types, Lightweight, Non S…",
   "price": 207,
   "capacityLine": "100 ml",
@@ -212181,11 +212093,10 @@ const CTPRODUCTS = [
    "Good value: ₹207/100ml"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.4,
+   "trust": 6.1,
    "skin": 4,
    "ingredients": 4,
    "experience": 4.6
@@ -213855,8 +213766,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b0dcjjvww2",
-  "brand": "LAKMÉ",
+  "id": "lakme-b0dcjjvww2",
+  "brand": "Lakme",
   "model": "Sun Expert Tinted Sunscreen For All Skin Spf 50|| 50 G (Pack Of 3)",
   "price": 608,
   "capacityLine": "150 g (pack of 3)",
@@ -213865,11 +213776,10 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.2,
+   "trust": 6,
    "skin": 4,
    "ingredients": 4,
    "experience": 4.6
@@ -214661,7 +214571,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b0g2mfjk6z",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Anti-Blue Light UV Miracle | Tinted SPF 50 PA ++++ & DPF - Digital Protection Factor| Ulti…",
   "price": 349,
   "capacityLine": "50 g",
@@ -223923,7 +223833,7 @@ const CTPRODUCTS = [
  {
   "id": "plix-b0dwlv1cr4",
   "brand": "PLIX",
-  "model": "- THE PLANT FIX Watermelon Invisible Sunscreen Stick With SPF 50 PA +++ | UVA & UVB Shield…",
+  "model": "THE PLANT FIX Watermelon Invisible Sunscreen Stick With SPF 50 PA +++ | UVA & UVB Shield |…",
   "price": 499,
   "capacityLine": "20 g",
   "materialLine": "Key ingredients not stated",
@@ -227381,7 +227291,7 @@ const CTPRODUCTS = [
  {
   "id": "celimax-b0fkw4q7db",
   "brand": "Celimax",
-  "model": "- Anti-Acne Matte Sun Protection SPF 50+ PA+ 19g",
+  "model": "Anti-Acne Matte Sun Protection SPF 50+ PA+ 19g",
   "price": 1999,
   "capacityLine": "19 g",
   "materialLine": "Key ingredients not stated",
@@ -227572,8 +227482,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b0f1my7lzj",
-  "brand": "LAKMÉ",
+  "id": "lakme-b0f1my7lzj",
+  "brand": "Lakme",
   "model": "Sun Expert Invisible Sunstick For All Skin Types Spf 50+ Pa++++ For Uva/B,No White Cast,On…",
   "price": 235,
   "capacityLine": "8 g",
@@ -227585,11 +227495,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Pricey: ₹2938/100g",
-   "Marketplace brand — limited track record"
+   "Pricey: ₹2938/100g"
   ],
   "scores": {
-   "trust": 4.7,
+   "trust": 6.5,
    "skin": 4,
    "ingredients": 4,
    "experience": 4.6
@@ -228792,7 +228701,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b0ctzpvdp1",
-  "brand": "POND’S",
+  "brand": "Pond's",
   "model": "Sun Miracle SPF 50 PA+++ Crème Gel Sunscreen -Protect & Bright, With 3% Niacinamide, Fade …",
   "price": 99,
   "capacityLine": "12 g",
@@ -228804,11 +228713,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Mixed buyer rating (3.8)",
-   "Marketplace brand — limited track record"
+   "Mixed buyer rating (3.8)"
   ],
   "scores": {
-   "trust": 3.9,
+   "trust": 5.7,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.6
@@ -230693,7 +230601,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0d8qcv5tb",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Kesar & Kojic Acid Sunscreen SPF 50+ Pa++++ | With 2% Kojic Acid | For Pigmentation-Free S…",
   "price": 779,
   "capacityLine": "125 g",
@@ -231326,8 +231234,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b0744rjw22",
-  "brand": "Lakmē",
+  "id": "lakme-b0744rjw22",
+  "brand": "Lakme",
   "model": "Water Light Gel In-Vivo tested SPF 50 PA++++ Sunscreen with Niacinamide For Oily Skin 100g",
   "price": 344,
   "capacityLine": "100 g",
@@ -231338,11 +231246,10 @@ const CTPRODUCTS = [
    "Contains evidence-backed actives (per listing)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.4,
+   "trust": 6.1,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.6
@@ -232743,7 +232650,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0d1vmjgyb",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Haldi & Hyaluronic Acid Sunscreen Spray|Spf 50+ Pa++++|Lightweight, Non-Greasy|24 Hours Hy…",
   "price": 580,
   "capacityLine": "100 ml",
@@ -238448,8 +238355,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b0bdyrw1lz",
-  "brand": "LAKMÉ",
+  "id": "lakme-b0bdyrw1lz",
+  "brand": "Lakme",
   "model": "Sun Expert Tinted PA SPF50++ Spray, Ultra Light, for Oily and Dry Skin, 50ml",
   "price": 517,
   "capacityLine": "50 ml",
@@ -238459,11 +238366,10 @@ const CTPRODUCTS = [
   "pros": [],
   "cons": [
    "No free-from claims in listing",
-   "Pricey: ₹1034/100ml",
-   "Marketplace brand — limited track record"
+   "Pricey: ₹1034/100ml"
   ],
   "scores": {
-   "trust": 4.2,
+   "trust": 6,
    "skin": 4,
    "ingredients": 4,
    "experience": 4.6
@@ -246735,7 +246641,7 @@ const CTPRODUCTS = [
  {
   "id": "maskosun-b0b2k5zpm3",
   "brand": "Maskosun",
-  "model": "| SPF 60 | Anti-Aging Sunscreen | For Sensitive Skin | Broad spectrum PA++++ | matte finis…",
+  "model": "SPF 60 | Anti-Aging Sunscreen | For Sensitive Skin | Broad spectrum PA++++ | matte finish …",
   "price": 875,
   "capacityLine": "250 g (pack of 5)",
   "materialLine": "Key ingredients not stated",

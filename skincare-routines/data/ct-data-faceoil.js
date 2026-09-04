@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-03.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-04.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -16142,7 +16142,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0bnq92szv",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Rosehip & Retinol Serum with Rosehip Oil Extract and 0.3% Retinol | Retinol serum for face…",
   "price": 559,
   "capacityLine": "30 ml",
@@ -16411,7 +16411,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "paula-s-choice-b00tu7yic0",
-  "brand": "Paula'S Choice",
+  "brand": "Paula's Choice",
   "model": "Resist Intensive Wrinkle-Repair Retinol Serum, Squalane, Vitamin C & E, Anti-Aging & Wrink…",
   "price": 4200,
   "capacityLine": "30 ml",
@@ -18242,7 +18242,7 @@ const CTPRODUCTS = [
  {
   "id": "smoothage-b0g1sp9jz4",
   "brand": "SmoothAge",
-  "model": "| Retinal 0.1% Face Serum | Advanced Vitamin A Treatment with Retinal, Bakuchiol & Squalan…",
+  "model": "Retinal 0.1% Face Serum | Advanced Vitamin A Treatment with Retinal, Bakuchiol & Squalane …",
   "price": 1322,
   "capacityLine": "20 ml",
   "materialLine": "retinol + bakuchiol + squalane",
@@ -28319,7 +28319,7 @@ const CTPRODUCTS = [
  {
   "id": "grapeseed-b0ct5wbn3r",
   "brand": "GrapeSeed",
-  "model": ", Argan & Rosehip Facial Oil - Organic, Cold-Pressed, and Pure pack of 3-45ml",
+  "model": "Argan & Rosehip Facial Oil - Organic, Cold-Pressed, and Pure pack of 3-45ml",
   "price": 449,
   "capacityLine": "135 ml (pack of 3)",
   "materialLine": "rosehip",
@@ -29162,7 +29162,7 @@ const CTPRODUCTS = [
  {
   "id": "avocado-b0ct5t8yk7",
   "brand": "Avocado",
-  "model": ", Grapeseed & Jojoba Facial Oil –Organic, Cold-Pressed, and Vegan | Natural Moisturizer fo…",
+  "model": "Grapeseed & Jojoba Facial Oil –Organic, Cold-Pressed, and Vegan | Natural Moisturizer for …",
   "price": 449,
   "capacityLine": "135 ml (pack of 3)",
   "materialLine": "Key ingredients not stated",
@@ -29353,7 +29353,7 @@ const CTPRODUCTS = [
  {
   "id": "jojoba-b0ct5tdf6c",
   "brand": "Jojoba",
-  "model": ", Argan & Apricot Facial Oil: Cold-pressed, paraben-free, organic a moisturizer for radian…",
+  "model": "Argan & Apricot Facial Oil: Cold-pressed, paraben-free, organic a moisturizer for radiant …",
   "price": 449,
   "capacityLine": "135 ml (pack of 3)",
   "materialLine": "Key ingredients not stated",
@@ -32817,7 +32817,7 @@ const CTPRODUCTS = [
  {
   "id": "aromatico-b0gznjss59",
   "brand": "Aromatico",
-  "model": "- 100% Pure Cold-Pressed Rosehip Oil for Facial and Skin Treatment | Rosehip Seed Oil for …",
+  "model": "100% Pure Cold-Pressed Rosehip Oil for Facial and Skin Treatment | Rosehip Seed Oil for Ra…",
   "price": 299,
   "capacityLine": "100 ml",
   "materialLine": "rosehip",

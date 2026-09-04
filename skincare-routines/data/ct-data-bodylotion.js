@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-03.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-04.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -3316,9 +3316,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "dr-itm304d9a447b98a",
-  "brand": "Dr.",
-  "model": "Sheth’s Tea Tree & Lactic Acid Body Lotion | Treats Body Acne …",
+  "id": "dr-sheth-s-itm304d9a447b98a",
+  "brand": "Dr. Sheth's",
+  "model": "Tea Tree & Lactic Acid Body Lotion | Treats Body Acne …",
   "price": 80,
   "capacityLine": "300 ml",
   "materialLine": "lactic acid + tea tree",
@@ -3330,11 +3330,10 @@ const CTPRODUCTS = [
    "Strong buyer rating (4.2)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 5.6,
    "skin": 4,
    "ingredients": 5.5,
    "experience": 4.2
@@ -33809,9 +33808,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "dr-itm4bebbf598d5f7",
-  "brand": "Dr.",
-  "model": "Sheth’s Tea Tree & Lactic Acid Body Lotion, Helps to Reduce B …",
+  "id": "dr-sheth-s-itm4bebbf598d5f7",
+  "brand": "Dr. Sheth's",
+  "model": "Tea Tree & Lactic Acid Body Lotion, Helps to Reduce B …",
   "price": 80,
   "capacityLine": "Quantity not stated",
   "materialLine": "lactic acid + tea tree",
@@ -33823,11 +33822,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 5.6,
    "skin": 4,
    "ingredients": 5.5,
    "experience": 4.2
@@ -37954,7 +37952,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-itm9551cbcf27e28",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Bright Beauty Light Crème Body Lotion for Smooth & Bright …",
   "price": 85,
   "capacityLine": "Quantity not stated",
@@ -68177,7 +68175,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0d376x2hd",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Tea Tree & Lactic Acid Body Lotion- 300 ml | Treats Body Acne | Moisturizes and Light Weig…",
   "price": 259,
   "capacityLine": "300 ml",
@@ -68483,7 +68481,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "paula-s-choice-b00949eqoo",
-  "brand": "Paula'S Choice",
+  "brand": "Paula's Choice",
   "model": "Skin Revealing Body Lotion 10% AHA, Glycolic Acid & Shea Butter Exfoliant, Moisturizer for…",
   "price": 5779,
   "capacityLine": "Quantity not stated",
@@ -70175,7 +70173,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "palmer-s-b09c74y9q9",
-  "brand": "Palmer'S",
+  "brand": "Palmer's",
   "model": "Cocoa Butter Body Lotion, Retexture & Renewed Exfoliation - 400ml",
   "price": 815,
   "capacityLine": "400 ml",
@@ -74563,7 +74561,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "palmer-s-b00pr76vh2",
-  "brand": "Palmer'S",
+  "brand": "Palmer's",
   "model": "Shea Butter Daily Body Lotion, Soothes Skin Irritation And Sensitive Skin, 400ml",
   "price": 605,
   "capacityLine": "400 ml",
@@ -89254,7 +89252,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b0d3jc7hbp",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Hydra Miracle Hydrating Gel Body Lotion | Gives Hydrated Plump Skin| Hyaluronic Acid & Vit…",
   "price": 177,
   "capacityLine": "180 ml",
@@ -90142,7 +90140,7 @@ const CTPRODUCTS = [
  {
   "id": "plix-b0cw6jhy2d",
   "brand": "PLIX",
-  "model": "- THE PLANT FIX | Jamun Acne Control Body Lotion 200ml | Helps Reduce Active Acne & Fades …",
+  "model": "THE PLANT FIX | Jamun Acne Control Body Lotion 200ml | Helps Reduce Active Acne & Fades Aw…",
   "price": 459,
   "capacityLine": "200 ml",
   "materialLine": "Key ingredients not stated",
@@ -93006,7 +93004,7 @@ const CTPRODUCTS = [
  {
   "id": "plix-b0fy3d8n38",
   "brand": "PLIX",
-  "model": "- THE PLANT FIX Guava Glow Brightening Body Lotion | Hydrates, Brightens & Evens Skin Tone…",
+  "model": "THE PLANT FIX Guava Glow Brightening Body Lotion | Hydrates, Brightens & Evens Skin Tone |…",
   "price": 299,
   "capacityLine": "200 ml",
   "materialLine": "vitamin C + shea butter",
@@ -93139,7 +93137,7 @@ const CTPRODUCTS = [
  {
   "id": "plix-b0gtr4zc4t",
   "brand": "PLIX",
-  "model": "- THE PLANT FIX Chamomile Calm Magnesium Body Lotion | 10% Magnesium Chloride | Chamomile …",
+  "model": "THE PLANT FIX Chamomile Calm Magnesium Body Lotion | 10% Magnesium Chloride | Chamomile Ex…",
   "price": 399,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
@@ -98489,9 +98487,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b0dj94vkpq",
-  "brand": "Nature’s",
-  "model": "Essence Almond & Honey Body Lotion, Nourishing & Moisturizing, Non Greasy Lotion for Dry t…",
+  "id": "nature-s-essence-b0dj94vkpq",
+  "brand": "Nature's Essence",
+  "model": "Almond & Honey Body Lotion, Nourishing & Moisturizing, Non Greasy Lotion for Dry to Rough …",
   "price": 139,
   "capacityLine": "500 ml",
   "materialLine": "honey + almond + shea butter",
@@ -98502,11 +98500,10 @@ const CTPRODUCTS = [
    "Strong buyer rating (4.3)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.7,
+   "trust": 5.8,
    "skin": 4,
    "ingredients": 5.2,
    "experience": 5.2
@@ -112974,7 +112971,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0bf13crt5",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Ceramide & Vitamin C Body Lotion | Non-Sticky Formula | Strengthen Barrier | Brightens & N…",
   "price": 258,
   "capacityLine": "200 ml",
@@ -114579,9 +114576,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b09fkzgr8h",
-  "brand": "Nature’s",
-  "model": "Essence Almond & Honey Body Lotion, Smooth Skin In 5 Seconds, Nourishing & Non-Greasy For …",
+  "id": "nature-s-essence-b09fkzgr8h",
+  "brand": "Nature's Essence",
+  "model": "Almond & Honey Body Lotion, Smooth Skin In 5 Seconds, Nourishing & Non-Greasy For Dry To R…",
   "price": 69,
   "capacityLine": "100 ml",
   "materialLine": "aloe vera + honey + almond",
@@ -114591,11 +114588,10 @@ const CTPRODUCTS = [
    "Good value: ₹69/100ml"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.4,
+   "trust": 5.4,
    "skin": 4,
    "ingredients": 5.6,
    "experience": 4.8
@@ -119220,7 +119216,7 @@ const CTPRODUCTS = [
  {
   "id": "aromablush-b0ffn8wmjz",
   "brand": "Aromablush",
-  "model": "- Calming Calendula Body Lotion | Calendula Oil, Cinnamon Oil, Vitamin E | Soothes & Heals…",
+  "model": "Calming Calendula Body Lotion | Calendula Oil, Cinnamon Oil, Vitamin E | Soothes & Heals |…",
   "price": 200,
   "capacityLine": "300 ml",
   "materialLine": "vitamin E",
@@ -129090,7 +129086,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0cm6c899q",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Kesar & Kojic Acid Body Lotion | Non-Sticky Formula | Reduces Pigmentation | Brightens & E…",
   "price": 258,
   "capacityLine": "200 ml",
@@ -130908,7 +130904,7 @@ const CTPRODUCTS = [
  {
   "id": "aha-b0dqjgsv7y",
   "brand": "AHA",
-  "model": "|BHA Body Lotion 50 ml, 10% AHA, 2% BHA, Niacinamide, Milk Protien, Ceramide Complex With …",
+  "model": "BHA Body Lotion 50 ml, 10% AHA, 2% BHA, Niacinamide, Milk Protien, Ceramide Complex With E…",
   "price": 149,
   "capacityLine": "50 ml",
   "materialLine": "niacinamide + salicylic acid (BHA) + ceramides",

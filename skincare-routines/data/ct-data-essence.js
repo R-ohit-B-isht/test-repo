@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-03.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-04.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -5751,9 +5751,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b0cgm7bnyp",
-  "brand": "Nature’s",
-  "model": "Essence Refreshing Rose Toner, 100Ml",
+  "id": "nature-s-essence-b0cgm7bnyp",
+  "brand": "Nature's Essence",
+  "model": "Refreshing Rose Toner, 100Ml",
   "price": 63,
   "capacityLine": "100 ml",
   "materialLine": "rose",
@@ -5764,11 +5764,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Mixed buyer rating (3.9)",
-   "Marketplace brand — limited track record"
+   "Mixed buyer rating (3.9)"
   ],
   "scores": {
-   "trust": 4.1,
+   "trust": 5.1,
    "skin": 4,
    "ingredients": 4.4,
    "experience": 4.2
@@ -6720,8 +6719,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b082l8mvd4",
-  "brand": "L'Oréal",
+  "id": "l-oreal-b082l8mvd4",
+  "brand": "L'Oreal",
   "model": "Paris Revitalift Crystal Micro-Essence, Ultra-lightweight facial essence, With Salicylic A…",
   "price": 750,
   "capacityLine": "65 ml",
@@ -6734,11 +6733,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Pricey: ₹1154/100ml",
-   "Marketplace brand — limited track record"
+   "Pricey: ₹1154/100ml"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 6.3,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.5
@@ -6784,8 +6782,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b0819wh3vr",
-  "brand": "L'Oréal",
+  "id": "l-oreal-b0819wh3vr",
+  "brand": "L'Oreal",
   "model": "Paris Revitalift Crystal Micro-Essence, Ultra-lightweight facial essence, With Salicylic A…",
   "price": 779,
   "capacityLine": "130 ml",
@@ -6797,11 +6795,10 @@ const CTPRODUCTS = [
    "Strong buyer rating (4.3)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.7,
+   "trust": 6.5,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.5
@@ -7108,9 +7105,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b0cnjw796h",
-  "brand": "Nature’s",
-  "model": "Essence Bright Glow Vitamin C Face Serum for Men & Women | Brightens & Gives Glow | Fades …",
+  "id": "nature-s-essence-b0cnjw796h",
+  "brand": "Nature's Essence",
+  "model": "Bright Glow Vitamin C Face Serum for Men & Women | Brightens & Gives Glow | Fades Dark Spo…",
   "price": 84,
   "capacityLine": "12 ml",
   "materialLine": "vitamin C",
@@ -7121,11 +7118,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Mixed buyer rating (3.8)",
-   "Marketplace brand — limited track record"
+   "Mixed buyer rating (3.8)"
   ],
   "scores": {
-   "trust": 3.9,
+   "trust": 5,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.8
@@ -7243,9 +7239,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b09117x8jt",
-  "brand": "Nature’s",
-  "model": "Essence lacto tan clear apply for 5 mins & wash off removes tan with milk & vitamin E inst…",
+  "id": "nature-s-essence-b09117x8jt",
+  "brand": "Nature's Essence",
+  "model": "lacto tan clear apply for 5 mins & wash off removes tan with milk & vitamin E instant glow…",
   "price": 160,
   "capacityLine": "100 g",
   "materialLine": "vitamin E",
@@ -7257,11 +7253,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Mixed buyer rating (3.9)",
-   "Marketplace brand — limited track record"
+   "Mixed buyer rating (3.9)"
   ],
   "scores": {
-   "trust": 4.6,
+   "trust": 5.6,
    "skin": 4.7,
    "ingredients": 4.4,
    "experience": 4.8
@@ -7378,9 +7373,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b0fh24k88c",
-  "brand": "Nature’s",
-  "model": "Essence Bright Glow Vitamin C Face Serum for Men & Women | Brightens & Gives Glow | Fades …",
+  "id": "nature-s-essence-b0fh24k88c",
+  "brand": "Nature's Essence",
+  "model": "Bright Glow Vitamin C Face Serum for Men & Women | Brightens & Gives Glow | Fades Dark Spo…",
   "price": 95,
   "capacityLine": "30 ml",
   "materialLine": "vitamin C",
@@ -7390,11 +7385,10 @@ const CTPRODUCTS = [
    "Contains evidence-backed actives (per listing)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.4,
+   "trust": 5.4,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.8
@@ -7643,9 +7637,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b0b42hzjyg",
-  "brand": "Nature’s",
-  "model": "Essence 2% Alpha Arbutin Daily Brightening Serum, Skin Brightening Face Serum For Women, F…",
+  "id": "nature-s-essence-b0b42hzjyg",
+  "brand": "Nature's Essence",
+  "model": "2% Alpha Arbutin Daily Brightening Serum, Skin Brightening Face Serum For Women, Face Seru…",
   "price": 299,
   "capacityLine": "30 ml",
   "materialLine": "alpha arbutin",
@@ -7655,11 +7649,10 @@ const CTPRODUCTS = [
    "Contains evidence-backed actives (per listing)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.2,
+   "trust": 5.3,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.8
@@ -7979,9 +7972,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b093cgms8m",
-  "brand": "Nature’s",
-  "model": "Essence Flawless Papaya Face Cream, 60Gm",
+  "id": "nature-s-essence-b093cgms8m",
+  "brand": "Nature's Essence",
+  "model": "Flawless Papaya Face Cream, 60Gm",
   "price": 108,
   "capacityLine": "60 g",
   "materialLine": "papaya",
@@ -7991,11 +7984,10 @@ const CTPRODUCTS = [
    "Good value: ₹180/100g"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.2,
+   "trust": 5.3,
    "skin": 4,
    "ingredients": 4.4,
    "experience": 4.8
@@ -8116,9 +8108,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b0bln9q27q",
-  "brand": "Nature’s",
-  "model": "Essence Face Cream For Daily Use|Skin Brightening Face Cream For Women||Brightening Cream …",
+  "id": "nature-s-essence-b0bln9q27q",
+  "brand": "Nature's Essence",
+  "model": "Face Cream For Daily Use|Skin Brightening Face Cream For Women||Brightening Cream With 2% …",
   "price": 281,
   "capacityLine": "45 g",
   "materialLine": "alpha arbutin",
@@ -8129,11 +8121,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Mixed buyer rating (3.6)",
-   "Marketplace brand — limited track record"
+   "Mixed buyer rating (3.6)"
   ],
   "scores": {
-   "trust": 3.6,
+   "trust": 4.7,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.8
@@ -8311,8 +8302,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b08ftnb8n2",
-  "brand": "L'Oréal",
+  "id": "l-oreal-b08ftnb8n2",
+  "brand": "L'Oreal",
   "model": "Paris Revitalift Crystal Micro-Essence Sheet Mask, Face Treatment, Crystal-clear Skin, 25g",
   "price": 143,
   "capacityLine": "25 g",
@@ -8323,11 +8314,10 @@ const CTPRODUCTS = [
    "Strong buyer rating (4.2)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 6.3,
    "skin": 4,
    "ingredients": 4,
    "experience": 4.2
@@ -8372,9 +8362,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b08wsy3c5q",
-  "brand": "Nature’s",
-  "model": "Essence Anti Pollution Charcoal Face Scrub, 50 g, White",
+  "id": "nature-s-essence-b08wsy3c5q",
+  "brand": "Nature's Essence",
+  "model": "Anti Pollution Charcoal Face Scrub, 50 g, White",
   "price": 84,
   "capacityLine": "50 g",
   "materialLine": "charcoal",
@@ -8385,11 +8375,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Mixed buyer rating (3.6)",
-   "Marketplace brand — limited track record"
+   "Mixed buyer rating (3.6)"
   ],
   "scores": {
-   "trust": 3.6,
+   "trust": 4.7,
    "skin": 4,
    "ingredients": 4.4,
    "experience": 4.2
@@ -8504,9 +8493,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b093cbzpqr",
-  "brand": "Nature’s",
-  "model": "Essence De Tan Therapy Wipe Off Face Mask| D Tan Face Pack | Brightening Cream for Men & W…",
+  "id": "nature-s-essence-b093cbzpqr",
+  "brand": "Nature's Essence",
+  "model": "De Tan Therapy Wipe Off Face Mask| D Tan Face Pack | Brightening Cream for Men & Women | B…",
   "price": 300,
   "capacityLine": "200 g",
   "materialLine": "Key ingredients not stated",
@@ -8517,11 +8506,9 @@ const CTPRODUCTS = [
    "Paraben-free (per listing)",
    "Dermatologically tested (per listing)"
   ],
-  "cons": [
-   "Marketplace brand — limited track record"
-  ],
+  "cons": [],
   "scores": {
-   "trust": 4.9,
+   "trust": 5.9,
    "skin": 5.3,
    "ingredients": 4,
    "experience": 4.5
@@ -8973,9 +8960,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b0b429z6v6",
-  "brand": "Nature’s",
-  "model": "Essence 0.3% Pro-Retinol Age Renewal Serum | Anti-Ageing Face Serum For Women's | Reduces …",
+  "id": "nature-s-essence-b0b429z6v6",
+  "brand": "Nature's Essence",
+  "model": "0.3% Pro-Retinol Age Renewal Serum | Anti-Ageing Face Serum For Women's | Reduces Fine Lin…",
   "price": 258,
   "capacityLine": "30 ml",
   "materialLine": "retinol",
@@ -8986,11 +8973,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Mixed buyer rating (3.5)",
-   "Marketplace brand — limited track record"
+   "Mixed buyer rating (3.5)"
   ],
   "scores": {
-   "trust": 3.5,
+   "trust": 4.6,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.5
@@ -9233,9 +9219,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b0b82kk276",
-  "brand": "Nature’s",
-  "model": "Essence 24K Liquid Gold Radiance Boosting Serum | Face Serum For Glowing Skin, 30Ml",
+  "id": "nature-s-essence-b0b82kk276",
+  "brand": "Nature's Essence",
+  "model": "24K Liquid Gold Radiance Boosting Serum | Face Serum For Glowing Skin, 30Ml",
   "price": 253,
   "capacityLine": "30 ml",
   "materialLine": "Key ingredients not stated",
@@ -9244,11 +9230,10 @@ const CTPRODUCTS = [
   "pros": [],
   "cons": [
    "No free-from claims in listing",
-   "Mixed buyer rating (3.6)",
-   "Marketplace brand — limited track record"
+   "Mixed buyer rating (3.6)"
   ],
   "scores": {
-   "trust": 3.6,
+   "trust": 4.7,
    "skin": 4,
    "ingredients": 4,
    "experience": 4.8
@@ -9295,9 +9280,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b0cnjy38gh",
-  "brand": "Nature’s",
-  "model": "Essence Vitamin C Serum Face Cream | Infused with Yuzu Lemon & Niacinamide | Brightens & G…",
+  "id": "nature-s-essence-b0cnjy38gh",
+  "brand": "Nature's Essence",
+  "model": "Vitamin C Serum Face Cream | Infused with Yuzu Lemon & Niacinamide | Brightens & Gives Glo…",
   "price": 62,
   "capacityLine": "25 g",
   "materialLine": "vitamin C + niacinamide",
@@ -9309,11 +9294,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Mixed buyer rating (3.8)",
-   "Marketplace brand — limited track record"
+   "Mixed buyer rating (3.8)"
   ],
   "scores": {
-   "trust": 3.9,
+   "trust": 5,
    "skin": 4,
    "ingredients": 5.5,
    "experience": 4.8
@@ -9570,9 +9554,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b08r3j8glk",
-  "brand": "Nature’s",
-  "model": "Essence Lacto Bleach Natural Milk Bleach without Activator | D Tan Face Pack for Tan Remov…",
+  "id": "nature-s-essence-b08r3j8glk",
+  "brand": "Nature's Essence",
+  "model": "Lacto Bleach Natural Milk Bleach without Activator | D Tan Face Pack for Tan Removal | Bri…",
   "price": 176,
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
@@ -9583,11 +9567,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Mixed buyer rating (3.9)",
-   "Marketplace brand — limited track record"
+   "Mixed buyer rating (3.9)"
   ],
   "scores": {
-   "trust": 4.1,
+   "trust": 5.1,
    "skin": 4,
    "ingredients": 4.3,
    "experience": 4.5
@@ -9636,9 +9619,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b08wsxzd7s",
-  "brand": "Nature’s",
-  "model": "Essence Active Charcoal Anti Pollution Face Pack , White, 50 G",
+  "id": "nature-s-essence-b08wsxzd7s",
+  "brand": "Nature's Essence",
+  "model": "Active Charcoal Anti Pollution Face Pack , White, 50 G",
   "price": 83,
   "capacityLine": "50 g",
   "materialLine": "charcoal",
@@ -9649,11 +9632,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Mixed buyer rating (3.3)",
-   "Marketplace brand — limited track record"
+   "Mixed buyer rating (3.3)"
   ],
   "scores": {
-   "trust": 3.2,
+   "trust": 4.3,
    "skin": 4,
    "ingredients": 4.4,
    "experience": 4.2
@@ -15106,9 +15088,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b0cvbfm8dm",
-  "brand": "Nature’s",
-  "model": "Essence Hydra Glow Oil free Moisturizer for face, Glowing Skin, light formulation gel infu…",
+  "id": "nature-s-essence-b0cvbfm8dm",
+  "brand": "Nature's Essence",
+  "model": "Hydra Glow Oil free Moisturizer for face, Glowing Skin, light formulation gel infused with…",
   "price": 140,
   "capacityLine": "100 g",
   "materialLine": "hyaluronic acid + rice water",
@@ -15119,11 +15101,10 @@ const CTPRODUCTS = [
    "Contains evidence-backed actives (per listing)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.2,
+   "trust": 5.3,
    "skin": 4,
    "ingredients": 5.5,
    "experience": 5.2
@@ -19150,9 +19131,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b0dj94vkpq",
-  "brand": "Nature’s",
-  "model": "Essence Almond & Honey Body Lotion, Nourishing & Moisturizing, Non Greasy Lotion for Dry t…",
+  "id": "nature-s-essence-b0dj94vkpq",
+  "brand": "Nature's Essence",
+  "model": "Almond & Honey Body Lotion, Nourishing & Moisturizing, Non Greasy Lotion for Dry to Rough …",
   "price": 139,
   "capacityLine": "500 ml",
   "materialLine": "honey + almond + shea butter",
@@ -19163,11 +19144,10 @@ const CTPRODUCTS = [
    "Strong buyer rating (4.3)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.7,
+   "trust": 5.8,
    "skin": 4,
    "ingredients": 5.2,
    "experience": 5.2
@@ -19286,9 +19266,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b09fkzgr8h",
-  "brand": "Nature’s",
-  "model": "Essence Almond & Honey Body Lotion, Smooth Skin In 5 Seconds, Nourishing & Non-Greasy For …",
+  "id": "nature-s-essence-b09fkzgr8h",
+  "brand": "Nature's Essence",
+  "model": "Almond & Honey Body Lotion, Smooth Skin In 5 Seconds, Nourishing & Non-Greasy For Dry To R…",
   "price": 69,
   "capacityLine": "100 ml",
   "materialLine": "aloe vera + honey + almond",
@@ -19298,11 +19278,10 @@ const CTPRODUCTS = [
    "Good value: ₹69/100ml"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.4,
+   "trust": 5.4,
    "skin": 4,
    "ingredients": 5.6,
    "experience": 4.8
@@ -20388,9 +20367,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b0brqcgy28",
-  "brand": "Nature’s",
-  "model": "Essence Sunban Suncreen SPF 50 PA+++ | No White Cast and Broad Spectrum Sun screen | For A…",
+  "id": "nature-s-essence-b0brqcgy28",
+  "brand": "Nature's Essence",
+  "model": "Sunban Suncreen SPF 50 PA+++ | No White Cast and Broad Spectrum Sun screen | For All Skin …",
   "price": 170,
   "capacityLine": "60 ml",
   "materialLine": "Key ingredients not stated",
@@ -20398,11 +20377,10 @@ const CTPRODUCTS = [
   "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.2,
+   "trust": 5.3,
    "skin": 4,
    "ingredients": 4,
    "experience": 4.6
@@ -20656,9 +20634,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b0brqbtkd1",
-  "brand": "Nature’s",
-  "model": "Essence Sunban Suncreen Spf 30 Pa+++ | No White Cast And Broad Spectrum Sun Screen | For A…",
+  "id": "nature-s-essence-b0brqbtkd1",
+  "brand": "Nature's Essence",
+  "model": "Sunban Suncreen Spf 30 Pa+++ | No White Cast And Broad Spectrum Sun Screen | For All Skin …",
   "price": 120,
   "capacityLine": "60 ml",
   "materialLine": "Key ingredients not stated",
@@ -20669,11 +20647,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Mixed buyer rating (3.9)",
-   "Marketplace brand — limited track record"
+   "Mixed buyer rating (3.9)"
   ],
   "scores": {
-   "trust": 4.1,
+   "trust": 5.1,
    "skin": 4,
    "ingredients": 4,
    "experience": 4.6

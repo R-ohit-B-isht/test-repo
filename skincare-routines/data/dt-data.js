@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-03.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-04.
 // Unknown fields are honestly marked, never invented.
 const DETANS = [
  {
@@ -202,7 +202,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -360,7 +359,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:wash",
    "format:kit",
    "claim:brightening",
@@ -1043,7 +1041,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -1659,7 +1656,6 @@ const DETANS = [
   "title": "AlAroma Leafs De Tan Pack (500 ml)",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:pack",
    "claim:de-tan",
    "claim:dark-spots",
@@ -2557,7 +2553,6 @@ const DETANS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -2772,7 +2767,6 @@ const DETANS = [
   "title": "TNW - The Natural Wash Set of 2 De-Tan Face Pack | Kojic Acid | G...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -3395,7 +3389,6 @@ const DETANS = [
   "title": "veda harvest De-Tan Face Pack for Deep Cleansing (200 g)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -3711,7 +3704,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -6406,7 +6398,6 @@ const DETANS = [
    "format:gel",
    "format:cream",
    "format:stick",
-   "format:oil",
    "format:pack",
    "format:scrub",
    "format:peel",
@@ -7402,7 +7393,6 @@ const DETANS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:scrub",
@@ -7486,7 +7476,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:sleeping-mask",
    "format:pack",
@@ -7737,7 +7726,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -8139,7 +8127,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:balm",
    "format:peel-off",
    "format:pack",
@@ -8221,7 +8208,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -8307,7 +8293,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -9581,7 +9566,7 @@ const DETANS = [
  {
   "id": "tnw-itm08353bad10d70",
   "brand": "TNW",
-  "model": "- The Natural Wash De-Tan Face Pack | Kojic Acid & Orange Ext...more",
+  "model": "The Natural Wash De-Tan Face Pack | Kojic Acid & Orange Ext...more",
   "price": 594,
   "capacityLine": "Quantity not stated",
   "materialLine": "kojic acid",
@@ -9781,7 +9766,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -11089,7 +11073,6 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:aloe-vera",
@@ -11261,7 +11244,6 @@ const DETANS = [
    "scope:face",
    "format:cream",
    "format:stick",
-   "format:oil",
    "format:pack",
    "format:wash",
    "ing:kojic-acid",
@@ -11345,7 +11327,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:pack",
    "format:powder",
    "format:wash",
@@ -11676,7 +11657,6 @@ const DETANS = [
   "title": "UrbanMooch DeTan Face Pack, Skin Brightening Clay Face Mask For G...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -11930,7 +11910,6 @@ const DETANS = [
   "title": "sheny soft Tan Removal Support Face Pack for Smooth Skin Finish (...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:pack",
    "format:peel",
@@ -12115,7 +12094,6 @@ const DETANS = [
   "title": "sheny soft Radiance Enhancing De Tan Pack for Daily Skin Care Rou...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:pack",
    "format:powder",
@@ -13060,7 +13038,6 @@ const DETANS = [
   "title": "AGLEY Anti-Tan Face Pack for Sun Damage Repair De Tan Pack (100 g...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:pack",
    "format:wash",
@@ -13490,7 +13467,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -13574,7 +13550,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -13656,7 +13631,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -13735,7 +13709,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -13992,7 +13965,6 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -14072,7 +14044,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -14325,7 +14296,7 @@ const DETANS = [
  },
  {
   "id": "nature-s-essence-itmc49d52e5173c8",
-  "brand": "Nature'S Essence",
+  "brand": "Nature's Essence",
   "model": "De-Tan Therapy Wipe Off Mask (500 ml)",
   "price": 627,
   "capacityLine": "500 ml",
@@ -16306,7 +16277,6 @@ const DETANS = [
    "scope:face",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:pack",
    "format:scrub",
    "format:peel",
@@ -17288,7 +17258,6 @@ const DETANS = [
   "title": "feelhigh Face and Body Gold Scrub and De tan Scrub For Man and Wo...more",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:pack",
    "format:scrub",
    "format:wash",
@@ -17444,7 +17413,6 @@ const DETANS = [
   "title": "Newsio De-Tan Face Scrub,Tan Removal Face Scrub for Glowing Skin ...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "claim:brightening",
@@ -17834,7 +17802,6 @@ const DETANS = [
   "title": "TRU BOTANICALS De tan Face Scrub, Apricot And Activated Charcoal ...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:scrub",
    "format:wash",
@@ -19260,7 +19227,6 @@ const DETANS = [
   "title": "la'beardex De-Tan Face scrub for men, Exfoliation and tan removal...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:scrub",
    "ing:walnut",
    "claim:de-tan",
@@ -19578,7 +19544,6 @@ const DETANS = [
   "title": "PUCHRI KA LOTA DE-TAN WITH COFFEE SCRUB 99ML Scrub (99 ml)",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "format:kit",
@@ -20140,7 +20105,6 @@ const DETANS = [
   "title": "INTIMIFY De Tan Scrub For Tan Removal Blackheads & Dirt removal F...more",
   "tags": [
    "scope:body",
-   "format:oil",
    "format:scrub",
    "ing:coffee",
    "ing:green-tea",
@@ -22647,7 +22611,6 @@ const DETANS = [
   "title": "I TOUCH DE TAN SCRUB 500ML Scrub (500 ml)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:scrub",
    "claim:de-tan",
    "claim:whitening-claim",
@@ -22871,7 +22834,6 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:clay-mask",
    "format:scrub",
    "format:wash",
@@ -23369,7 +23331,6 @@ const DETANS = [
   "title": "INTIMIFY De-Tan Face scrub Remove Dead Skin | Gentle Exfoliation ...more",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:scrub",
    "ing:coffee",
    "ing:green-tea",
@@ -23533,7 +23494,6 @@ const DETANS = [
   "title": "INTIMIFY De-Tan Face scrub Tan Removal| Deep Exfoliation Scrub (5...more",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:scrub",
    "ing:coffee",
    "ing:green-tea",
@@ -25524,7 +25484,6 @@ const DETANS = [
   "title": "Utkrisht Khadi De Tan Face Mask for Instant Tan Removal & Sun Pro...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -25682,7 +25641,6 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:retinol",
    "ing:retinal",
    "claim:brightening",
@@ -25846,7 +25804,6 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:balm",
    "format:scrub",
    "ing:aloe-vera",
@@ -25930,7 +25887,6 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:balm",
    "format:scrub",
    "ing:honey",
@@ -26770,7 +26726,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -27026,7 +26981,6 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -27192,7 +27146,6 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:pack",
    "format:kit",
    "claim:brightening",
@@ -28278,7 +28231,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:balm",
    "format:peel-off",
    "format:pack",
@@ -31003,7 +30955,6 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:pack",
    "format:wash",
    "claim:brightening",
@@ -32523,7 +32474,6 @@ const DETANS = [
    "scope:both",
    "format:cream",
    "format:essence",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -32779,7 +32729,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -34014,7 +33963,6 @@ const DETANS = [
   "title": "Mamaearth Ubtan Detan Face Pack with Turmeric & Saffron for Norma...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -36581,7 +36529,6 @@ const DETANS = [
    "scope:both",
    "format:gel",
    "format:cream",
-   "format:oil",
    "format:clay-mask",
    "format:pack",
    "format:scrub",
@@ -37390,7 +37337,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:pack",
    "format:wash",
    "claim:brightening",
@@ -38368,7 +38314,6 @@ const DETANS = [
   "title": "mCaffeine Face Scrub for D Tan, Helps in Skin Brightening and Rem...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:scrub",
    "format:powder",
@@ -39080,7 +39025,6 @@ const DETANS = [
   "title": "Phillauri Charcoal Body & Face Scrub Dead Skin & Tan Removal Scr...more",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "ing:charcoal",
@@ -40562,7 +40506,6 @@ const DETANS = [
   "title": "PERLENTE Coffee face & Body Scrub for Tan Removal, Exfoliation & ...more",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "format:kit",
@@ -40652,7 +40595,6 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "format:kit",
@@ -42821,7 +42763,6 @@ const DETANS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "format:pack",
    "format:kit",
    "claim:brightening",
@@ -42900,7 +42841,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:pack",
    "format:powder",
    "format:kit",
@@ -43131,7 +43071,6 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "claim:brightening",
    "claim:de-tan",
    "claim:acne",
@@ -43207,7 +43146,6 @@ const DETANS = [
    "scope:both",
    "format:cream",
    "format:lotion",
-   "format:oil",
    "format:kit",
    "ing:milk",
    "claim:brightening",
@@ -43820,7 +43758,6 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:kit",
    "claim:brightening",
    "claim:de-tan",
@@ -44661,7 +44598,6 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "claim:brightening",
    "claim:de-tan",
    "claim:acne",
@@ -45517,7 +45453,6 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:niacinamide",
    "claim:brightening",
    "claim:de-tan",
@@ -46469,7 +46404,6 @@ const DETANS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "format:pack",
    "claim:brightening",
    "claim:de-tan",
@@ -46554,7 +46488,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:pack",
    "format:kit",
    "claim:brightening",
@@ -46633,7 +46566,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:pack",
    "format:powder",
    "format:kit",
@@ -46715,7 +46647,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:walnut",
@@ -47401,7 +47332,6 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "claim:brightening",
    "claim:de-tan",
    "claim:acne",
@@ -47481,7 +47411,6 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "claim:brightening",
    "claim:de-tan",
    "claim:acne",
@@ -47908,7 +47837,6 @@ const DETANS = [
   "title": "Foxtale De-Tan Face Mask for Instant Tan Removal|Brightening Skin...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -48495,7 +48423,6 @@ const DETANS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -49378,7 +49305,6 @@ const DETANS = [
   "title": "Srishma Organic Orange Peel Powder For Tan Removal, Face Cleansin...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -49464,7 +49390,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -49772,7 +49697,6 @@ const DETANS = [
   "title": "Tulsi Naturals 100% Pure & Organic Orange Peel Powder | Tan Remov...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -50895,7 +50819,6 @@ const DETANS = [
   "title": "Mysticmuse D-Tan Face Pack Kojic Glowing & Radiant Skin Brighteni...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -51139,7 +51062,6 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:pack",
    "format:powder",
    "format:wash",
@@ -51230,7 +51152,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -54924,7 +54845,6 @@ const DETANS = [
   "tags": [
    "scope:body",
    "format:gel",
-   "format:oil",
    "format:bar",
    "format:wash",
    "ing:salicylic-acid-bha",
@@ -57415,7 +57335,6 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:bar",
    "format:wash",
    "ing:salicylic-acid-bha",
@@ -60020,7 +59939,6 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:bar",
    "format:wash",
    "format:kit",
@@ -60108,7 +60026,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:clay-mask",
    "format:wash",
    "ing:pha",
@@ -60374,7 +60291,7 @@ const DETANS = [
  },
  {
   "id": "pond-s-itm47f23270b84ff",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "DeTan Facewash, With Niacinamide & Vitamin C, Reduces Tan ...more",
   "price": 192,
   "capacityLine": "Quantity not stated",
@@ -60642,7 +60559,6 @@ const DETANS = [
   "title": "Becloma De-Tan For All Skin Types for men and Women Face Wash (1...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:powder",
    "format:wash",
    "format:kit",
@@ -60721,7 +60637,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "format:kit",
@@ -61403,7 +61318,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:papaya",
@@ -62953,7 +62867,6 @@ const DETANS = [
   "title": "BEARDO De-tan and Charcoal face wash for all skin type, helps Cle...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -63257,7 +63170,6 @@ const DETANS = [
   "title": "Dr. DAHAO De-Tan Face wash For Deep Cleansing And Infused With Na...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "claim:brightening",
    "claim:de-tan",
@@ -63332,7 +63244,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:green-tea",
@@ -63561,7 +63472,6 @@ const DETANS = [
    "scope:face",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:aha",
@@ -63639,7 +63549,6 @@ const DETANS = [
   "title": "CADDIM NATURALS Cooling De Tan for Men | Oil Control & Acne Care...more",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "claim:de-tan",
    "claim:acne",
    "claim:oil-control",
@@ -64019,7 +63928,6 @@ const DETANS = [
   "title": "NATURALEZA CASTILE Coffee with Green Tea Extract for De-Tan Face...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:coffee",
    "ing:green-tea",
@@ -64102,7 +64010,6 @@ const DETANS = [
    "scope:face",
    "format:gel",
    "format:toner",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:rice-water",
@@ -64187,7 +64094,6 @@ const DETANS = [
   "title": "EDITH NATURALS Ubtan De-Tan Radiance | Brightens Skin & Reduces D...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:salicylic-acid-bha",
@@ -64442,7 +64348,6 @@ const DETANS = [
   "title": "Becloma De-Tan Facewash For Men|Tan Removal|Oil Control|Coffee, A...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:powder",
    "format:wash",
    "ing:vitamin-c",
@@ -64523,7 +64428,6 @@ const DETANS = [
   "title": "DERMAKIND De Tan FaceWash for Tan Removal and Brightening Skin fo...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "claim:brightening",
    "claim:de-tan",
@@ -64938,7 +64842,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -65119,7 +65022,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "claim:brightening",
    "claim:de-tan",
@@ -65337,7 +65239,6 @@ const DETANS = [
   "title": "THE MAN COMPANY De-Tan Cleanser for Oily Skin | Skin Brightening,...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:turmeric",
    "claim:brightening",
@@ -65562,7 +65463,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "ing:vitamin-c",
@@ -65647,7 +65547,6 @@ const DETANS = [
   "title": "blestaaa essentialss 2% Kojic Acid for Daily De-Tan, Dark Spot R...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:kojic-acid",
    "claim:brightening",
@@ -65801,7 +65700,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:niacinamide",
@@ -66045,7 +65943,6 @@ const DETANS = [
    "scope:face",
    "format:cream",
    "format:foam",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:glycolic-acid",
@@ -66126,7 +66023,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:wash",
    "claim:brightening",
    "claim:de-tan",
@@ -66270,7 +66166,6 @@ const DETANS = [
   "title": "cosmofine Advanced De-Tan for Men & Women | Skin Brightening Cle...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:green-tea",
@@ -66677,7 +66572,6 @@ const DETANS = [
    "scope:face",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:bar",
    "format:wash",
    "format:kit",
@@ -66917,7 +66811,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "claim:brightening",
@@ -66996,7 +66889,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -67084,7 +66976,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -67170,7 +67061,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -67256,7 +67146,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:niacinamide",
@@ -67572,7 +67461,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "format:kit",
@@ -67662,7 +67550,6 @@ const DETANS = [
    "scope:face",
    "format:cream",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:tea-tree",
    "claim:brightening",
@@ -67896,7 +67783,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:salicylic-acid-bha",
    "ing:glycolic-acid",
@@ -67985,7 +67871,6 @@ const DETANS = [
    "scope:face",
    "format:gel",
    "format:foam",
-   "format:oil",
    "format:wash",
    "ing:vitamin-c",
    "ing:glutathione",
@@ -68156,7 +68041,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:hyaluronic-acid",
@@ -68333,7 +68217,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:licorice",
    "claim:brightening",
@@ -68644,7 +68527,6 @@ const DETANS = [
   "title": "Latibule Orange for Glowing Skin | Anti-Pollution & De-Tan Formu...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:ubtan",
    "claim:brightening",
@@ -68720,7 +68602,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:tea-tree",
@@ -68802,7 +68683,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "ing:aloe-vera",
    "claim:de-tan",
@@ -75615,7 +75495,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:pack",
    "format:kit",
    "ing:saffron",
@@ -79299,7 +79178,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -81146,7 +81024,6 @@ const DETANS = [
    "scope:both",
    "format:cream",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:scrub",
    "format:wash",
@@ -84681,7 +84558,6 @@ const DETANS = [
   "title": "Brightland Ubtan De-Tan Radiance Face & Body (250 g)",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -85100,7 +84976,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:essence",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -85364,7 +85239,6 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:stick",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -85600,7 +85474,6 @@ const DETANS = [
   "title": "Vana Wellness Instant Glow Combo Pack | De-Tan Jamun Ubtan and Ro...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:pack",
    "format:peel",
    "format:powder",
@@ -85687,7 +85560,6 @@ const DETANS = [
   "title": "Vana Wellness De-Tan Jamun Ubtan Face Pack & Mix Glow Collagen Bo...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -88121,7 +87993,6 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "ing:ubtan",
    "claim:brightening",
    "claim:de-tan",
@@ -89101,7 +88972,6 @@ const DETANS = [
    "scope:face",
    "format:cream",
    "format:serum",
-   "format:oil",
    "format:powder",
    "format:wash",
    "claim:brightening",
@@ -89680,7 +89550,6 @@ const DETANS = [
    "format:gel",
    "format:cream",
    "format:serum",
-   "format:oil",
    "format:pack",
    "format:bar",
    "format:wash",
@@ -90023,7 +89892,6 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:clay-mask",
    "format:pack",
    "format:wash",
@@ -90515,7 +90383,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:gel",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:kojic-acid",
@@ -90859,7 +90726,6 @@ const DETANS = [
   "title": "Newmanity Natural Ubtan Pack for Dark Spots, De-Tan & Glowing Ski...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -90956,7 +90822,6 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "ing:coffee",
@@ -91437,7 +91302,6 @@ const DETANS = [
   "title": "AGLEY De-Tan Coffee Scrub for All Skin Types coffee scrub body Sc...more",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:clay-mask",
    "format:scrub",
    "format:wash",
@@ -92108,7 +91972,6 @@ const DETANS = [
    "scope:both",
    "format:gel",
    "format:essence",
-   "format:oil",
    "format:clay-mask",
    "format:scrub",
    "format:wash",
@@ -92196,7 +92059,6 @@ const DETANS = [
   "title": "AGLEY Deep Exfoliating Coffee Scrub for Tan Removal Scrub (380 ml...more",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:balm",
    "format:scrub",
    "format:wash",
@@ -92363,7 +92225,6 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "format:kit",
@@ -92532,7 +92393,6 @@ const DETANS = [
   "title": "FOZZBY De-Tan Scrub For Face & Body| Deep Pore Cleansing | Dirt R...more",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "ing:coffee",
@@ -92611,7 +92471,6 @@ const DETANS = [
   "title": "INTIMIFY Coffee Face Scrub With Coffee, Almond, Tan Removal, Exfo...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "ing:coffee",
@@ -92694,7 +92553,6 @@ const DETANS = [
    "scope:both",
    "format:gel",
    "format:essence",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "ing:coffee",
@@ -93498,7 +93356,6 @@ const DETANS = [
   "title": "KAIASHA Coffee Creamy Scrub For Face & Body, Blackhead De Tan Scr...more",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:clay-mask",
    "format:scrub",
    "format:wash",
@@ -93583,7 +93440,6 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "format:kit",
@@ -94252,7 +94108,6 @@ const DETANS = [
   "title": "PERLENTE Coffee Face Scrub | De-Tan & Deep Exfoliation Scrub (38...more",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:scrub",
    "ing:coffee",
    "ing:strawberry",
@@ -95452,7 +95307,7 @@ const DETANS = [
  },
  {
   "id": "nature-s-essence-itmf6f87ad07128c",
-  "brand": "Nature'S Essence",
+  "brand": "Nature's Essence",
   "model": "DE Tan Therapy Wipe Off Mask (200 ml)",
   "price": 270,
   "capacityLine": "200 ml",
@@ -95778,7 +95633,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -96015,7 +95869,6 @@ const DETANS = [
   "title": "DR.RASHEL De Tan Peel Off Mask for Tan Removal, Instant Glow, Sof...more",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -96411,7 +96264,6 @@ const DETANS = [
   "title": "Nuerma Science De Tan Mask For Fairness & Anti Acne (100 g)",
   "tags": [
    "scope:unstated",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:peel",
@@ -96904,7 +96756,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -97877,7 +97728,6 @@ const DETANS = [
    "scope:face",
    "format:cream",
    "format:stick",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -99662,7 +99512,6 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:cream",
-   "format:oil",
    "format:clay-mask",
    "format:pack",
    "format:pads",
@@ -99829,7 +99678,6 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:pack",
@@ -99918,7 +99766,6 @@ const DETANS = [
   "title": "Nuerma Science De Tan Face Mask (Repair Sun Damaged & Dull Skin) ...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:peel",
@@ -100322,7 +100169,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:peel-off",
    "format:pack",
    "format:peel",
@@ -100976,7 +100822,6 @@ const DETANS = [
   "title": "Top Quality Store Oil-Control De-Tan Mask for Clear & Fresh Skin ...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:peel",
@@ -101844,7 +101689,6 @@ const DETANS = [
   "title": "Top Quality Store De-Tan Vitamin C Face Mask for Radiant Skin (10...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:peel-off",
    "format:peel",
@@ -105705,7 +105549,6 @@ const DETANS = [
   "tags": [
    "scope:both",
    "format:gel",
-   "format:oil",
    "format:pack",
    "format:scrub",
    "format:wash",
@@ -105797,7 +105640,6 @@ const DETANS = [
   "title": "Wiffy Detan Cleansing Face Pack Reduce Sun Tan & Dark Spots For M...more",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:pack",
    "format:scrub",
@@ -106031,7 +105873,6 @@ const DETANS = [
   "title": "TNW The Natural Wash DeTan Tan Removal Face Pack 50g | Tan Removal Face Mask for Glowing Skin | Deep Cleansing Oil Control Brightening Skin Care",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:pack",
    "format:patch",
@@ -106190,7 +106031,6 @@ const DETANS = [
   "title": "DR.RASHEL Beauty Elixirs De-Tan Face Pack for Glowing Skin, Oil Control, Acne, Pimples, Detan, Blemishes, Pigmentation & Brightening, Face Cleansing for Face & Body (380 Ml)",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:pack",
    "format:scrub",
    "format:powder",
@@ -106458,9 +106298,9 @@ const DETANS = [
   }
  },
  {
-  "id": "nature-s-b0f5qf3xtj",
-  "brand": "Nature’s",
-  "model": "Essence Detan Pack Enriched With Kojic Acid, Milk, Papaya and Aloevera | Tan removal Cream…",
+  "id": "nature-s-essence-b0f5qf3xtj",
+  "brand": "Nature's Essence",
+  "model": "Detan Pack Enriched With Kojic Acid, Milk, Papaya and Aloevera | Tan removal Cream | Derma…",
   "price": 192,
   "capacityLine": "Quantity not stated",
   "materialLine": "kojic acid + aloe vera + papaya",
@@ -106472,11 +106312,10 @@ const DETANS = [
    "Contains evidence-backed brightening actives (per listing)"
   ],
   "cons": [
-   "Quantity not stated",
-   "Marketplace brand — limited track record"
+   "Quantity not stated"
   ],
   "scores": {
-   "trust": 4.7,
+   "trust": 5.8,
    "skin": 5.4,
    "ingredients": 6.2,
    "value": 4.3,
@@ -107081,9 +106920,9 @@ const DETANS = [
   }
  },
  {
-  "id": "nature-s-b09118vngn",
-  "brand": "Nature’s",
-  "model": "Essence Lacto Tan Clear Detan Face Pack Enriched With Kojic Acid, Milk, Papaya & Aloevera|…",
+  "id": "nature-s-essence-b09118vngn",
+  "brand": "Nature's Essence",
+  "model": "Lacto Tan Clear Detan Face Pack Enriched With Kojic Acid, Milk, Papaya & Aloevera|Tan remo…",
   "price": 81,
   "capacityLine": "50 g",
   "materialLine": "kojic acid + aloe vera + papaya",
@@ -107095,11 +106934,10 @@ const DETANS = [
    "Contains evidence-backed brightening actives (per listing)"
   ],
   "cons": [
-   "Mixed buyer rating (3.9)",
-   "Marketplace brand — limited track record"
+   "Mixed buyer rating (3.9)"
   ],
   "scores": {
-   "trust": 4.6,
+   "trust": 5.6,
    "skin": 5.4,
    "ingredients": 6.2,
    "value": 5.2,
@@ -107694,9 +107532,9 @@ const DETANS = [
   }
  },
  {
-  "id": "nature-s-b093cbzpqr",
-  "brand": "Nature’s",
-  "model": "Essence De Tan Therapy Wipe Off Face Mask| D Tan Face Pack | Brightening Cream for Men & W…",
+  "id": "nature-s-essence-b093cbzpqr",
+  "brand": "Nature's Essence",
+  "model": "De Tan Therapy Wipe Off Face Mask| D Tan Face Pack | Brightening Cream for Men & Women | B…",
   "price": 300,
   "capacityLine": "200 g",
   "materialLine": "aloe vera + papaya",
@@ -107706,11 +107544,9 @@ const DETANS = [
    "Paraben-free (per listing)",
    "Dermatologically tested (per listing)"
   ],
-  "cons": [
-   "Marketplace brand — limited track record"
-  ],
+  "cons": [],
   "scores": {
-   "trust": 4.9,
+   "trust": 5.9,
    "skin": 5.9,
    "ingredients": 5.3,
    "value": 5.2,
@@ -108567,7 +108403,6 @@ const DETANS = [
   "title": "Keya Seth Aromatherapy Oxy De Tan Removal for Glowing & Lighting oil Control, Anti Acne & Pimples Blemishes Pigmentation De Tan pack for Face & Body – No Ammonia & Blech. 50gm",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:pack",
    "format:kit",
    "claim:brightening",
@@ -110941,7 +110776,6 @@ const DETANS = [
   "title": "BEARDO De-Tan Face scrub for Men, 100g | Blackhead & Tan Removal | Dual Bead Exfoliation | Coffee Detox | Oil Control",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:scrub",
    "format:kit",
    "ing:coffee",
@@ -111486,7 +111320,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:sheet-mask",
    "format:wash",
    "format:kit",
@@ -111792,7 +111625,6 @@ const DETANS = [
   "title": "DR.RASHEL De-Tan Face Pack for Glowing Skin | Oil Control | Acne | Pimples | Detan | Blemishes | Pigmentation & Brightening | Face Cleansing for Face & Body | 380 Ml | Pack of 2",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -113135,7 +112967,6 @@ const DETANS = [
   "title": "De Tan Face Pack for Glowing Skin, Oil Control, Acne, Pimples, Detan, Blemishes, Pigmentation & Brightening, Cleansing for Face & Body (390 Ml)",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:pack",
    "format:wash",
    "claim:brightening",
@@ -113352,7 +113183,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:serum",
-   "format:oil",
    "format:sheet-mask",
    "format:wash",
    "format:kit",
@@ -113731,7 +113561,6 @@ const DETANS = [
   "title": "Glacier Water, Hydro-Collagen 5 in 1 Facial Sheet Mask (Pack of 3)| Instant Cooling, De-Tan, Oil Control & Glow Boost | Deep Cleansing Facial Mask",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:sheet-mask",
    "format:wash",
    "format:kit",
@@ -115501,7 +115330,6 @@ const DETANS = [
   "title": "Hi-Fi Multani Mitti powder for skin Natural Oil Control, Deep Cleansing Face Pack, Acne & Blackhead Remover, Skin Brightening, Tan Removal, Cooling & Glowing Face Care for for Dry and Oily Skin, Pack of 3 (80g Each)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:pack",
    "format:powder",
@@ -116078,7 +115906,6 @@ const DETANS = [
   "title": "Multani Mitti Face Pack with Sandalwood & Mulethi for Glowing Skin | Tan Removal & Pigmentation Care | Oil Control & Deep Cleansing | Ayurvedic Face Pack for Men & Women | 180g (1)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:clay-mask",
    "format:pack",
    "format:wash",
@@ -125081,9 +124908,9 @@ const DETANS = [
   }
  },
  {
-  "id": "nature-s-b08r3j8glk",
-  "brand": "Nature’s",
-  "model": "Essence Lacto Bleach Natural Milk Bleach without Activator | D Tan Face Pack for Tan Remov…",
+  "id": "nature-s-essence-b08r3j8glk",
+  "brand": "Nature's Essence",
+  "model": "Lacto Bleach Natural Milk Bleach without Activator | D Tan Face Pack for Tan Removal | Bri…",
   "price": 176,
   "capacityLine": "100 g",
   "materialLine": "milk/yogurt",
@@ -125092,11 +124919,10 @@ const DETANS = [
   "pros": [],
   "cons": [
    "No free-from claims in listing",
-   "Mixed buyer rating (3.9)",
-   "Marketplace brand — limited track record"
+   "Mixed buyer rating (3.9)"
   ],
   "scores": {
-   "trust": 4.1,
+   "trust": 5.1,
    "skin": 4,
    "ingredients": 4.9,
    "value": 5.2,
@@ -126641,7 +126467,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:cream",
-   "format:oil",
    "format:kit",
    "claim:brightening",
    "claim:de-tan",
@@ -127260,7 +127085,6 @@ const DETANS = [
   "tags": [
    "scope:unstated",
    "format:cream",
-   "format:oil",
    "format:pack",
    "spf:15",
    "pa:+++",
@@ -132858,7 +132682,7 @@ const DETANS = [
  },
  {
   "id": "pond-s-b0c6qhp7vk",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Detan Face Wash for Tan Removal in Just 7 Days | Contains Vitamin C and Niacinamide | Face…",
   "price": 148,
   "capacityLine": "100 g",
@@ -133139,7 +132963,7 @@ const DETANS = [
  {
   "id": "anti-aging-b0gv3g3bsz",
   "brand": "Anti-Aging",
-  "model": ",Brightening Depigmentation & Tan Removal Face Pack (100 g)",
+  "model": "Brightening Depigmentation & Tan Removal Face Pack (100 g)",
   "price": 139,
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
@@ -133392,7 +133216,6 @@ const DETANS = [
   "title": "ORGANIC Ubtan Powder for Face | Natural Ayurvedic Herbal Face Pack for Glowing Skin, Tan Removal, Oil Control & Acne | All Skin Types | No Parabens or Chemicals | 100g",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:pack",
    "format:powder",
    "ing:ubtan",
@@ -133806,7 +133629,6 @@ const DETANS = [
   "title": "Naturasattva 100% Natural Herbal Powder for Face & Skin Care | Ayurvedic Face Pack for Tan Removal, Oil Control & Natural Glow | Chemical-Free Skin Care Powder 100g",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:pack",
    "format:powder",
    "claim:brightening",
@@ -134451,7 +134273,6 @@ const DETANS = [
   "title": "Fresh 3-in-1 Ubtan Detan Face Pack for Tightening & Brightening Skin, Deep Cleansing | Tan removal & Oil control | Remove Blackhead & Whitehead | For Men & Women (Pack of 2) (40g Each)",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:pack",
    "format:wash",
    "format:kit",
@@ -136002,7 +135823,6 @@ const DETANS = [
   "tags": [
    "scope:face",
    "format:foam",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "ing:salicylic-acid-bha",
@@ -138862,7 +138682,6 @@ const DETANS = [
   "title": "Globus Naturals De Tan Face Scrub, Enriched with Blueberry & Grapes, Tan Removal, Anti Pollution & Oil Control Formula, Chemical Free, Cruelty Free, Suitable For All Skin Types, 50 gm",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:scrub",
    "claim:de-tan",
    "claim:oil-control",
@@ -140166,7 +139985,6 @@ const DETANS = [
   "title": "BEARDO DeTan Face Wash for Men, 200ml | Glycolic Acid,Niacinamide & Coffee | Helps to Reduce Tan,Reduce Dark Sports & Pigmentation | Exfoliates & Hydrates for Smooth & Oil Free Skin",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -140453,7 +140271,6 @@ const DETANS = [
   "title": "BEARDO DeTan Face Wash for Men, 100ml | Glycolic Acid,Niacinamide & Coffee | Helps to Reduce Tan,Reduce Dark Sports & Pigmentation | Exfoliates & Hydrates for Smooth & Oil Free Skin",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "ing:niacinamide",
    "ing:glycolic-acid",
@@ -141302,7 +141119,6 @@ const DETANS = [
   "title": "Beardo De-tan Har Roz Kit For Men (Set of 3) | Detan Face Wash & Detan Scrub & Detan Body Wash with Powerful Coffee Extract for Tan Removal | Hydrates & Exfoliates Men's Skin for Oil Control",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "format:kit",
@@ -141508,7 +141324,6 @@ const DETANS = [
   "title": "The Man Company De Tan Face Wash for Man with Turmeric & Moringa | Tan Removal, Oil Control & Anti-Pollution | Unclog Pores | Deep Cleansing | Blackheads Removal - 100ml, Pack of 2",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:turmeric",
@@ -143194,9 +143009,9 @@ const DETANS = [
   }
  },
  {
-  "id": "nature-s-b0914bxwrg",
-  "brand": "Nature’s",
-  "model": "Essence Daily De-Tan Face Wash, 100 ml/95 g",
+  "id": "nature-s-essence-b0914bxwrg",
+  "brand": "Nature's Essence",
+  "model": "Daily De-Tan Face Wash, 100 ml/95 g",
   "price": 89,
   "capacityLine": "95 g",
   "materialLine": "Key ingredients not stated",
@@ -143207,11 +143022,10 @@ const DETANS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Mixed buyer rating (3.8)",
-   "Marketplace brand — limited track record"
+   "Mixed buyer rating (3.8)"
   ],
   "scores": {
-   "trust": 3.9,
+   "trust": 5,
    "skin": 4,
    "ingredients": 4,
    "value": 5.7,
@@ -143603,7 +143417,7 @@ const DETANS = [
  },
  {
   "id": "nature-s-essence-b0df6q68rk",
-  "brand": "Nature'S Essence",
+  "brand": "Nature's Essence",
   "model": "Daily DE-TAN FACE WASH 50GX3",
   "price": 275,
   "capacityLine": "Quantity not stated",
@@ -143862,7 +143676,7 @@ const DETANS = [
  },
  {
   "id": "nature-s-essence-b091vf58vs",
-  "brand": "Nature'S Essence",
+  "brand": "Nature's Essence",
   "model": "Daily De-Tan Face Wash, 65 ml",
   "price": 75,
   "capacityLine": "65 ml",
@@ -145404,7 +145218,6 @@ const DETANS = [
   "title": "Beardo De-tan Har Roz Kit For Men (Set of 3) | Detan Face Wash & Detan Scrub & Detan Body Wash with Powerful Coffee Extract for Tan Removal | Hydrates & Exfoliates Men's Skin for Oil Control",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "format:kit",
@@ -146148,7 +145961,6 @@ const DETANS = [
   "title": "The Man Company De Tan Charcoal Facial Kit for Man with Face Wash, Face Scrub, Peel Off Mask, Sheet Mask, Soap for Whitehead & Blackhead Removal, Deep Skin Cleansing & Oil Control | Best Gift Set",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:sheet-mask",
    "format:peel-off",
    "format:scrub",
@@ -150953,7 +150765,6 @@ const DETANS = [
   "title": "Shills Professional d-tane facial kit | D-Tan 6-Step Tan Removal & Brightening Kit for Glowing Skin | Deep Cleansing, Pore Tightening & Oil Control for Women & Men | Home Spa Treatment",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "claim:brightening",
@@ -153841,7 +153652,6 @@ const DETANS = [
   "title": "mCaffeine Tan Removal Face Wash Pack of 2-200ml | Face Wash Combo Pack Offer for Oily Skin & Normal Skin | Face Wash for Men & Women | Oil Control & Detan Cleanser Combo",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:wash",
    "format:kit",
    "ing:caffeine",
@@ -155117,7 +154927,6 @@ const DETANS = [
   "title": "Beardo Detan Combo For Men (Set of 3) | Detan Face Wash & Detan Scrub & Detan Body Wash with Powerful Coffee Extract for Tan Removal | Hydrates & Exfoliates Men's Skin for Oil Control",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:scrub",
    "format:wash",
    "format:kit",
@@ -159815,7 +159624,6 @@ const DETANS = [
   "title": "Mak-up Caffeine Scrub Face Wash, with Coffee Bean Powder, Deep Cleansing, Exfoliating, Oil Control, Tan Removal, 200ml",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:scrub",
    "format:powder",
    "format:wash",
@@ -163858,7 +163666,7 @@ const DETANS = [
  {
   "id": "herbaltwist-b0h3cmlcwm",
   "brand": "HerbalTwist",
-  "model": "- by Dr. Pooja Swarna Kanti Ubtan Powder - Natural Ayurvedic Face & Body Pack for Instant …",
+  "model": "by Dr. Pooja Swarna Kanti Ubtan Powder - Natural Ayurvedic Face & Body Pack for Instant Gl…",
   "price": 399,
   "capacityLine": "50 g",
   "materialLine": "ubtan",
@@ -164709,7 +164517,6 @@ const DETANS = [
   "title": "Ubtan Powder for Face & Body | Ubtan Face Pack with Multani Mitti, Sandalwood, Turmeric, Rose Petal & Orange Peel | Tan Removal, Glowing Skin, Acne Marks, Oil Control | Herbal Ayurvedic | All Skin Types | 100g",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:clay-mask",
    "format:pack",
    "format:peel",
@@ -164857,7 +164664,6 @@ const DETANS = [
   "title": "100% Natural Ubtan Face Pack | With Sandalwood, Turmeric, Orange Peel & Neem | For Glowing Skin, Tan Removal & Oil Control |",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:pack",
    "format:peel",
    "ing:turmeric",
@@ -164929,7 +164735,6 @@ const DETANS = [
   "title": "Organic Ubtan Powder| Ayurvedic Ubtan Face Pack | Ayurvedic Cleanser | Help to Maintain Oil Balance | Detan Pack Brightens Skin & Reduces Tan | For Kids, Men & Women| For Normal to Oily Skin | 50gm Ubtan Powder for Face and Body",
   "tags": [
    "scope:both",
-   "format:oil",
    "format:pack",
    "format:powder",
    "format:wash",
@@ -165284,7 +165089,6 @@ const DETANS = [
   "title": "Herbal Ubtan Powder 100g | Natural Ubtan Face Pack for Men & Women | Herbal Face Mask for Skin Brightening, Tan Removal & Oil Control | Deep Cleansing Skincare",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:pack",
    "format:powder",
    "format:wash",
@@ -166127,7 +165931,6 @@ const DETANS = [
   "title": "Pink Root Detan Face Mask 100gm, Helps in Tan Removal Whitening Depigmentation Oil Control, Acne & Fairness, Ubtan Glow Face Pack, Skin Brightening Face Pack, Used by All Types of Skin",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:pack",
    "ing:ubtan",
    "claim:brightening",
@@ -169984,7 +169787,6 @@ const DETANS = [
   "title": "IyalMooligai™ 100% Organic Ubtan Face Pack (210g) | Ayurvedic Herbal Glow Mask for Skin Brightening & Anti-Aging | Natural Tan Removal & Oil Control | With Sandalwood, Rose, Manjistha & Herbal Extracts | Suitable for All Skin Types",
   "tags": [
    "scope:face",
-   "format:oil",
    "format:pack",
    "ing:sandalwood",
    "ing:rose",

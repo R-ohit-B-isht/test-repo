@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-03.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-04.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -2620,7 +2620,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-itm47f23270b84ff",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "DeTan Facewash, With Niacinamide & Vitamin C, Reduces Tan …",
   "price": 156,
   "capacityLine": "Quantity not stated",
@@ -7630,7 +7630,7 @@ const CTPRODUCTS = [
  {
   "id": "tnw-itm5c38f22700281",
   "brand": "TNW",
-  "model": "- The Natural Wash Vitamin C Face Toner With Niacinamide & Wi …",
+  "model": "The Natural Wash Vitamin C Face Toner With Niacinamide & Wi …",
   "price": 258,
   "capacityLine": "Quantity not stated",
   "materialLine": "vitamin C + niacinamide",
@@ -22520,7 +22520,7 @@ const CTPRODUCTS = [
  {
   "id": "tnw-itm15a068a1ded82",
   "brand": "TNW",
-  "model": "- The Natural Wash Vitamin C Face Serum with HA- No Dark Spot …",
+  "model": "The Natural Wash Vitamin C Face Serum with HA- No Dark Spot …",
   "price": 1363,
   "capacityLine": "Quantity not stated",
   "materialLine": "vitamin C",
@@ -36705,7 +36705,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b0c6qhp7vk",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Detan Face Wash for Tan Removal in Just 7 Days | Contains Vitamin C and Niacinamide | Face…",
   "price": 148,
   "capacityLine": "100 g",
@@ -38026,8 +38026,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b07pg9vr1x",
-  "brand": "L’Oréal",
+  "id": "l-oreal-b07pg9vr1x",
+  "brand": "L'Oreal",
   "model": "Paris Men Expert Wake-up Effect Face Wash 100ml, Hydra Energetic Face Wash With Vitamin C*…",
   "price": 890,
   "capacityLine": "100 ml",
@@ -38039,11 +38039,10 @@ const CTPRODUCTS = [
    "Strong buyer rating (4.6)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 5.1,
+   "trust": 6.9,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.2
@@ -44373,7 +44372,7 @@ const CTPRODUCTS = [
  {
   "id": "cucumber-b0dh4vmcv2",
   "brand": "Cucumber",
-  "model": ", Green Tea & Vitamin C Hydrating Face Toner For Glowing Skin | Pure & Natural Face Toner …",
+  "model": "Green Tea & Vitamin C Hydrating Face Toner For Glowing Skin | Pure & Natural Face Toner Fo…",
   "price": 565,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "vitamin C + green tea + cucumber",
@@ -44639,7 +44638,7 @@ const CTPRODUCTS = [
  {
   "id": "cucumber-b0dgxzq1gx",
   "brand": "Cucumber",
-  "model": ", Green Tea & Vitamin C Face Mist Skin Toner for Face | Pure & Natural Face Toner For Men …",
+  "model": "Green Tea & Vitamin C Face Mist Skin Toner for Face | Pure & Natural Face Toner For Men & …",
   "price": 399,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "vitamin C + green tea + cucumber",
@@ -44970,7 +44969,7 @@ const CTPRODUCTS = [
  {
   "id": "cucumber-b0dh1zx9xr",
   "brand": "Cucumber",
-  "model": ", Green Tea & Vitamin C Face Mist Skin Toner for Face | Pure & Natural Face Toner For Men …",
+  "model": "Green Tea & Vitamin C Face Mist Skin Toner for Face | Pure & Natural Face Toner For Men & …",
   "price": 569,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "vitamin C + green tea + cucumber",
@@ -45036,7 +45035,7 @@ const CTPRODUCTS = [
  {
   "id": "cucumber-b0dh249l4l",
   "brand": "Cucumber",
-  "model": ", Green Tea & Vitamin C Face Mist Skin Toner for Face | Pure & Natural Face Toner For Men …",
+  "model": "Green Tea & Vitamin C Face Mist Skin Toner for Face | Pure & Natural Face Toner For Men & …",
   "price": 569,
   "capacityLine": "300 ml (pack of 3)",
   "materialLine": "vitamin C + green tea + cucumber",
@@ -47621,9 +47620,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b0cnjw796h",
-  "brand": "Nature’s",
-  "model": "Essence Bright Glow Vitamin C Face Serum for Men & Women | Brightens & Gives Glow | Fades …",
+  "id": "nature-s-essence-b0cnjw796h",
+  "brand": "Nature's Essence",
+  "model": "Bright Glow Vitamin C Face Serum for Men & Women | Brightens & Gives Glow | Fades Dark Spo…",
   "price": 84,
   "capacityLine": "12 ml",
   "materialLine": "vitamin C",
@@ -47634,11 +47633,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Mixed buyer rating (3.8)",
-   "Marketplace brand — limited track record"
+   "Mixed buyer rating (3.8)"
   ],
   "scores": {
-   "trust": 3.9,
+   "trust": 5,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.8
@@ -47687,9 +47685,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b0fh24k88c",
-  "brand": "Nature’s",
-  "model": "Essence Bright Glow Vitamin C Face Serum for Men & Women | Brightens & Gives Glow | Fades …",
+  "id": "nature-s-essence-b0fh24k88c",
+  "brand": "Nature's Essence",
+  "model": "Bright Glow Vitamin C Face Serum for Men & Women | Brightens & Gives Glow | Fades Dark Spo…",
   "price": 95,
   "capacityLine": "30 ml",
   "materialLine": "vitamin C",
@@ -47699,11 +47697,10 @@ const CTPRODUCTS = [
    "Contains evidence-backed actives (per listing)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.4,
+   "trust": 5.4,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.8
@@ -47892,9 +47889,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b0cnjy38gh",
-  "brand": "Nature’s",
-  "model": "Essence Vitamin C Serum Face Cream | Infused with Yuzu Lemon & Niacinamide | Brightens & G…",
+  "id": "nature-s-essence-b0cnjy38gh",
+  "brand": "Nature's Essence",
+  "model": "Vitamin C Serum Face Cream | Infused with Yuzu Lemon & Niacinamide | Brightens & Gives Glo…",
   "price": 62,
   "capacityLine": "25 g",
   "materialLine": "vitamin C + niacinamide",
@@ -47906,11 +47903,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Mixed buyer rating (3.8)",
-   "Marketplace brand — limited track record"
+   "Mixed buyer rating (3.8)"
   ],
   "scores": {
-   "trust": 3.9,
+   "trust": 5,
    "skin": 4,
    "ingredients": 5.5,
    "experience": 4.8
@@ -53019,7 +53015,7 @@ const CTPRODUCTS = [
  {
   "id": "plix-b0bm4n18v7",
   "brand": "PLIX",
-  "model": "- THE PLANT FIX 23% Vitamin C Guava Face Serum for Skin Brightening, Clear, Glowing & even…",
+  "model": "THE PLANT FIX 23% Vitamin C Guava Face Serum for Skin Brightening, Clear, Glowing & even t…",
   "price": 499,
   "capacityLine": "20 ml",
   "materialLine": "vitamin C + hyaluronic acid",
@@ -67036,7 +67032,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0fnn8g6w6",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Cica Exosomes & Vitamin C Face Serum | Brightens, restores glow from dull, tired skin | Li…",
   "price": 849,
   "capacityLine": "Quantity not stated",
@@ -67770,7 +67766,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "nature-s-essence-b0db637t2f",
-  "brand": "Nature'S Essence",
+  "brand": "Nature's Essence",
   "model": "Bright Glow Vitamin C Gel Facewash, Bright Glow Vitamin C Serum & Bright Glow Vitamin C Se…",
   "price": 219,
   "capacityLine": "Quantity not stated",
@@ -73710,7 +73706,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0fsl6j314",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Non-Irritating Ceramide & 10% Vitamin C Ampoule Serum | Reduces Dullness & Dark Spots | Br…",
   "price": 297,
   "capacityLine": "10 ml",
@@ -85323,7 +85319,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "paula-s-choice-b00tu7yic0",
-  "brand": "Paula'S Choice",
+  "brand": "Paula's Choice",
   "model": "Resist Intensive Wrinkle-Repair Retinol Serum, Squalane, Vitamin C & E, Anti-Aging & Wrink…",
   "price": 4200,
   "capacityLine": "30 ml",
@@ -90893,8 +90889,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b0dh1zjppl",
-  "brand": "L’Oréal",
+  "id": "l-oreal-b0dh1zjppl",
+  "brand": "L'Oreal",
   "model": "Paris Loreal Men Expert Hydra Energetic Deep Exfoliating Face Scrub With Vitamin C 150Ml",
   "price": 975,
   "capacityLine": "150 ml",
@@ -90905,11 +90901,10 @@ const CTPRODUCTS = [
    "Contains evidence-backed actives (per listing)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.4,
+   "trust": 6.1,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.2
@@ -95521,7 +95516,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "paula-s-choice-b00l5o31vk",
-  "brand": "Paula'S Choice",
+  "brand": "Paula's Choice",
   "model": "Clinical 1% Retinol Treatment With Peptides & Vitamin C For Deep Wrinkles And Dark Spots C…",
   "price": 1759,
   "capacityLine": "5 ml",
@@ -95862,7 +95857,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0b8s79pf7",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Ceramide & Vitamin C Oil-Free Face Moisturizer for Oily | Combination & Acne prone skin | …",
   "price": 307,
   "capacityLine": "50 g",
@@ -97832,7 +97827,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0dgx8ll21",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Ceramide & Vitamin C Moisturizing Cream | With 2% Vitamin C Complex, 1% Ceramide | For Dry…",
   "price": 399,
   "capacityLine": "100 g",
@@ -98124,7 +98119,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0cm6jsf84",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Ceramide & Vitamin C Oil - Free Moisturizer| Lightweight Moisturizer To Hydrate & Brighten…",
   "price": 479,
   "capacityLine": "100 g",
@@ -98970,7 +98965,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b099qvjgcr",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Bright Beauty Light Cream with UV Filter | Niasorcinol | 100x Better than Vitamin C | Niac…",
   "price": 215,
   "capacityLine": "50 g",
@@ -100779,7 +100774,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0gy4lm2rk",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Collagen & Vitamin C Overnight Wrapping Mask | Firms & Brightens Skin | Deep Hydration for…",
   "price": 479,
   "capacityLine": "50 ml",
@@ -106934,7 +106929,7 @@ const CTPRODUCTS = [
  {
   "id": "plix-b0fy3d8n38",
   "brand": "PLIX",
-  "model": "- THE PLANT FIX Guava Glow Brightening Body Lotion | Hydrates, Brightens & Evens Skin Tone…",
+  "model": "THE PLANT FIX Guava Glow Brightening Body Lotion | Hydrates, Brightens & Evens Skin Tone |…",
   "price": 299,
   "capacityLine": "200 ml",
   "materialLine": "vitamin C + shea butter",
@@ -107488,7 +107483,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0bf13crt5",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Ceramide & Vitamin C Body Lotion | Non-Sticky Formula | Strengthen Barrier | Brightens & N…",
   "price": 258,
   "capacityLine": "200 ml",
@@ -107902,7 +107897,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "johnson-s-b0h2f6sfp5",
-  "brand": "Johnson'S",
+  "brand": "Johnson's",
   "model": "Baby Milk and Rice Baby Lotion 500 ml| All Skin Types Including Sensitive Skin | With Milk…",
   "price": 334,
   "capacityLine": "500 ml",
@@ -131034,7 +131029,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0d1vdgqh5",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Ceramide & Vitamin C Sunscreen | In-Vivo Tested | Protects, Moisturizes & Brightens Skin |…",
   "price": 269,
   "capacityLine": "30 g",
@@ -131309,7 +131304,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0dvb9cgds",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Ceramide & Vitamin C Oil-Free Sunscreen SPF 50+ PA++++ | In-Vivo tested | Oil-Free Tan Pro…",
   "price": 374,
   "capacityLine": "50 g",
@@ -146288,7 +146283,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b0c1kp6b8g",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Bright Miracle Ultimate Brightening Serum with Niasorcinol | 30X better than Vitamin C | F…",
   "price": 177,
   "capacityLine": "15 ml",
@@ -148359,7 +148354,7 @@ const CTPRODUCTS = [
  {
   "id": "radiance-b0hgfxg54t",
   "brand": "Radiance",
-  "model": ", Hydration & UV Defence Combo | 30ml Serum + 50ml Moisturizer + 50ml Sunscreen SPF 50 PA+…",
+  "model": "Hydration & UV Defence Combo | 30ml Serum + 50ml Moisturizer + 50ml Sunscreen SPF 50 PA+++…",
   "price": 960,
   "capacityLine": "30 ml",
   "materialLine": "vitamin C + niacinamide + hyaluronic acid",
@@ -154225,8 +154220,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b0chj2ftdf",
-  "brand": "L'Oréal",
+  "id": "l-oreal-b0chj2ftdf",
+  "brand": "L'Oreal",
   "model": "Paris Glycolic Bright Dark Circle Eye Serum, 20ml | 3% Glycolic + Niacinamide + Vitamin CG…",
   "price": 289,
   "capacityLine": "20 ml",
@@ -154238,11 +154233,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Pricey: ₹1445/100ml",
-   "Marketplace brand — limited track record"
+   "Pricey: ₹1445/100ml"
   ],
   "scores": {
-   "trust": 4.4,
+   "trust": 6.1,
    "skin": 4,
    "ingredients": 5.5,
    "experience": 4.5

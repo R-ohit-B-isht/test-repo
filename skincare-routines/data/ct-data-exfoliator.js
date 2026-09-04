@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-03.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-04.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -234,9 +234,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "dr-itm108f8b4dad902",
-  "brand": "Dr.",
-  "model": "Sheth’s Neem & Salicylic Acid , Deeply Cleanses, Exfoliates a …",
+  "id": "dr-sheth-s-itm108f8b4dad902",
+  "brand": "Dr. Sheth's",
+  "model": "Neem & Salicylic Acid , Deeply Cleanses, Exfoliates a …",
   "price": 338,
   "capacityLine": "Quantity not stated",
   "materialLine": "salicylic acid (BHA) + neem",
@@ -247,11 +247,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.4,
+   "trust": 5.4,
    "skin": 4,
    "ingredients": 5.5,
    "experience": 4.2
@@ -33529,7 +33528,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "pond-s-b08pq6vwpt",
-  "brand": "Pond'S",
+  "brand": "Pond's",
   "model": "Pure Detox Face Wash 200 g|| Daily Exfoliating & Brightening Cleanser|| Deep Cleans Oily S…",
   "price": 268,
   "capacityLine": "200 g",
@@ -38673,7 +38672,7 @@ const CTPRODUCTS = [
  {
   "id": "plix-b0crz9y2g8",
   "brand": "PLIX",
-  "model": "- THE PLANT FIX Pineapple PHA 3% Alcohol Free Face Toner (150ml) | Pore Tightening & Mild …",
+  "model": "THE PLANT FIX Pineapple PHA 3% Alcohol Free Face Toner (150ml) | Pore Tightening & Mild Ex…",
   "price": 263,
   "capacityLine": "150 ml",
   "materialLine": "PHA",
@@ -39638,9 +39637,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b08wsy3c5q",
-  "brand": "Nature’s",
-  "model": "Essence Anti Pollution Charcoal Face Scrub, 50 g, White",
+  "id": "nature-s-essence-b08wsy3c5q",
+  "brand": "Nature's Essence",
+  "model": "Anti Pollution Charcoal Face Scrub, 50 g, White",
   "price": 84,
   "capacityLine": "50 g",
   "materialLine": "charcoal",
@@ -39651,11 +39650,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Mixed buyer rating (3.6)",
-   "Marketplace brand — limited track record"
+   "Mixed buyer rating (3.6)"
   ],
   "scores": {
-   "trust": 3.6,
+   "trust": 4.7,
    "skin": 4,
    "ingredients": 4.4,
    "experience": 4.2
@@ -52071,8 +52069,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b0dh1zjppl",
-  "brand": "L’Oréal",
+  "id": "l-oreal-b0dh1zjppl",
+  "brand": "L'Oreal",
   "model": "Paris Loreal Men Expert Hydra Energetic Deep Exfoliating Face Scrub With Vitamin C 150Ml",
   "price": 975,
   "capacityLine": "150 ml",
@@ -52083,11 +52081,10 @@ const CTPRODUCTS = [
    "Contains evidence-backed actives (per listing)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.4,
+   "trust": 6.1,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.2
@@ -64414,7 +64411,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b099sgwymz",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Liquorice & Lactic Acid Face Peel | Exfoliating At-Home Peel | Reduces Pigmentation & Dark…",
   "price": 296,
   "capacityLine": "30 g",
@@ -69503,7 +69500,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "paula-s-choice-b089973qwm",
-  "brand": "Paula'S Choice",
+  "brand": "Paula's Choice",
   "model": "SKIN PERFECTING 25% AHA + 2% BHA Liquid Exfoliant Face Peel, Facial Exfoliator for Enlarge…",
   "price": 3950,
   "capacityLine": "30 ml",
@@ -70732,7 +70729,7 @@ const CTPRODUCTS = [
  {
   "id": "plix-b0btvl62gp",
   "brand": "PLIX",
-  "model": "- THE PLANT FIX 25% AHA+ 2% BHA + 5% PHA Pomegranate Peeling Potion For Glowing & Even Ton…",
+  "model": "THE PLANT FIX 25% AHA+ 2% BHA + 5% PHA Pomegranate Peeling Potion For Glowing & Even Toned…",
   "price": 419,
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA) + PHA",
@@ -71474,7 +71471,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "paula-s-choice-b00949co66",
-  "brand": "Paula'S Choice",
+  "brand": "Paula's Choice",
   "model": "SKIN PERFECTING 8% AHA Gel Exfoliant with Glycolic Acid Chamomile & Green Tea, 100 ml Pump…",
   "price": 3100,
   "capacityLine": "100 ml",
@@ -78567,7 +78564,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0d376x2hd",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Tea Tree & Lactic Acid Body Lotion- 300 ml | Treats Body Acne | Moisturizes and Light Weig…",
   "price": 259,
   "capacityLine": "300 ml",
@@ -79906,7 +79903,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "palmer-s-b09c74y9q9",
-  "brand": "Palmer'S",
+  "brand": "Palmer's",
   "model": "Cocoa Butter Body Lotion, Retexture & Renewed Exfoliation - 400ml",
   "price": 815,
   "capacityLine": "400 ml",
@@ -80059,7 +80056,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0c7vhtjts",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Gulab & Glycolic Acid Body Peel | Exfoliating Resurfacing Formula | Removes Tan & Dead Ski…",
   "price": 382,
   "capacityLine": "100 g",
@@ -80901,7 +80898,7 @@ const CTPRODUCTS = [
  {
   "id": "aqu-b0hdd1hn3l",
   "brand": "Aqu",
-  "model": "- rea HF Urea 40% Cream Gel | Intensive Moisturizing & Exfoliating Cream for Dry, Rough, C…",
+  "model": "rea HF Urea 40% Cream Gel | Intensive Moisturizing & Exfoliating Cream for Dry, Rough, Cra…",
   "price": 449,
   "capacityLine": "50 g",
   "materialLine": "urea + tea tree + aloe vera",
@@ -82063,7 +82060,7 @@ const CTPRODUCTS = [
  {
   "id": "plix-b0dl4j31vm",
   "brand": "PLIX",
-  "model": "- THE PLANT FIX Jamun Acne Control Regime with Salicylic Acid | With Salicylic Acid & Jamu…",
+  "model": "THE PLANT FIX Jamun Acne Control Regime with Salicylic Acid | With Salicylic Acid & Jamun …",
   "price": 1255,
   "capacityLine": "Quantity not stated",
   "materialLine": "salicylic acid (BHA)",
@@ -83667,7 +83664,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0f676z6yh",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Licorice & Lactic Acid Body Wash | Soap-Free Exfoliating Shower Gel | Reduces Pigmentation…",
   "price": 339,
   "capacityLine": "250 ml",
@@ -114774,7 +114771,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "paula-s-choice-b01n1qnhha",
-  "brand": "Paula'S Choice",
+  "brand": "Paula's Choice",
   "model": "SKIN PERFECTING 8% AHA Exfoliant, Gel Exfoliant with Glycolic Acid Chamomile & Green Tea, …",
   "price": 935,
   "capacityLine": "15 ml",
@@ -116341,7 +116338,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0bzp9cthj",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Gulab & Glycolic Acid Exfoliating Body Wash | Soap-Free Shower Gel | Removes Tan & Dead Sk…",
   "price": 262,
   "capacityLine": "250 ml",
@@ -117741,7 +117738,7 @@ const CTPRODUCTS = [
  {
   "id": "plix-b0ct2sq1lg",
   "brand": "PLIX",
-  "model": "- THE PLANT FIX | Pineapple Clarifying Regime With Pineapple Exfoliation Fruity Toner, Dep…",
+  "model": "THE PLANT FIX | Pineapple Clarifying Regime With Pineapple Exfoliation Fruity Toner, Depig…",
   "price": 995,
   "capacityLine": "280 ml",
   "materialLine": "salicylic acid (BHA)",
@@ -134948,7 +134945,7 @@ const CTPRODUCTS = [
  {
   "id": "plix-b0bx37p3zp",
   "brand": "PLIX",
-  "model": "- THE PLANT FIX 3% Glycolic Acid Guava Serum For Glowing Skin & Gentle Exfoliation | Visib…",
+  "model": "THE PLANT FIX 3% Glycolic Acid Guava Serum For Glowing Skin & Gentle Exfoliation | Visibly…",
   "price": 519,
   "capacityLine": "30 ml",
   "materialLine": "glycolic acid",

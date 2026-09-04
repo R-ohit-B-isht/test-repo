@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-03.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-04.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -42363,8 +42363,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b08ftnb8n2",
-  "brand": "L'Oréal",
+  "id": "l-oreal-b08ftnb8n2",
+  "brand": "L'Oreal",
   "model": "Paris Revitalift Crystal Micro-Essence Sheet Mask, Face Treatment, Crystal-clear Skin, 25g",
   "price": 143,
   "capacityLine": "25 g",
@@ -42375,11 +42375,10 @@ const CTPRODUCTS = [
    "Strong buyer rating (4.2)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 6.3,
    "skin": 4,
    "ingredients": 4,
    "experience": 4.2
@@ -42424,9 +42423,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b093cbzpqr",
-  "brand": "Nature’s",
-  "model": "Essence De Tan Therapy Wipe Off Face Mask| D Tan Face Pack | Brightening Cream for Men & W…",
+  "id": "nature-s-essence-b093cbzpqr",
+  "brand": "Nature's Essence",
+  "model": "De Tan Therapy Wipe Off Face Mask| D Tan Face Pack | Brightening Cream for Men & Women | B…",
   "price": 300,
   "capacityLine": "200 g",
   "materialLine": "Key ingredients not stated",
@@ -42437,11 +42436,9 @@ const CTPRODUCTS = [
    "Paraben-free (per listing)",
    "Dermatologically tested (per listing)"
   ],
-  "cons": [
-   "Marketplace brand — limited track record"
-  ],
+  "cons": [],
   "scores": {
-   "trust": 4.9,
+   "trust": 5.9,
    "skin": 5.3,
    "ingredients": 4,
    "experience": 4.5
@@ -42492,9 +42489,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "nature-s-b08r3j8glk",
-  "brand": "Nature’s",
-  "model": "Essence Lacto Bleach Natural Milk Bleach without Activator | D Tan Face Pack for Tan Remov…",
+  "id": "nature-s-essence-b08r3j8glk",
+  "brand": "Nature's Essence",
+  "model": "Lacto Bleach Natural Milk Bleach without Activator | D Tan Face Pack for Tan Removal | Bri…",
   "price": 176,
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
@@ -42505,11 +42502,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Mixed buyer rating (3.9)",
-   "Marketplace brand — limited track record"
+   "Mixed buyer rating (3.9)"
   ],
   "scores": {
-   "trust": 4.1,
+   "trust": 5.1,
    "skin": 4,
    "ingredients": 4.3,
    "experience": 4.5
@@ -46323,8 +46319,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b08qvhxbyd",
-  "brand": "LAKMÉ",
+  "id": "lakme-b08qvhxbyd",
+  "brand": "Lakme",
   "model": "Blush & Glow Kiwi Sheet Mask, 20 ml & Blush & Glow Strawberry Sheet Mask, 20 ml",
   "price": 121,
   "capacityLine": "20 ml",
@@ -46335,11 +46331,10 @@ const CTPRODUCTS = [
    "Strong buyer rating (4.4)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.8,
+   "trust": 6.6,
    "skin": 4,
    "ingredients": 4,
    "experience": 4.5
@@ -46649,8 +46644,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b0bxd1nxqr",
-  "brand": "LAKMÉ",
+  "id": "lakme-b0bxd1nxqr",
+  "brand": "Lakme",
   "model": "Skin Solutions Sheet Mask Brightening with Niacinamide 25ml",
   "price": 100,
   "capacityLine": "25 ml",
@@ -46662,11 +46657,10 @@ const CTPRODUCTS = [
    "Strong buyer rating (4.3)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.7,
+   "trust": 6.5,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.5
@@ -47955,8 +47949,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b08m4vbljg",
-  "brand": "LAKMÉ",
+  "id": "lakme-b08m4vbljg",
+  "brand": "Lakme",
   "model": "Blush & Glow Strawberry Sheet Mask, 25 Ml",
   "price": 444,
   "capacityLine": "25 ml",
@@ -47968,11 +47962,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Pricey: ₹1776/100ml",
-   "Marketplace brand — limited track record"
+   "Pricey: ₹1776/100ml"
   ],
   "scores": {
-   "trust": 4.7,
+   "trust": 6.5,
    "skin": 4,
    "ingredients": 4,
    "experience": 4.5
@@ -49209,8 +49202,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "lakm-b09mycwd66",
-  "brand": "LAKMÉ",
+  "id": "lakme-b09mycwd66",
+  "brand": "Lakme",
   "model": "Blush & Glow Sheet Mask, Pomegranate, Kiwi, Strawberry, Lemon & Watermelon (20 Ml)",
   "price": 455,
   "capacityLine": "20 ml",
@@ -49222,11 +49215,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Pricey: ₹2275/100ml",
-   "Marketplace brand — limited track record"
+   "Pricey: ₹2275/100ml"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 6.3,
    "skin": 4,
    "ingredients": 4,
    "experience": 4.5
@@ -81663,7 +81655,7 @@ const CTPRODUCTS = [
  {
   "id": "tnw-b0df7d233n",
   "brand": "TNW",
-  "model": "- The Natural Wash Seed Smoothie Overnight Revive Mask (Sleeping Mask) With Pumpkin seeds,…",
+  "model": "The Natural Wash Seed Smoothie Overnight Revive Mask (Sleeping Mask) With Pumpkin seeds, F…",
   "price": 299,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
@@ -87639,7 +87631,7 @@ const CTPRODUCTS = [
  {
   "id": "b-b-a-itmf8abc69ec7675",
   "brand": "Bébéa",
-  "model": "- Natural Radiance Orange Peel Face Pack Powder, For Skin a …",
+  "model": "Natural Radiance Orange Peel Face Pack Powder, For Skin a …",
   "price": 169,
   "capacityLine": "250 g",
   "materialLine": "charcoal + clay/mud + neem",
@@ -91215,8 +91207,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b09stblxpg",
-  "brand": "L'Oréal",
+  "id": "l-oreal-b09stblxpg",
+  "brand": "L'Oreal",
   "model": "Paris Glycolic Bright Glowing Serum Sheet Mask | Glycolic Acid face mask | Brightens skin,…",
   "price": 156,
   "capacityLine": "Quantity not stated",
@@ -91229,11 +91221,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 6.3,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.5
@@ -91279,8 +91270,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b0hbyk7fsv",
-  "brand": "L'Oréal",
+  "id": "l-oreal-b0hbyk7fsv",
+  "brand": "L'Oreal",
   "model": "Paris Glycolic Bright Glowing Serum Sheet Mask (Pack of 2)",
   "price": 312,
   "capacityLine": "Quantity not stated",
@@ -91293,11 +91284,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 6.3,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.5
@@ -94990,7 +94980,7 @@ const CTPRODUCTS = [
  {
   "id": "peeling-b0fyqmkgph",
   "brand": "Peeling",
-  "model": ", Korean Peeling & Exfoliating | Deep Exfoliation with Glycolic Acid, Removes Dead Skin, C…",
+  "model": "Korean Peeling & Exfoliating | Deep Exfoliation with Glycolic Acid, Removes Dead Skin, Cru…",
   "price": 299,
   "capacityLine": "Quantity not stated",
   "materialLine": "glycolic acid",

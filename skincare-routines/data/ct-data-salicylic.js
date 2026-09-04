@@ -1,4 +1,4 @@
-// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-03.
+// Auto-generated from live Flipkart (browser) and Amazon.in product pages, 2026-09-04.
 // Unknown fields are honestly marked, never invented.
 const CTPRODUCTS = [
  {
@@ -2008,9 +2008,9 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "dr-itm108f8b4dad902",
-  "brand": "Dr.",
-  "model": "Sheth’s Neem & Salicylic Acid , Deeply Cleanses, Exfoliates a …",
+  "id": "dr-sheth-s-itm108f8b4dad902",
+  "brand": "Dr. Sheth's",
+  "model": "Neem & Salicylic Acid , Deeply Cleanses, Exfoliates a …",
   "price": 338,
   "capacityLine": "Quantity not stated",
   "materialLine": "salicylic acid (BHA) + neem",
@@ -2021,11 +2021,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.4,
+   "trust": 5.4,
    "skin": 4,
    "ingredients": 5.5,
    "experience": 4.2
@@ -52909,7 +52908,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "dr-sheth-s-b0b721t831",
-  "brand": "Dr. Sheth'S",
+  "brand": "Dr. Sheth's",
   "model": "Neem & Salicylic Acid Foaming Face Wash | 2% Salicylic Acid | For Oily & Acne-Prone Skin |…",
   "price": 296,
   "capacityLine": "100 ml",
@@ -58941,8 +58940,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b082l8mvd4",
-  "brand": "L'Oréal",
+  "id": "l-oreal-b082l8mvd4",
+  "brand": "L'Oreal",
   "model": "Paris Revitalift Crystal Micro-Essence, Ultra-lightweight facial essence, With Salicylic A…",
   "price": 750,
   "capacityLine": "65 ml",
@@ -58955,11 +58954,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Pricey: ₹1154/100ml",
-   "Marketplace brand — limited track record"
+   "Pricey: ₹1154/100ml"
   ],
   "scores": {
-   "trust": 4.5,
+   "trust": 6.3,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.5
@@ -59005,8 +59003,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b0819wh3vr",
-  "brand": "L'Oréal",
+  "id": "l-oreal-b0819wh3vr",
+  "brand": "L'Oreal",
   "model": "Paris Revitalift Crystal Micro-Essence, Ultra-lightweight facial essence, With Salicylic A…",
   "price": 779,
   "capacityLine": "130 ml",
@@ -59018,11 +59016,10 @@ const CTPRODUCTS = [
    "Strong buyer rating (4.3)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No free-from claims in listing"
   ],
   "scores": {
-   "trust": 4.7,
+   "trust": 6.5,
    "skin": 4,
    "ingredients": 5.1,
    "experience": 4.5
@@ -63499,8 +63496,8 @@ const CTPRODUCTS = [
   }
  },
  {
-  "id": "l-or-al-b0gf24dvdk",
-  "brand": "L'Oréal",
+  "id": "l-oreal-b0gf24dvdk",
+  "brand": "L'Oreal",
   "model": "Paris Glycolic-Bright Anti Dark Spot Exfoliant Peel, 25ml | 15% AHA + BHA + PHA + Niacinam…",
   "price": 785,
   "capacityLine": "25 ml",
@@ -63512,11 +63509,10 @@ const CTPRODUCTS = [
   ],
   "cons": [
    "No free-from claims in listing",
-   "Pricey: ₹3140/100ml",
-   "Marketplace brand — limited track record"
+   "Pricey: ₹3140/100ml"
   ],
   "scores": {
-   "trust": 4.2,
+   "trust": 6,
    "skin": 4,
    "ingredients": 6.3,
    "experience": 4.8
@@ -67965,7 +67961,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "paula-s-choice-b089973qwm",
-  "brand": "Paula'S Choice",
+  "brand": "Paula's Choice",
   "model": "SKIN PERFECTING 25% AHA + 2% BHA Liquid Exfoliant Face Peel, Facial Exfoliator for Enlarge…",
   "price": 3950,
   "capacityLine": "30 ml",
@@ -70162,7 +70158,7 @@ const CTPRODUCTS = [
  {
   "id": "plix-b0btvl62gp",
   "brand": "PLIX",
-  "model": "- THE PLANT FIX 25% AHA+ 2% BHA + 5% PHA Pomegranate Peeling Potion For Glowing & Even Ton…",
+  "model": "THE PLANT FIX 25% AHA+ 2% BHA + 5% PHA Pomegranate Peeling Potion For Glowing & Even Toned…",
   "price": 419,
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA) + PHA",
@@ -90080,7 +90076,7 @@ const CTPRODUCTS = [
  },
  {
   "id": "paula-s-choice-b0861gh5yn",
-  "brand": "Paula'S Choice",
+  "brand": "Paula's Choice",
   "model": "Weightless Body Treatment 2% BHA, Salicylic Acid & Chamomile Lotion Exfoliant, Moisturizer…",
   "price": 1200,
   "capacityLine": "60 ml",
@@ -93549,7 +93545,7 @@ const CTPRODUCTS = [
  {
   "id": "urbanmooch-b0f1ndcdzh",
   "brand": "UrbanMooch",
-  "model": "| Anti-Acne 2% Salicylic Acid Face Serum | Reduces Blackheads, Oiliness & Bumpy Texture | …",
+  "model": "Anti-Acne 2% Salicylic Acid Face Serum | Reduces Blackheads, Oiliness & Bumpy Texture | BH…",
   "price": 200,
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA) + aloe vera",
@@ -106699,7 +106695,7 @@ const CTPRODUCTS = [
  {
   "id": "plix-b0dl4j31vm",
   "brand": "PLIX",
-  "model": "- THE PLANT FIX Jamun Acne Control Regime with Salicylic Acid | With Salicylic Acid & Jamu…",
+  "model": "THE PLANT FIX Jamun Acne Control Regime with Salicylic Acid | With Salicylic Acid & Jamun …",
   "price": 1255,
   "capacityLine": "Quantity not stated",
   "materialLine": "salicylic acid (BHA)",
@@ -111176,7 +111172,7 @@ const CTPRODUCTS = [
  {
   "id": "plix-b0dl4fwyf9",
   "brand": "PLIX",
-  "model": "- THE PLANT FIX l Jamun Salicylic Acid Infused Body Wash & Body Lotion For Body Acne l Red…",
+  "model": "THE PLANT FIX l Jamun Salicylic Acid Infused Body Wash & Body Lotion For Body Acne l Reduc…",
   "price": 649,
   "capacityLine": "Quantity not stated",
   "materialLine": "salicylic acid (BHA)",
@@ -132170,7 +132166,7 @@ const CTPRODUCTS = [
  {
   "id": "salisix-itmeba5f5d75d064",
   "brand": "salisix",
-  "model": "- F with Salicylic & Glycolic Acid for Clear Skin, 6 in 1 …",
+  "model": "F with Salicylic & Glycolic Acid for Clear Skin, 6 in 1 …",
   "price": 351,
   "capacityLine": "60 ml",
   "materialLine": "salicylic acid (BHA) + glycolic acid + papaya",
@@ -137540,7 +137536,7 @@ const CTPRODUCTS = [
  {
   "id": "aha-b0dqjgsv7y",
   "brand": "AHA",
-  "model": "|BHA Body Lotion 50 ml, 10% AHA, 2% BHA, Niacinamide, Milk Protien, Ceramide Complex With …",
+  "model": "BHA Body Lotion 50 ml, 10% AHA, 2% BHA, Niacinamide, Milk Protien, Ceramide Complex With E…",
   "price": 149,
   "capacityLine": "50 ml",
   "materialLine": "niacinamide + salicylic acid (BHA) + ceramides",
@@ -150147,7 +150143,7 @@ const CTPRODUCTS = [
  {
   "id": "biocutis-b0c2qcqp9w",
   "brand": "Biocutis",
-  "model": "- Tube of 100ml Face Wash with Salicylic Acid and Glycolic Acid",
+  "model": "Tube of 100ml Face Wash with Salicylic Acid and Glycolic Acid",
   "price": 300,
   "capacityLine": "100 ml",
   "materialLine": "salicylic acid (BHA) + glycolic acid",
