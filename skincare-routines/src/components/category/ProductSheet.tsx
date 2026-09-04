@@ -53,7 +53,7 @@ export function ProductSheet({ category, shards, row, rank, scope, weights, sour
                 <div className="flex flex-wrap items-center gap-2">
                   <span className="mono rounded-full bg-raised px-2.5 py-1 text-[12px] font-extrabold text-display">#{rank}</span>
                   <ZoneBadge zone={scope} />
-                  <EvidenceBadge status={row.ev} />
+                  <EvidenceBadge status={row.ev} source={row.es} />
                   <span className="label">{storeLabel(row.st)}</span>
                 </div>
                 <p className="mt-3 text-[13px] font-bold text-accent">{row.b}</p>

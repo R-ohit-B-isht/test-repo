@@ -1,4 +1,4 @@
-import type { InciStatus, ScoreKey } from '../lib/types';
+import type { InciSourceKind, InciStatus, ScoreKey } from '../lib/types';
 
 /** Human labels for the four ranking dimensions (weights come from the manifest). Seller claims feed none of them. */
 export const SCORE_META: { key: ScoreKey; label: string; hint: string }[] = [
@@ -14,4 +14,11 @@ export const INCI_META: Record<InciStatus, { label: string; short: string; tone:
   partial: { label: 'Key-ingredients line only — formula unscored', short: 'Partial', tone: 'warn' },
   garbled: { label: 'Ingredient text unreadable — formula unscored', short: 'Unreadable', tone: 'warn' },
   none: { label: 'No ingredient list on the listing — formula unscored', short: 'No INCI', tone: 'muted' },
+};
+
+/** Where a verified list came from when it was not printed on the listing itself. */
+export const INCI_SOURCE_META: Record<InciSourceKind, { label: string; short: string }> = {
+  listing: { label: 'Published on the marketplace listing', short: '' },
+  'brand-site': { label: 'Read from the brand’s official website (not printed on the listing)', short: 'brand site' },
+  secondary: { label: 'Read from a third-party ingredient database (not on the listing or brand site) — counted at 90%', short: 'database' },
 };

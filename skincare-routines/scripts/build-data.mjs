@@ -58,6 +58,7 @@ function assertReal(rec, file) {
   if (!Array.isArray(rec.tags)) problems.push('tags');
   for (const k of Object.keys(WEIGHTS)) if (typeof rec.scores?.[k] !== 'number') problems.push('scores.' + k);
   if (!['full', 'partial', 'garbled', 'none'].includes(rec.evidence?.inci)) problems.push('evidence.inci');
+  if (rec.evidence?.inciSourceKind && rec.evidence.inciSourceKind !== 'listing' && !/^https?:\/\//.test(rec.evidence.inciSourceUrl || '')) problems.push('evidence.inciSourceUrl');
   if (problems.length) throw new Error(`${file}: record ${rec.id} missing real fields: ${problems.join(', ')}`);
 }
 
@@ -106,6 +107,7 @@ for (const cat of CATEGORIES) {
       id: rec.id, b: rec.brand, m: rec.model, p: rec.price, st: rec.buyStore,
       s: overall(rec.scores), sc: { trust: rec.scores.trust, skin: rec.scores.skin, ingredients: rec.scores.ingredients, experience: rec.scores.experience },
       img: rec.images[0], q: rec.capacityLine, f: rec.featureLine, r, rc, t, ev: rec.evidence.inci,
+      ...(rec.evidence.inci === 'full' && rec.evidence.inciSourceKind && rec.evidence.inciSourceKind !== 'listing' ? { es: rec.evidence.inciSourceKind } : {}),
       ...(rec.step ? { step: rec.step } : {}),
     });
     details[shardOf(rec.id)][rec.id] = {

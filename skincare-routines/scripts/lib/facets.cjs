@@ -178,7 +178,7 @@ function ratingTag(rating) {
 
 const LABELS = { scope: {
   face: 'Face', body: 'Body', both: 'Face + body', unstated: 'Scope not stated' },
-  inci: { full: 'Full INCI list published', partial: 'Key-ingredients line only', none: 'No ingredient list', 'no-fragrance': 'No fragrance / allergen on INCI', 'pharma-maker': 'Dermatology / pharma maker' },
+  inci: { full: 'Full INCI list published', partial: 'Key-ingredients line only', none: 'No ingredient list', 'brand-site': 'INCI read from brand website', secondary: 'INCI from third-party database', 'no-fragrance': 'No fragrance / allergen on INCI', 'pharma-maker': 'Dermatology / pharma maker' },
   spf: { 15: 'SPF 15–29', 30: 'SPF 30–39', 40: 'SPF 40–49', 50: 'SPF 50', '50+': 'SPF 50+', 60: 'SPF 60–99', 100: 'SPF 100+' },
   sun: { mineral: 'Mineral / physical', chemical: 'Chemical', hybrid: 'Hybrid' },
   size: { travel: 'Travel (≤50 ml/g)', standard: 'Standard (51–120)', large: 'Large (121–250)', xl: 'XL (250+)' },

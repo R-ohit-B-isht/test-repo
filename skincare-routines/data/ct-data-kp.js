@@ -9,17 +9,19 @@ const CTPRODUCTS = [
   "capacityLine": "300 ml",
   "materialLine": "urea",
   "featureLine": "Lotion · Paraben-free · ₹67/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. Neither the listing nor the brand site gave a full INCI; scored from a third-party ingredient database (INCIDecoder (third-party database) — Be Bodywise 10% Urea Body Lotion) at a 10% confidence discount. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "urea high on the INCI list (strong evidence); glycerin high on the INCI list (strong evidence)",
    "Well-reviewed: 4.4★ from 5,391 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): perfume",
+   "Formaldehyde-releasing preservative: imidazolidinyl urea"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 7.6,
+   "skin": 5.7,
+   "trust": 6,
    "experience": 8.2
   },
   "fullSpec": {
@@ -36,11 +38,13 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
    "rating": "4.4/5 (5,391 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from a third-party ingredient database (not on the listing or brand site) — scored with a 10% confidence discount",
+   "inciSource": "INCIDecoder (third-party database) — Be Bodywise 10% Urea Body Lotion",
+   "inciSourceUrl": "https://inkeedecoder.com/products/be-bodywise-10-urea-body-lotion",
+   "inciMatchedName": "Be Bodywise 10% Urea Body Lotion (name match 95%)",
+   "inciList": "Aqua , Urea , Glycerin , Butyrospermum Parkii (Shea) Butter , Ceteareth-20 , Cetostearyl Alcohol , Garcinia Indica (Kokum) Seed Butter , Mangifera Indica (Mango) Seed Butter , Butylene Glycol , Cetyl Alcohol , Cyclopentasiloxane , Dimethicone , Phenoxyethanol , Ethylhexylglycerin , Perfume , Tocopheryl Acetate , Stearic Acid , Zinc Oxide , Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea , Polyacrylate-13 , Polyisobutene , Polysorbate 20 , Ceramide NP , Ceramide AP , Ceramide EOP , Phytosphingosine , Cholesterol , Sodium Lauroyl Lactylate , Carbomer , Xanthan Gum (Ceramide Complex)",
+   "evidenceActives": "urea (#2 on list, strong evidence); glycerin (#3 on list, strong evidence); butyrospermum parkii butter (#4 on list, moderate evidence); dimethicone (#12 on list, moderate evidence); ceramide np (#25 on list, moderate evidence); ceramide ap (#26 on list, moderate evidence); ceramide eop (#27 on list, moderate evidence); cholesterol (#29 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "4.4★ from 5,391 ratings"
   },
@@ -75,7 +79,8 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:secondary"
   ],
   "filters": {
    "actives": true,
@@ -84,21 +89,127 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": true,
-   "inci": "none",
+   "inci": "full",
+   "inciSrc": "secondary",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "INCIDecoder (third-party database) — Be Bodywise 10% Urea Body Lotion",
+   "inciSourceKind": "secondary",
+   "inciSourceUrl": "https://inkeedecoder.com/products/be-bodywise-10-urea-body-lotion",
+   "inciSourceRegion": null,
+   "inciMatchedTitle": "Be Bodywise 10% Urea Body Lotion",
+   "inciMatchScore": 0.95,
+   "inciText": "Aqua , Urea , Glycerin , Butyrospermum Parkii (Shea) Butter , Ceteareth-20 , Cetostearyl Alcohol , Garcinia Indica (Kokum) Seed Butter , Mangifera Indica (Mango) Seed Butter , Butylene Glycol , Cetyl Alcohol , Cyclopentasiloxane , Dimethicone , Phenoxyethanol , Ethylhexylglycerin , Perfume , Tocopheryl Acetate , Stearic Acid , Zinc Oxide , Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea , Polyacrylate-13 , Polyisobutene , Polysorbate 20 , Ceramide NP , Ceramide AP , Ceramide EOP , Phytosphingosine , Cholesterol , Sodium Lauroyl Lactylate , Carbomer , Xanthan Gum (Ceramide Complex)",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.81,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "src": "urea"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "src": "vitc"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 18,
+     "core": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 25,
+     "core": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 26,
+     "core": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 27,
+     "core": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 29,
+     "core": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "urea",
+    "glycerin",
+    "butyrospermum parkii butter",
+    "butylene glycol",
+    "dimethicone",
+    "ceramide np",
+    "ceramide ap",
+    "ceramide eop",
+    "cholesterol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "imidazolidinyl urea"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -191,11 +302,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -223,15 +340,17 @@ const CTPRODUCTS = [
   "capacityLine": "300 ml",
   "materialLine": "lactic acid + tea tree",
   "featureLine": "Lotion · ₹27/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sheth's official website (drsheths.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "lactic acid high on the INCI list (strong evidence); dimethicone high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Essential oil / volatile sensitiser: tea tree oil"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 8.7,
+   "skin": 9.5,
+   "trust": 8,
    "experience": 7.6
   },
   "fullSpec": {
@@ -248,11 +367,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (4,920 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceUrl": "https://drsheths.com/products/tea-tree-lactic-acid-body-lotion-300-ml",
+   "inciMatchedName": "Tea Tree & Lactic Acid Body Lotion - 300ml (name match 90%)",
+   "inciList": "DM Water, Lactic Acid, Ester of Ethyl Olivate & Olive Oil Methyl Ester (Kvosil-Nsp), Propylene Glycol, Light Liquid Paraffin , Glyceryl Stearate (and) PEG-100 Stearate (Arlacel 165), Dimethicone (DC 350), Glycerin, Glyceryl Mono stearate (SE), Cetyl Alcohol, Salicylic Acid, Liquorice (Mulethi) Extract, Imid Urea, Xanthan Gum, Lactokine Fluid, Chamomile Extract, Tea Tree Oil",
+   "evidenceActives": "lactic acid (#2 on list, strong evidence); dimethicone (#7 on list, moderate evidence); glycerin (#8 on list, strong evidence); salicylic acid (#11 on list, strong evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: tea tree oil (−0.5)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "buyerEvidence": "4.2★ from 4,920 ratings"
   },
@@ -276,7 +397,8 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -285,21 +407,76 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://drsheths.com/products/tea-tree-lactic-acid-body-lotion-300-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Tea Tree & Lactic Acid Body Lotion - 300ml",
+   "inciMatchScore": 0.9,
+   "inciText": "DM Water, Lactic Acid, Ester of Ethyl Olivate & Olive Oil Methyl Ester (Kvosil-Nsp), Propylene Glycol, Light Liquid Paraffin , Glyceryl Stearate (and) PEG-100 Stearate (Arlacel 165), Dimethicone (DC 350), Glycerin, Glyceryl Mono stearate (SE), Cetyl Alcohol, Salicylic Acid, Liquorice (Mulethi) Extract, Imid Urea, Xanthan Gum, Lactokine Fluid, Chamomile Extract, Tea Tree Oil",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "src": "aha"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "src": "bha"
+    },
+    {
+     "name": "melaleuca alternifolia leaf oil",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "src": "teaTree"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "tea tree oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Honasa Consumer (listed)",
     "kind": "india",
@@ -383,11 +560,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -491,11 +674,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -601,11 +790,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -700,11 +895,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -807,11 +1008,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -902,11 +1109,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -998,11 +1211,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -1030,18 +1249,20 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "urea",
   "featureLine": "Cream / gel",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. Neither the listing nor the brand site gave a full INCI; scored from a third-party ingredient database (INCIDecoder (third-party database) — NMF Urea Cream) at a 10% confidence discount. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence); urea high on the INCI list (strong evidence)",
    "Well-reviewed: 4.5★ from 472 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
+   "Formaldehyde-releasing preservative: bronopol",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5,
+   "skin": 4.4,
+   "trust": 4.5,
    "experience": 7.3
   },
   "fullSpec": {
@@ -1058,11 +1279,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.5/5 (472 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from a third-party ingredient database (not on the listing or brand site) — scored with a 10% confidence discount",
+   "inciSource": "INCIDecoder (third-party database) — NMF Urea Cream",
+   "inciSourceUrl": "https://inkeedecoder.com/products/nmf-urea-cream",
+   "inciMatchedName": "NMF Urea Cream (name match 89%)",
+   "inciList": "Purified Water , Liquid Paraffin , Glycerin , Urea , Stearic Acid , Glyceryl Monostearate , Aloe Barbadensis Leaf Extract , Propylene Glycol , Sorbitol Solution , Liquid Paraffin (Light) , Hard Paraffin , Wax , Cetostearyl Alcohol , Fragrance , Triethanolamine , Cetyl Alcohol , Methyl Paraben , PEG-75 Lanolin , Propyl Paraben , Bronopol , Edetate Disodium , Vitamin E Acetate",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); urea (#4 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Formaldehyde-releasing preservative: bronopol (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 472 ratings"
   },
@@ -1084,7 +1307,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.5",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:secondary"
   ],
   "filters": {
    "actives": true,
@@ -1093,21 +1317,78 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "full",
+   "inciSrc": "secondary",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "INCIDecoder (third-party database) — NMF Urea Cream",
+   "inciSourceKind": "secondary",
+   "inciSourceUrl": "https://inkeedecoder.com/products/nmf-urea-cream",
+   "inciSourceRegion": null,
+   "inciMatchedTitle": "NMF Urea Cream",
+   "inciMatchScore": 0.89,
+   "inciText": "Purified Water , Liquid Paraffin , Glycerin , Urea , Stearic Acid , Glyceryl Monostearate , Aloe Barbadensis Leaf Extract , Propylene Glycol , Sorbitol Solution , Liquid Paraffin (Light) , Hard Paraffin , Wax , Cetostearyl Alcohol , Fragrance , Triethanolamine , Cetyl Alcohol , Methyl Paraben , PEG-75 Lanolin , Propyl Paraben , Bronopol , Edetate Disodium , Vitamin E Acetate",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.63,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "src": "urea"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 7,
+     "core": false,
+     "src": "centella"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 22,
+     "core": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "urea"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "bronopol"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -1192,11 +1473,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -1297,11 +1584,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "PURIFIED WATER, GLYCERINE, SODIUM HYALURONATE",
    "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
@@ -1396,11 +1689,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "Aloe vera",
    "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
@@ -1497,11 +1796,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -1600,11 +1905,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
    "inci": "full",
    "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": "Purified Water, Urea,Light Liquid Paraffin, Emulsifying Wax (Non-ionic),Glycerin, Glyceryl Monostearate Self-Emulsifying,Glyceryl Stearate Citrate, Potassium Lactate and Lactic Acid, Aloe Barbadensis Leaf Extract,Shea Butter,Phenoxyethanol and Ethylhexylglycerin, Alpha- Tocopherol Acetate(Vitamin E Acetate), Disodium Edetate",
    "inciUnverified": null,
    "inciNote": null,
@@ -1745,11 +2056,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "Urea",
    "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
@@ -1844,11 +2161,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "Urea",
    "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
@@ -1950,11 +2273,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -2047,11 +2376,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -2150,11 +2485,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -2252,11 +2593,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "PURIFIED WATER, GLYCERINE",
    "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
@@ -2366,11 +2713,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "Lactic Acid, Aloe Vera Extract, Tea Tree Oil, Moisturizing Base",
    "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
@@ -2467,11 +2820,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "Urea (10%), Lactic Acid, Allantoin",
    "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
@@ -2565,11 +2924,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "all natural",
    "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
@@ -2665,11 +3030,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -2771,11 +3142,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "10% Urea, 4% Niacinamide (Vitamin B3)",
    "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
@@ -2868,11 +3245,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "partial",
    "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "10% Urea – Deep hydration & gentle exfoliation of dead skin, Niacinamide (Vitamin B3) – Supports barrier health & smooth texture, Aloe Vera Extract – Soothes dry, irritated skin, Coconut Oil – Nourishes & locks in moisture, Kakadu Plum Extract – Rich in antioxidants, Vitamin E – Helps protect skin from dryness",
    "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
@@ -2965,11 +3348,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "partial",
    "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "Urea, Ceramide & NMF",
    "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
@@ -3073,11 +3462,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "n/a",
    "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
@@ -3174,11 +3569,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "N/A",
    "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
@@ -3279,11 +3680,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "YES",
    "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
@@ -3392,11 +3799,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "20% Urea, Ceramides, Shea Butter, Mango Seed Butter, Kokum Butter",
    "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
@@ -3496,11 +3909,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -3528,17 +3947,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "lactic acid",
   "featureLine": "Lotion",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence); butyrospermum parkii butter high on the INCI list (moderate evidence)",
    "Well-reviewed: 4.3★ from 4,544 ratings"
   ],
   "cons": [
-   "No water phase or preservative declared — formula unscored"
+   "Added fragrance (parfum): perfume"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5.3,
+   "ingredients": 6.8,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 7.9
   },
   "fullSpec": {
@@ -3555,11 +3975,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (4,544 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: 5% Lactic Acid, Cica Extract, Aloe vera Extract, Vitamin E, Sunflower Oil, Argan Oil, Cucumber Extract",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
+   "inciSourceUrl": "https://bebodywise.com/product/5-lactic-acid-body-lotion",
+   "inciMatchedName": "5 lactic acid body lotion (name match 87%)",
+   "listingIngredientLine": "5% Lactic Acid, Cica Extract, Aloe vera Extract, Vitamin E, Sunflower Oil, Argan Oil, Cucumber Extract (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Aqua, Sodium lactate, Glycerin , Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol (and) Ceteareth-20 , Mangifera Indica (Mango) Seed Butter, Theobroma Cacao (Cocoa) Seed Butter, Cyclopentasiloxane, Stearyl Alcohol, Dimethicone , Glycerin (and) Glyceryl Glucoside, Phenoxyethanol (and) Ethylhexylglycerin, Perfume, Polyacrylate-13 and Polyisobutene and Polysorbate-20, Stearic acid, Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea</span><br/><b>Formulated Without </b><br/><span>Mineral Oil, Phthalates, SLS, Parabens</span>",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); butyrospermum parkii butter (#4 on list, moderate evidence); dimethicone (#11 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "declaredManufacturer": "Bili Lifescience Llp, 36, 27, Tulsi Industrial Estate, B/F Changodar Bridge, Changodar, Ahmedabad - 382213, Gujarat (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.3★ from 4,544 ratings"
@@ -3581,7 +4004,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -3590,21 +4014,63 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciText": null,
-   "inciUnverified": "5% Lactic Acid, Cica Extract, Aloe vera Extract, Vitamin E, Sunflower Oil, Argan Oil, Cucumber Extract",
-   "inciNote": "No water phase or preservative declared — a seller “key ingredients” line, not a full INCI declaration, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bebodywise.com/product/5-lactic-acid-body-lotion",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "5 lactic acid body lotion",
+   "inciMatchScore": 0.87,
+   "inciText": "Aqua, Sodium lactate, Glycerin , Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol (and) Ceteareth-20 , Mangifera Indica (Mango) Seed Butter, Theobroma Cacao (Cocoa) Seed Butter, Cyclopentasiloxane, Stearyl Alcohol, Dimethicone , Glycerin (and) Glyceryl Glucoside, Phenoxyethanol (and) Ethylhexylglycerin, Perfume, Polyacrylate-13 and Polyisobutene and Polysorbate-20, Stearic acid, Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea</span><br/><b>Formulated Without </b><br/><span>Mineral Oil, Phthalates, SLS, Parabens</span>",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.9,
+   "recognised": 0.88,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butyrospermum parkii butter",
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -3701,11 +4167,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "5% Lactic Acid, Ceramide, Centella Asiatica",
    "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
@@ -3808,11 +4280,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "kumkumodi, Aloe Vera, Almond, Rose Water",
    "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
@@ -3907,11 +4385,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
    "inci": "full",
    "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": "Purified Water, Ester of Ethyl Olivate (and) Olive Oil Methyl Ester, Glycerin, Stearic Acid, Glyceryl Stearate, Cetostearyl Alcohol (and) Isopropyl Tetradecanoate (and) Ceteareth 22 (and) Caprylic Capric Triglyceride, Cetyl Palmitate, Olive Oil PEG-7 Esters, Fragrance, Triethanolamine, Phenoxyethanol, Sodium PCA, Imidazolidinyl Urea, Lactic Acid, Carbomer, Allantoin, Theobroma Cacao (Cocoa) Seed Butter, Butyrospermum Parkii (Shea) Butter, Ghee, Butylated Hydroxytoluene, Disodium EDTA, Mel (Honey) Extract.",
    "inciUnverified": null,
    "inciNote": null,
@@ -4056,11 +4540,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
    "inci": "full",
    "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": "Purified Water, Ester of Ethyl Olivate (and) Olive Oil Methyl Ester, Glycerine, Aqua(and) Alcohol (and) Rosa Damascena Flower Oil, Stearic Acid, Glyceryl Stearate, Cetostearyl Alcohol (and) Isopropyl Tetradecanoate (and) Ceteareth 22 (and) Caprylic Capric Triglyceride, Cetyl Palmitate, Olive Oil PEG-7 Esters, Fragrance, Triethanolamine, Phenoxyethanol, Sodium PCA, Imidazolidinyl Urea, Lactic Acid, Carbomer, Allantoin, Disodium EDTA, Butylated Hydroxytoluene, Mel (Honey) Extract",
    "inciUnverified": null,
    "inciNote": null,
@@ -4218,11 +4708,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "kumkumodi, Almond, Rose Water, Aloe vera",
    "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
@@ -4250,18 +4746,19 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Lotion",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Arata official website (arata.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycolic acid high on the INCI list (strong evidence); lactic acid high on the INCI list (strong evidence)",
    "Well-reviewed: 4.3★ from 13 ratings"
   ],
   "cons": [
-   "Only 5 ingredients named — formula unscored",
+   "Added fragrance (parfum): fragrance",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.8,
+   "ingredients": 6.7,
+   "skin": 5.9,
+   "trust": 5.5,
    "experience": 4.5
   },
   "fullSpec": {
@@ -4278,11 +4775,14 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (13 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciList": "Unverified seller line: Glycolic Acid, Salicylic Acid, Niacinamide, Hyaluronic Acid, Lactic Acid",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Arata official website (arata.in) — product page › Ingredients",
+   "inciSourceUrl": "https://arata.in/products/arata-smoothening-body-lotion-250-ml",
+   "inciMatchedName": "Smoothening Body Lotion - 250 ml (name match 85%)",
+   "listingIngredientLine": "Glycolic Acid, Salicylic Acid, Niacinamide, Hyaluronic Acid, Lactic Acid (as printed on the Flipkart listing — incomplete, not scored)",
+   "inciList": "Purified Water, Glycolic Acid, Lactic Acid, Cetyl Alcohol, Cyclopentasiloxane, Glyceryl Monostearate, Propanediol, Stearic Acid, Ethyl Olivate, Sodium Hydroxide, Cetostearyl Alcohol, Emulsifying Wax, Glycerine, Niacinamide, Fragrance, Salicylic Acid, Phenoxyethanol, Olive Oil Methyl Ester, Sodium Benzoate, Potassium Sorbate, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polyacrylate-13, Isohexadecane, Oat (Avena sativa) Meal Extract, Citrus Grandis Fruit Extract, Sodium Gluconate, Vaccinium Angustifolium (Blueberry) Fruit Extract, Polyisobutene, Ethylhexylglycerin, Polysorbate 80, PEG-7 Glyceryl Cocoate, Polysorbate 20, Sorbitan Oleate, Sorbitan Isostearate, Sodium Hyaluronate, Ceramide NP",
+   "evidenceActives": "glycolic acid (#2 on list, strong evidence); lactic acid (#3 on list, strong evidence); glycerin (#13 on list, strong evidence); salicylic acid (#16 on list, strong evidence); ceramide np (#36 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "declaredManufacturer": "Vedic Cosmeceuticals Pvt. Ltd. (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.3★ from 13 ratings"
@@ -4305,7 +4805,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:partial"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": false,
@@ -4314,21 +4815,93 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "partial",
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "partial",
-   "inciSource": "Flipkart listing — Specifications › Composition",
-   "inciText": null,
-   "inciUnverified": "Glycolic Acid, Salicylic Acid, Niacinamide, Hyaluronic Acid, Lactic Acid",
-   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
-   "declarationConfidence": null,
-   "recognised": 1,
-   "actives": [],
-   "support": [],
+   "inci": "full",
+   "inciSource": "Arata official website (arata.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://arata.in/products/arata-smoothening-body-lotion-250-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Smoothening Body Lotion - 250 ml",
+   "inciMatchScore": 0.85,
+   "inciText": "Purified Water, Glycolic Acid, Lactic Acid, Cetyl Alcohol, Cyclopentasiloxane, Glyceryl Monostearate, Propanediol, Stearic Acid, Ethyl Olivate, Sodium Hydroxide, Cetostearyl Alcohol, Emulsifying Wax, Glycerine, Niacinamide, Fragrance, Salicylic Acid, Phenoxyethanol, Olive Oil Methyl Ester, Sodium Benzoate, Potassium Sorbate, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polyacrylate-13, Isohexadecane, Oat (Avena sativa) Meal Extract, Citrus Grandis Fruit Extract, Sodium Gluconate, Vaccinium Angustifolium (Blueberry) Fruit Extract, Polyisobutene, Ethylhexylglycerin, Polysorbate 80, PEG-7 Glyceryl Cocoate, Polysorbate 20, Sorbitan Oleate, Sorbitan Isostearate, Sodium Hyaluronate, Ceramide NP",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "glycolic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "src": "aha"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "src": "aha"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 13,
+     "core": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 14,
+     "core": false,
+     "src": "niacinamide"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 16,
+     "core": true,
+     "src": "bha"
+    },
+    {
+     "name": "sodium hyaluronate",
+     "grade": "B",
+     "position": 35,
+     "core": false,
+     "src": "ha"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 36,
+     "core": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "propanediol",
+    "glycerin",
+    "niacinamide",
+    "sodium hyaluronate",
+    "ceramide np"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -4414,11 +4987,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -4522,11 +5101,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -4629,11 +5214,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -4738,11 +5329,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
    "inci": "full",
    "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": "STEARIC ACID, CCTG, GLYCERINE ALOEVERA JUICE, GLYCERYL STEARATE, CETYL ALCOHOL, GLYCERYL MONOSTEARATE, PHENOXYETHANOL, ETHYLHEXYLGLYCERIN, SODIUM HYDROXIDE, GLYCOLIC ACID, STEARIC ACID, EMULSIFYING WAX, COCOA BUITTER",
    "inciUnverified": null,
    "inciNote": null,
@@ -4856,16 +5453,22 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "full",
+   "inciSrc": "listing",
    "pharma": true
   },
   "evidence": {
    "inci": "full",
    "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": "Aqua/Water, Urea, Cetyl Alcohol, Glyceryl Stearate SE, Cetearyl Alcohol, Niacinamide, Butyrospermum Parkii Butter/Shea Butter, C12-13 Alkyl Lactate, PEG-100 Stearate, Glycerin, Behentrimonium Methosulfate, Dimethicone, Triacetin, Ceramide NP, Ceramide AP, Ceramide EOP, Carbomer, Sodium Lactate, Salicylic Acid, Sodium Hydroxide, Sodium Lauroyl Lactylate, Sodium Hyaluronate, Cholesterol, Phenoxyethanol, Disodium EDTA, Capryloyl Salicylic Acid, Hydroxyacetophenone, Citric Acid, Lactic Acid, Phytosphingosine, Xanthan Gum, Ethylhexylglycerin",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 1,
-   "recognised": 0.93,
+   "recognised": 0.97,
    "actives": [
     {
      "name": "urea",
@@ -5054,11 +5657,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -5154,11 +5763,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -5255,11 +5870,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "UREA, ALOE VERA EXTRACT",
    "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
@@ -5358,11 +5979,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "Urea (20%) – Provides deep hydration and exfoliates dead skin cells, Glycerin – A powerful humectant that draws moisture into the skin, Allantoin – Soothes and calms irritated skin",
    "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
@@ -5466,16 +6093,22 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
    "inci": "full",
    "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": "Water, Glycerin, Urea, Cetearyl Alcohol, Hydrogenated Cocoglycerides, Octyldodecanol, Caprylic/Capric Triglyceride, Butyrospermum Parkii (Shea) Butter, Sodium Lactate, Glyceryl Stearate SE, Ceramide NP, Lactic Acid, Arginine HCl, Glycine, Alanine, Carnitine, Sodium PCA, Carrageenan, Cholesterol, Helianthus Annuus (Sunflower) Seed Oil, Tapioca Starch, Dimethicone, Pentylene Glycol, Phenoxyethanol, Decylene Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Cetearyl Sulfate, Sodium Chloride.",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.7,
-   "recognised": 0.79,
+   "recognised": 0.96,
    "actives": [
     {
      "name": "glycerin",
@@ -5632,11 +6265,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -5728,11 +6367,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -5834,11 +6479,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -5943,11 +6594,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -6039,11 +6696,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -6152,11 +6815,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "20% Urea, Ceramides, Shea Butter, Mango Seed Butter, Kokum Butter",
    "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
@@ -6184,17 +6853,19 @@ const CTPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "urea + shea butter",
   "featureLine": "Lotion · Paraben-free · ₹100/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. Neither the listing nor the brand site gave a full INCI; scored from a third-party ingredient database (INCIDecoder (third-party database) — Be Bodywise 10% Urea Body Lotion) at a 10% confidence discount. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "urea high on the INCI list (strong evidence); glycerin high on the INCI list (strong evidence)",
    "Well-reviewed: 4.4★ from 5,400 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): perfume",
+   "Formaldehyde-releasing preservative: imidazolidinyl urea"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 7.6,
+   "skin": 5.7,
+   "trust": 6,
    "experience": 8.2
   },
   "fullSpec": {
@@ -6211,11 +6882,13 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
    "rating": "4.4/5 (5,400 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from a third-party ingredient database (not on the listing or brand site) — scored with a 10% confidence discount",
+   "inciSource": "INCIDecoder (third-party database) — Be Bodywise 10% Urea Body Lotion",
+   "inciSourceUrl": "https://inkeedecoder.com/products/be-bodywise-10-urea-body-lotion",
+   "inciMatchedName": "Be Bodywise 10% Urea Body Lotion (name match 95%)",
+   "inciList": "Aqua , Urea , Glycerin , Butyrospermum Parkii (Shea) Butter , Ceteareth-20 , Cetostearyl Alcohol , Garcinia Indica (Kokum) Seed Butter , Mangifera Indica (Mango) Seed Butter , Butylene Glycol , Cetyl Alcohol , Cyclopentasiloxane , Dimethicone , Phenoxyethanol , Ethylhexylglycerin , Perfume , Tocopheryl Acetate , Stearic Acid , Zinc Oxide , Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea , Polyacrylate-13 , Polyisobutene , Polysorbate 20 , Ceramide NP , Ceramide AP , Ceramide EOP , Phytosphingosine , Cholesterol , Sodium Lauroyl Lactylate , Carbomer , Xanthan Gum (Ceramide Complex)",
+   "evidenceActives": "urea (#2 on list, strong evidence); glycerin (#3 on list, strong evidence); butyrospermum parkii butter (#4 on list, moderate evidence); dimethicone (#12 on list, moderate evidence); ceramide np (#25 on list, moderate evidence); ceramide ap (#26 on list, moderate evidence); ceramide eop (#27 on list, moderate evidence); cholesterol (#29 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "4.4★ from 5,400 ratings"
   },
@@ -6252,7 +6925,8 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:secondary"
   ],
   "filters": {
    "actives": true,
@@ -6261,21 +6935,127 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": true,
-   "inci": "none",
+   "inci": "full",
+   "inciSrc": "secondary",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "INCIDecoder (third-party database) — Be Bodywise 10% Urea Body Lotion",
+   "inciSourceKind": "secondary",
+   "inciSourceUrl": "https://inkeedecoder.com/products/be-bodywise-10-urea-body-lotion",
+   "inciSourceRegion": null,
+   "inciMatchedTitle": "Be Bodywise 10% Urea Body Lotion",
+   "inciMatchScore": 0.95,
+   "inciText": "Aqua , Urea , Glycerin , Butyrospermum Parkii (Shea) Butter , Ceteareth-20 , Cetostearyl Alcohol , Garcinia Indica (Kokum) Seed Butter , Mangifera Indica (Mango) Seed Butter , Butylene Glycol , Cetyl Alcohol , Cyclopentasiloxane , Dimethicone , Phenoxyethanol , Ethylhexylglycerin , Perfume , Tocopheryl Acetate , Stearic Acid , Zinc Oxide , Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea , Polyacrylate-13 , Polyisobutene , Polysorbate 20 , Ceramide NP , Ceramide AP , Ceramide EOP , Phytosphingosine , Cholesterol , Sodium Lauroyl Lactylate , Carbomer , Xanthan Gum (Ceramide Complex)",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.81,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "src": "urea"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 12,
+     "core": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 16,
+     "core": false,
+     "src": "vitc"
+    },
+    {
+     "name": "zinc oxide",
+     "grade": "A",
+     "position": 18,
+     "core": false,
+     "src": "sunFilters"
+    },
+    {
+     "name": "ceramide np",
+     "grade": "B",
+     "position": 25,
+     "core": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide ap",
+     "grade": "B",
+     "position": 26,
+     "core": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "ceramide eop",
+     "grade": "B",
+     "position": 27,
+     "core": true,
+     "src": "ceramide"
+    },
+    {
+     "name": "cholesterol",
+     "grade": "B",
+     "position": 29,
+     "core": true,
+     "src": "ceramide"
+    }
+   ],
+   "support": [
+    "urea",
+    "glycerin",
+    "butyrospermum parkii butter",
+    "butylene glycol",
+    "dimethicone",
+    "ceramide np",
+    "ceramide ap",
+    "ceramide eop",
+    "cholesterol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "imidazolidinyl urea"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -6362,11 +7142,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -6394,15 +7180,17 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "lactic acid + tea tree",
   "featureLine": "Lotion",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dr. Sheth's official website (drsheths.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "lactic acid high on the INCI list (strong evidence); dimethicone high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Essential oil / volatile sensitiser: tea tree oil"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 6,
+   "ingredients": 8.7,
+   "skin": 9.5,
+   "trust": 8,
    "experience": 7.6
   },
   "fullSpec": {
@@ -6419,11 +7207,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (4,920 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceUrl": "https://drsheths.com/products/tea-tree-lactic-acid-body-lotion-300-ml",
+   "inciMatchedName": "Tea Tree & Lactic Acid Body Lotion - 300ml (name match 90%)",
+   "inciList": "DM Water, Lactic Acid, Ester of Ethyl Olivate & Olive Oil Methyl Ester (Kvosil-Nsp), Propylene Glycol, Light Liquid Paraffin , Glyceryl Stearate (and) PEG-100 Stearate (Arlacel 165), Dimethicone (DC 350), Glycerin, Glyceryl Mono stearate (SE), Cetyl Alcohol, Salicylic Acid, Liquorice (Mulethi) Extract, Imid Urea, Xanthan Gum, Lactokine Fluid, Chamomile Extract, Tea Tree Oil",
+   "evidenceActives": "lactic acid (#2 on list, strong evidence); dimethicone (#7 on list, moderate evidence); glycerin (#8 on list, strong evidence); salicylic acid (#11 on list, strong evidence)",
+   "safetyFlags": "Essential oil / volatile sensitiser: tea tree oil (−0.5)",
    "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
    "declaredManufacturer": "Indo herbal products,Unit II (as printed on the Flipkart listing — not scored)",
    "buyerEvidence": "4.2★ from 4,920 ratings"
@@ -6446,7 +7236,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -6455,21 +7246,76 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dr. Sheth's official website (drsheths.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://drsheths.com/products/tea-tree-lactic-acid-body-lotion-300-ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Tea Tree & Lactic Acid Body Lotion - 300ml",
+   "inciMatchScore": 0.9,
+   "inciText": "DM Water, Lactic Acid, Ester of Ethyl Olivate & Olive Oil Methyl Ester (Kvosil-Nsp), Propylene Glycol, Light Liquid Paraffin , Glyceryl Stearate (and) PEG-100 Stearate (Arlacel 165), Dimethicone (DC 350), Glycerin, Glyceryl Mono stearate (SE), Cetyl Alcohol, Salicylic Acid, Liquorice (Mulethi) Extract, Imid Urea, Xanthan Gum, Lactokine Fluid, Chamomile Extract, Tea Tree Oil",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "src": "aha"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 8,
+     "core": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "src": "bha"
+    },
+    {
+     "name": "melaleuca alternifolia leaf oil",
+     "grade": "B",
+     "position": 17,
+     "core": false,
+     "src": "teaTree"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "tea tree oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Honasa Consumer (listed)",
     "kind": "india",
@@ -6562,11 +7408,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -6664,11 +7516,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -6772,11 +7630,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "kumkumodi, Aloe Vera, Almond, Rose Water",
    "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
@@ -6804,17 +7668,18 @@ const CTPRODUCTS = [
   "capacityLine": "400 ml",
   "materialLine": "niacinamide + lactic acid",
   "featureLine": "Scrub / exfoliant · Paraben-free · ₹182/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Be Bodywise official website (bebodywise.com) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "glycerin high on the INCI list (strong evidence); butyrospermum parkii butter high on the INCI list (moderate evidence)",
    "Well-reviewed: 4.5★ from 75 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): perfume"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 6.8,
+   "skin": 7.7,
+   "trust": 7,
    "experience": 6.2
   },
   "fullSpec": {
@@ -6831,11 +7696,13 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types, Combination Skin, Dry Skin, Normal Skin, Oily Skin, Sensitive Skin",
    "rating": "4.5/5 (75 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
+   "inciSourceUrl": "https://bebodywise.com/product/5-lactic-acid-body-lotion",
+   "inciMatchedName": "5 lactic acid body lotion (name match 94%)",
+   "inciList": "Aqua, Sodium lactate, Glycerin , Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol (and) Ceteareth-20 , Mangifera Indica (Mango) Seed Butter, Theobroma Cacao (Cocoa) Seed Butter, Cyclopentasiloxane, Stearyl Alcohol, Dimethicone , Glycerin (and) Glyceryl Glucoside, Phenoxyethanol (and) Ethylhexylglycerin, Perfume, Polyacrylate-13 and Polyisobutene and Polysorbate-20, Stearic acid, Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea</span><br/><b>Formulated Without </b><br/><span>Mineral Oil, Phthalates, SLS, Parabens</span>",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); butyrospermum parkii butter (#4 on list, moderate evidence); dimethicone (#11 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): perfume (−1.5)",
    "maker": "Chemist at Play / Bodywise — Indian D2C brand with its own product company",
    "buyerEvidence": "4.5★ from 75 ratings"
   },
@@ -6875,7 +7742,8 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:4.5",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -6884,21 +7752,63 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": true,
-   "inci": "none",
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Be Bodywise official website (bebodywise.com) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://bebodywise.com/product/5-lactic-acid-body-lotion",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "5 lactic acid body lotion",
+   "inciMatchScore": 0.94,
+   "inciText": "Aqua, Sodium lactate, Glycerin , Butyrospermum Parkii (Shea) Butter, Cetearyl Alcohol (and) Ceteareth-20 , Mangifera Indica (Mango) Seed Butter, Theobroma Cacao (Cocoa) Seed Butter, Cyclopentasiloxane, Stearyl Alcohol, Dimethicone , Glycerin (and) Glyceryl Glucoside, Phenoxyethanol (and) Ethylhexylglycerin, Perfume, Polyacrylate-13 and Polyisobutene and Polysorbate-20, Stearic acid, Butylated Hydroxytoluene , Disodium EDTA , Imidazolidinyl Urea</span><br/><b>Formulated Without </b><br/><span>Mineral Oil, Phthalates, SLS, Parabens</span>",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.9,
+   "recognised": 0.88,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "butyrospermum parkii butter",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 11,
+     "core": true,
+     "src": "petrolatum"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "butyrospermum parkii butter",
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "perfume"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Chemist at Play / Bodywise",
     "kind": "d2c",
@@ -6917,15 +7827,18 @@ const CTPRODUCTS = [
   "capacityLine": "1600 ml (pack of 2)",
   "materialLine": "lactic acid + rose",
   "featureLine": "Lotion · Paraben-free · ₹4/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. Neither the listing nor the brand site gave a full INCI; scored from a third-party ingredient database (INCIDecoder (third-party database) — WOW skin science Himalayan Rose Body Lotion) at a 10% confidence discount. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "glycerin high on the INCI list (strong evidence); lactic acid high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing"
+   "Added fragrance (parfum): fragrance",
+   "Formaldehyde-releasing preservative: imidazolidinyl urea"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 5,
+   "ingredients": 5,
+   "skin": 5.3,
+   "trust": 6,
    "experience": 7.2
   },
   "fullSpec": {
@@ -6942,11 +7855,13 @@ const CTPRODUCTS = [
    "skinType": "All Skin Types",
    "rating": "4.1/5 (27,966 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from a third-party ingredient database (not on the listing or brand site) — scored with a 10% confidence discount",
+   "inciSource": "INCIDecoder (third-party database) — WOW skin science Himalayan Rose Body Lotion",
+   "inciSourceUrl": "https://inkeedecoder.com/products/wow-skin-science-himalayan-rose-body-lotion",
+   "inciMatchedName": "WOW skin science Himalayan Rose Body Lotion (name match 87%)",
+   "inciList": "Purified Water , Ester Of Ethyl Olivate , Olive Oil Methyl Ester , Glycerine , Aqua , Alcohol , Rosa Damascena Flower Oil , Stearic Acid , Glyceryl Stearate , Cetostearyl Alcohol , Isopropyl , Tetradecane , Ceteareth-22 , Caprylic Capric Triglyceride , Cetyl Palmitate , Olive Oil PEG-7 Esters , Fragrance , Triethanolamine , Phenoxyethanol , Sodium PCA , Imidazolidinyl Urea , Lactic Acid , Carbomer , Allantoin , Disodium EDTA , Butylated Hydroxytoluene , Mel (Honey) Extract",
+   "evidenceActives": "glycerin (#4 on list, strong evidence); lactic acid (#22 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5); Essential oil / volatile sensitiser: rosa damascena flower oil (−0.5)",
    "maker": "Body Cupid — Indian D2C brand with its own product company",
    "buyerEvidence": "4.1★ from 27,966 ratings"
   },
@@ -6978,7 +7893,8 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:4.0",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:secondary"
   ],
   "filters": {
    "actives": true,
@@ -6987,21 +7903,80 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": true,
-   "inci": "none",
+   "inci": "full",
+   "inciSrc": "secondary",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "INCIDecoder (third-party database) — WOW skin science Himalayan Rose Body Lotion",
+   "inciSourceKind": "secondary",
+   "inciSourceUrl": "https://inkeedecoder.com/products/wow-skin-science-himalayan-rose-body-lotion",
+   "inciSourceRegion": null,
+   "inciMatchedTitle": "WOW skin science Himalayan Rose Body Lotion",
+   "inciMatchScore": 0.87,
+   "inciText": "Purified Water , Ester Of Ethyl Olivate , Olive Oil Methyl Ester , Glycerine , Aqua , Alcohol , Rosa Damascena Flower Oil , Stearic Acid , Glyceryl Stearate , Cetostearyl Alcohol , Isopropyl , Tetradecane , Ceteareth-22 , Caprylic Capric Triglyceride , Cetyl Palmitate , Olive Oil PEG-7 Esters , Fragrance , Triethanolamine , Phenoxyethanol , Sodium PCA , Imidazolidinyl Urea , Lactic Acid , Carbomer , Allantoin , Disodium EDTA , Butylated Hydroxytoluene , Mel (Honey) Extract",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.81,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 22,
+     "core": true,
+     "src": "aha"
+    },
+    {
+     "name": "allantoin",
+     "grade": "C",
+     "position": 24,
+     "core": false,
+     "src": "panthenol"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "sodium pca"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "imidazolidinyl urea"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
+    },
+    {
+     "id": "essentialOil",
+     "label": "Essential oil / volatile sensitiser",
+     "names": [
+      "rosa damascena flower oil"
+     ],
+     "penalty": 0.5,
+     "src": "acdsFragrance"
+    }
+   ],
    "maker": {
     "parent": "Body Cupid",
     "kind": "d2c",
@@ -7103,11 +8078,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "Saffron, Lactic Acid, Niacinamide, cocoa butter, Shea butter",
    "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
@@ -7214,11 +8195,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "Aloevera - Deeply Hydrate, Orange Peel Extract - Fights wrinkles and signs of ageing, Glycerine - A natural compound derived from vegetable",
    "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
@@ -7327,11 +8314,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
    "inci": "full",
    "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": "Aqua, Saffron Extract, Lactic Acid, Niacinamide, Glycerin, Shea Butter, Aloe Vera Extract, Vitamin E, Propylene Glycol, Cetyl Alcohol, Stearic Acid, Emulsifying Wax, Fragrance, Phenoxyethanol, Ethylhexylglycerin.",
    "inciUnverified": null,
    "inciNote": null,
@@ -7488,11 +8481,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -7592,11 +8591,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "partial",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "partial",
    "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": "facewash for all skin types, skin brightening facewash,",
    "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
@@ -7701,11 +8706,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -7812,11 +8823,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
    "inci": "full",
    "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": "Water (Aqua), Aloe Barbadensis Leaf Juice, Lactic Acid, Glycerin, Glycolic Acid, Propylene Glycol, Caprylic/Capric Triglyceride, Simmondsia Chinensis (Jojoba) Seed Oil, Emulsifying Wax, Cetyl Alcohol, Stearic Acid, Niacinamide, Salicylic Acid, Panthenol, Licorice Root Extract, Tocopherol, Disodium EDTA, Phenoxyethanol.",
    "inciUnverified": null,
    "inciNote": null,
@@ -7983,11 +9000,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -8084,11 +9107,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -8177,11 +9206,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -8271,11 +9306,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -8303,16 +9344,19 @@ const CTPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "salicylic acid (BHA)",
   "featureLine": "Lotion · ₹150/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dermatouch official website (dermatouch.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "lactic acid high on the INCI list (strong evidence); dimethicone high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
+   "Formaldehyde-releasing preservative: imidazolidinyl urea",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5,
+   "skin": 4.9,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -8329,11 +9373,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "1.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dermatouch official website (dermatouch.in) — product page › Ingredients",
+   "inciSourceUrl": "https://dermatouch.in/products/aha-10-bha-1-body-lotion-200ml",
+   "inciMatchedName": "AHA 10% BHA 1% Body Lotion for Tanned & Bumpy Skin (name match 76%)",
+   "inciList": "Aqua, Lactic Acid, Ester of Ethyl Olivate and Olive Oil Methyl Ester (Kvosil-Nsp), Propylene Glycol, Glyceryl Stearate (and) PEG-100 Stearate, Light Liquid Paraffin, Glyceryl Mono Stearate - SE, Dimethicone, Cetyl Alcohol, Salicylic Acid, Glyceryl Glucoside (CMO2G), Chamomile Extract, Imidazolidinyl Urea, Xanthan Gum, Sodium Hydroxide, Lactokine Fluid, Fragrance (IFRA Certified Allergen Free Fragrance)",
+   "evidenceActives": "lactic acid (#2 on list, strong evidence); dimethicone (#9 on list, moderate evidence); salicylic acid (#11 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "1★ from 0 ratings"
   },
@@ -8357,7 +9403,8 @@ const CTPRODUCTS = [
    "size:large",
    "rating:low",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -8366,21 +9413,70 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dermatouch official website (dermatouch.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://dermatouch.in/products/aha-10-bha-1-body-lotion-200ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "AHA 10% BHA 1% Body Lotion for Tanned & Bumpy Skin",
+   "inciMatchScore": 0.76,
+   "inciText": "Aqua, Lactic Acid, Ester of Ethyl Olivate and Olive Oil Methyl Ester (Kvosil-Nsp), Propylene Glycol, Glyceryl Stearate (and) PEG-100 Stearate, Light Liquid Paraffin, Glyceryl Mono Stearate - SE, Dimethicone, Cetyl Alcohol, Salicylic Acid, Glyceryl Glucoside (CMO2G), Chamomile Extract, Imidazolidinyl Urea, Xanthan Gum, Sodium Hydroxide, Lactokine Fluid, Fragrance (IFRA Certified Allergen Free Fragrance)",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "src": "aha"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "src": "bha"
+    }
+   ],
+   "support": [
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "imidazolidinyl urea"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -8469,11 +9565,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -8565,11 +9667,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -8663,11 +9771,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -8766,11 +9880,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -8878,11 +9998,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": true
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -8910,16 +10036,19 @@ const CTPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "salicylic acid (BHA) + lactic acid",
   "featureLine": "Scrub / exfoliant · ₹150/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dermatouch official website (dermatouch.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "lactic acid high on the INCI list (strong evidence); dimethicone high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
+   "Formaldehyde-releasing preservative: imidazolidinyl urea",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5,
+   "skin": 4.9,
+   "trust": 5.5,
    "experience": 1.9
   },
   "fullSpec": {
@@ -8936,11 +10065,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dermatouch official website (dermatouch.in) — product page › Ingredients",
+   "inciSourceUrl": "https://dermatouch.in/products/aha-10-bha-1-body-lotion-200ml",
+   "inciMatchedName": "AHA 10% BHA 1% Body Lotion for Tanned & Bumpy Skin (name match 76%)",
+   "inciList": "Aqua, Lactic Acid, Ester of Ethyl Olivate and Olive Oil Methyl Ester (Kvosil-Nsp), Propylene Glycol, Glyceryl Stearate (and) PEG-100 Stearate, Light Liquid Paraffin, Glyceryl Mono Stearate - SE, Dimethicone, Cetyl Alcohol, Salicylic Acid, Glyceryl Glucoside (CMO2G), Chamomile Extract, Imidazolidinyl Urea, Xanthan Gum, Sodium Hydroxide, Lactokine Fluid, Fragrance (IFRA Certified Allergen Free Fragrance)",
+   "evidenceActives": "lactic acid (#2 on list, strong evidence); dimethicone (#9 on list, moderate evidence); salicylic acid (#11 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 0 ratings"
   },
@@ -8976,7 +10107,8 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -8985,21 +10117,70 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dermatouch official website (dermatouch.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://dermatouch.in/products/aha-10-bha-1-body-lotion-200ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "AHA 10% BHA 1% Body Lotion for Tanned & Bumpy Skin",
+   "inciMatchScore": 0.76,
+   "inciText": "Aqua, Lactic Acid, Ester of Ethyl Olivate and Olive Oil Methyl Ester (Kvosil-Nsp), Propylene Glycol, Glyceryl Stearate (and) PEG-100 Stearate, Light Liquid Paraffin, Glyceryl Mono Stearate - SE, Dimethicone, Cetyl Alcohol, Salicylic Acid, Glyceryl Glucoside (CMO2G), Chamomile Extract, Imidazolidinyl Urea, Xanthan Gum, Sodium Hydroxide, Lactokine Fluid, Fragrance (IFRA Certified Allergen Free Fragrance)",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "src": "aha"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "src": "bha"
+    }
+   ],
+   "support": [
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "imidazolidinyl urea"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -9084,11 +10265,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -9186,11 +10373,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -9283,11 +10476,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -9315,16 +10514,19 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "salicylic acid (BHA) + lactic acid",
   "featureLine": "Scrub / exfoliant · ₹159/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dermatouch official website (dermatouch.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "lactic acid high on the INCI list (strong evidence); dimethicone high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
+   "Formaldehyde-releasing preservative: imidazolidinyl urea",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5,
+   "skin": 4.9,
+   "trust": 5.5,
    "experience": 4.8
   },
   "fullSpec": {
@@ -9341,11 +10543,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.9/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dermatouch official website (dermatouch.in) — product page › Ingredients",
+   "inciSourceUrl": "https://dermatouch.in/products/aha-10-bha-1-body-lotion-200ml",
+   "inciMatchedName": "AHA 10% BHA 1% Body Lotion for Tanned & Bumpy Skin (name match 76%)",
+   "inciList": "Aqua, Lactic Acid, Ester of Ethyl Olivate and Olive Oil Methyl Ester (Kvosil-Nsp), Propylene Glycol, Glyceryl Stearate (and) PEG-100 Stearate, Light Liquid Paraffin, Glyceryl Mono Stearate - SE, Dimethicone, Cetyl Alcohol, Salicylic Acid, Glyceryl Glucoside (CMO2G), Chamomile Extract, Imidazolidinyl Urea, Xanthan Gum, Sodium Hydroxide, Lactokine Fluid, Fragrance (IFRA Certified Allergen Free Fragrance)",
+   "evidenceActives": "lactic acid (#2 on list, strong evidence); dimethicone (#9 on list, moderate evidence); salicylic acid (#11 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.9★ from 0 ratings"
   },
@@ -9383,7 +10587,8 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -9392,21 +10597,70 @@ const CTPRODUCTS = [
    "derm": true,
    "men": false,
    "women": true,
-   "inci": "none",
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dermatouch official website (dermatouch.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://dermatouch.in/products/aha-10-bha-1-body-lotion-200ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "AHA 10% BHA 1% Body Lotion for Tanned & Bumpy Skin",
+   "inciMatchScore": 0.76,
+   "inciText": "Aqua, Lactic Acid, Ester of Ethyl Olivate and Olive Oil Methyl Ester (Kvosil-Nsp), Propylene Glycol, Glyceryl Stearate (and) PEG-100 Stearate, Light Liquid Paraffin, Glyceryl Mono Stearate - SE, Dimethicone, Cetyl Alcohol, Salicylic Acid, Glyceryl Glucoside (CMO2G), Chamomile Extract, Imidazolidinyl Urea, Xanthan Gum, Sodium Hydroxide, Lactokine Fluid, Fragrance (IFRA Certified Allergen Free Fragrance)",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "src": "aha"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "src": "bha"
+    }
+   ],
+   "support": [
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "imidazolidinyl urea"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -9485,11 +10739,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -9589,11 +10849,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -9691,11 +10957,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -9793,11 +11065,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -9892,11 +11170,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": true
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -9986,11 +11270,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -10084,11 +11374,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -10181,11 +11477,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -10280,11 +11582,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -10380,11 +11688,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -10480,11 +11794,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -10586,11 +11906,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -10697,11 +12023,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -10796,11 +12128,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -10899,11 +12237,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": true
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -11000,11 +12344,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -11103,11 +12453,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": true
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -11211,11 +12567,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -11243,17 +12605,17 @@ const CTPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "lactic acid + urea",
   "featureLine": "Lotion · ₹711/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Cetaphil official website (www.cetaphil.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "urea high on the INCI list (strong evidence); dimethicone high on the INCI list (moderate evidence)",
+   "No fragrance / flagged irritant on the INCI list",
    "Made by Galderma (dermatology / pharma maker)"
   ],
-  "cons": [
-   "No ingredient list published on the listing"
-  ],
+  "cons": [],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 8,
+   "ingredients": 7.7,
+   "skin": 10,
+   "trust": 10,
    "experience": 1.9
   },
   "fullSpec": {
@@ -11270,11 +12632,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Cetaphil official website (www.cetaphil.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.cetaphil.in/products-1/cetaphil-pro-urea-10%25-smoothing-repair-lotion/3499320013123.html",
+   "inciMatchedName": "Cetaphil Pro Urea 10% Smoothing Repair Lotion (name match 100%)",
+   "inciList": "AQUA, PARAFFINUM LIQUIDUM, UREA, CAPRYLIC/CAPRIC TRIGLYCERIDE, DIMETHICONE, METHOXYPEG 22/DODECYL GLYCOL COPOLYMER, SODIUM LACTATE, PEG 7 HYDROGENATED CASTOR OIL, SORBITAN ISOSTEARATE, PEG 2 HYDROGENATED CASTOR OIL, OZOKERITE, HYDROGENATED CASTOR OIL, LACTIC ACID, METHYLPARABEN, PROPLYPARABEN",
+   "evidenceActives": "urea (#3 on list, strong evidence); dimethicone (#5 on list, moderate evidence); lactic acid (#13 on list, strong evidence)",
+   "safetyFlags": "No flagged irritant / allergen on the INCI list",
    "maker": "Galderma — Dermatology / pharmaceutical manufacturer",
    "buyerEvidence": "4★ from 0 ratings"
   },
@@ -11295,7 +12659,9 @@ const CTPRODUCTS = [
    "size:large",
    "rating:4.0",
    "store:amazon",
-   "inci:none",
+   "inci:full",
+   "inci:brand-site",
+   "inci:no-fragrance",
    "inci:pharma-maker"
   ],
   "filters": {
@@ -11305,19 +12671,50 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": true
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Cetaphil official website (www.cetaphil.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.cetaphil.in/products-1/cetaphil-pro-urea-10%25-smoothing-repair-lotion/3499320013123.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "Cetaphil Pro Urea 10% Smoothing Repair Lotion",
+   "inciMatchScore": 1,
+   "inciText": "AQUA, PARAFFINUM LIQUIDUM, UREA, CAPRYLIC/CAPRIC TRIGLYCERIDE, DIMETHICONE, METHOXYPEG 22/DODECYL GLYCOL COPOLYMER, SODIUM LACTATE, PEG 7 HYDROGENATED CASTOR OIL, SORBITAN ISOSTEARATE, PEG 2 HYDROGENATED CASTOR OIL, OZOKERITE, HYDROGENATED CASTOR OIL, LACTIC ACID, METHYLPARABEN, PROPLYPARABEN",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 1,
+   "recognised": 0.93,
+   "actives": [
+    {
+     "name": "urea",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "src": "urea"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 13,
+     "core": true,
+     "src": "aha"
+    }
+   ],
+   "support": [
+    "urea",
+    "dimethicone"
+   ],
    "formulaNotes": [],
    "flags": [],
    "maker": {
@@ -11411,11 +12808,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -11515,11 +12918,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -11609,11 +13018,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -11702,11 +13117,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -11800,11 +13221,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -11896,11 +13323,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -11991,11 +13424,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -12092,11 +13531,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -12195,11 +13640,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -12288,11 +13739,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -12378,11 +13835,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -12474,11 +13937,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -12566,11 +14035,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -12660,11 +14135,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -12753,11 +14234,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -12849,11 +14336,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -12942,11 +14435,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -13035,11 +14534,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -13128,11 +14633,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -13221,11 +14732,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -13313,11 +14830,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -13411,11 +14934,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -13509,11 +15038,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -13603,11 +15138,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -13697,11 +15238,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -13792,11 +15339,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -13885,11 +15438,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -13978,11 +15537,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -14072,11 +15637,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -14170,11 +15741,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -14265,11 +15842,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -14360,11 +15943,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -14452,11 +16041,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": true
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -14561,11 +16156,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -14655,11 +16256,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -14746,11 +16353,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -14834,11 +16447,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -14930,11 +16549,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -15026,11 +16651,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -15122,11 +16753,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -15215,11 +16852,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -15305,11 +16948,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -15397,11 +17046,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -15488,11 +17143,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": true
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -15585,11 +17246,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -15676,11 +17343,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -15774,11 +17447,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -15869,11 +17548,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -15962,11 +17647,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -16057,11 +17748,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -16155,11 +17852,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -16252,11 +17955,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -16345,11 +18054,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -16440,11 +18155,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -16535,11 +18256,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -16630,11 +18357,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -16733,11 +18466,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -16828,11 +18567,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -16860,16 +18605,19 @@ const CTPRODUCTS = [
   "capacityLine": "400 ml (pack of 2)",
   "materialLine": "salicylic acid (BHA)",
   "featureLine": "Lotion · ₹150/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dermatouch official website (dermatouch.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "lactic acid high on the INCI list (strong evidence); dimethicone high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
+   "Formaldehyde-releasing preservative: imidazolidinyl urea",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5,
+   "skin": 4.9,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -16886,11 +18634,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "1.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dermatouch official website (dermatouch.in) — product page › Ingredients",
+   "inciSourceUrl": "https://dermatouch.in/products/aha-10-bha-1-body-lotion-200ml",
+   "inciMatchedName": "AHA 10% BHA 1% Body Lotion for Tanned & Bumpy Skin (name match 76%)",
+   "inciList": "Aqua, Lactic Acid, Ester of Ethyl Olivate and Olive Oil Methyl Ester (Kvosil-Nsp), Propylene Glycol, Glyceryl Stearate (and) PEG-100 Stearate, Light Liquid Paraffin, Glyceryl Mono Stearate - SE, Dimethicone, Cetyl Alcohol, Salicylic Acid, Glyceryl Glucoside (CMO2G), Chamomile Extract, Imidazolidinyl Urea, Xanthan Gum, Sodium Hydroxide, Lactokine Fluid, Fragrance (IFRA Certified Allergen Free Fragrance)",
+   "evidenceActives": "lactic acid (#2 on list, strong evidence); dimethicone (#9 on list, moderate evidence); salicylic acid (#11 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "1★ from 0 ratings"
   },
@@ -16915,7 +18665,8 @@ const CTPRODUCTS = [
    "size:xl",
    "rating:low",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -16924,21 +18675,70 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dermatouch official website (dermatouch.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://dermatouch.in/products/aha-10-bha-1-body-lotion-200ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "AHA 10% BHA 1% Body Lotion for Tanned & Bumpy Skin",
+   "inciMatchScore": 0.76,
+   "inciText": "Aqua, Lactic Acid, Ester of Ethyl Olivate and Olive Oil Methyl Ester (Kvosil-Nsp), Propylene Glycol, Glyceryl Stearate (and) PEG-100 Stearate, Light Liquid Paraffin, Glyceryl Mono Stearate - SE, Dimethicone, Cetyl Alcohol, Salicylic Acid, Glyceryl Glucoside (CMO2G), Chamomile Extract, Imidazolidinyl Urea, Xanthan Gum, Sodium Hydroxide, Lactokine Fluid, Fragrance (IFRA Certified Allergen Free Fragrance)",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "src": "aha"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "src": "bha"
+    }
+   ],
+   "support": [
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "imidazolidinyl urea"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -17022,11 +18822,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": true
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -17119,11 +18925,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -17210,11 +19022,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": true
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -17301,11 +19119,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": true
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -17395,11 +19219,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -17487,11 +19317,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -17592,11 +19428,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -17680,11 +19522,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -17773,11 +19621,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -17869,11 +19723,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -17969,11 +19829,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -18074,11 +19940,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -18169,11 +20041,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -18266,11 +20144,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -18364,11 +20248,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -18460,11 +20350,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -18492,17 +20388,19 @@ const CTPRODUCTS = [
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "salicylic acid (BHA)",
   "featureLine": "Lotion · ₹159/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dermatouch official website (dermatouch.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "lactic acid high on the INCI list (strong evidence); dimethicone high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
+   "Added fragrance (parfum): fragrance",
+   "Formaldehyde-releasing preservative: imidazolidinyl urea",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5,
+   "skin": 4.9,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -18519,11 +20417,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dermatouch official website (dermatouch.in) — product page › Ingredients",
+   "inciSourceUrl": "https://dermatouch.in/products/aha-10-bha-1-body-lotion-200ml",
+   "inciMatchedName": "AHA 10% BHA 1% Body Lotion for Tanned & Bumpy Skin (name match 76%)",
+   "inciList": "Aqua, Lactic Acid, Ester of Ethyl Olivate and Olive Oil Methyl Ester (Kvosil-Nsp), Propylene Glycol, Glyceryl Stearate (and) PEG-100 Stearate, Light Liquid Paraffin, Glyceryl Mono Stearate - SE, Dimethicone, Cetyl Alcohol, Salicylic Acid, Glyceryl Glucoside (CMO2G), Chamomile Extract, Imidazolidinyl Urea, Xanthan Gum, Sodium Hydroxide, Lactokine Fluid, Fragrance (IFRA Certified Allergen Free Fragrance)",
+   "evidenceActives": "lactic acid (#2 on list, strong evidence); dimethicone (#9 on list, moderate evidence); salicylic acid (#11 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -18548,7 +20448,8 @@ const CTPRODUCTS = [
    "size:large",
    "rating:none",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -18557,21 +20458,70 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dermatouch official website (dermatouch.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://dermatouch.in/products/aha-10-bha-1-body-lotion-200ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "AHA 10% BHA 1% Body Lotion for Tanned & Bumpy Skin",
+   "inciMatchScore": 0.76,
+   "inciText": "Aqua, Lactic Acid, Ester of Ethyl Olivate and Olive Oil Methyl Ester (Kvosil-Nsp), Propylene Glycol, Glyceryl Stearate (and) PEG-100 Stearate, Light Liquid Paraffin, Glyceryl Mono Stearate - SE, Dimethicone, Cetyl Alcohol, Salicylic Acid, Glyceryl Glucoside (CMO2G), Chamomile Extract, Imidazolidinyl Urea, Xanthan Gum, Sodium Hydroxide, Lactokine Fluid, Fragrance (IFRA Certified Allergen Free Fragrance)",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "src": "aha"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "src": "bha"
+    }
+   ],
+   "support": [
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "imidazolidinyl urea"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -18650,11 +20600,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -18741,11 +20697,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": true
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -18835,11 +20797,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -18940,11 +20908,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -19037,11 +21011,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -19130,11 +21110,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -19223,11 +21209,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -19315,11 +21307,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -19406,11 +21404,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -19501,11 +21505,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -19596,11 +21606,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -19693,11 +21709,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -19793,11 +21815,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -19825,16 +21853,19 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "salicylic acid (BHA)",
   "featureLine": "Lotion · ₹159/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Dermatouch official website (dermatouch.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "lactic acid high on the INCI list (strong evidence); dimethicone high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): fragrance",
+   "Formaldehyde-releasing preservative: imidazolidinyl urea",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5,
+   "skin": 4.9,
+   "trust": 5.5,
    "experience": 1.9
   },
   "fullSpec": {
@@ -19851,11 +21882,13 @@ const CTPRODUCTS = [
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Dermatouch official website (dermatouch.in) — product page › Ingredients",
+   "inciSourceUrl": "https://dermatouch.in/products/aha-10-bha-1-body-lotion-200ml",
+   "inciMatchedName": "AHA 10% BHA 1% Body Lotion for Tanned & Bumpy Skin (name match 76%)",
+   "inciList": "Aqua, Lactic Acid, Ester of Ethyl Olivate and Olive Oil Methyl Ester (Kvosil-Nsp), Propylene Glycol, Glyceryl Stearate (and) PEG-100 Stearate, Light Liquid Paraffin, Glyceryl Mono Stearate - SE, Dimethicone, Cetyl Alcohol, Salicylic Acid, Glyceryl Glucoside (CMO2G), Chamomile Extract, Imidazolidinyl Urea, Xanthan Gum, Sodium Hydroxide, Lactokine Fluid, Fragrance (IFRA Certified Allergen Free Fragrance)",
+   "evidenceActives": "lactic acid (#2 on list, strong evidence); dimethicone (#9 on list, moderate evidence); salicylic acid (#11 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5); Formaldehyde-releasing preservative: imidazolidinyl urea (−1.5)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4★ from 0 ratings"
   },
@@ -19879,7 +21912,8 @@ const CTPRODUCTS = [
    "size:standard",
    "rating:4.0",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "actives": true,
@@ -19888,21 +21922,70 @@ const CTPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Dermatouch official website (dermatouch.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://dermatouch.in/products/aha-10-bha-1-body-lotion-200ml",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "AHA 10% BHA 1% Body Lotion for Tanned & Bumpy Skin",
+   "inciMatchScore": 0.76,
+   "inciText": "Aqua, Lactic Acid, Ester of Ethyl Olivate and Olive Oil Methyl Ester (Kvosil-Nsp), Propylene Glycol, Glyceryl Stearate (and) PEG-100 Stearate, Light Liquid Paraffin, Glyceryl Mono Stearate - SE, Dimethicone, Cetyl Alcohol, Salicylic Acid, Glyceryl Glucoside (CMO2G), Chamomile Extract, Imidazolidinyl Urea, Xanthan Gum, Sodium Hydroxide, Lactokine Fluid, Fragrance (IFRA Certified Allergen Free Fragrance)",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "lactic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "src": "aha"
+    },
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "src": "petrolatum"
+    },
+    {
+     "name": "salicylic acid",
+     "grade": "A",
+     "position": 11,
+     "core": true,
+     "src": "bha"
+    }
+   ],
+   "support": [
+    "dimethicone"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "formaldehydeReleaser",
+     "label": "Formaldehyde-releasing preservative",
+     "names": [
+      "imidazolidinyl urea"
+     ],
+     "penalty": 1.5,
+     "src": "eu2019_831"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -19983,11 +22066,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -20082,11 +22171,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -20178,11 +22273,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -20271,11 +22372,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -20374,16 +22481,22 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "full",
+   "inciSrc": "listing",
    "pharma": false
   },
   "evidence": {
    "inci": "full",
    "inciSource": "Flipkart listing — Composition field",
+   "inciSourceKind": "listing",
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": "Aqua, Caprylic Capric Triglyceride, Cetostearyl Alcohol, Glyceryl Stearate, Dimethicone, Peg-100 Stearate, Isoamyl Laurate, Lactic Acid, Propanediol, Madhuca Indica Oil, Arginine, Ceteareth-20, Hydroxyethyl Urea, Triethanolamine, Allantoin, Niacinamide, Phenoxyethanol & Ethylhexylglycerin, Sodium Pca, Xanthan Gum, Panthenol, Polyacrylate- 13, Polyisobutene, Polysorbate 20, Sodium Hyaluronate, Perfume, Tetrasodium Edta",
    "inciUnverified": null,
    "inciNote": null,
    "declarationConfidence": 0.7,
-   "recognised": 0.92,
+   "recognised": 0.96,
    "actives": [
     {
      "name": "dimethicone",
@@ -20528,11 +22641,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -20626,11 +22745,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -20722,11 +22847,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -20816,11 +22947,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -20913,11 +23050,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -21011,11 +23154,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": true,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -21106,11 +23255,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -21196,11 +23351,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,
@@ -21295,11 +23456,17 @@ const CTPRODUCTS = [
    "men": false,
    "women": false,
    "inci": "none",
+   "inciSrc": null,
    "pharma": false
   },
   "evidence": {
    "inci": "none",
    "inciSource": null,
+   "inciSourceKind": null,
+   "inciSourceUrl": null,
+   "inciSourceRegion": null,
+   "inciMatchedTitle": null,
+   "inciMatchScore": null,
    "inciText": null,
    "inciUnverified": null,
    "inciNote": null,

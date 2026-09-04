@@ -1,9 +1,9 @@
 import { useEffect, useRef, useState, type ReactNode } from 'react';
 import { clsx } from 'clsx';
 import { ShieldAlert, ShieldCheck } from 'lucide-react';
-import type { InciStatus, Zone } from '../../lib/types';
+import type { InciSourceKind, InciStatus, Zone } from '../../lib/types';
 import { scoreClass, usePrefersReducedMotion, verdict } from '../../lib/format';
-import { INCI_META } from '../../domain/scoreMeta';
+import { INCI_META, INCI_SOURCE_META } from '../../domain/scoreMeta';
 
 export function ZoneBadge({ zone, className }: { zone: Zone | 'unstated'; className?: string }) {
   const label = { face: 'Face', body: 'Body', both: 'Face + body', unstated: 'Scope not stated' }[zone];
@@ -15,15 +15,19 @@ export function ZoneBadge({ zone, className }: { zone: Zone | 'unstated'; classN
   );
 }
 
-/** What the score was read from: a verified INCI list, or an explicit "unscored" state. Never hides a missing list. */
-export function EvidenceBadge({ status, className }: { status: InciStatus; className?: string }) {
+/** What the score was read from: a verified INCI list (and where it was read, if not the listing), or an explicit
+ *  "unscored" state. Never hides a missing list. */
+export function EvidenceBadge({ status, source, className }: { status: InciStatus; source?: InciSourceKind; className?: string }) {
   const meta = INCI_META[status];
+  const src = status === 'full' && source && source !== 'listing' ? INCI_SOURCE_META[source] : null;
   const tone = { good: 'text-success', warn: 'text-warning', muted: 'text-muted' }[meta.tone];
+  const title = src ? `${meta.label} — ${src.label}` : meta.label;
   return (
-    <span className={clsx('label inline-flex items-center gap-1', tone, className)} title={meta.label}>
+    <span className={clsx('label inline-flex items-center gap-1', tone, className)} title={title}>
       {meta.tone === 'good' ? <ShieldCheck size={11} aria-hidden /> : <ShieldAlert size={11} aria-hidden />}
       {meta.short}
-      <span className="sr-only"> — {meta.label}</span>
+      {src && <span className="font-medium normal-case tracking-normal text-secondary">· {src.short}</span>}
+      <span className="sr-only"> — {title}</span>
     </span>
   );
 }

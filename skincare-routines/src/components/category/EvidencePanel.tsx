@@ -1,7 +1,7 @@
 import { ExternalLink } from 'lucide-react';
 import { clsx } from 'clsx';
 import type { Evidence, SourceRef } from '../../lib/types';
-import { INCI_META } from '../../domain/scoreMeta';
+import { INCI_META, INCI_SOURCE_META } from '../../domain/scoreMeta';
 
 interface Props { evidence: Evidence; sources: Record<string, SourceRef> }
 
@@ -22,6 +22,8 @@ function Cite({ src, sources }: { src: string; sources: Record<string, SourceRef
 export function EvidencePanel({ evidence: ev, sources }: Props) {
   const meta = INCI_META[ev.inci];
   const verified = ev.inci === 'full';
+  const kind = ev.inciSourceKind ?? 'listing';
+  const external = verified && kind !== 'listing' && ev.inciSourceUrl;
   return (
     <section aria-labelledby="evidence-h" className="card p-5">
       <h3 id="evidence-h" className="text-[15px] font-extrabold text-display">Evidence behind the score</h3>
@@ -30,7 +32,28 @@ export function EvidencePanel({ evidence: ev, sources }: Props) {
       <div className="mt-4 space-y-4 text-[13px]">
         <div>
           <p className={clsx('font-bold', meta.tone === 'good' ? 'text-success' : meta.tone === 'warn' ? 'text-warning' : 'text-muted')}>{meta.label}</p>
-          {ev.inciSource && <p className="mt-0.5 text-[12px] text-secondary">Read from: {ev.inciSource}</p>}
+          {ev.inciSource && !external && <p className="mt-0.5 text-[12px] text-secondary">Read from: {ev.inciSource}</p>}
+          {external && (
+            <div className={clsx('mt-2 rounded-lg border p-3 text-[12px] leading-relaxed', kind === 'secondary' ? 'border-warning/40' : 'border-line')}>
+              <p className={clsx('font-bold', kind === 'secondary' ? 'text-warning' : 'text-display')}>{INCI_SOURCE_META[kind].label}</p>
+              <p className="mt-1 text-secondary">
+                Read from:{' '}
+                <a href={ev.inciSourceUrl ?? undefined} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1 text-accent underline-offset-2 hover:underline">
+                  {ev.inciSource} <ExternalLink size={10} aria-hidden />
+                </a>
+              </p>
+              {ev.inciMatchedTitle && (
+                <p className="mt-1 text-secondary">
+                  Matched to “{ev.inciMatchedTitle}”{ev.inciMatchScore !== null && <> · name match {Math.round(ev.inciMatchScore * 100)}%</>} — the listing itself prints no full list, so check the pack if the variant matters.
+                </p>
+              )}
+              {ev.inciSourceRegion && ev.inciSourceRegion !== 'IN' && (
+                <p className="mt-1 font-bold text-warning">
+                  {ev.inciSourceRegion} formula — read from the brand’s {ev.inciSourceRegion} site because the Indian site publishes none; the pack sold in India may differ.
+                </p>
+              )}
+            </div>
+          )}
           {ev.inciNote && <p className="mt-0.5 text-[12px] text-warning">{ev.inciNote}</p>}
           {verified && ev.inciText && <p className="mt-2 rounded-lg bg-raised p-3 text-[12px] leading-relaxed text-primary">{ev.inciText}</p>}
           {!verified && ev.inciUnverified && (

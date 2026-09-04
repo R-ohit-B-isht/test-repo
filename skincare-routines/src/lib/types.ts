@@ -2,6 +2,8 @@ export type Zone = 'face' | 'body' | 'both';
 export type ScoreKey = 'trust' | 'skin' | 'ingredients' | 'experience';
 /** How much of the ingredient declaration the listing actually publishes; only `full` is scored. */
 export type InciStatus = 'full' | 'partial' | 'garbled' | 'none';
+/** Where a verified INCI list was read: the listing, the brand's official site, or a third-party database. */
+export type InciSourceKind = 'listing' | 'brand-site' | 'secondary';
 export type Scores = Record<ScoreKey, number>;
 
 export interface FacetGroupDef { label: string; hint: string; mode: 'or' | 'and' }
@@ -82,6 +84,7 @@ export interface ProductRow {
   rc: number | null;  // rating count
   t: number[];    // tag indices into tagIndex
   ev: InciStatus; // ingredient-declaration status behind the score
+  es?: Exclude<InciSourceKind, 'listing'>; // set when the verified list came from outside the listing
   step?: string;
 }
 
@@ -102,6 +105,11 @@ export interface EvidenceMaker { parent: string | null; kind: 'pharma' | 'global
 export interface Evidence {
   inci: InciStatus;
   inciSource: string | null;
+  inciSourceKind: InciSourceKind | null;
+  inciSourceUrl: string | null;      // exact page an external declaration was read from
+  inciSourceRegion: string | null;   // country site of an official declaration (IN unless the Indian site had none)
+  inciMatchedTitle: string | null;   // product name on that page
+  inciMatchScore: number | null;     // 0–1 name-match confidence of listing ↔ page
   inciText: string | null;
   inciUnverified: string | null;
   inciNote: string | null;
