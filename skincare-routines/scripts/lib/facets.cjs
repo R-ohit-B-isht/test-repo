@@ -6,6 +6,7 @@
 const slug = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
 
 const GROUPS = {
+  inci: { label: 'Evidence', hint: 'What the score is actually based on', mode: 'and' },
   scope: { label: 'Face / body', hint: 'Where the listing says to use it', mode: 'or' },
   format: { label: 'Format', hint: 'Texture / form stated in the listing', mode: 'or' },
   spf: { label: 'SPF', hint: 'Sun protection factor stated', mode: 'or' },
@@ -177,6 +178,7 @@ function ratingTag(rating) {
 
 const LABELS = { scope: {
   face: 'Face', body: 'Body', both: 'Face + body', unstated: 'Scope not stated' },
+  inci: { full: 'Full INCI list published', partial: 'Key-ingredients line only', none: 'No ingredient list', 'no-fragrance': 'No fragrance / allergen on INCI', 'pharma-maker': 'Dermatology / pharma maker' },
   spf: { 15: 'SPF 15–29', 30: 'SPF 30–39', 40: 'SPF 40–49', 50: 'SPF 50', '50+': 'SPF 50+', 60: 'SPF 60–99', 100: 'SPF 100+' },
   sun: { mineral: 'Mineral / physical', chemical: 'Chemical', hybrid: 'Hybrid' },
   size: { travel: 'Travel (≤50 ml/g)', standard: 'Standard (51–120)', large: 'Large (121–250)', xl: 'XL (250+)' },

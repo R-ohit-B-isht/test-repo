@@ -6,8 +6,8 @@ const FACE = 'face';
 const BODY = 'body';
 const BOTH = 'both';
 
-const CORE_FACETS = ['scope', 'format', 'ing', 'claim', 'free', 'skin', 'aud', 'size', 'rating', 'store'];
-const SUN_FACETS = ['scope', 'spf', 'pa', 'sun', 'format', 'ing', 'claim', 'free', 'skin', 'aud', 'size', 'rating', 'store'];
+const CORE_FACETS = ['inci', 'scope', 'format', 'ing', 'claim', 'free', 'skin', 'aud', 'size', 'rating', 'store'];
+const SUN_FACETS = ['inci', 'scope', 'spf', 'pa', 'sun', 'format', 'ing', 'claim', 'free', 'skin', 'aud', 'size', 'rating', 'store'];
 
 export const CATEGORIES = [
   {
@@ -122,12 +122,14 @@ export const CATEGORIES = [
 
 export const ZONE_LABELS = { face: 'FACE', body: 'BODY', both: 'FACE + BODY' };
 
-export const WEIGHTS = { trust: 0.30, skin: 0.26, ingredients: 0.26, experience: 0.18 };
+// Evidence-first: formula and skin-safety are read only from a verified full INCI list, trust from the
+// accountable maker + ingredient transparency, experience from real buyer ratings. Seller claims score 0.
+export const WEIGHTS = { ingredients: 0.40, skin: 0.25, trust: 0.20, experience: 0.15 };
 export const CRITERIA = {
-  trust: 'Brand trust & rating',
-  skin: 'Skin safety claims',
-  ingredients: 'Actives & ingredients',
-  experience: 'Format & experience',
+  ingredients: 'Formula (verified INCI)',
+  skin: 'Skin safety (verified INCI)',
+  trust: 'Maker accountability & transparency',
+  experience: 'Buyer evidence',
 };
 
 export const ROUTINE_WEIGHTS = { evidence: 0.30, coverage: 0.24, adherence: 0.20, fit: 0.14, time: 0.12 };

@@ -3,7 +3,7 @@ import { clsx } from 'clsx';
 import { Check, Plus, Star } from 'lucide-react';
 import type { ProductRow } from '../../lib/types';
 import { rupees, storeLabel } from '../../lib/format';
-import { ScoreBadge, ZoneBadge } from '../ui/primitives';
+import { EvidenceBadge, ScoreBadge, ZoneBadge } from '../ui/primitives';
 
 export type ScopeKey = 'face' | 'body' | 'both' | 'unstated';
 
@@ -25,6 +25,7 @@ export const ProductCard = memo(function ProductCard({ row, rank, scope, compare
         <div className="flex flex-wrap items-center gap-x-2 gap-y-0.5">
           <span className="text-[12px] font-bold text-accent">{row.b}</span>
           <ZoneBadge zone={scope} />
+          <EvidenceBadge status={row.ev} />
         </div>
         <p className="mt-0.5 line-clamp-2 text-[15px] font-bold leading-snug text-display">{row.m}</p>
         <p className="mt-1 flex flex-wrap items-center gap-x-1.5 truncate text-[13px] text-secondary">

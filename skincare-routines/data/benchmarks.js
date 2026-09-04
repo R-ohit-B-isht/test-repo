@@ -27,7 +27,7 @@ const BENCHMARKS = [
       { label: 'Manufacturer product page', publisher: 'Cetaphil (Galderma)', url: 'https://www.cetaphil.com/us/products/product-categories/all-cleansers/cetaphil-gentle-skin-cleanser/302990110227.html' },
     ],
     caution: null,
-    match: { brand: 'cetaphil', model: 'gentle skin cleanser', exact: true, note: 'The only Indian listing is a twin-pack (2 × 250 ml) of the same cleanser.' },
+    match: { brand: 'cetaphil', model: 'gentle skin cleanser', exact: true, note: 'The Flipkart Specifications tab lists only three key ingredients (niacinamide, panthenol, glycerin), not the declared INCI list; Amazon.in publishes none.' },
   },
   {
     category: 'toner',

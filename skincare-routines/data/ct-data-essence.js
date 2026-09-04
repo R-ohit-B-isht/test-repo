@@ -9,24 +9,25 @@ const CTPRODUCTS = [
   "capacityLine": "150 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Toner · Paraben-free · ₹251/100ml",
-  "highlight": "Live Flipkart listing rated 4.5★ by 923 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "Paraben-free (per listing)",
-   "Strong buyer rating (4.5)"
+   "Well-reviewed: 4.5★ from 923 ratings"
   ],
-  "cons": [],
+  "cons": [
+   "No ingredient list published on the listing"
+  ],
   "scores": {
-   "trust": 6.8,
-   "skin": 4.6,
-   "ingredients": 4.5,
-   "experience": 4.6
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6,
+   "experience": 7.7
   },
   "fullSpec": {
    "quantity": "150 ml",
    "pricePer100": "₹251/100ml",
    "format": "Toner",
    "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating",
@@ -34,7 +35,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "4.5/5 (923 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "4.5★ from 923 ratings"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/g/r/w/150-blueberry-hydrate-barrier-repair-milky-toner-essence-dot-key-original-imahcrg6gwgkchaz.jpeg?q=90",
@@ -58,7 +66,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:large",
    "rating:4.5",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -66,7 +75,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Nykaa (FSN E-Commerce, listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://www.nykaa.com/"
+   },
+   "buyers": "4.5★ from 923 ratings"
   }
  },
  {
@@ -77,26 +109,25 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "rose",
   "featureLine": "Toner · Paraben-free · ₹95/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹95/100ml",
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 4.7,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹95/100ml",
    "format": "Toner",
    "keyIngredients": "rose (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Brightening/glow claim",
@@ -104,7 +135,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/m/k/o/rose-essence-fragrant-water-skin-and-relaxation-rose-water-original-imagzfjakwp2gft9.jpeg?q=90",
@@ -131,7 +169,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:standard",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -139,7 +178,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -150,26 +212,25 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "rose",
   "featureLine": "Toner · Paraben-free · ₹96/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹96/100ml",
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 4.7,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹96/100ml",
    "format": "Toner",
    "keyIngredients": "rose (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim",
@@ -177,7 +238,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/6/m/i/essence-rose-water-skin-hydrating-rose-toner-nourishing-sonavi-original-imagzfftggxqsgu5.jpeg?q=90",
@@ -205,7 +273,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:standard",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -213,7 +282,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -224,19 +316,18 @@ const CTPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "aloe vera + rose",
   "featureLine": "Toner · ₹184/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹184/100ml"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "200 ml",
@@ -251,7 +342,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/s/d/c/200-0-pore-refining-essence-hydrating-toner-elamra-original-imahnyur4u49fzmy.jpeg?q=90",
@@ -282,7 +380,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:large",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -290,7 +389,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -301,26 +423,25 @@ const CTPRODUCTS = [
   "capacityLine": "60 g",
   "materialLine": "vitamin C + niacinamide + salicylic acid (BHA)",
   "featureLine": "Toner · Paraben-free · ₹553/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 7,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "60 g",
    "pricePer100": "₹553/100g",
    "format": "Toner",
    "keyIngredients": "vitamin C, niacinamide, salicylic acid (BHA), rice water, aloe vera, rose (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Brightening/glow claim, Acne/blemish claim",
@@ -328,7 +449,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Aloe vera, Rice",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/m/t/m/100-rice-toner-for-glowing-skin-77-78-rice-glow-essence-with-original-imah8bpve5z3ktbg.jpeg?q=90",
@@ -365,7 +493,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:standard",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -373,7 +502,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "partial",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciText": null,
+   "inciUnverified": "Aloe vera, Rice",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.5,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -384,20 +536,20 @@ const CTPRODUCTS = [
   "capacityLine": "10 ml",
   "materialLine": "vitamin C + niacinamide + hyaluronic acid",
   "featureLine": "Wash / cleanser · ₹1350/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "Contains evidence-backed actives (per listing)"
+   "ascorbic acid high on the INCI list (strong evidence); glycerin high on the INCI list (strong evidence)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1350/100ml",
-   "Marketplace brand — limited track record"
+   "Added fragrance (parfum): fragrance",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 7.2,
-   "experience": 4.9
+   "ingredients": 6.4,
+   "skin": 5.9,
+   "trust": 5.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "10 ml",
@@ -412,7 +564,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Lutein, Vitamin C (VC), Purified Water, Glycerin, Hyaluronic Acid, Aloe Vera Extract, Niacinamide, Tocopherol (Vitamin E), Plant-Based Moisturizing Oils, Carbomer, Phenoxyethanol, Fragrance.",
+   "evidenceActives": "ascorbic acid (#2 on list, strong evidence); glycerin (#4 on list, strong evidence); hyaluronic acid (#5 on list, moderate evidence); aloe barbadensis leaf extract (#6 on list, moderate evidence); niacinamide (#7 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/2/v/t/10-vc-lutein-eye-essence-under-eye-skin-hydration-1-bottle-pack-original-imahz8t4kwq2an3n.jpeg?q=90",
@@ -447,7 +606,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:full"
   ],
   "filters": {
    "actives": true,
@@ -455,7 +615,87 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "full",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciText": "Lutein, Vitamin C (VC), Purified Water, Glycerin, Hyaluronic Acid, Aloe Vera Extract, Niacinamide, Tocopherol (Vitamin E), Plant-Based Moisturizing Oils, Carbomer, Phenoxyethanol, Fragrance.",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.92,
+   "actives": [
+    {
+     "name": "ascorbic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "src": "vitc"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "src": "ha"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "src": "centella"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "hyaluronic acid",
+    "niacinamide"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -466,20 +706,20 @@ const CTPRODUCTS = [
   "capacityLine": "10 ml",
   "materialLine": "vitamin C + niacinamide + hyaluronic acid",
   "featureLine": "Wash / cleanser · ₹1350/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Flipkart listing. Scored from its published INCI list (Flipkart listing — Composition field): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "Contains evidence-backed actives (per listing)"
+   "ascorbic acid high on the INCI list (strong evidence); glycerin high on the INCI list (strong evidence)"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1350/100ml",
-   "Marketplace brand — limited track record"
+   "Added fragrance (parfum): fragrance",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 7.2,
-   "experience": 4.9
+   "ingredients": 6.4,
+   "skin": 5.9,
+   "trust": 5.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "10 ml",
@@ -494,7 +734,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Lutein, Vitamin C (VC), Purified Water, Glycerin, Hyaluronic Acid, Aloe Vera Extract, Niacinamide, Tocopherol (Vitamin E), Plant-Based Moisturizing Oils, Carbomer, Phenoxyethanol, Fragrance.",
+   "evidenceActives": "ascorbic acid (#2 on list, strong evidence); glycerin (#4 on list, strong evidence); hyaluronic acid (#5 on list, moderate evidence); aloe barbadensis leaf extract (#6 on list, moderate evidence); niacinamide (#7 on list, strong evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/p/r/4/10-vc-lutein-eye-essence-eye-skin-hydration-gel-1-bottle-pack-original-imahz8t9ewwaa3zb.jpeg?q=90",
@@ -529,7 +776,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:full"
   ],
   "filters": {
    "actives": true,
@@ -537,7 +785,87 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "full",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciText": "Lutein, Vitamin C (VC), Purified Water, Glycerin, Hyaluronic Acid, Aloe Vera Extract, Niacinamide, Tocopherol (Vitamin E), Plant-Based Moisturizing Oils, Carbomer, Phenoxyethanol, Fragrance.",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 0.92,
+   "actives": [
+    {
+     "name": "ascorbic acid",
+     "grade": "A",
+     "position": 2,
+     "core": true,
+     "src": "vitc"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "src": "ha"
+    },
+    {
+     "name": "aloe barbadensis leaf extract",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "src": "centella"
+    },
+    {
+     "name": "niacinamide",
+     "grade": "A",
+     "position": 7,
+     "core": true,
+     "src": "niacinamide"
+    },
+    {
+     "name": "tocopherol",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "hyaluronic acid",
+    "niacinamide"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -548,25 +876,25 @@ const CTPRODUCTS = [
   "capacityLine": "30 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Sheet mask · Paraben-free · ₹273/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 4.3,
-   "experience": 4.6
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "30 g",
    "pricePer100": "₹273/100g",
    "format": "Sheet mask",
    "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating",
@@ -574,7 +902,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-face-pack/q/c/z/30-hydrating-essence-facial-avocado-sheet-sheet-mask-krimojfab-original-imahn8c9yfudgd2v.jpeg?q=90",
@@ -601,7 +936,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -609,7 +945,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -620,25 +979,25 @@ const CTPRODUCTS = [
   "capacityLine": "30 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Sheet mask · Paraben-free · ₹280/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 4.3,
-   "experience": 4.6
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "30 g",
    "pricePer100": "₹280/100g",
    "format": "Sheet mask",
    "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating",
@@ -646,7 +1005,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-face-pack/h/v/x/30-oil-control-avocado-essence-face-sheet-sheet-mask-krimojfab-original-imahn8ce42vzygtf.jpeg?q=90",
@@ -674,7 +1040,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -682,7 +1049,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -693,18 +1083,18 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "centella/cica",
   "featureLine": "Essence · ₹566/100ml",
-  "highlight": "Live Flipkart listing rated 4.4★ by 89 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "Strong buyer rating (4.4)"
+   "Well-reviewed: 4.4★ from 89 ratings"
   ],
   "cons": [
-   "No free-from claims in listing"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "trust": 6.6,
-   "skin": 4,
-   "ingredients": 4.9,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 5.9
   },
   "fullSpec": {
    "quantity": "100 ml",
@@ -719,7 +1109,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "4.4/5 (89 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.4★ from 89 ratings"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/o/l/100-cica-hya-betaine-vegan-mucin-essence-with-azuki-bean-atp-for-original-imaha89frqd95whp.jpeg?q=90",
@@ -744,7 +1141,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:standard",
    "rating:4.0",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -752,7 +1150,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Pureplay Skin Sciences",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://plumgoodness.com/"
+   },
+   "buyers": "4.4★ from 89 ratings"
   }
  },
  {
@@ -763,19 +1184,18 @@ const CTPRODUCTS = [
   "capacityLine": "36 g (pack of 3)",
   "materialLine": "hyaluronic acid + rice water",
   "featureLine": "Wash / cleanser · ₹994/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.6
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "12 g × 3 pack",
@@ -790,7 +1210,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/e/0/n/50-bare-essence-moisturiser-rice-water-for-clarity-hyaluronic-original-imahmsz4yxtsspb8.jpeg?q=90",
@@ -817,7 +1244,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -825,31 +1253,51 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "organic-essence-itmb36870bad0500",
-  "brand": "Organic Essence",
-  "model": "Fairness Facial Kit (250+10)gm 260 ml (260 ml)",
+  "id": "unbranded-itmb36870bad0500",
+  "brand": "Unbranded",
+  "model": "Organic Essence Fairness Facial Kit (250+10)gm 260 ml (260 ml)",
   "price": 344,
   "capacityLine": "260 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence · ₹132/100ml",
-  "highlight": "Live Flipkart listing rated 3.8★ by 33 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹132/100ml"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (3.8)",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.3,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.4
   },
   "fullSpec": {
    "quantity": "260 ml",
@@ -864,7 +1312,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "3.8/5 (33 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.8★ from 33 ratings"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/klb78nk0/facial-kit/7/m/d/260-fairness-facial-kit-250-10-gm-1-organic-essence-original-imagygxjwgpfzkbx.jpeg?q=90",
@@ -885,7 +1340,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:xl",
    "rating:3.5",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -893,7 +1349,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.8★ from 33 ratings"
   }
  },
  {
@@ -904,27 +1383,26 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "vitamin C + peptides + turmeric",
   "featureLine": "Wash / cleanser · Sulfate/SLS-free · ₹757/100ml",
-  "highlight": "Live Flipkart listing rated 5★ by 5 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Sulfate/SLS-free (per listing)",
-   "Strong buyer rating (5)"
+   "Well-reviewed: 5★ from 5 ratings"
   ],
   "cons": [
-   "Marketplace brand — limited track record"
+   "Only 5 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5.1,
-   "skin": 4.5,
-   "ingredients": 7.2,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 6.1
   },
   "fullSpec": {
    "quantity": "30 ml",
    "pricePer100": "₹757/100ml",
    "format": "Wash / cleanser",
    "keyIngredients": "vitamin C, peptides, turmeric, sandalwood, honey (per listing)",
-   "freeFrom": "Sulfate/SLS-free (per listing)",
+   "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim, Acne/blemish claim",
@@ -932,7 +1410,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "5/5 (5 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Vitamin C, Honey, Turmeric, 24k Gold foil Paper, sandalwood extract",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 5 ratings"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/b/w/30-ginseng-gold-essence-korean-polypeptide-anti-ageing-serum-for-original-imahfza4pp3f6yap.jpeg?q=90",
@@ -968,7 +1453,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:4.5",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -976,7 +1462,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "partial",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciText": null,
+   "inciUnverified": "Vitamin C, Honey, Turmeric, 24k Gold foil Paper, sandalwood extract",
+   "inciNote": "Only 5 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.8,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 5 ratings"
   }
  },
  {
@@ -987,25 +1496,25 @@ const CTPRODUCTS = [
   "capacityLine": "30 g",
   "materialLine": "rice water",
   "featureLine": "Sheet mask · Paraben-free · ₹293/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 4.7,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "30 g",
    "pricePer100": "₹293/100g",
    "format": "Sheet mask",
    "keyIngredients": "rice water (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim",
@@ -1013,7 +1522,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-face-pack/x/b/r/30-avocado-beauty-essence-facial-sheet-sheet-mask-krimojfab-original-imahn8c9zdmzd4ez.jpeg?q=90",
@@ -1041,7 +1557,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -1049,7 +1566,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -1060,25 +1600,25 @@ const CTPRODUCTS = [
   "capacityLine": "30 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Sheet mask · Paraben-free · ₹297/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 4.3,
-   "experience": 4.6
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "30 g",
    "pricePer100": "₹297/100g",
    "format": "Sheet mask",
    "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating",
@@ -1086,7 +1626,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-face-pack/1/b/k/30-hydrating-avocado-essence-beauty-mask-sheet-mask-krimojfab-original-imahn8c9gxgswkzq.jpeg?q=90",
@@ -1111,7 +1658,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -1119,7 +1667,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -1130,17 +1701,18 @@ const CTPRODUCTS = [
   "capacityLine": "60 ml",
   "materialLine": "aloe vera + cucumber + vitamin E",
   "featureLine": "Essence · ₹445/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.2,
-   "experience": 5.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "60 ml",
@@ -1155,7 +1727,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/v/q/f/60-facial-oil-softgel-capsules-for-skin-glow-anti-ageing-lemixco-original-imahk8kgbazfuqpw.jpeg?q=90",
@@ -1189,7 +1768,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:standard",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -1197,7 +1777,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -1208,18 +1811,18 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Toner · ₹3570/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹3570/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "50 ml",
@@ -1234,7 +1837,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/r/0/8/50-no-9-nad-bio-lifting-sil-essence-minimize-pores-and-restore-original-imahhvb3ygfdqkck.jpeg?q=90",
@@ -1259,7 +1869,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -1267,7 +1878,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -1278,19 +1912,18 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "vitamin C + shea butter",
   "featureLine": "Wash / cleanser · ₹315/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.8,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "100 ml",
@@ -1305,7 +1938,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-wash/e/y/a/100-glowing-skin-face-wash-100ml-vitamin-c-liquorice-amla-deep-original-imahmhyyjjsrgxfy.jpeg?q=90",
@@ -1332,7 +1972,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:standard",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -1340,32 +1981,51 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "organic-essence-itma6947272097cf",
-  "brand": "Organic Essence",
-  "model": "Facial Kit Vitamin C Glowing Skin for Bright & Ra …",
+  "id": "unbranded-itma6947272097cf",
+  "brand": "Unbranded",
+  "model": "Organic Essence Facial Kit Vitamin C Glowing Skin for Bright & Ra …",
   "price": 414,
   "capacityLine": "260 g",
   "materialLine": "vitamin C",
   "featureLine": "Essence · ₹159/100g",
-  "highlight": "Live Flipkart listing rated 3.6★ by 16 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹159/100g",
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (3.6)",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 3.6,
-   "skin": 4,
-   "ingredients": 5.4,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.4
   },
   "fullSpec": {
    "quantity": "260 g",
@@ -1380,7 +2040,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "3.6/5 (16 ratings, Flipkart)",
-   "madeIn": "india"
+   "madeIn": "india",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.6★ from 16 ratings"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/kn0n6a80/facial-kit/v/g/p/260-facial-kit-vitamin-c-glowing-skin-for-bright-radiant-original-imagfsk7cgppycas.jpeg?q=90",
@@ -1404,7 +2071,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:xl",
    "rating:3.5",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -1412,7 +2080,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.6★ from 16 ratings"
   }
  },
  {
@@ -1423,28 +2114,24 @@ const CTPRODUCTS = [
   "capacityLine": "20 g",
   "materialLine": "glycolic acid + hyaluronic acid + peptides",
   "featureLine": "Sheet mask · Paraben-free · ₹1085/100g",
-  "highlight": "Live Flipkart listing rated 3.7★ by 7 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Pricey: ₹1085/100g",
-   "Mixed buyer rating (3.7)",
-   "Marketplace brand — limited track record"
+   "Only 4 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
+   "ingredients": 0,
+   "skin": 0,
    "trust": 3.8,
-   "skin": 4.6,
-   "ingredients": 6.8,
-   "experience": 5.2
+   "experience": 2.2
   },
   "fullSpec": {
    "quantity": "20 g",
    "pricePer100": "₹1085/100g",
    "format": "Sheet mask",
    "keyIngredients": "glycolic acid, hyaluronic acid, peptides, rose (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim",
@@ -1452,7 +2139,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "3.7/5 (7 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Collagen Peptides, Glycolic Acid, Rose Extract, Hyaluronic Acid",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.7★ from 7 ratings"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/x/i/2/20-rose-collagen-facial-essence-mask-sheet-mask-suroskie-original-imahdbntupc6f77d.jpeg?q=90",
@@ -1484,7 +2178,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:3.5",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -1492,7 +2187,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "partial",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciText": null,
+   "inciUnverified": "Collagen Peptides, Glycolic Acid, Rose Extract, Hyaluronic Acid",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.7★ from 7 ratings"
   }
  },
  {
@@ -1503,27 +2221,25 @@ const CTPRODUCTS = [
   "capacityLine": "100 g",
   "materialLine": "hyaluronic acid",
   "featureLine": "Essence · Paraben-free · ₹1150/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Pricey: ₹1150/100g",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 5.1,
-   "ingredients": 5.6,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹1150/100g",
    "format": "Essence",
    "keyIngredients": "hyaluronic acid (per listing)",
-   "freeFrom": "Paraben-free, Sulfate/SLS-free (per listing)",
+   "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Not stated in listing",
@@ -1531,7 +2247,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/w/k/2/100-hyaluronic-acid-face-essence-cosrex-original-imahqkfzf8rjbpsg.jpeg?q=90",
@@ -1555,7 +2278,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:standard",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -1563,7 +2287,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -1574,27 +2321,25 @@ const CTPRODUCTS = [
   "capacityLine": "100 g",
   "materialLine": "ceramides + rice water + aloe vera",
   "featureLine": "Mask / pack · Paraben-free · ₹225/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹225/100g",
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 6.6,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "100 g",
    "pricePer100": "₹225/100g",
    "format": "Mask / pack",
    "keyIngredients": "ceramides, rice water, aloe vera, cucumber (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim",
@@ -1602,7 +2347,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/v/t/a/380-korean-glass-skin-essence-rice-water-ceramide-face-pack-for-original-imahpggbg8n2gcwu.jpeg?q=90",
@@ -1637,7 +2389,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:standard",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -1645,31 +2398,51 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
   "id": "dr-rashel-itm99494b3c79e10",
-  "brand": "DR.RASHEL",
-  "model": "Korean Glass Skin Essence Cream | Infused with Rice Wat …",
+  "brand": "Dr. Rashel",
+  "model": "DR.RASHEL Korean Glass Skin Essence Cream | Infused with Rice Wat …",
   "price": 51,
   "capacityLine": "Quantity not stated",
   "materialLine": "ceramides + rice water",
   "featureLine": "Essence",
-  "highlight": "Live Flipkart listing rated 4.1★ by 1,638 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.4,
-   "skin": 4,
-   "ingredients": 5.8,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 6.7
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -1684,7 +2457,15 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (1,638 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciList": "Unverified seller line: Rice Water, Ceramide",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "declaredManufacturer": "PP Consumer Private Limited (as printed on the Flipkart listing — not scored)",
+   "buyerEvidence": "4.1★ from 1,638 ratings"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/f/l/380-korean-glass-skin-essence-cream-infused-with-rice-water-and-original-imahqmgdayebuwkg.jpeg?q=90",
@@ -1706,7 +2487,8 @@ const CTPRODUCTS = [
    "claim:korean",
    "aud:unisex",
    "rating:4.0",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -1714,7 +2496,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "partial",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Specifications › Composition",
+   "inciText": null,
+   "inciUnverified": "Rice Water, Ceramide",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 1,638 ratings"
   }
  },
  {
@@ -1725,20 +2530,18 @@ const CTPRODUCTS = [
   "capacityLine": "1600 ml (pack of 4)",
   "materialLine": "niacinamide + rice water",
   "featureLine": "Essence · ₹11/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹11/100ml",
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 6,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "400 ml × 4 pack",
@@ -1753,7 +2556,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Rice, Niacinamide",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-wash/a/u/x/400-0-korean-body-wash-camellia-essence-skin-care-actives-original-imahzzyfzfnhghzg.jpeg?q=90",
@@ -1781,7 +2591,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:xl",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -1789,39 +2600,58 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "partial",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciText": null,
+   "inciUnverified": "Rice, Niacinamide",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.5,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
   "id": "dr-rashel-itm2f6e791024483",
-  "brand": "DR.RASHEL",
+  "brand": "Dr. Rashel",
   "model": "KOREAN GLASS SKIN ESSENCE GEL (45 ml)",
   "price": 98,
   "capacityLine": "45 ml",
   "materialLine": "ceramides + rice water",
   "featureLine": "Essence · Sulfate/SLS-free · ₹218/100ml",
-  "highlight": "Live Flipkart listing rated 3.9★ by 981 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹218/100ml",
-   "Contains evidence-backed actives (per listing)",
-   "Sulfate/SLS-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Mixed buyer rating (3.9)",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.1,
-   "skin": 4.5,
-   "ingredients": 6,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5.8
   },
   "fullSpec": {
    "quantity": "45 ml",
    "pricePer100": "₹218/100ml",
    "format": "Essence",
    "keyIngredients": "ceramides, rice water (per listing)",
-   "freeFrom": "Sulfate/SLS-free (per listing)",
+   "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
@@ -1829,7 +2659,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "3.9/5 (981 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.9★ from 981 ratings"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/d/r/w/45-korean-glass-skin-essence-gel-dr-rashel-original-imahqmgkydyggh2b.jpeg?q=90",
@@ -1862,7 +2699,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:3.5",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -1870,7 +2708,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.9★ from 981 ratings"
   }
  },
  {
@@ -1881,36 +2742,40 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "niacinamide + peptides + rice water",
   "featureLine": "Essence · Paraben-free · ₹1436/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Pricey: ₹1436/100g",
-   "Marketplace brand — limited track record"
+   "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 4.4,
-   "skin": 5.3,
-   "ingredients": 7.2,
-   "experience": 5.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹1436/100g",
    "format": "Essence",
    "keyIngredients": "niacinamide, peptides, rice water, saffron, licorice (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim, Acne/blemish claim",
    "audience": "Marketed for women",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Korean Fermented Rice Water, Niacinamide, Licorice Root Extract, Saffron Extract, Collagen Peptides, Chamomile Extract",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/0/1/30-diamond-essence-rice-water-serum-the-pinnacle-of-korean-original-imahap47mrhekrav.jpeg?q=90",
@@ -1946,7 +2811,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -1954,39 +2820,58 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": true,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "partial",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciText": null,
+   "inciUnverified": "Korean Fermented Rice Water, Niacinamide, Licorice Root Extract, Saffron Extract, Collagen Peptides, Chamomile Extract",
+   "inciNote": "Too few ingredients are recognisable INCI names to treat this as the declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
   "id": "dr-rashel-itm6105cac26332e",
-  "brand": "DR.RASHEL",
+  "brand": "Dr. Rashel",
   "model": "Korean Glass Skin Essence Scrub (45 ml)",
   "price": 98,
   "capacityLine": "45 ml",
   "materialLine": "ceramides + rice water",
   "featureLine": "Scrub / exfoliant · Paraben-free · ₹218/100ml",
-  "highlight": "Live Flipkart listing rated 3.8★ by 203 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹218/100ml",
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Mixed buyer rating (3.8)",
-   "Marketplace brand — limited track record"
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 6,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 4.5
   },
   "fullSpec": {
    "quantity": "45 ml",
    "pricePer100": "₹218/100ml",
    "format": "Scrub / exfoliant",
    "keyIngredients": "ceramides, rice water (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim",
@@ -1994,7 +2879,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "3.8/5 (203 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Rice Water, Ceramide",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.8★ from 203 ratings"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/scrub/y/3/s/45-korean-glass-skin-essence-dr-rashel-original-imahqmgnu3zgmszv.jpeg?q=90",
@@ -2027,7 +2919,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:3.5",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -2035,38 +2928,60 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "partial",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciText": null,
+   "inciUnverified": "Rice Water, Ceramide",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.8★ from 203 ratings"
   }
  },
  {
   "id": "k-derma-itm6a5a81095fb28",
-  "brand": "K DERMA",
+  "brand": "K Derma",
   "model": "Korean Glass Skin Essence Cream | Infused with Rice Water …",
   "price": 180,
   "capacityLine": "380 ml",
   "materialLine": "ceramides + rice water",
   "featureLine": "Essence · Paraben-free · ₹47/100ml",
-  "highlight": "Live Flipkart listing rated 4.8★ by 6 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "Good value: ₹47/100ml",
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)"
+   "Well-reviewed: 4.8★ from 6 ratings"
   ],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5.1,
-   "skin": 4.6,
-   "ingredients": 6,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5.7
   },
   "fullSpec": {
    "quantity": "380 ml",
    "pricePer100": "₹47/100ml",
    "format": "Essence",
    "keyIngredients": "ceramides, rice water (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim",
@@ -2074,7 +2989,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "4.8/5 (6 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.8★ from 6 ratings"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/2/z/n/380-korean-glass-skin-essence-cream-infused-with-rice-water-and-original-imahntezyjkpwztu.jpeg?q=90",
@@ -2101,7 +3023,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:xl",
    "rating:4.5",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -2109,38 +3032,59 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.8★ from 6 ratings"
   }
  },
  {
   "id": "k-derma-itmfaed50bd2633e",
-  "brand": "K DERMA",
+  "brand": "K Derma",
   "model": "Korean Glass Skin Essence - Face pack (45 ml)",
   "price": 86,
   "capacityLine": "45 ml",
   "materialLine": "ceramides + alpha arbutin + rice water",
   "featureLine": "Mask / pack · Paraben-free · ₹191/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹191/100ml",
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 6.8,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "45 ml",
    "pricePer100": "₹191/100ml",
    "format": "Mask / pack",
    "keyIngredients": "ceramides, alpha arbutin, rice water, saffron (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
@@ -2148,7 +3092,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Ceramide, Rice water",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/x/s/f/45-korean-glass-skin-essence-face-pack-cream-k-derma-original-imahzwbkpsvnyh3g.jpeg?q=90",
@@ -2187,7 +3138,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -2195,7 +3147,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "partial",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciText": null,
+   "inciUnverified": "Ceramide, Rice water",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -2206,20 +3181,18 @@ const CTPRODUCTS = [
   "capacityLine": "800 ml (pack of 2)",
   "materialLine": "niacinamide + rice water",
   "featureLine": "Essence · ₹9/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹9/100ml",
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 6,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "400 ml × 2 pack",
@@ -2234,7 +3207,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Rice, Niacinamide",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-body-wash/a/u/x/400-0-korean-body-wash-camellia-essence-skin-care-actives-original-imahzzyfzfnhghzg.jpeg?q=90",
@@ -2264,7 +3244,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:xl",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -2272,7 +3253,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "partial",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciText": null,
+   "inciUnverified": "Rice, Niacinamide",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.5,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -2283,26 +3287,25 @@ const CTPRODUCTS = [
   "capacityLine": "25 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Sheet mask · Paraben-free · ₹1024/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Pricey: ₹1024/100g",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 4.3,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "25 g",
    "pricePer100": "₹1024/100g",
    "format": "Sheet mask",
    "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
@@ -2310,7 +3313,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/g/9/c/25-best-korean-glass-skin-essence-jelly-glow-sheet-mask-sheet-original-imahp6an8qgjcf2d.jpeg?q=90",
@@ -2341,7 +3351,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -2349,7 +3360,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -2360,20 +3394,18 @@ const CTPRODUCTS = [
   "capacityLine": "800 ml (pack of 2)",
   "materialLine": "niacinamide + rice water + aloe vera",
   "featureLine": "Essence · ₹25/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹25/100ml",
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 6.8,
-   "experience": 5.1
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "400 ml × 2 pack",
@@ -2388,7 +3420,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Rice, Niacinamide",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/4/v/j/100-aloe-vera-body-wash-natural-bath-gel-for-family-1-brinexa-original-imahpyn9zsszzgey.jpeg?q=90",
@@ -2418,7 +3457,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:xl",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -2426,7 +3466,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "partial",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciText": null,
+   "inciUnverified": "Rice, Niacinamide",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.5,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -2437,20 +3500,18 @@ const CTPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "niacinamide + rice water",
   "featureLine": "Essence · ₹34/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹34/100ml",
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 6,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "200 ml",
@@ -2465,7 +3526,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Rice, Niacinamide",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/body-wash/r/f/7/200-0-korean-skin-whitening-body-wash-with-enrich-green-tea-original-imahzma4utkjxqd6.jpeg?q=90",
@@ -2495,7 +3563,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:large",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -2503,7 +3572,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "partial",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciText": null,
+   "inciUnverified": "Rice, Niacinamide",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.5,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -2514,26 +3606,25 @@ const CTPRODUCTS = [
   "capacityLine": "25 g",
   "materialLine": "tea tree + charcoal",
   "featureLine": "Sheet mask · Paraben-free · ₹1148/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Pricey: ₹1148/100g",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 5.1,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "25 g",
    "pricePer100": "₹1148/100g",
    "format": "Sheet mask",
    "keyIngredients": "tea tree, charcoal (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim",
@@ -2541,7 +3632,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/c/g/l/25-korean-glass-skin-essence-jelly-sheet-mask-for-bright-and-original-imahp8f8s5gshahg.jpeg?q=90",
@@ -2575,7 +3673,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -2583,30 +3682,51 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
   "id": "k-derma-itm948d29ff31831",
-  "brand": "K DERMA",
+  "brand": "K Derma",
   "model": "Korean Glass Skin Essence Facial Kit | Scrub, Gel, Face P …",
   "price": 860,
   "capacityLine": "1600 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Mask / pack · ₹54/100g",
-  "highlight": "Live Flipkart listing rated 4★ by 4 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹54/100g"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "Ingredients are named by common / trade names, not INCI names — formula unscored",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.2,
-   "skin": 4,
-   "ingredients": 4.5,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 2.9
   },
   "fullSpec": {
    "quantity": "1600 g",
@@ -2621,7 +3741,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "4/5 (4 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Ingredients are named by common / trade names, not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Rice Water – Rich in amino acids and antioxidants, it brightens, hydrates, and improves skin clarity, Ceramide Complex – Helps reinforce the skin’s natural barrier, lock in moisture, and protect against environmental stressors—keeping your skin smooth, plump, and healthy",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 4 ratings"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/facial-kit/g/a/h/1520-korean-glass-skin-essence-facial-kit-scrub-gel-face-pack-original-imahzx8qhgbqgg6v.jpeg?q=90",
@@ -2657,7 +3784,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:xl",
    "rating:4.0",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -2665,7 +3793,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "partial",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciText": null,
+   "inciUnverified": "Rice Water – Rich in amino acids and antioxidants, it brightens, hydrates, and improves skin clarity, Ceramide Complex – Helps reinforce the skin’s natural barrier, lock in moisture, and protect against environmental stressors—keeping your skin smooth, plump, and healthy",
+   "inciNote": "Ingredients are named by common / trade names, not INCI names — a seller summary, not the declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.2,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 4 ratings"
   }
  },
  {
@@ -2676,20 +3827,18 @@ const CTPRODUCTS = [
   "capacityLine": "100 g",
   "materialLine": "kojic acid + papaya",
   "featureLine": "Wash / cleanser · ₹76/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹76/100g",
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "100 g",
@@ -2704,7 +3853,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/soap/o/m/s/1-100-korean-beauty-essence-soap-for-daily-cleansing-routine-original-imahz8p24mfhbz32.jpeg?q=90",
@@ -2732,7 +3888,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:standard",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -2740,7 +3897,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -2751,26 +3931,25 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Toner · Paraben-free · ₹154/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹154/100ml",
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "Only 4 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 4.5,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹154/100ml",
    "format": "Toner",
    "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim, Acne/blemish claim",
@@ -2778,7 +3957,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: ginseng extract, purified water, herbal anti-aging complex, natural plant-based emollients",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/b/7/z/100-korean-glow-ginseng-essence-water-anti-wrinkle-resurfacing-original-imahexpeda5zgqcr.jpeg?q=90",
@@ -2807,7 +3993,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:standard",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -2815,7 +4002,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "partial",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciText": null,
+   "inciUnverified": "ginseng extract, purified water, herbal anti-aging complex, natural plant-based emollients",
+   "inciNote": "Only 4 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.5,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -2826,26 +4036,25 @@ const CTPRODUCTS = [
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "aloe vera + rose",
   "featureLine": "Toner · Paraben-free · ₹52/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹52/100ml",
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "Only 3 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 5.3,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹52/100ml",
    "format": "Toner",
    "keyIngredients": "aloe vera, rose (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
@@ -2853,7 +4062,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: ginsen,flax seed,chia seed,etc",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/e/z/l/100-ginseng-essence-water-100ml-korean-toner-to-nourish-sooths-original-imah735vyuhnpyfz.jpeg?q=90",
@@ -2889,7 +4105,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:large",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -2897,7 +4114,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "partial",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciText": null,
+   "inciUnverified": "ginsen,flax seed,chia seed,etc",
+   "inciNote": "Only 3 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0.67,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -2908,26 +4148,25 @@ const CTPRODUCTS = [
   "capacityLine": "25 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Sheet mask · Paraben-free · ₹1024/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Pricey: ₹1024/100g",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 4.3,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "25 g",
    "pricePer100": "₹1024/100g",
    "format": "Sheet mask",
    "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
@@ -2935,7 +4174,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/u/y/k/25-korean-glass-skin-essence-jelly-glow-sheet-mask-sheet-mask-original-imahp6ebjbcb469t.jpeg?q=90",
@@ -2969,7 +4215,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -2977,7 +4224,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -2988,20 +4258,18 @@ const CTPRODUCTS = [
   "capacityLine": "760 g (pack of 2)",
   "materialLine": "niacinamide + hyaluronic acid + walnut",
   "featureLine": "Essence · ₹29/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹29/100g",
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 6.2,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "380 g × 2 pack",
@@ -3016,7 +4284,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/v/y/380-korean-glass-skin-essence-cream-with-hyaluronic-acid-original-imahzqgfnq77rqnz.jpeg?q=90",
@@ -3044,7 +4319,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:xl",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -3052,7 +4328,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -3063,26 +4362,25 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence · Paraben-free · ₹1228/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Pricey: ₹1228/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 5.1,
-   "ingredients": 4.5,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹1228/100ml",
    "format": "Essence",
    "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free, Sulfate/SLS-free (per listing)",
+   "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Not stated in listing",
@@ -3090,7 +4388,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/h/z/n/100-advanced-snail-96-mucin-power-essence-serum-cosrex-original-imahq7wgtmggnumq.jpeg?q=90",
@@ -3112,7 +4417,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:standard",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -3120,7 +4426,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -3131,25 +4460,25 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence · Paraben-free · ₹405/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 4.5,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹405/100ml",
    "format": "Essence",
    "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim, Acne/blemish claim",
@@ -3157,7 +4486,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/f/6/w/100-we-care-we-serve-advanced-snail-96-mucin-power-essence-original-imahfeghcjwvzfpx.jpeg?q=90",
@@ -3187,7 +4523,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:standard",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -3195,7 +4532,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -3206,27 +4566,26 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "rice water",
   "featureLine": "Essence · Paraben-free · ₹1026/100g",
-  "highlight": "Live Flipkart listing rated 5★ by 2 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "Paraben-free (per listing)",
-   "Strong buyer rating (5)"
+   "Well-reviewed: 5★ from 2 ratings"
   ],
   "cons": [
-   "Pricey: ₹1026/100g",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5.1,
-   "skin": 5.1,
-   "ingredients": 4.9,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5.7
   },
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹1026/100g",
    "format": "Essence",
    "keyIngredients": "rice water (per listing)",
-   "freeFrom": "Paraben-free, Sulfate/SLS-free (per listing)",
+   "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim",
@@ -3234,7 +4593,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "5/5 (2 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 2 ratings"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/k/s/i/50-seoul-essence-night-cream-rice-water-korean-magic-hydrating-original-imahnsvk3zufyt4w.jpeg?q=90",
@@ -3262,7 +4628,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:4.5",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -3270,7 +4637,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 2 ratings"
   }
  },
  {
@@ -3281,26 +4671,25 @@ const CTPRODUCTS = [
   "capacityLine": "400 ml (pack of 2)",
   "materialLine": "rice water + aloe vera + vitamin E",
   "featureLine": "Wash / cleanser · Paraben-free · ₹54/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹54/100ml",
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "Seller “key ingredients” line — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 5.5,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "200 ml × 2 pack",
    "pricePer100": "₹54/100ml",
    "format": "Wash / cleanser",
    "keyIngredients": "rice water, aloe vera, vitamin E (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim",
@@ -3308,7 +4697,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Seller “key ingredients” line — no preservative or formulation excipients declared, so this is not a full INCI declaration and formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Aqua, Rice Extract / Rice Water Extract, Fragrance, Centella Asiatica Extract, Niacinamide, Sodium Hyaluronate, Glycerin",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/c/c/5/200-rice-essence-face-toner-pack-of-2-cevlon-original-imahz6pgt29anxpr.jpeg?q=90",
@@ -3339,7 +4735,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:xl",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -3347,7 +4744,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "partial",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciText": null,
+   "inciUnverified": "Aqua, Rice Extract / Rice Water Extract, Fragrance, Centella Asiatica Extract, Niacinamide, Sodium Hyaluronate, Glycerin",
+   "inciNote": "Seller “key ingredients” line — no preservative or formulation excipients declared, so this is not a full INCI declaration and formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -3358,19 +4778,17 @@ const CTPRODUCTS = [
   "capacityLine": "60 ml",
   "materialLine": "rice water",
   "featureLine": "Essence · ₹367/100ml",
-  "highlight": "Live Flipkart listing rated 4.2★ by 6 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Strong buyer rating (4.2)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.5,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.7
   },
   "fullSpec": {
    "quantity": "60 ml",
@@ -3385,7 +4803,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (6 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 6 ratings"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/i/0/8/60-white-rice-skin-beauty-essence-nurti-original-imahk9hfyxye7mzx.jpeg?q=90",
@@ -3404,7 +4829,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:4.0",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -3412,7 +4838,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 6 ratings"
   }
  },
  {
@@ -3423,19 +4872,18 @@ const CTPRODUCTS = [
   "capacityLine": "90 g (pack of 3)",
   "materialLine": "rice water",
   "featureLine": "Essence · ₹230/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹230/100g"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "30 g × 3 pack",
@@ -3450,7 +4898,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/6/n/15-rice-raw-pulp-essence-serum-skin-care-face-glowing-original-original-imahp9fpuwkystyw.jpeg?q=90",
@@ -3479,7 +4934,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:standard",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -3487,7 +4943,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -3498,27 +4977,25 @@ const CTPRODUCTS = [
   "capacityLine": "800 g",
   "materialLine": "niacinamide + rice water + rose",
   "featureLine": "Wash / cleanser · Paraben-free · ₹17/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹17/100g",
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 5,
-   "ingredients": 6.2,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "800 g",
    "pricePer100": "₹17/100g",
    "format": "Wash / cleanser",
    "keyIngredients": "niacinamide, rice water, rose (per listing)",
-   "freeFrom": "Paraben-free, Alcohol-free (per listing)",
+   "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
@@ -3526,7 +5003,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/o/i/1/100-fresh-glow-essence-rice-toner-bright-skin-hydrating-care-original-imahgyagkhamgdaf.jpeg?q=90",
@@ -3557,7 +5041,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:xl",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -3565,7 +5050,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -3576,35 +5084,40 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "vitamin C + rice water + aloe vera",
   "featureLine": "Essence · Paraben-free · ₹292/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 4.4,
-   "skin": 5.3,
-   "ingredients": 6.2,
-   "experience": 5.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹292/100g",
    "format": "Essence",
    "keyIngredients": "vitamin C, rice water, aloe vera (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
    "audience": "Marketed for women",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/i/s/z/50-rice-cream-brightening-essence-daily-lotion-soft-texture-original-imahh6j6ndtt9cwq.jpeg?q=90",
@@ -3637,7 +5150,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -3645,7 +5159,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": true,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -3656,35 +5193,40 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "vitamin C + retinol + rice water",
   "featureLine": "Essence · Paraben-free · ₹292/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 4.4,
-   "skin": 5.3,
-   "ingredients": 6.2,
-   "experience": 5.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹292/100g",
    "format": "Essence",
    "keyIngredients": "vitamin C, retinol, rice water (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
    "audience": "Marketed for women",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/l/3/0/50-rice-cream-glow-essence-hydrating-lotion-firm-skin-texture-original-imahh6j68esrear7.jpeg?q=90",
@@ -3716,7 +5258,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -3724,7 +5267,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": true,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -3735,35 +5301,40 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "retinol + rice water + aloe vera",
   "featureLine": "Essence · Paraben-free · ₹292/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 4.4,
-   "skin": 5.3,
-   "ingredients": 6.2,
-   "experience": 5.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹292/100ml",
    "format": "Essence",
    "keyIngredients": "retinol, rice water, aloe vera (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
    "audience": "Marketed for women",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/u/d/50-rice-cream-daily-glow-hydrating-essence-smooth-skin-winym-original-imahh6j6b7prgyhq.jpeg?q=90",
@@ -3792,7 +5363,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -3800,7 +5372,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": true,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -3811,26 +5406,25 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "rice water",
   "featureLine": "Wash / cleanser · Paraben-free · ₹140/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹140/100ml",
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 4.9,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹140/100ml",
    "format": "Wash / cleanser",
    "keyIngredients": "rice water (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
@@ -3838,7 +5432,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/x/w/5/100-bright-hydration-rice-toner-natural-essence-for-clear-glow-original-imahgy9btg8pqzps.jpeg?q=90",
@@ -3868,7 +5469,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:standard",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -3876,38 +5478,58 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
   "id": "dr-rashel-itmdc4b71adb2c10",
-  "brand": "DR.RASHEL",
+  "brand": "Dr. Rashel",
   "model": "Korean Glass Skin Essence Cream | Infused with Rice Wat …",
   "price": 51,
   "capacityLine": "1140 ml",
   "materialLine": "ceramides + rice water",
   "featureLine": "Essence · Paraben-free · ₹4/100ml",
-  "highlight": "Live Flipkart listing rated 4.1★ by 1,638 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹4/100ml",
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.4,
-   "skin": 4.6,
-   "ingredients": 6,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 6.7
   },
   "fullSpec": {
    "quantity": "1140 ml",
    "pricePer100": "₹4/100ml",
    "format": "Essence",
    "keyIngredients": "ceramides, rice water (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
@@ -3915,7 +5537,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "4.1/5 (1,638 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Rice Water, Ceramide",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 1,638 ratings"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/1/z/o/1140-korean-glass-skin-essence-cream-infused-with-rice-water-and-original-imahqmky2p3zwhwp.jpeg?q=90",
@@ -3945,7 +5574,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:xl",
    "rating:4.0",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -3953,7 +5583,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "partial",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciText": null,
+   "inciUnverified": "Rice Water, Ceramide",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 1,638 ratings"
   }
  },
  {
@@ -3964,26 +5617,25 @@ const CTPRODUCTS = [
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "rice water + rose",
   "featureLine": "Wash / cleanser · Paraben-free · ₹63/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹63/100ml",
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 5.3,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹63/100ml",
    "format": "Wash / cleanser",
    "keyIngredients": "rice water, rose (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
@@ -3991,7 +5643,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/k/e/i/100-brightening-rice-essence-toner-skin-reviving-glow-hydration-original-imahgy2cwhfpk4z8.jpeg?q=90",
@@ -4024,7 +5683,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:large",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -4032,7 +5692,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -4043,34 +5726,40 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "rice water + aloe vera",
   "featureLine": "Essence · Paraben-free · ₹292/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 4.4,
-   "skin": 5.3,
-   "ingredients": 5.1,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹292/100ml",
    "format": "Essence",
    "keyIngredients": "rice water, aloe vera (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
    "audience": "Marketed for women",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/c/y/0/50-rice-cream-moisture-lock-daily-essence-bright-skin-winym-original-imahh6j6huzaeqmh.jpeg?q=90",
@@ -4099,7 +5788,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -4107,7 +5797,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": true,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -4118,35 +5831,40 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "vitamin C + rice water",
   "featureLine": "Essence · Paraben-free · ₹316/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 4.4,
-   "skin": 5.3,
-   "ingredients": 5.8,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹316/100ml",
    "format": "Essence",
    "keyIngredients": "vitamin C, rice water (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
    "audience": "Marketed for women",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/w/v/z/50-rice-cream-glow-lotion-hydrating-essence-skin-renewal-winym-original-imahh6j6g58uvhhe.jpeg?q=90",
@@ -4178,7 +5896,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -4186,7 +5905,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": true,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -4197,35 +5939,40 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "vitamin C + rice water",
   "featureLine": "Essence · Paraben-free · ₹316/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 4.4,
-   "skin": 5.3,
-   "ingredients": 5.8,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹316/100g",
    "format": "Essence",
    "keyIngredients": "vitamin C, rice water (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Brightening/glow claim, Anti-aging claim",
    "audience": "Marketed for women",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/j/4/50-rice-cream-brightening-essence-deep-moisture-care-even-skin-original-imahh6j6nxbzdhxh.jpeg?q=90",
@@ -4253,7 +6000,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -4261,7 +6009,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": true,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -4272,26 +6043,25 @@ const CTPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "rice water + aloe vera + shea butter",
   "featureLine": "Essence · Paraben-free · ₹27/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹27/100ml",
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 5.4,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹27/100ml",
    "format": "Essence",
    "keyIngredients": "rice water, aloe vera, shea butter (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating",
@@ -4299,7 +6069,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Aloe Vera, Shea Butter",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/p/b/e/200-0-rice-essence-lotion-daily-comfort-smooth-texture-rice-body-original-imahgwjunahvhxrj.jpeg?q=90",
@@ -4328,7 +6105,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:large",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -4336,7 +6114,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "partial",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciText": null,
+   "inciUnverified": "Aloe Vera, Shea Butter",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -4347,26 +6148,25 @@ const CTPRODUCTS = [
   "capacityLine": "800 ml (pack of 4)",
   "materialLine": "rice water + honey + almond",
   "featureLine": "Essence · Paraben-free · ₹20/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹20/100ml",
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "Only 2 ingredients named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 5.4,
-   "experience": 5.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "200 ml × 4 pack",
    "pricePer100": "₹20/100ml",
    "format": "Essence",
    "keyIngredients": "rice water, honey, almond (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim",
@@ -4374,7 +6174,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Rice Extract, Argan Oil",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/e/3/o/200-0-rice-essence-body-lotion-balanced-clean-feel-for-men-women-original-imahgwga9z3tpkba.jpeg?q=90",
@@ -4406,7 +6213,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:xl",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -4414,7 +6222,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "partial",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciText": null,
+   "inciUnverified": "Rice Extract, Argan Oil",
+   "inciNote": "Only 2 ingredients named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -4425,20 +6256,19 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "rice water + clay/mud",
   "featureLine": "Essence · ₹152/100ml",
-  "highlight": "Live Flipkart listing rated 4.4★ by 8 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "Good value: ₹152/100ml",
-   "Strong buyer rating (4.4)"
+   "Well-reviewed: 4.4★ from 8 ratings"
   ],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.8,
-   "skin": 4,
-   "ingredients": 5.3,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 4.5
   },
   "fullSpec": {
    "quantity": "100 ml",
@@ -4453,7 +6283,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (8 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Ingredients field",
+   "inciList": "Unverified seller line: Fermented Rice Water Spray",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 8 ratings"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/hair-treatment/b/e/8/100-essence-fermented-rice-water-spray-korean-skincare-for-glass-original-imahkyvxmzfjyjay.jpeg?q=90",
@@ -4483,7 +6320,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:standard",
    "rating:4.0",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -4491,7 +6329,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "partial",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Ingredients field",
+   "inciText": null,
+   "inciUnverified": "Fermented Rice Water Spray",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 1,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 8 ratings"
   }
  },
  {
@@ -4502,25 +6363,25 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "rice water",
   "featureLine": "Sunscreen · Paraben-free · SPF 60 · ₹846/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 4.4,
-   "experience": 5.3
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹846/100g",
    "format": "Sunscreen",
    "keyIngredients": "rice water (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim, SPF 60",
@@ -4528,7 +6389,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/3/h/i/50-rice-essence-cooling-uv-defense-gel-60-kumijashi-original-imahnh5s3huy47gd.jpeg?q=90",
@@ -4557,7 +6425,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -4565,7 +6434,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -4576,25 +6468,25 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "rice water",
   "featureLine": "Sunscreen · Paraben-free · SPF 60 · ₹846/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 4.4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹846/100g",
    "format": "Sunscreen",
    "keyIngredients": "rice water (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Brightening/glow claim, SPF 60",
@@ -4602,7 +6494,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sunscreen/z/b/l/50-rice-essence-gentle-daily-uv-cream-60-kumijashi-original-imahnh5sk88vzcjk.jpeg?q=90",
@@ -4629,7 +6528,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -4637,7 +6537,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -4648,35 +6571,40 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "peptides",
   "featureLine": "Essence · Paraben-free · ₹295/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 4.4,
-   "skin": 5.3,
-   "ingredients": 5.4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹295/100ml",
    "format": "Essence",
    "keyIngredients": "peptides (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Anti-aging claim",
    "audience": "Marketed for women",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: SERUM",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/j/r/200-0-gold-micro-peptide-tallow-essence-anti-wrinkle-skin-original-imahk68ynphy33se.jpeg?q=90",
@@ -4704,7 +6632,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:standard",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -4712,7 +6641,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": true,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "partial",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciText": null,
+   "inciUnverified": "SERUM",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -4723,35 +6675,40 @@ const CTPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "peptides",
   "featureLine": "Essence · Paraben-free · ₹148/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹148/100ml",
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 4.4,
-   "skin": 5.3,
-   "ingredients": 5.4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "200 ml",
    "pricePer100": "₹148/100ml",
    "format": "Essence",
    "keyIngredients": "peptides (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Anti-aging claim",
    "audience": "Marketed for women",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: SERUM",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/n/j/r/200-0-gold-micro-peptide-tallow-essence-anti-wrinkle-skin-original-imahk68ynphy33se.jpeg?q=90"
@@ -4775,7 +6732,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:large",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:partial"
   ],
   "filters": {
    "actives": true,
@@ -4783,7 +6741,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": true,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "partial",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciText": null,
+   "inciUnverified": "SERUM",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -4794,19 +6775,18 @@ const CTPRODUCTS = [
   "capacityLine": "120 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Wash / cleanser · ₹208/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹208/100ml"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.5,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "120 ml",
@@ -4821,7 +6801,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/l5ld8y80/body-skin-treatment/w/x/x/120-whitening-moisturizing-cream-essence-facial-face-care-oil-original-imagg8fz7r3hegzc.jpeg?q=90"
@@ -4850,7 +6837,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:standard",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -4858,7 +6846,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -4869,26 +6880,25 @@ const CTPRODUCTS = [
   "capacityLine": "60 g",
   "materialLine": "vitamin C + aloe vera + charcoal",
   "featureLine": "Mask / pack · Paraben-free · ₹262/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 6.4,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "60 g",
    "pricePer100": "₹262/100g",
    "format": "Mask / pack",
    "keyIngredients": "vitamin C, aloe vera, charcoal (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
@@ -4896,7 +6906,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/face-pack/7/h/d/60-gold-collagen-essence-peel-off-mask-for-lightens-skin-dark-original-imaherusswhnkgeu.jpeg?q=90",
@@ -4933,7 +6950,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:standard",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -4941,7 +6959,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -4952,25 +6993,25 @@ const CTPRODUCTS = [
   "capacityLine": "60 g",
   "materialLine": "vitamin E",
   "featureLine": "Essence · Alcohol-free · ₹437/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Alcohol-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.4,
-   "ingredients": 4.7,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "60 g",
    "pricePer100": "₹437/100g",
    "format": "Essence",
    "keyIngredients": "vitamin E (per listing)",
-   "freeFrom": "Alcohol-free (per listing)",
+   "freeFrom": "Alcohol-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
@@ -4978,7 +7019,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/primer/f/7/k/30-vitamin-e-capsule-whitening-capsule-skin-face-care-na-tanvi27-original-imagzez4hjzucrq7.jpeg?q=90",
@@ -5012,7 +7060,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -5020,7 +7069,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -5031,27 +7103,24 @@ const CTPRODUCTS = [
   "capacityLine": "110 ml",
   "materialLine": "hyaluronic acid + rice water",
   "featureLine": "Toner · Alcohol-free · ₹157/100ml",
-  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹157/100ml",
-   "Contains evidence-backed actives (per listing)",
-   "Alcohol-free (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.5,
-   "skin": 4.4,
-   "ingredients": 6,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
   },
   "fullSpec": {
    "quantity": "110 ml",
    "pricePer100": "₹157/100ml",
    "format": "Toner",
    "keyIngredients": "hyaluronic acid, rice water (per listing)",
-   "freeFrom": "Alcohol-free (per listing)",
+   "freeFrom": "Alcohol-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim",
@@ -5059,7 +7128,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51jIixo3pgL._AC_UL320_.jpg"
@@ -5085,7 +7161,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -5093,7 +7170,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
   }
  },
  {
@@ -5104,27 +7204,26 @@ const CTPRODUCTS = [
   "capacityLine": "110 ml",
   "materialLine": "ceramides + rice water",
   "featureLine": "Toner · Alcohol-free · ₹175/100ml",
-  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. Scored from its published INCI list (Amazon.in listing — Important information › Ingredients): evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "Good value: ₹175/100ml",
-   "Contains evidence-backed actives (per listing)",
-   "Alcohol-free (per listing)"
+   "glycerin high on the INCI list (strong evidence); hyaluronic acid high on the INCI list (moderate evidence)"
   ],
   "cons": [
-   "Marketplace brand — limited track record"
+   "Added fragrance (parfum): fragrance",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.5,
-   "skin": 4.4,
-   "ingredients": 5.5,
-   "experience": 4.9
+   "ingredients": 5.7,
+   "skin": 5.9,
+   "trust": 5.5,
+   "experience": 2.6
   },
   "fullSpec": {
    "quantity": "110 ml",
    "pricePer100": "₹175/100ml",
    "format": "Toner",
    "keyIngredients": "ceramides, rice water (per listing)",
-   "freeFrom": "Alcohol-free (per listing)",
+   "freeFrom": "Alcohol-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim",
@@ -5132,7 +7231,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Full INCI list published on the listing — formula and safety scored from it",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciList": "Aqua (Water), Cyamopsis Tetragonoloba (Guar) Gum, Glycerine, Oryza Sativa (Rice) Water, Propanediol, Hyaluronic Acid, Panthenol, Tocopherol Acetate (Vitamin E), Sodium Gluconate, PEG-40 Hydrogenated Castor Oil, Fragrance (IFRA Certified Safe & Allergen Free).",
+   "evidenceActives": "glycerin (#3 on list, strong evidence); hyaluronic acid (#6 on list, moderate evidence); panthenol (#7 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): fragrance (−1.5)",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51L9DiD82vL._AC_UL320_.jpg"
@@ -5156,7 +7262,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:standard",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:full"
   ],
   "filters": {
    "actives": true,
@@ -5164,7 +7271,74 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "full",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "full",
+   "inciSource": "Amazon.in listing — Important information › Ingredients",
+   "inciText": "Aqua (Water), Cyamopsis Tetragonoloba (Guar) Gum, Glycerine, Oryza Sativa (Rice) Water, Propanediol, Hyaluronic Acid, Panthenol, Tocopherol Acetate (Vitamin E), Sodium Gluconate, PEG-40 Hydrogenated Castor Oil, Fragrance (IFRA Certified Safe & Allergen Free).",
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 3,
+     "core": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "hyaluronic acid",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "src": "ha"
+    },
+    {
+     "name": "panthenol",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "src": "panthenol"
+    },
+    {
+     "name": "tocopheryl acetate",
+     "grade": "B",
+     "position": 8,
+     "core": false,
+     "src": "vitc"
+    }
+   ],
+   "support": [
+    "glycerin",
+    "propanediol",
+    "hyaluronic acid",
+    "panthenol"
+   ],
+   "formulaNotes": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    }
+   ],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
   }
  },
  {
@@ -5175,27 +7349,25 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "colloidal oatmeal + ceramides + rice water",
   "featureLine": "Toner · Alcohol-free · ₹461/100ml",
-  "highlight": "Live Amazon listing rated 4.5★ by Get it faster buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Alcohol-free (per listing)",
-   "Strong buyer rating (4.5)"
+   "Well-reviewed: 4.5★ from 0 ratings"
   ],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing"
   ],
   "scores": {
+   "ingredients": 0,
+   "skin": 0,
    "trust": 5,
-   "skin": 4.4,
-   "ingredients": 5.9,
-   "experience": 4.9
+   "experience": 3.5
   },
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹461/100ml",
    "format": "Toner",
    "keyIngredients": "colloidal oatmeal, ceramides, rice water (per listing)",
-   "freeFrom": "Alcohol-free (per listing)",
+   "freeFrom": "Alcohol-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating",
@@ -5203,7 +7375,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.5/5 (Get it faster ratings, Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.5★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51dxq7D9C5L._AC_UL320_.jpg"
@@ -5224,7 +7403,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -5232,7 +7412,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Kreative Beauty Pvt Ltd (Hyphen)",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.letshyphen.com/"
+   },
+   "buyers": "4.5★ from 0 ratings"
   }
  },
  {
@@ -5243,21 +7446,17 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "niacinamide + hyaluronic acid + peptides",
   "featureLine": "Toner · ₹1698/100ml",
-  "highlight": "Live Amazon listing rated 4.7★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.7)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1698/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5.1,
-   "skin": 4,
-   "ingredients": 5.9,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 4.2
   },
   "fullSpec": {
    "quantity": "100 ml",
@@ -5272,7 +7471,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.7/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.7★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61AdSRtu61L._AC_UL320_.jpg"
@@ -5294,7 +7500,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -5302,7 +7509,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.7★ from 0 ratings"
   }
  },
  {
@@ -5313,18 +7543,17 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Toner · ₹997/100ml",
-  "highlight": "Live Amazon listing rated 3.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (3.0)",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 3,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.6
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "30 ml",
@@ -5339,7 +7568,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "3.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Nl0bMrfYL._AC_UL320_.jpg"
@@ -5357,7 +7593,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:low",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -5365,7 +7602,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3★ from 0 ratings"
   }
  },
  {
@@ -5376,24 +7636,23 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Toner · Paraben-free · ₹960/100ml",
-  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Paraben-free (per listing)",
-   "Strong buyer rating (4.2)"
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
   ],
-  "cons": [],
   "scores": {
-   "trust": 6.3,
-   "skin": 4.6,
-   "ingredients": 4.3,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6,
+   "experience": 2.6
   },
   "fullSpec": {
    "quantity": "50 ml",
    "pricePer100": "₹960/100ml",
    "format": "Toner",
    "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Brightening/glow claim",
@@ -5401,7 +7660,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Lotus Herbals — Established / listed Indian FMCG house",
+   "buyerEvidence": "4.2★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Lw2HbartL._AC_UL320_.jpg"
@@ -5420,7 +7686,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -5428,7 +7695,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Lotus Herbals",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://www.lotusherbals.com/pages/about-us"
+   },
+   "buyers": "4.2★ from 0 ratings"
   }
  },
  {
@@ -5439,18 +7729,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Toner",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.6
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -5465,7 +7755,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/21z32fT8e7L._AC_UL320_.jpg"
@@ -5482,7 +7779,8 @@ const CTPRODUCTS = [
    "claim:lightweight",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -5490,7 +7788,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -5501,18 +7822,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Toner",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.6
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -5527,7 +7848,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/213z0-1mk7L._AC_UL320_.jpg"
@@ -5544,7 +7872,8 @@ const CTPRODUCTS = [
    "claim:lightweight",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -5552,7 +7881,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -5563,19 +7915,18 @@ const CTPRODUCTS = [
   "capacityLine": "110 ml",
   "materialLine": "hyaluronic acid",
   "featureLine": "Toner · ₹726/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.6
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "110 ml",
@@ -5590,7 +7941,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41--qVD4tiL._AC_UL320_.jpg"
@@ -5608,7 +7966,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -5616,7 +7975,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -5627,17 +8009,18 @@ const CTPRODUCTS = [
   "capacityLine": "120 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Toner · ₹666/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "120 ml",
@@ -5652,7 +8035,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61BtfAtGh5L._AC_UL320_.jpg"
@@ -5671,7 +8061,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -5679,7 +8070,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -5690,20 +8104,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "niacinamide + hyaluronic acid + rice water",
   "featureLine": "Toner",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 6.3,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -5718,7 +8130,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71PB6K4G7uL._AC_UL320_.jpg"
@@ -5739,7 +8158,8 @@ const CTPRODUCTS = [
    "claim:korean",
    "aud:women",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -5747,7 +8167,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -5758,19 +8201,16 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "rose",
   "featureLine": "Toner · ₹63/100ml",
-  "highlight": "Live Amazon listing rated 3.9★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹63/100ml"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (3.9)"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "trust": 5.1,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 1.6
   },
   "fullSpec": {
    "quantity": "100 ml",
@@ -5785,7 +8225,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Nature's Essence — Indian D2C brand with its own product company",
+   "buyerEvidence": "3.9★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51lQ3iqi2WL._AC_UL320_.jpg"
@@ -5801,7 +8248,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:3.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -5809,7 +8257,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Nature's Essence",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.naturesessence.in/"
+   },
+   "buyers": "3.9★ from 0 ratings"
   }
  },
  {
@@ -5820,18 +8291,16 @@ const CTPRODUCTS = [
   "capacityLine": "960 ml (pack of 8)",
   "materialLine": "rose",
   "featureLine": "Toner · ₹38/100ml",
-  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹38/100ml"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing"
+   "No ingredient list published on the listing"
   ],
   "scores": {
+   "ingredients": 0,
+   "skin": 0,
    "trust": 6,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.6
+   "experience": 1.9
   },
   "fullSpec": {
    "quantity": "120 ml × 8 pack",
@@ -5846,7 +8315,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Patanjali Ayurved — Established / listed Indian FMCG house",
+   "buyerEvidence": "4★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71JiGV3Ua7L._AC_UL320_.jpg"
@@ -5864,7 +8340,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:xl",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -5872,38 +8349,58 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Patanjali Ayurved",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://www.patanjaliayurved.net/"
+   },
+   "buyers": "4★ from 0 ratings"
   }
  },
  {
-  "id": "rice-b0gysj7qs2",
-  "brand": "Rice",
-  "model": "Toner | Korean Skincare Face Toner with Hydrating Glow | Essence Alcohol Free Fragrance Fr…",
+  "id": "unbranded-b0gysj7qs2",
+  "brand": "Unbranded",
+  "model": "Rice Toner | Korean Skincare Face Toner with Hydrating Glow | Essence Alcohol Free Fragran…",
   "price": 299,
   "capacityLine": "20 ml",
   "materialLine": "rice water",
   "featureLine": "Toner · Fragrance-free · ₹1495/100ml",
-  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Fragrance-free (per listing)",
-   "Strong buyer rating (5.0)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Pricey: ₹1495/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5.1,
-   "skin": 4.9,
-   "ingredients": 4.4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
   },
   "fullSpec": {
    "quantity": "20 ml",
    "pricePer100": "₹1495/100ml",
    "format": "Toner",
    "keyIngredients": "rice water (per listing)",
-   "freeFrom": "Fragrance-free, Alcohol-free (per listing)",
+   "freeFrom": "Fragrance-free, Alcohol-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim",
@@ -5911,7 +8408,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51DZCU57EdL._AC_UL320_.jpg"
@@ -5936,7 +8440,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -5944,7 +8449,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
   }
  },
  {
@@ -5955,20 +8483,17 @@ const CTPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "hyaluronic acid + ceramides + peptides",
   "featureLine": "Toner · ₹276/100ml",
-  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.2)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.5,
-   "skin": 4,
-   "ingredients": 5.9,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
   },
   "fullSpec": {
    "quantity": "200 ml",
@@ -5983,7 +8508,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61aVndinkGL._AC_UL320_.jpg"
@@ -6007,7 +8539,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:large",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -6015,7 +8548,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
   }
  },
  {
@@ -6026,19 +8582,16 @@ const CTPRODUCTS = [
   "capacityLine": "150 ml",
   "materialLine": "hyaluronic acid + ceramides + rice water",
   "featureLine": "Toner · ₹251/100ml",
-  "highlight": "Live Amazon listing rated 3.9★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (3.9)"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "trust": 5.9,
-   "skin": 4,
-   "ingredients": 5.9,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6,
+   "experience": 1.6
   },
   "fullSpec": {
    "quantity": "150 ml",
@@ -6053,7 +8606,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Nykaa (FSN E-Commerce, listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "3.9★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51xhx2hc8tL._AC_UL320_.jpg"
@@ -6076,7 +8636,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:large",
    "rating:3.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -6084,7 +8645,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Nykaa (FSN E-Commerce, listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://www.nykaa.com/"
+   },
+   "buyers": "3.9★ from 0 ratings"
   }
  },
  {
@@ -6095,19 +8679,17 @@ const CTPRODUCTS = [
   "capacityLine": "150 ml",
   "materialLine": "centella/cica",
   "featureLine": "Toner · ₹969/100ml",
-  "highlight": "Live Amazon listing rated 4.7★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Strong buyer rating (4.7)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5.1,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.6
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 4.2
   },
   "fullSpec": {
    "quantity": "150 ml",
@@ -6122,7 +8704,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.7/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.7★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51C87x7JV7L._AC_UL320_.jpg"
@@ -6143,7 +8732,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:large",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -6151,7 +8741,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.7★ from 0 ratings"
   }
  },
  {
@@ -6162,19 +8775,17 @@ const CTPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Toner · ₹473/100ml",
-  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Strong buyer rating (4.3)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.7,
-   "skin": 4,
-   "ingredients": 4.3,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
   },
   "fullSpec": {
    "quantity": "200 ml",
@@ -6189,7 +8800,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51JKh7B+NxL._SL1000_.jpg",
@@ -6218,7 +8836,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:large",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -6226,38 +8845,58 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
   }
  },
  {
-  "id": "rice-b0g1hgnysd",
-  "brand": "Rice",
-  "model": "Toner, Milky Toners for Glowing Skin, Rice Water Korean, Glow Essence with Niacinamide,Hyd…",
+  "id": "unbranded-b0g1hgnysd",
+  "brand": "Unbranded",
+  "model": "Rice Toner, Milky Toners for Glowing Skin, Rice Water Korean, Glow Essence with Niacinamid…",
   "price": 189,
   "capacityLine": "100 ml",
   "materialLine": "niacinamide + rice water",
   "featureLine": "Toner · Fragrance-free · ₹189/100ml",
-  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹189/100ml",
-   "Contains evidence-backed actives (per listing)",
-   "Fragrance-free (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5.1,
-   "skin": 4.5,
-   "ingredients": 6,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
   },
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹189/100ml",
    "format": "Toner",
    "keyIngredients": "niacinamide, rice water (per listing)",
-   "freeFrom": "Fragrance-free (per listing)",
+   "freeFrom": "Fragrance-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim",
@@ -6265,7 +8904,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61QCyRt6ezL._AC_UL320_.jpg"
@@ -6290,7 +8936,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -6298,7 +8945,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
   }
  },
  {
@@ -6309,27 +8979,24 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "salicylic acid (BHA) + rice water + turmeric",
   "featureLine": "Scrub / exfoliant · Alcohol-free · ₹999/100ml",
-  "highlight": "Live Amazon listing rated 4.8★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Alcohol-free (per listing)",
-   "Strong buyer rating (4.8)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5.1,
-   "skin": 4.4,
-   "ingredients": 5.9,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 4.5
   },
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹999/100ml",
    "format": "Scrub / exfoliant",
    "keyIngredients": "salicylic acid (BHA), rice water, turmeric (per listing)",
-   "freeFrom": "Alcohol-free (per listing)",
+   "freeFrom": "Alcohol-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim",
@@ -6337,7 +9004,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.8/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.8★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41nu47yIYxL._AC_UL320_.jpg"
@@ -6362,7 +9036,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -6370,36 +9045,59 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.8★ from 0 ratings"
   }
  },
  {
-  "id": "generic-b0gjlz9whq",
-  "brand": "Generic",
+  "id": "unbranded-b0gjlz9whq",
+  "brand": "Unbranded",
   "model": "Face Toner with Witch Hazel Rose Essence & Aloemist | Alcohol-Free Hydrating Toner for Oil…",
   "price": 252,
   "capacityLine": "100 ml",
   "materialLine": "aloe vera + rose + witch hazel",
   "featureLine": "Toner · Alcohol-free · ₹252/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Alcohol-free (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.4,
-   "ingredients": 5.2,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹252/100ml",
    "format": "Toner",
    "keyIngredients": "aloe vera, rose, witch hazel (per listing)",
-   "freeFrom": "Alcohol-free (per listing)",
+   "freeFrom": "Alcohol-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
@@ -6407,7 +9105,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/311DyEc4JNL._AC_UL320_.jpg"
@@ -6432,7 +9137,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:standard",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -6440,7 +9146,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -6451,27 +9180,24 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "niacinamide + hyaluronic acid + rose",
   "featureLine": "Toner · Alcohol-free · ₹449/100ml",
-  "highlight": "Live Amazon listing rated 4.7★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Alcohol-free (per listing)",
-   "Strong buyer rating (4.7)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5.1,
-   "skin": 4.4,
-   "ingredients": 6.3,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 4.2
   },
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹449/100ml",
    "format": "Toner",
    "keyIngredients": "niacinamide, hyaluronic acid, rose, witch hazel (per listing)",
-   "freeFrom": "Alcohol-free (per listing)",
+   "freeFrom": "Alcohol-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim",
@@ -6479,7 +9205,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.7/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.7★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51mz+sUuI5L._AC_UL320_.jpg"
@@ -6503,7 +9236,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -6511,7 +9245,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.7★ from 0 ratings"
   }
  },
  {
@@ -6522,26 +9279,25 @@ const CTPRODUCTS = [
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "niacinamide + hyaluronic acid + rose",
   "featureLine": "Toner · Alcohol-free · ₹450/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Alcohol-free (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.4,
-   "ingredients": 6.3,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹450/100ml",
    "format": "Toner",
    "keyIngredients": "niacinamide, hyaluronic acid, rose, witch hazel (per listing)",
-   "freeFrom": "Alcohol-free (per listing)",
+   "freeFrom": "Alcohol-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating",
@@ -6549,7 +9305,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61gjU5ow4NL._AC_UL320_.jpg"
@@ -6572,7 +9335,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:large",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -6580,7 +9344,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -6591,26 +9378,25 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "rice water + aloe vera + witch hazel",
   "featureLine": "Toner · Alcohol-free · ₹199/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹199/100ml",
-   "Alcohol-free (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.4,
-   "ingredients": 5.2,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹199/100ml",
    "format": "Toner",
    "keyIngredients": "rice water, aloe vera, witch hazel (per listing)",
-   "freeFrom": "Alcohol-free (per listing)",
+   "freeFrom": "Alcohol-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim",
@@ -6618,7 +9404,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71I+1Xc72xL._AC_UL320_.jpg"
@@ -6642,7 +9435,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -6650,7 +9444,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -6661,18 +9478,16 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "niacinamide + hyaluronic acid + peptides",
   "featureLine": "Essence · ₹778/100ml",
-  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "trust": 5.3,
-   "skin": 4,
-   "ingredients": 5.9,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 1.9
   },
   "fullSpec": {
    "quantity": "50 ml",
@@ -6687,7 +9502,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Conscious Chemist — Indian D2C brand with its own product company",
+   "buyerEvidence": "4★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61GF-+uGkdL._AC_UL320_.jpg"
@@ -6707,7 +9529,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -6715,31 +9538,50 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Conscious Chemist",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://consciouschemist.com/"
+   },
+   "buyers": "4★ from 0 ratings"
   }
  },
  {
   "id": "l-oreal-b082l8mvd4",
-  "brand": "L'Oreal",
+  "brand": "L'Oréal",
   "model": "Paris Revitalift Crystal Micro-Essence, Ultra-lightweight facial essence, With Salicylic A…",
   "price": 750,
   "capacityLine": "65 ml",
   "materialLine": "salicylic acid (BHA)",
   "featureLine": "Essence · ₹1154/100ml",
-  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.2)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1154/100ml"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "trust": 6.3,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
+   "experience": 2.6
   },
   "fullSpec": {
    "quantity": "65 ml",
@@ -6754,7 +9596,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "L'Oréal — Global FMCG or beauty group",
+   "buyerEvidence": "4.2★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Tlck-AU7L._AC_UL320_.jpg"
@@ -6770,7 +9619,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -6778,30 +9628,50 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "L'Oréal",
+    "kind": "global",
+    "label": "Global FMCG or beauty group",
+    "pts": 6.5,
+    "url": "https://www.loreal.com/en/our-global-brands-portfolio/"
+   },
+   "buyers": "4.2★ from 0 ratings"
   }
  },
  {
   "id": "l-oreal-b0819wh3vr",
-  "brand": "L'Oreal",
+  "brand": "L'Oréal",
   "model": "Paris Revitalift Crystal Micro-Essence, Ultra-lightweight facial essence, With Salicylic A…",
   "price": 779,
   "capacityLine": "130 ml",
   "materialLine": "salicylic acid (BHA)",
   "featureLine": "Essence · ₹599/100ml",
-  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.3)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing"
+   "No ingredient list published on the listing"
   ],
   "scores": {
+   "ingredients": 0,
+   "skin": 0,
    "trust": 6.5,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.5
+   "experience": 2.9
   },
   "fullSpec": {
    "quantity": "130 ml",
@@ -6816,7 +9686,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "L'Oréal — Global FMCG or beauty group",
+   "buyerEvidence": "4.3★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41YuXHKkXgL._AC_UL320_.jpg"
@@ -6832,7 +9709,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:large",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -6840,7 +9718,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "L'Oréal",
+    "kind": "global",
+    "label": "Global FMCG or beauty group",
+    "pts": 6.5,
+    "url": "https://www.loreal.com/en/our-global-brands-portfolio/"
+   },
+   "buyers": "4.3★ from 0 ratings"
   }
  },
  {
@@ -6851,18 +9752,16 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "hyaluronic acid",
   "featureLine": "Essence · ₹798/100ml",
-  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing"
+   "No ingredient list published on the listing"
   ],
   "scores": {
+   "ingredients": 0,
+   "skin": 0,
    "trust": 6,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 5.2
+   "experience": 1.9
   },
   "fullSpec": {
    "quantity": "50 ml",
@@ -6877,7 +9776,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "4★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51i5Z5P-T+L._AC_UL320_.jpg"
@@ -6896,7 +9802,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -6904,32 +9811,51 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "4★ from 0 ratings"
   }
  },
  {
-  "id": "buy-b0f2mnk34w",
-  "brand": "Buy",
-  "model": "DR.RASHEL Korean Glass Skin Essence, Rice Water & Ceramide Face & Body Scrub, 380 ml Onlin…",
+  "id": "dr-rashel-b0f2mnk34w",
+  "brand": "Dr. Rashel",
+  "model": "DR.RASHEL Korean Glass Skin Essence, Rice Water & Ceramide Face & Body Scrub, 380 ml",
   "price": 187,
   "capacityLine": "380 ml",
   "materialLine": "ceramides + rice water",
   "featureLine": "Scrub / exfoliant · ₹49/100ml",
-  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹49/100ml",
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.2)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.5,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
   },
   "fullSpec": {
    "quantity": "380 ml",
@@ -6944,14 +9870,21 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71BLgxLAW7L._AC_UL320_.jpg"
   ],
   "buyUrl": "https://www.amazon.in/dp/B0F2MNK34W",
   "buyStore": "Amazon",
-  "title": "Buy DR.RASHEL Korean Glass Skin Essence, Rice Water & Ceramide Face & Body Scrub, 380 ml Online at Low Prices in India - Amazon.in",
+  "title": "DR.RASHEL Korean Glass Skin Essence, Rice Water & Ceramide Face & Body Scrub, 380 ml",
   "tags": [
    "scope:both",
    "format:essence",
@@ -6962,7 +9895,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:xl",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -6970,29 +9904,50 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
   }
  },
  {
   "id": "beauty-of-joseon-b09zv5dw78",
-  "brand": "Beauty Of Joseon",
+  "brand": "Beauty of Joseon",
   "model": "Ginseng Essence Water, 150ml | Hydrating Korean Facial Essence Lightweight Daily Hanbang F…",
   "price": 1425,
   "capacityLine": "150 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence · ₹950/100ml",
-  "highlight": "Live Amazon listing rated 4.4★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Strong buyer rating (4.4)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "trust": 5.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 3.2
   },
   "fullSpec": {
    "quantity": "150 ml",
@@ -7007,7 +9962,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Govan (Beauty of Joseon) — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.4★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/514Oj-EkdoL._AC_UL320_.jpg"
@@ -7025,7 +9987,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:large",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -7033,31 +9996,50 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Govan (Beauty of Joseon)",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://beautyofjoseon.com/"
+   },
+   "buyers": "4.4★ from 0 ratings"
   }
  },
  {
-  "id": "conscious-b0dxfr6dtd",
-  "brand": "Conscious",
-  "model": "Chemist® Rapid Glow & Brightening Essence | Face Serum with 5 Antioxidant Complex (100X St…",
+  "id": "conscious-chemist-b0dxfr6dtd",
+  "brand": "Conscious Chemist",
+  "model": "® Rapid Glow & Brightening Essence | Face Serum with 5 Antioxidant Complex (100X Stronger …",
   "price": 549,
   "capacityLine": "50 ml",
   "materialLine": "vitamin C + retinol + vitamin E",
   "featureLine": "Essence · ₹1098/100ml",
-  "highlight": "Live Amazon listing rated 3.9★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1098/100ml",
-   "Mixed buyer rating (3.9)"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "trust": 4.1,
-   "skin": 4,
-   "ingredients": 5.9,
-   "experience": 5.1
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 1.6
   },
   "fullSpec": {
    "quantity": "50 ml",
@@ -7072,7 +10054,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Conscious Chemist — Indian D2C brand with its own product company",
+   "buyerEvidence": "3.9★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Bw4+BhlmL._AC_UL320_.jpg"
@@ -7093,7 +10082,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:3.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -7101,7 +10091,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Conscious Chemist",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://consciouschemist.com/"
+   },
+   "buyers": "3.9★ from 0 ratings"
   }
  },
  {
@@ -7112,19 +10125,16 @@ const CTPRODUCTS = [
   "capacityLine": "12 ml",
   "materialLine": "vitamin C",
   "featureLine": "Essence · ₹700/100ml",
-  "highlight": "Live Amazon listing rated 3.8★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (3.8)"
+   "No ingredient list published on the listing"
   ],
   "scores": {
+   "ingredients": 0,
+   "skin": 0,
    "trust": 5,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.8
+   "experience": 1.3
   },
   "fullSpec": {
    "quantity": "12 ml",
@@ -7139,7 +10149,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Nature's Essence — Indian D2C brand with its own product company",
+   "buyerEvidence": "3.8★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61vE5NSUZYL._AC_UL320_.jpg"
@@ -7158,7 +10175,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:3.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -7166,7 +10184,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Nature's Essence",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.naturesessence.in/"
+   },
+   "buyers": "3.8★ from 0 ratings"
   }
  },
  {
@@ -7177,20 +10218,17 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "peptides",
   "featureLine": "Essence · ₹396/100ml",
-  "highlight": "Live Amazon listing rated 3.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (3.0)",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 3,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "50 ml",
@@ -7205,7 +10243,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "3.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/519Dq3mnnhL._AC_UL320_.jpg"
@@ -7227,7 +10272,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:low",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -7235,7 +10281,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3★ from 0 ratings"
   }
  },
  {
@@ -7246,20 +10315,16 @@ const CTPRODUCTS = [
   "capacityLine": "100 g",
   "materialLine": "vitamin E",
   "featureLine": "Essence · ₹160/100g",
-  "highlight": "Live Amazon listing rated 3.9★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹160/100g",
-   "Dermatologically tested (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (3.9)"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "trust": 5.6,
-   "skin": 4.7,
-   "ingredients": 4.4,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 1.6
   },
   "fullSpec": {
    "quantity": "100 g",
@@ -7267,14 +10332,21 @@ const CTPRODUCTS = [
    "format": "Essence",
    "keyIngredients": "vitamin E (per listing)",
    "freeFrom": "Not stated in listing",
-   "dermTested": "Dermatologically tested (per listing)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Brightening/glow claim",
    "audience": "Unisex / not stated",
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Nature's Essence — Indian D2C brand with its own product company",
+   "buyerEvidence": "3.9★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51YWI7rxkyL._AC_UL320_.jpg"
@@ -7293,7 +10365,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:3.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -7301,7 +10374,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": true,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Nature's Essence",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.naturesessence.in/"
+   },
+   "buyers": "3.9★ from 0 ratings"
   }
  },
  {
@@ -7312,21 +10408,17 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "ceramides + rice water",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing rated 4.7★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.7)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5.1,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 4.2
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -7341,7 +10433,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.7/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.7★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61b4pxtsZoL._AC_UL320_.jpg"
@@ -7361,7 +10460,8 @@ const CTPRODUCTS = [
    "claim:barrier",
    "aud:unisex",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -7369,7 +10469,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.7★ from 0 ratings"
   }
  },
  {
@@ -7380,18 +10503,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "vitamin C",
   "featureLine": "Essence · ₹317/100ml",
-  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "trust": 5.4,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 2.2
   },
   "fullSpec": {
    "quantity": "30 ml",
@@ -7406,7 +10527,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Nature's Essence — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.1★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/6162lHkh37L._AC_UL320_.jpg"
@@ -7425,7 +10553,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -7433,32 +10562,51 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Nature's Essence",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.naturesessence.in/"
+   },
+   "buyers": "4.1★ from 0 ratings"
   }
  },
  {
   "id": "dr-rashel-b0dtt2wp3t",
-  "brand": "DR.RASHEL",
-  "model": "Korean Glass Skin Essence Cream | With Hyaluronic Acid Niacinamide & Antioxidants | Lightw…",
+  "brand": "Dr. Rashel",
+  "model": "DR.RASHEL Korean Glass Skin Essence Cream | With Hyaluronic Acid Niacinamide & Antioxidant…",
   "price": 193,
   "capacityLine": "380 ml",
   "materialLine": "niacinamide + hyaluronic acid",
   "featureLine": "Essence · ₹51/100ml",
-  "highlight": "Live Amazon listing rated 3.8★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹51/100ml",
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (3.8)",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.3
   },
   "fullSpec": {
    "quantity": "380 ml",
@@ -7473,7 +10621,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.8★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/716ij1gZdpL._AC_UL320_.jpg"
@@ -7493,7 +10648,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:xl",
    "rating:3.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -7501,31 +10657,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.8★ from 0 ratings"
   }
  },
  {
-  "id": "generic-b0hcd8bclf",
-  "brand": "Generic",
+  "id": "unbranded-b0hcd8bclf",
+  "brand": "Unbranded",
   "model": "Korean Glass Skin Essence Face Serum, 10ml | Hydrates & Brightens, Paraben & Sulfate Free,…",
   "price": 150,
   "capacityLine": "10 ml",
   "materialLine": "niacinamide",
   "featureLine": "Essence · ₹1500/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1500/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.3,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "10 ml",
@@ -7540,7 +10717,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71HJqFLTA6L._AC_UL320_.jpg"
@@ -7560,7 +10744,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -7568,31 +10753,50 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "buy-b08cdyjdqt",
-  "brand": "Buy",
-  "model": "Belif Numero 10 Essence, Lightweight Hydrating Face Serum | Increases Skin's Hydration Ins…",
+  "id": "belif-b08cdyjdqt",
+  "brand": "Belif",
+  "model": "Numero 10 Essence, Lightweight Hydrating Face Serum | Increases Skin's Hydration Instantly…",
   "price": 1232,
   "capacityLine": "50 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence · ₹2464/100ml",
-  "highlight": "Live Amazon listing rated 4.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Strong buyer rating (4.6)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹2464/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "trust": 5.1,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
+   "experience": 3.8
   },
   "fullSpec": {
    "quantity": "50 ml",
@@ -7607,14 +10811,21 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.6/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "LG Household & Health Care — Global FMCG or beauty group",
+   "buyerEvidence": "4.6★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51IgkGZXKnL._AC_UL320_.jpg"
   ],
   "buyUrl": "https://www.amazon.in/dp/B08CDYJDQT",
   "buyStore": "Amazon",
-  "title": "Buy Belif Numero 10 Essence, Lightweight Hydrating Face Serum | Increases Skin's Hydration Instantly | Intensely hydrates, smooths, and replumps skin Korean Skin Care Products | (50 ml) Online at Low Prices in India - Amazon.in",
+  "title": "Belif Numero 10 Essence, Lightweight Hydrating Face Serum | Increases Skin's Hydration Instantly | Intensely hydrates, smooths, and replumps skin Korean Skin Care Products | (50 ml)",
   "tags": [
    "scope:face",
    "format:serum",
@@ -7625,7 +10836,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -7633,7 +10845,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "LG Household & Health Care",
+    "kind": "global",
+    "label": "Global FMCG or beauty group",
+    "pts": 6.5,
+    "url": "https://www.lghnh.com/en/company/brand.jsp"
+   },
+   "buyers": "4.6★ from 0 ratings"
   }
  },
  {
@@ -7644,18 +10879,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "alpha arbutin",
   "featureLine": "Essence · ₹997/100ml",
-  "highlight": "Live Amazon listing rated 4.0★ by Get it faster buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "trust": 5.3,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 1.9
   },
   "fullSpec": {
    "quantity": "30 ml",
@@ -7670,7 +10903,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Get it faster ratings, Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Nature's Essence — Indian D2C brand with its own product company",
+   "buyerEvidence": "4★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Jdr90VrmL._AC_UL320_.jpg"
@@ -7687,7 +10927,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -7695,7 +10936,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Nature's Essence",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.naturesessence.in/"
+   },
+   "buyers": "4★ from 0 ratings"
   }
  },
  {
@@ -7706,20 +10970,17 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "clay/mud",
   "featureLine": "Essence · ₹1598/100ml",
-  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Strong buyer rating (4.3)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1598/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.7,
-   "skin": 4,
-   "ingredients": 4.9,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
   },
   "fullSpec": {
    "quantity": "50 ml",
@@ -7734,7 +10995,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41iD3T0PDxL._AC_UL320_.jpg"
@@ -7755,7 +11023,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -7763,7 +11032,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
   }
  },
  {
@@ -7774,20 +11066,16 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "niacinamide + ceramides",
   "featureLine": "Toner · ₹1944/100ml",
-  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1944/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "trust": 4.2,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 1.9
   },
   "fullSpec": {
    "quantity": "50 ml",
@@ -7802,7 +11090,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Kreative Beauty Pvt Ltd (Hyphen) — Indian D2C brand with its own product company",
+   "buyerEvidence": "4★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51DAin6r6fL._AC_UL320_.jpg"
@@ -7822,7 +11117,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -7830,7 +11126,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Kreative Beauty Pvt Ltd (Hyphen)",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.letshyphen.com/"
+   },
+   "buyers": "4★ from 0 ratings"
   }
  },
  {
@@ -7841,19 +11160,17 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "niacinamide + hyaluronic acid + centella/cica",
   "featureLine": "Essence · ₹489/100ml",
-  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.2,
-   "skin": 4,
-   "ingredients": 6.4,
-   "experience": 5.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
   },
   "fullSpec": {
    "quantity": "100 ml",
@@ -7868,7 +11185,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/611PFm+nFeL._AC_UL320_.jpg"
@@ -7892,7 +11216,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -7900,7 +11225,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
   }
  },
  {
@@ -7911,20 +11259,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "retinol + peptides",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -7939,7 +11285,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ZC+NFaIvL._AC_UL320_.jpg"
@@ -7960,7 +11313,8 @@ const CTPRODUCTS = [
    "claim:lightweight",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -7968,7 +11322,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -7979,18 +11356,16 @@ const CTPRODUCTS = [
   "capacityLine": "60 g",
   "materialLine": "papaya",
   "featureLine": "Essence · ₹180/100g",
-  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹180/100g"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "trust": 5.3,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 1.9
   },
   "fullSpec": {
    "quantity": "60 g",
@@ -8005,7 +11380,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Nature's Essence — Indian D2C brand with its own product company",
+   "buyerEvidence": "4★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51A4Ze9OEJL._SL1000_.jpg",
@@ -8027,7 +11409,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -8035,7 +11418,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Nature's Essence",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.naturesessence.in/"
+   },
+   "buyers": "4★ from 0 ratings"
   }
  },
  {
@@ -8046,21 +11452,17 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "hyaluronic acid",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing rated 4.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.6)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5.1,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.8
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -8075,7 +11477,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.6/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.6★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61tVlwUTjiL._AC_UL320_.jpg"
@@ -8096,7 +11505,8 @@ const CTPRODUCTS = [
    "skin:sensitive",
    "aud:unisex",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -8104,7 +11514,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.6★ from 0 ratings"
   }
  },
  {
@@ -8115,19 +11548,16 @@ const CTPRODUCTS = [
   "capacityLine": "45 g",
   "materialLine": "alpha arbutin",
   "featureLine": "Essence · ₹624/100g",
-  "highlight": "Live Amazon listing rated 3.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (3.6)"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "trust": 4.7,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 0.6
   },
   "fullSpec": {
    "quantity": "45 g",
@@ -8142,7 +11572,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "3.6/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Nature's Essence — Indian D2C brand with its own product company",
+   "buyerEvidence": "3.6★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51L2ktpI2iL._AC_UL320_.jpg"
@@ -8159,7 +11596,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:3.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -8167,29 +11605,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Nature's Essence",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.naturesessence.in/"
+   },
+   "buyers": "3.6★ from 0 ratings"
   }
  },
  {
-  "id": "generic-b0hcdfvwdj",
-  "brand": "Generic",
+  "id": "unbranded-b0hcdfvwdj",
+  "brand": "Unbranded",
   "model": "Korean Glass Skin Essence Face Serum, 10ml | Suitable for Most Skin Types, Glass Skin Effe…",
   "price": 159,
   "capacityLine": "10 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence · ₹1590/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1590/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "10 ml",
@@ -8204,7 +11665,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41gscqx97gL._AC_UL320_.jpg"
@@ -8221,7 +11689,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -8229,7 +11698,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -8240,21 +11732,17 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "niacinamide + hyaluronic acid + ceramides",
   "featureLine": "Essence · ₹4430/100ml",
-  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.3)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹4430/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.7,
-   "skin": 4,
-   "ingredients": 6.3,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
   },
   "fullSpec": {
    "quantity": "30 ml",
@@ -8269,7 +11757,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41Wx1ckQVeL._AC_UL320_.jpg"
@@ -8290,7 +11785,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -8298,29 +11794,50 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
   }
  },
  {
   "id": "l-oreal-b08ftnb8n2",
-  "brand": "L'Oreal",
+  "brand": "L'Oréal",
   "model": "Paris Revitalift Crystal Micro-Essence Sheet Mask, Face Treatment, Crystal-clear Skin, 25g",
   "price": 143,
   "capacityLine": "25 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Sheet mask · ₹572/100g",
-  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Strong buyer rating (4.2)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "trust": 6.3,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
+   "experience": 2.6
   },
   "fullSpec": {
    "quantity": "25 g",
@@ -8335,7 +11852,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "L'Oréal — Global FMCG or beauty group",
+   "buyerEvidence": "4.2★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/617LMbVSKDL._AC_UL320_.jpg"
@@ -8350,7 +11874,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -8358,7 +11883,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "L'Oréal",
+    "kind": "global",
+    "label": "Global FMCG or beauty group",
+    "pts": 6.5,
+    "url": "https://www.loreal.com/en/our-global-brands-portfolio/"
+   },
+   "buyers": "4.2★ from 0 ratings"
   }
  },
  {
@@ -8369,19 +11917,16 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "charcoal",
   "featureLine": "Scrub / exfoliant · ₹168/100g",
-  "highlight": "Live Amazon listing rated 3.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹168/100g"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (3.6)"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "trust": 4.7,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 0.6
   },
   "fullSpec": {
    "quantity": "50 g",
@@ -8396,7 +11941,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "3.6/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Nature's Essence — Indian D2C brand with its own product company",
+   "buyerEvidence": "3.6★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61ptj9dsk4L._AC_UL320_.jpg"
@@ -8412,7 +11964,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:3.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -8420,32 +11973,51 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Nature's Essence",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.naturesessence.in/"
+   },
+   "buyers": "3.6★ from 0 ratings"
   }
  },
  {
   "id": "bio-essence-b07cx1z8zk",
-  "brand": "Bio-Essence",
+  "brand": "Bio-essence",
   "model": "Bio-Vlift 4V Face Lifting Cream, Firming, Tightening, Double Chin Firming, Hyaluronic Acid…",
   "price": 1189,
   "capacityLine": "45 g",
   "materialLine": "niacinamide + hyaluronic acid + rice water",
   "featureLine": "Essence · ₹2642/100g",
-  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.2)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹2642/100g",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.5,
-   "skin": 4,
-   "ingredients": 5.9,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
   },
   "fullSpec": {
    "quantity": "45 g",
@@ -8460,7 +12032,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61ccxUYascL._AC_UL320_.jpg"
@@ -8481,7 +12060,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -8489,7 +12069,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
   }
  },
  {
@@ -8500,33 +12103,38 @@ const CTPRODUCTS = [
   "capacityLine": "200 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Mask / pack · Paraben-free · ₹150/100g",
-  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹150/100g",
-   "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)"
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
+  "cons": [
+   "No ingredient list published on the listing"
   ],
-  "cons": [],
   "scores": {
-   "trust": 5.9,
-   "skin": 5.3,
-   "ingredients": 4,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 2.2
   },
   "fullSpec": {
    "quantity": "200 g",
    "pricePer100": "₹150/100g",
    "format": "Mask / pack",
    "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Brightening/glow claim",
    "audience": "Marketed for women",
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Nature's Essence — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.1★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51GBJx8goHL._AC_UL320_.jpg"
@@ -8547,7 +12155,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:large",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -8555,7 +12164,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": true,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Nature's Essence",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.naturesessence.in/"
+   },
+   "buyers": "4.1★ from 0 ratings"
   }
  },
  {
@@ -8566,18 +12198,18 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence · ₹1749/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1749/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "100 ml",
@@ -8592,7 +12224,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51-lvToOvCL._AC_UL320_.jpg"
@@ -8612,7 +12251,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -8620,32 +12260,51 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
   "id": "blithe-b09fswm3ll",
-  "brand": "BLITHE",
+  "brand": "Blithe",
   "model": "Vital Treatment 8 Nourishing Beans Mini Facial Essence 54ml | Korean Anti-Aging Hydrating …",
   "price": 1535,
   "capacityLine": "54 ml",
   "materialLine": "hyaluronic acid",
   "featureLine": "Toner · ₹2843/100ml",
-  "highlight": "Live Amazon listing rated 4.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.6)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹2843/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5.1,
-   "skin": 4,
-   "ingredients": 5.6,
-   "experience": 4.6
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.8
   },
   "fullSpec": {
    "quantity": "54 ml",
@@ -8660,7 +12319,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "4.6/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.6★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61aRPAIbqdL._AC_UL320_.jpg"
@@ -8680,7 +12346,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -8688,7 +12355,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.6★ from 0 ratings"
   }
  },
  {
@@ -8699,20 +12389,17 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence · ₹1749/100ml",
-  "highlight": "Live Amazon listing rated 4.7★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Strong buyer rating (4.7)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1749/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5.1,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 4.2
   },
   "fullSpec": {
    "quantity": "100 ml",
@@ -8727,7 +12414,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.7/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.7★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61B4RqsbyJL._AC_UL320_.jpg"
@@ -8746,7 +12440,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -8754,31 +12449,51 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.7★ from 0 ratings"
   }
  },
  {
   "id": "mixsoon-b08zxvvy8m",
-  "brand": "Mixsoon",
+  "brand": "mixsoon",
   "model": "Bean Essence, Lightweight Hydrating Facial Essence for Gentle Exfoliation & Skin Barrier C…",
   "price": 3685,
   "capacityLine": "50 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Scrub / exfoliant · ₹7370/100ml",
-  "highlight": "Live Amazon listing rated 4.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Strong buyer rating (4.5)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹7370/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.6
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.5
   },
   "fullSpec": {
    "quantity": "50 ml",
@@ -8793,7 +12508,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.5/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.5★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51HeCyjIvWL._AC_UL320_.jpg"
@@ -8812,7 +12534,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -8820,31 +12543,51 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.5★ from 0 ratings"
   }
  },
  {
-  "id": "bio-b09d8jf5ck",
-  "brand": "Bio",
-  "model": "Essence 24K Gold Skin Elixir, Vitamin C Face Serum, Moroccan Argan Oil, Hyaluronic Acid, N…",
+  "id": "unbranded-b09d8jf5ck",
+  "brand": "Unbranded",
+  "model": "Bio Essence 24K Gold Skin Elixir, Vitamin C Face Serum, Moroccan Argan Oil, Hyaluronic Aci…",
   "price": 1574,
   "capacityLine": "30 g",
   "materialLine": "vitamin C + niacinamide + hyaluronic acid",
   "featureLine": "Essence · ₹5247/100g",
-  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹5247/100g",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.4,
-   "skin": 4,
-   "ingredients": 5.9,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.2
   },
   "fullSpec": {
    "quantity": "30 g",
@@ -8859,7 +12602,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ntQuwW2qL._AC_UL320_.jpg"
@@ -8882,7 +12632,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -8890,7 +12641,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
   }
  },
  {
@@ -8901,20 +12675,17 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence · ₹3249/100ml",
-  "highlight": "Live Amazon listing rated 4.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Strong buyer rating (4.6)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹3249/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5.1,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.8
   },
   "fullSpec": {
    "quantity": "100 ml",
@@ -8929,7 +12700,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.6/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.6★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Q-CNbFY9L._AC_UL320_.jpg"
@@ -8948,7 +12726,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -8956,7 +12735,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.6★ from 0 ratings"
   }
  },
  {
@@ -8967,19 +12769,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "retinol",
   "featureLine": "Essence · ₹860/100ml",
-  "highlight": "Live Amazon listing rated 3.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (3.5)"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "trust": 4.6,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 0.3
   },
   "fullSpec": {
    "quantity": "30 ml",
@@ -8994,7 +12793,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "3.5/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Nature's Essence — Indian D2C brand with its own product company",
+   "buyerEvidence": "3.5★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/513rKvnOh1L._AC_UL320_.jpg"
@@ -9011,7 +12817,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:3.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -9019,31 +12826,51 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Nature's Essence",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.naturesessence.in/"
+   },
+   "buyers": "3.5★ from 0 ratings"
   }
  },
  {
-  "id": "glow-b0gsqy3jj6",
-  "brand": "Glow",
-  "model": "Restore Essence - 30ml | Luminosity Enhancing & Hydrating Face Essence | Niacinamide, Glut…",
+  "id": "unbranded-b0gsqy3jj6",
+  "brand": "Unbranded",
+  "model": "Glow Restore Essence - 30ml | Luminosity Enhancing & Hydrating Face Essence | Niacinamide,…",
   "price": 769,
   "capacityLine": "30 ml",
   "materialLine": "niacinamide + alpha arbutin",
   "featureLine": "Essence · ₹2563/100ml",
-  "highlight": "Live Amazon listing rated 3.7★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹2563/100ml",
-   "Mixed buyer rating (3.7)"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 3.8,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1
   },
   "fullSpec": {
    "quantity": "30 ml",
@@ -9058,7 +12885,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "3.7/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.7★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41iBFFMeNKL._AC_UL320_.jpg"
@@ -9079,7 +12913,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:3.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -9087,7 +12922,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.7★ from 0 ratings"
   }
  },
  {
@@ -9098,17 +12956,18 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "rice water",
   "featureLine": "Essence · ₹997/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "30 ml",
@@ -9123,7 +12982,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/31BQMtJ8+8L._AC_UL320_.jpg"
@@ -9141,7 +13007,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -9149,7 +13016,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -9160,20 +13050,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "retinol + peptides",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -9188,7 +13076,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51ZC+NFaIvL._AC_UL320_.jpg"
@@ -9207,7 +13102,8 @@ const CTPRODUCTS = [
    "claim:barrier",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -9215,7 +13111,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -9226,17 +13145,16 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence · ₹843/100ml",
-  "highlight": "Live Amazon listing rated 3.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (3.6)"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "trust": 4.7,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 0.6
   },
   "fullSpec": {
    "quantity": "30 ml",
@@ -9251,7 +13169,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "3.6/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Nature's Essence — Indian D2C brand with its own product company",
+   "buyerEvidence": "3.6★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61HC-B6NLNL._AC_UL320_.jpg"
@@ -9268,7 +13193,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:3.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -9276,7 +13202,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Nature's Essence",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.naturesessence.in/"
+   },
+   "buyers": "3.6★ from 0 ratings"
   }
  },
  {
@@ -9287,20 +13236,16 @@ const CTPRODUCTS = [
   "capacityLine": "25 g",
   "materialLine": "vitamin C + niacinamide",
   "featureLine": "Essence · ₹248/100g",
-  "highlight": "Live Amazon listing rated 3.8★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹248/100g",
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (3.8)"
+   "No ingredient list published on the listing"
   ],
   "scores": {
+   "ingredients": 0,
+   "skin": 0,
    "trust": 5,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.8
+   "experience": 1.3
   },
   "fullSpec": {
    "quantity": "25 g",
@@ -9315,7 +13260,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Nature's Essence — Indian D2C brand with its own product company",
+   "buyerEvidence": "3.8★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61u9XvHxwvL._AC_UL320_.jpg"
@@ -9337,7 +13289,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:3.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -9345,7 +13298,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Nature's Essence",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.naturesessence.in/"
+   },
+   "buyers": "3.8★ from 0 ratings"
   }
  },
  {
@@ -9356,21 +13332,17 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "niacinamide",
   "featureLine": "Essence · ₹3499/100ml",
-  "highlight": "Live Amazon listing rated 4.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.5)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹3499/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.5
   },
   "fullSpec": {
    "quantity": "100 ml",
@@ -9385,7 +13357,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.5/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.5★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/610nPKbsZaL._AC_UL320_.jpg"
@@ -9407,7 +13386,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -9415,7 +13395,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.5★ from 0 ratings"
   }
  },
  {
@@ -9426,20 +13429,17 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "peptides",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing rated 3.4★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Mixed buyer rating (3.4)"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 3.3,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -9454,7 +13454,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "3.4/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.4★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51YQCRZFWtL._AC_UL320_.jpg"
@@ -9475,7 +13482,8 @@ const CTPRODUCTS = [
    "claim:korean",
    "aud:unisex",
    "rating:low",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -9483,7 +13491,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.4★ from 0 ratings"
   }
  },
  {
@@ -9494,20 +13525,17 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "centella/cica",
   "featureLine": "Essence · ₹4466/100ml",
-  "highlight": "Live Amazon listing rated 4.4★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Strong buyer rating (4.4)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹4466/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.8,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.2
   },
   "fullSpec": {
    "quantity": "50 ml",
@@ -9522,7 +13550,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61CA3BD3XLL._AC_UL320_.jpg"
@@ -9542,7 +13577,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -9550,7 +13586,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
   }
  },
  {
@@ -9561,19 +13620,16 @@ const CTPRODUCTS = [
   "capacityLine": "100 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Mask / pack · ₹176/100g",
-  "highlight": "Live Amazon listing rated 3.9★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹176/100g"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (3.9)"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "trust": 5.1,
-   "skin": 4,
-   "ingredients": 4.3,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 1.6
   },
   "fullSpec": {
    "quantity": "100 g",
@@ -9588,7 +13644,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Nature's Essence — Indian D2C brand with its own product company",
+   "buyerEvidence": "3.9★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61BEBL9w13L._AC_UL320_.jpg"
@@ -9607,7 +13670,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:standard",
    "rating:3.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -9615,7 +13679,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Nature's Essence",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.naturesessence.in/"
+   },
+   "buyers": "3.9★ from 0 ratings"
   }
  },
  {
@@ -9626,19 +13713,16 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "charcoal",
   "featureLine": "Mask / pack · ₹166/100g",
-  "highlight": "Live Amazon listing rated 3.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹166/100g"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (3.3)"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "trust": 4.3,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "50 g",
@@ -9653,7 +13737,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "3.3/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Nature's Essence — Indian D2C brand with its own product company",
+   "buyerEvidence": "3.3★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Ih3ZQL2iS._AC_UL320_.jpg"
@@ -9669,7 +13760,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:low",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -9677,7 +13769,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Nature's Essence",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.naturesessence.in/"
+   },
+   "buyers": "3.3★ from 0 ratings"
   }
  },
  {
@@ -9688,18 +13803,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "rice water",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -9714,7 +13829,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41IC4nNPqWL._AC_UL320_.jpg"
@@ -9731,7 +13853,8 @@ const CTPRODUCTS = [
    "claim:lightweight",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -9739,7 +13862,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -9750,18 +13896,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "rice water",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -9776,7 +13922,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/31HkwBkrcVL._AC_UL320_.jpg"
@@ -9793,7 +13946,8 @@ const CTPRODUCTS = [
    "claim:lightweight",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -9801,7 +13955,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -9812,20 +13989,17 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "peptides",
   "featureLine": "Essence · ₹997/100ml",
-  "highlight": "Live Amazon listing rated 1.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (1.0)",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 3,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "30 ml",
@@ -9840,7 +14014,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "1.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "1★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Yd5+qSyML._AC_UL320_.jpg"
@@ -9859,7 +14040,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:low",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -9867,7 +14049,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "1★ from 0 ratings"
   }
  },
  {
@@ -9878,18 +14083,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "rice water",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -9904,7 +14109,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/31BQMtJ8+8L._AC_UL320_.jpg"
@@ -9921,7 +14133,8 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -9929,30 +14142,51 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "glow-b0f1v2fvrr",
-  "brand": "Glow",
-  "model": "Up Ginseng Essence Toner 150 ml | Korean Toner for Glowing Skin with Fermented Korean Red …",
+  "id": "unbranded-b0f1v2fvrr",
+  "brand": "Unbranded",
+  "model": "Glow Up Ginseng Essence Toner 150 ml | Korean Toner for Glowing Skin with Fermented Korean…",
   "price": 950,
   "capacityLine": "150 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Toner · ₹633/100ml",
-  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Strong buyer rating (5.0)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5.1,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
   },
   "fullSpec": {
    "quantity": "150 ml",
@@ -9967,7 +14201,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41QEzbfku9L._AC_UL320_.jpg"
@@ -9987,7 +14228,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:large",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -9995,7 +14237,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
   }
  },
  {
@@ -10006,20 +14271,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "vitamin C",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.4,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -10034,7 +14297,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61d7eZuEB2L._AC_UL320_.jpg"
@@ -10049,7 +14319,8 @@ const CTPRODUCTS = [
    "ing:vitamin-c",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -10057,7 +14328,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -10068,21 +14362,18 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "niacinamide + hyaluronic acid",
   "featureLine": "Essence · ₹1680/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1680/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 4.4,
-   "skin": 4.7,
-   "ingredients": 5.5,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "30 ml",
@@ -10090,14 +14381,21 @@ const CTPRODUCTS = [
    "format": "Essence",
    "keyIngredients": "niacinamide, hyaluronic acid (per listing)",
    "freeFrom": "Not stated in listing",
-   "dermTested": "Dermatologically tested (per listing)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim",
    "audience": "Marketed for women",
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41WJtbRoE7L._AC_UL320_.jpg"
@@ -10120,7 +14418,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -10128,7 +14427,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": true,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -10139,18 +14461,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "rice water",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -10165,7 +14487,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41zSXYnyOjL._AC_UL320_.jpg"
@@ -10182,7 +14511,8 @@ const CTPRODUCTS = [
    "claim:lightweight",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -10190,7 +14520,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -10201,20 +14554,17 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Mask / pack",
-  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Strong buyer rating (5.0)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5.1,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -10229,7 +14579,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61CDMCex16L._AC_UL320_.jpg"
@@ -10243,7 +14600,8 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "aud:unisex",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -10251,32 +14609,51 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
   }
  },
  {
-  "id": "generic-b0fpr4s8vh",
-  "brand": "Generic",
-  "model": "K DERMA Korean Glass Skin Essence Jelly Glow Sheet Mask | With Ceramide | Hydrating & Brig…",
+  "id": "k-derma-b0fpr4s8vh",
+  "brand": "K Derma",
+  "model": "Korean Glass Skin Essence Jelly Glow Sheet Mask | With Ceramide | Hydrating & Brightening …",
   "price": 224,
   "capacityLine": "Quantity not stated",
   "materialLine": "ceramides",
   "featureLine": "Sheet mask",
-  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.3)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.7,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -10291,7 +14668,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81aeg1Jmc9L._AC_UL320_.jpg"
@@ -10310,7 +14694,8 @@ const CTPRODUCTS = [
    "claim:korean",
    "aud:unisex",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -10318,31 +14703,53 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
   }
  },
  {
-  "id": "buy-b00bam7f8c",
-  "brand": "Buy",
-  "model": "Dermal Korea Collagen Essence Full Face Facial Mask Sheet Combo Pack (16 Pack) Online at L…",
+  "id": "dermal-b00bam7f8c",
+  "brand": "Dermal",
+  "model": "Korea Collagen Essence Full Face Facial Mask Sheet Combo Pack (16 Pack)",
   "price": 2415,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Mask / pack",
-  "highlight": "Live Amazon listing rated 4.5★ by Get it faster buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "Strong buyer rating (4.5)"
+   "Well-reviewed: 4.5★ from 0 ratings"
   ],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.5
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -10357,14 +14764,21 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.5/5 (Get it faster ratings, Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.5★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81Uo4RzLmgL._AC_UL320_.jpg"
   ],
   "buyUrl": "https://www.amazon.in/dp/B00BAM7F8C",
   "buyStore": "Amazon",
-  "title": "Buy Dermal Korea Collagen Essence Full Face Facial Mask Sheet Combo Pack (16 Pack) Online at Low Prices in India - Amazon.in",
+  "title": "Dermal Korea Collagen Essence Full Face Facial Mask Sheet Combo Pack (16 Pack)",
   "tags": [
    "scope:face",
    "format:essence",
@@ -10374,7 +14788,8 @@ const CTPRODUCTS = [
    "claim:korean",
    "aud:unisex",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -10382,7 +14797,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.5★ from 0 ratings"
   }
  },
  {
@@ -10393,17 +14831,17 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Mask / pack",
-  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5.3,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -10418,7 +14856,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61l8Q9eoTmL._AC_UL320_.jpg"
@@ -10437,7 +14882,8 @@ const CTPRODUCTS = [
    "claim:korean",
    "aud:unisex",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -10445,29 +14891,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
   }
  },
  {
-  "id": "instant-b0h8hp53h8",
-  "brand": "Instant",
-  "model": "Perfection Acid Face Serum | Deep Hydration & Skin Smoothing Essence | Pore Refining Moist…",
+  "id": "unbranded-b0h8hp53h8",
+  "brand": "Unbranded",
+  "model": "Instant Perfection Acid Face Serum | Deep Hydration & Skin Smoothing Essence | Pore Refini…",
   "price": 199,
   "capacityLine": "10 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence · ₹1990/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1990/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "10 ml",
@@ -10482,7 +14951,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/511lKOR8S3L._AC_UL320_.jpg"
@@ -10502,7 +14978,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -10510,7 +14987,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -10521,20 +15021,17 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "peptides",
   "featureLine": "Essence · ₹470/100ml",
-  "highlight": "Live Amazon listing rated 3.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (3.1)",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 3,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "50 ml",
@@ -10549,7 +15046,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "3.1/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.1★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71GIIivH68L._AC_UL320_.jpg"
@@ -10571,7 +15075,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:low",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -10579,7 +15084,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.1★ from 0 ratings"
   }
  },
  {
@@ -10590,17 +15118,18 @@ const CTPRODUCTS = [
   "capacityLine": "120 ml (pack of 4)",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence · ₹383/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "30 ml × 4 pack",
@@ -10615,7 +15144,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61mOadNubrL._AC_UL320_.jpg"
@@ -10637,7 +15173,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -10645,7 +15182,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -10656,20 +15216,17 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "peptides",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.2,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -10684,7 +15241,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/715s-aAbVGL._AC_UL320_.jpg"
@@ -10706,7 +15270,8 @@ const CTPRODUCTS = [
    "claim:korean",
    "aud:unisex",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -10714,32 +15279,51 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
   }
  },
  {
-  "id": "bio-b09hsjyk3v",
-  "brand": "Bio",
-  "model": "Essence Bio-Age'Luxe Skin Expert Cream With Retinoid A | Retinol ++ | Firming, Fights Wrin…",
+  "id": "unbranded-b09hsjyk3v",
+  "brand": "Unbranded",
+  "model": "Bio Essence Bio-Age'Luxe Skin Expert Cream With Retinoid A | Retinol ++ | Firming, Fights …",
   "price": 1571,
   "capacityLine": "45 g",
   "materialLine": "retinol",
   "featureLine": "Essence · ₹3491/100g",
-  "highlight": "Live Amazon listing rated 4.4★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.4)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹3491/100g",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.8,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.2
   },
   "fullSpec": {
    "quantity": "45 g",
@@ -10754,7 +15338,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61EYbaSFukL._AC_UL320_.jpg"
@@ -10771,7 +15362,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -10779,29 +15371,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
   }
  },
  {
-  "id": "instant-b0h6bq3d8j",
-  "brand": "Instant",
-  "model": "Perfection Acid Face Serum | Deep Hydration & Skin Smoothing Essence | Pore Refining Moist…",
+  "id": "unbranded-b0h6bq3d8j",
+  "brand": "Unbranded",
+  "model": "Instant Perfection Acid Face Serum | Deep Hydration & Skin Smoothing Essence | Pore Refini…",
   "price": 249,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -10816,7 +15431,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51y94PizODL._AC_UL320_.jpg"
@@ -10834,7 +15456,8 @@ const CTPRODUCTS = [
    "claim:lightweight",
    "aud:women",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -10842,29 +15465,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "instant-b0h69d3pxy",
-  "brand": "Instant",
-  "model": "Perfection Acid Face Serum | Deep Hydration & Skin Smoothing Essence | Pore Refining Moist…",
+  "id": "unbranded-b0h69d3pxy",
+  "brand": "Unbranded",
+  "model": "Instant Perfection Acid Face Serum | Deep Hydration & Skin Smoothing Essence | Pore Refini…",
   "price": 199,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -10879,7 +15525,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51y94PizODL._AC_UL320_.jpg"
@@ -10897,7 +15550,8 @@ const CTPRODUCTS = [
    "claim:lightweight",
    "aud:women",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -10905,29 +15559,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "instant-b0h69938kh",
-  "brand": "Instant",
-  "model": "Perfection Acid Face Serum | Deep Hydration & Skin Smoothing Essence | Pore Refining Moist…",
+  "id": "unbranded-b0h69938kh",
+  "brand": "Unbranded",
+  "model": "Instant Perfection Acid Face Serum | Deep Hydration & Skin Smoothing Essence | Pore Refini…",
   "price": 349,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -10942,7 +15619,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61i0KnMyoSL._AC_UL320_.jpg"
@@ -10961,7 +15645,8 @@ const CTPRODUCTS = [
    "claim:lightweight",
    "aud:women",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -10969,31 +15654,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "hyaluronic-b0hchlwkv2",
-  "brand": "Hyaluronic",
-  "model": "Acid Face Serum – Lightweight Hydrating Facial Serum for Daily Moisture Care, Smooth & Sof…",
+  "id": "unbranded-b0hchlwkv2",
+  "brand": "Unbranded",
+  "model": "Hyaluronic Acid Face Serum – Lightweight Hydrating Facial Serum for Daily Moisture Care, S…",
   "price": 594,
   "capacityLine": "15 ml",
   "materialLine": "hyaluronic acid",
   "featureLine": "Essence · ₹3960/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹3960/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "15 ml",
@@ -11008,7 +15714,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Xfqq37DEL._AC_UL320_.jpg"
@@ -11026,7 +15739,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -11034,29 +15748,51 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "original-b0csfwfftj",
-  "brand": "Original",
-  "model": "Authentic 24k Goldzan Serum 99.9% Gold Essence Anti-Aging Anti-Wrinkle Face Serum 30ML +30…",
+  "id": "unbranded-b0csfwfftj",
+  "brand": "Unbranded",
+  "model": "Original Authentic 24k Goldzan Serum 99.9% Gold Essence Anti-Aging Anti-Wrinkle Face Serum…",
   "price": 269,
   "capacityLine": "30 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence · ₹897/100ml",
-  "highlight": "Live Amazon listing rated 3.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (3.6)",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 3.6,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0.6
   },
   "fullSpec": {
    "quantity": "30 ml",
@@ -11071,7 +15807,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "3.6/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.6★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71nJ5bQiwEL._AC_UL320_.jpg"
@@ -11088,7 +15831,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:3.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -11096,7 +15840,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.6★ from 0 ratings"
   }
  },
  {
@@ -11107,17 +15874,18 @@ const CTPRODUCTS = [
   "capacityLine": "40 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence · ₹583/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "40 ml",
@@ -11132,7 +15900,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/31+6Phyp6ML._AC_UL320_.jpg"
@@ -11148,7 +15923,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -11156,29 +15932,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "collagen-b0h5vtmx96",
-  "brand": "Collagen",
-  "model": "Anti Aging Face Serum for Women & Men | Hydrating Moisturizing Face Serum | Skin Firming R…",
+  "id": "unbranded-b0h5vtmx96",
+  "brand": "Unbranded",
+  "model": "Collagen Anti Aging Face Serum for Women & Men | Hydrating Moisturizing Face Serum | Skin …",
   "price": 517,
   "capacityLine": "30 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence · ₹1723/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1723/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "30 ml",
@@ -11193,7 +15992,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41hWi2O8RJL._AC_UL320_.jpg"
@@ -11213,7 +16019,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -11221,7 +16028,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -11232,17 +16062,18 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Sheet mask · ₹663/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "30 ml",
@@ -11257,7 +16088,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61SZqGmlsGL._AC_UL320_.jpg"
@@ -11277,7 +16115,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -11285,28 +16124,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "generic-b0hgyvxnwq",
-  "brand": "Generic",
+  "id": "unbranded-b0hgyvxnwq",
+  "brand": "Unbranded",
   "model": "24K Gold Facial Sheet Mask (30ml) | Glow & Hydration Essence Treatment | Refreshing Moistu…",
   "price": 199,
   "capacityLine": "30 ml",
   "materialLine": "charcoal",
   "featureLine": "Sheet mask · ₹663/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "30 ml",
@@ -11321,7 +16184,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61MOEDLWzOL._AC_UL320_.jpg"
@@ -11341,7 +16211,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -11349,29 +16220,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "aloe-b0hf4wl5qx",
-  "brand": "Aloe",
-  "model": "Vera Essence Facial Mask Sheet, Soothing & Moisturizing Face Mask, | 30ml per Sheet, 10 Sh…",
+  "id": "unbranded-b0hf4wl5qx",
+  "brand": "Unbranded",
+  "model": "Aloe Vera Essence Facial Mask Sheet, Soothing & Moisturizing Face Mask, | 30ml per Sheet, …",
   "price": 499,
   "capacityLine": "30 ml",
   "materialLine": "aloe vera",
   "featureLine": "Mask / pack · ₹1663/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1663/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "30 ml",
@@ -11386,7 +16280,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61+sewXkSmL._AC_UL320_.jpg"
@@ -11405,7 +16306,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -11413,7 +16315,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -11424,21 +16349,17 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "hyaluronic acid + rice water",
   "featureLine": "Mask / pack",
-  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (5.0)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5.1,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -11453,7 +16374,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Ru6uIZRmL._AC_UL320_.jpg"
@@ -11479,7 +16407,8 @@ const CTPRODUCTS = [
    "claim:soothing",
    "aud:unisex",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -11487,7 +16416,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
   }
  },
  {
@@ -11498,17 +16450,18 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "rice water",
   "featureLine": "Essence · ₹963/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "30 ml",
@@ -11523,7 +16476,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/31BQMtJ8+8L._AC_UL320_.jpg"
@@ -11541,7 +16501,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -11549,7 +16510,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -11560,20 +16544,17 @@ const CTPRODUCTS = [
   "capacityLine": "5 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence · ₹36980/100g",
-  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Strong buyer rating (4.3)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹36980/100g",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.7,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
   },
   "fullSpec": {
    "quantity": "5 g",
@@ -11588,7 +16569,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/6119l8QKBiL._AC_UL320_.jpg"
@@ -11608,7 +16596,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -11616,32 +16605,51 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
   }
  },
  {
-  "id": "generic-b0fj8vw4w7",
-  "brand": "Generic",
-  "model": "K DERMA Korean Glass Skin Essence Jelly Glow Sheet Mask, Ceramide Infused, Dermatologicall…",
+  "id": "k-derma-b0fj8vw4w7",
+  "brand": "K Derma",
+  "model": "Korean Glass Skin Essence Jelly Glow Sheet Mask, Ceramide Infused, Dermatologically Tested…",
   "price": 134,
   "capacityLine": "25 g",
   "materialLine": "ceramides",
   "featureLine": "Sheet mask · ₹536/100g",
-  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Dermatologically tested (per listing)",
-   "Strong buyer rating (4.3)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5.2,
-   "skin": 4.7,
-   "ingredients": 5.1,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
   },
   "fullSpec": {
    "quantity": "25 g",
@@ -11649,14 +16657,21 @@ const CTPRODUCTS = [
    "format": "Sheet mask",
    "keyIngredients": "ceramides (per listing)",
    "freeFrom": "Not stated in listing",
-   "dermTested": "Dermatologically tested (per listing)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Brightening/glow claim",
    "audience": "Unisex / not stated",
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71kQMVrjX+L._AC_UL320_.jpg"
@@ -11675,7 +16690,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -11683,29 +16699,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": true,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
   }
  },
  {
-  "id": "aloe-b0hf58s1sm",
-  "brand": "Aloe",
-  "model": "Vera Essence Facial Mask Sheet, Soothing & Moisturizing Face Mask, | 10 Sheets, Daily Skin…",
+  "id": "unbranded-b0hf58s1sm",
+  "brand": "Unbranded",
+  "model": "Aloe Vera Essence Facial Mask Sheet, Soothing & Moisturizing Face Mask, | 10 Sheets, Daily…",
   "price": 349,
   "capacityLine": "Quantity not stated",
   "materialLine": "aloe vera",
   "featureLine": "Mask / pack",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.6
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -11720,7 +16759,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61+sewXkSmL._AC_UL320_.jpg"
@@ -11736,7 +16782,8 @@ const CTPRODUCTS = [
    "claim:soothing",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -11744,29 +16791,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "generic-b0h4q5tlxx",
-  "brand": "Generic",
+  "id": "unbranded-b0h4q5tlxx",
+  "brand": "Unbranded",
   "model": "Face Essence Stick Balm | Deep Hydration Moisturizer Stick | Natural Glow & Skin Repair Ba…",
   "price": 497,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.3,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -11781,7 +16851,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51d4lKYRvPL._AC_UL320_.jpg"
@@ -11800,7 +16877,8 @@ const CTPRODUCTS = [
    "claim:barrier",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -11808,7 +16886,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -11819,18 +16920,18 @@ const CTPRODUCTS = [
   "capacityLine": "5 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence · ₹9980/100g",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹9980/100g",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.5,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "5 g",
@@ -11845,7 +16946,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51d4lKYRvPL._AC_UL320_.jpg"
@@ -11865,7 +16973,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -11873,7 +16982,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -11884,18 +17016,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Sheet mask",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -11910,7 +17042,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61apMfYK8IL._AC_UL320_.jpg"
@@ -11929,7 +17068,8 @@ const CTPRODUCTS = [
    "skin:all",
    "aud:women",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -11937,7 +17077,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -11948,18 +17111,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Sheet mask",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -11974,7 +17137,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51I4IelXwIL._AC_UL320_.jpg"
@@ -11990,7 +17160,8 @@ const CTPRODUCTS = [
    "format:sheet-mask",
    "aud:women",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -11998,7 +17169,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -12009,18 +17203,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -12035,7 +17229,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/512cM4IjKHL._AC_UL320_.jpg"
@@ -12053,7 +17254,8 @@ const CTPRODUCTS = [
    "claim:anti-aging",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -12061,31 +17263,51 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "generic-b0fj8p823y",
-  "brand": "Generic",
-  "model": "K DERMA Korean Glass Skin Essence Set, 4-Step Skincare Routine with Ceramide, Pack of 4 (4…",
+  "id": "k-derma-b0fj8p823y",
+  "brand": "K Derma",
+  "model": "Korean Glass Skin Essence Set, 4-Step Skincare Routine with Ceramide, Pack of 4 (45mlx4) E…",
   "price": 299,
   "capacityLine": "Quantity not stated",
   "materialLine": "ceramides",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.2,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -12100,7 +17322,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81lb+DpvtUL._AC_UL320_.jpg"
@@ -12116,7 +17345,8 @@ const CTPRODUCTS = [
    "claim:korean",
    "aud:unisex",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -12124,32 +17354,51 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
   }
  },
  {
-  "id": "generic-b0f8j7d118",
-  "brand": "Generic",
-  "model": "K DERMA Korean Glass Skin Essence Set, 4-Step Skincare Kit with Scrub, Gel, Face Pack, Cre…",
+  "id": "k-derma-b0f8j7d118",
+  "brand": "K Derma",
+  "model": "Korean Glass Skin Essence Set, 4-Step Skincare Kit with Scrub, Gel, Face Pack, Cream, Rice…",
   "price": 750,
   "capacityLine": "1520 ml",
   "materialLine": "ceramides + rice water",
   "featureLine": "Mask / pack · ₹49/100ml",
-  "highlight": "Live Amazon listing rated 4.4★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹49/100ml",
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.4)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.8,
-   "skin": 4,
-   "ingredients": 5.8,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.2
   },
   "fullSpec": {
    "quantity": "1520 ml",
@@ -12164,7 +17413,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61pwhxqHVAL._SL1500_.jpg"
@@ -12192,7 +17448,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:xl",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -12200,38 +17457,59 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
   }
  },
  {
-  "id": "generic-b0h1wxvs8n",
-  "brand": "Generic",
+  "id": "unbranded-b0h1wxvs8n",
+  "brand": "Unbranded",
   "model": "Korean Glass Skin Essence Rice Water & Ceramide Gel, Paraben & Sulphate Free, 100% Natural…",
   "price": 199,
   "capacityLine": "Quantity not stated",
   "materialLine": "ceramides + rice water",
   "featureLine": "Essence · Sulfate/SLS-free",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Sulfate/SLS-free (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.5,
-   "ingredients": 5.8,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
    "format": "Essence",
    "keyIngredients": "ceramides, rice water (per listing)",
-   "freeFrom": "Sulfate/SLS-free (per listing)",
+   "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Not stated in listing",
@@ -12239,7 +17517,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/612owuf7QLL._AC_UL320_.jpg"
@@ -12257,7 +17542,8 @@ const CTPRODUCTS = [
    "free:sulfate",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -12265,31 +17551,51 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "generic-b0gk7yyhnd",
-  "brand": "Generic",
-  "model": "K DERMA Korean Glass Skin Essence Night Cream 50ml | With 1% Ceramide, Rice Water, Niacina…",
+  "id": "k-derma-b0gk7yyhnd",
+  "brand": "K Derma",
+  "model": "Korean Glass Skin Essence Night Cream 50ml | With 1% Ceramide, Rice Water, Niacinamide & H…",
   "price": 276,
   "capacityLine": "50 ml",
   "materialLine": "niacinamide + hyaluronic acid + ceramides",
   "featureLine": "Essence · ₹552/100ml",
-  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (5.0)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5.1,
-   "skin": 4,
-   "ingredients": 6.3,
-   "experience": 5.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
   },
   "fullSpec": {
    "quantity": "50 ml",
@@ -12304,7 +17610,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61-R99z0vfL._AC_UL320_.jpg"
@@ -12326,7 +17639,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -12334,7 +17648,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
   }
  },
  {
@@ -12345,17 +17682,16 @@ const CTPRODUCTS = [
   "capacityLine": "75 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence · ₹1649/100ml",
-  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1649/100ml"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "trust": 5.4,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6.5,
+   "experience": 2.2
   },
   "fullSpec": {
    "quantity": "75 ml",
@@ -12370,7 +17706,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Amorepacific — Global FMCG or beauty group",
+   "buyerEvidence": "4.1★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41vl9Fkkx4L._AC_UL320_.jpg"
@@ -12386,7 +17729,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -12394,7 +17738,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Amorepacific",
+    "kind": "global",
+    "label": "Global FMCG or beauty group",
+    "pts": 6.5,
+    "url": "https://www.apgroup.com/int/en/brands/brands.html"
+   },
+   "buyers": "4.1★ from 0 ratings"
   }
  },
  {
@@ -12405,20 +17772,17 @@ const CTPRODUCTS = [
   "capacityLine": "140 ml",
   "materialLine": "ceramides + centella/cica",
   "featureLine": "Scrub / exfoliant · ₹938/100ml",
-  "highlight": "Live Amazon listing rated 4.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.5)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.6
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.5
   },
   "fullSpec": {
    "quantity": "140 ml",
@@ -12433,7 +17797,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.5/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.5★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/714-fNWaduL._AC_UL320_.jpg"
@@ -12455,7 +17826,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:large",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -12463,46 +17835,74 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.5★ from 0 ratings"
   }
  },
  {
-  "id": "generic-b0hf83ncpm",
-  "brand": "Generic",
-  "model": "K Derma Korean Glass Skin Essence Ceramide Complex Cream, 380ml | Fades Dark Spots, Dermat…",
+  "id": "k-derma-b0hf83ncpm",
+  "brand": "K Derma",
+  "model": "Korean Glass Skin Essence Ceramide Complex Cream, 380ml | Fades Dark Spots, Dermatological…",
   "price": 219,
   "capacityLine": "380 ml",
   "materialLine": "ceramides",
   "featureLine": "Essence · Sulfate/SLS-free · ₹58/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹58/100ml",
-   "Contains evidence-backed actives (per listing)",
-   "Sulfate/SLS-free (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 4.4,
-   "skin": 5.2,
-   "ingredients": 5.4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "380 ml",
    "pricePer100": "₹58/100ml",
    "format": "Essence",
    "keyIngredients": "ceramides (per listing)",
-   "freeFrom": "Sulfate/SLS-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
+   "freeFrom": "Sulfate/SLS-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating",
    "audience": "Unisex / not stated",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/611hsgs8LLL._AC_UL320_.jpg"
@@ -12523,7 +17923,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:xl",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -12531,7 +17932,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": true,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -12542,20 +17966,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "vitamin C",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -12570,7 +17992,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51WVa6qMObL._AC_UL320_.jpg"
@@ -12587,7 +18016,8 @@ const CTPRODUCTS = [
    "claim:korean",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -12595,7 +18025,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -12606,17 +18059,18 @@ const CTPRODUCTS = [
   "capacityLine": "120 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Toner · ₹666/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "120 ml",
@@ -12631,7 +18085,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51VeDLkXcaL._AC_UL320_.jpg"
@@ -12650,7 +18111,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -12658,7 +18120,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -12669,19 +18154,18 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "rice water",
   "featureLine": "Essence · ₹169/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹169/100ml"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "100 ml",
@@ -12696,7 +18180,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/616bup4Hd6L._AC_UL320_.jpg"
@@ -12716,7 +18207,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -12724,7 +18216,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -12735,18 +18250,17 @@ const CTPRODUCTS = [
   "capacityLine": "120 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Toner · ₹666/100ml",
-  "highlight": "Live Amazon listing rated 3.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (3.0)",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 3,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "120 ml",
@@ -12761,7 +18275,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "3.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61BtfAtGh5L._AC_UL320_.jpg"
@@ -12780,7 +18301,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:low",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -12788,7 +18310,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3★ from 0 ratings"
   }
  },
  {
@@ -12799,20 +18344,18 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "hyaluronic acid + peptides + squalane",
   "featureLine": "Toner · ₹2398/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹2398/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.9,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "50 ml",
@@ -12827,7 +18370,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51lSuwECfyL._AC_UL320_.jpg"
@@ -12850,7 +18400,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -12858,28 +18409,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "rice-b0d8jchg8h",
-  "brand": "Rice",
-  "model": "Toner Korean Rejuvenating Skin Care Remove Fine Line Moisturizing Whitening Brightening, R…",
+  "id": "unbranded-b0d8jchg8h",
+  "brand": "Unbranded",
+  "model": "Rice Toner Korean Rejuvenating Skin Care Remove Fine Line Moisturizing Whitening Brighteni…",
   "price": 999,
   "capacityLine": "120 ml",
   "materialLine": "rice water",
   "featureLine": "Toner · ₹833/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.7,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "120 ml",
@@ -12894,7 +18469,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/516hbJ8mxjL._AC_UL320_.jpg"
@@ -12914,7 +18496,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -12922,29 +18505,52 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "rice-b0h99twd1w",
-  "brand": "Rice",
-  "model": "Essence Cream Korean Sunscreen for Oily Skin Facial Cream for Skin Application Lightweight…",
+  "id": "unbranded-b0h99twd1w",
+  "brand": "Unbranded",
+  "model": "Rice Essence Cream Korean Sunscreen for Oily Skin Facial Cream for Skin Application Lightw…",
   "price": 399,
   "capacityLine": "Quantity not stated",
   "materialLine": "rice water",
   "featureLine": "Sunscreen",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.7,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -12959,7 +18565,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51bs49S6hhL._SL1500_.jpg",
@@ -12985,7 +18598,8 @@ const CTPRODUCTS = [
    "skin:oily",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -12993,7 +18607,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -13004,17 +18641,18 @@ const CTPRODUCTS = [
   "capacityLine": "120 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Toner · ₹541/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "120 ml",
@@ -13029,7 +18667,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51t1M2oUBAL._AC_UL320_.jpg"
@@ -13048,7 +18693,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -13056,29 +18702,51 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "buy-b0cwgv2bf6",
-  "brand": "Buy",
-  "model": "Twasa Rose Face Sheet Mask: Infused With Korean Rose Essence, Daily Skincare For Hydration…",
+  "id": "twasa-b0cwgv2bf6",
+  "brand": "Twasa",
+  "model": "Rose Face Sheet Mask: Infused With Korean Rose Essence, Daily Skincare For Hydration, Nour…",
   "price": 314,
   "capacityLine": "100 g (pack of 5)",
   "materialLine": "rose",
   "featureLine": "Sheet mask · ₹314/100g",
-  "highlight": "Live Amazon listing rated 2.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (2.0)",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 3,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "20 g × 5 pack",
@@ -13093,14 +18761,21 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "2.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "2★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61AiFuQcHZL._AC_UL320_.jpg"
   ],
   "buyUrl": "https://www.amazon.in/dp/B0CWGV2BF6",
   "buyStore": "Amazon",
-  "title": "Buy Twasa Rose Face Sheet Mask: Infused With Korean Rose Essence, Daily Skincare For Hydration, Nourishment, And Radiant Glow | Face sheet mask for Men & Women (20g) - Pack of 5 Online at Low Prices in India - Amazon.in",
+  "title": "Twasa Rose Face Sheet Mask: Infused With Korean Rose Essence, Daily Skincare For Hydration, Nourishment, And Radiant Glow | Face sheet mask for Men & Women (20g) - Pack of 5",
   "tags": [
    "scope:face",
    "format:essence",
@@ -13113,7 +18788,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:standard",
    "rating:low",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -13121,7 +18797,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "2★ from 0 ratings"
   }
  },
  {
@@ -13132,17 +18831,18 @@ const CTPRODUCTS = [
   "capacityLine": "120 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Toner · ₹666/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "120 ml",
@@ -13157,7 +18857,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61BtfAtGh5L._AC_UL320_.jpg"
@@ -13176,7 +18883,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -13184,7 +18892,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -13195,18 +18926,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -13221,7 +18952,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/412wAwNksLL._AC_UL320_.jpg"
@@ -13240,7 +18978,8 @@ const CTPRODUCTS = [
    "claim:korean",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -13248,7 +18987,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -13259,17 +19021,18 @@ const CTPRODUCTS = [
   "capacityLine": "35 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Mask / pack · ₹369/100g",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "35 g",
@@ -13284,7 +19047,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/419cC18PyXL._AC_UL320_.jpg"
@@ -13300,7 +19070,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -13308,28 +19079,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "cica-b0h7ptrzjw",
-  "brand": "Cica",
-  "model": "+ Galactomyces Glow Essence Toner for Face | Hydrating & Soothing Facial Toner with Centel…",
+  "id": "unbranded-b0h7ptrzjw",
+  "brand": "Unbranded",
+  "model": "Cica + Galactomyces Glow Essence Toner for Face | Hydrating & Soothing Facial Toner with C…",
   "price": 899,
   "capacityLine": "100 ml",
   "materialLine": "centella/cica",
   "featureLine": "Toner · ₹899/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "100 ml",
@@ -13344,7 +19139,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71lG2SPA6jL._AC_UL320_.jpg"
@@ -13364,7 +19166,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -13372,7 +19175,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -13383,18 +19209,18 @@ const CTPRODUCTS = [
   "capacityLine": "10 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence · ₹1690/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1690/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "10 ml",
@@ -13409,7 +19235,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/81jt6qHT3FL._AC_UL320_.jpg"
@@ -13427,7 +19260,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -13435,7 +19269,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -13446,20 +19303,17 @@ const CTPRODUCTS = [
   "capacityLine": "33 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Mask / pack · ₹1361/100g",
-  "highlight": "Live Amazon listing rated 4.4★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Strong buyer rating (4.4)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1361/100g",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.8,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.2
   },
   "fullSpec": {
    "quantity": "33 g",
@@ -13474,7 +19328,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71CxFCmaiuL._AC_UL320_.jpg"
@@ -13491,7 +19352,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -13499,7 +19361,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
   }
  },
  {
@@ -13510,17 +19395,18 @@ const CTPRODUCTS = [
   "capacityLine": "120 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Toner · ₹666/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "120 ml",
@@ -13535,7 +19421,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51VeDLkXcaL._AC_UL320_.jpg"
@@ -13554,7 +19447,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -13562,7 +19456,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -13573,18 +19490,18 @@ const CTPRODUCTS = [
   "capacityLine": "5 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence · ₹11780/100g",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹11780/100g",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "5 g",
@@ -13599,7 +19516,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51d4lKYRvPL._AC_UL320_.jpg"
@@ -13617,7 +19541,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -13625,31 +19550,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "professional-b0h2yzpjjm",
-  "brand": "Professional",
-  "model": "Korean Glass Essence Facial Kit | Black Rice Water & Glycolic Acid | 5-Step Glow Facial | …",
+  "id": "unbranded-b0h2yzpjjm",
+  "brand": "Unbranded",
+  "model": "Professional Korean Glass Essence Facial Kit | Black Rice Water & Glycolic Acid | 5-Step G…",
   "price": 220,
   "capacityLine": "Quantity not stated",
   "materialLine": "glycolic acid + rice water",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -13664,7 +19610,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71sHM9lA07L._AC_UL320_.jpg"
@@ -13682,7 +19635,8 @@ const CTPRODUCTS = [
    "claim:korean",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -13690,30 +19644,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "rice-b0hfdhc15v",
-  "brand": "Rice",
-  "model": "Essence Soap, Rice Raw Pulp Essence Soap Added Rice Extract, Deep Cleaning Exfoliating & M…",
+  "id": "unbranded-b0hfdhc15v",
+  "brand": "Unbranded",
+  "model": "Rice Essence Soap, Rice Raw Pulp Essence Soap Added Rice Extract, Deep Cleaning Exfoliatin…",
   "price": 245,
   "capacityLine": "100 g",
   "materialLine": "rice water",
   "featureLine": "Scrub / exfoliant · ₹245/100g",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹245/100g"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.6
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "100 g",
@@ -13728,7 +19704,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/618av3Nx-sL._AC_UL320_.jpg"
@@ -13749,7 +19732,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:standard",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -13757,7 +19741,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -13768,18 +19775,18 @@ const CTPRODUCTS = [
   "capacityLine": "5 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence · ₹12960/100g",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹12960/100g",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "5 g",
@@ -13794,7 +19801,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51d4lKYRvPL._AC_UL320_.jpg"
@@ -13812,7 +19826,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -13820,31 +19835,51 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "professional-b0dsqb23hb",
-  "brand": "Professional",
-  "model": "Korean Glass Whitening Essence Facial Kit, 113ml, 8 Steps, Rice Water + Glycolic Acid",
+  "id": "unbranded-b0dsqb23hb",
+  "brand": "Unbranded",
+  "model": "Professional Korean Glass Whitening Essence Facial Kit, 113ml, 8 Steps, Rice Water + Glyco…",
   "price": 450,
   "capacityLine": "113 ml",
   "materialLine": "glycolic acid + rice water",
   "featureLine": "Essence · ₹398/100ml",
-  "highlight": "Live Amazon listing rated 4.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.5)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.5
   },
   "fullSpec": {
    "quantity": "113 ml",
@@ -13859,7 +19894,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.5/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.5★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71gfbLrO7lL._AC_UL320_.jpg"
@@ -13878,7 +19920,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -13886,7 +19929,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.5★ from 0 ratings"
   }
  },
  {
@@ -13897,20 +19963,17 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "peptides",
   "featureLine": "Essence · ₹454/100ml",
-  "highlight": "Live Amazon listing rated 1.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (1.0)",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 3,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "50 ml",
@@ -13925,7 +19988,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "1.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "1★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61kebo2meyL._AC_UL320_.jpg"
@@ -13947,7 +20017,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:low",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -13955,7 +20026,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "1★ from 0 ratings"
   }
  },
  {
@@ -13966,18 +20060,18 @@ const CTPRODUCTS = [
   "capacityLine": "5 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence · ₹15980/100g",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹15980/100g",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "5 g",
@@ -13992,7 +20086,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/513WtBkD98L._AC_UL320_.jpg"
@@ -14010,7 +20111,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -14018,29 +20120,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "generic-b0hdyk368f",
-  "brand": "Generic",
+  "id": "unbranded-b0hdyk368f",
+  "brand": "Unbranded",
   "model": "Premium PDRN Collagen Essence Stick Balm 9.5g | Hydrating Face Moisturizer Stick with Kore…",
   "price": 698,
   "capacityLine": "5 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence · ₹13960/100g",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹13960/100g",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "5 g",
@@ -14055,7 +20180,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/619hsVB21nL._AC_UL320_.jpg"
@@ -14076,7 +20208,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -14084,7 +20217,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -14095,18 +20251,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -14121,7 +20277,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/615SY9P4GDL._AC_UL320_.jpg"
@@ -14141,7 +20304,8 @@ const CTPRODUCTS = [
    "skin:dry",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -14149,7 +20313,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -14160,18 +20347,18 @@ const CTPRODUCTS = [
   "capacityLine": "5 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence · ₹15980/100g",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹15980/100g",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "5 g",
@@ -14186,7 +20373,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61hEkRB37rL._AC_UL320_.jpg"
@@ -14208,7 +20402,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -14216,38 +20411,59 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "rice-b0gf9b1qgw",
-  "brand": "Rice",
-  "model": "Toner | Milky Korean Rice Water Toner for Glowing Skin, Glow Essence with Niacinamide, Dul…",
+  "id": "unbranded-b0gf9b1qgw",
+  "brand": "Unbranded",
+  "model": "Rice Toner | Milky Korean Rice Water Toner for Glowing Skin, Glow Essence with Niacinamide…",
   "price": 199,
   "capacityLine": "Quantity not stated",
   "materialLine": "niacinamide + rice water",
   "featureLine": "Toner · Fragrance-free",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Fragrance-free (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.5,
-   "ingredients": 6,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
    "format": "Toner",
    "keyIngredients": "niacinamide, rice water (per listing)",
-   "freeFrom": "Fragrance-free (per listing)",
+   "freeFrom": "Fragrance-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Brightening/glow claim",
@@ -14255,7 +20471,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/712NHFqrumL._AC_UL320_.jpg"
@@ -14276,7 +20499,8 @@ const CTPRODUCTS = [
    "skin:combination",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -14284,29 +20508,52 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "buy-b0gcrtl4j3",
-  "brand": "Buy",
-  "model": "COOFANDY Yellow Collagen Facial Sheet Mask with Collagen Essence – Hydrating, Brightening,…",
+  "id": "coofandy-b0gcrtl4j3",
+  "brand": "COOFANDY",
+  "model": "Yellow Collagen Facial Sheet Mask with Collagen Essence – Hydrating, Brightening, and Firm…",
   "price": 399,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Sheet mask",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -14321,14 +20568,21 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51XVkagJ1TL._AC_UL320_.jpg"
   ],
   "buyUrl": "https://www.amazon.in/dp/B0GCRTL4J3",
   "buyStore": "Amazon",
-  "title": "Buy COOFANDY Yellow Collagen Facial Sheet Mask with Collagen Essence – Hydrating, Brightening, and Firming Face Mask for Smooth, Healthy-Looking Skin, Radiant Skin Care, Korean Skin Care. Online at Low Prices in India - Amazon.in",
+  "title": "COOFANDY Yellow Collagen Facial Sheet Mask with Collagen Essence – Hydrating, Brightening, and Firming Face Mask for Smooth, Healthy-Looking Skin, Radiant Skin Care, Korean Skin Care.",
   "tags": [
    "scope:face",
    "format:essence",
@@ -14340,7 +20594,8 @@ const CTPRODUCTS = [
    "claim:korean",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -14348,7 +20603,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -14359,20 +20637,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "peptides",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -14387,7 +20663,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61F4r3OvKNL._AC_UL320_.jpg"
@@ -14410,7 +20693,8 @@ const CTPRODUCTS = [
    "skin:all",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -14418,29 +20702,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "buy-b0gcrmnf7b",
-  "brand": "Buy",
-  "model": "COOFANDY Yellow Collagen Face Mask, Brightening & Firming Facial Sheet Mask with Collagen …",
+  "id": "coofandy-b0gcrmnf7b",
+  "brand": "COOFANDY",
+  "model": "Yellow Collagen Face Mask, Brightening & Firming Facial Sheet Mask with Collagen Essence f…",
   "price": 239,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Sheet mask",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -14455,14 +20762,21 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51XVkagJ1TL._AC_UL320_.jpg"
   ],
   "buyUrl": "https://www.amazon.in/dp/B0GCRMNF7B",
   "buyStore": "Amazon",
-  "title": "Buy COOFANDY Yellow Collagen Face Mask, Brightening & Firming Facial Sheet Mask with Collagen Essence for Hydration, Elasticity, and Radiant Skin Care, Korean Skin Care. Online at Low Prices in India - Amazon.in",
+  "title": "COOFANDY Yellow Collagen Face Mask, Brightening & Firming Facial Sheet Mask with Collagen Essence for Hydration, Elasticity, and Radiant Skin Care, Korean Skin Care.",
   "tags": [
    "scope:face",
    "format:essence",
@@ -14474,7 +20788,8 @@ const CTPRODUCTS = [
    "claim:korean",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -14482,7 +20797,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -14493,18 +20831,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -14519,7 +20857,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61hEkRB37rL._AC_UL320_.jpg"
@@ -14540,7 +20885,8 @@ const CTPRODUCTS = [
    "skin:mature",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -14548,7 +20894,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -14559,18 +20928,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -14585,7 +20954,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61iGT06gJ6L._AC_UL320_.jpg"
@@ -14607,7 +20983,8 @@ const CTPRODUCTS = [
    "skin:mature",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -14615,31 +20992,51 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "buy-b0f4xn4hh6",
-  "brand": "Buy",
-  "model": "Suroskie Rose Collagen Facial Essence Mask – Korean Brightening Sheet Mask With Real Rose …",
+  "id": "suroskie-b0f4xn4hh6",
+  "brand": "Suroskie",
+  "model": "Rose Collagen Facial Essence Mask – Korean Brightening Sheet Mask With Real Rose Extract &…",
   "price": 250,
   "capacityLine": "Quantity not stated",
   "materialLine": "rose",
   "featureLine": "Sheet mask",
-  "highlight": "Live Amazon listing rated 4.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Strong buyer rating (4.5)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.5
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -14654,14 +21051,21 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.5/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.5★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61r5ErRpH1L._AC_UL320_.jpg"
   ],
   "buyUrl": "https://www.amazon.in/dp/B0F4XN4HH6",
   "buyStore": "Amazon",
-  "title": "Buy Suroskie Rose Collagen Facial Essence Mask – Korean Brightening Sheet Mask With Real Rose Extract & Anti-Aging Collagen | Intense Hydration, Firming Glow, Radiance Boost For Dull, Dry, Tired Skin Online at Low Prices in India - Amazon.in",
+  "title": "Suroskie Rose Collagen Facial Essence Mask – Korean Brightening Sheet Mask With Real Rose Extract & Anti-Aging Collagen | Intense Hydration, Firming Glow, Radiance Boost For Dull, Dry, Tired Skin",
   "tags": [
    "scope:face",
    "format:essence",
@@ -14674,7 +21078,8 @@ const CTPRODUCTS = [
    "claim:korean",
    "aud:unisex",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -14682,7 +21087,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.5★ from 0 ratings"
   }
  },
  {
@@ -14693,18 +21121,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -14719,7 +21147,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51+yX+JMpSL._AC_UL320_.jpg"
@@ -14739,7 +21174,8 @@ const CTPRODUCTS = [
    "claim:korean",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -14747,7 +21183,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -14758,20 +21217,18 @@ const CTPRODUCTS = [
   "capacityLine": "5 g",
   "materialLine": "ceramides",
   "featureLine": "Essence · ₹11980/100g",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹11980/100g",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.6,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "5 g",
@@ -14786,7 +21243,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71xVWOKaemL._AC_UL320_.jpg"
@@ -14811,7 +21275,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -14819,7 +21284,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -14830,18 +21318,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.3,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -14856,7 +21344,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61FYP440LuL._SL1500_.jpg",
@@ -14880,7 +21375,8 @@ const CTPRODUCTS = [
    "skin:sensitive",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -14888,7 +21384,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -14899,20 +21418,18 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "niacinamide + ceramides",
   "featureLine": "Essence · ₹1299/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1299/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 6,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "100 ml",
@@ -14927,7 +21444,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61TNggQktzL._AC_UL320_.jpg"
@@ -14948,7 +21472,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -14956,7 +21481,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -14967,18 +21515,16 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "centella/cica",
   "featureLine": "Essence · ₹719/100ml",
-  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Strong buyer rating (4.2)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "trust": 6.3,
-   "skin": 4,
-   "ingredients": 4.9,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 2.6
   },
   "fullSpec": {
    "quantity": "100 ml",
@@ -14993,7 +21539,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Pureplay Skin Sciences — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.2★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/412EHzODPRL._AC_UL320_.jpg"
@@ -15014,7 +21567,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:standard",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -15022,7 +21576,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Pureplay Skin Sciences",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://plumgoodness.com/"
+   },
+   "buyers": "4.2★ from 0 ratings"
   }
  },
  {
@@ -15033,18 +21610,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "rice water",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -15059,7 +21636,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/31HkwBkrcVL._AC_UL320_.jpg"
@@ -15076,7 +21660,8 @@ const CTPRODUCTS = [
    "claim:lightweight",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -15084,7 +21669,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -15095,19 +21703,16 @@ const CTPRODUCTS = [
   "capacityLine": "100 g",
   "materialLine": "hyaluronic acid + rice water",
   "featureLine": "Essence · ₹140/100g",
-  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹140/100g",
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "trust": 5.3,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 1.9
   },
   "fullSpec": {
    "quantity": "100 g",
@@ -15122,7 +21727,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Nature's Essence — Indian D2C brand with its own product company",
+   "buyerEvidence": "4★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61C+SHTJhbL._AC_UL320_.jpg"
@@ -15144,7 +21756,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -15152,28 +21765,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Nature's Essence",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.naturesessence.in/"
+   },
+   "buyers": "4★ from 0 ratings"
   }
  },
  {
-  "id": "daily-b0h9dcpzd5",
-  "brand": "Daily",
-  "model": "Rice Water Skin Essence | Brightening & Moisture Boosting Face Care | Fast Absorbing Formu…",
+  "id": "unbranded-b0h9dcpzd5",
+  "brand": "Unbranded",
+  "model": "Daily Rice Water Skin Essence | Brightening & Moisture Boosting Face Care | Fast Absorbing…",
   "price": 269,
   "capacityLine": "30 ml",
   "materialLine": "rice water",
   "featureLine": "Essence · ₹897/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "30 ml",
@@ -15188,7 +21825,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/613XT03ensL._AC_UL320_.jpg"
@@ -15205,7 +21849,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -15213,30 +21858,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "glow-b0h5r4ty5k",
-  "brand": "Glow",
-  "model": "Essence Face Toner for Women & Men - 100 ml | Rice Water Formula with Bearberry Extract | …",
+  "id": "unbranded-b0h5r4ty5k",
+  "brand": "Unbranded",
+  "model": "Glow Essence Face Toner for Women & Men - 100 ml | Rice Water Formula with Bearberry Extra…",
   "price": 249,
   "capacityLine": "100 ml",
   "materialLine": "rice water",
   "featureLine": "Toner · ₹249/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹249/100ml"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "100 ml",
@@ -15251,7 +21918,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/613i0+Z0kfL._AC_UL320_.jpg"
@@ -15270,7 +21944,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:standard",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -15278,7 +21953,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -15289,18 +21987,18 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "rice water",
   "featureLine": "Essence · ₹1653/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1653/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.7,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "30 ml",
@@ -15315,7 +22013,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51DK1r8HrXL._AC_UL320_.jpg"
@@ -15337,7 +22042,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -15345,38 +22051,58 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "brightening-b0dpxccl4h",
-  "brand": "Brightening",
-  "model": "Face Mist & Essence Toner with Rice & Ceramides |Strenghten Skin Barrier | For Clear Korea…",
+  "id": "unbranded-b0dpxccl4h",
+  "brand": "Unbranded",
+  "model": "Brightening Face Mist & Essence Toner with Rice & Ceramides |Strenghten Skin Barrier | For…",
   "price": 179,
   "capacityLine": "100 ml",
   "materialLine": "ceramides + rice water",
   "featureLine": "Toner · Paraben-free · ₹179/100ml",
-  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹179/100ml",
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.7,
-   "skin": 6,
-   "ingredients": 6,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
   },
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹179/100ml",
    "format": "Toner",
    "keyIngredients": "ceramides, rice water (per listing)",
-   "freeFrom": "Paraben-free, Sulfate/SLS-free, Fragrance-free, Alcohol-free (per listing)",
+   "freeFrom": "Paraben-free, Sulfate/SLS-free, Fragrance-free, Alcohol-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim, Acne/blemish claim",
@@ -15384,7 +22110,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51K67KEHAbL._SL1500_.jpg",
@@ -15424,7 +22157,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:standard",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -15432,30 +22166,52 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
   }
  },
  {
-  "id": "generic-b0h2zl5tk5",
-  "brand": "Generic",
+  "id": "unbranded-b0h2zl5tk5",
+  "brand": "Unbranded",
   "model": "Korean Glass Skin Face Serum | Retinol + Ceramide Complex with 10% Black Rice Water | Brig…",
   "price": 275,
   "capacityLine": "30 ml",
   "materialLine": "retinol + ceramides + rice water",
   "featureLine": "Essence · ₹917/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.9,
-   "experience": 5.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "30 ml",
@@ -15470,7 +22226,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71NYVztwOFL._AC_UL320_.jpg"
@@ -15493,7 +22256,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -15501,29 +22265,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "rice-b0gqgj9t2s",
-  "brand": "Rice",
-  "model": "Skin Beauty Essence Serum for Face, Hydrating Glow Formula for Bright Look and Even Tone, …",
+  "id": "unbranded-b0gqgj9t2s",
+  "brand": "Unbranded",
+  "model": "Rice Skin Beauty Essence Serum for Face, Hydrating Glow Formula for Bright Look and Even T…",
   "price": 239,
   "capacityLine": "Quantity not stated",
   "materialLine": "rice water",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -15538,7 +22325,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41EJTeZcLOL._AC_UL320_.jpg"
@@ -15557,7 +22351,8 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -15565,7 +22360,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -15576,17 +22394,18 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "rice water",
   "featureLine": "Essence · ₹997/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "30 ml",
@@ -15601,7 +22420,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51aHSS08ptL._AC_UL320_.jpg"
@@ -15618,7 +22444,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -15626,7 +22453,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -15637,21 +22487,17 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "niacinamide + rice water + squalane",
   "featureLine": "Essence · ₹1130/100g",
-  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (5.0)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1130/100g",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5.1,
-   "skin": 4,
-   "ingredients": 5.9,
-   "experience": 5.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
   },
   "fullSpec": {
    "quantity": "50 g",
@@ -15666,7 +22512,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71IPK9EycML._AC_UL320_.jpg"
@@ -15689,7 +22542,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -15697,7 +22551,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
   }
  },
  {
@@ -15708,20 +22585,17 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "rice water",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing rated 4.4★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Strong buyer rating (4.4)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.8,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.2
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -15736,7 +22610,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51I9ZOfux8L._AC_UL320_.jpg"
@@ -15756,7 +22637,8 @@ const CTPRODUCTS = [
    "skin:combination",
    "aud:unisex",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -15764,7 +22646,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
   }
  },
  {
@@ -15775,18 +22680,18 @@ const CTPRODUCTS = [
   "capacityLine": "15 ml",
   "materialLine": "rice water",
   "featureLine": "Essence · ₹5253/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹5253/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "15 ml",
@@ -15801,7 +22706,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41pBzeEggeL._AC_UL320_.jpg"
@@ -15821,7 +22733,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -15829,30 +22742,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "rice-b0h7ng913d",
-  "brand": "Rice",
-  "model": "& Ceramide Milky Essence Toner for Face | Deep Hydrating & Moisturizing Toner with Brown R…",
+  "id": "unbranded-b0h7ng913d",
+  "brand": "Unbranded",
+  "model": "Rice & Ceramide Milky Essence Toner for Face | Deep Hydrating & Moisturizing Toner with Br…",
   "price": 799,
   "capacityLine": "100 ml",
   "materialLine": "niacinamide + ceramides + rice water",
   "featureLine": "Toner · ₹799/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.9,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "100 ml",
@@ -15867,7 +22802,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71b7+pPDbUL._AC_UL320_.jpg"
@@ -15889,7 +22831,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -15897,37 +22840,58 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "rice-b0gysr4rtz",
-  "brand": "Rice",
-  "model": "Toner | Korean Skincare Face Toner with Hydrating Glow | Essence Alcohol Free Fragrance Fr…",
+  "id": "unbranded-b0gysr4rtz",
+  "brand": "Unbranded",
+  "model": "Rice Toner | Korean Skincare Face Toner with Hydrating Glow | Essence Alcohol Free Fragran…",
   "price": 599,
   "capacityLine": "120 ml",
   "materialLine": "rice water",
   "featureLine": "Toner · Fragrance-free · ₹499/100ml",
-  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Fragrance-free (per listing)",
-   "Strong buyer rating (5.0)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5.1,
-   "skin": 4.9,
-   "ingredients": 4.4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
   },
   "fullSpec": {
    "quantity": "120 ml",
    "pricePer100": "₹499/100ml",
    "format": "Toner",
    "keyIngredients": "rice water (per listing)",
-   "freeFrom": "Fragrance-free, Alcohol-free (per listing)",
+   "freeFrom": "Fragrance-free, Alcohol-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim",
@@ -15935,7 +22899,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61pkbSPwxvL._AC_UL320_.jpg"
@@ -15960,7 +22931,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -15968,31 +22940,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
   }
  },
  {
-  "id": "rice-b0h3fn36np",
-  "brand": "Rice",
-  "model": "Essence Toner – Hydrating Korean Face Toner with Rice Water & Ceramide | Daily Skin Care f…",
+  "id": "unbranded-b0h3fn36np",
+  "brand": "Unbranded",
+  "model": "Rice Essence Toner – Hydrating Korean Face Toner with Rice Water & Ceramide | Daily Skin C…",
   "price": 499,
   "capacityLine": "Quantity not stated",
   "materialLine": "ceramides + rice water",
   "featureLine": "Toner",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -16007,7 +23000,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51x-XyVtCbL._AC_UL320_.jpg"
@@ -16026,7 +23026,8 @@ const CTPRODUCTS = [
    "claim:korean",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -16034,7 +23035,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -16045,18 +23069,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "rice water",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -16071,7 +23095,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41XqbHR2sYL._AC_UL320_.jpg"
@@ -16090,7 +23121,8 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -16098,31 +23130,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "generic-b0fy2d9193",
-  "brand": "Generic",
+  "id": "unbranded-b0fy2d9193",
+  "brand": "Unbranded",
   "model": "Face Essence, Hydrating and Brightening Facial Toner with Rice Water and Niacinamide",
   "price": 449,
   "capacityLine": "Quantity not stated",
   "materialLine": "niacinamide + rice water",
   "featureLine": "Toner",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -16137,7 +23190,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/617b-RT341L._AC_UL320_.jpg"
@@ -16155,7 +23215,8 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -16163,7 +23224,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -16174,18 +23258,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "rice water",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -16200,7 +23284,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51kW3o9flKL._AC_UL320_.jpg"
@@ -16220,7 +23311,8 @@ const CTPRODUCTS = [
    "skin:combination",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -16228,37 +23320,59 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "generic-b0h3fkcyt8",
-  "brand": "Generic",
+  "id": "unbranded-b0h3fkcyt8",
+  "brand": "Unbranded",
   "model": "Korean Rice Toner for Face – Lightweight Moisturizing Toner with Rice Extract | Alcohol-Fr…",
   "price": 499,
   "capacityLine": "Quantity not stated",
   "materialLine": "rice water",
   "featureLine": "Toner · Alcohol-free",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Alcohol-free (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.4,
-   "ingredients": 4.4,
-   "experience": 4.6
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
    "pricePer100": "Not stated in listing",
    "format": "Toner",
    "keyIngredients": "rice water (per listing)",
-   "freeFrom": "Alcohol-free (per listing)",
+   "freeFrom": "Alcohol-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating",
@@ -16266,7 +23380,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51x-XyVtCbL._AC_UL320_.jpg"
@@ -16287,7 +23408,8 @@ const CTPRODUCTS = [
    "skin:sensitive",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -16295,7 +23417,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -16306,18 +23451,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "rice water",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -16332,7 +23477,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51kW3o9flKL._AC_UL320_.jpg"
@@ -16352,7 +23504,8 @@ const CTPRODUCTS = [
    "skin:combination",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -16360,7 +23513,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -16371,19 +23547,18 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "niacinamide + alpha arbutin + rice water",
   "featureLine": "Toner · ₹599/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.9,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "100 ml",
@@ -16398,7 +23573,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61ba6MWBeHL._AC_UL320_.jpg"
@@ -16418,7 +23600,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -16426,7 +23609,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -16437,26 +23643,25 @@ const CTPRODUCTS = [
   "capacityLine": "200 ml (pack of 2)",
   "materialLine": "rice water + aloe vera + witch hazel",
   "featureLine": "Essence · Alcohol-free · ₹200/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹200/100ml",
-   "Alcohol-free (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.4,
-   "ingredients": 5.2,
-   "experience": 5.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "100 ml × 2 pack",
    "pricePer100": "₹200/100ml",
    "format": "Essence",
    "keyIngredients": "rice water, aloe vera, witch hazel (per listing)",
-   "freeFrom": "Alcohol-free (per listing)",
+   "freeFrom": "Alcohol-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim",
@@ -16464,7 +23669,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71Wl-jYgcxL._AC_UL320_.jpg"
@@ -16488,7 +23700,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:large",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -16496,29 +23709,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "rice-b0h98w2ns7",
-  "brand": "Rice",
-  "model": "Essence Cream Korean Sunscreen for Oily Skin, Facial Cream for Skin Application, SPF 60+ P…",
+  "id": "unbranded-b0h98w2ns7",
+  "brand": "Unbranded",
+  "model": "Rice Essence Cream Korean Sunscreen for Oily Skin, Facial Cream for Skin Application, SPF …",
   "price": 399,
   "capacityLine": "Quantity not stated",
   "materialLine": "rice water",
   "featureLine": "Sunscreen · SPF 60",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.6
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -16533,7 +23769,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/613raiUUNtL._AC_UL320_.jpg"
@@ -16553,7 +23796,8 @@ const CTPRODUCTS = [
    "skin:oily",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -16561,31 +23805,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "bio-b0d8kr4b7l",
-  "brand": "Bio",
-  "model": "Essence Bio-Vlift Face Firming Cream, Tightening, Double Chin Firming, Hyaluronic Acid, Fe…",
+  "id": "unbranded-b0d8kr4b7l",
+  "brand": "Unbranded",
+  "model": "Bio Essence Bio-Vlift Face Firming Cream, Tightening, Double Chin Firming, Hyaluronic Acid…",
   "price": 2330,
   "capacityLine": "45 g",
   "materialLine": "niacinamide + hyaluronic acid + rice water",
   "featureLine": "Essence · ₹5178/100g",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹5178/100g",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.9,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "45 g",
@@ -16600,7 +23865,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71A8u0Dv3GL._AC_UL320_.jpg"
@@ -16621,7 +23893,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -16629,7 +23902,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -16640,21 +23936,17 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "hyaluronic acid + rice water",
   "featureLine": "Essence · ₹2730/100ml",
-  "highlight": "Live Amazon listing rated 4.4★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.4)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹2730/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.8,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.2
   },
   "fullSpec": {
    "quantity": "50 ml",
@@ -16669,7 +23961,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/417WyNCyYEL._AC_UL320_.jpg"
@@ -16687,7 +23986,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -16695,29 +23995,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
   }
  },
  {
-  "id": "rice-b0gnsj3kcf",
-  "brand": "Rice",
-  "model": "Raw Pulp Essence, Rice Serum, 15ml, Improves Fragile Skin, Nourishes and Shrinks Pores, Lo…",
+  "id": "unbranded-b0gnsj3kcf",
+  "brand": "Unbranded",
+  "model": "Rice Raw Pulp Essence, Rice Serum, 15ml, Improves Fragile Skin, Nourishes and Shrinks Pore…",
   "price": 450,
   "capacityLine": "15 ml",
   "materialLine": "rice water",
   "featureLine": "Essence · ₹3000/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹3000/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "15 ml",
@@ -16732,7 +24055,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61eGIORgk1L._AC_UL320_.jpg"
@@ -16750,7 +24080,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -16758,7 +24089,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -16769,21 +24123,19 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "hyaluronic acid + rice water",
   "featureLine": "Toner",
-  "highlight": "Live Amazon listing rated 5.0★ by 77 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (5.0)"
+   "Well-reviewed: 5★ from 77 ratings"
   ],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5.1,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.6
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 7.6
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -16798,7 +24150,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "5.0/5 (77 ratings, Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 77 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/415qhSDCszL._AC_UL320_.jpg"
@@ -16820,7 +24179,8 @@ const CTPRODUCTS = [
    "free:oil-free",
    "aud:unisex",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -16828,7 +24188,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 77 ratings"
   }
  },
  {
@@ -16839,18 +24222,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "rice water",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -16865,7 +24248,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61ont0PkF1L._AC_UL320_.jpg"
@@ -16884,7 +24274,8 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -16892,7 +24283,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -16903,17 +24317,18 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "rice water",
   "featureLine": "Essence · ₹997/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "30 ml",
@@ -16928,7 +24343,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61WLL30adYL._AC_UL320_.jpg"
@@ -16948,7 +24370,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -16956,39 +24379,58 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "original-b0fyptgryb",
-  "brand": "Original",
-  "model": "Korean Rice Essence Toner | Niacinamide Infused Brightening Formula | Alcohol-Free Hydrati…",
+  "id": "unbranded-b0fyptgryb",
+  "brand": "Unbranded",
+  "model": "Original Korean Rice Essence Toner | Niacinamide Infused Brightening Formula | Alcohol-Fre…",
   "price": 176,
   "capacityLine": "100 ml",
   "materialLine": "niacinamide + rice water",
   "featureLine": "Toner · Alcohol-free · ₹176/100ml",
-  "highlight": "Live Amazon listing rated 1.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹176/100ml",
-   "Contains evidence-backed actives (per listing)",
-   "Alcohol-free (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Mixed buyer rating (1.0)",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 3,
-   "skin": 4.4,
-   "ingredients": 5.5,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹176/100ml",
    "format": "Toner",
    "keyIngredients": "niacinamide, rice water (per listing)",
-   "freeFrom": "Alcohol-free (per listing)",
+   "freeFrom": "Alcohol-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim",
@@ -16996,7 +24438,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "1.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "1★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41VmGcEkEPL._AC_UL320_.jpg"
@@ -17017,7 +24466,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:low",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -17025,7 +24475,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "1★ from 0 ratings"
   }
  },
  {
@@ -17036,19 +24509,18 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "hyaluronic acid + rice water",
   "featureLine": "Sunscreen · SPF 50 · ₹888/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "50 ml",
@@ -17063,7 +24535,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51OEmUjcxrL._AC_UL320_.jpg"
@@ -17087,7 +24566,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -17095,29 +24575,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "generic-b0h99y9n7h",
-  "brand": "Generic",
+  "id": "unbranded-b0h99y9n7h",
+  "brand": "Unbranded",
   "model": "Cream Korean Sunscreen for Oily Skin Facial Cream Rice Essence for Skin Application Lightw…",
   "price": 399,
   "capacityLine": "Quantity not stated",
   "materialLine": "rice water",
   "featureLine": "Sunscreen",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -17132,7 +24635,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61wITQq+deL._AC_UL320_.jpg"
@@ -17153,7 +24663,8 @@ const CTPRODUCTS = [
    "skin:oily",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -17161,7 +24672,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -17172,18 +24706,18 @@ const CTPRODUCTS = [
   "capacityLine": "15 ml",
   "materialLine": "rice water",
   "featureLine": "Essence · ₹4593/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹4593/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "15 ml",
@@ -17198,7 +24732,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41mSr4OZocL._AC_UL320_.jpg"
@@ -17219,7 +24760,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -17227,37 +24769,59 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "rice-b0fygpmstr",
-  "brand": "Rice",
-  "model": "Water Glow Toner | Korean Skincare Essence for Smooth, Bright, and Clear Skin | Fragrance-…",
+  "id": "unbranded-b0fygpmstr",
+  "brand": "Unbranded",
+  "model": "Rice Water Glow Toner | Korean Skincare Essence for Smooth, Bright, and Clear Skin | Fragr…",
   "price": 176,
   "capacityLine": "100 ml",
   "materialLine": "rice water",
   "featureLine": "Toner · Fragrance-free · ₹176/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹176/100ml",
-   "Fragrance-free (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.5,
-   "ingredients": 4.4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹176/100ml",
    "format": "Toner",
    "keyIngredients": "rice water (per listing)",
-   "freeFrom": "Fragrance-free (per listing)",
+   "freeFrom": "Fragrance-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim",
@@ -17265,7 +24829,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41VmGcEkEPL._AC_UL320_.jpg"
@@ -17286,7 +24857,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -17294,29 +24866,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "buy-b0dkpf8xtc",
-  "brand": "Buy",
-  "model": "Get Nectar Happiness Overnight Glow Mask Rice & Beta-Glucan (Oil Free) with Rice fermented…",
+  "id": "get-b0dkpf8xtc",
+  "brand": "Get",
+  "model": "Nectar Happiness Overnight Glow Mask Rice & Beta-Glucan (Oil Free) with Rice fermented, Be…",
   "price": 379,
   "capacityLine": "30 ml",
   "materialLine": "rice water",
   "featureLine": "Mask / pack · ₹1263/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1263/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "30 ml",
@@ -17331,14 +24926,21 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71Xf8jq4gdL._AC_UL320_.jpg"
   ],
   "buyUrl": "https://www.amazon.in/dp/B0DKPF8XTC",
   "buyStore": "Amazon",
-  "title": "Buy Get Nectar Happiness Overnight Glow Mask Rice & Beta-Glucan (Oil Free) with Rice fermented, Beta-glucan & Bean Essence for Skin Glowing Texture-Brightening facial, Softens dull, & Younger-Look (30ml) Online at Low Prices in India - Amazon.in",
+  "title": "Get Nectar Happiness Overnight Glow Mask Rice & Beta-Glucan (Oil Free) with Rice fermented, Beta-glucan & Bean Essence for Skin Glowing Texture-Brightening facial, Softens dull, & Younger-Look (30ml)",
   "tags": [
    "scope:face",
    "format:essence",
@@ -17349,7 +24951,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -17357,7 +24960,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -17368,20 +24994,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "ceramides + rice water",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -17396,7 +25020,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71XZkTH-0+L._AC_UL320_.jpg"
@@ -17416,7 +25047,8 @@ const CTPRODUCTS = [
    "claim:korean",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -17424,7 +25056,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -17435,21 +25090,17 @@ const CTPRODUCTS = [
   "capacityLine": "120 ml",
   "materialLine": "niacinamide + rice water",
   "featureLine": "Essence · ₹1592/100ml",
-  "highlight": "Live Amazon listing rated 4.6★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.6)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1592/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5.1,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.8
   },
   "fullSpec": {
    "quantity": "120 ml",
@@ -17464,7 +25115,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.6/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.6★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/616DoWqW25L._AC_UL320_.jpg"
@@ -17485,7 +25143,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -17493,7 +25152,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.6★ from 0 ratings"
   }
  },
  {
@@ -17504,21 +25186,17 @@ const CTPRODUCTS = [
   "capacityLine": "20 ml",
   "materialLine": "vitamin C + squalane",
   "featureLine": "Essence · ₹4960/100ml",
-  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.2)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹4960/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.5,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
   },
   "fullSpec": {
    "quantity": "20 ml",
@@ -17533,7 +25211,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51mP0f2zlcL._AC_UL320_.jpg"
@@ -17556,7 +25241,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -17564,31 +25250,50 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
   }
  },
  {
-  "id": "conscious-b0g1hv41pg",
-  "brand": "Conscious",
-  "model": "Chemist® Rapid Glow & Brightening Essence | Face Serum with 5 Antioxidant Complex (100X St…",
+  "id": "conscious-chemist-b0g1hv41pg",
+  "brand": "Conscious Chemist",
+  "model": "® Rapid Glow & Brightening Essence | Face Serum with 5 Antioxidant Complex (100X Stronger …",
   "price": 269,
   "capacityLine": "15 ml",
   "materialLine": "vitamin C + retinol + vitamin E",
   "featureLine": "Essence · ₹1793/100ml",
-  "highlight": "Live Amazon listing rated 3.9★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1793/100ml",
-   "Mixed buyer rating (3.9)"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "trust": 4.1,
-   "skin": 4,
-   "ingredients": 5.9,
-   "experience": 5.1
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 1.6
   },
   "fullSpec": {
    "quantity": "15 ml",
@@ -17603,7 +25308,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Conscious Chemist — Indian D2C brand with its own product company",
+   "buyerEvidence": "3.9★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51-J-I8ieVL._AC_UL320_.jpg"
@@ -17624,7 +25336,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:3.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -17632,7 +25345,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Conscious Chemist",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://consciouschemist.com/"
+   },
+   "buyers": "3.9★ from 0 ratings"
   }
  },
  {
@@ -17643,20 +25379,16 @@ const CTPRODUCTS = [
   "capacityLine": "50 ml",
   "materialLine": "vitamin C",
   "featureLine": "Essence · ₹1054/100ml",
-  "highlight": "Live Amazon listing rated 3.8★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1054/100ml",
-   "Mixed buyer rating (3.8)"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "trust": 5,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 6,
+   "experience": 1.3
   },
   "fullSpec": {
    "quantity": "50 ml",
@@ -17671,7 +25403,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Honasa Consumer (listed) — Established / listed Indian FMCG house",
+   "buyerEvidence": "3.8★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61wkUsYlmXL._AC_UL320_.jpg"
@@ -17691,7 +25430,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:3.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -17699,31 +25439,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Honasa Consumer (listed)",
+    "kind": "india",
+    "label": "Established / listed Indian FMCG house",
+    "pts": 6,
+    "url": "https://honasa.in/brands"
+   },
+   "buyers": "3.8★ from 0 ratings"
   }
  },
  {
-  "id": "generic-b0fjrp2pkl",
-  "brand": "Generic",
+  "id": "unbranded-b0fjrp2pkl",
+  "brand": "Unbranded",
   "model": "Vitamin C Serum Contains vitamin C derivatives (3-o- ethyl ascorbic acid) and niacinamide …",
   "price": 400,
   "capacityLine": "Quantity not stated",
   "materialLine": "vitamin C + niacinamide",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -17738,7 +25499,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51LFaaGIYYL._AC_UL320_.jpg"
@@ -17757,7 +25525,8 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -17765,31 +25534,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "generic-b0gl7lmzss",
-  "brand": "Generic",
+  "id": "unbranded-b0gl7lmzss",
+  "brand": "Unbranded",
   "model": "Vitamin C Face Serum 15% L Ascorbic Acid with Ferulic Acid and Vitamin E | Antioxidant Bri…",
   "price": 498,
   "capacityLine": "30 ml",
   "materialLine": "vitamin C + vitamin E",
   "featureLine": "Essence · ₹1660/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1660/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "30 ml",
@@ -17804,7 +25594,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51FlJmGWGSL._AC_UL320_.jpg"
@@ -17826,7 +25623,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -17834,7 +25632,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -17845,20 +25666,17 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "retinol",
   "featureLine": "Mask / pack · ₹1047/100ml",
-  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1047/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.2,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
   },
   "fullSpec": {
    "quantity": "30 ml",
@@ -17873,7 +25691,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71IoyO4NrsL._AC_UL320_.jpg"
@@ -17892,7 +25717,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -17900,31 +25726,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
   }
  },
  {
-  "id": "generic-b0hcp1dh7k",
-  "brand": "Generic",
+  "id": "unbranded-b0hcp1dh7k",
+  "brand": "Unbranded",
   "model": "Retinol Peptide Eye Cream with NAD+ & Protein | Under Eye Cream for Hydration, Firming & S…",
   "price": 799,
   "capacityLine": "20 g",
   "materialLine": "retinol + peptides",
   "featureLine": "Essence · ₹3995/100g",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹3995/100g",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "20 g",
@@ -17939,7 +25786,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Z0oflezqL._AC_UL320_.jpg"
@@ -17960,7 +25814,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -17968,7 +25823,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -17979,20 +25857,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "retinol + peptides",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -18007,7 +25883,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61qqE5A-uRL._AC_UL320_.jpg"
@@ -18027,7 +25910,8 @@ const CTPRODUCTS = [
    "claim:lightweight",
    "aud:women",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -18035,7 +25919,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -18046,20 +25953,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "retinol + peptides",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -18074,7 +25979,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Z0oflezqL._AC_UL320_.jpg"
@@ -18093,7 +26005,8 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -18101,7 +26014,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -18112,20 +26048,18 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "retinol + ceramides + centella/cica",
   "featureLine": "Wash / cleanser · ₹1513/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1513/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.9,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "30 ml",
@@ -18140,7 +26074,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61oURxeT8wL._AC_UL320_.jpg"
@@ -18163,7 +26104,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -18171,7 +26113,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -18182,20 +26147,18 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA) + ceramides + tea tree",
   "featureLine": "Scrub / exfoliant · ₹1663/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1663/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.9,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "30 ml",
@@ -18210,7 +26173,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51xYaF2sjgL._AC_UL320_.jpg"
@@ -18237,7 +26207,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -18245,31 +26216,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "generic-b0djcx3hl3",
-  "brand": "Generic",
+  "id": "unbranded-b0djcx3hl3",
+  "brand": "Unbranded",
   "model": "Salicylic Acid 2% Anti-Acne Serum with Tea Tree & Ceramide | Clears Acne, Blemishes, Black…",
   "price": 499,
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA) + ceramides + tea tree",
   "featureLine": "Scrub / exfoliant · ₹1663/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1663/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.9,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "30 ml",
@@ -18284,7 +26276,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61RL-Xm7McL._AC_UL320_.jpg"
@@ -18307,7 +26306,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -18315,7 +26315,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -18326,21 +26349,17 @@ const CTPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA) + ceramides + tea tree",
   "featureLine": "Essence · ₹1663/100ml",
-  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (5.0)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1663/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5.1,
-   "skin": 4,
-   "ingredients": 5.9,
-   "experience": 5.1
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
   },
   "fullSpec": {
    "quantity": "30 ml",
@@ -18355,7 +26374,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61KYptQLlaL._AC_UL320_.jpg"
@@ -18378,7 +26404,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -18386,7 +26413,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
   }
  },
  {
@@ -18397,20 +26447,17 @@ const CTPRODUCTS = [
   "capacityLine": "400 ml",
   "materialLine": "almond",
   "featureLine": "Essence · ₹130/100ml",
-  "highlight": "Live Amazon listing rated 4.4★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹130/100ml",
-   "Strong buyer rating (4.4)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.8,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.2
   },
   "fullSpec": {
    "quantity": "400 ml",
@@ -18425,7 +26472,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.4★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51c7IvCUrgL._AC_UL320_.jpg"
@@ -18444,7 +26498,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:xl",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -18452,7 +26507,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 0 ratings"
   }
  },
  {
@@ -18463,18 +26541,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -18489,7 +26567,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/618AM93s9lL._AC_UL320_.jpg"
@@ -18509,7 +26594,8 @@ const CTPRODUCTS = [
    "skin:all",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -18517,7 +26603,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -18528,18 +26637,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -18554,7 +26663,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/618AM93s9lL._AC_UL320_.jpg"
@@ -18574,7 +26690,8 @@ const CTPRODUCTS = [
    "skin:all",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -18582,29 +26699,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "generic-b0gw8brzrw",
-  "brand": "Generic",
+  "id": "unbranded-b0gw8brzrw",
+  "brand": "Unbranded",
   "model": "Essence Active Eye Cream for Dark Circles Puffiness and Fine Lines | Hydrating Under Eye C…",
   "price": 369,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -18619,7 +26759,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61jfavT7WjL._AC_UL320_.jpg"
@@ -18639,7 +26786,8 @@ const CTPRODUCTS = [
    "skin:all",
    "aud:women",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -18647,31 +26795,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "advanced-b0h6b1tpbf",
-  "brand": "Advanced",
-  "model": "NAD+ Retinol Eye Cream with Peptides, Protein, Niacinamide Anti-Aging Under eye Cream for …",
+  "id": "unbranded-b0h6b1tpbf",
+  "brand": "Unbranded",
+  "model": "Advanced NAD+ Retinol Eye Cream with Peptides, Protein, Niacinamide Anti-Aging Under eye C…",
   "price": 599,
   "capacityLine": "10 ml",
   "materialLine": "niacinamide + retinol + peptides",
   "featureLine": "Essence · ₹5990/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹5990/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.9,
-   "experience": 5.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "10 ml",
@@ -18686,7 +26855,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/610Zvo5BklL._AC_UL320_.jpg"
@@ -18708,7 +26884,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -18716,7 +26893,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -18727,19 +26927,18 @@ const CTPRODUCTS = [
   "capacityLine": "60 ml (pack of 2)",
   "materialLine": "vitamin C",
   "featureLine": "Essence · ₹415/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "30 ml × 2 pack",
@@ -18754,7 +26953,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51wnjeBH5oL._AC_UL320_.jpg"
@@ -18775,7 +26981,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -18783,31 +26990,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "generic-b0hf84qb1v",
-  "brand": "Generic",
+  "id": "unbranded-b0hf84qb1v",
+  "brand": "Unbranded",
   "model": "Eye Serum for Dark Circles, Puffiness & Wrinkles Anti-Aging Eye Essence Oil with Vitamin C…",
   "price": 289,
   "capacityLine": "Quantity not stated",
   "materialLine": "vitamin C",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -18822,7 +27050,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41unoJKBvoL._AC_UL320_.jpg"
@@ -18842,7 +27077,8 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "aud:women",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -18850,7 +27086,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -18861,20 +27120,17 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Strong buyer rating (4.2)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.5,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -18889,7 +27145,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61ButvPmnBL._AC_UL320_.jpg"
@@ -18908,7 +27171,8 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "aud:unisex",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -18916,7 +27180,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
   }
  },
  {
@@ -18927,27 +27214,25 @@ const CTPRODUCTS = [
   "capacityLine": "15 ml",
   "materialLine": "niacinamide + retinol + peptides",
   "featureLine": "Essence · Alcohol-free · ₹2660/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Alcohol-free (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Pricey: ₹2660/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.4,
-   "ingredients": 6.3,
-   "experience": 5.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "15 ml",
    "pricePer100": "₹2660/100ml",
    "format": "Essence",
    "keyIngredients": "niacinamide, retinol, peptides, caffeine (per listing)",
-   "freeFrom": "Alcohol-free (per listing)",
+   "freeFrom": "Alcohol-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim, Anti-aging claim",
@@ -18955,7 +27240,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/613LgrN9g1L._SL1024_.jpg",
@@ -18991,7 +27283,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -18999,7 +27292,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -19010,21 +27326,17 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "vitamin C",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing rated 4.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.5)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 3.5
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -19039,7 +27351,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.5/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.5★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41xKy6uX9OL._AC_UL320_.jpg"
@@ -19059,7 +27378,8 @@ const CTPRODUCTS = [
    "claim:dark-circles",
    "aud:unisex",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -19067,7 +27387,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.5★ from 0 ratings"
   }
  },
  {
@@ -19078,17 +27421,18 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence · ₹498/100g",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "50 g",
@@ -19103,7 +27447,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71UMRqN1ITL._AC_UL320_.jpg"
@@ -19119,7 +27470,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -19127,7 +27479,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -19138,19 +27513,16 @@ const CTPRODUCTS = [
   "capacityLine": "500 ml",
   "materialLine": "honey + almond + shea butter",
   "featureLine": "Essence · ₹28/100ml",
-  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹28/100ml",
-   "Strong buyer rating (4.3)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "trust": 5.8,
-   "skin": 4,
-   "ingredients": 5.2,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 2.9
   },
   "fullSpec": {
    "quantity": "500 ml",
@@ -19165,7 +27537,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Nature's Essence — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.3★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51JsrgJd0jL._AC_UL320_.jpg"
@@ -19187,7 +27566,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:xl",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -19195,31 +27575,51 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Nature's Essence",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.naturesessence.in/"
+   },
+   "buyers": "4.3★ from 0 ratings"
   }
  },
  {
-  "id": "generic-b0fpr6jmwp",
-  "brand": "Generic",
-  "model": "K DERMA Korean Glass Skin Essence Daily Moisturizer | With Ceramide Complex | Hydrating & …",
+  "id": "k-derma-b0fpr6jmwp",
+  "brand": "K Derma",
+  "model": "Korean Glass Skin Essence Daily Moisturizer | With Ceramide Complex | Hydrating & Brighten…",
   "price": 538,
   "capacityLine": "150 ml (pack of 3)",
   "materialLine": "ceramides",
   "featureLine": "Essence · ₹359/100ml",
-  "highlight": "Live Amazon listing rated 1.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (1.0)",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 3,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "50 ml × 3 pack",
@@ -19234,7 +27634,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "1.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "1★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71KxXOK65oL._AC_UL320_.jpg"
@@ -19254,7 +27661,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:large",
    "rating:low",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -19262,7 +27670,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "1★ from 0 ratings"
   }
  },
  {
@@ -19273,18 +27704,16 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "aloe vera + honey + almond",
   "featureLine": "Essence · ₹69/100ml",
-  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹69/100ml"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "trust": 5.4,
-   "skin": 4,
-   "ingredients": 5.6,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 2.2
   },
   "fullSpec": {
    "quantity": "100 ml",
@@ -19299,7 +27728,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Nature's Essence — Indian D2C brand with its own product company",
+   "buyerEvidence": "4.1★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Eg9aa5PhL._AC_UL320_.jpg"
@@ -19322,7 +27758,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -19330,31 +27767,51 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Nature's Essence",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.naturesessence.in/"
+   },
+   "buyers": "4.1★ from 0 ratings"
   }
  },
  {
-  "id": "buy-b09cdng83y",
-  "brand": "Buy",
-  "model": "Jergens Original Scent Dry Skin Lotion, Body and Hand Moisturizer for Long Lasting Skin Hy…",
+  "id": "jergens-b09cdng83y",
+  "brand": "Jergens",
+  "model": "Original Scent Dry Skin Lotion, Body and Hand Moisturizer for Long Lasting Skin Hydration,…",
   "price": 679,
   "capacityLine": "600 ml",
   "materialLine": "almond",
   "featureLine": "Essence · ₹113/100ml",
-  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹113/100ml",
-   "Strong buyer rating (4.2)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.5,
-   "skin": 4,
-   "ingredients": 4.4,
-   "experience": 4.9
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
   },
   "fullSpec": {
    "quantity": "600 ml",
@@ -19369,14 +27826,21 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71Pp-32dNwL._AC_UL320_.jpg"
   ],
   "buyUrl": "https://www.amazon.in/dp/B09CDNG83Y",
   "buyStore": "Amazon",
-  "title": "Buy Jergens Original Scent Dry Skin Lotion, Body and Hand Moisturizer for Long Lasting Skin Hydration, with HYDRALUCENCE blend and Cherry Almond Essence, 600ml Online at Low Prices in India - Amazon.in",
+  "title": "Jergens Original Scent Dry Skin Lotion, Body and Hand Moisturizer for Long Lasting Skin Hydration, with HYDRALUCENCE blend and Cherry Almond Essence, 600ml",
   "tags": [
    "scope:body",
    "format:lotion",
@@ -19388,7 +27852,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:xl",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -19396,7 +27861,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
   }
  },
  {
@@ -19407,18 +27895,16 @@ const CTPRODUCTS = [
   "capacityLine": "250 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Toner · Paraben-free · ₹219/100ml",
-  "highlight": "Live Flipkart listing rated 4.1★ by 75 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹219/100ml",
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.4,
-   "skin": 4.6,
-   "ingredients": 4.3,
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
    "experience": 4.9
   },
   "fullSpec": {
@@ -19426,7 +27912,7 @@ const CTPRODUCTS = [
    "pricePer100": "₹219/100ml",
    "format": "Toner",
    "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating, Brightening/glow claim",
@@ -19434,7 +27920,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (75 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: NATURAL",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 75 ratings"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/d/w/n/250-peach-77-niacin-essence-toner-anua-original-imahhdfbgmns4zdh.jpeg?q=90",
@@ -19459,7 +27952,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:large",
    "rating:4.0",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -19467,7 +27961,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "partial",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciText": null,
+   "inciUnverified": "NATURAL",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 75 ratings"
   }
  },
  {
@@ -19478,26 +27995,24 @@ const CTPRODUCTS = [
   "capacityLine": "250 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Toner · Paraben-free · ₹281/100ml",
-  "highlight": "Live Flipkart listing rated 3.7★ by 3 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Mixed buyer rating (3.7)",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 3.8,
-   "skin": 4.6,
-   "ingredients": 4.3,
-   "experience": 4.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.8
   },
   "fullSpec": {
    "quantity": "250 ml",
    "pricePer100": "₹281/100ml",
    "format": "Toner",
    "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Not stated in listing",
@@ -19505,7 +28020,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "3.7/5 (3 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.7★ from 3 ratings"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/q/m/j/250-peach-77-naiacin-essence-toner-250ml-anua-original-imahc7znsdr6dgje.jpeg?q=90",
@@ -19526,7 +28048,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:large",
    "rating:3.5",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -19534,31 +28057,53 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.7★ from 3 ratings"
   }
  },
  {
   "id": "moody-itm5db6d33f9691d",
-  "brand": "MOODY",
+  "brand": "Moody",
   "model": "7D Hydro Burst Moisture Magnet Essence Face Mist, Hyaluroni …",
   "price": 172,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Toner",
-  "highlight": "Live Flipkart listing rated 4.4★ by 2,025 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "Strong buyer rating (4.4)"
+   "Well-reviewed: 4.4★ from 2,025 ratings"
   ],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.8,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 7.8
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -19573,7 +28118,15 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.4/5 (2,025 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "declaredManufacturer": "RAS BEAUTY PRIVATE LIMITED C/o Adithya Bio-Tech Lab & Research Pvt Ltd, 14&15/7, Nandanvan Road, Chandanidih, Raipur, Chhattisgarh, India, 492099 (as printed on the Flipkart listing — not scored)",
+   "buyerEvidence": "4.4★ from 2,025 ratings"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/x/k/k/110-dermasoothe-face-mist-barrier-repairing-toner-with-rice-original-imahpczajcbkvga5.jpeg?q=90",
@@ -19594,7 +28147,8 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "aud:unisex",
    "rating:4.0",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -19602,7 +28156,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.4★ from 2,025 ratings"
   }
  },
  {
@@ -19613,26 +28190,26 @@ const CTPRODUCTS = [
   "capacityLine": "250 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Toner · Paraben-free · ₹320/100ml",
-  "highlight": "Live Flipkart listing rated 4.7★ by 3 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "Paraben-free (per listing)",
-   "Strong buyer rating (4.7)"
+   "Well-reviewed: 4.7★ from 3 ratings"
   ],
   "cons": [
-   "Marketplace brand — limited track record"
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5.1,
-   "skin": 4.6,
-   "ingredients": 4.3,
-   "experience": 4.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 5
   },
   "fullSpec": {
    "quantity": "250 ml",
    "pricePer100": "₹320/100ml",
    "format": "Toner",
    "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Not stated in listing",
@@ -19640,7 +28217,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "4.7/5 (3 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: NATURAL",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.7★ from 3 ratings"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/p/a/r/250-peach-77-niacin-essence-toner-for-men-and-woman-anua-original-imahjrjx3gp4fh6n.jpeg?q=90",
@@ -19662,7 +28246,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:large",
    "rating:4.5",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -19670,7 +28255,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "partial",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciText": null,
+   "inciUnverified": "NATURAL",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.7★ from 3 ratings"
   }
  },
  {
@@ -19681,35 +28289,41 @@ const CTPRODUCTS = [
   "capacityLine": "100 ml",
   "materialLine": "glycolic acid",
   "featureLine": "Scrub / exfoliant · Paraben-free · ₹254/100ml",
-  "highlight": "Live Flipkart listing rated 5★ by 12 buyers. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)"
+   "Well-reviewed: 5★ from 12 ratings"
   ],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5.6,
-   "skin": 5.7,
-   "ingredients": 5.6,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 6.6
   },
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹254/100ml",
    "format": "Scrub / exfoliant",
    "keyIngredients": "glycolic acid (per listing)",
-   "freeFrom": "Paraben-free, Alcohol-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
+   "freeFrom": "Paraben-free, Alcohol-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Brightening/glow claim",
    "audience": "Marketed for women",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "5/5 (12 ratings, Flipkart)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 12 ratings"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/toner/g/2/z/100-glow-essence-toner-with-glycolic-acid-kombucha-extract-100ml-original-imahzgsysmgcznh7.jpeg?q=90",
@@ -19738,7 +28352,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:standard",
    "rating:4.5",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -19746,7 +28361,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": true,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 12 ratings"
   }
  },
  {
@@ -19757,34 +28395,40 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "turmeric",
   "featureLine": "Essence · Paraben-free · ₹324/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 4.4,
-   "skin": 5.3,
-   "ingredients": 4.9,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "50 g",
    "pricePer100": "₹324/100g",
    "format": "Essence",
    "keyIngredients": "turmeric (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Brightening/glow claim, Anti-aging claim",
    "audience": "Marketed for women",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/moisturizer-cream/s/g/m/50-dark-spot-corrector-cream-glow-essence-dark-spot-remove-cream-original-imahpasd7apzngzz.jpeg?q=90",
@@ -19813,7 +28457,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -19821,7 +28466,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": true,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -19832,25 +28500,25 @@ const CTPRODUCTS = [
   "capacityLine": "40 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Mask / pack · Paraben-free · ₹285/100g",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "Only 1 ingredient named — formula unscored",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 5.1,
-   "ingredients": 4.5,
-   "experience": 4.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.8,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "40 g",
    "pricePer100": "₹285/100g",
    "format": "Mask / pack",
    "keyIngredients": "Not stated in listing",
-   "freeFrom": "Paraben-free, Sulfate/SLS-free (per listing)",
+   "freeFrom": "Paraben-free, Sulfate/SLS-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Not stated in listing",
@@ -19858,7 +28526,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "All Skin Types",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciList": "Unverified seller line: Natural Ingredients",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim2.flixcart.com/image/612/612/xif0q/skin-treatment/o/f/u/40-foot-peeling-mask-baby-for-soft-feet-removes-dead-skin-original-imahzfp4pyddwtdm.jpeg?q=90",
@@ -19882,7 +28557,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:travel",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:partial"
   ],
   "filters": {
    "actives": false,
@@ -19890,7 +28566,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "partial",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "partial",
+   "inciSource": "Flipkart listing — Composition field",
+   "inciText": null,
+   "inciUnverified": "Natural Ingredients",
+   "inciNote": "Only 1 ingredient named — a short “key ingredients” line, not the full declared list, so formula and safety are unscored",
+   "declarationConfidence": null,
+   "recognised": 0,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -19901,26 +28600,25 @@ const CTPRODUCTS = [
   "capacityLine": "300 ml (pack of 2)",
   "materialLine": "vitamin C + rose",
   "featureLine": "Scrub / exfoliant · Paraben-free · ₹589/100ml",
-  "highlight": "Live Flipkart listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)"
-  ],
+  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4.6,
-   "ingredients": 6,
-   "experience": 4.6
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "150 ml × 2 pack",
    "pricePer100": "₹589/100ml",
    "format": "Scrub / exfoliant",
    "keyIngredients": "vitamin C, rose (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
    "dermTested": "Not stated in listing",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Hydrating",
@@ -19928,7 +28626,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://rukminim1.flixcart.com/image/612/612/xif0q/toner/8/x/s/150-glyco-ginseng-essence-toner-ssunsu-original-imahfecbnkenmrbg.jpeg?q=90",
@@ -19960,7 +28665,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:xl",
    "rating:none",
-   "store:flipkart"
+   "store:flipkart",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -19968,46 +28674,73 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "glow-b0h6b9qjsm",
-  "brand": "Glow",
-  "model": "Essence Toner with Glycolic & Lactic Acid, 100ml | Refines Pores, Improves Skin Texture & …",
+  "id": "unbranded-b0h6b9qjsm",
+  "brand": "Unbranded",
+  "model": "Glow Essence Toner with Glycolic & Lactic Acid, 100ml | Refines Pores, Improves Skin Textu…",
   "price": 439,
   "capacityLine": "100 ml",
   "materialLine": "glycolic acid + lactic acid",
   "featureLine": "Scrub / exfoliant · Alcohol-free · ₹439/100ml",
-  "highlight": "Live Amazon listing rated 4.1★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Alcohol-free (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.9,
-   "skin": 5.1,
-   "ingredients": 6,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.2
   },
   "fullSpec": {
    "quantity": "100 ml",
    "pricePer100": "₹439/100ml",
    "format": "Scrub / exfoliant",
    "keyIngredients": "glycolic acid, lactic acid (per listing)",
-   "freeFrom": "Alcohol-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
+   "freeFrom": "Alcohol-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Brightening/glow claim",
    "audience": "Unisex / not stated",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "4.1/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.1★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/71Wvwfi4SaL._AC_UL320_.jpg"
@@ -20035,7 +28768,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -20043,7 +28777,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": true,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.1★ from 0 ratings"
   }
  },
  {
@@ -20054,18 +28811,17 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Scrub / exfoliant",
-  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.2,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.6
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 1.9
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -20080,7 +28836,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61kywf96P0L._AC_UL320_.jpg"
@@ -20098,7 +28861,8 @@ const CTPRODUCTS = [
    "claim:exfoliating",
    "aud:unisex",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -20106,31 +28870,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4★ from 0 ratings"
   }
  },
  {
-  "id": "alpha-b0d5tqr1jg",
-  "brand": "Alpha",
-  "model": "ARBUTIN 3Plus Body Bath Alpha Arbutin Collagen 3x Alpha Arbutin cream deep white essence 1…",
+  "id": "unbranded-b0d5tqr1jg",
+  "brand": "Unbranded",
+  "model": "Alpha ARBUTIN 3Plus Body Bath Alpha Arbutin Collagen 3x Alpha Arbutin cream deep white ess…",
   "price": 1489,
   "capacityLine": "100 ml",
   "materialLine": "alpha arbutin",
   "featureLine": "Essence · ₹1489/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1489/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "100 ml",
@@ -20145,7 +28930,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61ZhOVKWqCL._AC_UL320_.jpg"
@@ -20163,7 +28955,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -20171,7 +28964,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -20182,19 +28998,18 @@ const CTPRODUCTS = [
   "capacityLine": "100 g",
   "materialLine": "alpha arbutin",
   "featureLine": "Essence · ₹999/100g",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "100 g",
@@ -20209,7 +29024,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41mVTS5MWcL._AC_UL320_.jpg"
@@ -20226,7 +29048,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -20234,7 +29057,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -20245,17 +29091,16 @@ const CTPRODUCTS = [
   "capacityLine": "60 g",
   "materialLine": "saffron",
   "featureLine": "Essence · ₹430/100g",
-  "highlight": "Live Amazon listing rated 3.8★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (3.8)"
+   "No ingredient list published on the listing"
   ],
   "scores": {
+   "ingredients": 0,
+   "skin": 0,
    "trust": 5,
-   "skin": 4,
-   "ingredients": 4.7,
-   "experience": 4.5
+   "experience": 1.3
   },
   "fullSpec": {
    "quantity": "60 g",
@@ -20270,7 +29115,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "3.8/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Jovees Herbal Care India — Indian D2C brand with its own product company",
+   "buyerEvidence": "3.8★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61Vx7X12ZDL._AC_UL320_.jpg"
@@ -20290,7 +29142,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:3.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -20298,7 +29151,30 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Jovees Herbal Care India",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.jovees.com/"
+   },
+   "buyers": "3.8★ from 0 ratings"
   }
  },
  {
@@ -20309,20 +29185,17 @@ const CTPRODUCTS = [
   "capacityLine": "50 g",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Sunscreen · SPF 50 · ₹1926/100g",
-  "highlight": "Live Amazon listing rated 4.3★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Strong buyer rating (4.3)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1926/100g",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.7,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.6
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.9
   },
   "fullSpec": {
    "quantity": "50 g",
@@ -20337,7 +29210,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.3/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.3★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/717RZijEpdL._AC_UL320_.jpg"
@@ -20355,7 +29235,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -20363,7 +29244,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.3★ from 0 ratings"
   }
  },
  {
@@ -20374,16 +29278,16 @@ const CTPRODUCTS = [
   "capacityLine": "60 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Sunscreen · SPF 50 · ₹283/100ml",
-  "highlight": "Live Amazon listing rated 4.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "No free-from claims in listing"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "trust": 5.3,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.6
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 1.9
   },
   "fullSpec": {
    "quantity": "60 ml",
@@ -20398,7 +29302,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Nature's Essence — Indian D2C brand with its own product company",
+   "buyerEvidence": "4★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51e56XAGdRL._AC_UL320_.jpg"
@@ -20420,7 +29331,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:standard",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -20428,31 +29340,51 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Nature's Essence",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.naturesessence.in/"
+   },
+   "buyers": "4★ from 0 ratings"
   }
  },
  {
-  "id": "uv-b0f7hqnxct",
-  "brand": "UV",
-  "model": "Armour Sunscreen SPF 50 with Super Aqua Essence, Mineral-Based Formula for Sun Protection …",
+  "id": "unbranded-b0f7hqnxct",
+  "brand": "Unbranded",
+  "model": "UV Armour Sunscreen SPF 50 with Super Aqua Essence, Mineral-Based Formula for Sun Protecti…",
   "price": 1125,
   "capacityLine": "50 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Sunscreen · SPF 50 · ₹2250/100ml",
-  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Strong buyer rating (4.2)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹2250/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.5,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
   },
   "fullSpec": {
    "quantity": "50 ml",
@@ -20467,7 +29399,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61cmvzith6L._AC_UL320_.jpg"
@@ -20485,7 +29424,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -20493,7 +29433,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
   }
  },
  {
@@ -20504,20 +29467,18 @@ const CTPRODUCTS = [
   "capacityLine": "Quantity not stated",
   "materialLine": "PHA + green tea + centella/cica",
   "featureLine": "Toner",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 6.2,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -20532,7 +29493,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61cyFQR-EQL._AC_UL320_.jpg"
@@ -20555,7 +29523,8 @@ const CTPRODUCTS = [
    "skin:all",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -20563,31 +29532,51 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
   "id": "bio-essence-b0fnrp796v",
-  "brand": "Bio-Essence",
+  "brand": "Bio-essence",
   "model": "Bio-Gold 24K Gold Black Gold Water (100ml) | Essence for Hydrating skin, Smoothening wrink…",
   "price": 1424,
   "capacityLine": "100 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence · ₹1424/100ml",
-  "highlight": "Live Amazon listing rated 4.7★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Strong buyer rating (4.7)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1424/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5.1,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 4.2
   },
   "fullSpec": {
    "quantity": "100 ml",
@@ -20602,7 +29591,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "4.7/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.7★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51X5DIg99yL._AC_UL320_.jpg"
@@ -20622,7 +29618,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -20630,7 +29627,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.7★ from 0 ratings"
   }
  },
  {
@@ -20641,19 +29661,16 @@ const CTPRODUCTS = [
   "capacityLine": "60 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Sunscreen · SPF 30 · ₹200/100ml",
-  "highlight": "Live Amazon listing rated 3.9★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Good value: ₹200/100ml"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (3.9)"
+   "No ingredient list published on the listing"
   ],
   "scores": {
-   "trust": 5.1,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 4.6
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 5,
+   "experience": 1.6
   },
   "fullSpec": {
    "quantity": "60 ml",
@@ -20668,7 +29685,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "3.9/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Nature's Essence — Indian D2C brand with its own product company",
+   "buyerEvidence": "3.9★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51niUJytafL._AC_UL320_.jpg"
@@ -20690,7 +29714,8 @@ const CTPRODUCTS = [
    "aud:women",
    "size:standard",
    "rating:3.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -20698,7 +29723,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": true
+   "women": true,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": "Nature's Essence",
+    "kind": "d2c",
+    "label": "Indian D2C brand with its own product company",
+    "pts": 5,
+    "url": "https://www.naturesessence.in/"
+   },
+   "buyers": "3.9★ from 0 ratings"
   }
  },
  {
@@ -20709,21 +29757,17 @@ const CTPRODUCTS = [
   "capacityLine": "40 ml",
   "materialLine": "niacinamide",
   "featureLine": "Sunscreen · SPF 30 · ₹5398/100ml",
-  "highlight": "Live Amazon listing rated 4.2★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Strong buyer rating (4.2)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹5398/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 4.5,
-   "skin": 4,
-   "ingredients": 5.4,
-   "experience": 5.3
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 2.6
   },
   "fullSpec": {
    "quantity": "40 ml",
@@ -20738,7 +29782,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "4.2/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "4.2★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51Bnr9f9qOL._AC_UL320_.jpg"
@@ -20763,7 +29814,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:4.0",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -20771,31 +29823,52 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "4.2★ from 0 ratings"
   }
  },
  {
-  "id": "uv-b0gt19m84p",
-  "brand": "UV",
-  "model": "Sun Protection SPF 50 PA+++ Lightweight Sunscreen Essence with Hyaluronic Acid Non Greasy …",
+  "id": "unbranded-b0gt19m84p",
+  "brand": "Unbranded",
+  "model": "UV Sun Protection SPF 50 PA+++ Lightweight Sunscreen Essence with Hyaluronic Acid Non Grea…",
   "price": 1119,
   "capacityLine": "40 ml",
   "materialLine": "hyaluronic acid",
   "featureLine": "Sunscreen · SPF 50 · ₹2798/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹2798/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.1,
-   "experience": 4.6
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "40 ml",
@@ -20810,7 +29883,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51hzePtQ3CL._AC_UL320_.jpg"
@@ -20831,7 +29911,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -20839,47 +29920,73 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "aha-b0djcvf61t",
-  "brand": "AHA",
-  "model": "30% + BHA 2% Peeling Solution with Ceramide & Bilberry | Exfoliates, Brightens, Fades Dark…",
+  "id": "unbranded-b0djcvf61t",
+  "brand": "Unbranded",
+  "model": "AHA 30% + BHA 2% Peeling Solution with Ceramide & Bilberry | Exfoliates, Brightens, Fades …",
   "price": 499,
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA) + ceramides + alpha arbutin",
   "featureLine": "Scrub / exfoliant · Paraben-free · ₹1663/100ml",
-  "highlight": "Live Amazon listing rated 5.0★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)",
-   "Paraben-free (per listing)",
-   "Dermatologically tested (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "Pricey: ₹1663/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "trust": 5.6,
-   "skin": 5.3,
-   "ingredients": 6.4,
-   "experience": 4.8
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 5
   },
   "fullSpec": {
    "quantity": "30 ml",
    "pricePer100": "₹1663/100ml",
    "format": "Scrub / exfoliant",
    "keyIngredients": "salicylic acid (BHA), ceramides, alpha arbutin (per listing)",
-   "freeFrom": "Paraben-free (per listing)",
-   "dermTested": "Dermatologically tested (per listing)",
+   "freeFrom": "Paraben-free (seller claim — not scored)",
+   "dermTested": "Dermatologically tested (seller claim — not scored)",
    "nonComedogenic": "Not stated in listing",
    "benefit": "Brightening/glow claim, Anti-aging claim, Acne/blemish claim",
    "audience": "Unisex / not stated",
    "naturalClaim": "Natural/herbal/ayurvedic positioning (per listing)",
    "skinType": "Not stated in listing",
    "rating": "5.0/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "5★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/611A8JPrzNL._AC_UL320_.jpg"
@@ -20914,7 +30021,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:4.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -20922,31 +30030,51 @@ const CTPRODUCTS = [
    "natural": true,
    "derm": true,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "5★ from 0 ratings"
   }
  },
  {
-  "id": "aha-b0djcy2lmg",
-  "brand": "AHA",
-  "model": "30% + BHA 2% Peeling Solution with Ceramide & Bilberry | Exfoliates, Brightens, Fades Dark…",
+  "id": "unbranded-b0djcy2lmg",
+  "brand": "Unbranded",
+  "model": "AHA 30% + BHA 2% Peeling Solution with Ceramide & Bilberry | Exfoliates, Brightens, Fades …",
   "price": 299,
   "capacityLine": "30 ml",
   "materialLine": "salicylic acid (BHA) + ceramides",
   "featureLine": "Scrub / exfoliant · ₹997/100ml",
-  "highlight": "Live Amazon listing rated 3.5★. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Mixed buyer rating (3.5)",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
+   "ingredients": 0,
+   "skin": 0,
    "trust": 3.5,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.5
+   "experience": 0.3
   },
   "fullSpec": {
    "quantity": "30 ml",
@@ -20961,7 +30089,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "3.5/5 (Amazon)",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "3.5★ from 0 ratings"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61fpvJ9aVjL._AC_UL320_.jpg"
@@ -20984,7 +30119,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:travel",
    "rating:3.5",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -20992,31 +30128,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "3.5★ from 0 ratings"
   }
  },
  {
-  "id": "peeling-b0fbmf9clm",
-  "brand": "Peeling",
-  "model": "Solution & Anti-Acne Serum | AHA BHA, Salicylic, Ceramide | Fades Dark Spots, Acne, Scars,…",
+  "id": "unbranded-b0fbmf9clm",
+  "brand": "Unbranded",
+  "model": "Peeling Solution & Anti-Acne Serum | AHA BHA, Salicylic, Ceramide | Fades Dark Spots, Acne…",
   "price": 799,
   "capacityLine": "60 ml (pack of 2)",
   "materialLine": "salicylic acid (BHA) + ceramides",
   "featureLine": "Scrub / exfoliant · ₹1332/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1332/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "30 ml × 2 pack",
@@ -21031,7 +30188,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/51zRyIJRaGL._AC_UL320_.jpg"
@@ -21053,7 +30217,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -21061,7 +30226,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
@@ -21072,20 +30260,18 @@ const CTPRODUCTS = [
   "capacityLine": "60 ml (pack of 2)",
   "materialLine": "salicylic acid (BHA) + ceramides",
   "featureLine": "Scrub / exfoliant · ₹1498/100ml",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
-  "pros": [
-   "Contains evidence-backed actives (per listing)"
-  ],
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [],
   "cons": [
-   "No free-from claims in listing",
-   "Pricey: ₹1498/100ml",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 5.5,
-   "experience": 4.5
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "30 ml × 2 pack",
@@ -21100,7 +30286,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/41z7pYip2+L._AC_UL320_.jpg"
@@ -21123,7 +30316,8 @@ const CTPRODUCTS = [
    "aud:unisex",
    "size:standard",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": true,
@@ -21131,29 +30325,52 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  },
  {
-  "id": "instant-b0gy8b7w6z",
-  "brand": "Instant",
-  "model": "Perfection Lactobionic Acid Face Serum | Pore Tightening & Pore Minimizing Essence | Hydra…",
+  "id": "unbranded-b0gy8b7w6z",
+  "brand": "Unbranded",
+  "model": "Instant Perfection Lactobionic Acid Face Serum | Pore Tightening & Pore Minimizing Essence…",
   "price": 299,
   "capacityLine": "Quantity not stated",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Essence",
-  "highlight": "Live Amazon listing. Scored from its real listing signals — actives, format, free-from claims, brand track record — never invented claims. Benefit claims are the seller's own, not clinical proof.",
+  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [],
   "cons": [
-   "Quantity not stated",
-   "No free-from claims in listing",
-   "Marketplace brand — limited track record"
+   "No ingredient list published on the listing",
+   "Maker not verified — no parent company found",
+   "No buyer ratings yet"
   ],
   "scores": {
-   "trust": 3.9,
-   "skin": 4,
-   "ingredients": 4,
-   "experience": 5.2
+   "ingredients": 0,
+   "skin": 0,
+   "trust": 3.5,
+   "experience": 0
   },
   "fullSpec": {
    "quantity": "Not stated in listing",
@@ -21168,7 +30385,14 @@ const CTPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "skinType": "Not stated in listing",
    "rating": "No rating yet",
-   "madeIn": "Not stated in listing"
+   "madeIn": "Not stated in listing",
+   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
+   "inciSource": "Not stated in listing",
+   "inciList": "Not stated in listing",
+   "evidenceActives": "Unscored — no verified INCI list",
+   "safetyFlags": "Unscored — no verified INCI list",
+   "maker": "Maker not verified (no parent company found)",
+   "buyerEvidence": "No buyer ratings yet"
   },
   "images": [
    "https://m.media-amazon.com/images/I/61V90p94ZHL._AC_UL320_.jpg"
@@ -21185,7 +30409,8 @@ const CTPRODUCTS = [
    "claim:hydrating",
    "aud:unisex",
    "rating:none",
-   "store:amazon"
+   "store:amazon",
+   "inci:none"
   ],
   "filters": {
    "actives": false,
@@ -21193,7 +30418,30 @@ const CTPRODUCTS = [
    "natural": false,
    "derm": false,
    "men": false,
-   "women": false
+   "women": false,
+   "inci": "none",
+   "pharma": false
+  },
+  "evidence": {
+   "inci": "none",
+   "inciSource": null,
+   "inciText": null,
+   "inciUnverified": null,
+   "inciNote": null,
+   "declarationConfidence": null,
+   "recognised": null,
+   "actives": [],
+   "support": [],
+   "formulaNotes": [],
+   "flags": [],
+   "maker": {
+    "parent": null,
+    "kind": "unknown",
+    "label": "Maker not verified",
+    "pts": 3.5,
+    "url": null
+   },
+   "buyers": "No buyer ratings yet"
   }
  }
 ];

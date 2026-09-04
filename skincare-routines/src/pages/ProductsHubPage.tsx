@@ -22,8 +22,8 @@ export default function ProductsHubPage() {
     <div className="pb-16">
       <Hero kicker="Product rankings · India"
         title="Every skincare category, ranked from real listings."
-        lede="Captured live from Flipkart and Amazon.in product pages. Fields the seller never stated are shown as exactly that — never filled in."
-        proofs={[`${m.total.toLocaleString('en-IN')} listings · ${m.categories.length} categories`, `${byScope.face.toLocaleString('en-IN')} face · ${byScope.both.toLocaleString('en-IN')} face + body · ${byScope.body.toLocaleString('en-IN')} body`, 'Price shown, never scored']}
+        lede="Captured live from Flipkart and Amazon.in product pages, scored from the published ingredient list, the accountable maker and real buyer ratings — seller marketing counts for nothing. Fields the seller never stated are shown as exactly that."
+        proofs={[`${m.total.toLocaleString('en-IN')} listings · ${m.categories.length} categories`, `${byScope.face.toLocaleString('en-IN')} face · ${byScope.both.toLocaleString('en-IN')} face + body · ${byScope.body.toLocaleString('en-IN')} body`, 'Price and seller claims never scored']}
         aside={
           <div className="card p-5">
             <div className="flex items-start justify-between gap-3">
@@ -33,7 +33,7 @@ export default function ProductsHubPage() {
               </div>
               <LiveDataBadge capturedAt={m.generatedAt} />
             </div>
-            <p className="label mt-5 border-t border-line pt-4">How the score is built</p>
+            <p className="label mt-5 border-t border-line pt-4">How the score is built · evidence only</p>
             <ul className="mt-3 space-y-3">
               {SCORE_META.map((s) => {
                 const w = Math.round(m.weights[s.key] * 100);

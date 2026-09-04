@@ -51,7 +51,7 @@ export function matchBenchmark(b, items) {
   const top = hits[0];
   return {
     status: b.match.exact === false ? 'related' : 'found', id: top.id, rank: top.rank, of: items.length, score: top.s, price: top.p, store: top.st,
-    title: `${top.b} ${top.m}`, listings: hits.length, note: b.match.note,
+    title: `${top.b} ${top.m}`, listings: hits.length, note: b.match.note, ev: top.ev,
   };
 }
 

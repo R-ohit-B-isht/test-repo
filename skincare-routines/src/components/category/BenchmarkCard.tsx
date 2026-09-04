@@ -3,13 +3,14 @@ import { ArrowUpRight, Award, TriangleAlert } from 'lucide-react';
 import type { Benchmark } from '../../lib/types';
 import { BENCHMARK_SCORE } from '../../lib/types';
 import { rupees, storeLabel } from '../../lib/format';
+import { INCI_META } from '../../domain/scoreMeta';
 
 interface Props { bench: Benchmark; onOpenListing: (id: string) => void }
 
 /**
  * The reference ceiling above a ranked list: the best product in the category regardless of price, availability or country.
  * Rendered as the one inverted (ink) card on the page so it reads as the measuring stick, not as row #0 of the marketplace list.
- * The 100 is fixed by definition; the marketplace rows below keep their own listing-signal scores.
+ * The 100 is fixed by definition; the marketplace rows below keep their own evidence scores (verified INCI, maker, buyers).
  */
 export function BenchmarkCard({ bench, onOpenListing }: Props) {
   const [imgFailed, setImgFailed] = useState(false);
@@ -75,8 +76,9 @@ export function BenchmarkCard({ bench, onOpenListing }: Props) {
               <span className="font-bold">{market.status === 'found' ? 'Sold in India:' : 'Closest Indian listing (not verified identical):'}</span>
               {market.status === 'related' && <> {market.title.split(' | ')[0]} —</>}
               {' '}ranks <span className="mono font-extrabold">#{market.rank.toLocaleString('en-IN')}</span> of {market.of.toLocaleString('en-IN')} below
-              {' '}· scores <span className="mono font-extrabold">{market.score.toFixed(1)}</span> on listing signals · {rupees(market.price)} on {storeLabel(market.store)}
+              {' '}· scores <span className="mono font-extrabold">{market.score.toFixed(1)}</span> on listing evidence · {rupees(market.price)} on {storeLabel(market.store)}
               {market.note && <span className="text-[var(--fg-dim)]"> · {market.note}</span>}
+              <span className="text-[var(--fg-dim)]"> · {INCI_META[market.ev].label}{market.ev !== 'full' ? ' — the 100 is the product; the listing score is only what its page proves.' : ''}</span>
             </p>
             <button type="button" className="btn btn-ceiling h-9 px-4" onClick={() => onOpenListing(market.id)}>
               Open {market.status === 'found' ? 'listing' : 'closest listing'} #{market.rank.toLocaleString('en-IN')}

@@ -10,10 +10,10 @@ const byDim = (k: keyof ProductRow['sc']): Cmp => (a, b) => b.sc[k] - a.sc[k] ||
 /** Strategy pattern: one comparator per sort option; price never feeds the score itself. */
 export const SORT_STRATEGIES: Record<SortKey, { label: string; hint: string; cmp: Cmp }> = {
   score: { label: 'Overall score', hint: 'Weighted total of the four dimensions', cmp: byScore },
-  trust: { label: 'Brand trust & rating', hint: 'Brand track record, rating depth', cmp: byDim('trust') },
-  skin: { label: 'Skin safety claims', hint: 'Free-from, derm-tested, non-comedogenic', cmp: byDim('skin') },
-  ingredients: { label: 'Actives & ingredients', hint: 'Evidence-backed actives stated in the listing', cmp: byDim('ingredients') },
-  experience: { label: 'Format & experience', hint: 'Texture, format, size and usability', cmp: byDim('experience') },
+  ingredients: { label: 'Formula (verified INCI)', hint: 'Evidence-graded actives on the published ingredient list', cmp: byDim('ingredients') },
+  skin: { label: 'Skin safety (verified INCI)', hint: 'Named fragrance, allergens, drying alcohol, harsh surfactants', cmp: byDim('skin') },
+  trust: { label: 'Maker & transparency', hint: 'Accountable manufacturer + full ingredient disclosure', cmp: byDim('trust') },
+  experience: { label: 'Buyer evidence', hint: 'Real star rating and review depth, bounded', cmp: byDim('experience') },
   rating: { label: 'Buyer rating', hint: 'Stars first, review count breaks ties', cmp: (a, b) => (b.r ?? -1) - (a.r ?? -1) || (b.rc ?? 0) - (a.rc ?? 0) || byScore(a, b) },
   reviews: { label: 'Most reviewed', hint: 'Review count, unrated last', cmp: (a, b) => (b.rc ?? 0) - (a.rc ?? 0) || byScore(a, b) },
   priceAsc: { label: 'Price: low → high', hint: 'Price never affects the score itself', cmp: (a, b) => a.p - b.p || byScore(a, b) },

@@ -1,7 +1,9 @@
 import { useEffect, useRef, useState, type ReactNode } from 'react';
 import { clsx } from 'clsx';
-import type { Zone } from '../../lib/types';
+import { ShieldAlert, ShieldCheck } from 'lucide-react';
+import type { InciStatus, Zone } from '../../lib/types';
 import { scoreClass, usePrefersReducedMotion, verdict } from '../../lib/format';
+import { INCI_META } from '../../domain/scoreMeta';
 
 export function ZoneBadge({ zone, className }: { zone: Zone | 'unstated'; className?: string }) {
   const label = { face: 'Face', body: 'Body', both: 'Face + body', unstated: 'Scope not stated' }[zone];
@@ -9,6 +11,19 @@ export function ZoneBadge({ zone, className }: { zone: Zone | 'unstated'; classN
     <span className={clsx('label inline-flex items-center gap-1.5', zone !== 'unstated' ? `zone-${zone}` : 'text-muted', className)}>
       <span className="h-2 w-2 rounded-full bg-current" aria-hidden />
       {label}
+    </span>
+  );
+}
+
+/** What the score was read from: a verified INCI list, or an explicit "unscored" state. Never hides a missing list. */
+export function EvidenceBadge({ status, className }: { status: InciStatus; className?: string }) {
+  const meta = INCI_META[status];
+  const tone = { good: 'text-success', warn: 'text-warning', muted: 'text-muted' }[meta.tone];
+  return (
+    <span className={clsx('label inline-flex items-center gap-1', tone, className)} title={meta.label}>
+      {meta.tone === 'good' ? <ShieldCheck size={11} aria-hidden /> : <ShieldAlert size={11} aria-hidden />}
+      {meta.short}
+      <span className="sr-only"> — {meta.label}</span>
     </span>
   );
 }

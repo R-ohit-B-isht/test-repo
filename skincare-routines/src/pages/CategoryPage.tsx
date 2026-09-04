@@ -163,7 +163,7 @@ function CategoryView({ id }: { id: string }) {
         {panel}
       </Sheet>
 
-      <ProductSheet category={id} shards={m.shards} row={openRow} rank={openRow ? rankOf(openRow.id) : 0} scope={openRow ? scopeOf(openRow.t) : 'unstated'} weights={m.weights} onClose={() => setOpenId(null)} />
+      <ProductSheet category={id} shards={m.shards} row={openRow} rank={openRow ? rankOf(openRow.id) : 0} scope={openRow ? scopeOf(openRow.t) : 'unstated'} weights={m.weights} sources={m.sources} onClose={() => setOpenId(null)} />
       <CompareTray category={id} shards={m.shards} rows={compareRows} ranks={compareRows.map((r) => rankOf(r.id))} onRemove={onCompare} onClear={() => setCompare([])}
         open={compareOpen} onOpenChange={setCompareOpen} />
     </div>

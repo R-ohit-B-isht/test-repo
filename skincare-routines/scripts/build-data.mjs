@@ -16,6 +16,7 @@ import { assertBenchmarkSet, matchBenchmark, publicBenchmark } from './lib/bench
 
 const require = createRequire(import.meta.url);
 const { GROUPS, labelFor } = require('./lib/facets.cjs');
+const { SOURCES } = require('./lib/inci-kb.cjs');
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const DATA = path.join(ROOT, 'data');
@@ -56,6 +57,7 @@ function assertReal(rec, file) {
   if (!rec.buyStore) problems.push('buyStore');
   if (!Array.isArray(rec.tags)) problems.push('tags');
   for (const k of Object.keys(WEIGHTS)) if (typeof rec.scores?.[k] !== 'number') problems.push('scores.' + k);
+  if (!['full', 'partial', 'garbled', 'none'].includes(rec.evidence?.inci)) problems.push('evidence.inci');
   if (problems.length) throw new Error(`${file}: record ${rec.id} missing real fields: ${problems.join(', ')}`);
 }
 
@@ -68,6 +70,7 @@ const manifest = {
   routineCategoryLabels: ROUTINE_CATEGORY_LABELS,
   zoneLabels: ZONE_LABELS,
   groups: GROUPS,
+  sources: SOURCES,
   phases: PHASES,
   shards: SHARDS,
   categories: [],
@@ -102,12 +105,12 @@ for (const cat of CATEGORIES) {
     items.push({
       id: rec.id, b: rec.brand, m: rec.model, p: rec.price, st: rec.buyStore,
       s: overall(rec.scores), sc: { trust: rec.scores.trust, skin: rec.scores.skin, ingredients: rec.scores.ingredients, experience: rec.scores.experience },
-      img: rec.images[0], q: rec.capacityLine, f: rec.featureLine, r, rc, t,
+      img: rec.images[0], q: rec.capacityLine, f: rec.featureLine, r, rc, t, ev: rec.evidence.inci,
       ...(rec.step ? { step: rec.step } : {}),
     });
     details[shardOf(rec.id)][rec.id] = {
       title: rec.title, highlight: rec.highlight, pros: rec.pros, cons: rec.cons, fullSpec: rec.fullSpec,
-      images: rec.images, buyUrl: rec.buyUrl, buyStore: rec.buyStore, tags: rec.tags,
+      images: rec.images, buyUrl: rec.buyUrl, buyStore: rec.buyStore, tags: rec.tags, evidence: rec.evidence,
     };
   }
   const facets = {};

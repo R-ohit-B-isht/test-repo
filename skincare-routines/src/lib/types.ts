@@ -1,5 +1,7 @@
 export type Zone = 'face' | 'body' | 'both';
 export type ScoreKey = 'trust' | 'skin' | 'ingredients' | 'experience';
+/** How much of the ingredient declaration the listing actually publishes; only `full` is scored. */
+export type InciStatus = 'full' | 'partial' | 'garbled' | 'none';
 export type Scores = Record<ScoreKey, number>;
 
 export interface FacetGroupDef { label: string; hint: string; mode: 'or' | 'and' }
@@ -28,6 +30,7 @@ export interface Manifest {
   routineCategoryLabels: Record<string, string>;
   zoneLabels: Record<Zone, string>;
   groups: Record<string, FacetGroupDef>;
+  sources: Record<string, SourceRef>;
   phases: string[];
   shards: number;
   categories: CategoryMeta[];
@@ -38,7 +41,7 @@ export interface Manifest {
 
 export interface BenchmarkLink { label: string; url: string }
 export interface BenchmarkEvidence extends BenchmarkLink { publisher: string; note?: string }
-export interface BenchmarkListing { id: string; rank: number; of: number; score: number; price: number; store: string; title: string; listings: number; note: string | null }
+export interface BenchmarkListing { id: string; rank: number; of: number; score: number; price: number; store: string; title: string; listings: number; note: string | null; ev: InciStatus }
 /**
  * How the benchmark relates to the real Flipkart / Amazon.in listings of its category:
  * `found` = the same product with its actual rank; `related` = a regional/renamed variant, never claimed as identical; `not-found` = explicit.
@@ -78,6 +81,7 @@ export interface ProductRow {
   r: number | null;   // rating
   rc: number | null;  // rating count
   t: number[];    // tag indices into tagIndex
+  ev: InciStatus; // ingredient-declaration status behind the score
   step?: string;
 }
 
@@ -87,6 +91,28 @@ export interface CategoryData {
   tagIndex: string[];
   facets: Record<string, FacetRow[]>;
   items: ProductRow[];
+}
+
+export interface SourceRef { label: string; url: string }
+/** `src` keys into `Manifest.sources` — the cited paper / regulation behind the grade or penalty. */
+export interface EvidenceActive { name: string; position: number; grade: 'A' | 'B' | 'C'; core: boolean; src: string }
+export interface EvidenceFlag { id: string; label: string; names: string[]; penalty: number; src: string }
+export interface EvidenceMaker { parent: string | null; kind: 'pharma' | 'global' | 'india' | 'd2c' | 'unknown'; label: string; pts: number; url: string | null }
+/** Everything the score was read from — never seller adjectives. Absent pieces are null / empty, not filled in. */
+export interface Evidence {
+  inci: InciStatus;
+  inciSource: string | null;
+  inciText: string | null;
+  inciUnverified: string | null;
+  inciNote: string | null;
+  declarationConfidence: number | null;
+  recognised: number | null;
+  actives: EvidenceActive[];
+  support: string[];
+  formulaNotes: string[];
+  flags: EvidenceFlag[];
+  maker: EvidenceMaker;
+  buyers: string;
 }
 
 export interface ProductDetail {
@@ -99,6 +125,7 @@ export interface ProductDetail {
   buyUrl: string;
   buyStore: string;
   tags: string[];
+  evidence: Evidence;
 }
 
 export interface RoutineStep { name: string; how: string; phase: string }

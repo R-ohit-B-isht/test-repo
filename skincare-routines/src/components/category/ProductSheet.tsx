@@ -2,17 +2,18 @@ import { useState } from 'react';
 import { ExternalLink } from 'lucide-react';
 import { clsx } from 'clsx';
 import { Sheet } from '../ui/Sheet';
-import { ScoreBadge, ScoreBar, ScoreRing, Skeleton, StatusBlock, ZoneBadge } from '../ui/primitives';
+import { EvidenceBadge, ScoreBadge, ScoreBar, ScoreRing, Skeleton, StatusBlock, ZoneBadge } from '../ui/primitives';
+import { EvidencePanel } from './EvidencePanel';
 import { useDetail } from '../../data/hooks';
-import type { ProductRow, ScoreKey } from '../../lib/types';
+import type { ProductRow, ScoreKey, SourceRef } from '../../lib/types';
 import { SCORE_META } from '../../domain/scoreMeta';
 import { rupees, specLabel, storeLabel } from '../../lib/format';
 import type { ScopeKey } from './ProductCard';
 
 
-interface Props { category: string; shards: number; row: ProductRow | null; rank: number; scope: ScopeKey; weights: Record<ScoreKey, number>; onClose: () => void }
+interface Props { category: string; shards: number; row: ProductRow | null; rank: number; scope: ScopeKey; weights: Record<ScoreKey, number>; sources: Record<string, SourceRef>; onClose: () => void }
 
-export function ProductSheet({ category, shards, row, rank, scope, weights, onClose }: Props) {
+export function ProductSheet({ category, shards, row, rank, scope, weights, sources, onClose }: Props) {
   const detail = useDetail(category, row?.id ?? null, shards);
   const [img, setImg] = useState(0);
   const title = row ? `${row.b} — ${row.m}` : '';
@@ -52,6 +53,7 @@ export function ProductSheet({ category, shards, row, rank, scope, weights, onCl
                 <div className="flex flex-wrap items-center gap-2">
                   <span className="mono rounded-full bg-raised px-2.5 py-1 text-[12px] font-extrabold text-display">#{rank}</span>
                   <ZoneBadge zone={scope} />
+                  <EvidenceBadge status={row.ev} />
                   <span className="label">{storeLabel(row.st)}</span>
                 </div>
                 <p className="mt-3 text-[13px] font-bold text-accent">{row.b}</p>
@@ -73,7 +75,7 @@ export function ProductSheet({ category, shards, row, rank, scope, weights, onCl
 
           <section aria-labelledby="scores-h" className="card p-5">
             <h3 id="scores-h" className="text-[15px] font-extrabold text-display">Score breakdown</h3>
-            <p className="mt-0.5 text-[12px] text-muted">Arc length is the weight, filled part is this listing’s score out of 10 · price is never scored</p>
+            <p className="mt-0.5 text-[12px] text-muted">Arc length is the weight, filled part is this listing’s score out of 10 · price and seller claims are never scored</p>
             <div className="mt-4 grid gap-5 sm:grid-cols-[120px_minmax(0,1fr)] sm:items-center">
               <div className="mx-auto"><ScoreRing total={row.s} parts={SCORE_META.map((m) => ({ label: m.label, weight: weights[m.key], value: row.sc[m.key] }))} /></div>
               <div className="space-y-4">
@@ -86,6 +88,7 @@ export function ProductSheet({ category, shards, row, rank, scope, weights, onCl
           {detail.status === 'loading' && <div className="space-y-2"><Skeleton className="h-4 w-1/2" /><Skeleton className="h-4" /><Skeleton className="h-4 w-5/6" /></div>}
           {detail.status === 'ready' && (
             <>
+              <EvidencePanel evidence={detail.data.evidence} sources={sources} />
               <section className="grid grid-cols-1 gap-4 sm:grid-cols-2">
                 <div className="card p-5">
                   <h3 className="text-[14px] font-extrabold text-success">For</h3>
@@ -97,7 +100,7 @@ export function ProductSheet({ category, shards, row, rank, scope, weights, onCl
                 </div>
               </section>
               <section className="card p-5">
-                <h3 className="text-[15px] font-extrabold text-display">What the listing states</h3>
+                <h3 className="text-[15px] font-extrabold text-display">What the listing states (seller copy, not scored)</h3>
                 <dl className="mt-3 divide-y divide-line text-[13px]">
                   {Object.entries(detail.data.fullSpec).map(([k, val]) => (
                     <div key={k} className="grid grid-cols-[minmax(110px,35%)_1fr] gap-3 py-2.5">

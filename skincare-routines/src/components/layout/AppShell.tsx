@@ -71,7 +71,7 @@ export function AppShell() {
           <div className="max-w-2xl">
             <p className="text-[15px] font-extrabold text-display">Real listings or nothing.</p>
             <p className="mt-2">
-              Every product is a real listing captured live from Flipkart or Amazon.in. Unknown fields say so. Seller claims are labelled as claims — nothing here is lab-tested or medical advice.
+              Every product is a real listing captured live from Flipkart or Amazon.in. Scores are read only from the published ingredient list, the accountable maker and real buyer ratings — seller claims are shown as claims and score nothing. Unknown fields say so. Nothing here is lab-tested or medical advice.
             </p>
             {manifest.status === 'ready' && <LiveDataBadge capturedAt={manifest.data.generatedAt} className="mt-4" />}
           </div>
