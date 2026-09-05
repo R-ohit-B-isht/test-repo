@@ -177,6 +177,18 @@ export const CATEGORIES = [
     featured: ['format:leave-in', 'format:cream', 'ing:shea-butter', 'ing:argan-oil', 'ing:coconut', 'ing:glycerin', 'ing:aloe-vera', 'concern:dryness', 'concern:frizz', 'concern:curl-definition', 'concern:smoothing', 'hair:curly', 'hair:dry', 'hair:damaged'],
   },
   {
+    id: 'hydratingcream', label: 'Hydrating hair cream', kicker: 'HYDRATE', zone: HAIR,
+    blurb: 'Leave-in creams, lotions, milks and butters whose own listing names a moisture purpose — hydrating, moisturising, nourishing, for dry hair. The name is a filter only; the formula is what gets scored.',
+    file: 'hr-data-hydratingcream.js', global: 'HAIRPRODUCTS', facets: HAIR_FACETS,
+    featured: ['format:leave-in', 'format:cream', 'ing:glycerin', 'ing:hyaluronic-acid', 'ing:shea-butter', 'ing:argan-oil', 'ing:coconut', 'ing:aloe-vera', 'concern:dryness', 'concern:frizz', 'concern:damage-repair', 'hair:dry', 'hair:damaged', 'hair:curly'],
+  },
+  {
+    id: 'hydratingserum', label: 'Hydrating hair serum', kicker: 'HYDRATE', zone: HAIR,
+    blurb: 'Leave-in serums and mists whose own listing names a moisture purpose — hydrating, moisturising, hyaluronic, overnight, for dry hair. The name is a filter only; the formula is what gets scored.',
+    file: 'hr-data-hydratingserum.js', global: 'HAIRPRODUCTS', facets: HAIR_FACETS,
+    featured: ['format:leave-in', 'format:mist', 'ing:hyaluronic-acid', 'ing:glycerin', 'ing:argan-oil', 'ing:keratin', 'ing:dimethicone-silicones', 'concern:dryness', 'concern:frizz', 'concern:smoothing', 'concern:damage-repair', 'hair:dry', 'hair:damaged', 'free:silicone'],
+  },
+  {
     id: 'heatprotect', label: 'Heat protectant', kicker: 'BEFORE HEAT', zone: HAIR,
     blurb: 'Sprays, serums and creams applied before a dryer, straightener or curler — film-formers that slow heat damage to the shaft.',
     file: 'hr-data-heatprotect.js', global: 'HAIRPRODUCTS', facets: HAIR_FACETS,

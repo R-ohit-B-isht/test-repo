@@ -7,7 +7,10 @@ const { FLAGS } = require('./inci-flags.cjs');
 const GRADE_PTS = { A: 2.0, B: 1.2, C: 0.4 };
 // Hair: shampoos, conditioners and masks are rinsed; oils, serums and the hair-fall page (mostly leave-on scalp
 // serums / minoxidil, shampoos only a minority) are judged as leave-on — the stricter, honest default.
-const HAIR = new Set(['shampoo', 'antidandruff', 'hairfall', 'conditioner', 'hairmask', 'hairoil', 'hairserum', 'haircream', 'heatprotect', 'hairstyling']);
+const HAIR = new Set(['shampoo', 'antidandruff', 'hairfall', 'conditioner', 'hairmask', 'hairoil', 'hairserum', 'haircream', 'heatprotect', 'hairstyling', 'hydratingcream', 'hydratingserum']);
+// Hydration pages are the leave-in cream / serum forms judged on the same core actives, plus humectants as core.
+const ROLE_ALIAS = { hydratingcream: 'haircream', hydratingserum: 'hairserum' };
+const HYDRATION = new Set(['hydratingcream', 'hydratingserum']);
 const RINSE_OFF = new Set(['facewash', 'bodywash', 'exfoliator', 'facemask', 'shampoo', 'antidandruff', 'conditioner', 'hairmask']);
 const FACE = new Set(['facewash', 'toner', 'essence', 'vitaminc', 'niacinamide', 'retinol', 'exfoliator', 'salicylic',
   'moisturizer', 'sunscreen', 'facemask', 'eyecream', 'faceoil', 'detan', 'pigmentation']);
@@ -45,18 +48,20 @@ function formulaScore(category, known) {
   const seen = new Set();
   let core = 0, other = 0;
   const table = HAIR.has(category) ? HAIR_ACTIVE_BY_NAME : ACTIVE_BY_NAME;
+  const role = ROLE_ALIAS[category] || category;
   known.forEach((k, i) => {
     if (!k || seen.has(k)) return;                  // a name declared twice counts once, at its first (highest) position
     seen.add(k);
     const a = table.get(k);
     const w = positionWeight(i, marker);
     if (a) {
-      const isCore = a.roles.has(category);
+      const isCore = a.roles.has(role);
       const pts = GRADE_PTS[a.grade] * w;
       if (isCore) core += pts; else other += pts * 0.35;
       actives.push({ name: k, grade: a.grade, position: i + 1, core: isCore, src: a.src });
     }
     if (WASH.has(category) && MILD_SURFACTANTS.includes(k)) { core += 1.2 * w; support.add(k); }
+    if (HYDRATION.has(category) && HUMECTANTS.has(k) && !table.has(k)) { core += 0.8 * w; }
     if (HUMECTANTS.has(k) || BARRIER.has(k)) support.add(k);
   });
   let s = 3.0 + clamp(core, 0, 5.0) + clamp(other, 0, 1.0) + clamp(support.size * 0.25, 0, 1.0);
