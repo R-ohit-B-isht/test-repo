@@ -1,0 +1,115 @@
+// Generates data/<site>.json from the live marketplace page captures (Flipkart specification tabs, Amazon.in
+// product pages) plus the official-page matches in data/official/<site>.json. Nothing is invented: every field
+// is copied from a captured page, tiered by where it was read, and scored by scripts/lib/score.cjs.
+//   RAW=/path/to/captures node scripts/generate.mjs power-banks
+import fs from 'node:fs';
+import path from 'node:path';
+import { createRequire } from 'node:module';
+import { fileURLToPath } from 'node:url';
+import { SITES } from './lib/registry.mjs';
+
+const require = createRequire(import.meta.url);
+const { parseSpecText, amazonSpecs } = require('./lib/fk-spec.cjs');
+const { scoreProduct } = require('./lib/score.cjs');
+const { fieldMap } = require('./lib/fields.cjs');
+
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+const RAW = process.env.RAW || path.join(process.env.HOME || '', 'pwtest');
+const ids = process.argv.slice(2);
+const sites = ids.length ? SITES.filter((s) => ids.includes(s.id)) : SITES;
+if (!sites.length) throw new Error(`unknown site(s): ${ids.join(', ')}`);
+
+const GENERIC = new Set(['power', 'powerbank', 'bank', 'fast', 'charging', 'portable', 'charger', 'mah', 'the', 'new', 'premium', 'mini', 'slim', 'best', 'solar', 'outdoor', 'one', 'just', 'original', 'combo', 'pack', 'set', 'men', 'women', 'unisex', 'kids', 'professional', 'rechargeable', 'electric', 'usb', 'wireless', 'hair', 'beard', 'trimmer', 'induction', 'cooktop', 'tumbler', 'trekking', 'hiking', 'shoes', 'backpack', 'rucksack', 'lighter', 'blender', 'dryer']);
+const BRAND_ALIAS = [[/^amazon\s*basics?/i, 'Amazon Basics'], [/^amazon\s*brand\s*-?\s*solimo/i, 'Solimo'], [/^bombay shaving company/i, 'Bombay Shaving Company'], [/^the north face/i, 'The North Face'], [/^american tourister/i, 'American Tourister'], [/^morphy richards/i, 'Morphy Richards'], [/^f\s*gear/i, 'F Gear'], [/^red chief/i, 'Red Chief'], [/^hush puppies/i, 'Hush Puppies'], [/^nutri\s*bullet/i, 'NutriBullet'], [/^mi\b/i, 'Mi']];
+const NO_BRAND = 'Brand not stated';
+
+function brandOf(title, kvBrand) {
+  if (kvBrand && kvBrand.length < 30) return kvBrand.trim();
+  for (const [re, name] of BRAND_ALIAS) if (re.test(title)) return name;
+  const first = title.split(/[\s,(|]/)[0];
+  if (!first || GENERIC.has(first.toLowerCase()) || first.length < 2 || /^\d/.test(first)) return NO_BRAND;
+  return first;
+}
+
+const esc = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+function modelOf(title, brand) {
+  let m = brand === NO_BRAND ? title : title.replace(new RegExp('^' + esc(brand) + '\\s*', 'i'), '').trim();
+  m = m.replace(/\.\.\.more$/, '…').replace(/\s+/g, ' ');
+  if (m.length > 110) m = m.slice(0, 110) + '…';
+  return m || title.slice(0, 110);
+}
+
+const amazonLarge = (u) => u.replace(/\._AC_[A-Z]{2}\d+_\./, '._SL500_.').replace(/\._[A-Z]{2}\d+_\./, '._SL500_.');
+
+function loadOfficial(site) {
+  const f = path.join(ROOT, 'data', 'official', `${site.id}.json`);
+  return fs.existsSync(f) ? JSON.parse(fs.readFileSync(f, 'utf8')) : {};
+}
+
+function build(site) {
+  const official = loadOfficial(site);
+  const fk = JSON.parse(fs.readFileSync(path.join(RAW, site.sources.flipkart), 'utf8'));
+  const am = site.sources.amazon ? JSON.parse(fs.readFileSync(path.join(RAW, site.sources.amazon), 'utf8')) : [];
+  const seen = new Set();
+  const out = [];
+  const add = (r) => { if (seen.has(r.id)) return; seen.add(r.id); out.push(r); };
+
+  for (const p of fk) {
+    if (!p.price || !p.images?.length || !p.title || !p.href) continue;
+    const title = p.title.replace(/\s+/g, ' ').replace(/\.\.\.more$/, '').trim();
+    if (!site.include(title)) continue;
+    const { kv, seller } = parseSpecText(p.specText);
+    const idSeed = (p.href.split('/p/')[1] || p.href).split('?')[0].slice(0, 24);
+    add(record(site, {
+      idSeed, title, brand: brandOf(title, kv.Brand), price: p.price, rating: p.rating, ratingCount: p.ratingCount,
+      images: p.images, buyUrl: 'https://www.flipkart.com' + p.href.split('?')[0], buyStore: 'flipkart', kv, seller, official,
+    }));
+  }
+  for (const p of am) {
+    if (!p.price || !p.title || !(p.images?.length || p.img) || !p.url) continue;
+    const title = p.title.replace(/\s+/g, ' ').trim();
+    if (!site.include(title)) continue;
+    const { kv, seller } = amazonSpecs(p);
+    const images = (p.images?.length ? p.images : [p.img]).map(amazonLarge);
+    add(record(site, {
+      idSeed: p.asin, title, brand: brandOf(title, kv.Brand), price: p.price, rating: p.rating, ratingCount: p.ratingCount,
+      images, buyUrl: p.url, buyStore: 'amazon', kv, seller, official,
+    }));
+  }
+  return out;
+}
+
+function record(site, r) {
+  const id = `${r.brand}-${r.idSeed}`.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+  const off = r.official[id] || null;
+  const { scores, evidence } = scoreProduct(site, {
+    brand: r.brand, title: r.title, rating: r.rating, ratingCount: r.ratingCount, sellerText: r.seller, listingKv: r.kv, official: off,
+  });
+  const F = fieldMap(evidence.fields);
+  const tags = [`store:${r.buyStore}`, `ev:${evidence.status}`, `maker:${evidence.maker.kind}`, `seg:${site.segment.of(F)}`];
+  for (const fc of site.facets) {
+    const v = fc.of(F);
+    if (v === null || v === undefined) continue;
+    for (const x of Array.isArray(v) ? v : [v]) if (fc.labels[x]) tags.push(`${fc.group}:${x}`);
+  }
+  const rn = r.rating ? Number(r.rating) : null;
+  if (rn !== null && Number.isFinite(rn)) tags.push(rn >= 4.5 ? 'rating:4.5' : rn >= 4 ? 'rating:4' : rn >= 3.5 ? 'rating:3.5' : 'rating:low');
+  else tags.push('rating:none');
+  return {
+    id, brand: r.brand, model: modelOf(r.title, r.brand), title: r.title, price: r.price,
+    rating: rn !== null && Number.isFinite(rn) ? rn : null,
+    ratingCount: r.ratingCount ? parseInt(String(r.ratingCount).replace(/[^\d]/g, ''), 10) || null : null,
+    images: r.images, buyUrl: r.buyUrl, buyStore: r.buyStore,
+    lines: { q: site.lines.q(F) || 'Specification not stated', f: site.lines.f(F) || '' },
+    tags: [...new Set(tags)], scores, evidence,
+    listingSpec: r.kv,
+  };
+}
+
+for (const site of sites) {
+  const recs = build(site);
+  const outFile = path.join(ROOT, 'data', `${site.id}.json`);
+  fs.writeFileSync(outFile, JSON.stringify(recs));
+  const by = (k) => recs.filter((x) => x.evidence.status === k).length;
+  console.log(`${site.id}: ${recs.length} records (flipkart ${recs.filter((x) => x.buyStore === 'flipkart').length}, amazon ${recs.filter((x) => x.buyStore === 'amazon').length}) — official ${by('official')} · listing ${by('listing')} · claimed ${by('claimed')} · none ${by('none')} → ${path.relative(ROOT, outFile)}`);
+}
