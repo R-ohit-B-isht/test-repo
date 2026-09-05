@@ -44912,18 +44912,20 @@ const HAIRPRODUCTS = [
   "capacityLine": "90 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Leave-in · ₹6208/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Kerastase official website (www.kerastase.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
   "pros": [
+   "dimethicone high on the INCI list (moderate evidence); panthenol high on the INCI list (limited evidence)",
    "Well-reviewed: 4.7★ from 7 ratings"
   ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): parfum/fragrance",
+   "EU-declared fragrance allergen: linalool, hydroxycitronellal",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.6,
+   "skin": 4.6,
+   "trust": 5.5,
    "experience": 5.4
   },
   "fullSpec": {
@@ -44941,11 +44943,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.7/5 (7 ratings, Flipkart)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Kerastase official website (www.kerastase.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.kerastase.in/shop/collections/nutritive/nutritive-8h-magic-night-serum/KER_00258.html",
+   "inciMatchedName": "nutritive 8h magic night serum (name match 97%)",
+   "inciList": "Aqua/Water/Eau, ● Dimethicone, ● Niacinamide, ● Glycerin, ● Isopropyl Myristate, ● Polyacrylamide, ● Phenoxyethanol, ● C13-14 Isoalkane, ● Laureth-7, ● Panthenol, ● Ascorbyl Glucoside, ● Butylene Glycol, ● Linalool, ● Hydroxycitronellal, ● Benzyl Salicylate, ● Benzyl Alcohol, ● Hexyl Cinnamal, ● Citronellol, ● Hydrolyzed Wheat Protein, ● Alpha-Isomethyl Ionone, ● Coumarin, ● Hydrolyzed Corn Protein, ● Hydrolyzed Soy Protein, ● Limonene, ● Iris Florentina Root Extract, ● Citric Acid, ● CI 19140/Yellow 5, ● CI 14700/Red 4, ● Parfum/Fragrance",
+   "evidenceActives": "dimethicone (#2 on list, moderate evidence); panthenol (#9 on list, limited evidence); hydrolyzed wheat protein (#18 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−1.5); EU-declared fragrance allergen: linalool, hydroxycitronellal, benzyl salicylate, benzyl alcohol, hexyl cinnamal, citronellol, alpha-isomethyl ionone, coumarin, limonene (−2)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.7★ from 7 ratings"
   },
@@ -44972,7 +44976,8 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -44980,27 +44985,96 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Kerastase official website (www.kerastase.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.kerastase.in/shop/collections/nutritive/nutritive-8h-magic-night-serum/KER_00258.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nutritive 8h magic night serum",
+   "inciMatchScore": 0.97,
+   "inciText": "Aqua/Water/Eau, ● Dimethicone, ● Niacinamide, ● Glycerin, ● Isopropyl Myristate, ● Polyacrylamide, ● Phenoxyethanol, ● C13-14 Isoalkane, ● Laureth-7, ● Panthenol, ● Ascorbyl Glucoside, ● Butylene Glycol, ● Linalool, ● Hydroxycitronellal, ● Benzyl Salicylate, ● Benzyl Alcohol, ● Hexyl Cinnamal, ● Citronellol, ● Hydrolyzed Wheat Protein, ● Alpha-Isomethyl Ionone, ● Coumarin, ● Hydrolyzed Corn Protein, ● Hydrolyzed Soy Protein, ● Limonene, ● Iris Florentina Root Extract, ● Citric Acid, ● CI 19140/Yellow 5, ● CI 14700/Red 4, ● Parfum/Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "C",
+     "position": 9,
+     "core": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "hydrolyzed wheat protein",
+     "grade": "C",
+     "position": 18,
+     "core": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "hydrolyzed soy protein",
+     "grade": "C",
+     "position": 22,
+     "core": false,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "niacinamide",
+    "glycerin",
+    "panthenol",
+    "butylene glycol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum/fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "linalool",
+      "hydroxycitronellal",
+      "benzyl salicylate",
+      "benzyl alcohol",
+      "hexyl cinnamal",
+      "citronellol",
+      "alpha-isomethyl ionone",
+      "coumarin",
+      "limonene"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -74390,16 +74464,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "90 ml",
   "materialLine": "Niacinamide + Glycerin",
   "featureLine": "Serum · ₹4889/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Kerastase official website (www.kerastase.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "dimethicone high on the INCI list (moderate evidence); panthenol high on the INCI list (limited evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): parfum/fragrance",
+   "EU-declared fragrance allergen: linalool, hydroxycitronellal",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.6,
+   "skin": 4.6,
+   "trust": 5.5,
    "experience": 3.8
   },
   "fullSpec": {
@@ -74417,11 +74494,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Kerastase official website (www.kerastase.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.kerastase.in/shop/collections/nutritive/nutritive-8h-magic-night-serum/KER_00258.html",
+   "inciMatchedName": "nutritive 8h magic night serum (name match 95%)",
+   "inciList": "Aqua/Water/Eau, ● Dimethicone, ● Niacinamide, ● Glycerin, ● Isopropyl Myristate, ● Polyacrylamide, ● Phenoxyethanol, ● C13-14 Isoalkane, ● Laureth-7, ● Panthenol, ● Ascorbyl Glucoside, ● Butylene Glycol, ● Linalool, ● Hydroxycitronellal, ● Benzyl Salicylate, ● Benzyl Alcohol, ● Hexyl Cinnamal, ● Citronellol, ● Hydrolyzed Wheat Protein, ● Alpha-Isomethyl Ionone, ● Coumarin, ● Hydrolyzed Corn Protein, ● Hydrolyzed Soy Protein, ● Limonene, ● Iris Florentina Root Extract, ● Citric Acid, ● CI 19140/Yellow 5, ● CI 14700/Red 4, ● Parfum/Fragrance",
+   "evidenceActives": "dimethicone (#2 on list, moderate evidence); panthenol (#9 on list, limited evidence); hydrolyzed wheat protein (#18 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−1.5); EU-declared fragrance allergen: linalool, hydroxycitronellal, benzyl salicylate, benzyl alcohol, hexyl cinnamal, citronellol, alpha-isomethyl ionone, coumarin, limonene (−2)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.6★ from 0 ratings"
   },
@@ -74442,7 +74521,8 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -74450,27 +74530,96 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Kerastase official website (www.kerastase.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.kerastase.in/shop/collections/nutritive/nutritive-8h-magic-night-serum/KER_00258.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nutritive 8h magic night serum",
+   "inciMatchScore": 0.95,
+   "inciText": "Aqua/Water/Eau, ● Dimethicone, ● Niacinamide, ● Glycerin, ● Isopropyl Myristate, ● Polyacrylamide, ● Phenoxyethanol, ● C13-14 Isoalkane, ● Laureth-7, ● Panthenol, ● Ascorbyl Glucoside, ● Butylene Glycol, ● Linalool, ● Hydroxycitronellal, ● Benzyl Salicylate, ● Benzyl Alcohol, ● Hexyl Cinnamal, ● Citronellol, ● Hydrolyzed Wheat Protein, ● Alpha-Isomethyl Ionone, ● Coumarin, ● Hydrolyzed Corn Protein, ● Hydrolyzed Soy Protein, ● Limonene, ● Iris Florentina Root Extract, ● Citric Acid, ● CI 19140/Yellow 5, ● CI 14700/Red 4, ● Parfum/Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 2,
+     "core": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": false,
+     "src": "glycerin"
+    },
+    {
+     "name": "panthenol",
+     "grade": "C",
+     "position": 9,
+     "core": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "hydrolyzed wheat protein",
+     "grade": "C",
+     "position": 18,
+     "core": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "hydrolyzed soy protein",
+     "grade": "C",
+     "position": 22,
+     "core": false,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "niacinamide",
+    "glycerin",
+    "panthenol",
+    "butylene glycol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum/fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "linalool",
+      "hydroxycitronellal",
+      "benzyl salicylate",
+      "benzyl alcohol",
+      "hexyl cinnamal",
+      "citronellol",
+      "alpha-isomethyl ionone",
+      "coumarin",
+      "limonene"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",

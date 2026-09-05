@@ -220969,16 +220969,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "Keratin",
   "featureLine": "Hair mask / spa · ₹1925/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Kerastase official website (www.kerastase.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "behentrimonium chloride high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): parfum/fragrance",
+   "EU-declared fragrance allergen: benzyl salicylate, benzyl alcohol",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 5.7,
+   "skin": 5.6,
+   "trust": 5.5,
    "experience": 3.5
   },
   "fullSpec": {
@@ -220996,11 +220999,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.5/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Kerastase official website (www.kerastase.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.kerastase.in/shop/collections/discipline/discipline-maskeratine-mask/KER_00040.html",
+   "inciMatchedName": "discipline maskeratine mask (name match 92%)",
+   "inciList": "Aqua/Water, Cetearyl Alcohol, Behentrimonium Chloride, Glycerin, Amodimethicone, Cetyl Esters, Potato Starch Modified, Isopropyl Alcohol, Methylparaben, Trideceth-6, Benzyl Salicylate, Benzyl Alcohol, Chlorhexidine Dihydrochloride, Cetrimonium Chloride, 2-Oleamido-1,3-Octadecanediol, Linalool, Alpha-Isomethyl Ionone, Arginine, Serine, Glutamic Acid, Sodium Hydroxide, Hydroxypropyltrimonium Hydrolyzed Wheat Protein, Parfum/Fragrance",
+   "evidenceActives": "behentrimonium chloride (#3 on list, moderate evidence); glycerin (#4 on list, strong evidence); amodimethicone (#5 on list, moderate evidence); cetrimonium chloride (#14 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−0.8); EU-declared fragrance allergen: benzyl salicylate, benzyl alcohol, linalool, alpha-isomethyl ionone (−1.2)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 0 ratings"
   },
@@ -221021,7 +221026,8 @@ const HAIRPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -221029,27 +221035,80 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Kerastase official website (www.kerastase.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.kerastase.in/shop/collections/discipline/discipline-maskeratine-mask/KER_00040.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "discipline maskeratine mask",
+   "inciMatchScore": 0.92,
+   "inciText": "Aqua/Water, Cetearyl Alcohol, Behentrimonium Chloride, Glycerin, Amodimethicone, Cetyl Esters, Potato Starch Modified, Isopropyl Alcohol, Methylparaben, Trideceth-6, Benzyl Salicylate, Benzyl Alcohol, Chlorhexidine Dihydrochloride, Cetrimonium Chloride, 2-Oleamido-1,3-Octadecanediol, Linalool, Alpha-Isomethyl Ionone, Arginine, Serine, Glutamic Acid, Sodium Hydroxide, Hydroxypropyltrimonium Hydrolyzed Wheat Protein, Parfum/Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.92,
+   "actives": [
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "amodimethicone",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 14,
+     "core": true,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum/fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "benzyl salicylate",
+      "benzyl alcohol",
+      "linalool",
+      "alpha-isomethyl ionone"
+     ],
+     "penalty": 1.2,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -234433,16 +234492,18 @@ const HAIRPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Hair mask / spa · ₹1975/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Kerastase official website (www.kerastase.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "amodimethicone high on the INCI list (moderate evidence); behentrimonium chloride high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "EU-declared fragrance allergen: limonene, linalool",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 4.8,
+   "skin": 5.6,
+   "trust": 5.5,
    "experience": 3.8
   },
   "fullSpec": {
@@ -234460,11 +234521,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.6/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Kerastase official website (www.kerastase.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.kerastase.in/shop/collections/genesis/genesis-reconstituant-hair-mask/KER_00052.html",
+   "inciMatchedName": "genesis reconstituant hair mask (name match 100%)",
+   "inciList": "Aqua/Water/Eau, Cetearyl Alcohol, Amodimethicone, Behentrimonium Chloride, Cetyl Esters, Isopropyl Alcohol, Trideceth-6, Phenoxyethanol, Limonene, Cetrimonium Chloride, Linalool, Chlorhexidine Dihydrochloride, Benzyl Salicylate, Coumarin, Glycerin, Zingiber Officinale Root Extract/Ginger Root Extract, Citral, Benzyl Alcohol, Citronellol, Xylitylglucoside, Anhydroxylitol, Leontopodium Alpinum Callus Culture Extract, Xylitol, Citric Acid, Xanthan Gum, Dipeptide Diaminobutyroyl Benzylamide Diacetate, Parfum/Fragrance. C239854/1",
+   "evidenceActives": "amodimethicone (#3 on list, moderate evidence); behentrimonium chloride (#4 on list, moderate evidence); cetrimonium chloride (#10 on list, moderate evidence); glycerin (#15 on list, strong evidence)",
+   "safetyFlags": "EU-declared fragrance allergen: limonene, linalool, benzyl salicylate, coumarin, citral, benzyl alcohol, citronellol (−2)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.6★ from 0 ratings"
   },
@@ -234482,7 +234545,8 @@ const HAIRPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -234490,27 +234554,74 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Kerastase official website (www.kerastase.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.kerastase.in/shop/collections/genesis/genesis-reconstituant-hair-mask/KER_00052.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "genesis reconstituant hair mask",
+   "inciMatchScore": 1,
+   "inciText": "Aqua/Water/Eau, Cetearyl Alcohol, Amodimethicone, Behentrimonium Chloride, Cetyl Esters, Isopropyl Alcohol, Trideceth-6, Phenoxyethanol, Limonene, Cetrimonium Chloride, Linalool, Chlorhexidine Dihydrochloride, Benzyl Salicylate, Coumarin, Glycerin, Zingiber Officinale Root Extract/Ginger Root Extract, Citral, Benzyl Alcohol, Citronellol, Xylitylglucoside, Anhydroxylitol, Leontopodium Alpinum Callus Culture Extract, Xylitol, Citric Acid, Xanthan Gum, Dipeptide Diaminobutyroyl Benzylamide Diacetate, Parfum/Fragrance. C239854/1",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.96,
+   "actives": [
+    {
+     "name": "amodimethicone",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 4,
+     "core": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 10,
+     "core": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 15,
+     "core": true,
+     "src": "glycerin"
+    }
+   ],
+   "support": [
+    "glycerin"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "limonene",
+      "linalool",
+      "benzyl salicylate",
+      "coumarin",
+      "citral",
+      "benzyl alcohol",
+      "citronellol"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -240830,16 +240941,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "200 ml",
   "materialLine": "Niacinamide",
   "featureLine": "Hair mask / spa · ₹1975/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Kerastase official website (www.kerastase.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "dimethicone high on the INCI list (moderate evidence); glycerin high on the INCI list (strong evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): parfum/fragrance",
+   "EU-declared fragrance allergen: linalool, benzyl alcohol",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 6.3,
+   "skin": 5,
+   "trust": 5.5,
    "experience": 4.2
   },
   "fullSpec": {
@@ -240857,11 +240971,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "4.7/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Kerastase official website (www.kerastase.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.kerastase.in/shop/collections/nutritive/nutritive-nourishing-mask/KER_00252.html",
+   "inciMatchedName": "nutritive nourishing mask (name match 88%)",
+   "inciList": "AQUA/WATER, CETEARYL ALCOHOL, DIMETHICONE, GLYCERIN, BEHENTRIMONIUM CHLORIDE, AMODIMETHICONE, CETRIMONIUMCHLORIDE, PHENOXYETHANOL, ISOPROPYL ALCOHOL, SODIUM LAURETH SULFATE, NIACINAMIDE, LACTIC ACID, BUTYLENE GLYCOL, LINALOOL, BENZYL ALCOHOL, HYDROXYCITRONELLAL, HEXYL CINNAMAL, CITRONELLOL, COUMARIN, ALPHA-ISOMETHYL IONONE, GERANIOL, HYDROLYZED WHEAT PROTEIN, HYDROLYZED CORN PROTEIN, HYDROLYZED SOY PROTEIN, IRIS FLORENTINA ROOT EXTRACT, PARFUM/FRAGRANCE",
+   "evidenceActives": "dimethicone (#3 on list, moderate evidence); glycerin (#4 on list, strong evidence); behentrimonium chloride (#5 on list, moderate evidence); amodimethicone (#6 on list, moderate evidence); cetrimonium chloride (#7 on list, moderate evidence); hydrolyzed wheat protein (#22 on list, limited evidence); hydrolyzed soy protein (#24 on list, limited evidence)",
+   "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−0.8); EU-declared fragrance allergen: linalool, benzyl alcohol, hydroxycitronellal, hexyl cinnamal, citronellol, coumarin, alpha-isomethyl ionone, geraniol (−2)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.7★ from 0 ratings"
   },
@@ -240881,7 +240997,8 @@ const HAIRPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -240889,27 +241006,108 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Kerastase official website (www.kerastase.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.kerastase.in/shop/collections/nutritive/nutritive-nourishing-mask/KER_00252.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "nutritive nourishing mask",
+   "inciMatchScore": 0.88,
+   "inciText": "AQUA/WATER, CETEARYL ALCOHOL, DIMETHICONE, GLYCERIN, BEHENTRIMONIUM CHLORIDE, AMODIMETHICONE, CETRIMONIUMCHLORIDE, PHENOXYETHANOL, ISOPROPYL ALCOHOL, SODIUM LAURETH SULFATE, NIACINAMIDE, LACTIC ACID, BUTYLENE GLYCOL, LINALOOL, BENZYL ALCOHOL, HYDROXYCITRONELLAL, HEXYL CINNAMAL, CITRONELLOL, COUMARIN, ALPHA-ISOMETHYL IONONE, GERANIOL, HYDROLYZED WHEAT PROTEIN, HYDROLYZED CORN PROTEIN, HYDROLYZED SOY PROTEIN, IRIS FLORENTINA ROOT EXTRACT, PARFUM/FRAGRANCE",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 1,
+   "actives": [
+    {
+     "name": "dimethicone",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "glycerin",
+     "grade": "A",
+     "position": 4,
+     "core": true,
+     "src": "glycerin"
+    },
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 5,
+     "core": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "amodimethicone",
+     "grade": "B",
+     "position": 6,
+     "core": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 7,
+     "core": true,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "hydrolyzed wheat protein",
+     "grade": "C",
+     "position": 22,
+     "core": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "hydrolyzed soy protein",
+     "grade": "C",
+     "position": 24,
+     "core": true,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "dimethicone",
+    "glycerin",
+    "niacinamide",
+    "butylene glycol"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum/fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "linalool",
+      "benzyl alcohol",
+      "hydroxycitronellal",
+      "hexyl cinnamal",
+      "citronellol",
+      "coumarin",
+      "alpha-isomethyl ionone",
+      "geraniol"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",

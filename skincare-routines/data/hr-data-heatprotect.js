@@ -102520,16 +102520,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "190 ml",
   "materialLine": "Glycolic acid + Hyaluronic acid + Rose",
   "featureLine": "Spray · ₹1579/100ml",
-  "highlight": "Live Amazon listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Amazon listing. The listing prints no full INCI, so the formula was read from the brand's official website (Kerastase official website (www.kerastase.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "amodimethicone high on the INCI list (moderate evidence); cetrimonium chloride high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
+   "Added fragrance (parfum): parfum/fragrance",
+   "EU-declared fragrance allergen: limonene, linalool",
    "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3.5,
+   "skin": 4.6,
+   "trust": 5.5,
    "experience": 3.5
   },
   "fullSpec": {
@@ -102547,11 +102550,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "4.5/5 (Amazon)",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Kerastase official website (www.kerastase.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.kerastase.in/shop/collections/gloss-absolu/gloss-absolu-anti-frizz-heat-protectant-spray/KER_00330.html",
+   "inciMatchedName": "gloss absolu anti frizz heat protectant spray (name match 100%)",
+   "inciList": "AQUA/WATER/EAU, • COCOS NUCIFERA OIL/COCONUT OIL, • AMODIMETHICONE, • POLYQUATERNIUM-37, • PHENOXYETHANOL, • PROPYLENE GLYCOL DICAPRYLATE/DICAPRATE, • SODIUM HYDROXIDE, • LIMONENE, • DIMETHICONE PEG-7 PHOSPHATE, • PPG-1 TRIDECETH-6, • TRIDECETH-6, • BEHENTRIMONIUM CHLORIDE, • XYLOSE, • ETHYLHEXYLGLYCERIN, • ACRYLATES/STEARYL METHACRYLATE COPOLYMER, • LINALOOL, • SORBITAN OLEATE, • ISOPROPYL ALCOHOL, • CITRONELLOL, • CETRIMONIUM CHLORIDE, • SODIUM HYALURONATE, • CITRIC ACID, • CAPRYLIC/CAPRIC TRIGLYCERIDE, • LACTIC ACID, • GLYCOLIC ACID, • HEXYL CINNAMAL, • ALPHA-ISOMETHYL IONONE, • CITRAL, • EDTA, • COUMARIN, • TOCOPHEROL, • ROSA CANINA FLOWER EXTRACT, • PARFUM/FRAGRANCE",
+   "evidenceActives": "amodimethicone (#3 on list, moderate evidence); cetrimonium chloride (#20 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−1.5); EU-declared fragrance allergen: limonene, linalool, citronellol, hexyl cinnamal, alpha-isomethyl ionone, citral, coumarin (−2)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "4.5★ from 0 ratings"
   },
@@ -102577,7 +102582,8 @@ const HAIRPRODUCTS = [
    "size:large",
    "rating:4.5",
    "store:amazon",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -102585,27 +102591,76 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": false,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Kerastase official website (www.kerastase.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.kerastase.in/shop/collections/gloss-absolu/gloss-absolu-anti-frizz-heat-protectant-spray/KER_00330.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "gloss absolu anti frizz heat protectant spray",
+   "inciMatchScore": 1,
+   "inciText": "AQUA/WATER/EAU, • COCOS NUCIFERA OIL/COCONUT OIL, • AMODIMETHICONE, • POLYQUATERNIUM-37, • PHENOXYETHANOL, • PROPYLENE GLYCOL DICAPRYLATE/DICAPRATE, • SODIUM HYDROXIDE, • LIMONENE, • DIMETHICONE PEG-7 PHOSPHATE, • PPG-1 TRIDECETH-6, • TRIDECETH-6, • BEHENTRIMONIUM CHLORIDE, • XYLOSE, • ETHYLHEXYLGLYCERIN, • ACRYLATES/STEARYL METHACRYLATE COPOLYMER, • LINALOOL, • SORBITAN OLEATE, • ISOPROPYL ALCOHOL, • CITRONELLOL, • CETRIMONIUM CHLORIDE, • SODIUM HYALURONATE, • CITRIC ACID, • CAPRYLIC/CAPRIC TRIGLYCERIDE, • LACTIC ACID, • GLYCOLIC ACID, • HEXYL CINNAMAL, • ALPHA-ISOMETHYL IONONE, • CITRAL, • EDTA, • COUMARIN, • TOCOPHEROL, • ROSA CANINA FLOWER EXTRACT, • PARFUM/FRAGRANCE",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.94,
+   "actives": [
+    {
+     "name": "amodimethicone",
+     "grade": "B",
+     "position": 3,
+     "core": true,
+     "src": "thermalProtect"
+    },
+    {
+     "name": "behentrimonium chloride",
+     "grade": "B",
+     "position": 12,
+     "core": false,
+     "src": "hairCosmetics"
+    },
+    {
+     "name": "cetrimonium chloride",
+     "grade": "B",
+     "position": 20,
+     "core": true,
+     "src": "hairCosmetics"
+    }
+   ],
+   "support": [
+    "sodium hyaluronate"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum/fragrance"
+     ],
+     "penalty": 1.5,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "limonene",
+      "linalool",
+      "citronellol",
+      "hexyl cinnamal",
+      "alpha-isomethyl ionone",
+      "citral",
+      "coumarin"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",

@@ -154154,17 +154154,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "30 ml",
   "materialLine": "Peptides + Redensyl + Anagain",
   "featureLine": "Serum · ₹11140/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Kerastase official website (www.kerastase.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "piroctone olamine high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
+   "Added fragrance (parfum): parfum/fragrance",
+   "EU-declared fragrance allergen: limonene, linalool",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3,
+   "skin": 4.8,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -154182,11 +154184,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Not stated in listing",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Kerastase official website (www.kerastase.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.kerastase.in/shop/collections/genesis/genesis-anti-hair-fall-scalp-serum/KER_00050.html",
+   "inciMatchedName": "genesis anti hair fall scalp serum (name match 91%)",
+   "inciList": "Aqua/Water/Eau, • Alcohol Denat ., • Diaminopyrimidine Oxide, • Ammonium Polyacryloyldimethyl Taurate, • Aminomethyl Propanol, • Citric Acid, • Peg, •40 Hydrogenated Castor Oil, • Piroctone Olamine, • Caffeine, • Arginine, • Limonene, • Niacinamide, • Pyridoxine Hcl, • Linalool, • Safflower Glucoside, • Benzyl Salicylate, • Coumarin, • Citral, • Benzyl Alcohol, • Xylitylglucoside, • Citronellol, • Benzyl Benzoate, • Anhydroxylitol, • Xylitol, • Zingiber Officinale Root Extract/Ginger Root Extract, • Resveratrol, • Tocopherol, • Bht, • Sodium Citrate, • Parfum/Fragrance",
+   "evidenceActives": "piroctone olamine (#9 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−0.8); EU-declared fragrance allergen: limonene, linalool, benzyl salicylate, coumarin, citral, benzyl alcohol, citronellol, benzyl benzoate (−2); Drying alcohol high in the list: alcohol denat (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -154215,7 +154219,8 @@ const HAIRPRODUCTS = [
    "size:travel",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -154223,27 +154228,79 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Kerastase official website (www.kerastase.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.kerastase.in/shop/collections/genesis/genesis-anti-hair-fall-scalp-serum/KER_00050.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "genesis anti hair fall scalp serum",
+   "inciMatchScore": 0.91,
+   "inciText": "Aqua/Water/Eau, • Alcohol Denat ., • Diaminopyrimidine Oxide, • Ammonium Polyacryloyldimethyl Taurate, • Aminomethyl Propanol, • Citric Acid, • Peg, •40 Hydrogenated Castor Oil, • Piroctone Olamine, • Caffeine, • Arginine, • Limonene, • Niacinamide, • Pyridoxine Hcl, • Linalool, • Safflower Glucoside, • Benzyl Salicylate, • Coumarin, • Citral, • Benzyl Alcohol, • Xylitylglucoside, • Citronellol, • Benzyl Benzoate, • Anhydroxylitol, • Xylitol, • Zingiber Officinale Root Extract/Ginger Root Extract, • Resveratrol, • Tocopherol, • Bht, • Sodium Citrate, • Parfum/Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "piroctone olamine",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "src": "dandruffIndia"
+    },
+    {
+     "name": "caffeine",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "src": "caffeineHair"
+    }
+   ],
+   "support": [
+    "niacinamide"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum/fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "limonene",
+      "linalool",
+      "benzyl salicylate",
+      "coumarin",
+      "citral",
+      "benzyl alcohol",
+      "citronellol",
+      "benzyl benzoate"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    },
+    {
+     "id": "alcoholDenat",
+     "label": "Drying alcohol high in the list",
+     "names": [
+      "alcohol denat"
+     ],
+     "penalty": 0.3,
+     "src": "alcohol"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
@@ -163104,17 +163161,19 @@ const HAIRPRODUCTS = [
   "capacityLine": "90 ml",
   "materialLine": "Key ingredients not stated",
   "featureLine": "Serum · ₹5166/100ml",
-  "highlight": "Live Flipkart listing. No full INCI list on the listing — formula and skin-safety are 0 until the seller publishes one; only verified maker and buyer ratings count. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
-  "pros": [],
+  "highlight": "Live Flipkart listing. The listing prints no full INCI, so the formula was read from the brand's official website (Kerastase official website (www.kerastase.in) — product page › Ingredients) and scored from it: evidence-graded actives, named irritants, verified maker, buyer ratings. Seller claims (\"dermatologically tested\", \"paraben-free\", \"brightening\") are shown but score nothing.",
+  "pros": [
+   "piroctone olamine high on the INCI list (moderate evidence)"
+  ],
   "cons": [
-   "No ingredient list published on the listing",
-   "Maker not verified — no parent company found",
-   "No buyer ratings yet"
+   "Added fragrance (parfum): parfum/fragrance",
+   "EU-declared fragrance allergen: limonene, linalool",
+   "Maker not verified — no parent company found"
   ],
   "scores": {
-   "ingredients": 0,
-   "skin": 0,
-   "trust": 3.5,
+   "ingredients": 3,
+   "skin": 4.8,
+   "trust": 5.5,
    "experience": 0
   },
   "fullSpec": {
@@ -163132,11 +163191,13 @@ const HAIRPRODUCTS = [
    "naturalClaim": "Natural/herbal/ayurvedic positioning (seller claim)",
    "rating": "No rating yet",
    "madeIn": "Not stated in listing",
-   "inciStatus": "No ingredient list published on the listing — formula and safety unscored (0)",
-   "inciSource": "Not stated in listing",
-   "inciList": "Not stated in listing",
-   "evidenceActives": "Unscored — no verified INCI list",
-   "safetyFlags": "Unscored — no verified INCI list",
+   "inciStatus": "Full INCI list read from the brand's official website (not printed on the listing) — formula and safety scored from it",
+   "inciSource": "Kerastase official website (www.kerastase.in) — product page › Ingredients",
+   "inciSourceUrl": "https://www.kerastase.in/shop/collections/genesis/genesis-anti-hair-fall-scalp-serum/KER_00050.html",
+   "inciMatchedName": "genesis anti hair fall scalp serum (name match 95%)",
+   "inciList": "Aqua/Water/Eau, • Alcohol Denat ., • Diaminopyrimidine Oxide, • Ammonium Polyacryloyldimethyl Taurate, • Aminomethyl Propanol, • Citric Acid, • Peg, •40 Hydrogenated Castor Oil, • Piroctone Olamine, • Caffeine, • Arginine, • Limonene, • Niacinamide, • Pyridoxine Hcl, • Linalool, • Safflower Glucoside, • Benzyl Salicylate, • Coumarin, • Citral, • Benzyl Alcohol, • Xylitylglucoside, • Citronellol, • Benzyl Benzoate, • Anhydroxylitol, • Xylitol, • Zingiber Officinale Root Extract/Ginger Root Extract, • Resveratrol, • Tocopherol, • Bht, • Sodium Citrate, • Parfum/Fragrance",
+   "evidenceActives": "piroctone olamine (#9 on list, moderate evidence)",
+   "safetyFlags": "Added fragrance (parfum): parfum/fragrance (−0.8); EU-declared fragrance allergen: limonene, linalool, benzyl salicylate, coumarin, citral, benzyl alcohol, citronellol, benzyl benzoate (−2); Drying alcohol high in the list: alcohol denat (−0.3)",
    "maker": "Maker not verified (no parent company found)",
    "buyerEvidence": "No buyer ratings yet"
   },
@@ -163162,7 +163223,8 @@ const HAIRPRODUCTS = [
    "size:standard",
    "rating:none",
    "store:flipkart",
-   "inci:none"
+   "inci:full",
+   "inci:brand-site"
   ],
   "filters": {
    "freefrom": false,
@@ -163170,27 +163232,79 @@ const HAIRPRODUCTS = [
    "derm": false,
    "men": false,
    "women": true,
-   "inci": "none",
-   "inciSrc": null,
+   "inci": "full",
+   "inciSrc": "brand-site",
    "pharma": false
   },
   "evidence": {
-   "inci": "none",
-   "inciSource": null,
-   "inciSourceKind": null,
-   "inciSourceUrl": null,
-   "inciSourceRegion": null,
-   "inciMatchedTitle": null,
-   "inciMatchScore": null,
-   "inciText": null,
+   "inci": "full",
+   "inciSource": "Kerastase official website (www.kerastase.in) — product page › Ingredients",
+   "inciSourceKind": "brand-site",
+   "inciSourceUrl": "https://www.kerastase.in/shop/collections/genesis/genesis-anti-hair-fall-scalp-serum/KER_00050.html",
+   "inciSourceRegion": "IN",
+   "inciMatchedTitle": "genesis anti hair fall scalp serum",
+   "inciMatchScore": 0.95,
+   "inciText": "Aqua/Water/Eau, • Alcohol Denat ., • Diaminopyrimidine Oxide, • Ammonium Polyacryloyldimethyl Taurate, • Aminomethyl Propanol, • Citric Acid, • Peg, •40 Hydrogenated Castor Oil, • Piroctone Olamine, • Caffeine, • Arginine, • Limonene, • Niacinamide, • Pyridoxine Hcl, • Linalool, • Safflower Glucoside, • Benzyl Salicylate, • Coumarin, • Citral, • Benzyl Alcohol, • Xylitylglucoside, • Citronellol, • Benzyl Benzoate, • Anhydroxylitol, • Xylitol, • Zingiber Officinale Root Extract/Ginger Root Extract, • Resveratrol, • Tocopherol, • Bht, • Sodium Citrate, • Parfum/Fragrance",
    "inciUnverified": null,
    "inciNote": null,
-   "declarationConfidence": null,
-   "recognised": null,
-   "actives": [],
-   "support": [],
+   "declarationConfidence": 0.7,
+   "recognised": 0.97,
+   "actives": [
+    {
+     "name": "piroctone olamine",
+     "grade": "B",
+     "position": 9,
+     "core": true,
+     "src": "dandruffIndia"
+    },
+    {
+     "name": "caffeine",
+     "grade": "C",
+     "position": 10,
+     "core": false,
+     "src": "caffeineHair"
+    }
+   ],
+   "support": [
+    "niacinamide"
+   ],
    "formulaNotes": [],
-   "flags": [],
+   "flags": [
+    {
+     "id": "fragrance",
+     "label": "Added fragrance (parfum)",
+     "names": [
+      "parfum/fragrance"
+     ],
+     "penalty": 0.8,
+     "src": "acdsFragrance"
+    },
+    {
+     "id": "euAllergen",
+     "label": "EU-declared fragrance allergen",
+     "names": [
+      "limonene",
+      "linalool",
+      "benzyl salicylate",
+      "coumarin",
+      "citral",
+      "benzyl alcohol",
+      "citronellol",
+      "benzyl benzoate"
+     ],
+     "penalty": 2,
+     "src": "eu1223"
+    },
+    {
+     "id": "alcoholDenat",
+     "label": "Drying alcohol high in the list",
+     "names": [
+      "alcohol denat"
+     ],
+     "penalty": 0.3,
+     "src": "alcohol"
+    }
+   ],
    "maker": {
     "parent": null,
     "kind": "unknown",
