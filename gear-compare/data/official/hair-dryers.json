@@ -1,0 +1,2296 @@
+{
+ "nova-itm764eed7ea66fb": {
+  "url": "https://www.novaindia.co.in/products/nova-nhp-8231-hair-dryer-1200-w-black",
+  "title": "NOVA NHP 8231 Hair Dryer  (1200 W, Black)",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number NHP8231 (maker's code)",
+   "model name \"nhp 8231\"",
+   "wattage 1200 W"
+  ],
+  "kv": {
+   "wattage (page text)": "1200 W"
+  }
+ },
+ "nova-itm1a331bddaee25": {
+  "url": "https://www.novaindia.co.in/products/nova-nhp-8222-professional-hair-dryer-with-ac-motor-hair-dryer-2000-w-rose-gold",
+  "title": "NOVA NHP 8222 Professional Hair Dryer With AC Motor Hair Dryer  (2000 W, Rose Gold)",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.1,
+  "matchedOn": [
+   "model number NHP8222 (maker's code)",
+   "model name \"nhp 8222\""
+  ],
+  "kv": {
+   "wattage (page text)": "2000 W",
+   "speed settings (page text)": "2",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "nova-itmb03a6c17f6f91": {
+  "url": "https://www.novaindia.co.in/products/nova-nhp-8232-professional-hair-dryer-2000-w-brown",
+  "title": "NOVA NHP 8232 Professional Hair Dryer  (2000 W, Brown)",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number NHP8232 (maker's code)",
+   "model name \"nhp 8232\"",
+   "wattage 2000 W"
+  ],
+  "kv": {
+   "Brand": "NOVA",
+   "Model Number": "NHP 8232 Professional",
+   "Color": "Brown",
+   "Model Name": "Professional",
+   "Number of Speed Settings": "2",
+   "Number of Heat Settings": "3",
+   "Number of Attachments": "3",
+   "Attachment Types": "Concentrator, Diffuser, Concentrator",
+   "Nozzle/Concentrator": "yes",
+   "Cold Air Feature": "Yes",
+   "Technology Used": "Ionic Technology, EHD+ Technology",
+   "Net Quantity": "1",
+   "Ionic Technology, EHD+ Technology": "Net Quantity",
+   "wattage (page text)": "2000 W",
+   "speed settings (page text)": "2",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "philips-itmegcqg7jpqqddn": {
+  "url": "https://www.philips.co.in/c-p/HP8120_00/essentialcare-dryer",
+  "title": "EssentialCare Dryer HP8120/00",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.85,
+  "matchedOn": [
+   "model number HP8120/00",
+   "wattage 1200 W"
+  ],
+  "kv": {
+   "Model number": "HP8120/00",
+   "Product family": "EssentialCare",
+   "Attachments": "Nozzle",
+   "Cord length": "1.5 m",
+   "Voltage": "220 V",
+   "Wattage": "1200 W",
+   "Color": "White and pink",
+   "Graphic": "Lilac rain",
+   "Foldable handle": "YES",
+   "Storage hook": "Yes"
+  }
+ },
+ "nova-itm2c1840e89dda4": {
+  "url": "https://www.novaindia.co.in/products/nova-nhp-8215-003-hair-dryer",
+  "title": "Nova Professional NHP 8215 Hair Dryer Red",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number NHP8215 (maker's code)",
+   "model name \"nhp 8215\"",
+   "wattage 1800 W"
+  ],
+  "kv": {
+   "Wattage": "1800 W",
+   "Brand warranty": "7 Days Easy Return",
+   "1 year of brand warranty": "1 year of brand warranty",
+   "3 heat settings": "3 heat settings",
+   "3 speed settings": "3 speed settings",
+   "Wattage: 1800 W": "Wattage: 1800 W",
+   "wattage (page text)": "1800 W",
+   "warranty (page text)": "1 year",
+   "heat settings (page text)": "3",
+   "speed settings (page text)": "3"
+  }
+ },
+ "vega-itm4435f6570b0b3": {
+  "url": "https://www.vega.co.in/dry-up-2000w-hair-dryer.html",
+  "title": "Vega Dry-Up 2000W Hair Dryer - VHDH-36",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number VHDH36 (maker's code)",
+   "model name \"vhdh 36\"",
+   "wattage 2000 W"
+  ],
+  "kv": {
+   "Cool Shot Button": "Locks in your style with a burst of cool air for a sleek finish.",
+   "Foldable Handle": "Compact design with a foldable handle for easy storage and portability.",
+   "Automatic Overheat Cut-Out": "Safety feature that automatically shuts off the dryer to prevent overheating.",
+   "Ergonomic & Light Weight": "Designed for comfort and easy handling for best results.",
+   "Travel Friendly": "Compact and lightweight hair dryer, perfect for on-the-go styling.",
+   "Cord Guard": "Protects the power cord from damage, ensuring durability and extended lifespan.",
+   "BIS COMPLIANT": "Certified to Bureau of Indian Standards (BIS) guidelines, ensuring reliable performance and safe usage every time.",
+   "2000W DC Power:": "2000W DC Power:",
+   "3 Heat & 1 Speed Settings:": "3 Heat & 1 Speed Settings:",
+   "2 Years Warranty": "2 Years Warranty",
+   "wattage (page text)": "2000 W",
+   "warranty (page text)": "2 Years",
+   "speed settings (page text)": "1"
+  }
+ },
+ "nova-itm985b1f3c8f641": {
+  "url": "https://www.novaindia.co.in/products/nova-nhp-8100-05-hair-dryer",
+  "title": "Nova Silky Shine Hot And Cold Foldable NHP 8100/05 Hair Dryer",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number NHP810005 (maker's code)",
+   "model name \"nhp 8100 05\"",
+   "wattage 1200 W"
+  ],
+  "kv": {
+   "Wattage": "1200 W",
+   "Brand warranty": "7 Days Easy Return",
+   "2 years of brand warranty": "2 years of brand warranty",
+   "2 heat settings": "2 heat settings",
+   "1 speed settings": "1 speed settings",
+   "Wattage: 1200 W": "Wattage: 1200 W",
+   "wattage (page text)": "1200 W",
+   "warranty (page text)": "2 years",
+   "heat settings (page text)": "2",
+   "speed settings (page text)": "1"
+  }
+ },
+ "nova-itmea45d1a696006": {
+  "url": "https://www.novaindia.co.in/products/nova-nhp-8203-hair-dryer",
+  "title": "Nova Premium Silky Shine Hot And Cold Foldable NHP 8203 Hair Dryer",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number NHP8203 (maker's code)",
+   "model name \"nhp 8203\"",
+   "wattage 1400 W"
+  ],
+  "kv": {
+   "Wattage": "1400 W",
+   "Brand warranty": "7 Days Easy Return",
+   "1 year of brand warranty": "1 year of brand warranty",
+   "3 heat settings": "3 heat settings",
+   "2-speed settings": "2-speed settings",
+   "Wattage: 1400 W": "Wattage: 1400 W",
+   "wattage (page text)": "1400 W",
+   "warranty (page text)": "1 year",
+   "heat settings (page text)": "3"
+  }
+ },
+ "agaro-itmc19b2dc1d6e9c": {
+  "url": "https://agarolifestyle.com/products/hd-1120-hair-dryer-with-2000-watts",
+  "title": "HD-1120 2000W AC Professional Hair Dryer with Comb, Concentrator & Diffuser Nozzles, Hot & Cold Air, 2 Speed & 3 Temperature Settings with Cool Shot, Hair Dryer & Blower for Men & Women (Brown)",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number HD1120 (maker's code)",
+   "model name \"hd1120\"",
+   "wattage 2000 W"
+  ],
+  "kv": {
+   "Manufacturer": "Jieyang City,Guangdong Province,China",
+   "Importer": "Universal Corporation Ltd , 4/1, Middleton St, Kankaria Estates, Park Street area, Kolkata, West Bengal 700071",
+   "Country of Origin": "China",
+   "Item Dimensions": "D x W x H - 254D x 100W x 277H mm",
+   "Item Weight": "1.05 Kilograms",
+   "Item Weight: 1.05 Kilograms": "Item Weight: 1.05 Kilograms",
+   "Warranty registration": "Product is fabulous but when coming to warranty registration it won't happen actually I have to mail you official about that particular reason",
+   "wattage (page text)": "2000 W",
+   "warranty (page text)": "2 Years",
+   "heat settings (page text)": "3"
+  }
+ },
+ "nova-itmejannhpekeuhm": {
+  "url": "https://www.novaindia.co.in/products/nova-nhp-8104-hair-dryer",
+  "title": "Nova Silky Shine 1400 w Hot and cold Foldable NHP 8104 Hair Dryer",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number NHP8104 (maker's code)",
+   "model name \"nhp 8104\"",
+   "wattage 1400 W"
+  ],
+  "kv": {
+   "Wattage": "1400 W",
+   "Brand warranty": "7 Days Easy Return",
+   "1 year of brand warranty": "1 year of brand warranty",
+   "2 heat settings": "2 heat settings",
+   "2-speed settings": "2-speed settings",
+   "Wattage: 1400 W": "Wattage: 1400 W",
+   "wattage (page text)": "1400 W",
+   "warranty (page text)": "1 year",
+   "heat settings (page text)": "2"
+  }
+ },
+ "nova-itmejbhdaezwzbus": {
+  "url": "https://www.novaindia.co.in/products/nova-nhp-8103-hair-dryer",
+  "title": "Nova Silky Shine 1300 w Hot and cold Foldable NHP 8103 Hair Dryer",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number NHP8103 (maker's code)",
+   "model name \"nhp 8103\"",
+   "wattage 1300 W"
+  ],
+  "kv": {
+   "Wattage": "1300 W",
+   "Brand warranty": "7 Days Easy Return",
+   "1 year of brand warranty": "1 year of brand warranty",
+   "2 heat settings": "2 heat settings",
+   "2-speed settings": "2-speed settings",
+   "Wattage: 1300 W": "Wattage: 1300 W",
+   "wattage (page text)": "1300 W",
+   "warranty (page text)": "1 year",
+   "heat settings (page text)": "2"
+  }
+ },
+ "ikonic-itmf4be2efaf3106": {
+  "url": "https://ikonicworld.com/products/ikonic-pro-2500-advanced-hair-dryer",
+  "title": "Ikonic Professional Pro 2500+ Advanced Hair Dryer with Powerful AC Motor, Auto Ionic Technology and Overheat Protection",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.5,
+  "matchedOn": [
+   "model name \"pro 2500 advanced\""
+  ],
+  "kv": {
+   "Country of Origin": "China",
+   "Manufactured/Imported By": "SSIZ International Pvt. Ltd.",
+   "Net Quantity": "1",
+   "Product Dimension (LxBxH) (cms)": "Weight (grams): 1100",
+   "1 Year Warranty": "1 Year Warranty",
+   "• Power: 2400W-2800W.": "• Power: 2400W-2800W.",
+   "Warranty": "1 Year from the date of purchase",
+   "warranty (page text)": "1 Year",
+   "speed settings (page text)": "2",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "vega-itmfypc28yttx2we": {
+  "url": "https://www.vega.co.in/pro-xpert-2200-hair-dryer.html",
+  "title": "Pro-Xpert 2200-2400 Watts Hair Dryer - VHDP-03",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number VHDP03 (maker's code)",
+   "model name \"vhdp 03\"",
+   "wattage 2200 W"
+  ],
+  "kv": {
+   "Quick Dry with 2200-2400W Power": "Experience quick hair drying and styling with powerful airflow that significantly saves time and delivers smooth and frizz-free results.",
+   "Multiple Attachments": "The professional hair dryer offers precise hair drying and styling with its 2 Detachable Nozzles (Large & Medium) and 1 Diffuser for curly/wavy hair.",
+   "Cool Shot Button": "Delivers a burst of cool air to lock in your preferred hairstyle.",
+   "Removable End Cap": "Allows easy cleaning and maintenance of the hair dryer for optimal performance.",
+   "Thermal Protection": "Helps protect the scalp while drying and styling hair.",
+   "Cord Guard with Hanging Loop": "The cord guard of the pro dryer comes with a convenient loop for hanging the dryer and keeping it accessible.",
+   "Safety Automatic Overheat Cut-Out": "Automatically shuts off the hair dryer during long use to ensure safety and prevent overheating.",
+   "Quick Dry with 2200-2400W Power:": "Quick Dry with 2200-2400W Power:",
+   "1 Year Warranty": "1 Year Warranty",
+   "wattage (page text)": "2200-2400 W",
+   "warranty (page text)": "1 Year",
+   "speed settings (page text)": "2",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "philips-itm2279cfa030589": {
+  "url": "https://www.philips.co.in/c-p/BHC010_10/essentialcare-dryer",
+  "title": "EssentialCare Dryer BHC010/10",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.85,
+  "matchedOn": [
+   "model number BHC010/10",
+   "wattage 1200 W"
+  ],
+  "kv": {
+   "Model number": "BHC010/10",
+   "Product family": "EssentialCare",
+   "Attachments": "Nozzle",
+   "Cord length": "1.5 m",
+   "Wattage": "1200 W",
+   "Voltage": "220 V",
+   "Foldable handle": "YES",
+   "Storage hook": "Yes"
+  }
+ },
+ "vega-itm7e23362a6bf73": {
+  "url": "https://www.vega.co.in/vega-ionic-1400-watts-hair-dryer.html",
+  "title": "VEGA Ionic 1200-1400 Watts Hair Dryer - VHDH-35",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number VHDH35 (maker's code)",
+   "model name \"vhdh 35 ionic\"",
+   "wattage 1400 W"
+  ],
+  "kv": {
+   "justify-center mt-1 h-7 leading-7 md": "mt-1.5 md:w-32 md:h-8 md:leading-8",
+   "Ionic Technology": "Seal the hair cuticles to lock in moisture and reduce frizz for a smooth result.",
+   "Detachable Nozzle": "Removable nozzle for precise airflow control and targeted drying, enhancing styling flexibility.",
+   "Cool Shot Button": "Lock in your style to achieve a sleek and smooth finish with the burst of cool air.",
+   "Dual-Layer Concentrator": "Regulate the temperature and airflow to experience precise hair drying and styling.",
+   "Removable Double-Layer Back Filter Cover": "Easily clean the hair dryer by removing the back filter to ensure its maintenance and longevity.",
+   "Foldable Handle": "Compact design with a foldable handle for easy storage and carrying on the go.",
+   "1400W Power:": "1400W Power:",
+   "2 Heat/Speed Settings:": "2 Heat/Speed Settings:",
+   "2 Years Warranty": "2 Years Warranty",
+   "warranty (page text)": "2 Years"
+  }
+ },
+ "philips-itm3fff2e1210494": {
+  "url": "https://www.philips.co.in/c-p/BHC017_00/essentialcare-dryer",
+  "title": "EssentialCare Dryer BHC017/00",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.85,
+  "matchedOn": [
+   "model number BHC017/00",
+   "wattage 1200 W"
+  ],
+  "kv": {
+   "Model number": "BHC017/00",
+   "Product family": "EssentialCare",
+   "Attachments": "Nozzle, Brush diffuser",
+   "Cord length": "1.5 m",
+   "Voltage": "220 V",
+   "Wattage": "1200 W",
+   "Color": "Cherry blossom pink",
+   "Graphic": "Lilac",
+   "Foldable handle": "YES",
+   "Storage hook": "Yes",
+   "2-year guarantee": "Yes"
+  }
+ },
+ "ikonic-itm46063eb7fe0e1": {
+  "url": "https://ikonicworld.com/products/ikonic-me-travel-express-hair-dryer",
+  "title": "Ikonic Me Travel Express 1400W Hair Dryer with Foldable Handle & Cool Shot – White",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"me express\"",
+   "wattage 1400 W"
+  ],
+  "kv": {
+   "Country of Origin": "India",
+   "Marketed By": "SSIZ International Pvt. Ltd.",
+   "BIS Licence No.": "CM/L-7200295313",
+   "Net Quantity": "1",
+   "Product Dimension (LxBxH) (cms)": "8x5x3.5Weight (grams): 440",
+   "1 Year Warranty": "1 Year Warranty",
+   "• 1400W Robust Motor": "• 1400W Robust Motor",
+   "• Foldable Handle": "The foldable handle enhances portability, making the dryer compact for travel while saving storage space.",
+   "• In-built Nozzle": "The built-in nozzle functions as a concentrator for precise blowouts, facilitating quick drying and imparting a shiny, frizz-free look to your hair.",
+   "Warranty": "1 Year from the date of purchase",
+   "BIS Licence No.: CM/L-7200295313": "BIS Licence No.: CM/L-7200295313",
+   "warranty (page text)": "1 Year",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "philips-itmff6qnhzbshgwt": {
+  "url": "https://www.philips.co.in/c-p/HP8100_60/hairdryer",
+  "title": "Hairdryer HP8100/60",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.85,
+  "matchedOn": [
+   "model number HP8100/60",
+   "wattage 1000 W"
+  ],
+  "kv": {
+   "Model number": "HP8100/60",
+   "Cord length": "1.5 m",
+   "Wattage": "1000 W",
+   "ThermoProtect setting": "Yes",
+   "Hanging loop": "yes",
+   "Narrow Concentrator": "yes",
+   "2-year guarantee": "Yes"
+  }
+ },
+ "vega-itm0786fe1587e44": {
+  "url": "https://www.vega.co.in/vega-ionic-1400w-hair-dryer.html",
+  "title": "VEGA Ionic 1200-1400 Watts Hair Dryer - VHDH-28",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number VHDH28 (maker's code)",
+   "model name \"vhdh 28\"",
+   "wattage 1400 W"
+  ],
+  "kv": {
+   "justify-center mt-1 h-7 leading-7 md": "mt-1.5 md:w-32 md:h-8 md:leading-8",
+   "Ionic Technology": "Seal the hair cuticles to lock in moisture and reduce frizz for a smooth result.",
+   "Detachable Nozzle": "Removable nozzle for precise airflow control and targeted drying, enhancing styling flexibility.",
+   "Cool Shot Button": "Lock in your style to achieve a sleek and smooth finish with the burst of cool air.",
+   "Dual-Layer Concentrator": "Regulate the temperature and airflow to experience precise hair drying and styling.",
+   "Removable Double-Layer Back Filter Cover": "Easily clean the hair dryer by removing the back filter to ensure its maintenance and longevity.",
+   "Foldable Handle": "Compact design with a foldable handle for easy storage and carrying on the go.",
+   "1400W Power:": "1400W Power:",
+   "2 Heat/Speed Settings:": "2 Heat/Speed Settings:",
+   "2 Years Warranty": "2 Years Warranty",
+   "warranty (page text)": "2 Years"
+  }
+ },
+ "philips-itm35d62a2add4b3": {
+  "url": "https://www.philips.co.in/c-p/BHD308_30/3000-series-hair-dryer",
+  "title": "3000 Series Hair Dryer BHD308/30",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.85,
+  "matchedOn": [
+   "model number BHD308/30",
+   "wattage 1600 W"
+  ],
+  "kv": {
+   "Model number": "BHD308/30",
+   "Product family": "3000 Series",
+   "ThermoProtect attachment": "Yes",
+   "Cord length": "1.8 m",
+   "Voltage": "220-240 V",
+   "Wattage": "1600 W",
+   "Motor": "DC",
+   "Foldable handle": "Yes",
+   "Storage hook": "Yes",
+   "Heat/Speed settings": "3",
+   "Settings": "Cool air setting",
+   "2-year worldwide warranty": "Yes",
+   "ThermoProtect": "Yes"
+  }
+ },
+ "nova-itmf092b9a8a8eac": {
+  "url": "https://www.novaindia.co.in/products/nova-nhp-8202-hair-dryer",
+  "title": "Nova Premium Silky Shine Hot And Cold Foldable NHP 8202 Hair Dryer",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number NHP8202 (maker's code)",
+   "model name \"nhp 8202\"",
+   "wattage 1400 W"
+  ],
+  "kv": {
+   "Wattage": "1400 W",
+   "Brand warranty": "7 Days Easy Return",
+   "1 year of brand warranty": "1 year of brand warranty",
+   "3 heat settings": "3 heat settings",
+   "2 speed settings": "2 speed settings",
+   "Wattage: 1400 W": "Wattage: 1400 W",
+   "wattage (page text)": "1400 W",
+   "warranty (page text)": "1 year",
+   "heat settings (page text)": "3",
+   "speed settings (page text)": "2"
+  }
+ },
+ "philips-itm35e1ba0e364f9": {
+  "url": "https://www.philips.co.in/c-p/HP8143_00/salondry-dryer",
+  "title": "SalonDry Dryer HP8143/00",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.85,
+  "matchedOn": [
+   "model number HP8143/00",
+   "wattage 1000 W"
+  ],
+  "kv": {
+   "Model number": "HP8143/00",
+   "Product family": "SalonDry",
+   "Cord length": "1.5 m",
+   "Wattage": "1000 W",
+   "ThermoProtect setting": "Yes",
+   "Hanging loop": "yes",
+   "Narrow Concentrator": "yes",
+   "2-year guarantee": "Yes"
+  }
+ },
+ "vega-itm79a5aaa12622e": {
+  "url": "https://www.vega.co.in/insta-glam-1000-hair-dryer.html",
+  "title": "Insta Glam 1000 Watts Hair Dryer - VHDH-20",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number VHDH20 (maker's code)",
+   "model name \"insta glam 1000 vhdh 20\"",
+   "wattage 1000 W"
+  ],
+  "kv": {
+   "Detachable Nozzle": "Removable nozzle for precise airflow control and targeted drying, enhancing styling flexibility.",
+   "Automatic Overheat Cut-Out": "Safety feature that automatically shuts off the dryer to prevent overheating.",
+   "Ergonomic & Light Weight": "Designed for comfort and easy handling for best results.",
+   "Travel Friendly": "Compact and lightweight hair dryer, perfect for on-the-go styling.",
+   "BIS COMPLIANT": "Certified to Bureau of Indian Standards (BIS) guidelines, ensuring reliable performance and safe usage every time.",
+   "900-1000W Power:": "900-1000W Power:",
+   "2 Heat/Speed Settings:": "2 Heat/Speed Settings:",
+   "2 Years Warranty": "2 Years Warranty",
+   "wattage (page text)": "900-1000 W",
+   "warranty (page text)": "2 Years"
+  }
+ },
+ "winston-itm303349894d164": {
+  "url": "https://winstonindia.com/products/pro-hair-dryer-2200w",
+  "title": "Winston Pro Flow Dryer 2200W | High-Speed Airflow for Professional Styling",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"pro flow 2200\"",
+   "wattage 2200 W",
+   "listing model number Pro Flow Professional not printed on maker page"
+  ],
+  "kv": {
+   "1 Year Warranty": "1 Year Warranty",
+   "wattage (page text)": "2200 W",
+   "warranty (page text)": "1 Year",
+   "heat settings (page text)": "3",
+   "speed settings (page text)": "2"
+  }
+ },
+ "vega-itme2uygk2seteck": {
+  "url": "https://www.vega.co.in/pro-touch-1800-2000-hair-dryer.html",
+  "title": "Pro Touch 1800-2000 Watts Hair Dryer - VHDP-02",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number VHDP02 (maker's code)",
+   "model name \"vhdp 02\"",
+   "wattage 2000 W"
+  ],
+  "kv": {
+   "Cool Shot Button": "Lock in your style to achieve a sleek and smooth finish with the burst of cool air.",
+   "Auto Overheat Protection": "Automatically shuts off the appliance during long usage for overheat protection.",
+   "Removable End Cap": "Easily clean the hair dryer by removing the back filter to ensure its maintenance and longevity.",
+   "Cord Guard with Hanging Loop": "Easily hang the hair dryer during or after use for convenient storage.",
+   "Ergonomic Design": "It is designed with non-slip ergonomic handle for a comfortable hold.",
+   "1800‐2000W Power:": "1800‐2000W Power:",
+   "2 Speed/2 Heat Settings:": "2 Speed/2 Heat Settings:",
+   "1 Year Warranty": "1 Year Warranty",
+   "wattage (page text)": "1800-2000 W",
+   "warranty (page text)": "1 Year",
+   "heat settings (page text)": "2",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "vega-itm7a04cac9a0a2a": {
+  "url": "https://www.vega.co.in/pro-touch-1800-2000-hair-dryer.html",
+  "title": "Pro Touch 1800-2000 Watts Hair Dryer - VHDP-02",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.1,
+  "matchedOn": [
+   "model number VHDP02 (maker's code)",
+   "model name \"vhdp 02\""
+  ],
+  "kv": {
+   "Cool Shot Button": "Lock in your style to achieve a sleek and smooth finish with the burst of cool air.",
+   "Auto Overheat Protection": "Automatically shuts off the appliance during long usage for overheat protection.",
+   "Removable End Cap": "Easily clean the hair dryer by removing the back filter to ensure its maintenance and longevity.",
+   "Cord Guard with Hanging Loop": "Easily hang the hair dryer during or after use for convenient storage.",
+   "Ergonomic Design": "It is designed with non-slip ergonomic handle for a comfortable hold.",
+   "1800‐2000W Power:": "1800‐2000W Power:",
+   "2 Speed/2 Heat Settings:": "2 Speed/2 Heat Settings:",
+   "1 Year Warranty": "1 Year Warranty",
+   "wattage (page text)": "1800-2000 W",
+   "warranty (page text)": "1 Year",
+   "heat settings (page text)": "2",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "vega-itmdsbyrgyvdhtqg": {
+  "url": "https://www.vega.co.in/blooming-air-1000-hair-dryer.html",
+  "title": "Blooming Air 1000-1200 Watts Hair Dryer - VHDH-05",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number VHDH05 (maker's code)",
+   "model name \"vhdh 05\"",
+   "wattage 1000 W"
+  ],
+  "kv": {
+   "justify-center mt-1 h-7 leading-7 md": "mt-1.5 md:w-32 md:h-8 md:leading-8",
+   "Detachable Nozzle": "Removable nozzle for precise airflow control and targeted drying, enhancing styling flexibility.",
+   "Foldable Handle": "Travel-friendly hair dryer with compact design and foldable handle for easy storage.",
+   "Auto Overheat Protection": "Automatically shuts off the appliance during long usage for overheat protection.",
+   "Cord Guard with Hanging Loop": "Easily hang the hair dryer during or after use for convenient storage.",
+   "Ergonomic Design": "It is designed with non-slip ergonomic handle for a comfortable hold.",
+   "1000-1200W Power:": "1000-1200W Power:",
+   "2 Heat/1 Speed Settings:": "2 Heat/1 Speed Settings:",
+   "2 Years Warranty": "2 Years Warranty",
+   "wattage (page text)": "1000-1200 W",
+   "warranty (page text)": "2 Years",
+   "speed settings (page text)": "1",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "ikonic-professional-itmeb963fb8cd87c": {
+  "url": "https://ikonicworld.com/products/ikonic-hair-dryer-pro-2400",
+  "title": "Ikonic Professional Pro 2400 Hair Dryer with 2400W High Velocity Motor & Overheat Protection",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"pro 2400\"",
+   "wattage 2400 W",
+   "listing model number 2400 Dryer with Cool Shot Button Interchangeable Nozzle and Multiple Settings not printed on maker page"
+  ],
+  "kv": {
+   "Country of Origin": "India",
+   "Marketed By": "SSIZ International Pvt. Ltd.",
+   "BIS Licence No.": "CM/L-7200295313",
+   "Net Quantity": "1",
+   "Product Dimension (LxBxH) (cms)": "Weight (grams): 1000",
+   "1 Year Warranty": "1 Year Warranty",
+   "• Power: 2200W-2400W.": "• Power: 2200W-2400W.",
+   "• Removable filter for easy maintenance.": "• Hanging loop for convenient storage.",
+   "Warranty": "1 Year from the date of purchase",
+   "BIS Licence No.: CM/L-7200295313": "BIS Licence No.: CM/L-7200295313",
+   "warranty (page text)": "1 Year",
+   "speed settings (page text)": "2",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "vega-itm1733260766418": {
+  "url": "https://www.vega.co.in/u-style-1600-watts-hair-dryer.html",
+  "title": "U-Style 1400-1600 Watts Hair Dryer - VHDH-32",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number VHDH32 (maker's code)",
+   "model name \"vhdh 32 u style\"",
+   "wattage 1600 W"
+  ],
+  "kv": {
+   "Cool Shot Button": "Lock in your style to achieve a sleek and smooth finish with the burst of cool air.",
+   "Detachable Nozzle": "Removable nozzle for precise airflow control and targeted drying, enhancing styling flexibility.",
+   "Foldable Handle": "Travel-friendly hair dryer with compact design and foldable handle for easy storage.",
+   "Auto Overheat Protection": "Automatically shuts off the appliance during long usage for overheat protection.",
+   "Cord Guard with Hanging Loop": "Easily hang the hair dryer during or after use for convenient storage.",
+   "1400-1600W Power:": "1400-1600W Power:",
+   "2 Speed/3 Heat Settings:": "2 Speed/3 Heat Settings:",
+   "2 Years Warranty": "2 Years Warranty",
+   "wattage (page text)": "1400-1600 W",
+   "warranty (page text)": "2 Years",
+   "heat settings (page text)": "3",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "agaro-itm3c20d8e2b821f": {
+  "url": "https://agarolifestyle.com/products/hd-1120-hair-dryer-with-2000-watts",
+  "title": "HD-1120 2000W AC Professional Hair Dryer with Comb, Concentrator & Diffuser Nozzles, Hot & Cold Air, 2 Speed & 3 Temperature Settings with Cool Shot, Hair Dryer & Blower for Men & Women (Brown)",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number HD1120 (maker's code)",
+   "model name \"hd 1120\"",
+   "wattage 2000 W"
+  ],
+  "kv": {
+   "Manufacturer": "Jieyang City,Guangdong Province,China",
+   "Importer": "Universal Corporation Ltd , 4/1, Middleton St, Kankaria Estates, Park Street area, Kolkata, West Bengal 700071",
+   "Country of Origin": "China",
+   "Item Dimensions": "D x W x H - 254D x 100W x 277H mm",
+   "Item Weight": "1.05 Kilograms",
+   "Item Weight: 1.05 Kilograms": "Item Weight: 1.05 Kilograms",
+   "Warranty registration": "Product is fabulous but when coming to warranty registration it won't happen actually I have to mail you official about that particular reason",
+   "wattage (page text)": "2000 W",
+   "warranty (page text)": "2 Years",
+   "heat settings (page text)": "3"
+  }
+ },
+ "ikonic-itmabee969b8d7c6": {
+  "url": "https://ikonicworld.com/products/ikonic-me-ultralight-2000-hair-dryer-orange",
+  "title": "Ikonic Me Ultralight 2000W Hair Dryer with Powerful Motor, Nozzle & Diffuser",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.5,
+  "matchedOn": [
+   "model name \"ultralight 2000\""
+  ],
+  "kv": {
+   "Country of Origin": "India",
+   "Marketed By": "SSIZ International Pvt. Ltd.",
+   "BIS Licence No.": "CM/L-7200295313",
+   "Net Quantity": "1",
+   "Product Dimension (LxBxH) (cms)": "25x10x28",
+   "Weight (grams)": "812",
+   "1 Year Warranty": "1 Year Warranty",
+   "WHAT’S IN THE BOX": "·",
+   "Nozzle": "·",
+   "Diffuser": "·",
+   "• 2000W Powerful Professional Motor": "• 2000W Powerful Professional Motor",
+   "• Custom 3-Heat & 2-Speed Settings": "• Custom 3-Heat & 2-Speed Settings",
+   "• Style-Locking Cool Shot": "Blast your hair with cool shoot to seal the cuticles, tame stubborn frizz, boost natural shine, and lock your hairstyle in place all day long.",
+   "• Smart Overheat Protection": "Built with an automatic safety shut-off mechanism that prevents overheating, ensuring maximum safety for you, your hair, and your surroundings.",
+   "Warranty": "1 Year from the date of purchase",
+   "BIS Licence No.: CM/L-7200295313": "BIS Licence No.: CM/L-7200295313",
+   "Weight (grams): 812": "Weight (grams): 812",
+   "wattage (page text)": "2000 W",
+   "warranty (page text)": "1 Year",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "nova-itm913cc9b5d9b89": {
+  "url": "https://www.novaindia.co.in/products/nova-nhp-8214-professional-ac-motor-hair-dryer-2000-w-grey",
+  "title": "NOVA NHP 8214 Professional AC Motor Hair Dryer  (2000 W, Grey)",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number NHP8214 (maker's code)",
+   "model name \"nhp 8214 ac motor\"",
+   "wattage 2000 W"
+  ],
+  "kv": {
+   "wattage (page text)": "2000 W",
+   "speed settings (page text)": "2",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "nova-itme08c1ddd20e1c": {
+  "url": "https://www.novaindia.co.in/products/nova-nhp-8219-professional-hair-dryer-1600-w-black",
+  "title": "NOVA NHP 8219 Professional Hair Dryer  (1600 W, Black)",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number NHP8219 (maker's code)",
+   "model name \"nhp 8219\"",
+   "wattage 1600 W"
+  ],
+  "kv": {
+   "wattage (page text)": "1600 W",
+   "speed settings (page text)": "2",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "ikonic-me-itm78373af0f5a2a": {
+  "url": "https://ikonicworld.com/products/ikonic-mini-vibe-hair-dryer",
+  "title": "Ikonic Me Mini Vibe 1200W Hair Dryer with 2 Speed Settings & Cool Shot",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"vibe\"",
+   "wattage 1200 W",
+   "listing model number Vibe Mini not printed on maker page"
+  ],
+  "kv": {
+   "Country of Origin": "India",
+   "Marketed By": "SSIZ International Pvt. Ltd.",
+   "BIS Licence No.": "CM/L-7200295313",
+   "Net Quantity": "1",
+   "Product Dimension (LxBxH) (cms)": "11x7x17Weight (grams): 390",
+   "1 Year Warranty": "1 Year Warranty",
+   "WHAT’S IN THE BOX": "·",
+   "weight (gm)": "16.8",
+   "• 1100 – 1200W Powerful Motor": "• 1100 – 1200W Powerful Motor",
+   "• 2-Speed Heat Settings with Cool Shot": "• 2-Speed Heat Settings with Cool Shot",
+   "• Foldable Handle": "The foldable handle makes the dryer compact enough to carry anywhere. Plus, it saves your storage space.",
+   "Warranty": "1 Year from the date of purchase",
+   "BIS Licence No.: CM/L-7200295313": "BIS Licence No.: CM/L-7200295313",
+   "wattage (page text)": "1100-1200 W",
+   "warranty (page text)": "1 Year",
+   "speed settings (page text)": "2",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "philips-itmbdd192980a795": {
+  "url": "https://www.philips.co.in/c-p/BHD833_10/hair-dryer-8000-series-hair-dryer-with-thermoshield-advanced",
+  "title": "Hair Dryer 8000 Series Hair Dryer with ThermoShield Advanced BHD833/10",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.85,
+  "matchedOn": [
+   "model number BHD833/10",
+   "wattage 1380 W"
+  ],
+  "kv": {
+   "Model number": "BHD833/10",
+   "Product family": "Hair Dryer 8000 Series",
+   "Magnetic 8 mm styling nozzle": "Yes",
+   "Magnetic diffuser": "Yes",
+   "Cord length": "2 m",
+   "Color/finishing": "Rose Champagne",
+   "Voltage": "220-240 V",
+   "Wattage": "1380 W",
+   "Motor": "Brushless DC (110,000 RPM)",
+   "Weight": "395 g",
+   "Average air speed": "228 km/h",
+   "Off mode power": "&lt; 0.5 W",
+   "Temperature Settings": "7 (45°C - 95°C, Cool Shot mode)",
+   "Speed settings": "3",
+   "Pre-set modes": "4 (Fast, ThermoShield Advanced, Hot-Cold, Gentle), Memory function that automatically activates the last used setting when the dryer is turned on.",
+   "Auto-Cleaning mode": "Yes",
+   "2-year worldwide guarantee": "Yes",
+   "Ionic": "Negative and water ions"
+  }
+ },
+ "nova-itm43692bcf854f6": {
+  "url": "https://www.novaindia.co.in/products/nova-nhp-8210-hair-dryer",
+  "title": "Nova Professional NHP 8210 Hair Dryer",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number NHP8210 (maker's code)",
+   "model name \"nhp 8210\"",
+   "wattage 1800 W"
+  ],
+  "kv": {
+   "Wattage": "1800 W",
+   "Brand warranty": "7 Days Easy Return",
+   "1 year of brand warranty": "1 year of brand warranty",
+   "3 heat settings": "3 heat settings",
+   "3-speed settings": "3-speed settings",
+   "Wattage: 1800 W": "Wattage: 1800 W",
+   "wattage (page text)": "1800 W",
+   "warranty (page text)": "1 year",
+   "heat settings (page text)": "3"
+  }
+ },
+ "nova-itmc059a602d3a7f": {
+  "url": "https://www.novaindia.co.in/products/nova-nhp-8209-hair-dryer-1400-w-light-purple",
+  "title": "NOVA NHP 8209 Hair Dryer  (1400 W, Light Purple)",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number NHP8209 (maker's code)",
+   "model name \"silky shine\"",
+   "wattage 1400 W"
+  ],
+  "kv": {
+   "Brand": "NOVA",
+   "Model Number": "NHP 8209",
+   "Color": "Light Purple",
+   "Model Name": "Premium Silky Shine Hot And Cold Foldable",
+   "Number of Speed Settings": "2",
+   "Number of Heat Settings": "3",
+   "Number of Attachments": "1",
+   "Attachment Types": "Concentrator",
+   "Nozzle/Concentrator": "yes",
+   "Cold Air Feature": "Yes",
+   "Technology Used": "Ehd+ Technology",
+   "Net Quantity": "1",
+   "Ehd+ Technology": "Net Quantity",
+   "wattage (page text)": "1400 W",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "philips-itmf8t9cqty4u4zu": {
+  "url": "https://www.philips.co.in/c-p/HP8142_00/hairdryer",
+  "title": "Hairdryer HP8142/00",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.65,
+  "matchedOn": [
+   "model HP8142 (maker's only Indian CTN: HP8142/00)",
+   "wattage 1000 W"
+  ],
+  "kv": {
+   "Model number": "HP8142/00",
+   "Cord length": "1.5 m",
+   "Wattage": "1000 W",
+   "Hanging loop": "yes",
+   "Narrow Concentrator": "yes",
+   "2-year guarantee": "Yes"
+  }
+ },
+ "philips-itm3003636a22891": {
+  "url": "https://www.philips.co.in/c-p/BHD356_10/3000-series-hair-dryer",
+  "title": "3000 Series Hair Dryer BHD356/10",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.85,
+  "matchedOn": [
+   "model number BHD356/10",
+   "wattage 2100 W"
+  ],
+  "kv": {
+   "Model number": "BHD356/10",
+   "Product family": "3000 Series",
+   "Nozzle": "14 mm",
+   "ThermoProtect attachment": "Yes",
+   "Cord length": "1.8 m",
+   "Wattage": "2100 W",
+   "Voltage": "220-240 V",
+   "Motor": "DC",
+   "Storage hook": "Yes",
+   "Heat/Speed settings": "6",
+   "Settings": "Cool air setting",
+   "2-year worldwide warranty": "Yes",
+   "ThermoProtect": "Yes",
+   "Ionic technology": "Yes"
+  }
+ },
+ "philips-itmdba3ac4dc260a": {
+  "url": "https://www.philips.co.in/c-p/HP8643_56/essential-dryer-straightener",
+  "title": "Essential Dryer & Straightener HP8643/56",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.8,
+  "matchedOn": [
+   "model number HP8643/56"
+  ],
+  "kv": {
+   "Model number": "HP8643/56",
+   "Product family": "Essential",
+   "Cord length": "Straightener & Dryer 1.6",
+   "Voltage": "Dryer: 220-240",
+   "Heat-up time": "Straightener: 60 seconds",
+   "Wattage": "Dryer 1000",
+   "Maximum temperature": "Straightener 210",
+   "ThermoProtect setting": "Yes",
+   "Ceramic coating": "Straightener yes",
+   "Swivel cord": "Straightener yes",
+   "Storage hook": "Dryer yes",
+   "Narrow Concentrator": "Dryer yes",
+   "2-year worldwide guarantee": "Yes"
+  }
+ },
+ "philips-itm2b827e4cb3935": {
+  "url": "https://www.philips.co.in/c-p/BHD399_00/hair-dryer",
+  "title": "Hair Dryer BHD399/00",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.85,
+  "matchedOn": [
+   "model number BHD399/00",
+   "wattage 1800 W"
+  ],
+  "kv": {
+   "Model number": "BHD399/00",
+   "Double layer nozzle": "Y",
+   "Cord length": "1.6 m",
+   "Wattage": "1800 W",
+   "Heat/Speed settings": "3",
+   "2-year worldwide warranty": "Yes",
+   "50 million ions**": "Yes",
+   "Mineral ionic care*": "Yes"
+  }
+ },
+ "philips-itm5194fd6c8317b": {
+  "url": "https://www.philips.co.in/c-p/BHD318_00/3000-series-hair-dryer",
+  "title": "3000 Series Hair Dryer BHD318/00",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.85,
+  "matchedOn": [
+   "model number BHD318/00",
+   "wattage 1600 W"
+  ],
+  "kv": {
+   "Model number": "BHD318/00",
+   "Product family": "3000 Series",
+   "ThermoProtect attachment": "Yes",
+   "Cord length": "1.8 m",
+   "Wattage": "1600 W",
+   "Voltage": "220-240 V",
+   "Motor": "DC",
+   "Foldable handle": "Yes",
+   "Storage hook": "Yes",
+   "Heat/Speed settings": "3",
+   "Settings": "Cool air setting",
+   "2-year worldwide warranty": "Yes",
+   "ThermoProtect": "Yes",
+   "Ionic technology": "Yes"
+  }
+ },
+ "philips-itmf6330e742f632": {
+  "url": "https://www.philips.co.in/c-p/BHD308_30/3000-series-hair-dryer",
+  "title": "3000 Series Hair Dryer BHD308/30",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.65,
+  "matchedOn": [
+   "model BHD308 (maker's only Indian CTN: BHD308/30)",
+   "wattage 1600 W"
+  ],
+  "kv": {
+   "Model number": "BHD308/30",
+   "Product family": "3000 Series",
+   "ThermoProtect attachment": "Yes",
+   "Cord length": "1.8 m",
+   "Voltage": "220-240 V",
+   "Wattage": "1600 W",
+   "Motor": "DC",
+   "Foldable handle": "Yes",
+   "Storage hook": "Yes",
+   "Heat/Speed settings": "3",
+   "Settings": "Cool air setting",
+   "2-year worldwide warranty": "Yes",
+   "ThermoProtect": "Yes"
+  }
+ },
+ "philips-itmemhnmp8wwwsup": {
+  "url": "https://www.philips.co.in/c-p/HP8643_46/essential-dryer-straightener",
+  "title": "Essential Dryer & Straightener HP8643/46",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.8,
+  "matchedOn": [
+   "model number HP8643/46"
+  ],
+  "kv": {
+   "Model number": "HP8643/46",
+   "Product family": "Essential",
+   "Voltage": "Dryer: 220-240",
+   "Cord length": "Straightener & Dryer 1.6",
+   "Wattage": "Dryer 1000",
+   "Maximum temperature": "Straightener 210",
+   "Heat-up time": "Straightener: 60 seconds",
+   "Ceramic coating": "Straightener yes",
+   "Swivel cord": "Straightener yes",
+   "Storage hook": "Dryer yes",
+   "Narrow Concentrator": "Dryer yes",
+   "2-year guarantee": "Yes"
+  }
+ },
+ "philips-itmd2aef3a27b539": {
+  "url": "https://www.philips.co.in/c-p/HP8120_00/essentialcare-dryer",
+  "title": "EssentialCare Dryer HP8120/00",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.65,
+  "matchedOn": [
+   "model HP8120 (maker's only Indian CTN: HP8120/00)",
+   "wattage 1200 W"
+  ],
+  "kv": {
+   "Model number": "HP8120/00",
+   "Product family": "EssentialCare",
+   "Attachments": "Nozzle",
+   "Cord length": "1.5 m",
+   "Voltage": "220 V",
+   "Wattage": "1200 W",
+   "Color": "White and pink",
+   "Graphic": "Lilac rain",
+   "Foldable handle": "YES",
+   "Storage hook": "Yes"
+  }
+ },
+ "philips-itmdd7d4df3b8167": {
+  "url": "https://www.philips.co.in/c-p/HP8100_46/hairdryer",
+  "title": "Hairdryer HP8100/46",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.85,
+  "matchedOn": [
+   "model number HP8100/46",
+   "wattage 1000 W"
+  ],
+  "kv": {
+   "Model number": "HP8100/46",
+   "Cord length": "1.5 m",
+   "Wattage": "1000 W",
+   "ThermoProtect setting": "Yes",
+   "Hanging loop": "yes",
+   "Narrow Concentrator": "yes",
+   "2-year guarantee": "Yes"
+  }
+ },
+ "philips-itm2e1d357838c5c": {
+  "url": "https://www.philips.co.in/c-p/HP8643_56/essential-dryer-straightener",
+  "title": "Essential Dryer & Straightener HP8643/56",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.8,
+  "matchedOn": [
+   "model number HP8643/56"
+  ],
+  "kv": {
+   "Model number": "HP8643/56",
+   "Product family": "Essential",
+   "Cord length": "Straightener & Dryer 1.6",
+   "Voltage": "Dryer: 220-240",
+   "Heat-up time": "Straightener: 60 seconds",
+   "Wattage": "Dryer 1000",
+   "Maximum temperature": "Straightener 210",
+   "ThermoProtect setting": "Yes",
+   "Ceramic coating": "Straightener yes",
+   "Swivel cord": "Straightener yes",
+   "Storage hook": "Dryer yes",
+   "Narrow Concentrator": "Dryer yes",
+   "2-year worldwide guarantee": "Yes"
+  }
+ },
+ "philips-itma32abf22535c6": {
+  "url": "https://www.philips.co.in/c-p/BHC010_10/essentialcare-dryer",
+  "title": "EssentialCare Dryer BHC010/10",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.85,
+  "matchedOn": [
+   "model number BHC010/10",
+   "wattage 1200 W"
+  ],
+  "kv": {
+   "Model number": "BHC010/10",
+   "Product family": "EssentialCare",
+   "Attachments": "Nozzle",
+   "Cord length": "1.5 m",
+   "Wattage": "1200 W",
+   "Voltage": "220 V",
+   "Foldable handle": "YES",
+   "Storage hook": "Yes"
+  }
+ },
+ "vega-itm114834cd920b6": {
+  "url": "https://www.vega.co.in/vega-blow-pro-2200-2400w-hair-dryer.html",
+  "title": "VEGA BLOW PRO 2200-2400W HAIR DRYER - VHDP-05",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number VHDP05 (maker's code)",
+   "model name \"pro vhdp 05\"",
+   "wattage 2400 W"
+  ],
+  "kv": {
+   "Motor": "2200-2400W Powerful Motor",
+   "Heat and Speed Settings": "Combination Of 4 heat and 2 speed settings",
+   "Cool Shot Button": "For setting the hair style and instant burst of cold hair",
+   "Diffuser Attachment": "Diffuser attachment for enhancing curls or adding volume to the hair.",
+   "Nozzle Attachment": "Nozzle attachment condense air flow to targeted areas to effectively control static and smoothen frizz.",
+   "Comb Nozzle Attachment": "For effortless detangling hair while drying",
+   "2200-2400W Powerful Motor": "2200-2400W Powerful Motor",
+   "1 Year Warranty": "1 Year Warranty",
+   "wattage (page text)": "2200-2400 W",
+   "warranty (page text)": "1 Year",
+   "speed settings (page text)": "2"
+  }
+ },
+ "vega-itm695a990dd7356": {
+  "url": "https://www.vega.co.in/pro-touch-1800-2000-hair-dryer.html",
+  "title": "Pro Touch 1800-2000 Watts Hair Dryer - VHDP-02",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"pro touch 1800 2000\"",
+   "wattage 2000 W"
+  ],
+  "kv": {
+   "Cool Shot Button": "Lock in your style to achieve a sleek and smooth finish with the burst of cool air.",
+   "Auto Overheat Protection": "Automatically shuts off the appliance during long usage for overheat protection.",
+   "Removable End Cap": "Easily clean the hair dryer by removing the back filter to ensure its maintenance and longevity.",
+   "Cord Guard with Hanging Loop": "Easily hang the hair dryer during or after use for convenient storage.",
+   "Ergonomic Design": "It is designed with non-slip ergonomic handle for a comfortable hold.",
+   "1800‐2000W Power:": "1800‐2000W Power:",
+   "2 Speed/2 Heat Settings:": "2 Speed/2 Heat Settings:",
+   "1 Year Warranty": "1 Year Warranty",
+   "wattage (page text)": "1800-2000 W",
+   "warranty (page text)": "1 Year",
+   "heat settings (page text)": "2",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "agaro-itm672b5dda56ff3": {
+  "url": "https://agarolifestyle.com/products/hd-1214-hair-dryer",
+  "title": "HD-1214 Hair Dryer",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.1,
+  "matchedOn": [
+   "model number HD1214 (maker's code)",
+   "model name \"hd 1214\""
+  ],
+  "kv": {
+   "Manufacturer": "Purplestar Manufacturing Private Limited,",
+   "Country of Origin": "China",
+   "Dimensions D x W x H": "13D x 13W x 25H Centimeters",
+   "Item Weight": "510 Grams",
+   "Item Weight: 510 Grams": "Item Weight: 510 Grams",
+   "wattage (page text)": "1400 W",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "philips-b00to7jufg": {
+  "url": "https://www.philips.co.in/c-p/HP8120_00/essentialcare-dryer",
+  "title": "EssentialCare Dryer HP8120/00",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.65,
+  "matchedOn": [
+   "model HP8120 (maker's only Indian CTN: HP8120/00)",
+   "wattage 1200 W"
+  ],
+  "kv": {
+   "Model number": "HP8120/00",
+   "Product family": "EssentialCare",
+   "Attachments": "Nozzle",
+   "Cord length": "1.5 m",
+   "Voltage": "220 V",
+   "Wattage": "1200 W",
+   "Color": "White and pink",
+   "Graphic": "Lilac rain",
+   "Foldable handle": "YES",
+   "Storage hook": "Yes"
+  }
+ },
+ "vega-b078gsxy26": {
+  "url": "https://www.vega.co.in/pro-xpert-2200-hair-dryer.html",
+  "title": "Pro-Xpert 2200-2400 Watts Hair Dryer - VHDP-03",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number VHDP03 (maker's code)",
+   "model name \"pro xpert\"",
+   "wattage 2200 W"
+  ],
+  "kv": {
+   "Quick Dry with 2200-2400W Power": "Experience quick hair drying and styling with powerful airflow that significantly saves time and delivers smooth and frizz-free results.",
+   "Multiple Attachments": "The professional hair dryer offers precise hair drying and styling with its 2 Detachable Nozzles (Large & Medium) and 1 Diffuser for curly/wavy hair.",
+   "Cool Shot Button": "Delivers a burst of cool air to lock in your preferred hairstyle.",
+   "Removable End Cap": "Allows easy cleaning and maintenance of the hair dryer for optimal performance.",
+   "Thermal Protection": "Helps protect the scalp while drying and styling hair.",
+   "Cord Guard with Hanging Loop": "The cord guard of the pro dryer comes with a convenient loop for hanging the dryer and keeping it accessible.",
+   "Safety Automatic Overheat Cut-Out": "Automatically shuts off the hair dryer during long use to ensure safety and prevent overheating.",
+   "Quick Dry with 2200-2400W Power:": "Quick Dry with 2200-2400W Power:",
+   "1 Year Warranty": "1 Year Warranty",
+   "wattage (page text)": "2200-2400 W",
+   "warranty (page text)": "1 Year",
+   "speed settings (page text)": "2",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "philips-b074kkm2mp": {
+  "url": "https://www.philips.co.in/c-p/HP8100_60/hairdryer",
+  "title": "Hairdryer HP8100/60",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.85,
+  "matchedOn": [
+   "model number HP8100/60",
+   "wattage 1000 W"
+  ],
+  "kv": {
+   "Model number": "HP8100/60",
+   "Cord length": "1.5 m",
+   "Wattage": "1000 W",
+   "ThermoProtect setting": "Yes",
+   "Hanging loop": "yes",
+   "Narrow Concentrator": "yes",
+   "2-year guarantee": "Yes"
+  }
+ },
+ "vega-b0dy1pstzx": {
+  "url": "https://www.vega.co.in/dry-up-2000w-hair-dryer.html",
+  "title": "Vega Dry-Up 2000W Hair Dryer - VHDH-36",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number VHDH36 (maker's code)",
+   "model name \"up 2000\"",
+   "wattage 2000 W"
+  ],
+  "kv": {
+   "Cool Shot Button": "Locks in your style with a burst of cool air for a sleek finish.",
+   "Foldable Handle": "Compact design with a foldable handle for easy storage and portability.",
+   "Automatic Overheat Cut-Out": "Safety feature that automatically shuts off the dryer to prevent overheating.",
+   "Ergonomic & Light Weight": "Designed for comfort and easy handling for best results.",
+   "Travel Friendly": "Compact and lightweight hair dryer, perfect for on-the-go styling.",
+   "Cord Guard": "Protects the power cord from damage, ensuring durability and extended lifespan.",
+   "BIS COMPLIANT": "Certified to Bureau of Indian Standards (BIS) guidelines, ensuring reliable performance and safe usage every time.",
+   "2000W DC Power:": "2000W DC Power:",
+   "3 Heat & 1 Speed Settings:": "3 Heat & 1 Speed Settings:",
+   "2 Years Warranty": "2 Years Warranty",
+   "wattage (page text)": "2000 W",
+   "warranty (page text)": "2 Years",
+   "speed settings (page text)": "1"
+  }
+ },
+ "philips-b0fxgk315m": {
+  "url": "https://www.philips.co.in/c-p/BHD833_10/hair-dryer-8000-series-hair-dryer-with-thermoshield-advanced",
+  "title": "Hair Dryer 8000 Series Hair Dryer with ThermoShield Advanced BHD833/10",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.8,
+  "matchedOn": [
+   "model number BHD833/10"
+  ],
+  "kv": {
+   "Model number": "BHD833/10",
+   "Product family": "Hair Dryer 8000 Series",
+   "Magnetic 8 mm styling nozzle": "Yes",
+   "Magnetic diffuser": "Yes",
+   "Cord length": "2 m",
+   "Color/finishing": "Rose Champagne",
+   "Voltage": "220-240 V",
+   "Wattage": "1380 W",
+   "Motor": "Brushless DC (110,000 RPM)",
+   "Weight": "395 g",
+   "Average air speed": "228 km/h",
+   "Off mode power": "&lt; 0.5 W",
+   "Temperature Settings": "7 (45°C - 95°C, Cool Shot mode)",
+   "Speed settings": "3",
+   "Pre-set modes": "4 (Fast, ThermoShield Advanced, Hot-Cold, Gentle), Memory function that automatically activates the last used setting when the dryer is turned on.",
+   "Auto-Cleaning mode": "Yes",
+   "2-year worldwide guarantee": "Yes",
+   "Ionic": "Negative and water ions"
+  }
+ },
+ "winston-b0f7r2jwh4": {
+  "url": "https://winstonindia.com/products/turbo-pro-1800-watt-hair-dryer",
+  "title": "Turbo Pro 1800 Watt | Cool Shot Hair Dryer",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"turbo pro\"",
+   "wattage 1800 W"
+  ],
+  "kv": {
+   "Power": "1800W",
+   "Voltage": "220-240V",
+   "1800 Watt": "1800 Watt",
+   "1 concentrator": "1 concentrator",
+   "1 Year Warranty": "1 Year Warranty",
+   "Power: 1800W": "Power: 1800W",
+   "Voltage: 220-240V": "Voltage: 220-240V",
+   "Warranty": "Comes with 1 year replacement warranty, delivered to your door.",
+   "Concentrator": "User Manual",
+   "Detachable Concentrator": "Overheating Protection",
+   "wattage (page text)": "1800 W",
+   "warranty (page text)": "1 Year",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "philips-b00kcd8nfy": {
+  "url": "https://www.philips.co.in/c-p/HP8100_46/hairdryer",
+  "title": "Hairdryer HP8100/46",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.85,
+  "matchedOn": [
+   "model number HP8100/46",
+   "wattage 1000 W"
+  ],
+  "kv": {
+   "Model number": "HP8100/46",
+   "Cord length": "1.5 m",
+   "Wattage": "1000 W",
+   "ThermoProtect setting": "Yes",
+   "Hanging loop": "yes",
+   "Narrow Concentrator": "yes",
+   "2-year guarantee": "Yes"
+  }
+ },
+ "vega-b0dc68sdv7": {
+  "url": "https://www.vega.co.in/vega-ionic-1400-watts-hair-dryer.html",
+  "title": "VEGA Ionic 1200-1400 Watts Hair Dryer - VHDH-35",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number VHDH35 (maker's code)",
+   "model name \"ionic 1200\"",
+   "wattage 1400 W"
+  ],
+  "kv": {
+   "justify-center mt-1 h-7 leading-7 md": "mt-1.5 md:w-32 md:h-8 md:leading-8",
+   "Ionic Technology": "Seal the hair cuticles to lock in moisture and reduce frizz for a smooth result.",
+   "Detachable Nozzle": "Removable nozzle for precise airflow control and targeted drying, enhancing styling flexibility.",
+   "Cool Shot Button": "Lock in your style to achieve a sleek and smooth finish with the burst of cool air.",
+   "Dual-Layer Concentrator": "Regulate the temperature and airflow to experience precise hair drying and styling.",
+   "Removable Double-Layer Back Filter Cover": "Easily clean the hair dryer by removing the back filter to ensure its maintenance and longevity.",
+   "Foldable Handle": "Compact design with a foldable handle for easy storage and carrying on the go.",
+   "1400W Power:": "1400W Power:",
+   "2 Heat/Speed Settings:": "2 Heat/Speed Settings:",
+   "2 Years Warranty": "2 Years Warranty",
+   "warranty (page text)": "2 Years"
+  }
+ },
+ "agaro-b094xsdc41": {
+  "url": "https://agarolifestyle.com/products/hd-1120-hair-dryer-with-2000-watts",
+  "title": "HD-1120 2000W AC Professional Hair Dryer with Comb, Concentrator & Diffuser Nozzles, Hot & Cold Air, 2 Speed & 3 Temperature Settings with Cool Shot, Hair Dryer & Blower for Men & Women (Brown)",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number HD1120 (maker's code)",
+   "model name \"ac\"",
+   "wattage 2000 W"
+  ],
+  "kv": {
+   "Manufacturer": "Jieyang City,Guangdong Province,China",
+   "Importer": "Universal Corporation Ltd , 4/1, Middleton St, Kankaria Estates, Park Street area, Kolkata, West Bengal 700071",
+   "Country of Origin": "China",
+   "Item Dimensions": "D x W x H - 254D x 100W x 277H mm",
+   "Item Weight": "1.05 Kilograms",
+   "Item Weight: 1.05 Kilograms": "Item Weight: 1.05 Kilograms",
+   "Warranty registration": "Product is fabulous but when coming to warranty registration it won't happen actually I have to mail you official about that particular reason",
+   "wattage (page text)": "2000 W",
+   "warranty (page text)": "2 Years",
+   "heat settings (page text)": "3"
+  }
+ },
+ "philips-b09dyy72f9": {
+  "url": "https://www.philips.co.in/c-p/BHC010_10/essentialcare-dryer",
+  "title": "EssentialCare Dryer BHC010/10",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.85,
+  "matchedOn": [
+   "model number BHC010/10",
+   "wattage 1200 W"
+  ],
+  "kv": {
+   "Model number": "BHC010/10",
+   "Product family": "EssentialCare",
+   "Attachments": "Nozzle",
+   "Cord length": "1.5 m",
+   "Wattage": "1200 W",
+   "Voltage": "220 V",
+   "Foldable handle": "YES",
+   "Storage hook": "Yes"
+  }
+ },
+ "agaro-b0cpt935rx": {
+  "url": "https://agarolifestyle.com/products/agaro-hd1417-wall-mounted-hair-dryer-1400w-electric-wall-mount-hair-dryer-hotel-bathroom-household-wall-hanging-dryer-white",
+  "title": "HD1417 Wall Mounted Hair Dryer 1400W, Electric Wall Mount Hair Dryer, Hotel, Bathroom, Household,  Wall Hanging Dryer, White",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number HD1417 (maker's code)",
+   "model name \"wall mounted\"",
+   "wattage 1400 W"
+  ],
+  "kv": {
+   "Manufacturer": "Universal Corporation Limited, Jieyang City, China",
+   "Importer": "Universal Corporation Limited, 4/1 Middleton Street, Sikkim commerce House, Kolkata-71",
+   "Country of Origin": "China",
+   "Item Dimensions": "D x W x H - 20D x 10.5W x 17.4H cm",
+   "Item Weight": "740 gms",
+   "2 years warranty": "2 years warranty",
+   "wattage (page text)": "1400 W",
+   "warranty (page text)": "2 years",
+   "speed settings (page text)": "2"
+  }
+ },
+ "nova-b08bxgnk36": {
+  "url": "https://www.novaindia.co.in/products/nova-nhp-8105-hair-dryer",
+  "title": "Nova Silky Shine Hot And Cold Foldable NHP 8105 Hair Dryer",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.65,
+  "matchedOn": [
+   "model number NHP8105 (maker's code)",
+   "wattage 1200 W"
+  ],
+  "kv": {
+   "Wattage": "1200 W",
+   "Brand warranty": "7 Days Easy Return",
+   "1 year of brand warranty": "1 year of brand warranty",
+   "2 heat settings": "2 heat settings",
+   "1-speed settings": "1-speed settings",
+   "Wattage: 1200 W": "Wattage: 1200 W",
+   "wattage (page text)": "1200 W",
+   "warranty (page text)": "1 year",
+   "heat settings (page text)": "2"
+  }
+ },
+ "philips-b08smpc12x": {
+  "url": "https://www.philips.co.in/c-p/BHD356_10/3000-series-hair-dryer",
+  "title": "3000 Series Hair Dryer BHD356/10",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.65,
+  "matchedOn": [
+   "model BHD356 (maker's only Indian CTN: BHD356/10)",
+   "wattage 2100 W"
+  ],
+  "kv": {
+   "Model number": "BHD356/10",
+   "Product family": "3000 Series",
+   "Nozzle": "14 mm",
+   "ThermoProtect attachment": "Yes",
+   "Cord length": "1.8 m",
+   "Wattage": "2100 W",
+   "Voltage": "220-240 V",
+   "Motor": "DC",
+   "Storage hook": "Yes",
+   "Heat/Speed settings": "6",
+   "Settings": "Cool air setting",
+   "2-year worldwide warranty": "Yes",
+   "ThermoProtect": "Yes",
+   "Ionic technology": "Yes"
+  }
+ },
+ "nova-b083f853kb": {
+  "url": "https://www.novaindia.co.in/products/nova-nhp-8215-003-hair-dryer",
+  "title": "Nova Professional NHP 8215 Hair Dryer Red",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.65,
+  "matchedOn": [
+   "model number NHP8215 (maker's code)",
+   "wattage 1800 W"
+  ],
+  "kv": {
+   "Wattage": "1800 W",
+   "Brand warranty": "7 Days Easy Return",
+   "1 year of brand warranty": "1 year of brand warranty",
+   "3 heat settings": "3 heat settings",
+   "3 speed settings": "3 speed settings",
+   "Wattage: 1800 W": "Wattage: 1800 W",
+   "wattage (page text)": "1800 W",
+   "warranty (page text)": "1 year",
+   "heat settings (page text)": "3",
+   "speed settings (page text)": "3"
+  }
+ },
+ "vega-b0dspfpv6s": {
+  "url": "https://www.vega.co.in/vega-blow-pro-2200-2400w-hair-dryer.html",
+  "title": "VEGA BLOW PRO 2200-2400W HAIR DRYER - VHDP-05",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number VHDP05 (maker's code)",
+   "model name \"pro 2200\"",
+   "wattage 2400 W"
+  ],
+  "kv": {
+   "Motor": "2200-2400W Powerful Motor",
+   "Heat and Speed Settings": "Combination Of 4 heat and 2 speed settings",
+   "Cool Shot Button": "For setting the hair style and instant burst of cold hair",
+   "Diffuser Attachment": "Diffuser attachment for enhancing curls or adding volume to the hair.",
+   "Nozzle Attachment": "Nozzle attachment condense air flow to targeted areas to effectively control static and smoothen frizz.",
+   "Comb Nozzle Attachment": "For effortless detangling hair while drying",
+   "2200-2400W Powerful Motor": "2200-2400W Powerful Motor",
+   "1 Year Warranty": "1 Year Warranty",
+   "wattage (page text)": "2200-2400 W",
+   "warranty (page text)": "1 Year",
+   "speed settings (page text)": "2"
+  }
+ },
+ "philips-b08smmrjjl": {
+  "url": "https://www.philips.co.in/c-p/BHD318_00/3000-series-hair-dryer",
+  "title": "3000 Series Hair Dryer BHD318/00",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.8,
+  "matchedOn": [
+   "model number BHD318/00"
+  ],
+  "kv": {
+   "Model number": "BHD318/00",
+   "Product family": "3000 Series",
+   "ThermoProtect attachment": "Yes",
+   "Cord length": "1.8 m",
+   "Wattage": "1600 W",
+   "Voltage": "220-240 V",
+   "Motor": "DC",
+   "Foldable handle": "Yes",
+   "Storage hook": "Yes",
+   "Heat/Speed settings": "3",
+   "Settings": "Cool air setting",
+   "2-year worldwide warranty": "Yes",
+   "ThermoProtect": "Yes",
+   "Ionic technology": "Yes"
+  }
+ },
+ "vega-b098l5f4lv": {
+  "url": "https://www.vega.co.in/go-pro-2100-hair-dryer.html",
+  "title": "Go-Pro 1800-2100W Hair Dryer-VHDH-25",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number VHDH25 (maker's code)",
+   "model name \"go pro\"",
+   "wattage 2100 W"
+  ],
+  "kv": {
+   "Cool Shot Button": "Lock in your style to achieve a sleek and smooth finish with the burst of cool air.",
+   "Detachable Nozzle": "Removable nozzle for precise airflow control and targeted drying, enhancing styling flexibility.",
+   "Automatic Overheat Cut-Out": "Safety feature that automatically shuts off the dryer to prevent overheating.",
+   "Travel Friendly": "Compact and lightweight hair dryer, perfect for on-the-go styling.",
+   "Removable End Cap": "Easily clean the hair dryer by removing the end cap to ensure its maintenance and longevity.",
+   "BIS COMPLIANT": "Certified to Bureau of Indian Standards (BIS) guidelines, ensuring reliable performance and safe usage every time.",
+   "1800-2100W DC Power:": "1800-2100W DC Power:",
+   "2 Speed/3 Heat Settings:": "2 Speed/3 Heat Settings:",
+   "2 Years Warranty": "2 Years Warranty",
+   "wattage (page text)": "1800-2100 W",
+   "warranty (page text)": "2 Years",
+   "heat settings (page text)": "3"
+  }
+ },
+ "nova-b08kgvkrs7": {
+  "url": "https://www.novaindia.co.in/products/nova-nhp-8211-hair-dryer",
+  "title": "Nova Professional NHP 8211 Hair Dryer",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.65,
+  "matchedOn": [
+   "model number NHP8211 (maker's code)",
+   "wattage 1800 W"
+  ],
+  "kv": {
+   "Wattage": "1800 W",
+   "Brand warranty": "7 Days Easy Return",
+   "1 year of brand warranty": "1 year of brand warranty",
+   "3 heat settings": "3 heat settings",
+   "3-speed settings": "3-speed settings",
+   "Wattage: 1800 W": "Wattage: 1800 W",
+   "wattage (page text)": "1800 W",
+   "warranty (page text)": "1 year",
+   "heat settings (page text)": "3"
+  }
+ },
+ "vega-b07hm33y8s": {
+  "url": "https://www.vega.co.in/go-style-1200-hair-dryer.html",
+  "title": "Go-Style 1200-1400 Watts Hair Dryer - VHDH-18",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number VHDH18 (maker's code)",
+   "model name \"1200 1400 go style\"",
+   "wattage 1400 W"
+  ],
+  "kv": {
+   "Detachable Nozzle": "Removable nozzle for precise airflow control and targeted drying, enhancing styling flexibility.",
+   "Foldable Handle": "Travel-friendly hair dryer with compact design and foldable handle for easy storage.",
+   "Auto Overheat Protection": "Automatically shuts off the appliance during long usage for overheat protection.",
+   "Cord Guard with Hanging Loop": "Easily hang the hair dryer during or after use for convenient storage.",
+   "Ergonomic Design": "It is designed with non-slip ergonomic handle for a comfortable hold.",
+   "1200-1400W Power:": "1200-1400W Power:",
+   "3 Heat/2 Speed Settings:": "3 Heat/2 Speed Settings:",
+   "2 Years Warranty": "2 Years Warranty",
+   "wattage (page text)": "1200-1400 W",
+   "warranty (page text)": "2 Years",
+   "speed settings (page text)": "2",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "ikonic-b0776wjdbc": {
+  "url": "https://ikonicworld.com/products/pro-2100-hair-dryer",
+  "title": "Ikonic Professional Pro 2100+ Hair Dryer With 2000W High Velocity Motor, Low Noise Function, 3 Heat & 2 Speed Settings - Black",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"pro 2100 2000\"",
+   "wattage 2000 W"
+  ],
+  "kv": {
+   "Country of Origin": "India",
+   "Marketed By": "SSIZ International Pvt. Ltd.",
+   "BIS Licence No.": "CM/L-7200295313",
+   "Net Quantity": "1",
+   "Product Dimension (LxBxH) (cms)": "23x10x18Weight (grams): 960",
+   "1 Year Warranty": "1 Year Warranty",
+   "• 2.5 m Long Flexible Cord:": "• 2.5 m Long Flexible Cord:",
+   "Warranty": "1 Year from date of purchase",
+   "BIS Licence No.: CM/L-7200295313": "BIS Licence No.: CM/L-7200295313",
+   "wattage (page text)": "2000 W",
+   "warranty (page text)": "1 Year",
+   "speed settings (page text)": "2",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "winston-b0f7lm4pm1": {
+  "url": "https://winstonindia.com/products/turbo-x-1600-watt-hair-dryer",
+  "title": "Turbo X 1600 Watt | Ambient Mode Hair Dryer",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"turbo x\"",
+   "wattage 1600 W"
+  ],
+  "kv": {
+   "Power": "1600W",
+   "Voltage": "220-240V",
+   "1600 Watt": "1600 Watt",
+   "1 concentrator": "1 concentrator",
+   "Overheat": "protection",
+   "1 Year Warranty": "1 Year Warranty",
+   "Power: 1600W": "Power: 1600W",
+   "Voltage: 220-240V": "Voltage: 220-240V",
+   "Warranty": "Comes with 1 year replacement warranty, delivered to your door.",
+   "Concentrator": "User Manual",
+   "Detachable Concentrator": "Overheating Protection",
+   "wattage (page text)": "1600 W",
+   "warranty (page text)": "1 Year",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "vega-b00fwk50gc": {
+  "url": "https://www.vega.co.in/blooming-air-1000-hair-dryer.html",
+  "title": "Blooming Air 1000-1200 Watts Hair Dryer - VHDH-05",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number VHDH05 (maker's code)",
+   "model name \"blooming 1000 1200\"",
+   "wattage 1200 W"
+  ],
+  "kv": {
+   "justify-center mt-1 h-7 leading-7 md": "mt-1.5 md:w-32 md:h-8 md:leading-8",
+   "Detachable Nozzle": "Removable nozzle for precise airflow control and targeted drying, enhancing styling flexibility.",
+   "Foldable Handle": "Travel-friendly hair dryer with compact design and foldable handle for easy storage.",
+   "Auto Overheat Protection": "Automatically shuts off the appliance during long usage for overheat protection.",
+   "Cord Guard with Hanging Loop": "Easily hang the hair dryer during or after use for convenient storage.",
+   "Ergonomic Design": "It is designed with non-slip ergonomic handle for a comfortable hold.",
+   "1000-1200W Power:": "1000-1200W Power:",
+   "2 Heat/1 Speed Settings:": "2 Heat/1 Speed Settings:",
+   "2 Years Warranty": "2 Years Warranty",
+   "wattage (page text)": "1000-1200 W",
+   "warranty (page text)": "2 Years",
+   "speed settings (page text)": "1",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "vega-b00qlx3uzc": {
+  "url": "https://www.vega.co.in/pro-touch-1800-2000-hair-dryer.html",
+  "title": "Pro Touch 1800-2000 Watts Hair Dryer - VHDP-02",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number VHDP02 (maker's code)",
+   "model name \"vhdp 02\"",
+   "wattage 2000 W"
+  ],
+  "kv": {
+   "Cool Shot Button": "Lock in your style to achieve a sleek and smooth finish with the burst of cool air.",
+   "Auto Overheat Protection": "Automatically shuts off the appliance during long usage for overheat protection.",
+   "Removable End Cap": "Easily clean the hair dryer by removing the back filter to ensure its maintenance and longevity.",
+   "Cord Guard with Hanging Loop": "Easily hang the hair dryer during or after use for convenient storage.",
+   "Ergonomic Design": "It is designed with non-slip ergonomic handle for a comfortable hold.",
+   "1800‐2000W Power:": "1800‐2000W Power:",
+   "2 Speed/2 Heat Settings:": "2 Speed/2 Heat Settings:",
+   "1 Year Warranty": "1 Year Warranty",
+   "wattage (page text)": "1800-2000 W",
+   "warranty (page text)": "1 Year",
+   "heat settings (page text)": "2",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "nova-b0dhxt77gh": {
+  "url": "https://www.novaindia.co.in/products/nova-nhp-8222-professional-hair-dryer-with-ac-motor-hair-dryer-2000-w-rose-gold",
+  "title": "NOVA NHP 8222 Professional Hair Dryer With AC Motor Hair Dryer  (2000 W, Rose Gold)",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number NHP8222 (maker's code)",
+   "model name \"nhp 8222\"",
+   "wattage 2000 W"
+  ],
+  "kv": {
+   "wattage (page text)": "2000 W",
+   "speed settings (page text)": "2",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "vega-b098q4t81t": {
+  "url": "https://www.vega.co.in/u-style-1600-hair-dryer.html",
+  "title": "U-Style 1400-1600 Watts Hair Dryer-VHDH-24",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number VHDH24 (maker's code)",
+   "model name \"u style 1400\"",
+   "wattage 1600 W"
+  ],
+  "kv": {
+   "Cool Shot Button": "Lock in your style and add a finishing touch with the burst of cool air.",
+   "Detachable Nozzle": "Get precise airflow control and targeted drying with for quick and sleek finish.",
+   "Automatic Overheat Cut-Out": "Safety feature that automatically shuts off the dryer to prevent overheating.",
+   "Ergonomic & Light Weight": "Designed for comfort and easy handling for best results.",
+   "Travel Friendly": "Compact and lightweight hair dryer, perfect for on-the-go styling.",
+   "Cord Guard": "Protects the power cord from damage, ensuring durability and extended lifespan.",
+   "BIS COMPLIANT": "Certified to Bureau of Indian Standards (BIS) guidelines, ensuring reliable performance and safe usage every time.",
+   "2 Heat/2 Speed Settings:": "2 Heat/2 Speed Settings:",
+   "2 Years Warranty": "2 Years Warranty",
+   "wattage (page text)": "1400-1600 W",
+   "warranty (page text)": "2 Years",
+   "speed settings (page text)": "2"
+  }
+ },
+ "vega-b0d8vvyw4n": {
+  "url": "https://www.vega.co.in/vega-style-pro-1600-watts-hair-dryer.html",
+  "title": "Vega Style Pro 1400-1600W Hair Dryer - VHDH-34",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number VHDH34 (maker's code)",
+   "model name \"style pro\"",
+   "wattage 1600 W"
+  ],
+  "kv": {
+   "Detachable Nozzle": "Removable nozzle for precise airflow control and targeted drying, enhancing styling flexibility.",
+   "Diffuser Attachment": "Dry and style curly or wavy hair while also enhancing the natural texture.",
+   "Foldable Handle": "Compact design with a foldable handle for easy storage and carrying on the go.",
+   "Auto Overheat Protection": "Automatically shuts off the appliance during long usage for overheat protection.",
+   "Removable End Cap": "Easily clean the hair dryer by removing the back cap to ensure its maintenance and longevity.",
+   "1400-1600W Power:": "1400-1600W Power:",
+   "2 Speed/3 Heat Settings:": "2 Speed/3 Heat Settings:",
+   "2 Years Warranty": "2 Years Warranty",
+   "wattage (page text)": "1400-1600 W",
+   "warranty (page text)": "2 Years",
+   "heat settings (page text)": "3",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "ikonic-b0dqtn388s": {
+  "url": "https://ikonicworld.com/products/ikonic-me-ultralight-2000-hair-dryer-orange",
+  "title": "Ikonic Me Ultralight 2000W Hair Dryer with Powerful Motor, Nozzle & Diffuser",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"me ultralight 2000\"",
+   "wattage 2000 W"
+  ],
+  "kv": {
+   "Country of Origin": "India",
+   "Marketed By": "SSIZ International Pvt. Ltd.",
+   "BIS Licence No.": "CM/L-7200295313",
+   "Net Quantity": "1",
+   "Product Dimension (LxBxH) (cms)": "25x10x28",
+   "Weight (grams)": "812",
+   "1 Year Warranty": "1 Year Warranty",
+   "WHAT’S IN THE BOX": "·",
+   "Nozzle": "·",
+   "Diffuser": "·",
+   "• 2000W Powerful Professional Motor": "• 2000W Powerful Professional Motor",
+   "• Custom 3-Heat & 2-Speed Settings": "• Custom 3-Heat & 2-Speed Settings",
+   "• Style-Locking Cool Shot": "Blast your hair with cool shoot to seal the cuticles, tame stubborn frizz, boost natural shine, and lock your hairstyle in place all day long.",
+   "• Smart Overheat Protection": "Built with an automatic safety shut-off mechanism that prevents overheating, ensuring maximum safety for you, your hair, and your surroundings.",
+   "Warranty": "1 Year from the date of purchase",
+   "BIS Licence No.: CM/L-7200295313": "BIS Licence No.: CM/L-7200295313",
+   "Weight (grams): 812": "Weight (grams): 812",
+   "wattage (page text)": "2000 W",
+   "warranty (page text)": "1 Year",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "ikonic-b0cfdz4ykv": {
+  "url": "https://ikonicworld.com/products/ikonic-mini-vibe-hair-dryer",
+  "title": "Ikonic Me Mini Vibe 1200W Hair Dryer with 2 Speed Settings & Cool Shot",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"mini vibe 1200\"",
+   "wattage 1200 W"
+  ],
+  "kv": {
+   "Country of Origin": "India",
+   "Marketed By": "SSIZ International Pvt. Ltd.",
+   "BIS Licence No.": "CM/L-7200295313",
+   "Net Quantity": "1",
+   "Product Dimension (LxBxH) (cms)": "11x7x17Weight (grams): 390",
+   "1 Year Warranty": "1 Year Warranty",
+   "WHAT’S IN THE BOX": "·",
+   "weight (gm)": "16.8",
+   "• 1100 – 1200W Powerful Motor": "• 1100 – 1200W Powerful Motor",
+   "• 2-Speed Heat Settings with Cool Shot": "• 2-Speed Heat Settings with Cool Shot",
+   "• Foldable Handle": "The foldable handle makes the dryer compact enough to carry anywhere. Plus, it saves your storage space.",
+   "Warranty": "1 Year from the date of purchase",
+   "BIS Licence No.: CM/L-7200295313": "BIS Licence No.: CM/L-7200295313",
+   "wattage (page text)": "1100-1200 W",
+   "warranty (page text)": "1 Year",
+   "speed settings (page text)": "2",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "vega-b0dfwmw8kb": {
+  "url": "https://www.vega.co.in/u-style-1600-watts-hair-dryer.html",
+  "title": "U-Style 1400-1600 Watts Hair Dryer - VHDH-32",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number VHDH32 (maker's code)",
+   "model name \"u style 1400\"",
+   "wattage 1600 W"
+  ],
+  "kv": {
+   "Cool Shot Button": "Lock in your style to achieve a sleek and smooth finish with the burst of cool air.",
+   "Detachable Nozzle": "Removable nozzle for precise airflow control and targeted drying, enhancing styling flexibility.",
+   "Foldable Handle": "Travel-friendly hair dryer with compact design and foldable handle for easy storage.",
+   "Auto Overheat Protection": "Automatically shuts off the appliance during long usage for overheat protection.",
+   "Cord Guard with Hanging Loop": "Easily hang the hair dryer during or after use for convenient storage.",
+   "1400-1600W Power:": "1400-1600W Power:",
+   "2 Speed/3 Heat Settings:": "2 Speed/3 Heat Settings:",
+   "2 Years Warranty": "2 Years Warranty",
+   "wattage (page text)": "1400-1600 W",
+   "warranty (page text)": "2 Years",
+   "heat settings (page text)": "3",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "winston-b0h1myw9sf": {
+  "url": "https://winstonindia.com/products/pro-hair-dryer-2200w",
+  "title": "Winston Pro Flow Dryer 2200W | High-Speed Airflow for Professional Styling",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"pro flow 2200\"",
+   "wattage 2200 W"
+  ],
+  "kv": {
+   "1 Year Warranty": "1 Year Warranty",
+   "wattage (page text)": "2200 W",
+   "warranty (page text)": "1 Year",
+   "heat settings (page text)": "3",
+   "speed settings (page text)": "2"
+  }
+ },
+ "winston-b0h1mymrkt": {
+  "url": "https://winstonindia.com/products/winston-pro-flow-dryer-2800w",
+  "title": "Winston Pro Flow Dryer 2800W | Ultra Powerful Airflow for Fast Salon Drying",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"pro flow 2800\"",
+   "wattage 2800 W"
+  ],
+  "kv": {
+   "motor for intensive drying performance": "21,000 RPM",
+   "1 Year Warranty": "1 Year Warranty",
+   "wattage (page text)": "2800 W",
+   "warranty (page text)": "1 Year",
+   "heat settings (page text)": "3"
+  }
+ },
+ "winston-b0h1n4xt3r": {
+  "url": "https://winstonindia.com/products/winston-pro-flow-dryer-2600w",
+  "title": "Winston Pro Flow Dryer 2600W | Precision Heat Control for Salon Performance",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"pro flow 2600\"",
+   "wattage 2600 W"
+  ],
+  "kv": {
+   "motor for rapid salon-grade drying": "21,000 RPM",
+   "Advanced overheat protection": "for reliable continuous usage",
+   "dual concentrator nozzles": "for precision styling",
+   "1 Year Warranty": "1 Year Warranty",
+   "wattage (page text)": "2600 W",
+   "warranty (page text)": "1 Year",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "vega-b07y919dml": {
+  "url": "https://www.vega.co.in/insta-wave-1600-hair-dryer.html",
+  "title": "Insta Wave 1400-1600 Watts Hair Dryer - VHDH-22",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number VHDH22 (maker's code)",
+   "model name \"insta wave 1400\"",
+   "wattage 1600 W"
+  ],
+  "kv": {
+   "Cool Shot Button": "Lock in your style to achieve a sleek and smooth finish with the burst of cool air.",
+   "Detachable Nozzle": "Removable nozzle for precise airflow control and targeted drying, enhancing styling flexibility.",
+   "Foldable Handle": "Travel-friendly hair dryer with compact design and foldable handle for easy storage.",
+   "Auto Overheat Protection": "Automatically shuts off the appliance during long usage for overheat protection.",
+   "Cord Guard with Hanging Loop": "Easily hang the hair dryer during or after use for convenient storage.",
+   "Ergonomic Design": "It is designed with non-slip ergonomic handle for a comfortable hold.",
+   "2 Years Warranty": "2 Years Warranty",
+   "wattage (page text)": "1400-1600 W",
+   "warranty (page text)": "2 Years",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "ikonic-b0ghs9w9dh": {
+  "url": "https://ikonicworld.com/products/ikonic-professional-hair-dryer-pro-2200",
+  "title": "Ikonic Professional Pro 2200+ Hair Dryer with 2200W AC Motor, Ionic Technology & Cool Shot",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"pro 2200\"",
+   "wattage 2200 W"
+  ],
+  "kv": {
+   "Country of Origin": "India",
+   "Marketed By": "SSIZ International Pvt. Ltd.",
+   "BIS Licence No.": "CM/L-7200295313",
+   "Net Quantity": "1",
+   "Manufactured Date": "Jul-25",
+   "Generic Name": "Ikonic Professional Hair Dryer Pro 2200+",
+   "Product Dimension (LxBxH) (cms)": "27*26*9.5",
+   "Weight (grams)": "1152",
+   "1 Year Warranty": "1 Year Warranty",
+   "Warranty": "1 Year from the date of purchase",
+   "BIS Licence No.: CM/L-7200295313": "BIS Licence No.: CM/L-7200295313",
+   "Weight (grams): 1152": "Weight (grams): 1152",
+   "warranty (page text)": "1 Year",
+   "heat settings (page text)": "3",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "nova-b0dhxvs59n": {
+  "url": "https://www.novaindia.co.in/products/nova-nhp-8213-professional-hair-dryer-1800-w-black",
+  "title": "NOVA NHP 8213 Professional Hair Dryer  (1800 W, Black)",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number NHP8213 (maker's code)",
+   "model name \"nhp 8213\"",
+   "wattage 1800 W"
+  ],
+  "kv": {
+   "wattage (page text)": "1800 W",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "nova-b081qcv2z4": {
+  "url": "https://www.novaindia.co.in/products/nova-nhp-8210-hair-dryer",
+  "title": "Nova Professional NHP 8210 Hair Dryer",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.65,
+  "matchedOn": [
+   "model number NHP8210 (maker's code)",
+   "wattage 1800 W"
+  ],
+  "kv": {
+   "Wattage": "1800 W",
+   "Brand warranty": "7 Days Easy Return",
+   "1 year of brand warranty": "1 year of brand warranty",
+   "3 heat settings": "3 heat settings",
+   "3-speed settings": "3-speed settings",
+   "Wattage: 1800 W": "Wattage: 1800 W",
+   "wattage (page text)": "1800 W",
+   "warranty (page text)": "1 year",
+   "heat settings (page text)": "3"
+  }
+ },
+ "ikonic-b0hfnyk416": {
+  "url": "https://ikonicworld.com/products/ikonic-me-ultralight-2000-hair-dryer-orange",
+  "title": "Ikonic Me Ultralight 2000W Hair Dryer with Powerful Motor, Nozzle & Diffuser",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"me ultralight 2000\"",
+   "wattage 2000 W"
+  ],
+  "kv": {
+   "Country of Origin": "India",
+   "Marketed By": "SSIZ International Pvt. Ltd.",
+   "BIS Licence No.": "CM/L-7200295313",
+   "Net Quantity": "1",
+   "Product Dimension (LxBxH) (cms)": "25x10x28",
+   "Weight (grams)": "812",
+   "1 Year Warranty": "1 Year Warranty",
+   "WHAT’S IN THE BOX": "·",
+   "Nozzle": "·",
+   "Diffuser": "·",
+   "• 2000W Powerful Professional Motor": "• 2000W Powerful Professional Motor",
+   "• Custom 3-Heat & 2-Speed Settings": "• Custom 3-Heat & 2-Speed Settings",
+   "• Style-Locking Cool Shot": "Blast your hair with cool shoot to seal the cuticles, tame stubborn frizz, boost natural shine, and lock your hairstyle in place all day long.",
+   "• Smart Overheat Protection": "Built with an automatic safety shut-off mechanism that prevents overheating, ensuring maximum safety for you, your hair, and your surroundings.",
+   "Warranty": "1 Year from the date of purchase",
+   "BIS Licence No.: CM/L-7200295313": "BIS Licence No.: CM/L-7200295313",
+   "Weight (grams): 812": "Weight (grams): 812",
+   "wattage (page text)": "2000 W",
+   "warranty (page text)": "1 Year",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "ikonic-b0hfnlmllb": {
+  "url": "https://ikonicworld.com/products/ikonic-me-ultralight-2000-hair-dryer-orange",
+  "title": "Ikonic Me Ultralight 2000W Hair Dryer with Powerful Motor, Nozzle & Diffuser",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"me ultralight 2000\"",
+   "wattage 2000 W"
+  ],
+  "kv": {
+   "Country of Origin": "India",
+   "Marketed By": "SSIZ International Pvt. Ltd.",
+   "BIS Licence No.": "CM/L-7200295313",
+   "Net Quantity": "1",
+   "Product Dimension (LxBxH) (cms)": "25x10x28",
+   "Weight (grams)": "812",
+   "1 Year Warranty": "1 Year Warranty",
+   "WHAT’S IN THE BOX": "·",
+   "Nozzle": "·",
+   "Diffuser": "·",
+   "• 2000W Powerful Professional Motor": "• 2000W Powerful Professional Motor",
+   "• Custom 3-Heat & 2-Speed Settings": "• Custom 3-Heat & 2-Speed Settings",
+   "• Style-Locking Cool Shot": "Blast your hair with cool shoot to seal the cuticles, tame stubborn frizz, boost natural shine, and lock your hairstyle in place all day long.",
+   "• Smart Overheat Protection": "Built with an automatic safety shut-off mechanism that prevents overheating, ensuring maximum safety for you, your hair, and your surroundings.",
+   "Warranty": "1 Year from the date of purchase",
+   "BIS Licence No.: CM/L-7200295313": "BIS Licence No.: CM/L-7200295313",
+   "Weight (grams): 812": "Weight (grams): 812",
+   "wattage (page text)": "2000 W",
+   "warranty (page text)": "1 Year",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "philips-b074kljq2p": {
+  "url": "https://www.philips.co.in/c-p/HP8143_00/salondry-dryer",
+  "title": "SalonDry Dryer HP8143/00",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.85,
+  "matchedOn": [
+   "model number HP8143/00",
+   "wattage 1000 W"
+  ],
+  "kv": {
+   "Model number": "HP8143/00",
+   "Product family": "SalonDry",
+   "Cord length": "1.5 m",
+   "Wattage": "1000 W",
+   "ThermoProtect setting": "Yes",
+   "Hanging loop": "yes",
+   "Narrow Concentrator": "yes",
+   "2-year guarantee": "Yes"
+  }
+ },
+ "ikonic-b0cff2jswx": {
+  "url": "https://ikonicworld.com/products/ikonic-mini-vibe-hair-dryer",
+  "title": "Ikonic Me Mini Vibe 1200W Hair Dryer with 2 Speed Settings & Cool Shot",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"mini vibe 1200\"",
+   "wattage 1200 W"
+  ],
+  "kv": {
+   "Country of Origin": "India",
+   "Marketed By": "SSIZ International Pvt. Ltd.",
+   "BIS Licence No.": "CM/L-7200295313",
+   "Net Quantity": "1",
+   "Product Dimension (LxBxH) (cms)": "11x7x17Weight (grams): 390",
+   "1 Year Warranty": "1 Year Warranty",
+   "WHAT’S IN THE BOX": "·",
+   "weight (gm)": "16.8",
+   "• 1100 – 1200W Powerful Motor": "• 1100 – 1200W Powerful Motor",
+   "• 2-Speed Heat Settings with Cool Shot": "• 2-Speed Heat Settings with Cool Shot",
+   "• Foldable Handle": "The foldable handle makes the dryer compact enough to carry anywhere. Plus, it saves your storage space.",
+   "Warranty": "1 Year from the date of purchase",
+   "BIS Licence No.: CM/L-7200295313": "BIS Licence No.: CM/L-7200295313",
+   "wattage (page text)": "1100-1200 W",
+   "warranty (page text)": "1 Year",
+   "speed settings (page text)": "2",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "vega-b0h8sxy3wr": {
+  "url": "https://www.vega.co.in/vega-glow-glam-1000w-hair-dryer.html",
+  "title": "VEGA Glow Glam 1000 Watts Hair Dryer-VHDH-26",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number VHDH26 (maker's code)",
+   "model name \"glow glam\"",
+   "wattage 1000 W"
+  ],
+  "kv": {
+   "As low as": "Price:",
+   "Product Options": "Color",
+   "Detachable Nozzle": "Removable nozzle for precise airflow control and targeted drying, enhancing styling flexibility.",
+   "Foldable Handle": "Travel-friendly hair dryer with compact design and foldable handle for easy storage.",
+   "Auto Overheat Protection": "Automatically shuts off the appliance during long usage for overheat protection.",
+   "Cord Guard with Hanging Loop": "Easily hang the hair dryer during or after use for convenient storage.",
+   "900-1000W Power:": "900-1000W Power:",
+   "2 Heat/Speed Settings:": "2 Heat/Speed Settings:",
+   "2 Years Warranty": "2 Years Warranty",
+   "wattage (page text)": "900-1000 W",
+   "warranty (page text)": "2 Years",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "ikonic-b0c7w56sml": {
+  "url": "https://ikonicworld.com/products/finishing-line-hair-dryer",
+  "title": "Ikonic Professional Finishing Line Hair Dryer with Multiple Heat Settings & Cool Shot Function",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"finishing line\"",
+   "wattage 2400 W"
+  ],
+  "kv": {
+   "Country of Origin": "India",
+   "Marketed By": "SSIZ International Pvt. Ltd.",
+   "BIS Licence No.": "CM/L-7200295313",
+   "Net Quantity": "1",
+   "Product Dimension (LxBxH) (cms)": "25x10x28",
+   "Weight (grams)": "1.120kg",
+   "1 Year Warranty": "1 Year Warranty",
+   "Warranty": "1 Year from date of purchase",
+   "BIS Licence No.: CM/L-7200295313": "BIS Licence No.: CM/L-7200295313",
+   "Weight (grams): 1.120kg": "Weight (grams): 1.120kg",
+   "wattage (page text)": "2200-2400 W",
+   "warranty (page text)": "1 Year",
+   "heat settings (page text)": "3",
+   "overheat protection (page text)": "Yes"
+  }
+ },
+ "nova-b0dhxwf4vx": {
+  "url": "https://www.novaindia.co.in/products/nova-nhp-8217-hair-dryer-1800-w-pink",
+  "title": "NOVA NHP 8217 Hair Dryer  (1800 W, Pink)",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number NHP8217 (maker's code)",
+   "model name \"nhp 8217\"",
+   "wattage 1800 W"
+  ],
+  "kv": {
+   "wattage (page text)": "1800 W"
+  }
+ },
+ "nova-b0dhxtv7gv": {
+  "url": "https://www.novaindia.co.in/products/nova-nhp-8219-professional-hair-dryer-1600-w-black",
+  "title": "NOVA NHP 8219 Professional Hair Dryer  (1600 W, Black)",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number NHP8219 (maker's code)",
+   "model name \"nhp 8219\"",
+   "wattage 1600 W"
+  ],
+  "kv": {
+   "wattage (page text)": "1600 W",
+   "speed settings (page text)": "2",
+   "overheat protection (page text)": "Yes"
+  }
+ }
+}

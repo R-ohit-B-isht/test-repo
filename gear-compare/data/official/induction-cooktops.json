@@ -1,0 +1,577 @@
+{
+ "philips-itmfdprumxhwz3sx": {
+  "url": "https://www.philips.co.in/c-p/HD4928_01/induction-cooker",
+  "title": "Induction cooker HD4928/01",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.85,
+  "matchedOn": [
+   "model number HD4928/01",
+   "rated power 2100 W"
+  ],
+  "kv": {
+   "Model number": "HD4928/01",
+   "Materials of main body": "Mirco crystal plate",
+   "Color(s)": "Black",
+   "Height": "65 mm",
+   "Width": "281 mm",
+   "Weight appliance": "2.8 kg",
+   "Depth": "356 mm",
+   "Packaging dimensions (WxDxH)": "432x348x105 cm",
+   "Set dimension (WxHxD)": "281x356x65",
+   "Cord length": "1.2 m",
+   "Voltage": "220-240 V",
+   "Wattage": "2100 W",
+   "Frequency": "50 Hz"
+  }
+ },
+ "crompton-itm22171553bf3e7": {
+  "url": "https://www.crompton.co.in/products/crompton-instaserve-2100-w-induction-cooktop-8-one-touch-cook-menus",
+  "title": "Crompton Instaserve Slim 2100 W Induction Cooktop | 8 One Touch Cook Menus",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"instaserve 2100\"",
+   "rated power 2100 W",
+   "listing model number ACGIC-INSTSERV2100 not printed on maker page"
+  ],
+  "kv": {
+   "Brand": "Crompton",
+   "Color": "‎Black and White",
+   "Dimensions": "31.2 x 10 x 38.5 Centimeters",
+   "Weight": "‎1730 Grams",
+   "No. of units": "1",
+   "Country of Origin": "India",
+   "Warranty": "1 Year",
+   "Wattage": "2100W",
+   "Included Components": "Hub",
+   "Material": "‎Glass",
+   "Manufacturer Contact Information": "Crompton Greaves Consumer Electricals Limited, 05GBD, Godrej Business District, Pirojshanagar, Vikhroli West, Mumbai, Maharashtra 400079",
+   "Product Warranty": "Top Rated Products",
+   "7 Segment LED Display": "7 Segment LED Display",
+   "One touch cook menu": "Surge Protection",
+   "Indian Preset Menus": "Supports Bigger Utensils",
+   "‎Glass": "Manufacturer Contact Information",
+   "Warranty & Support": "Service Center",
+   "Ceramic Heater": "Kitchen Appliances",
+   "wattage (page text)": "2100 W",
+   "warranty (page text)": "1 Year",
+   "auto shut-off (page text)": "Yes"
+  }
+ },
+ "crompton-itm0e97fbd24a86d": {
+  "url": "https://www.crompton.co.in/products/crompton-instaserve-2000-w-induction-cooktop-8-one-touch-cook-menus",
+  "title": "Crompton Instaserve 2000 W Induction Cooktop | 8 One touch Cook Menus",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"instaserve 2000\"",
+   "rated power 2000 W",
+   "listing model number ACGIC-INSTSERV200T not printed on maker page"
+  ],
+  "kv": {
+   "Brand": "Crompton",
+   "Color": "‎Black and Red",
+   "Dimensions": "31.2 x 10 x 38.5 Centimeters",
+   "Weight": "‎1730 Grams",
+   "No. of units": "1",
+   "Country of Origin": "India",
+   "Warranty": "1 Year",
+   "Wattage": "2000W",
+   "Material": "‎Glass",
+   "Included Components": "Hub",
+   "Manufacturer Contact Information": "Crompton Greaves Consumer Electricals Limited, 05GBD, Godrej Business District, Pirojshanagar, Vikhroli West, Mumbai, Maharashtra 400079",
+   "Product Warranty": "Top Rated Products",
+   "7 Segment LED Display": "7 Segment LED Display",
+   "One touch cook menu": "Surge Protection",
+   "Preset Menus": "Supports Bigger Utensils",
+   "‎Glass": "Included Components",
+   "Warranty & Support": "Service Center",
+   "Ceramic Heater": "Kitchen Appliances",
+   "wattage (page text)": "2000 W",
+   "warranty (page text)": "1 Year",
+   "auto shut-off (page text)": "Yes"
+  }
+ },
+ "bajaj-itm5b3e76162fde5": {
+  "url": "https://www.bajajelectricals.com/products/bajaj-icx-190fs-induction-stove",
+  "title": "Bajaj ICX 190FS 1900W Induction Stove",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"icx 190fs\"",
+   "rated power 1900 W",
+   "listing model number 740314 not printed on maker page"
+  ],
+  "kv": {
+   "Contents": "Induction Stove: 1N, Instruction Manual: 1N, Warranty Card: 1N",
+   "Imported By": "NA",
+   "Manufactured By": "Novacare Appliances Private Limited, Plot No-06, Phase-III, Sector-18, BARHI HSIIDC, INDUSTRIAL AREA, Distt Sonepat, Haryana 131101",
+   "Marketed By": "M/S. Bajaj Electricals Limited, #45/47 Veer Nariman Road, Mumbai-400001, Mumbai, Maharashtra",
+   "Country Of Origin": "India",
+   "warranty (page text)": "1 Year",
+   "preset menus (page text)": "9"
+  }
+ },
+ "crompton-itm0079bab3b3d45": {
+  "url": "https://www.crompton.co.in/products/crompton-instaserve-1200-w-induction-cooktop",
+  "title": "Crompton Instaserve 1200 W Induction Cooktop",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"instaserve 1200\"",
+   "rated power 1200 W",
+   "listing model number ACGIC-INSTSERV1200 not printed on maker page"
+  ],
+  "kv": {
+   "Brand Name": "Crompton",
+   "Item Name": "Crompton Instaserve 1200 W Induction Cooktop",
+   "Material": "Ceramic",
+   "Warranty": "1 Year Manufacturer Warranty on Product",
+   "No. of units": "1",
+   "Color": "Black Teal",
+   "Manufacturer Contact Information": "Crompton Greaves Consumer Electricals Limited, 05GBD, Godrej Business District, Pirojshanagar, Vikhroli West, Mumbai, Maharashtra 400079",
+   "Country of Origin": "India",
+   "Wattage": "1200 Watt",
+   "Included Components": "1 Induction Cooktop, 1 Instruction Manual",
+   "Product Warranty": "Top Rated Products",
+   "7 Segment LED Display": "7 Segment LED Display",
+   "1 Year Warranty": "1 Year Warranty",
+   "Indian Preset Menus": "Supports Bigger Utensils",
+   "1 Year Manufacturer Warranty on Product": "1 Year Manufacturer Warranty on Product",
+   "1200 Watt": "1200 Watt",
+   "Warranty & Support": "Service Center",
+   "Ceramic Heater": "Kitchen Appliances",
+   "wattage (page text)": "1200 W",
+   "warranty (page text)": "1 Year",
+   "auto shut-off (page text)": "Yes"
+  }
+ },
+ "bajaj-itm64b7a0c2c013c": {
+  "url": "https://www.bajajelectricals.com/products/bajaj-icx-140ts-induction-stove",
+  "title": "Bajaj ICX 140TS 1400W Induction Stove",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number ICX 140TS 1400W",
+   "model name \"140ts\"",
+   "rated power 1400 W"
+  ],
+  "kv": {
+   "Contents": "Induction Stove: 1N, Instruction Manual: 1N, Warranty Card: 1N",
+   "Imported By": "NA",
+   "Manufactured By": "Novacare Appliances Private Limited, Plot No-06, Phase-III, Sector-18, BARHI HSIIDC, INDUSTRIAL AREA, Distt Sonepat, Haryana 131101",
+   "Marketed By": "M/S. Bajaj Electricals Limited, #45/47 Veer Nariman Road, Mumbai-400001, Mumbai, Maharashtra",
+   "Country Of Origin": "India",
+   "warranty (page text)": "1 Year",
+   "preset menus (page text)": "7"
+  }
+ },
+ "bajaj-itm0f8d4ae07cd78": {
+  "url": "https://www.bajajelectricals.com/products/bajaj-icx-200fp-induction-stove",
+  "title": "Bajaj ICX 200FP 2000W Induction Stove",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.65,
+  "matchedOn": [
+   "model number ICX 200 FP",
+   "rated power 2000 W"
+  ],
+  "kv": {
+   "Contents": "Induction Stove: 1N, Instruction Manual: 1N, Warranty Card: 1N",
+   "Imported By": "NA",
+   "Manufactured By": "EPACK DURABLE LIMITED, PLOT NO. A1-A2, D6-D7-D8, ELCINA Electronics Manufacturing Cluster, Industrial Area Salarpur, Bhiwadi, Alwar - 301019, Rajasthan",
+   "Marketed By": "M/S. Bajaj Electricals Limited, #45/47 Veer Nariman Road, Mumbai-400001, Mumbai, Maharashtra",
+   "Country Of Origin": "India",
+   "warranty (page text)": "1 Year",
+   "preset menus (page text)": "8"
+  }
+ },
+ "crompton-itmbef26eaadc58a": {
+  "url": "https://www.crompton.co.in/products/crompton-instaserve-1200-w-induction-cooktop",
+  "title": "Crompton Instaserve 1200 W Induction Cooktop",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"instaserve 1200\"",
+   "rated power 1200 W",
+   "listing model number ACGIC-INSTSERV120N not printed on maker page"
+  ],
+  "kv": {
+   "Brand Name": "Crompton",
+   "Item Name": "Crompton Instaserve 1200 W Induction Cooktop",
+   "Material": "Ceramic",
+   "Warranty": "1 Year Manufacturer Warranty on Product",
+   "No. of units": "1",
+   "Color": "Black Teal",
+   "Manufacturer Contact Information": "Crompton Greaves Consumer Electricals Limited, 05GBD, Godrej Business District, Pirojshanagar, Vikhroli West, Mumbai, Maharashtra 400079",
+   "Country of Origin": "India",
+   "Wattage": "1200 Watt",
+   "Included Components": "1 Induction Cooktop, 1 Instruction Manual",
+   "Product Warranty": "Top Rated Products",
+   "7 Segment LED Display": "7 Segment LED Display",
+   "1 Year Warranty": "1 Year Warranty",
+   "Indian Preset Menus": "Supports Bigger Utensils",
+   "1 Year Manufacturer Warranty on Product": "1 Year Manufacturer Warranty on Product",
+   "1200 Watt": "1200 Watt",
+   "Warranty & Support": "Service Center",
+   "Ceramic Heater": "Kitchen Appliances",
+   "wattage (page text)": "1200 W",
+   "warranty (page text)": "1 Year",
+   "auto shut-off (page text)": "Yes"
+  }
+ },
+ "bajaj-itme509aadef0952": {
+  "url": "https://www.bajajelectricals.com/products/bajaj-icx-140ts-induction-stove",
+  "title": "Bajaj ICX 140TS 1400W Induction Stove",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"icx 140ts\"",
+   "rated power 1400 W",
+   "listing model number 740308 not printed on maker page"
+  ],
+  "kv": {
+   "Contents": "Induction Stove: 1N, Instruction Manual: 1N, Warranty Card: 1N",
+   "Imported By": "NA",
+   "Manufactured By": "Novacare Appliances Private Limited, Plot No-06, Phase-III, Sector-18, BARHI HSIIDC, INDUSTRIAL AREA, Distt Sonepat, Haryana 131101",
+   "Marketed By": "M/S. Bajaj Electricals Limited, #45/47 Veer Nariman Road, Mumbai-400001, Mumbai, Maharashtra",
+   "Country Of Origin": "India",
+   "warranty (page text)": "1 Year",
+   "preset menus (page text)": "7"
+  }
+ },
+ "bajaj-itmd310c0ed0f171": {
+  "url": "https://www.bajajelectricals.com/products/bajaj-icx-190fs-induction-stove",
+  "title": "Bajaj ICX 190FS 1900W Induction Stove",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number ICX 190FS",
+   "model name \"icx 190fs\"",
+   "rated power 1900 W"
+  ],
+  "kv": {
+   "Contents": "Induction Stove: 1N, Instruction Manual: 1N, Warranty Card: 1N",
+   "Imported By": "NA",
+   "Manufactured By": "Novacare Appliances Private Limited, Plot No-06, Phase-III, Sector-18, BARHI HSIIDC, INDUSTRIAL AREA, Distt Sonepat, Haryana 131101",
+   "Marketed By": "M/S. Bajaj Electricals Limited, #45/47 Veer Nariman Road, Mumbai-400001, Mumbai, Maharashtra",
+   "Country Of Origin": "India",
+   "warranty (page text)": "1 Year",
+   "preset menus (page text)": "9"
+  }
+ },
+ "crompton-itmebc9debb165ff": {
+  "url": "https://www.crompton.co.in/products/crompton-instaserve-1200-w-induction-cooktop",
+  "title": "Crompton Instaserve 1200 W Induction Cooktop",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"instaserve 1200\"",
+   "rated power 1200 W",
+   "listing model number INSTSERV120N not printed on maker page"
+  ],
+  "kv": {
+   "Brand Name": "Crompton",
+   "Item Name": "Crompton Instaserve 1200 W Induction Cooktop",
+   "Material": "Ceramic",
+   "Warranty": "1 Year Manufacturer Warranty on Product",
+   "No. of units": "1",
+   "Color": "Black Teal",
+   "Manufacturer Contact Information": "Crompton Greaves Consumer Electricals Limited, 05GBD, Godrej Business District, Pirojshanagar, Vikhroli West, Mumbai, Maharashtra 400079",
+   "Country of Origin": "India",
+   "Wattage": "1200 Watt",
+   "Included Components": "1 Induction Cooktop, 1 Instruction Manual",
+   "Product Warranty": "Top Rated Products",
+   "7 Segment LED Display": "7 Segment LED Display",
+   "1 Year Warranty": "1 Year Warranty",
+   "Indian Preset Menus": "Supports Bigger Utensils",
+   "1 Year Manufacturer Warranty on Product": "1 Year Manufacturer Warranty on Product",
+   "1200 Watt": "1200 Watt",
+   "Warranty & Support": "Service Center",
+   "Ceramic Heater": "Kitchen Appliances",
+   "wattage (page text)": "1200 W",
+   "warranty (page text)": "1 Year",
+   "auto shut-off (page text)": "Yes"
+  }
+ },
+ "bajaj-itm62334823266a5": {
+  "url": "https://www.bajajelectricals.com/products/bajaj-icx-120ts-induction-stove",
+  "title": "Bajaj ICX 120TS 1200W Induction Stove",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number ICX 120TS",
+   "model name \"icx 120ts\"",
+   "rated power 1200 W"
+  ],
+  "kv": {
+   "Contents": "Induction Stove: 1N, Instruction Manual: 1N, Warranty Card: 1N",
+   "Imported By": "NA",
+   "Manufactured By": "Novacare Appliances Private Limited, Plot No-06, Phase-III, Sector-18, BARHI HSIIDC, INDUSTRIAL AREA, Distt Sonepat, Haryana 131101",
+   "Marketed By": "M/S. Bajaj Electricals Limited, #45/47 Veer Nariman Road, Mumbai-400001, Mumbai, Maharashtra",
+   "Country Of Origin": "India",
+   "warranty (page text)": "1 Year",
+   "preset menus (page text)": "7"
+  }
+ },
+ "bajaj-itmfadb9aca82c9d": {
+  "url": "https://www.bajajelectricals.com/products/bajaj-icx-140ts-induction-stove",
+  "title": "Bajaj ICX 140TS 1400W Induction Stove",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number ICX 140TS",
+   "model name \"icx 140ts\"",
+   "rated power 1400 W"
+  ],
+  "kv": {
+   "Contents": "Induction Stove: 1N, Instruction Manual: 1N, Warranty Card: 1N",
+   "Imported By": "NA",
+   "Manufactured By": "Novacare Appliances Private Limited, Plot No-06, Phase-III, Sector-18, BARHI HSIIDC, INDUSTRIAL AREA, Distt Sonepat, Haryana 131101",
+   "Marketed By": "M/S. Bajaj Electricals Limited, #45/47 Veer Nariman Road, Mumbai-400001, Mumbai, Maharashtra",
+   "Country Of Origin": "India",
+   "warranty (page text)": "1 Year",
+   "preset menus (page text)": "7"
+  }
+ },
+ "philips-itm055080a527be2": {
+  "url": "https://www.philips.co.in/c-p/HD4938_01/viva-collection-induction-cooker",
+  "title": "Viva Collection Induction cooker HD4938/01",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.85,
+  "matchedOn": [
+   "model number HD4938/01",
+   "rated power 2100 W"
+  ],
+  "kv": {
+   "Model number": "HD4938/01",
+   "Product family": "Viva Collection",
+   "Materials of main body": "Mirco crystal plate",
+   "Color(s)": "Black",
+   "Height": "68 mm",
+   "Width": "292 mm",
+   "Depth": "392 mm",
+   "Weight (incl. packaging)": "3.37 kg",
+   "Packaging dimensions (WxHxD)": "452(W)X348(D)X113(H)",
+   "Set dimension (WxHxD)": "292(W)X392(D)X68(H)",
+   "Cord length": "1.2 m",
+   "Voltage": "220-240 V",
+   "Wattage": "2100 W",
+   "Frequency": "50 Hz",
+   "Fast cooking better seals nutrition into food": "Yes",
+   "Auto-off program cooks food safely": "Yes",
+   "More comfortable cooking without flame": "Yes",
+   "Cool-to-touch surface cooks foods safely": "Yes"
+  }
+ },
+ "philips-itmc84ebcf14d90f": {
+  "url": "https://www.philips.co.in/c-p/HD4938_01/viva-collection-induction-cooker",
+  "title": "Viva Collection Induction cooker HD4938/01",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.85,
+  "matchedOn": [
+   "model number HD4938/01",
+   "rated power 2100 W"
+  ],
+  "kv": {
+   "Model number": "HD4938/01",
+   "Product family": "Viva Collection",
+   "Materials of main body": "Mirco crystal plate",
+   "Color(s)": "Black",
+   "Height": "68 mm",
+   "Width": "292 mm",
+   "Depth": "392 mm",
+   "Weight (incl. packaging)": "3.37 kg",
+   "Packaging dimensions (WxHxD)": "452(W)X348(D)X113(H)",
+   "Set dimension (WxHxD)": "292(W)X392(D)X68(H)",
+   "Cord length": "1.2 m",
+   "Voltage": "220-240 V",
+   "Wattage": "2100 W",
+   "Frequency": "50 Hz",
+   "Fast cooking better seals nutrition into food": "Yes",
+   "Auto-off program cooks food safely": "Yes",
+   "More comfortable cooking without flame": "Yes",
+   "Cool-to-touch surface cooks foods safely": "Yes"
+  }
+ },
+ "philips-itmcc785060c56b7": {
+  "url": "https://www.philips.co.in/c-p/HD4928_01/induction-cooker",
+  "title": "Induction cooker HD4928/01",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.85,
+  "matchedOn": [
+   "model number HD4928/01",
+   "rated power 2100 W"
+  ],
+  "kv": {
+   "Model number": "HD4928/01",
+   "Materials of main body": "Mirco crystal plate",
+   "Color(s)": "Black",
+   "Height": "65 mm",
+   "Width": "281 mm",
+   "Weight appliance": "2.8 kg",
+   "Depth": "356 mm",
+   "Packaging dimensions (WxDxH)": "432x348x105 cm",
+   "Set dimension (WxHxD)": "281x356x65",
+   "Cord length": "1.2 m",
+   "Voltage": "220-240 V",
+   "Wattage": "2100 W",
+   "Frequency": "50 Hz"
+  }
+ },
+ "bajaj-itma14d2fa7015bd": {
+  "url": "https://www.bajajelectricals.com/products/bajaj-icx-140ts-induction-stove",
+  "title": "Bajaj ICX 140TS 1400W Induction Stove",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number ICX 140TS 1400W",
+   "model name \"icx 140ts\"",
+   "rated power 1400 W"
+  ],
+  "kv": {
+   "Contents": "Induction Stove: 1N, Instruction Manual: 1N, Warranty Card: 1N",
+   "Imported By": "NA",
+   "Manufactured By": "Novacare Appliances Private Limited, Plot No-06, Phase-III, Sector-18, BARHI HSIIDC, INDUSTRIAL AREA, Distt Sonepat, Haryana 131101",
+   "Marketed By": "M/S. Bajaj Electricals Limited, #45/47 Veer Nariman Road, Mumbai-400001, Mumbai, Maharashtra",
+   "Country Of Origin": "India",
+   "warranty (page text)": "1 Year",
+   "preset menus (page text)": "7"
+  }
+ },
+ "bajaj-itm2055691e948eb": {
+  "url": "https://www.bajajelectricals.com/products/bajaj-icx-120ts-induction-stove",
+  "title": "Bajaj ICX 120TS 1200W Induction Stove",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"icx 120ts\"",
+   "rated power 1200 W",
+   "listing model number BAJ-ICX -120TS not printed on maker page"
+  ],
+  "kv": {
+   "Contents": "Induction Stove: 1N, Instruction Manual: 1N, Warranty Card: 1N",
+   "Imported By": "NA",
+   "Manufactured By": "Novacare Appliances Private Limited, Plot No-06, Phase-III, Sector-18, BARHI HSIIDC, INDUSTRIAL AREA, Distt Sonepat, Haryana 131101",
+   "Marketed By": "M/S. Bajaj Electricals Limited, #45/47 Veer Nariman Road, Mumbai-400001, Mumbai, Maharashtra",
+   "Country Of Origin": "India",
+   "warranty (page text)": "1 Year",
+   "preset menus (page text)": "7"
+  }
+ },
+ "bajaj-itmf6207e9b2ccb6": {
+  "url": "https://www.bajajelectricals.com/products/bajaj-icx-140ts-induction-stove",
+  "title": "Bajaj ICX 140TS 1400W Induction Stove",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"icx 140ts\"",
+   "rated power 1400 W",
+   "listing model number 740308 not printed on maker page"
+  ],
+  "kv": {
+   "Contents": "Induction Stove: 1N, Instruction Manual: 1N, Warranty Card: 1N",
+   "Imported By": "NA",
+   "Manufactured By": "Novacare Appliances Private Limited, Plot No-06, Phase-III, Sector-18, BARHI HSIIDC, INDUSTRIAL AREA, Distt Sonepat, Haryana 131101",
+   "Marketed By": "M/S. Bajaj Electricals Limited, #45/47 Veer Nariman Road, Mumbai-400001, Mumbai, Maharashtra",
+   "Country Of Origin": "India",
+   "warranty (page text)": "1 Year",
+   "preset menus (page text)": "7"
+  }
+ },
+ "bajaj-itma61fa74f4bd93": {
+  "url": "https://www.bajajelectricals.com/products/bajaj-icx-140ts-induction-stove",
+  "title": "Bajaj ICX 140TS 1400W Induction Stove",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"icx 140ts\"",
+   "rated power 1400 W",
+   "listing model number 740301 not printed on maker page"
+  ],
+  "kv": {
+   "Contents": "Induction Stove: 1N, Instruction Manual: 1N, Warranty Card: 1N",
+   "Imported By": "NA",
+   "Manufactured By": "Novacare Appliances Private Limited, Plot No-06, Phase-III, Sector-18, BARHI HSIIDC, INDUSTRIAL AREA, Distt Sonepat, Haryana 131101",
+   "Marketed By": "M/S. Bajaj Electricals Limited, #45/47 Veer Nariman Road, Mumbai-400001, Mumbai, Maharashtra",
+   "Country Of Origin": "India",
+   "warranty (page text)": "1 Year",
+   "preset menus (page text)": "7"
+  }
+ },
+ "bajaj-itm8fa2472b8e4ce": {
+  "url": "https://www.bajajelectricals.com/products/bajaj-icx-140ts-induction-stove",
+  "title": "Bajaj ICX 140TS 1400W Induction Stove",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number 140TS",
+   "model name \"icx 140ts\"",
+   "rated power 1400 W"
+  ],
+  "kv": {
+   "Contents": "Induction Stove: 1N, Instruction Manual: 1N, Warranty Card: 1N",
+   "Imported By": "NA",
+   "Manufactured By": "Novacare Appliances Private Limited, Plot No-06, Phase-III, Sector-18, BARHI HSIIDC, INDUSTRIAL AREA, Distt Sonepat, Haryana 131101",
+   "Marketed By": "M/S. Bajaj Electricals Limited, #45/47 Veer Nariman Road, Mumbai-400001, Mumbai, Maharashtra",
+   "Country Of Origin": "India",
+   "warranty (page text)": "1 Year",
+   "preset menus (page text)": "7"
+  }
+ },
+ "crompton-itm852661e0c38e3": {
+  "url": "https://www.crompton.co.in/products/crompton-instaserve-2000-w-induction-cooktop-8-one-touch-cook-menus",
+  "title": "Crompton Instaserve 2000 W Induction Cooktop | 8 One touch Cook Menus",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"instaserve 2000\"",
+   "rated power 2000 W",
+   "listing model number Instaserve 2000 W Induction Cooktop Touch Panel not printed on maker page"
+  ],
+  "kv": {
+   "Brand": "Crompton",
+   "Color": "‎Black and Red",
+   "Dimensions": "31.2 x 10 x 38.5 Centimeters",
+   "Weight": "‎1730 Grams",
+   "No. of units": "1",
+   "Country of Origin": "India",
+   "Warranty": "1 Year",
+   "Wattage": "2000W",
+   "Material": "‎Glass",
+   "Included Components": "Hub",
+   "Manufacturer Contact Information": "Crompton Greaves Consumer Electricals Limited, 05GBD, Godrej Business District, Pirojshanagar, Vikhroli West, Mumbai, Maharashtra 400079",
+   "Product Warranty": "Top Rated Products",
+   "7 Segment LED Display": "7 Segment LED Display",
+   "One touch cook menu": "Surge Protection",
+   "Preset Menus": "Supports Bigger Utensils",
+   "‎Glass": "Included Components",
+   "Warranty & Support": "Service Center",
+   "Ceramic Heater": "Kitchen Appliances",
+   "wattage (page text)": "2000 W",
+   "warranty (page text)": "1 Year",
+   "auto shut-off (page text)": "Yes"
+  }
+ }
+}
