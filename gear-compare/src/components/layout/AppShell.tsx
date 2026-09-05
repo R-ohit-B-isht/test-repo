@@ -1,7 +1,7 @@
 import { Outlet, useLocation } from 'react-router-dom';
 import { AppNavLink as NavLink } from '../ui/AppLink';
 import { clsx } from 'clsx';
-import { useEffect } from 'react';
+import { useEffect, useRef } from 'react';
 import { Monitor, Moon, Sun } from 'lucide-react';
 import { useManifest } from '../../data/hooks';
 import { DevPanel } from '../dev/DevPanel';
@@ -34,7 +34,25 @@ function ThemeMenu() {
 export function AppShell() {
   const manifest = useManifest();
   const { pathname } = useLocation();
+  const navRef = useRef<HTMLElement>(null);
   useEffect(() => { window.scrollTo({ top: 0, behavior: 'instant' }); }, [pathname]);
+  /** Keep the active category tab visible in the horizontally scrolling strip (phones show ~2 tabs at a time). */
+  useEffect(() => {
+    let cancelled = false;
+    const centre = () => {
+      const nav = navRef.current;
+      const active = nav?.querySelector<HTMLElement>('[aria-current="page"]');
+      if (cancelled || !nav || !active) return;
+      const nr = nav.getBoundingClientRect();
+      const ar = active.getBoundingClientRect();
+      const left = nav.scrollLeft + (ar.left - nr.left) - (nr.width - ar.width) / 2;
+      nav.scrollTo({ left: Math.max(0, left), behavior: 'instant' });
+    };
+    centre();
+    // Tab widths change once the web font swaps in, so centre again after it loads.
+    void document.fonts.ready.then(centre);
+    return () => { cancelled = true; };
+  }, [pathname, manifest.status]);
   /** One nav link per category, straight from the manifest — the nav grows as categories are added. */
   const links = manifest.status === 'ready' ? [...NAV, ...manifest.data.categories.map((c) => ({ to: `/c/${c.id}`, label: c.label, short: c.label, end: false }))] : NAV;
   const official = manifest.status === 'ready' ? manifest.data.categories.reduce((n, c) => n + c.evidence.official, 0) : 0;
@@ -48,7 +66,7 @@ export function AppShell() {
             <span className="flex h-8 w-8 items-center justify-center rounded-full bg-accent text-[13px] font-extrabold text-accent-ink" aria-hidden>G</span>
             <span className="hidden text-[15px] font-extrabold tracking-tight text-display sm:inline">Gear Ledger</span>
           </NavLink>
-          <nav aria-label="Primary" className="scrollbar-none flex h-full min-w-0 flex-1 items-stretch gap-0 overflow-x-auto sm:justify-center sm:gap-1">
+          <nav ref={navRef} aria-label="Primary" className="nav-strip scrollbar-none flex h-full min-w-0 flex-1 items-stretch gap-0 overflow-x-auto sm:gap-1">
             {links.map((n) => (
               <NavLink key={n.to} to={n.to} end={n.end}
                 className={({ isActive }) => clsx('relative flex items-center whitespace-nowrap px-2 text-[13px] font-bold sm:px-3 sm:text-[14px] text-secondary no-underline transition-colors hover:text-display',

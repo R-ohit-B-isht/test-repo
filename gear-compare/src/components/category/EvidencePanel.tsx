@@ -51,14 +51,19 @@ export function EvidencePanel({ evidence: ev, tiers }: Props) {
           </p>
           {ev.official && (
             <div className="mt-2 rounded-lg border border-line p-3 text-[12px] leading-relaxed">
-              <p className="font-bold text-display">Matched to the maker’s own product page</p>
+              <p className="font-bold text-display">
+                {counts.official > 0 ? 'Matched to the maker’s own product page' : 'Maker page found, but it prints no readable spec table — nothing verified from it'}
+              </p>
               <p className="mt-1 text-secondary">
                 <a href={ev.official.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1 text-accent underline-offset-2 hover:underline">
                   {ev.official.title} <ExternalLink size={10} aria-hidden />
                 </a>
               </p>
               <p className="mt-1 text-secondary">
-                Model match {Math.round(ev.official.matchScore * 100)}% · {ev.official.region} site · read {ev.official.fetchedAt}. Where the marketplace disagreed, the maker value is used and the disagreement is shown below.
+                Matched on: {ev.official.matchedOn.join(' · ')}.
+              </p>
+              <p className="mt-1 text-secondary">
+                Match confidence {Math.round(ev.official.matchScore * 100)}% · {ev.official.region} site · read {ev.official.fetchedAt}. Where the marketplace disagreed, the maker value is used and the disagreement is shown below.
               </p>
             </div>
           )}

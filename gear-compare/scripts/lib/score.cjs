@@ -15,7 +15,7 @@ function buyerEvidence(rating, ratingCount) {
   const r = rating ? Number(rating) : null;
   const parsed = ratingCount ? parseInt(String(ratingCount).replace(/[^\d]/g, ''), 10) : 0;
   const n = Number.isFinite(parsed) ? parsed : 0;
-  if (!r || !Number.isFinite(r)) return { score: 0, note: 'No buyer ratings yet' };
+  if (!r || !Number.isFinite(r) || r < 1 || r > 5) return { score: 0, note: 'No buyer ratings yet' };
   const depth = clamp(Math.log10(n + 1) * 1.4, 0, 5.0);
   const quality = clamp((r - 3.4) * 3.2, 0, 5.0);
   return { score: r1(depth + quality), note: `${r}★ from ${n.toLocaleString('en-IN')} ratings` };
@@ -48,7 +48,7 @@ function scoreProduct(site, rec) {
   };
   const evidence = {
     status: ev.status,
-    official: rec.official ? { url: rec.official.url, title: rec.official.title, matchScore: rec.official.matchScore, region: rec.official.region, fetchedAt: rec.official.fetchedAt } : null,
+    official: rec.official ? { url: rec.official.url, title: rec.official.title, matchScore: rec.official.matchScore, matchedOn: rec.official.matchedOn, region: rec.official.region, fetchedAt: rec.official.fetchedAt } : null,
     fields: ev.fields.map(({ weight: _w, pts, credit, ...f }) => ({ ...f, credited: Math.round(pts * credit * 100) })),
     counts: ev.counts,
     claims: unscoredClaims(text),

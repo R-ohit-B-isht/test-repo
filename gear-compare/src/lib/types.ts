@@ -124,7 +124,7 @@ export interface EvidenceField {
   conflict?: string;  // marketplace value disagreed with the maker page — kept, not hidden
   reason?: string;    // why a value was rejected
 }
-export interface OfficialMatch { url: string; title: string; matchScore: number; region: string; fetchedAt: string }
+export interface OfficialMatch { url: string; title: string; matchScore: number; matchedOn: string[]; region: string; fetchedAt: string }
 export interface EvidenceMaker { parent: string | null; kind: MakerKind; label: string; pts: number; url: string | null; site: string | null; warranty: string }
 /** Everything the score was read from — never seller adjectives. Absent pieces are null / empty, not filled in. */
 export interface Evidence {

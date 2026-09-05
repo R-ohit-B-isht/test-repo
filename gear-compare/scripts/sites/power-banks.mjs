@@ -83,6 +83,17 @@ export default {
       listing: ['Warranty Summary', 'Warranty', 'Domestic Warranty', 'Warranty Period'], official: ['warranty', 'warranty period'],
       parse: warrantyMonths, display: (v) => (v % 12 === 0 ? `${v / 12} year${v > 12 ? 's' : ''}` : `${v} months`), plausible: (v) => (v <= 60 && v >= 1) || `${v} months warranty is not plausible` },
   ],
+  // Official-page matcher: category words that never identify a model, and quantities both sides must agree on.
+  match: {
+    descriptive: ['power', 'bank', 'powerbank', 'mah', 'w', 'wh', 'charging', 'charge', 'charger', 'wired', 'wireless', 'magsafe', 'magnetic', 'lithium', 'polymer', 'ion', 'li', 'type', 'usb', 'pd', 'qc', 'quick', 'output', 'input', 'ports', 'port',
+      'cable', 'cables', 'phone', 'mobile', 'tablet', 'laptop', 'earbuds', 'smartwatch'],
+    numeric: [
+      { label: 'capacity', show: (v) => `${inr(v)} mAh`, listing: (l) => mah(l.title) ?? mah((l.listingSpec || {})['Battery Capacity']),
+        catalog: (c) => { const k = Object.entries(c.kv).find(([key, v]) => /capacity/i.test(key) && mah(v) !== null); return k ? mah(k[1]) : mah(c.title); } },
+      { label: 'output', show: (v) => `${v} W`, tol: 0.6, listing: (l) => watts(l.title) ?? watts((l.listingSpec || {})['Maximum Power Output'] || (l.listingSpec || {})['Output Power']),
+        catalog: (c) => { const k = Object.entries(c.kv).find(([key, v]) => /(?:max|total|wired|power)\s*output|^output$/i.test(key) && watts(v) !== null); return k ? watts(k[1]) : watts(c.title); } },
+    ],
+  },
   // Maker pages that publish prose instead of a spec table: only unambiguous statements are lifted into the kv map
   // (keys carry "(page text)" so the sheet shows where the value came from). Anything ambiguous stays absent.
   officialProse: {

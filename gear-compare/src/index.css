@@ -22,12 +22,13 @@
   --accent-ink: #ffffff;
   --accent-soft: #e0efec;
   --success: #1e7d4a;
-  --warning: #b7791f;
+  --warning: #96610f;
+  --warning-fill: #b7791f;
   --danger: #b3261e;
   --power: #0f6e64;
   --grooming: #6b4fa0;
   --kitchen: #b3261e;
-  --drinkware: #b7791f;
+  --drinkware: #96610f;
   --outdoor: #3b7a3a;
   --shadow: 0 1px 2px rgba(26, 23, 29, 0.06), 0 8px 24px -16px rgba(26, 23, 29, 0.18);
   color-scheme: light;
@@ -48,6 +49,7 @@
   --accent-soft: #173733;
   --success: #5cbf83;
   --warning: #e0a94a;
+  --warning-fill: #e0a94a;
   --danger: #ff7b73;
   --power: #5cbcaf;
   --grooming: #b39ddb;
@@ -74,6 +76,7 @@
     --accent-soft: #173733;
     --success: #5cbf83;
     --warning: #e0a94a;
+    --warning-fill: #e0a94a;
     --danger: #ff7b73;
     --power: #5cbcaf;
     --grooming: #b39ddb;
@@ -206,7 +209,7 @@
   .score-lg { min-width: 64px; height: 52px; font-size: 24px; border-radius: 12px; }
   .score-good { background: var(--success); }
   .score-ok { background: var(--accent); color: var(--accent-ink); }
-  .score-meh { background: var(--warning); color: #1a171d; }
+  .score-meh { background: var(--warning-fill); color: #1a171d; }
   .score-low { background: var(--muted); }
 
   .dot { width: 8px; height: 8px; border-radius: 999px; background: var(--accent); display: inline-block; }
@@ -221,6 +224,7 @@
   .range::-webkit-slider-thumb { -webkit-appearance: none; width: 20px; height: 20px; margin-top: -8px; border-radius: 999px; background: var(--accent); border: 3px solid var(--surface); box-shadow: 0 0 0 1px var(--line-strong); }
   .range::-moz-range-thumb { width: 14px; height: 14px; border-radius: 999px; background: var(--accent); border: 3px solid var(--surface); }
   .scrollbar-thin { scrollbar-width: thin; scrollbar-color: var(--line-strong) transparent; }
+  .nav-strip { mask-image: linear-gradient(to right, transparent, #000 14px, #000 calc(100% - 14px), transparent); }
   .scrollbar-none { scrollbar-width: none; }
   .scrollbar-none::-webkit-scrollbar { display: none; }
   .fade-in { animation: fade-in 240ms var(--ease-out-expo) both; }

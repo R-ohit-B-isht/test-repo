@@ -1,6 +1,14 @@
 // Site registry — the single place that knows which generated data file backs which route, how it is grouped
 // in the hub, and which facet groups matter most. The build emits this into public/data/manifest.json.
 import powerBanks from '../sites/power-banks.mjs';
+import hairDryers from '../sites/hair-dryers.mjs';
+import trimmers from '../sites/trimmers.mjs';
+import inductionCooktops from '../sites/induction-cooktops.mjs';
+import portableBlenders from '../sites/portable-blenders.mjs';
+import electricLighters from '../sites/electric-lighters.mjs';
+import trekkingShoes from '../sites/trekking-shoes.mjs';
+import trekkingBackpacks from '../sites/trekking-backpacks.mjs';
+import pinkTumblers from '../sites/pink-tumblers.mjs';
 
 export const FAMILIES = {
   power: 'POWER & CHARGING',
@@ -10,7 +18,7 @@ export const FAMILIES = {
   outdoor: 'OUTDOOR',
 };
 
-export const SITES = [powerBanks];
+export const SITES = [powerBanks, hairDryers, trimmers, inductionCooktops, portableBlenders, electricLighters, trekkingShoes, trekkingBackpacks, pinkTumblers];
 
 // Evidence-first: specs and safety are read only from verified specification fields (maker page in full,
 // marketplace spec table at 60%), maker from the verified manufacturer + warranty, buyers from real ratings.

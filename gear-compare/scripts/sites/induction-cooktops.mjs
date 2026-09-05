@@ -1,0 +1,116 @@
+// Induction cooktops — site schema: raw sources, inclusion rule, verified fields, segments and facets.
+import { createRequire } from 'node:module';
+const require = createRequire(import.meta.url);
+const { num, watts, grams, minutes, yesNo, oneOf, warrantyMonths } = require('../lib/parse.cjs');
+
+const CONTROL = [['touch', /touch|feather|sensor/i], ['knob', /knob|rotary|dial/i], ['push', /push|button|key/i]];
+const TOP = [['ceramic-glass', /ceramic|schott|micro[-\s]?crystal|crystal/i], ['glass', /glass/i], ['other', /./]];
+const wattClass = (v) => (v >= 2000 ? 'high' : v >= 1600 ? 'standard' : 'compact');
+const count = (s) => { const n = num(s); return n !== null && Number.isInteger(n) && n >= 1 && n <= 30 ? n : null; };
+const metres = (s) => { const t = String(s || ''); const m = /(\d+(?:\.\d+)?)\s*(?:m|mtr|metres?|meters?)\b/i.exec(t); const cm = /(\d+(?:\.\d+)?)\s*cm\b/i.exec(t); return cm ? Number(cm[1]) / 100 : m ? Number(m[1]) : null; };
+
+export default {
+  id: 'induction-cooktops',
+  label: 'Induction cooktops',
+  kicker: 'COOK',
+  family: 'kitchen',
+  unit: 'induction cooktop',
+  blurb: 'Single-zone induction cooktops sold on Flipkart — scored on rated power, power levels, top material, timer and the safety cut-offs a maker page or the spec table actually states.',
+  sources: { flipkart: 'induction_pages.json' },
+  include: (title) => /induction/i.test(title) && !/cookware|kadhai|kadai|tawa|pan\b|pot\b|pressure cooker|utensil|cook\s*set|bottom|fan only|coil only|pcb|spare|stand only|glass only|sigdi|coal/i.test(title),
+  segment: {
+    key: 'seg', label: 'Power class',
+    options: [
+      { id: 'high', label: 'High · 2,000 W +' },
+      { id: 'standard', label: 'Standard · 1,600–1,999 W' },
+      { id: 'compact', label: 'Compact · under 1,600 W' },
+      { id: 'unstated', label: 'Wattage not stated' },
+    ],
+    of: (F) => (F.wattage && F.wattage.tier !== 'rejected' ? wattClass(F.wattage.value) : 'unstated'),
+  },
+  fields: [
+    { key: 'wattage', label: 'Rated power', group: 'Heating', dim: 'specs', weight: 3, title: true,
+      listing: ['Power Consumption', 'Wattage', 'Power', 'Power Output', 'Rated Power'], official: ['power', 'wattage', 'rated power', 'power consumption', 'watt'],
+      parse: watts, display: (v) => `${v} W`,
+      plausible: (v) => (v >= 800 && v <= 3500) || `${v} W is not a plausible single-zone induction rating (800–3,500 W)`,
+      points: (v) => (v >= 2100 ? 1 : v >= 2000 ? 0.95 : v >= 1800 ? 0.8 : v >= 1600 ? 0.65 : v >= 1200 ? 0.45 : 0.3) },
+    { key: 'levels', label: 'Power levels', group: 'Heating', dim: 'specs', weight: 1.5,
+      listing: ['Power Levels', 'Number of Power Levels', 'Heat Settings', 'Temperature Settings'], official: ['power levels', 'heat settings', 'temperature settings', 'power settings'],
+      parse: count, display: (v) => `${v}`, points: (v) => (v >= 10 ? 1 : v >= 7 ? 0.8 : v >= 5 ? 0.6 : 0.4) },
+    { key: 'presets', label: 'Preset menus', group: 'Heating', dim: 'specs', weight: 1, title: true,
+      listing: ['Preset Cooking Menus', 'Preset Menus', 'Cooking Menus', 'Number of Preset Menus'], official: ['preset menus', 'cooking menus', 'presets', 'auto menus', 'indian menu'],
+      parse: (s) => { const n = num(s); if (n !== null && Number.isInteger(n) && n >= 1 && n <= 30 && /^\s*\d+\s*(?:preset|menu|indian|auto)?/i.test(s)) return n; const parts = String(s).split(/,|\//).map((x) => x.trim()).filter((x) => x && !/^(?:no|yes|na)$/i.test(x)); return parts.length >= 2 ? parts.length : null; },
+      display: (v) => `${v} preset${v > 1 ? 's' : ''}`, points: (v) => (v >= 8 ? 1 : v >= 5 ? 0.8 : 0.6) },
+    { key: 'top', label: 'Top plate material', group: 'Build', dim: 'specs', weight: 2,
+      listing: ['Worktop Material', 'Top Material', 'Plate Material', 'Cooktop Material', 'Surface Material'], official: ['top plate', 'worktop', 'glass', 'plate material', 'cooking surface', 'ceramic'],
+      parse: (s) => oneOf(s, TOP), display: (v) => ({ 'ceramic-glass': 'Ceramic / micro-crystal glass', glass: 'Glass (type not stated)', other: 'Other' })[v], points: (v) => (v === 'ceramic-glass' ? 1 : v === 'glass' ? 0.7 : 0.4) },
+    { key: 'control', label: 'Control type', group: 'Control', dim: 'specs', weight: 1, title: true,
+      listing: ['Control', 'Control Type', 'Control Panel', 'Controls'], official: ['control', 'controls', 'control panel', 'touch'],
+      parse: (s) => oneOf(s, CONTROL), display: (v) => ({ touch: 'Touch / feather-touch', knob: 'Knob', push: 'Push button' })[v], points: (v) => (v === 'touch' ? 1 : v === 'knob' ? 0.9 : 0.7) },
+    { key: 'timer', label: 'Timer', group: 'Control', dim: 'specs', weight: 1.5,
+      listing: ['Timer', 'Timer setting', 'Timer Setting', 'Timer Function'], official: ['timer', 'timer function'],
+      parse: (s) => (yesNo(s) !== null ? yesNo(s) : minutes(s) !== null ? true : null), display: (v) => (v ? 'Yes' : 'No'), points: (v) => (v ? 1 : 0.2) },
+    { key: 'keepwarm', label: 'Keep-warm function', group: 'Control', dim: 'specs', weight: 0.5,
+      listing: ['Keep Warm Function', 'Keep Warm'], official: ['keep warm'], parse: yesNo, display: (v) => (v ? 'Yes' : 'No'), points: (v) => (v ? 1 : 0.4) },
+    { key: 'display', label: 'Display', group: 'Control', dim: 'specs', weight: 0.5,
+      listing: ['Display', 'Display Type', 'LED Display'], official: ['display', 'led display', 'digital display'],
+      parse: (s) => (yesNo(s) !== null ? yesNo(s) : /led|lcd|digital|display/i.test(s) ? true : null), display: (v) => (v ? 'Yes' : 'No'), points: (v) => (v ? 1 : 0.4) },
+    { key: 'panels', label: 'Pan detection (auto-pan sensor)', group: 'Safety', dim: 'safety', weight: 2,
+      listing: ['Pan Detection', 'Auto Pan Detection', 'Pan Sensor', 'Other Body & Design Features', 'Other Features'], official: ['pan detection', 'pan sensor', 'auto pan', 'cookware detection'],
+      parse: (s) => (yesNo(s) !== null ? yesNo(s) : /pan\s*(?:detect|sensor|recogni)|cookware\s*detect/i.test(s) ? true : null), display: (v) => (v ? 'Stated' : 'Not stated'), points: (v) => (v ? 1 : 0) },
+    { key: 'autooff', label: 'Automatic shut-off', group: 'Safety', dim: 'safety', weight: 2.5,
+      listing: ['Automatic shut-off', 'Auto Shut Off', 'Auto Switch Off', 'Auto Off'], official: ['auto shut-off', 'auto shut off', 'automatic shut-off', 'auto switch off', 'auto-off'],
+      parse: (s) => (yesNo(s) !== null ? yesNo(s) : /auto\s*(?:shut|switch|cut)\s*-?\s*off/i.test(s) ? true : null), display: (v) => (v ? 'Stated' : 'Not stated'), points: (v) => (v ? 1 : 0) },
+    { key: 'overheat', label: 'Overheat / voltage protection', group: 'Safety', dim: 'safety', weight: 2, title: true,
+      listing: ['Overheat Protection', 'Over Heat Protection', 'Voltage Protection', 'Safety Features', 'Other Body & Design Features', 'Other Features'], official: ['overheat protection', 'over-voltage', 'voltage protection', 'safety', 'thermal'],
+      parse: (s) => (yesNo(s) !== null ? yesNo(s) : /over\s*-?heat|over\s*-?voltage|voltage\s*(?:protect|fluctuat)|thermal\s*(?:cut|protect|fuse)|high[-\s]?low\s*voltage/i.test(s) ? true : null), display: (v) => (v ? 'Stated' : 'Not stated'), points: (v) => (v ? 1 : 0) },
+    { key: 'cooltouch', label: 'Cool-touch surface', group: 'Safety', dim: 'safety', weight: 1,
+      listing: ['Cool Touch', 'Cool Touch Surface'], official: ['cool touch', 'cool-touch'], parse: yesNo, display: (v) => (v ? 'Yes' : 'No'), points: (v) => (v ? 1 : 0.3) },
+    { key: 'certification', label: 'BIS / safety certification', group: 'Safety', dim: 'safety', weight: 1.5,
+      listing: ['Certification', 'Certifications', 'BIS Certified', 'Safety Certification', 'ISI Mark'], official: ['certification', 'certifications', 'bis', 'isi', 'is 302', 'compliance'],
+      parse: (s) => (/\bbis\b|\bisi\b|is\s*\d{3,5}|\bce\b|\brohs\b|r-\d{6,}/i.test(s) ? true : yesNo(s)), display: (v) => (v ? 'Stated' : 'Not stated'), points: (v) => (v ? 1 : 0) },
+    { key: 'cord', label: 'Cord length', group: 'Build', dim: 'specs', weight: 0.5,
+      listing: ['Cord length', 'Cord Length', 'Cable Length'], official: ['cord length', 'cable length', 'power cord'],
+      parse: metres, display: (v) => `${v} m`, plausible: (v) => (v >= 0.5 && v <= 4) || `${v} m cord is not plausible`, points: (v) => (v >= 1.5 ? 1 : v >= 1.2 ? 0.8 : 0.5) },
+    { key: 'weight', label: 'Weight', group: 'Build', dim: 'specs', weight: 0.5,
+      listing: ['Weight', 'Item Weight', 'Net Weight'], official: ['weight', 'net weight', 'product weight'],
+      parse: grams, display: (v) => (v >= 1000 ? `${(v / 1000).toFixed(1)} kg` : `${v} g`), plausible: (v) => (v >= 800 && v <= 8000) || `${v} g is not a plausible induction cooktop weight`, points: () => 0.8 },
+    { key: 'warranty', label: 'Warranty', group: 'Support', dim: 'maker', weight: 0, title: true,
+      listing: ['Warranty Summary', 'Warranty', 'Domestic Warranty', 'Warranty Period', 'Covered in Warranty'], official: ['warranty', 'warranty period'],
+      parse: warrantyMonths, display: (v) => (v % 12 === 0 ? `${v / 12} year${v > 12 ? 's' : ''}` : `${v} months`), plausible: (v) => (v <= 60 && v >= 1) || `${v} months warranty is not plausible` },
+  ],
+  // Official-page matcher: category words that never identify a model, and the rated power both sides must agree on.
+  match: {
+    descriptive: ['induction', 'cooktop', 'cooktops', 'cook', 'top', 'stove', 'chulha', 'hob', 'watts', 'watt', 'w', 'power', 'feather', 'touch', 'push', 'button', 'control', 'panel', 'glass', 'ceramic', 'crystal', 'plate',
+      'preset', 'presets', 'menu', 'menus', 'auto', 'timer', 'keep', 'warm', 'pan', 'sensor', 'shut', 'off', 'overheat', 'protection', 'portable', 'compact', 'slim', 'kitchen', 'home', 'cooking', 'indian', 'with', 'for', 'and', 'the'],
+    bundleNouns: ['kadhai', 'kadai', 'tawa', 'cooker', 'utensil', 'kettle', 'mixer', 'grinder', 'blender', 'toaster', 'iron', 'fan', 'dryer', 'trimmer'],
+    numeric: [
+      { label: 'rated power', show: (v) => `${v} W`,
+        listing: (l) => watts(l.title) ?? watts((l.listingSpec || {})['Power Consumption'] || (l.listingSpec || {}).Wattage || (l.listingSpec || {}).Power || (l.listingSpec || {})['Power Output']),
+        catalog: (c) => { const k = Object.entries(c.kv).find(([key, v]) => /wattage|rated power|power consumption|^power$|^watt/i.test(key) && watts(v) !== null); return k ? watts(k[1]) : watts(c.title); } },
+    ],
+  },
+  officialProse: {
+    'wattage (page text)': (t) => { const all = [...new Set([...t.matchAll(/\b(\d{4})\s*-?\s*w(?:atts?)?\b/gi)].map((m) => m[1]))].filter((w) => Number(w) >= 800 && Number(w) <= 3500); return all.length === 1 ? `${all[0]} W` : null; },
+    'warranty (page text)': (t) => { const m = /(\d+)\s*[-\s]?(months?|years?)\s*(?:of\s*)?(?:brand\s*|manufacturer'?s?\s*|domestic\s*)?warranty/i.exec(t) || /warranty\s*(?:of|:)?\s*(\d+)\s*[-\s]?(months?|years?)/i.exec(t); return m ? `${m[1]} ${m[2]}` : null; },
+    'preset menus (page text)': (t) => { const m = /\b(\d{1,2})\s*(?:indian\s*)?(?:preset|pre-set|auto)\s*(?:cooking\s*)?(?:menus?|modes?|programs?)/i.exec(t); return m ? m[1] : null; },
+    'power levels (page text)': (t) => { const m = /\b(\d{1,2})\s*(?:power|heat|temperature)\s*(?:levels?|settings?)/i.exec(t); return m ? m[1] : null; },
+    'auto shut-off (page text)': (t) => (/auto(?:matic)?\s*(?:shut|switch|cut)\s*-?\s*off/i.test(t) ? 'Yes' : null),
+    'overheat protection (page text)': (t) => (/over\s*-?heat(?:ing)?\s*protect|over\s*-?voltage\s*protect|voltage\s*(?:protect|fluctuat)/i.test(t) ? 'Yes' : null),
+  },
+  facets: [
+    { group: 'watt', label: 'Rated power', hint: 'As stated; implausible values shown separately', of: (F) => (F.wattage ? (F.wattage.tier === 'rejected' ? 'implausible' : wattClass(F.wattage.value)) : null),
+      labels: { high: '2,000 W +', standard: '1,600–1,999 W', compact: 'Under 1,600 W', implausible: 'Implausible claim (rejected)' } },
+    { group: 'top', label: 'Top plate', hint: '', of: (F) => (F.top ? F.top.value : null), labels: { 'ceramic-glass': 'Ceramic / micro-crystal glass', glass: 'Glass (type not stated)', other: 'Other' } },
+    { group: 'ctrl', label: 'Controls', hint: '', of: (F) => (F.control ? F.control.value : null), labels: { touch: 'Touch panel', knob: 'Knob', push: 'Push button' } },
+    { group: 'fn', label: 'Functions', hint: '', multi: true, of: (F) => [F.timer && F.timer.value ? 'timer' : null, F.keepwarm && F.keepwarm.value ? 'keepwarm' : null, F.presets && F.presets.value >= 5 ? 'presets' : null, F.levels && F.levels.value >= 7 ? 'levels7' : null].filter(Boolean),
+      labels: { timer: 'Timer', keepwarm: 'Keep warm', presets: '5 + preset menus', levels7: '7 + power levels' } },
+    { group: 'safe', label: 'Safety', hint: 'Stated protections', multi: true, of: (F) => [F.autooff && F.autooff.value ? 'autooff' : null, F.panels && F.panels.value ? 'pan' : null, F.overheat && F.overheat.value ? 'overheat' : null, F.cooltouch && F.cooltouch.value ? 'cool' : null, F.certification && F.certification.value ? 'certified' : null].filter(Boolean),
+      labels: { autooff: 'Auto shut-off', pan: 'Pan detection', overheat: 'Overheat / voltage protection', cool: 'Cool-touch surface', certified: 'BIS / certification stated' } },
+  ],
+  featured: ['seg:high', 'seg:standard', 'top:ceramic-glass', 'ctrl:touch', 'fn:timer', 'fn:presets', 'safe:autooff', 'safe:overheat', 'safe:certified', 'ev:official', 'maker:india', 'maker:global'],
+  lines: {
+    q: (F) => [F.wattage && F.wattage.tier !== 'rejected' ? F.wattage.display : null, F.levels ? `${F.levels.display} levels` : null, F.presets ? F.presets.display : null].filter(Boolean).join(' · '),
+    f: (F) => [F.top ? F.top.display : null, F.control ? F.control.display : null, F.timer && F.timer.value ? 'timer' : null].filter(Boolean).join(' · '),
+  },
+};

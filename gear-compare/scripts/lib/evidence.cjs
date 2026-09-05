@@ -19,6 +19,8 @@ const TIER = {
 const norm = (s) => String(s || '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
 
 const EMPTY = /^(?:na|n\/a|-|none|nil|not applicable)$/i;
+// A key that names another model ("Nova NHT 1052 USB Runtime") comes from a sibling-product carousel, not this product.
+const SIBLING_KEY = /\b[A-Z]{2,4}[ -]?\d{3,}\b/;
 
 // Official kv tables use the maker's own labels; candidates are every entry whose normalised key equals, then
 // contains, a declared label — in label order. The first candidate the field parser accepts wins.
@@ -29,7 +31,7 @@ function officialCandidates(kv, labels) {
   for (const l of labels) {
     const n = norm(l);
     for (const [k, v] of entries) if (norm(k) === n && !out.includes(v)) out.push(v);
-    for (const [k, v] of entries) if (norm(k).includes(n) && !out.includes(v)) out.push(v);
+    for (const [k, v] of entries) if (norm(k).includes(n) && !out.includes(v) && !SIBLING_KEY.test(k) && norm(k).length <= n.length + 30) out.push(v);
   }
   return out;
 }

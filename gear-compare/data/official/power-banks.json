@@ -1,17 +1,98 @@
 {
+ "zebronics-itmb0c742ee7e887": {
+  "url": "https://zebronics.com/products/zeb-energitank-20mr1",
+  "title": "Zeb EnergiTank 20MR1",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number 20MR1 (maker's code)",
+   "model name \"energitank 20mr1\"",
+   "capacity 20,000 mAh"
+  ],
+  "kv": {
+   "Manufactured & Marketed by:": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin:": "India",
+   "Generic Name:": "Zebronics Power Bank",
+   "Package Contents:": "Power bank - 1 U, Charging Cable - 1 U, QR Code Guide - 1 U",
+   "Customer Complaints:": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Color": "Midnight",
+   "Product Type": "Above 10000 MAh",
+   "Manufactured & Marketed by": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin": "India",
+   "Generic Name": "Zebronics Power Bank",
+   "Package Contents": "Power bank - 1 U, Charging Cable - 1 U, QR Code Guide - 1 U",
+   "Customer Complaints": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "22.5W Max. Output": "22.5W Max. Output",
+   "PD 3.0 Type C Input and Output Port": "PD 3.0 Type C Input and Output Port",
+   "Overload Protection": "Glossy Design",
+   "USB Output Port": "SKU: ZEB-ENERGITANK 20MR1 20000 MAH 22.5W MOBILE BATTERY CHARGER (PB 15 MIDNIGHT)",
+   "22.5 W Max. Output": "22.5 W Max. Output",
+   "Short Circuit Protection": "Metal Body",
+   "LED indicator": "Specifications",
+   "Battery Capacity": "20000mAH",
+   "Type-C Input": "DC 5V/3A, 9V/2A, 12V/1.5A",
+   "Output 1 (Type -C1)": "Output 1 (Type -C1)",
+   "Output 2 (USB)": "Output 2 (USB)",
+   "(22.5 W max. output)": "(22.5 W max. output)",
+   "No.of Output port": "1 USB + 1 Type C Port",
+   "Net Weight": "340g",
+   "protections (page text)": "short circuit, over charge, over-charge"
+  }
+ },
+ "zebronics-itm6ec47dd47c133": {
+  "url": "https://zebronics.com/products/zeb-energitank-20mr1",
+  "title": "Zeb EnergiTank 20MR1",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number 20MR1 (maker's code)",
+   "model name \"energitank 20mr1\"",
+   "capacity 20,000 mAh"
+  ],
+  "kv": {
+   "Manufactured & Marketed by:": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin:": "India",
+   "Generic Name:": "Zebronics Power Bank",
+   "Package Contents:": "Power bank - 1 U, Charging Cable - 1 U, QR Code Guide - 1 U",
+   "Customer Complaints:": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Color": "Midnight",
+   "Product Type": "Above 10000 MAh",
+   "Manufactured & Marketed by": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin": "India",
+   "Generic Name": "Zebronics Power Bank",
+   "Package Contents": "Power bank - 1 U, Charging Cable - 1 U, QR Code Guide - 1 U",
+   "Customer Complaints": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "22.5W Max. Output": "22.5W Max. Output",
+   "PD 3.0 Type C Input and Output Port": "PD 3.0 Type C Input and Output Port",
+   "Overload Protection": "Glossy Design",
+   "USB Output Port": "SKU: ZEB-ENERGITANK 20MR1 20000 MAH 22.5W MOBILE BATTERY CHARGER (PB 15 MIDNIGHT)",
+   "22.5 W Max. Output": "22.5 W Max. Output",
+   "Short Circuit Protection": "Metal Body",
+   "LED indicator": "Specifications",
+   "Battery Capacity": "20000mAH",
+   "Type-C Input": "DC 5V/3A, 9V/2A, 12V/1.5A",
+   "Output 1 (Type -C1)": "Output 1 (Type -C1)",
+   "Output 2 (USB)": "Output 2 (USB)",
+   "(22.5 W max. output)": "(22.5 W max. output)",
+   "No.of Output port": "1 USB + 1 Type C Port",
+   "Net Weight": "340g",
+   "protections (page text)": "short circuit, over charge, over-charge"
+  }
+ },
  "portronics-itmd5be0fe2dceaf": {
   "url": "https://portronics.com/products/power-shutter",
   "title": "Power Shutter",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 1.2,
+  "matchScore": 1.15,
   "matchedOn": [
    "model number POR-2906",
    "model name \"shutter\"",
-   "10000 mAh"
+   "capacity 10,000 mAh"
   ],
   "kv": {
-   "Translation missing": "en.general.search.submit",
    "Model": "Power Shutter",
    "Product Code": "POR 2264 ,POR 2265 , POR 2905 ,POR 2906",
    "Color": "Black ,White , Orange , Dark Blue",
@@ -23,18 +104,14 @@
    "Last-Minute Rakhi Gift Ideas 2026": "Best Gadgets...",
    "Rechargeable vs Disposable Batteries": "Which One...",
    "AeroDrive vs Regular Car Air Purifier": "What’s A...",
-   "For Queries Contact us": "Legal, Portronics Digital Private Limited, Vegas Business Tower, Unit No. - 1082 to 1088,",
-   "Rechargeable Battery": "New Arrivals",
-   "Warranty Registration": "Support",
    "1 Year Warranty": "1 Year Warranty",
    "High Capacity Power Bank": ":",
    "22.5W Fast Charging": "22.5W Fast Charging",
    "LED Digital Display": ":",
    "12 months Warranty": "12 months Warranty",
    "Safety Instructions": "Specification",
-   "Warranty Policy": "CSR Policy",
    "capacity (page text)": "10000 mAh",
-   "warranty (page text)": "1 Year"
+   "warranty (page text)": "12 months"
   }
  },
  "zebronics-itmdbfe477a54a13": {
@@ -42,10 +119,11 @@
   "title": "Zeb EnergiPod 10R4",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 0.6,
+  "matchScore": 1.15,
   "matchedOn": [
-   "model name \"zeb energipod 10r4\"",
-   "10000 mAh"
+   "model number Zeb-EnergiPod 10R4",
+   "model name \"energipod 10r4\"",
+   "capacity 10,000 mAh"
   ],
   "kv": {
    "Manufactured & Marketed by:": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
@@ -53,17 +131,12 @@
    "Generic Name:": "Zebronics Power Bank",
    "Package Contents:": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
    "Customer Complaints:": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
-   "SKU": "ZEB-ENERGIPOD 10R4 10000 MAH 22.5W MOBILE BATTERY CHARGER(BLACK)",
    "Product Type": "5000-10000 mAh",
    "Manufactured & Marketed by": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
    "Country of Origin": "India",
    "Generic Name": "Zebronics Power Bank",
    "Package Contents": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
    "Customer Complaints": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
-   "Battery": "CFL UPS",
-   "Multipurpose connector kit": "Selfie Stick",
-   "Rotating Product Display": "View All",
-   "Register Warranty": "Driver Downloads",
    "Dual USB Output": "Rapid Charging",
    "LED Percentage Display": "Mobile/Tablet Compatible",
    "PD 3.0 Type C Output": "PD 3.0 Type C Output",
@@ -82,6 +155,46 @@
    "protections (page text)": "short circuit, over charge, over-charge"
   }
  },
+ "zebronics-itm112f76e387dd6": {
+  "url": "https://zebronics.com/products/zeb-energisafe-10r2",
+  "title": "Zeb EnergiSafe 10R2",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number Zeb-EnergiSafe 10R2",
+   "model name \"energisafe 10r2\"",
+   "capacity 10,000 mAh"
+  ],
+  "kv": {
+   "Manufactured & Marketed by:": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin:": "India",
+   "Generic Name:": "Zebronics Power Bank",
+   "Package Contents:": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
+   "Customer Complaints:": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Color": "Black",
+   "Product Type": "Above 10000 MAh",
+   "Manufactured & Marketed by": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin": "India",
+   "Generic Name": "Zebronics Power Bank",
+   "Package Contents": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
+   "Customer Complaints": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "22.5W Max. Output": "22.5W Max. Output",
+   "Short Circuit Protection": "Compact Design With built in stand",
+   "USB Output Port": "SKU: ZEB-ENERGISAFE 10R2 10000 MAH 22.5W WIRELESS MOBILE BATTERY CHARGER WITH 2 IN 1 BUILT-IN CABLE (PB 16 BLACK)",
+   "Battery Capacity": "10000mAh",
+   "Type-C Input (Cable / Port )": "DC 5V/3A, 9V/2A, 12V/1.5A",
+   "Lightning Port Input": "C 5V/2.4A, 9V/2A",
+   "Output 1 (Type -C Port)": "Output 1 (Type -C Port)",
+   "Output 2 (Type -C Cable)": "Output 2 (Type -C Cable)",
+   "Output 3 (Lightning Cable)": "Output 3 (Lightning Cable)",
+   "Output 4 (USB)": "Output 4 (USB)",
+   "(22.5W Max. Output)": "(22.5W Max. Output)",
+   "Wireless Charging Output": "DC 5V/1A, DC 7.5V/1A, DC 9V/1.12A, DC 9V/1.67A ,DC 12V/1.25A",
+   "Net Weight": "226 g",
+   "protections (page text)": "short circuit, over charge, over-charge"
+  }
+ },
  "ubon-itm019bb4abbafc1": {
   "url": "https://ubon.in/products/ubon-pb-x88-pro-power-bank",
   "title": "UBON PB-X88 PRO Power Bank",
@@ -96,7 +209,6 @@
    "Quick Dispatch": "Orders shipped within 1–2 days | Secure Delivery:",
    "Compact & Stylish Design": "Sleek body with dual-tone finish for a premium feel.",
    "Manufactured for & Packed By": "IVA Enterprises",
-   "Address": "B-45, G.T. Karnal Road Industrial Area,",
    "Battery": "Dual USB Output, Type-C and Micro USB Input",
    "LED Indicator": "Durable, High-Grade Materials",
    "Fast Charging Output": "supports",
@@ -112,15 +224,58 @@
    "warranty (page text)": "1 Year"
   }
  },
- "zebronics-itmba234a5e9ad78": {
-  "url": "https://zebronics.com/products/zeb-energisafe-10r3",
-  "title": "Zeb EnergiSafe 10R3",
+ "zebronics-itm5afcfeefbc745": {
+  "url": "https://zebronics.com/products/zeb-energitank-10mr1",
+  "title": "Zeb EnergiTank 10MR1",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 0.6,
+  "matchScore": 0.65,
   "matchedOn": [
-   "model name \"zeb energisafe 10r3\"",
-   "10000 mAh"
+   "model number Zeb-EnergiTank 10MR1",
+   "capacity 10,000 mAh"
+  ],
+  "kv": {
+   "Manufactured & Marketed by:": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin:": "India",
+   "Generic Name:": "Zebronics Power Bank",
+   "Package Contents:": "Power bank - 1 U, Charging Cable - 1 U, QR Code Guide - 1 U",
+   "Customer Complaints:": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Color": "Midnight",
+   "Product Type": "5000-10000 mAh",
+   "Manufactured & Marketed by": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin": "India",
+   "Generic Name": "Zebronics Power Bank",
+   "Package Contents": "Power bank - 1 U, Charging Cable - 1 U, QR Code Guide - 1 U",
+   "Customer Complaints": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "22.5W Max. Output": "22.5W Max. Output",
+   "USB Output Port": "Rapid Charge",
+   "PD 3.0 Type C Input and Output Port": "PD 3.0 Type C Input and Output Port",
+   "Short Circuit Protection": "Metal Body",
+   "LED Indicator": "SKU: ZEB-ENERGITANK 10MR1 10000 MAH 22.5W MOBILE BATTERY CHARGER (PB 14 MIDNIGHT)",
+   "22.5 W Max. Output": "22.5 W Max. Output",
+   "LED indicator": "Specifications",
+   "Battery Capacity": "10000mAH",
+   "Type-C Input": "DC 5V/3A, 9V/2A, 12V/1.5A",
+   "Output 1 (Type -C1)": "Output 1 (Type -C1)",
+   "Output 2 (USB)": "Output 2 (USB)",
+   "(22.5 W max. output)": "(22.5 W max. output)",
+   "No.of Output port": "1 USB + 1 Type C Port",
+   "Net Weight": "186g",
+   "capacity (page text)": "10000 mAh",
+   "protections (page text)": "short circuit, over charge, over-charge"
+  }
+ },
+ "zebronics-itme717b52d0a05d": {
+  "url": "https://zebronics.com/products/zeb-energipod-10mr1",
+  "title": "Zeb EnergiPod 10MR1",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.2,
+  "matchedOn": [
+   "model number Zeb -EnergiPod 10MR1",
+   "model name \"energipod 10mr1\"",
+   "capacity 10,000 mAh",
+   "output 22.5 W"
   ],
   "kv": {
    "Manufactured & Marketed by:": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
@@ -128,17 +283,96 @@
    "Generic Name:": "Zebronics Power Bank",
    "Package Contents:": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
    "Customer Complaints:": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
-   "SKU": "ZEB-ENERGISAFE 10R3 10000 MAH 22.5W MOBILE BATTERY CHARGER (GREY PLUS ORANGE)",
+   "Color": "Black",
    "Product Type": "Above 10000 MAh",
    "Manufactured & Marketed by": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
    "Country of Origin": "India",
    "Generic Name": "Zebronics Power Bank",
    "Package Contents": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
    "Customer Complaints": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
-   "Battery": "CFL UPS",
-   "Multipurpose connector kit": "Selfie Stick",
-   "Rotating Product Display": "View All",
-   "Register Warranty": "Driver Downloads",
+   "22.5 W Max. Output": "22.5 W Max. Output",
+   "USB Output Port": "Rapid Charge",
+   "PD 3.0 Type C Input and Output Port": "PD 3.0 Type C Input and Output Port",
+   "Short Circuit Protection": "Metal Body",
+   "LED indicator": "SKU: ZEB-ENERGIPOD 10MR1 METAL 10000 MAH 22.5W MOBILE BATTERY CHARGER (PB 13 BLACK)",
+   "22.5 W Max Output": "22.5 W Max Output",
+   "PD 3.0 Type C input and output port": "PD 3.0 Type C input and output port",
+   "Battery Capacity": "10000mAh",
+   "Type-C Input ports": "DC 5V/3A, 9V/2A, 12V/1.5A",
+   "Output 1 (TYPE C)": "Output 1 (TYPE C)",
+   "Output 2 (USB)": "Output 2 (USB)",
+   "(22.5 W max. output)": "(22.5 W max. output)",
+   "No.of Output port": "1 USB + 1 Type C Port",
+   "Net Weight": "249.5 g",
+   "capacity (page text)": "10000 mAh",
+   "protections (page text)": "short circuit, over charge, over-charge, overcharge"
+  }
+ },
+ "zebronics-itmdd28de422015e": {
+  "url": "https://zebronics.com/products/zeb-energitank-10mr1",
+  "title": "Zeb EnergiTank 10MR1",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number Zeb-EnergiTank 10MR1",
+   "model name \"energitank 10mr1\"",
+   "capacity 10,000 mAh"
+  ],
+  "kv": {
+   "Manufactured & Marketed by:": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin:": "India",
+   "Generic Name:": "Zebronics Power Bank",
+   "Package Contents:": "Power bank - 1 U, Charging Cable - 1 U, QR Code Guide - 1 U",
+   "Customer Complaints:": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Color": "Midnight",
+   "Product Type": "5000-10000 mAh",
+   "Manufactured & Marketed by": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin": "India",
+   "Generic Name": "Zebronics Power Bank",
+   "Package Contents": "Power bank - 1 U, Charging Cable - 1 U, QR Code Guide - 1 U",
+   "Customer Complaints": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "22.5W Max. Output": "22.5W Max. Output",
+   "USB Output Port": "Rapid Charge",
+   "PD 3.0 Type C Input and Output Port": "PD 3.0 Type C Input and Output Port",
+   "Short Circuit Protection": "Metal Body",
+   "LED Indicator": "SKU: ZEB-ENERGITANK 10MR1 10000 MAH 22.5W MOBILE BATTERY CHARGER (PB 14 MIDNIGHT)",
+   "22.5 W Max. Output": "22.5 W Max. Output",
+   "LED indicator": "Specifications",
+   "Battery Capacity": "10000mAH",
+   "Type-C Input": "DC 5V/3A, 9V/2A, 12V/1.5A",
+   "Output 1 (Type -C1)": "Output 1 (Type -C1)",
+   "Output 2 (USB)": "Output 2 (USB)",
+   "(22.5 W max. output)": "(22.5 W max. output)",
+   "No.of Output port": "1 USB + 1 Type C Port",
+   "Net Weight": "186g",
+   "capacity (page text)": "10000 mAh",
+   "protections (page text)": "short circuit, over charge, over-charge"
+  }
+ },
+ "zebronics-itmba234a5e9ad78": {
+  "url": "https://zebronics.com/products/zeb-energisafe-10r3",
+  "title": "Zeb EnergiSafe 10R3",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number Zeb-EnergiSafe 10R3",
+   "model name \"energisafe 10r3\"",
+   "capacity 10,000 mAh"
+  ],
+  "kv": {
+   "Manufactured & Marketed by:": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin:": "India",
+   "Generic Name:": "Zebronics Power Bank",
+   "Package Contents:": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
+   "Customer Complaints:": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Product Type": "Above 10000 MAh",
+   "Manufactured & Marketed by": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin": "India",
+   "Generic Name": "Zebronics Power Bank",
+   "Package Contents": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
+   "Customer Complaints": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
    "22.5W Max. Output": "22.5W Max. Output",
    "LED Percentage Display": "Mobile/Tablet Compatible",
    "Short Circuit Protection": "MagSecure compatible",
@@ -154,18 +388,219 @@
    "protections (page text)": "short circuit, over charge, over-charge"
   }
  },
+ "zebronics-itm39a4f2184a0ea": {
+  "url": "https://zebronics.com/products/zeb-mw65",
+  "title": "Zeb MW65",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.65,
+  "matchedOn": [
+   "model number Zeb-MW65",
+   "capacity 10,000 mAh"
+  ],
+  "kv": {
+   "Manufactured & Marketed by:": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin:": "India",
+   "Generic Name:": "Zebronics Power Bank",
+   "Package Contents:": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
+   "Customer Complaints:": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Color": "Fun purple",
+   "Product Type": "5000-10000 mAh",
+   "Manufactured & Marketed by": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin": "India",
+   "Generic Name": "Zebronics Power Bank",
+   "Package Contents": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
+   "Customer Complaints": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "22.5W Max. Output": "22.5W Max. Output",
+   "15W Max. Wireless output": "15W Max. Wireless output",
+   "USB Output": "Short Circuit, Overcharge & Overload Protection",
+   "Battery capacity": "10000mAh",
+   "Input (TYPE C)": "DC 5V/3A, 9V/2A,",
+   "Output 1 (USB)": "Output 1 (USB)",
+   "Output 2 (TYPE C)": "Output 2 (TYPE C)",
+   "(22.5W Max. output)": "(22.5W Max. output)",
+   "Wireless Charging Output": "15W Max",
+   "No.of Output port": "1 USB + 1 Type C PD",
+   "Protections": "Short circuit",
+   "Net weight": "190g",
+   "capacity (page text)": "10000 mAh"
+  }
+ },
+ "zebronics-itm63dbef26a47bb": {
+  "url": "https://zebronics.com/products/zeb-mb10000s10-pro",
+  "title": "Zeb MB10000S10 Pro",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number S10 Pro",
+   "model name \"mb10000s10 pro\"",
+   "capacity 10,000 mAh"
+  ],
+  "kv": {
+   "Manufactured & Marketed by:": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin:": "India",
+   "Generic Name:": "Zebronics Power Bank",
+   "Package Contents:": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
+   "Customer Complaints:": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Product Type": "5000-10000 mAh",
+   "Manufactured & Marketed by": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin": "India",
+   "Generic Name": "Zebronics Power Bank",
+   "Package Contents": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
+   "Customer Complaints": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Dual USB Output": "Fast Charge",
+   "LED Percentage Display": "Mobile/Tablet Compatible",
+   "PD 3.0 Type C Output": "PD 3.0 Type C Output",
+   "22.5W Max. Output": "22.5W Max. Output",
+   "Short Circuit Protection": "Torch Light",
+   "Battery Capacity": "10000mAh",
+   "TYPE C Input": "DC 5V/3A, DC 9V/2A, DC 12V/1.5A",
+   "Micro USB Input": "DC 5V/2A, DC 9V/1.6A, DC 12V/1.5A",
+   "Output 1": "Output 1",
+   "Output 2": "Output 2",
+   "Output 3 (Type C)": "Output 3 (Type C)",
+   "No.of Output port": "2 USB + 1 Type C PD 3.0",
+   "Net Weight": "217g",
+   "capacity (page text)": "10000 mAh",
+   "protections (page text)": "short circuit, over charge, over-charge"
+  }
+ },
+ "zebronics-itm67c2277ba314a": {
+  "url": "https://zebronics.com/products/zeb-mb10000s10-pro",
+  "title": "Zeb MB10000S10 Pro",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.65,
+  "matchedOn": [
+   "model number MB10000S10pro",
+   "capacity 10,000 mAh"
+  ],
+  "kv": {
+   "Manufactured & Marketed by:": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin:": "India",
+   "Generic Name:": "Zebronics Power Bank",
+   "Package Contents:": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
+   "Customer Complaints:": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Product Type": "5000-10000 mAh",
+   "Manufactured & Marketed by": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin": "India",
+   "Generic Name": "Zebronics Power Bank",
+   "Package Contents": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
+   "Customer Complaints": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Dual USB Output": "Fast Charge",
+   "LED Percentage Display": "Mobile/Tablet Compatible",
+   "PD 3.0 Type C Output": "PD 3.0 Type C Output",
+   "22.5W Max. Output": "22.5W Max. Output",
+   "Short Circuit Protection": "Torch Light",
+   "Battery Capacity": "10000mAh",
+   "TYPE C Input": "DC 5V/3A, DC 9V/2A, DC 12V/1.5A",
+   "Micro USB Input": "DC 5V/2A, DC 9V/1.6A, DC 12V/1.5A",
+   "Output 1": "Output 1",
+   "Output 2": "Output 2",
+   "Output 3 (Type C)": "Output 3 (Type C)",
+   "No.of Output port": "2 USB + 1 Type C PD 3.0",
+   "Net Weight": "217g",
+   "capacity (page text)": "10000 mAh",
+   "protections (page text)": "short circuit, over charge, over-charge"
+  }
+ },
+ "zebronics-itmdb1e5ce08d894": {
+  "url": "https://zebronics.com/products/zeb-energitank-10mr1",
+  "title": "Zeb EnergiTank 10MR1",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number Zeb - EnergiTank 10MR1",
+   "model name \"energitank 10mr1\"",
+   "capacity 10,000 mAh"
+  ],
+  "kv": {
+   "Manufactured & Marketed by:": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin:": "India",
+   "Generic Name:": "Zebronics Power Bank",
+   "Package Contents:": "Power bank - 1 U, Charging Cable - 1 U, QR Code Guide - 1 U",
+   "Customer Complaints:": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Color": "Midnight",
+   "Product Type": "5000-10000 mAh",
+   "Manufactured & Marketed by": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin": "India",
+   "Generic Name": "Zebronics Power Bank",
+   "Package Contents": "Power bank - 1 U, Charging Cable - 1 U, QR Code Guide - 1 U",
+   "Customer Complaints": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "22.5W Max. Output": "22.5W Max. Output",
+   "USB Output Port": "Rapid Charge",
+   "PD 3.0 Type C Input and Output Port": "PD 3.0 Type C Input and Output Port",
+   "Short Circuit Protection": "Metal Body",
+   "LED Indicator": "SKU: ZEB-ENERGITANK 10MR1 10000 MAH 22.5W MOBILE BATTERY CHARGER (PB 14 MIDNIGHT)",
+   "22.5 W Max. Output": "22.5 W Max. Output",
+   "LED indicator": "Specifications",
+   "Battery Capacity": "10000mAH",
+   "Type-C Input": "DC 5V/3A, 9V/2A, 12V/1.5A",
+   "Output 1 (Type -C1)": "Output 1 (Type -C1)",
+   "Output 2 (USB)": "Output 2 (USB)",
+   "(22.5 W max. output)": "(22.5 W max. output)",
+   "No.of Output port": "1 USB + 1 Type C Port",
+   "Net Weight": "186g",
+   "capacity (page text)": "10000 mAh",
+   "protections (page text)": "short circuit, over charge, over-charge"
+  }
+ },
+ "zebronics-itm96622991399a4": {
+  "url": "https://zebronics.com/products/zeb-energipod-10mr1",
+  "title": "Zeb EnergiPod 10MR1",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.2,
+  "matchedOn": [
+   "model number Zeb-EnergiPod 10MR1",
+   "model name \"energipod 10mr1\"",
+   "capacity 10,000 mAh",
+   "output 22.5 W"
+  ],
+  "kv": {
+   "Manufactured & Marketed by:": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin:": "India",
+   "Generic Name:": "Zebronics Power Bank",
+   "Package Contents:": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
+   "Customer Complaints:": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Color": "Black",
+   "Product Type": "Above 10000 MAh",
+   "Manufactured & Marketed by": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin": "India",
+   "Generic Name": "Zebronics Power Bank",
+   "Package Contents": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
+   "Customer Complaints": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "22.5 W Max. Output": "22.5 W Max. Output",
+   "USB Output Port": "Rapid Charge",
+   "PD 3.0 Type C Input and Output Port": "PD 3.0 Type C Input and Output Port",
+   "Short Circuit Protection": "Metal Body",
+   "LED indicator": "SKU: ZEB-ENERGIPOD 10MR1 METAL 10000 MAH 22.5W MOBILE BATTERY CHARGER (PB 13 BLACK)",
+   "22.5 W Max Output": "22.5 W Max Output",
+   "PD 3.0 Type C input and output port": "PD 3.0 Type C input and output port",
+   "Battery Capacity": "10000mAh",
+   "Type-C Input ports": "DC 5V/3A, 9V/2A, 12V/1.5A",
+   "Output 1 (TYPE C)": "Output 1 (TYPE C)",
+   "Output 2 (USB)": "Output 2 (USB)",
+   "(22.5 W max. output)": "(22.5 W max. output)",
+   "No.of Output port": "1 USB + 1 Type C Port",
+   "Net Weight": "249.5 g",
+   "capacity (page text)": "10000 mAh",
+   "protections (page text)": "short circuit, over charge, over-charge, overcharge"
+  }
+ },
  "portronics-itm3a9fcb5bb59b7": {
   "url": "https://portronics.com/products/luxcell-uno-10",
   "title": "Luxcell UNO 10K",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 0.7,
+  "matchScore": 0.65,
   "matchedOn": [
    "model number POR-2810",
-   "10000 mAh"
+   "capacity 10,000 mAh"
   ],
   "kv": {
-   "Translation missing": "en.general.search.submit",
    "Power two gadgets at once": "use the built-in Type-C cable + USB-A port for simultaneous charging.",
    "Model": "Luxcell UNO 10",
    "Product Code": "POR 2666 ,POR 2810 ,POR 2815",
@@ -179,17 +614,13 @@
    "Last-Minute Rakhi Gift Ideas 2026": "Best Gadgets...",
    "Rechargeable vs Disposable Batteries": "Which One...",
    "AeroDrive vs Regular Car Air Purifier": "What’s A...",
-   "For Queries Contact us": "Legal, Portronics Digital Private Limited, Vegas Business Tower, Unit No. - 1082 to 1088,",
-   "Rechargeable Battery": "New Arrivals",
-   "Warranty Registration": "Support",
    "1 Year Warranty": "1 Year Warranty",
    "22.5W Fast Charging": "22.5W Fast Charging",
    "Dual Output, Charge 2 Devices": "Dual Output, Charge 2 Devices",
    "12 months Warranty": "12 months Warranty",
    "Safety Instructions": "Specification",
-   "Warranty Policy": "CSR Policy",
    "capacity (page text)": "10000 mAh",
-   "warranty (page text)": "1 Year"
+   "warranty (page text)": "12 months"
   }
  },
  "zebronics-itm3741acfeeb84f": {
@@ -197,11 +628,11 @@
   "title": "Zeb MW67",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 1.2,
+  "matchScore": 1.15,
   "matchedOn": [
    "model number ZEB - MW67",
-   "model name \"zeb mw67\"",
-   "10000 mAh"
+   "model name \"mw67\"",
+   "capacity 10,000 mAh"
   ],
   "kv": {
    "Manufactured & Marketed by:": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
@@ -209,17 +640,12 @@
    "Generic Name:": "Zebronics Power Bank",
    "Package Contents:": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
    "Customer Complaints:": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
-   "SKU": "A272-ZEB MW67 10000MAH MOBILE BATTERY CHARGER WITH WATCH CHARGING AND STAND (BLACK)",
    "Product Type": "5000-10000 mAh",
    "Manufactured & Marketed by": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
    "Country of Origin": "India",
    "Generic Name": "Zebronics Power Bank",
    "Package Contents": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
    "Customer Complaints": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
-   "Battery": "CFL UPS",
-   "Multipurpose connector kit": "Selfie Stick",
-   "Rotating Product Display": "View All",
-   "Register Warranty": "Driver Downloads",
    "22.5W Max. Output": "22.5W Max. Output",
    "15W Max. Wireless Output": "15W Max. Wireless Output",
    "Built-in Protections": "Built-in Wireless Charging Pad",
@@ -241,15 +667,14 @@
   "title": "Power Shutter Air 10K",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 1.25,
+  "matchScore": 1.2,
   "matchedOn": [
    "model number POR-2807",
    "model name \"powershutter air 10k\"",
-   "10000 mAh",
-   "22.5 W"
+   "capacity 10,000 mAh",
+   "output 22.5 W"
   ],
   "kv": {
-   "Translation missing": "en.general.search.submit",
    "Fast Wireless Charging Powerbank (15W)": "Enjoy smooth and reliable wireless charging with up to 15W output—perfect for powering your smartphone without cables",
    "Detachable Type-C Cable Included": "Comes with an in-built detachable Type-C to Type-C cable, giving you multiple ways to charge—wired or wireless charging whenever needed.",
    "Ultra-Slim 16mm Design for Travel": "Lightweight and pocket-friendly slim design makes this the ideal wireless charging powerbank for travel , office, and daily use.",
@@ -263,13 +688,9 @@
    "Last-Minute Rakhi Gift Ideas 2026": "Best Gadgets...",
    "Rechargeable vs Disposable Batteries": "Which One...",
    "AeroDrive vs Regular Car Air Purifier": "What’s A...",
-   "For Queries Contact us": "Legal, Portronics Digital Private Limited, Vegas Business Tower, Unit No. - 1082 to 1088,",
-   "Rechargeable Battery": "New Arrivals",
-   "Warranty Registration": "Support",
    "1 Year Warranty": "1 Year Warranty",
    "12 months Warranty": "12 months Warranty",
    "Safety Instructions": "Specification",
-   "Warranty Policy": "CSR Policy",
    "capacity (page text)": "10000 mAh",
    "warranty (page text)": "1 Year"
   }
@@ -279,13 +700,12 @@
   "title": "Luxcell UNO 10K",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 0.7,
+  "matchScore": 0.65,
   "matchedOn": [
    "model number POR-2815",
-   "10000 mAh"
+   "capacity 10,000 mAh"
   ],
   "kv": {
-   "Translation missing": "en.general.search.submit",
    "Power two gadgets at once": "use the built-in Type-C cable + USB-A port for simultaneous charging.",
    "Model": "Luxcell UNO 10",
    "Product Code": "POR 2666 ,POR 2810 ,POR 2815",
@@ -299,17 +719,13 @@
    "Last-Minute Rakhi Gift Ideas 2026": "Best Gadgets...",
    "Rechargeable vs Disposable Batteries": "Which One...",
    "AeroDrive vs Regular Car Air Purifier": "What’s A...",
-   "For Queries Contact us": "Legal, Portronics Digital Private Limited, Vegas Business Tower, Unit No. - 1082 to 1088,",
-   "Rechargeable Battery": "New Arrivals",
-   "Warranty Registration": "Support",
    "1 Year Warranty": "1 Year Warranty",
    "22.5W Fast Charging": "22.5W Fast Charging",
    "Dual Output, Charge 2 Devices": "Dual Output, Charge 2 Devices",
    "12 months Warranty": "12 months Warranty",
    "Safety Instructions": "Specification",
-   "Warranty Policy": "CSR Policy",
    "capacity (page text)": "10000 mAh",
-   "warranty (page text)": "1 Year"
+   "warranty (page text)": "12 months"
   }
  },
  "agaro-itmef0df6c71328f": {
@@ -319,18 +735,12 @@
   "fetchedAt": "2026-09-05",
   "matchScore": 0.6,
   "matchedOn": [
-   "model name \"spark 20000\"",
-   "20000 mAh"
+   "model name \"spark 20000 compact\"",
+   "capacity 20,000 mAh",
+   "output 45 W",
+   "listing model number 45W 20000mAh Fast Charging Power Bank not printed on maker page"
   ],
   "kv": {
-   "MRP": "₹ 4,599",
-   "Current Price": "₹ 2,399",
-   "Apply Code": "FESTIVE5",
-   "Discounted Price": "₹ 2,279",
-   "SKU": "34471",
-   "Share": "Product Information",
-   "Hubs & Ports": "Manual Tool",
-   "Hub & Ports": "Power Bank",
    "capacity (page text)": "20000 mAh"
   }
  },
@@ -339,11 +749,11 @@
   "title": "Energyshroom PB401 | Powerbank with 20000mAh Lithium Polymer Battery, Multiple Ports for Simultaneous Charging",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 1.2,
+  "matchScore": 1.15,
   "matchedOn": [
-   "model number EnergyShroom PB401",
+   "model number PB401 (maker's code)",
    "model name \"energyshroom pb401\"",
-   "20000 mAh"
+   "capacity 20,000 mAh"
   ],
   "kv": {
    "Choose your color": "Carbon Black",
@@ -360,11 +770,11 @@
   "title": "Energyshroom PB331 Magnacharge | Powerbank with 22.5W Fast Charging, 10,000mAh, 15W Magnetic Wireless Charging, 12-Layer Smart IC Protection, 3 Output Ports",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 0.95,
+  "matchScore": 0.7,
   "matchedOn": [
-   "model number EnergyShroom PB331 MagnaCharge",
-   "partial name energyshroom pb331 magnacharge",
-   "10000 mAh"
+   "model number PB331 (maker's code)",
+   "capacity 10,000 mAh",
+   "output 22.5 W"
   ],
   "kv": {
    "Choose your color": "Ash Black",
@@ -381,12 +791,12 @@
   "title": "boAt Energyshroom PB300 Neo | 10000mAh Powerbank with 22.5W Fast Charging & Smart Protection",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 1.25,
+  "matchScore": 1.2,
   "matchedOn": [
    "model number EnergyShroom PB300 Neo",
    "model name \"energyshroom pb300 neo\"",
-   "10000 mAh",
-   "22.5 W"
+   "capacity 10,000 mAh",
+   "output 22.5 W"
   ],
   "kv": {
    "Code": "BOAT6",
@@ -407,13 +817,13 @@
   "title": "Power Pebble",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 0.6,
+  "matchScore": 0.55,
   "matchedOn": [
    "model name \"pebble\"",
-   "5000 mAh"
+   "capacity 5,000 mAh",
+   "listing model number POR-2267 not printed on maker page"
   ],
   "kv": {
-   "Translation missing": "en.general.search.submit",
    "Model": "Power Pebble",
    "Product Code": "POR 2262 ,POR 2667",
    "Color": "Black ,White",
@@ -424,15 +834,11 @@
    "Last-Minute Rakhi Gift Ideas 2026": "Best Gadgets...",
    "Rechargeable vs Disposable Batteries": "Which One...",
    "AeroDrive vs Regular Car Air Purifier": "What’s A...",
-   "For Queries Contact us": "Legal, Portronics Digital Private Limited, Vegas Business Tower, Unit No. - 1082 to 1088,",
-   "Rechargeable Battery": "New Arrivals",
-   "Warranty Registration": "Support",
    "1 Year Warranty": "1 Year Warranty",
    "High Capacity Battery": ":",
    "Type C Input/Output": ":",
    "12 months Warranty": "12 months Warranty",
    "Safety Instructions": "Specification",
-   "Warranty Policy": "CSR Policy",
    "capacity (page text)": "5000 mAh",
    "warranty (page text)": "1 Year"
   }
@@ -442,12 +848,12 @@
   "title": "Chyro",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 1.25,
+  "matchScore": 1.2,
   "matchedOn": [
    "model number POR-2664",
    "model name \"chyro\"",
-   "10000 mAh",
-   "20 W"
+   "capacity 10,000 mAh",
+   "output 20 W"
   ],
   "kv": {
    "Translation missing": "en.general.search.submit",
@@ -462,18 +868,14 @@
    "Last-Minute Rakhi Gift Ideas 2026": "Best Gadgets...",
    "Rechargeable vs Disposable Batteries": "Which One...",
    "AeroDrive vs Regular Car Air Purifier": "What’s A...",
-   "For Queries Contact us": "Legal, Portronics Digital Private Limited, Vegas Business Tower, Unit No. - 1082 to 1088,",
-   "Rechargeable Battery": "New Arrivals",
-   "Warranty Registration": "Support",
    "1 Year Warranty": "1 Year Warranty",
    "Fast Charging with 20W PD": "Fast Charging with 20W PD",
    "LED Indicator & Detachable Cable": "–",
    "Safe & Reliable Protection": "–",
    "12 months Warranty": "12 months Warranty",
    "Safety Instructions": "Specification",
-   "Warranty Policy": "CSR Policy",
    "capacity (page text)": "10000 mAh",
-   "warranty (page text)": "1 Year"
+   "warranty (page text)": "12 months"
   }
  },
  "portronics-itm3c64929330cc4": {
@@ -481,14 +883,13 @@
   "title": "PowerPod 10K",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 0.75,
+  "matchScore": 0.7,
   "matchedOn": [
    "model number POR-2091",
-   "10000 mAh",
-   "22.5 W"
+   "capacity 10,000 mAh",
+   "output 22.5 W"
   ],
   "kv": {
-   "Translation missing": "en.general.search.submit",
    "Model": "PowerPod 10K",
    "Product Code": "POR 2091",
    "Color": "Black",
@@ -499,15 +900,11 @@
    "Last-Minute Rakhi Gift Ideas 2026": "Best Gadgets...",
    "Rechargeable vs Disposable Batteries": "Which One...",
    "AeroDrive vs Regular Car Air Purifier": "What’s A...",
-   "For Queries Contact us": "Legal, Portronics Digital Private Limited, Vegas Business Tower, Unit No. - 1082 to 1088,",
-   "Rechargeable Battery": "New Arrivals",
-   "Warranty Registration": "Support",
    "1 Year Warranty": "1 Year Warranty",
    "12 months Warranty": "12 months Warranty",
    "Safety Instructions": "Specification",
-   "Warranty Policy": "CSR Policy",
    "capacity (page text)": "10000 mAh",
-   "warranty (page text)": "1 Year"
+   "warranty (page text)": "12 months"
   }
  },
  "portronics-itm533d34bc29e7c": {
@@ -515,14 +912,13 @@
   "title": "Power Shutter",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 1.2,
+  "matchScore": 1.15,
   "matchedOn": [
    "model number POR 2264",
    "model name \"shutter\"",
-   "10000 mAh"
+   "capacity 10,000 mAh"
   ],
   "kv": {
-   "Translation missing": "en.general.search.submit",
    "Model": "Power Shutter",
    "Product Code": "POR 2264 ,POR 2265 , POR 2905 ,POR 2906",
    "Color": "Black ,White , Orange , Dark Blue",
@@ -534,18 +930,14 @@
    "Last-Minute Rakhi Gift Ideas 2026": "Best Gadgets...",
    "Rechargeable vs Disposable Batteries": "Which One...",
    "AeroDrive vs Regular Car Air Purifier": "What’s A...",
-   "For Queries Contact us": "Legal, Portronics Digital Private Limited, Vegas Business Tower, Unit No. - 1082 to 1088,",
-   "Rechargeable Battery": "New Arrivals",
-   "Warranty Registration": "Support",
    "1 Year Warranty": "1 Year Warranty",
    "High Capacity Power Bank": ":",
    "22.5W Fast Charging": "22.5W Fast Charging",
    "LED Digital Display": ":",
    "12 months Warranty": "12 months Warranty",
    "Safety Instructions": "Specification",
-   "Warranty Policy": "CSR Policy",
    "capacity (page text)": "10000 mAh",
-   "warranty (page text)": "1 Year"
+   "warranty (page text)": "12 months"
   }
  },
  "portronics-itm3c7ebfa2dc7b3": {
@@ -553,13 +945,12 @@
   "title": "Power Shutter",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 0.7,
+  "matchScore": 0.65,
   "matchedOn": [
    "model number POR 2906",
-   "10000 mAh"
+   "capacity 10,000 mAh"
   ],
   "kv": {
-   "Translation missing": "en.general.search.submit",
    "Model": "Power Shutter",
    "Product Code": "POR 2264 ,POR 2265 , POR 2905 ,POR 2906",
    "Color": "Black ,White , Orange , Dark Blue",
@@ -571,18 +962,14 @@
    "Last-Minute Rakhi Gift Ideas 2026": "Best Gadgets...",
    "Rechargeable vs Disposable Batteries": "Which One...",
    "AeroDrive vs Regular Car Air Purifier": "What’s A...",
-   "For Queries Contact us": "Legal, Portronics Digital Private Limited, Vegas Business Tower, Unit No. - 1082 to 1088,",
-   "Rechargeable Battery": "New Arrivals",
-   "Warranty Registration": "Support",
    "1 Year Warranty": "1 Year Warranty",
    "High Capacity Power Bank": ":",
    "22.5W Fast Charging": "22.5W Fast Charging",
    "LED Digital Display": ":",
    "12 months Warranty": "12 months Warranty",
    "Safety Instructions": "Specification",
-   "Warranty Policy": "CSR Policy",
    "capacity (page text)": "10000 mAh",
-   "warranty (page text)": "1 Year"
+   "warranty (page text)": "12 months"
   }
  },
  "portronics-itm7ff700139cc9d": {
@@ -590,11 +977,11 @@
   "title": "Aero 10",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 1.2,
+  "matchScore": 1.15,
   "matchedOn": [
    "model number POR 3456",
    "model name \"aero 10\"",
-   "10000 mAh"
+   "capacity 10,000 mAh"
   ],
   "kv": {
    "Translation missing": "en.general.search.submit",
@@ -614,17 +1001,13 @@
    "Last-Minute Rakhi Gift Ideas 2026": "Best Gadgets...",
    "Rechargeable vs Disposable Batteries": "Which One...",
    "AeroDrive vs Regular Car Air Purifier": "What’s A...",
-   "For Queries Contact us": "Legal, Portronics Digital Private Limited, Vegas Business Tower, Unit No. - 1082 to 1088,",
-   "Rechargeable Battery": "New Arrivals",
-   "Warranty Registration": "Support",
    "1 Year Warranty": "1 Year Warranty",
    "10000mAH Power Bank With 20W Output": "10000mAH Power Bank With 20W Output",
    "20W Fast Charging Output :": "20W Fast Charging Output :",
    "12 months Warranty": "12 months Warranty",
    "Safety Instructions": "Specification",
-   "Warranty Policy": "CSR Policy",
    "capacity (page text)": "10000 mAh",
-   "warranty (page text)": "1 Year"
+   "warranty (page text)": "12 months"
   }
  },
  "portronics-itm99f8f56f211a4": {
@@ -632,11 +1015,11 @@
   "title": "Moji 10",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 0.75,
+  "matchScore": 0.7,
   "matchedOn": [
    "model number POR-2811",
-   "10000 mAh",
-   "20 W"
+   "capacity 10,000 mAh",
+   "output 20 W"
   ],
   "kv": {
    "Translation missing": "en.general.search.submit",
@@ -651,17 +1034,13 @@
    "Last-Minute Rakhi Gift Ideas 2026": "Best Gadgets...",
    "Rechargeable vs Disposable Batteries": "Which One...",
    "AeroDrive vs Regular Car Air Purifier": "What’s A...",
-   "For Queries Contact us": "Legal, Portronics Digital Private Limited, Vegas Business Tower, Unit No. - 1082 to 1088,",
-   "Rechargeable Battery": "New Arrivals",
-   "Warranty Registration": "Support",
    "1 Year Warranty": "1 Year Warranty",
    "20W Type-C PD Wired Fast Charging": "20W Type-C PD Wired Fast Charging",
    "12 months Warranty": "12 months Warranty",
    "fast charging": "Model:",
    "Safety Instructions": "Specification",
-   "Warranty Policy": "CSR Policy",
    "capacity (page text)": "10000 mAh",
-   "warranty (page text)": "1 Year"
+   "warranty (page text)": "12 months"
   }
  },
  "portronics-itmbd8d404ff9b1d": {
@@ -669,14 +1048,14 @@
   "title": "Power Shutter 20K",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 0.65,
+  "matchScore": 0.6,
   "matchedOn": [
    "model name \"shutter 20k\"",
-   "20000 mAh",
-   "22.5 W"
+   "capacity 20,000 mAh",
+   "output 22.5 W",
+   "listing model number POR 3024 not printed on maker page"
   ],
   "kv": {
-   "Translation missing": "en.general.search.submit",
    "Model": "Power Shutter 20K",
    "Product Code": "POR 3016 , POR 3017 ,POR 3023",
    "Color": "Black ,White ,Orange",
@@ -688,18 +1067,14 @@
    "Last-Minute Rakhi Gift Ideas 2026": "Best Gadgets...",
    "Rechargeable vs Disposable Batteries": "Which One...",
    "AeroDrive vs Regular Car Air Purifier": "What’s A...",
-   "For Queries Contact us": "Legal, Portronics Digital Private Limited, Vegas Business Tower, Unit No. - 1082 to 1088,",
-   "Rechargeable Battery": "New Arrivals",
-   "Warranty Registration": "Support",
    "1 Year Warranty": "1 Year Warranty",
    "Massive 20000mAh Capacity": "Massive 20000mAh Capacity",
    "22.5W Dual Output for Fast Charging": "22.5W Dual Output for Fast Charging",
    "Digital LED Display for Real-Time Status": ":",
    "12 months Warranty": "12 months Warranty",
    "Safety Instructions": "Specification",
-   "Warranty Policy": "CSR Policy",
    "capacity (page text)": "20000 mAh",
-   "warranty (page text)": "1 Year"
+   "warranty (page text)": "12 months"
   }
  },
  "portronics-itm7b82a38a4c98b": {
@@ -707,15 +1082,14 @@
   "title": "Power Shutter Air 10K",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 1.25,
+  "matchScore": 1.2,
   "matchedOn": [
    "model number POR-2808",
    "model name \"powershutter air 10k\"",
-   "10000 mAh",
-   "22.5 W"
+   "capacity 10,000 mAh",
+   "output 22.5 W"
   ],
   "kv": {
-   "Translation missing": "en.general.search.submit",
    "Fast Wireless Charging Powerbank (15W)": "Enjoy smooth and reliable wireless charging with up to 15W output—perfect for powering your smartphone without cables",
    "Detachable Type-C Cable Included": "Comes with an in-built detachable Type-C to Type-C cable, giving you multiple ways to charge—wired or wireless charging whenever needed.",
    "Ultra-Slim 16mm Design for Travel": "Lightweight and pocket-friendly slim design makes this the ideal wireless charging powerbank for travel , office, and daily use.",
@@ -729,13 +1103,9 @@
    "Last-Minute Rakhi Gift Ideas 2026": "Best Gadgets...",
    "Rechargeable vs Disposable Batteries": "Which One...",
    "AeroDrive vs Regular Car Air Purifier": "What’s A...",
-   "For Queries Contact us": "Legal, Portronics Digital Private Limited, Vegas Business Tower, Unit No. - 1082 to 1088,",
-   "Rechargeable Battery": "New Arrivals",
-   "Warranty Registration": "Support",
    "1 Year Warranty": "1 Year Warranty",
    "12 months Warranty": "12 months Warranty",
    "Safety Instructions": "Specification",
-   "Warranty Policy": "CSR Policy",
    "capacity (page text)": "10000 mAh",
    "warranty (page text)": "1 Year"
   }
@@ -745,14 +1115,13 @@
   "title": "Luxcell MagClick 10K",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 1.2,
+  "matchScore": 1.15,
   "matchedOn": [
    "model number POR 2261",
    "model name \"luxcell magclick 10k\"",
-   "10000 mAh"
+   "capacity 10,000 mAh"
   ],
   "kv": {
-   "Translation missing": "en.general.search.submit",
    "Smallest Magnetic Wireless Power Bank": "Portronics Luxcell Magclick 10K supports 15W Magsafe (wireless) charging for QI-enabled devices (iPhone- 12 and above, Samsung S series etc).",
    "Model": "Luxcell MagClick 10K",
    "Product Code": "POR 2257 ,POR 2261",
@@ -763,15 +1132,11 @@
    "Last-Minute Rakhi Gift Ideas 2026": "Best Gadgets...",
    "Rechargeable vs Disposable Batteries": "Which One...",
    "AeroDrive vs Regular Car Air Purifier": "What’s A...",
-   "For Queries Contact us": "Legal, Portronics Digital Private Limited, Vegas Business Tower, Unit No. - 1082 to 1088,",
-   "Rechargeable Battery": "New Arrivals",
-   "Warranty Registration": "Support",
    "1 Year Warranty": "1 Year Warranty",
    "12 months Warranty": "12 months Warranty",
    "Safety Instructions": "Specification",
-   "Warranty Policy": "CSR Policy",
    "capacity (page text)": "10000 mAh",
-   "warranty (page text)": "1 Year",
+   "warranty (page text)": "12 months",
    "battery type (page text)": "Lithium Polymer"
   }
  },
@@ -780,11 +1145,11 @@
   "title": "Aero 10",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 1.2,
+  "matchScore": 1.15,
   "matchedOn": [
    "model number POR-3458",
    "model name \"aero 10\"",
-   "10000 mAh"
+   "capacity 10,000 mAh"
   ],
   "kv": {
    "Translation missing": "en.general.search.submit",
@@ -804,17 +1169,126 @@
    "Last-Minute Rakhi Gift Ideas 2026": "Best Gadgets...",
    "Rechargeable vs Disposable Batteries": "Which One...",
    "AeroDrive vs Regular Car Air Purifier": "What’s A...",
-   "For Queries Contact us": "Legal, Portronics Digital Private Limited, Vegas Business Tower, Unit No. - 1082 to 1088,",
-   "Rechargeable Battery": "New Arrivals",
-   "Warranty Registration": "Support",
    "1 Year Warranty": "1 Year Warranty",
    "10000mAH Power Bank With 20W Output": "10000mAH Power Bank With 20W Output",
    "20W Fast Charging Output :": "20W Fast Charging Output :",
    "12 months Warranty": "12 months Warranty",
    "Safety Instructions": "Specification",
-   "Warranty Policy": "CSR Policy",
    "capacity (page text)": "10000 mAh",
-   "warranty (page text)": "1 Year"
+   "warranty (page text)": "12 months"
+  }
+ },
+ "zebronics-itmf45e017c3ca8c": {
+  "url": "https://zebronics.com/products/zeb-mb20000r5-pro",
+  "title": "Zeb MB20000R5 Pro",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"mb20000r5 pro\"",
+   "capacity 20,000 mAh",
+   "listing model number R5 not printed on maker page"
+  ],
+  "kv": {
+   "Manufactured & Marketed by:": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin:": "India",
+   "Generic Name:": "Zebronics Power Bank",
+   "Package Contents:": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
+   "Customer Complaints:": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Product Type": "Above 10000 MAh",
+   "Manufactured & Marketed by": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin": "India",
+   "Generic Name": "Zebronics Power Bank",
+   "Package Contents": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
+   "Customer Complaints": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Dual USB Output": "Rapid Charge",
+   "LED Percentage Display": "Mobile/Tablet Compatible",
+   "PD 3.0 Type C Output": "PD 3.0 Type C Output",
+   "22.5W Max. Output": "22.5W Max. Output",
+   "Short Circuit Protection": "Torch Light",
+   "Battery Capacity": "20000mAh",
+   "TYPE C Input": "DC 5V/3A, 9V/2A, 12V/1.5A",
+   "Micro USB Input": "DC 5V/3A, 9V/2A, 12V/1.5A",
+   "Output 1": "Output 1",
+   "Output 2": "Output 2",
+   "Output 3 (TYPE C)": "Output 3 (TYPE C)",
+   "(22.5W max. output)": "(22.5W max. output)",
+   "No.of Output port": "2 USB + 1 Type C PD 3.0",
+   "Net Weight": "405g",
+   "protections (page text)": "short circuit, over charge, over-charge"
+  }
+ },
+ "zebronics-itme05309c0414f7": {
+  "url": "https://zebronics.com/products/zeb-energipod-27r2",
+  "title": "Zeb EnergiPod 27R2",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.65,
+  "matchedOn": [
+   "model number 27R2 (maker's code)",
+   "capacity 27,000 mAh"
+  ],
+  "kv": {
+   "Manufactured & Marketed by:": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin:": "India",
+   "Generic Name:": "Zebronics Power Bank",
+   "Package Contents:": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
+   "Customer Complaints:": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Color": "Black",
+   "Product Type": "Above 10000 MAh",
+   "Manufactured & Marketed by": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin": "India",
+   "Generic Name": "Zebronics Power Bank",
+   "Package Contents": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
+   "Customer Complaints": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Dual Type-C and single USB-A Output": "Rapid Charge",
+   "LED indicator": "Mobile/Tablet/Laptop Compatible",
+   "PD 3.0 Type C Input & Output Ports": "PD 3.0 Type C Input & Output Ports",
+   "65W(Max.) Output": "65W(Max.) Output",
+   "Battery Capacity": "27000mAh",
+   "Type-C Input": "DC 5V/3A 9V/3A 12V/3A 15V/3A 20V/3.25A",
+   "Output 1 & 2 (TYPE C)": "Output 1 & 2 (TYPE C)",
+   "Output 3 (USB)": "Output 3 (USB)",
+   "No.of Output port": "1 USB-A + 2 Type C PD 3.0",
+   "Net Weight": "628g",
+   "protections (page text)": "short circuit, over charge, over-charge"
+  }
+ },
+ "zebronics-itmba2ccdd3947c2": {
+  "url": "https://zebronics.com/products/zeb-energipod-50r1",
+  "title": "Zeb EnergiPod 50R1",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.65,
+  "matchedOn": [
+   "model number 50R1 (maker's code)",
+   "capacity 50,000 mAh"
+  ],
+  "kv": {
+   "Manufactured & Marketed by:": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin:": "India",
+   "Generic Name:": "Zebronics Power Bank",
+   "Package Contents:": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
+   "Customer Complaints:": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Product Type": "Above 10000 MAh",
+   "Manufactured & Marketed by": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin": "India",
+   "Generic Name": "Zebronics Power Bank",
+   "Package Contents": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
+   "Customer Complaints": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Dual USB Output": "Rapid Charge",
+   "PD 3.0 Type C Output": "PD 3.0 Type C Output",
+   "22.5 W Max. Output": "22.5 W Max. Output",
+   "Type C and Micro USB Input": "SKU: ZEB-ENERGIPOD 50R1 50000 MAH 22.5W MOBILE BATTERY CHARGER (BLACK)",
+   "Battery Capacity": "50000mAh",
+   "Type-C Input": "DC 5V/3A, 9V/2A, 12V/1.5A",
+   "Micro USB Input": "DC 5V/2A, 9V/2A, 12V/1.5A",
+   "Output 1 & 2 (USB)": "Output 1 & 2 (USB)",
+   "Output 3 (TYPE C)": "Output 3 (TYPE C)",
+   "(22.5 W max. output)": "(22.5 W max. output)",
+   "No.of Output port": "2 USB + 1 Type C PD 3.0",
+   "Net Weight": "971 g",
+   "protections (page text)": "short circuit, over charge, over-charge"
   }
  },
  "boat-b0dfgzw6jg": {
@@ -825,7 +1299,8 @@
   "matchScore": 0.6,
   "matchedOn": [
    "model name \"energyshroom pb400 pro 20000\"",
-   "20000 mAh"
+   "capacity 20,000 mAh",
+   "output 22.5 W"
   ],
   "kv": {
    "Capacity": "20000 mAh 3.7V(74Wh)",
@@ -847,47 +1322,30 @@
    "22.5W Fast Charging": "22.5W Fast Charging",
    "Li-Polymer Battery": "12 Layer",
    "Smart IC Protection": "Compact",
-   "warranty (page text)": "3 Months",
+   "warranty (page text)": "1 year",
    "battery type (page text)": "Lithium Polymer",
    "protections (page text)": "short circuit"
   }
  },
- "portronics-b0h2j959xk": {
-  "url": "https://portronics.com/products/power-shutter-20k",
-  "title": "Power Shutter 20K",
+ "boat-b0f48d1kb2": {
+  "url": "https://www.boat-lifestyle.com/products/energyshroom-pb435-turbo-20000mah-power-bank",
+  "title": "Energyshroom PB435 Turbo | Powerbank with 35W Fast Charging, 20,000mAh, 12-Layer Smart IC Protection, Aluminium Casing",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 0.65,
+  "matchScore": 1.2,
   "matchedOn": [
-   "model name \"shutter\"",
-   "20000 mAh",
-   "22.5 W"
+   "model number PB435 (maker's code)",
+   "model name \"energyshroom pb435 20000\"",
+   "capacity 20,000 mAh",
+   "output 35 W"
   ],
   "kv": {
-   "Translation missing": "en.general.search.submit",
-   "Model": "Power Shutter 20K",
-   "Product Code": "POR 3016 , POR 3017 ,POR 3023",
-   "Color": "Black ,White ,Orange",
-   "Capacity": "20000mah",
-   "Wired Output": "22.5W",
-   "LED Battery Indicator": "Yes",
-   "Wireless Charging": "15W",
-   "The Ultimate Guide to Personal Hygiene": "Products You Need to Stay Safe",
-   "Last-Minute Rakhi Gift Ideas 2026": "Best Gadgets...",
-   "Rechargeable vs Disposable Batteries": "Which One...",
-   "AeroDrive vs Regular Car Air Purifier": "What’s A...",
-   "For Queries Contact us": "Legal, Portronics Digital Private Limited, Vegas Business Tower, Unit No. - 1082 to 1088,",
-   "Rechargeable Battery": "New Arrivals",
-   "Warranty Registration": "Support",
-   "1 Year Warranty": "1 Year Warranty",
-   "Massive 20000mAh Capacity": "Massive 20000mAh Capacity",
-   "22.5W Dual Output for Fast Charging": "22.5W Dual Output for Fast Charging",
-   "Digital LED Display for Real-Time Status": ":",
-   "12 months Warranty": "12 months Warranty",
-   "Safety Instructions": "Specification",
-   "Warranty Policy": "CSR Policy",
+   "Choose your color": "Onyx Black",
+   "Code": "BOAT6",
+   "Full terms": "www.boat-lifestyle.com/pages/warranty",
+   "Warranty": "Products purchased on or after 15th April 2025 are covered by a 12-month standard warranty plus a 3-month extended warranty (total 15 months).",
    "capacity (page text)": "20000 mAh",
-   "warranty (page text)": "1 Year"
+   "warranty (page text)": "3 Months"
   }
  },
  "boat-b0fhwg1rzq": {
@@ -898,7 +1356,8 @@
   "matchScore": 0.6,
   "matchedOn": [
    "model name \"energyshroom pb400 turbo x 20000\"",
-   "20000 mAh"
+   "capacity 20,000 mAh",
+   "output 35 W"
   ],
   "kv": {
    "Code": "BOAT6",
@@ -921,7 +1380,8 @@
   "matchScore": 0.6,
   "matchedOn": [
    "model name \"energyshroom pb600\"",
-   "27000 mAh"
+   "capacity 27,000 mAh",
+   "output 22.5 W"
   ],
   "kv": {
    "Choose your color": "Onyx Black",
@@ -945,11 +1405,11 @@
   "matchScore": 0.6,
   "matchedOn": [
    "model name \"ultra\"",
-   "20000 mAh"
+   "capacity 20,000 mAh",
+   "output 22.5 W"
   ],
   "kv": {
-   "Sale Price": "Rs. 1,499.00",
-   "Warranty Registration": "Gifting With Hammer"
+   "capacity (page text)": "20000 mAh"
   }
  },
  "foxin-b0gdtpchpt": {
@@ -957,10 +1417,10 @@
   "title": "ChargeX 20 Powerbank - Black",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 0.6,
+  "matchScore": 0.55,
   "matchedOn": [
    "model name \"chargex 20\"",
-   "20000 mAh"
+   "capacity 20,000 mAh"
   ],
   "kv": {
    "Wattage": "22.5 Watts",
@@ -973,8 +1433,6 @@
    "Product Warranty": "1 Year",
    "Code": "FX4PB",
    "Variation": "20000 mAh",
-   "UPS Battery": "Multiport Hub",
-   "Warranty Registration": "Contact Us",
    "1 Year Warranty": "1 Year Warranty",
    "20000mAh High-Capacity Backup for Travel": "20000mAh High-Capacity Backup for Travel",
    "22.5W QC + PD Fast Charging": "22.5W QC + PD Fast Charging",
@@ -989,7 +1447,7 @@
    "Compatible Devices": "Smartphone",
    "capacity (page text)": "20000 mAh",
    "warranty (page text)": "1 Year",
-   "protections (page text)": "short circuit, surge"
+   "protections (page text)": "short circuit"
   }
  },
  "portronics-b0gznmvt2c": {
@@ -997,14 +1455,13 @@
   "title": "Titan 35",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 0.65,
+  "matchScore": 0.6,
   "matchedOn": [
    "model name \"titan 35\"",
-   "20000 mAh",
-   "35 W"
+   "capacity 20,000 mAh",
+   "output 35 W"
   ],
   "kv": {
-   "Translation missing": "en.general.search.submit",
    "LED Digital Battery Display": "Features a bright LED digital display that shows the exact remaining battery percentage, helping you track power levels accurately and recharge on time.",
    "Portable & Travel-Friendly Design": "Compact, lightweight, and easy to carry with an integrated cable design that also acts as a hanging strap, making it ideal for travel, work, and everyday carry.",
    "Model": "Titan 35K",
@@ -1018,9 +1475,6 @@
    "Last-Minute Rakhi Gift Ideas 2026": "Best Gadgets...",
    "Rechargeable vs Disposable Batteries": "Which One...",
    "AeroDrive vs Regular Car Air Purifier": "What’s A...",
-   "For Queries Contact us": "Legal, Portronics Digital Private Limited, Vegas Business Tower, Unit No. - 1082 to 1088,",
-   "Rechargeable Battery": "New Arrivals",
-   "Warranty Registration": "Support",
    "1 Year Warranty": "1 Year Warranty",
    "20000mAh Power Bank With 35W Output": "20000mAh Power Bank With 35W Output",
    "35W Fast Charging Powerbank :": "35W Fast Charging Powerbank :",
@@ -1028,9 +1482,8 @@
    "12 months Warranty": "12 months Warranty",
    "fast charging": "Model:",
    "Safety Instructions": "Specification",
-   "Warranty Policy": "CSR Policy",
    "capacity (page text)": "20000 mAh",
-   "warranty (page text)": "1 Year"
+   "warranty (page text)": "12 months"
   }
  },
  "boat-b0fb3t14b2": {
@@ -1038,10 +1491,11 @@
   "title": "Energyshroom PB401 | Powerbank with 20000mAh Lithium Polymer Battery, Multiple Ports for Simultaneous Charging",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 0.6,
+  "matchScore": 1.15,
   "matchedOn": [
+   "model number PB401 (maker's code)",
    "model name \"energyshroom pb401 20000\"",
-   "20000 mAh"
+   "capacity 20,000 mAh"
   ],
   "kv": {
    "Choose your color": "Carbon Black",
@@ -1053,6 +1507,40 @@
    "battery type (page text)": "Lithium Polymer"
   }
  },
+ "zebronics-b0c6m7q9nb": {
+  "url": "https://zebronics.com/products/zeb-mb10000s4",
+  "title": "ZEB MB10000S4",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"mb10000s4\"",
+   "capacity 10,000 mAh"
+  ],
+  "kv": {
+   "Manufactured & Marketed by:": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin:": "India",
+   "Generic Name:": "Zebronics Power Bank",
+   "Package Contents:": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
+   "Customer Complaints:": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Product Type": "5000-10000 mAh",
+   "Manufactured & Marketed by": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin": "India",
+   "Generic Name": "Zebronics Power Bank",
+   "Package Contents": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
+   "Customer Complaints": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Percentage LED Display": "Mobile/Tablet Compatible",
+   "Short Circuit Protection": "Texture finish",
+   "Battery capacity": "10000mAh",
+   "Input": "DC 5V/2A",
+   "Output 1": "Output 1",
+   "Output 2": "Output 2",
+   "No.of output ports": "2",
+   "Net Weight": "220g",
+   "capacity (page text)": "10000 mAh",
+   "protections (page text)": "short circuit, over charge, over-charge"
+  }
+ },
  "boat-b0ffmz3p46": {
   "url": "https://www.boat-lifestyle.com/products/energyshroom-pb300-spl-10000mah-power-bank",
   "title": "Energyshroom PB300 SPL (Naruto Edition)| Powerbank with 22.5W Fast Charging, 10,000mAh, 12-Layer Protection, 3 Output Ports",
@@ -1061,7 +1549,8 @@
   "matchScore": 0.6,
   "matchedOn": [
    "model name \"energyshroom pb300 spl naruto\"",
-   "10000 mAh"
+   "capacity 10,000 mAh",
+   "output 22.5 W"
   ],
   "kv": {
    "Code": "BOAT6",
@@ -1076,6 +1565,45 @@
    "battery type (page text)": "Li-ion"
   }
  },
+ "zebronics-b0d22zzm34": {
+  "url": "https://zebronics.com/products/zeb-mb10000s15",
+  "title": "Zeb MB10000S15",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 0.55,
+  "matchedOn": [
+   "model name \"mb10000s15\"",
+   "capacity 10,000 mAh"
+  ],
+  "kv": {
+   "Manufactured & Marketed by:": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Roya pettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin:": "India",
+   "Generic Name:": "Zebronics Power Bank",
+   "Package Contents:": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
+   "Customer Complaints:": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Product Type": "5000-10000 mAh",
+   "Manufactured & Marketed by": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Roya pettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin": "India",
+   "Generic Name": "Zebronics Power Bank",
+   "Package Contents": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
+   "Customer Complaints": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Dual USB Output": "Rapid Charge",
+   "LED percentage display": "Mobile/Tablet Compatible",
+   "PD 3.0 Type C Output": "PD 3.0 Type C Output",
+   "22.5 W Max. Output": "22.5 W Max. Output",
+   "Battery Capacity": "10000mAh",
+   "TYPE C Input": "DC 5V/3A, 9V/2A, 12V/1.5A",
+   "Micro USB Input": "DC 5V/2A, 9V/2A, 12V/1.5A",
+   "Output 1 USB port": "Output 1 USB port",
+   "Output 2 USB port": "Output 2 USB port",
+   "Output 3 Type - C": "Output 3 Type - C",
+   "3.8 ~11V/2A PPS (22.5 W max. output)": "3.8 ~11V/2A PPS (22.5 W max. output)",
+   "No.of Output port": "2 USB + 1 Type C PD 3.0",
+   "Net Weight": "170 g",
+   "capacity (page text)": "10000 mAh",
+   "protections (page text)": "short circuit, over charge, over-charge"
+  }
+ },
  "boat-b0c7c3wy74": {
   "url": "https://www.boat-lifestyle.com/products/energyshroom-pb300-10000mah-power-bank",
   "title": "EnergyShroom PB300 | Powerbank with 10000mAh battery capacity with Smart IC protection, 22.5W fast charging",
@@ -1084,7 +1612,8 @@
   "matchScore": 0.6,
   "matchedOn": [
    "model name \"energyshroom pb300 10000\"",
-   "10000 mAh"
+   "capacity 10,000 mAh",
+   "output 22.5 W"
   ],
   "kv": {
    "Choose your color": "Carbon Black",
@@ -1095,43 +1624,48 @@
    "10000mAh Lithium Polymer Battery": "10000mAh Lithium Polymer Battery",
    "Q. Does it support fast charging?": "Yes, EnergyShroom PB300 supports 22.5W fast charging through 2 USB-A output ports and 1 Type-C two-way port.",
    "capacity (page text)": "10000 mAh",
-   "warranty (page text)": "3 Months",
+   "warranty (page text)": "1 year",
    "battery type (page text)": "Lithium Polymer"
   }
  },
- "lapcare-b0cgp252t4": {
-  "url": "https://www.lapcare.com/products/smart-tank-li-polymer-10000mah-power-bank-lpb-003",
-  "title": "Smart Tank",
+ "zebronics-b0gxjvtddp": {
+  "url": "https://zebronics.com/products/zeb-energipod-10r4",
+  "title": "Zeb EnergiPod 10R4",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 0.6,
+  "matchScore": 0.55,
   "matchedOn": [
-   "model name \"tank\"",
-   "10000 mAh"
+   "model name \"energipod 10r4\"",
+   "capacity 10,000 mAh"
   ],
   "kv": {
-   "Rain Alert": "Dispatches May Take Longer Than Usual.",
-   "SKU": "LOPBST8194",
-   "Quantity": "Add to cart",
-   "Product Description": "12W Max Fast Charging Output: Powerful 12W output/input for boosted charging speed, so that you always stay ahead in the league",
-   "LED Indicator Light": "An LED light tells you the power bank’s power status, so you always know when it’s time to recharge.",
-   "Proudly Made In India": "The LAPCARE Smart Tank proudly Made In India and is BIS Approved. also features intelligent safety protocols to protect your device and ofcourse yourself.",
-   "Warranty": "1 Year",
-   "Technical Specifications": "Input: Type C & B (5V/2A)",
-   "Output": "5V/2.1A",
-   "Wattage": "12W",
-   "Output Port": "Dual USB",
-   "Battery Type": "Polymer",
+   "Manufactured & Marketed by:": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin:": "India",
+   "Generic Name:": "Zebronics Power Bank",
+   "Package Contents:": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
+   "Customer Complaints:": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Product Type": "5000-10000 mAh",
+   "Manufactured & Marketed by": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin": "India",
+   "Generic Name": "Zebronics Power Bank",
+   "Package Contents": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
+   "Customer Complaints": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Dual USB Output": "Rapid Charging",
+   "LED Percentage Display": "Mobile/Tablet Compatible",
+   "PD 3.0 Type C Output": "PD 3.0 Type C Output",
+   "22.5W Max. Output": "22.5W Max. Output",
+   "Short Circuit Protection": "Torch Light",
    "Battery Capacity": "10000mAh",
-   "Battery": "Power Bank",
-   "Cable and Connectors": "Privacy Filters",
-   "Lapcare Protection Plan": "Blogs",
-   "Input: Type C & B (5V/2A)": "Input: Type C & B (5V/2A)",
-   "Output: 5V/2.1A": "Output: 5V/2.1A",
-   "Wattage: 12W": "Wattage: 12W",
-   "Battery Capacity: 10000mAh": "Battery Capacity: 10000mAh",
+   "TYPE C Input": "DC 5V/3A, DC 9V/2A, DC 12V/1.5A",
+   "Micro USB Input": "DC 5V/3A, DC 9V/2A, DC 12V/1.5A",
+   "Output 1": "Output 1",
+   "Output 2": "Output 2",
+   "Output 3 (TYPE C)": "Output 3 (TYPE C)",
+   "(22.5W max. output)": "(22.5W max. output)",
+   "No.of Output port": "2 USB + 1 Type C PD 3.0",
+   "Net Weight": "224g",
    "capacity (page text)": "10000 mAh",
-   "warranty (page text)": "1 Year"
+   "protections (page text)": "short circuit, over charge, over-charge"
   }
  },
  "boat-b0gy89zbd8": {
@@ -1139,11 +1673,11 @@
   "title": "boAt Energyshroom PB300 Neo | 10000mAh Powerbank with 22.5W Fast Charging & Smart Protection",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 0.65,
+  "matchScore": 0.6,
   "matchedOn": [
    "model name \"energyshroom pb300 neo\"",
-   "10000 mAh",
-   "22.5 W"
+   "capacity 10,000 mAh",
+   "output 22.5 W"
   ],
   "kv": {
    "Code": "BOAT6",
@@ -1159,15 +1693,37 @@
    "battery type (page text)": "Li-ion"
   }
  },
+ "boat-b0f4xnvdmf": {
+  "url": "https://www.boat-lifestyle.com/products/energyshroom-pb331-magnacharge-10000mah-power-bank",
+  "title": "Energyshroom PB331 Magnacharge | Powerbank with 22.5W Fast Charging, 10,000mAh, 15W Magnetic Wireless Charging, 12-Layer Smart IC Protection, 3 Output Ports",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.2,
+  "matchedOn": [
+   "model number PB331 (maker's code)",
+   "model name \"energyshroom pb331\"",
+   "capacity 10,000 mAh",
+   "output 22.5 W"
+  ],
+  "kv": {
+   "Choose your color": "Ash Black",
+   "Code": "BOAT6",
+   "Full terms": "www.boat-lifestyle.com/pages/warranty",
+   "Warranty": "Products purchased on or after 15th April 2025 are covered by a 12-month standard warranty plus a 3-month extended warranty (total 15 months).",
+   "Output power": "15W max",
+   "capacity (page text)": "10000 mAh",
+   "warranty (page text)": "3 Months"
+  }
+ },
  "foxin-b0gdtqllf1": {
   "url": "https://www.foxin.in/products/chargex-10-powerbank-10000mah-white",
   "title": "ChargeX 10 Powerbank - White",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 0.6,
+  "matchScore": 0.55,
   "matchedOn": [
    "model name \"chargex 10\"",
-   "10000 mAh"
+   "capacity 10,000 mAh"
   ],
   "kv": {
    "Wattage": "22.5 Watts",
@@ -1180,8 +1736,6 @@
    "Product Warranty": "1 Year",
    "Code": "FX4PB",
    "Variation": "10000 mAh",
-   "UPS Battery": "Multiport Hub",
-   "Warranty Registration": "Contact Us",
    "1 Year Warranty": "1 Year Warranty",
    "22.5W QC + PD Fast Charging": "22.5W QC + PD Fast Charging",
    "2 Ports": "2 Ports",
@@ -1192,44 +1746,49 @@
    "Compatible Devices": "Smartphone",
    "capacity (page text)": "10000 mAh",
    "warranty (page text)": "1 Year",
-   "protections (page text)": "short circuit, surge"
+   "protections (page text)": "short circuit"
   }
  },
- "portronics-b0dkx4xs8c": {
-  "url": "https://portronics.com/products/power-shutter",
-  "title": "Power Shutter",
+ "zebronics-b0dvc3ddyj": {
+  "url": "https://zebronics.com/products/zeb-energipod-10mr1",
+  "title": "Zeb EnergiPod 10MR1",
   "region": "IN",
   "fetchedAt": "2026-09-05",
   "matchScore": 0.6,
   "matchedOn": [
-   "model name \"shutter\"",
-   "10000 mAh"
+   "model name \"energipod 10mr1\"",
+   "capacity 10,000 mAh",
+   "output 22.5 W"
   ],
   "kv": {
-   "Translation missing": "en.general.search.submit",
-   "Model": "Power Shutter",
-   "Product Code": "POR 2264 ,POR 2265 , POR 2905 ,POR 2906",
-   "Color": "Black ,White , Orange , Dark Blue",
-   "Capacity": "10000mAh",
-   "Type C PD Output": "22.5W",
-   "LED Battery Indicator": "Yes",
-   "Wireless Charging": "15W",
-   "The Ultimate Guide to Personal Hygiene": "Products You Need to Stay Safe",
-   "Last-Minute Rakhi Gift Ideas 2026": "Best Gadgets...",
-   "Rechargeable vs Disposable Batteries": "Which One...",
-   "AeroDrive vs Regular Car Air Purifier": "What’s A...",
-   "For Queries Contact us": "Legal, Portronics Digital Private Limited, Vegas Business Tower, Unit No. - 1082 to 1088,",
-   "Rechargeable Battery": "New Arrivals",
-   "Warranty Registration": "Support",
-   "1 Year Warranty": "1 Year Warranty",
-   "High Capacity Power Bank": ":",
-   "22.5W Fast Charging": "22.5W Fast Charging",
-   "LED Digital Display": ":",
-   "12 months Warranty": "12 months Warranty",
-   "Safety Instructions": "Specification",
-   "Warranty Policy": "CSR Policy",
+   "Manufactured & Marketed by:": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin:": "India",
+   "Generic Name:": "Zebronics Power Bank",
+   "Package Contents:": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
+   "Customer Complaints:": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Color": "Black",
+   "Product Type": "Above 10000 MAh",
+   "Manufactured & Marketed by": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin": "India",
+   "Generic Name": "Zebronics Power Bank",
+   "Package Contents": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
+   "Customer Complaints": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "22.5 W Max. Output": "22.5 W Max. Output",
+   "USB Output Port": "Rapid Charge",
+   "PD 3.0 Type C Input and Output Port": "PD 3.0 Type C Input and Output Port",
+   "Short Circuit Protection": "Metal Body",
+   "LED indicator": "SKU: ZEB-ENERGIPOD 10MR1 METAL 10000 MAH 22.5W MOBILE BATTERY CHARGER (PB 13 BLACK)",
+   "22.5 W Max Output": "22.5 W Max Output",
+   "PD 3.0 Type C input and output port": "PD 3.0 Type C input and output port",
+   "Battery Capacity": "10000mAh",
+   "Type-C Input ports": "DC 5V/3A, 9V/2A, 12V/1.5A",
+   "Output 1 (TYPE C)": "Output 1 (TYPE C)",
+   "Output 2 (USB)": "Output 2 (USB)",
+   "(22.5 W max. output)": "(22.5 W max. output)",
+   "No.of Output port": "1 USB + 1 Type C Port",
+   "Net Weight": "249.5 g",
    "capacity (page text)": "10000 mAh",
-   "warranty (page text)": "1 Year"
+   "protections (page text)": "short circuit, over charge, over-charge, overcharge"
   }
  },
  "boat-b0dfh2rntv": {
@@ -1240,7 +1799,8 @@
   "matchScore": 0.6,
   "matchedOn": [
    "model name \"energyshroom pb400 pro 20000\"",
-   "20000 mAh"
+   "capacity 20,000 mAh",
+   "output 22.5 W"
   ],
   "kv": {
    "Capacity": "20000 mAh 3.7V(74Wh)",
@@ -1262,47 +1822,9 @@
    "22.5W Fast Charging": "22.5W Fast Charging",
    "Li-Polymer Battery": "12 Layer",
    "Smart IC Protection": "Compact",
-   "warranty (page text)": "3 Months",
+   "warranty (page text)": "1 year",
    "battery type (page text)": "Lithium Polymer",
    "protections (page text)": "short circuit"
-  }
- },
- "portronics-b0fg3ct94s": {
-  "url": "https://portronics.com/products/power-shutter-20k",
-  "title": "Power Shutter 20K",
-  "region": "IN",
-  "fetchedAt": "2026-09-05",
-  "matchScore": 0.65,
-  "matchedOn": [
-   "model name \"shutter\"",
-   "20000 mAh",
-   "22.5 W"
-  ],
-  "kv": {
-   "Translation missing": "en.general.search.submit",
-   "Model": "Power Shutter 20K",
-   "Product Code": "POR 3016 , POR 3017 ,POR 3023",
-   "Color": "Black ,White ,Orange",
-   "Capacity": "20000mah",
-   "Wired Output": "22.5W",
-   "LED Battery Indicator": "Yes",
-   "Wireless Charging": "15W",
-   "The Ultimate Guide to Personal Hygiene": "Products You Need to Stay Safe",
-   "Last-Minute Rakhi Gift Ideas 2026": "Best Gadgets...",
-   "Rechargeable vs Disposable Batteries": "Which One...",
-   "AeroDrive vs Regular Car Air Purifier": "What’s A...",
-   "For Queries Contact us": "Legal, Portronics Digital Private Limited, Vegas Business Tower, Unit No. - 1082 to 1088,",
-   "Rechargeable Battery": "New Arrivals",
-   "Warranty Registration": "Support",
-   "1 Year Warranty": "1 Year Warranty",
-   "Massive 20000mAh Capacity": "Massive 20000mAh Capacity",
-   "22.5W Dual Output for Fast Charging": "22.5W Dual Output for Fast Charging",
-   "Digital LED Display for Real-Time Status": ":",
-   "12 months Warranty": "12 months Warranty",
-   "Safety Instructions": "Specification",
-   "Warranty Policy": "CSR Policy",
-   "capacity (page text)": "20000 mAh",
-   "warranty (page text)": "1 Year"
   }
  },
  "lapcare-b0h5vy8cb5": {
@@ -1310,15 +1832,13 @@
   "title": "BUDDI",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 0.6,
+  "matchScore": 0.55,
   "matchedOn": [
    "model name \"buddi\"",
-   "20000 mAh"
+   "capacity 20,000 mAh"
   ],
   "kv": {
    "Rain Alert": "Dispatches May Take Longer Than Usual.",
-   "SKU": "LOPBUD9968",
-   "Quantity": "Add to cart",
    "Warranty": "1 Year",
    "Dual Type-C & USB-A Ports": "Charge multiple devices at the same time.",
    "Built-in Type-C & Lightning Cables": "No need to carry extra cables.",
@@ -1345,40 +1865,17 @@
    "warranty (page text)": "1 Year"
   }
  },
- "boat-b0g1bs17wc": {
-  "url": "https://www.boat-lifestyle.com/products/boat-energyshroom-pb665-turbo-x",
-  "title": "boAt Energyshroom PB665 Turbo X | 30000mAh Power Bank with 65W Turbo Fast Charging",
-  "region": "IN",
-  "fetchedAt": "2026-09-05",
-  "matchScore": 0.6,
-  "matchedOn": [
-   "model name \"energyshroom pb665 turbo x\"",
-   "30000 mAh"
-  ],
-  "kv": {
-   "Choose your color": "Onyx Black",
-   "Code": "BOAT6",
-   "Full terms": "www.boat-lifestyle.com/pages/warranty",
-   "Warranty": "Products purchased on or after 15th April 2025 are covered by a 12-month standard warranty plus a 3-month extended warranty (total 15 months).",
-   "Output Power": "30000mAh (115.5Wh)",
-   "Maximum Output": "65W (Max)",
-   "Battery Type": "Li-ion polymer",
-   "Input Ports": "2x Type-C (2-Way)",
-   "Output Ports": "2x Type-C (2-Way) 2x USB-A",
-   "capacity (page text)": "30000 mAh",
-   "warranty (page text)": "3 Months",
-   "battery type (page text)": "Li-ion"
-  }
- },
  "boat-b0ft3npbvx": {
   "url": "https://www.boat-lifestyle.com/products/boat-energyshroom-pb465-turbo-x",
   "title": "boAt Energyshroom PB465 Turbo X | 20000mAh Power Bank with 65W Turbo Fast Charging",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 0.6,
+  "matchScore": 1.2,
   "matchedOn": [
+   "model number PB465 (maker's code)",
    "model name \"energyshroom pb465 turbo x\"",
-   "20000 mAh"
+   "capacity 20,000 mAh",
+   "output 65 W"
   ],
   "kv": {
    "Choose your color": "Onyx Black",
@@ -1395,42 +1892,40 @@
    "battery type (page text)": "Li-ion"
   }
  },
- "portronics-b0gnwcyqck": {
-  "url": "https://portronics.com/products/aqua-65",
-  "title": "Aqua 65",
+ "zebronics-b0dnfhbf1k": {
+  "url": "https://zebronics.com/products/zeb-energipod-27r2",
+  "title": "Zeb EnergiPod 27R2",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 0.5,
+  "matchScore": 0.65,
   "matchedOn": [
-   "model name \"aqua 65\""
+   "model number 27R2 (maker's code)",
+   "capacity 27,000 mAh"
   ],
   "kv": {
-   "Translation missing": "en.general.search.submit",
-   "Model": "Aqua 65",
-   "Product Code": "POR 3021",
+   "Manufactured & Marketed by:": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin:": "India",
+   "Generic Name:": "Zebronics Power Bank",
+   "Package Contents:": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
+   "Customer Complaints:": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
    "Color": "Black",
-   "Capacity": "20000mAh",
-   "Fast Charging": "65W",
-   "Input/Output": "Type C",
-   "LED Display": "Yes",
-   "The Ultimate Guide to Personal Hygiene": "Products You Need to Stay Safe",
-   "Last-Minute Rakhi Gift Ideas 2026": "Best Gadgets...",
-   "Rechargeable vs Disposable Batteries": "Which One...",
-   "AeroDrive vs Regular Car Air Purifier": "What’s A...",
-   "For Queries Contact us": "Legal, Portronics Digital Private Limited, Vegas Business Tower, Unit No. - 1082 to 1088,",
-   "Rechargeable Battery": "New Arrivals",
-   "Warranty Registration": "Support",
-   "1 Year Warranty": "1 Year Warranty",
-   "20000mAh Power Bank With 65W Output": "20000mAh Power Bank With 65W Output",
-   "65W Max Fast Charging Output": "65W Max Fast Charging Output",
-   "20000mAh High-Capacity Battery": "20000mAh High-Capacity Battery",
-   "Type-C PD Input & Output": "–",
-   "LED Digital Display": "–",
-   "12 months Warranty": "12 months Warranty",
-   "Safety Instructions": "Specification",
-   "Warranty Policy": "CSR Policy",
-   "capacity (page text)": "20000 mAh",
-   "warranty (page text)": "1 Year"
+   "Product Type": "Above 10000 MAh",
+   "Manufactured & Marketed by": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin": "India",
+   "Generic Name": "Zebronics Power Bank",
+   "Package Contents": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
+   "Customer Complaints": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Dual Type-C and single USB-A Output": "Rapid Charge",
+   "LED indicator": "Mobile/Tablet/Laptop Compatible",
+   "PD 3.0 Type C Input & Output Ports": "PD 3.0 Type C Input & Output Ports",
+   "65W(Max.) Output": "65W(Max.) Output",
+   "Battery Capacity": "27000mAh",
+   "Type-C Input": "DC 5V/3A 9V/3A 12V/3A 15V/3A 20V/3.25A",
+   "Output 1 & 2 (TYPE C)": "Output 1 & 2 (TYPE C)",
+   "Output 3 (USB)": "Output 3 (USB)",
+   "No.of Output port": "1 USB-A + 2 Type C PD 3.0",
+   "Net Weight": "628g",
+   "protections (page text)": "short circuit, over charge, over-charge"
   }
  },
  "boat-b0dk3dvjdr": {
@@ -1441,7 +1936,8 @@
   "matchScore": 0.6,
   "matchedOn": [
    "model name \"energyshroom pb600 powerpulse\"",
-   "27000 mAh"
+   "capacity 27,000 mAh",
+   "output 160 W"
   ],
   "kv": {
    "Code": "BOAT6",
@@ -1451,29 +1947,102 @@
    "warranty (page text)": "3 Months"
   }
  },
- "boat-b0g1bzcpsz": {
-  "url": "https://www.boat-lifestyle.com/products/boat-energyshroom-pb665-turbo-x",
-  "title": "boAt Energyshroom PB665 Turbo X | 30000mAh Power Bank with 65W Turbo Fast Charging",
+ "zebronics-b0dnb7zwbl": {
+  "url": "https://zebronics.com/products/zeb-energipod27r3",
+  "title": "Zeb EnergiPod 27R3",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 0.6,
+  "matchScore": 1.15,
   "matchedOn": [
-   "model name \"energyshroom pb665 turbo x\"",
-   "30000 mAh"
+   "model number 27R3 (maker's code)",
+   "model name \"energipod 27r3\"",
+   "capacity 27,000 mAh"
+  ],
+  "kv": {
+   "Manufactured & Marketed by:": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India.",
+   "Country of Origin:": "India",
+   "Generic Name:": "Zebronics Power Bank",
+   "Package Contents:": "Power Bank: 1 U, Charging Cable: 1 U, QR Code Guide: 1 U",
+   "Customer Complaints:": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Product Type": "Above 10000 MAh",
+   "Manufactured & Marketed by": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India.",
+   "Country of Origin": "India",
+   "Generic Name": "Zebronics Power Bank",
+   "Package Contents": "Power Bank: 1 U, Charging Cable: 1 U, QR Code Guide: 1 U",
+   "Customer Complaints": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Dual Type-C and Single USB-A Output": "Rapid Charge",
+   "PD 3.0 Type C Input & Output Ports": "PD 3.0 Type C Input & Output Ports",
+   "130W*(Max.) Output": "130W*(Max.) Output",
+   "Battery Capacity": "27000mAh",
+   "Type-C Input": "DC 5V/3A, 9V/3A, 12V/3A/ 20V/3A",
+   "Output (USB)": "DC 4.5V/5A, 5V/4.5A, 5V/3A, 9V/2A, 12V/1.5A",
+   "Output (TYPE C2)": "Output (TYPE C2)",
+   "(30W max. output)": "(30W max. output)",
+   "Output (TYPE C1)": "Output (TYPE C1)",
+   "(100W max. output)": "(100W max. output)",
+   "No.of Output port": "1 USB-A + 2 Type C PD 3.0",
+   "Net Weight": "555g",
+   "*Dual Type-C port Simultaneous Output": "LEGAL METROLOGY PRODUCT INFORMATION",
+   "protections (page text)": "short circuit, over charge, over-charge"
+  }
+ },
+ "boat-b0f48hhwkx": {
+  "url": "https://www.boat-lifestyle.com/products/energyshroom-pb435-turbo-20000mah-power-bank",
+  "title": "Energyshroom PB435 Turbo | Powerbank with 35W Fast Charging, 20,000mAh, 12-Layer Smart IC Protection, Aluminium Casing",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.2,
+  "matchedOn": [
+   "model number PB435 (maker's code)",
+   "model name \"energyshroom pb435 20000\"",
+   "capacity 20,000 mAh",
+   "output 35 W"
   ],
   "kv": {
    "Choose your color": "Onyx Black",
    "Code": "BOAT6",
    "Full terms": "www.boat-lifestyle.com/pages/warranty",
    "Warranty": "Products purchased on or after 15th April 2025 are covered by a 12-month standard warranty plus a 3-month extended warranty (total 15 months).",
-   "Output Power": "30000mAh (115.5Wh)",
-   "Maximum Output": "65W (Max)",
-   "Battery Type": "Li-ion polymer",
-   "Input Ports": "2x Type-C (2-Way)",
-   "Output Ports": "2x Type-C (2-Way) 2x USB-A",
-   "capacity (page text)": "30000 mAh",
-   "warranty (page text)": "3 Months",
-   "battery type (page text)": "Li-ion"
+   "capacity (page text)": "20000 mAh",
+   "warranty (page text)": "3 Months"
+  }
+ },
+ "zebronics-b0dnbblgbd": {
+  "url": "https://zebronics.com/products/zeb-energipod-50r1",
+  "title": "Zeb EnergiPod 50R1",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.15,
+  "matchedOn": [
+   "model number 50R1 (maker's code)",
+   "model name \"energipod 50r1\"",
+   "capacity 50,000 mAh"
+  ],
+  "kv": {
+   "Manufactured & Marketed by:": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin:": "India",
+   "Generic Name:": "Zebronics Power Bank",
+   "Package Contents:": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
+   "Customer Complaints:": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Product Type": "Above 10000 MAh",
+   "Manufactured & Marketed by": "Zebronics India Pvt Ltd. | 13/7 Smith Road, Royapettah, Chennai, Tamil Nadu - 600 002, India",
+   "Country of Origin": "India",
+   "Generic Name": "Zebronics Power Bank",
+   "Package Contents": "Power bank - 1 U, Charging cable - 1 U, QR Code guide - 1 U",
+   "Customer Complaints": "Telephone - 044-4000 0004 | Email - enquiry@zebronics.com",
+   "Dual USB Output": "Rapid Charge",
+   "PD 3.0 Type C Output": "PD 3.0 Type C Output",
+   "22.5 W Max. Output": "22.5 W Max. Output",
+   "Type C and Micro USB Input": "SKU: ZEB-ENERGIPOD 50R1 50000 MAH 22.5W MOBILE BATTERY CHARGER (BLACK)",
+   "Battery Capacity": "50000mAh",
+   "Type-C Input": "DC 5V/3A, 9V/2A, 12V/1.5A",
+   "Micro USB Input": "DC 5V/2A, 9V/2A, 12V/1.5A",
+   "Output 1 & 2 (USB)": "Output 1 & 2 (USB)",
+   "Output 3 (TYPE C)": "Output 3 (TYPE C)",
+   "(22.5 W max. output)": "(22.5 W max. output)",
+   "No.of Output port": "2 USB + 1 Type C PD 3.0",
+   "Net Weight": "971 g",
+   "protections (page text)": "short circuit, over charge, over-charge"
   }
  },
  "baseus-b0bvfpzs9b": {
@@ -1484,10 +2053,10 @@
   "matchScore": 0.6,
   "matchedOn": [
    "model name \"star lord\"",
-   "30000 mAh"
+   "capacity 30,000 mAh",
+   "output 22.5 W"
   ],
   "kv": {
-   "SKU": "PPXJ080101",
    "The delivery time for items is as follows": "(only for the items purchased directly on baseus.com.)",
    "Other Devices": "Steam Deck / Airpods / Airpods Pro /Apple Watch 6/SE/3, Headphone and more.",
    "Capacity": "30000 mAh",
@@ -1497,11 +2066,31 @@
    "With Cable": "√",
    "LED Display": "√",
    "Item Weight": "1.44 pounds",
-   "Warranty": "Identification Check",
    "● 7 Days Power Capacity": "● 7 Days Power Capacity",
    "30000 mAh capacity power:": "30000 mAh capacity power:",
    "Fast Charging Icon": "In addition to battery percentage, the status display clearly indicates as well whether fast charging is underway or not showing an orange lightning icon.",
    "Hassle-Free Warranty": "Specs"
+  }
+ },
+ "boat-b0f48dq4n9": {
+  "url": "https://www.boat-lifestyle.com/products/energyshroom-pb435-turbo-20000mah-power-bank",
+  "title": "Energyshroom PB435 Turbo | Powerbank with 35W Fast Charging, 20,000mAh, 12-Layer Smart IC Protection, Aluminium Casing",
+  "region": "IN",
+  "fetchedAt": "2026-09-05",
+  "matchScore": 1.2,
+  "matchedOn": [
+   "model number PB435 (maker's code)",
+   "model name \"energyshroom pb435 20000\"",
+   "capacity 20,000 mAh",
+   "output 35 W"
+  ],
+  "kv": {
+   "Choose your color": "Onyx Black",
+   "Code": "BOAT6",
+   "Full terms": "www.boat-lifestyle.com/pages/warranty",
+   "Warranty": "Products purchased on or after 15th April 2025 are covered by a 12-month standard warranty plus a 3-month extended warranty (total 15 months).",
+   "capacity (page text)": "20000 mAh",
+   "warranty (page text)": "3 Months"
   }
  },
  "boat-b0dfh4fbrm": {
@@ -1512,7 +2101,8 @@
   "matchScore": 0.6,
   "matchedOn": [
    "model name \"energyshroom pb400 pro 20000\"",
-   "20000 mAh"
+   "capacity 20,000 mAh",
+   "output 22.5 W"
   ],
   "kv": {
    "Capacity": "20000 mAh 3.7V(74Wh)",
@@ -1534,7 +2124,7 @@
    "22.5W Fast Charging": "22.5W Fast Charging",
    "Li-Polymer Battery": "12 Layer",
    "Smart IC Protection": "Compact",
-   "warranty (page text)": "3 Months",
+   "warranty (page text)": "1 year",
    "battery type (page text)": "Lithium Polymer",
    "protections (page text)": "short circuit"
   }
@@ -1547,7 +2137,8 @@
   "matchScore": 0.6,
   "matchedOn": [
    "model name \"energyshroom pb300 pro 10000\"",
-   "10000 mAh"
+   "capacity 10,000 mAh",
+   "output 22.5 W"
   ],
   "kv": {
    "Capacity": "10000 mAh 3.7V(37Wh)",
@@ -1568,7 +2159,7 @@
    "10000mAh Lithium Polymer Battery": "10000mAh Lithium Polymer Battery",
    "Q. Does it support fast charging?": "Yes, EnergyShroom PB300 supports 22.5W fast charging through 2 USB-A output ports and 1 Type-C two-way port.",
    "Q. How many ports does it have?": "EnergyShroom PB300 comes with 2 USB-A output ports, 1 Micro USB input port and a 1 Type-C 2-way port.",
-   "warranty (page text)": "3 Months",
+   "warranty (page text)": "1 year",
    "battery type (page text)": "Lithium Polymer",
    "protections (page text)": "short circuit"
   }
@@ -1578,10 +2169,12 @@
   "title": "boAt Energyshroom PB465 Turbo X | 20000mAh Power Bank with 65W Turbo Fast Charging",
   "region": "IN",
   "fetchedAt": "2026-09-05",
-  "matchScore": 0.6,
+  "matchScore": 1.2,
   "matchedOn": [
+   "model number PB465 (maker's code)",
    "model name \"energyshroom pb465 turbo x\"",
-   "20000 mAh"
+   "capacity 20,000 mAh",
+   "output 65 W"
   ],
   "kv": {
    "Choose your color": "Onyx Black",

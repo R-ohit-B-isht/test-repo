@@ -110,7 +110,7 @@ for (const site of SITES) {
   details.forEach((d, i) => fs.writeFileSync(path.join(OUT, `${site.id}.d${i}.json`), JSON.stringify(d)));
   manifest.categories.push({
     id: site.id, label: site.label, kicker: site.kicker, family: site.family, unit: site.unit, blurb: site.blurb,
-    facets: facetGroups, featured: site.featured.filter((tag) => tagCount.has(tag)), count: items.length,
+    facets: Object.keys(facets), featured: site.featured.filter((tag) => tagCount.has(tag)), count: items.length,
     segment: { key: site.segment.key, label: site.segment.label, options: site.segment.options }, bySegment,
     stores: { flipkart: tagCount.get('store:flipkart') || 0, amazon: tagCount.get('store:amazon') || 0 },
     evidence: Object.fromEntries(Object.keys(STATUS_LABEL).map((k) => [k, tagCount.get(`ev:${k}`) || 0])),
