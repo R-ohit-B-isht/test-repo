@@ -1,14 +1,12 @@
 import { memo } from 'react';
 import { clsx } from 'clsx';
 import { Check, Plus, Star } from 'lucide-react';
-import type { ProductRow } from '../../lib/types';
+import type { PlaceTag, ProductRow } from '../../lib/types';
 import { rupees, storeLabel } from '../../lib/format';
 import { EvidenceBadge, ScoreBadge, ZoneBadge } from '../ui/primitives';
 
-export type ScopeKey = 'face' | 'body' | 'both' | 'unstated';
-
 interface Props {
-  row: ProductRow; rank: number; scope: ScopeKey; compared: boolean; compareFull: boolean;
+  row: ProductRow; rank: number; scope: PlaceTag; compared: boolean; compareFull: boolean;
   onOpen: (id: string) => void; onCompare: (id: string) => void;
 }
 

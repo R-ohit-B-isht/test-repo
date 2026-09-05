@@ -21,8 +21,8 @@ import { ProductSheet } from '../components/category/ProductSheet';
 import { CompareTray } from '../components/category/CompareTray';
 import { ProtocolIntro } from '../components/category/ProtocolIntro';
 import { BenchmarkCard } from '../components/category/BenchmarkCard';
-import type { ScopeKey } from '../components/category/ProductCard';
 import type { CategoryMeta } from '../lib/types';
+import { placeResolver } from '../domain/index';
 
 const COMPARE_MAX = 4;
 
@@ -49,7 +49,8 @@ function CategoryView({ id }: { id: string }) {
   const positions = useMemo(() => (idx ? sortPositions(idx.items, matched, state.sort) : matched), [idx, matched, state.sort]);
   const live = useMemo(() => (idx ? liveCountsByGroup(idx, state, matched) : { base: new Uint32Array(), byGroup: new Map<string, Uint32Array>() }), [idx, state, matched]);
 
-  const scopeSelected = state.tags.filter((t) => t.startsWith('scope:'));
+  const scopeGroup = meta?.scopeGroup ?? 'scope';
+  const scopeSelected = state.tags.filter((t) => t.startsWith(`${scopeGroup}:`));
   const stepSelected = state.tags.filter((t) => t.startsWith('step:'));
   const onOpen = useCallback((pid: string) => setOpenId(pid), []);
   const onCompare = useCallback((pid: string) => {
@@ -83,7 +84,7 @@ function CategoryView({ id }: { id: string }) {
 
   const m = manifest.data;
   const openRow = openId ? idx.items.find((r) => r.id === openId) ?? null : null;
-  const scopeOf = (t: number[]): ScopeKey => { for (const s of ['face', 'body', 'both', 'unstated'] as ScopeKey[]) { const p = idx.tagPos.get(`scope:${s}`); if (p !== undefined && t.includes(p)) return s; } return 'unstated'; };
+  const scopeOf = placeResolver(idx, scopeGroup);
   const compareRows = compare.map((cid) => idx.items.find((r) => r.id === cid)).filter((r): r is NonNullable<typeof r> => !!r);
   const rankOf = (pid: string) => { const p = idx.items.findIndex((r) => r.id === pid); return p >= 0 ? idx.rank[p] : 0; };
   const isProtocol = meta.kicker === 'PROTOCOL';
@@ -127,7 +128,7 @@ function CategoryView({ id }: { id: string }) {
       )}
 
       <div className="glass sticky top-16 z-30 -mx-4 mt-8 border-b border-line px-4 py-3 sm:-mx-6 sm:px-6">
-        <ScopeControl rows={idx.facets.scope ?? []} selected={scopeSelected} onToggle={toggleTag} onClear={() => clearGroup('scope')} />
+        <ScopeControl group={scopeGroup} rows={idx.facets[scopeGroup] ?? []} selected={scopeSelected} onToggle={toggleTag} onClear={() => clearGroup(scopeGroup)} />
       </div>
 
       <div className="mt-6 grid gap-8 lg:grid-cols-[300px_minmax(0,1fr)]">
@@ -139,13 +140,13 @@ function CategoryView({ id }: { id: string }) {
         </aside>
         <div className="min-w-0 space-y-4">
           {bench && <BenchmarkCard bench={bench} onOpenListing={onOpen} />}
-          <Toolbar idx={idx} featured={meta.featured} selected={state.tags} live={live} sort={state.sort} onSort={(k) => update({ sort: k })}
+          <Toolbar idx={idx} zone={meta.zone} featured={meta.featured} selected={state.tags} live={live} sort={state.sort} onSort={(k) => update({ sort: k })}
             query={state.query} onQuery={onQuery} onToggle={toggleTag} onOpenFilters={() => setFiltersOpen(true)} activeCount={activeCount} resultCount={positions.length} />
           <ActiveChips idx={idx} groups={m.groups} state={state} onRemove={toggleTag} onPrice={onPrice} onQuery={onQuery} onClearAll={clearAllWithUndo} />
           {positions.length === 0 ? (
             <EmptyResults idx={idx} groups={m.groups} state={state} onRemove={toggleTag} onPrice={onPrice} onQuery={onQuery} onClearAll={clearAllWithUndo} />
           ) : (
-            <ProductList idx={idx} positions={positions} compare={compare} compareMax={COMPARE_MAX} onOpen={onOpen} onCompare={onCompare} />
+            <ProductList idx={idx} scopeGroup={scopeGroup} positions={positions} compare={compare} compareMax={COMPARE_MAX} onOpen={onOpen} onCompare={onCompare} />
           )}
         </div>
       </div>
@@ -163,8 +164,8 @@ function CategoryView({ id }: { id: string }) {
         {panel}
       </Sheet>
 
-      <ProductSheet category={id} shards={m.shards} row={openRow} rank={openRow ? rankOf(openRow.id) : 0} scope={openRow ? scopeOf(openRow.t) : 'unstated'} weights={m.weights} sources={m.sources} onClose={() => setOpenId(null)} />
-      <CompareTray category={id} shards={m.shards} rows={compareRows} ranks={compareRows.map((r) => rankOf(r.id))} onRemove={onCompare} onClear={() => setCompare([])}
+      <ProductSheet category={id} zone={meta.zone} shards={m.shards} row={openRow} rank={openRow ? rankOf(openRow.id) : 0} scope={scopeOf(openRow?.t ?? [])} weights={m.weights} sources={m.sources} onClose={() => setOpenId(null)} />
+      <CompareTray category={id} zone={meta.zone} shards={m.shards} rows={compareRows} ranks={compareRows.map((r) => rankOf(r.id))} onRemove={onCompare} onClear={() => setCompare([])}
         open={compareOpen} onOpenChange={setCompareOpen} />
     </div>
   );

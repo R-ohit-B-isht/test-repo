@@ -5,16 +5,15 @@ import { Sheet } from '../ui/Sheet';
 import { EvidenceBadge, ScoreBadge, ScoreBar, ScoreRing, Skeleton, StatusBlock, ZoneBadge } from '../ui/primitives';
 import { EvidencePanel } from './EvidencePanel';
 import { useDetail } from '../../data/hooks';
-import type { ProductRow, ScoreKey, SourceRef } from '../../lib/types';
-import { SCORE_META } from '../../domain/scoreMeta';
+import type { PlaceTag, ProductRow, ScoreKey, SourceRef, Zone } from '../../lib/types';
+import { scoreMetaFor } from '../../domain/scoreMeta';
 import { rupees, specLabel, storeLabel } from '../../lib/format';
-import type { ScopeKey } from './ProductCard';
 
+interface Props { category: string; zone: Zone; shards: number; row: ProductRow | null; rank: number; scope: PlaceTag; weights: Record<ScoreKey, number>; sources: Record<string, SourceRef>; onClose: () => void }
 
-interface Props { category: string; shards: number; row: ProductRow | null; rank: number; scope: ScopeKey; weights: Record<ScoreKey, number>; sources: Record<string, SourceRef>; onClose: () => void }
-
-export function ProductSheet({ category, shards, row, rank, scope, weights, sources, onClose }: Props) {
+export function ProductSheet({ category, zone, shards, row, rank, scope, weights, sources, onClose }: Props) {
   const detail = useDetail(category, row?.id ?? null, shards);
+  const scoreMeta = scoreMetaFor(zone);
   const [img, setImg] = useState(0);
   const title = row ? `${row.b} — ${row.m}` : '';
   return (
@@ -77,9 +76,9 @@ export function ProductSheet({ category, shards, row, rank, scope, weights, sour
             <h3 id="scores-h" className="text-[15px] font-extrabold text-display">Score breakdown</h3>
             <p className="mt-0.5 text-[12px] text-muted">Arc length is the weight, filled part is this listing’s score out of 10 · price and seller claims are never scored</p>
             <div className="mt-4 grid gap-5 sm:grid-cols-[120px_minmax(0,1fr)] sm:items-center">
-              <div className="mx-auto"><ScoreRing total={row.s} parts={SCORE_META.map((m) => ({ label: m.label, weight: weights[m.key], value: row.sc[m.key] }))} /></div>
+              <div className="mx-auto"><ScoreRing total={row.s} parts={scoreMeta.map((m) => ({ label: m.label, weight: weights[m.key], value: row.sc[m.key] }))} /></div>
               <div className="space-y-4">
-                {SCORE_META.map((m) => <ScoreBar key={m.key} label={`${m.label} · ${Math.round(weights[m.key] * 100)}%`} value={row.sc[m.key]} hint={m.hint} />)}
+                {scoreMeta.map((m) => <ScoreBar key={m.key} label={`${m.label} · ${Math.round(weights[m.key] * 100)}%`} value={row.sc[m.key]} hint={m.hint} />)}
               </div>
             </div>
           </section>
@@ -88,7 +87,7 @@ export function ProductSheet({ category, shards, row, rank, scope, weights, sour
           {detail.status === 'loading' && <div className="space-y-2"><Skeleton className="h-4 w-1/2" /><Skeleton className="h-4" /><Skeleton className="h-4 w-5/6" /></div>}
           {detail.status === 'ready' && (
             <>
-              <EvidencePanel evidence={detail.data.evidence} sources={sources} />
+              <EvidencePanel evidence={detail.data.evidence} zone={zone} sources={sources} />
               <section className="grid grid-cols-1 gap-4 sm:grid-cols-2">
                 <div className="card p-5">
                   <h3 className="text-[14px] font-extrabold text-success">For</h3>

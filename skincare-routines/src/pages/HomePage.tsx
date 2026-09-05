@@ -98,7 +98,7 @@ export default function HomePage() {
             <div className="max-w-2xl">
               <p className="label !text-accent">Product rankings</p>
               <h2 id="products-h" className="mt-2 text-[clamp(26px,3.4vw,40px)] leading-tight text-display">Then pick the products for each step.</h2>
-              <p className="mt-3 text-[15px] leading-relaxed text-secondary">{manifest.data.total.toLocaleString('en-IN')} listings from Flipkart and Amazon.in, ranked on trust, skin safety, actives and format. Face, face + body and body kept apart.</p>
+              <p className="mt-3 text-[15px] leading-relaxed text-secondary">{manifest.data.total.toLocaleString('en-IN')} listings from Flipkart and Amazon.in, ranked on the verified ingredient list, safety, maker transparency and buyer evidence — seller claims score 0. Face, body and hair & scalp kept apart.</p>
             </div>
             <AppLink to="/products" className="btn h-11 px-5">All categories <ArrowRight size={14} /></AppLink>
           </div>

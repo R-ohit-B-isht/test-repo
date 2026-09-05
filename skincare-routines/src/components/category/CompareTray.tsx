@@ -3,17 +3,18 @@ import { clsx } from 'clsx';
 import { Sheet } from '../ui/Sheet';
 import { ScoreBadge, Skeleton } from '../ui/primitives';
 import { useDetail } from '../../data/hooks';
-import type { ProductRow, ScoreKey } from '../../lib/types';
+import type { ProductRow, ScoreKey, Zone } from '../../lib/types';
 import { rupees, specLabel, storeLabel } from '../../lib/format';
-import { SCORE_META } from '../../domain/scoreMeta';
+import { scoreMetaFor } from '../../domain/scoreMeta';
 
 interface Props {
-  category: string; shards: number; rows: ProductRow[]; ranks: number[]; onRemove: (id: string) => void; onClear: () => void;
+  category: string; zone: Zone; shards: number; rows: ProductRow[]; ranks: number[]; onRemove: (id: string) => void; onClear: () => void;
   open: boolean; onOpenChange: (open: boolean) => void;
 }
 
 /** Sticky bottom tray of up to 4 picks + a side-by-side sheet (controlled, so a toast action can open it). Never renders the whole list as a table. */
-export function CompareTray({ category, shards, rows, ranks, onRemove, onClear, open, onOpenChange }: Props) {
+export function CompareTray({ category, zone, shards, rows, ranks, onRemove, onClear, open, onOpenChange }: Props) {
+  const scoreMeta = scoreMetaFor(zone);
   const setOpen = onOpenChange;
   if (!rows.length) return null;
   return (
@@ -51,7 +52,7 @@ export function CompareTray({ category, shards, rows, ranks, onRemove, onClear, 
             </thead>
             <tbody className="divide-y divide-line border-y border-line">
               <Row label="Score">{rows.map((r) => <td key={r.id} className="py-3 pr-3"><ScoreBadge score={r.s} showVerdict={false} /></td>)}</Row>
-              {SCORE_META.map((m) => <Row key={m.key} label={m.label}>{rows.map((r) => <Cell key={r.id} best={isBest(rows, m.key, r)}>{r.sc[m.key].toFixed(1)} / 10</Cell>)}</Row>)}
+              {scoreMeta.map((m) => <Row key={m.key} label={m.label}>{rows.map((r) => <Cell key={r.id} best={isBest(rows, m.key, r)}>{r.sc[m.key].toFixed(1)} / 10</Cell>)}</Row>)}
               <Row label="Price">{rows.map((r) => <td key={r.id} className="mono py-2 pr-3 font-bold text-display">{rupees(r.p)}</td>)}</Row>
               <Row label="Rating">{rows.map((r) => <td key={r.id} className="mono py-2 pr-3 text-primary">{r.r !== null ? `${r.r}★${r.rc !== null ? ` (${r.rc.toLocaleString('en-IN')})` : ''}` : 'Not stated'}</td>)}</Row>
               <Row label="Size">{rows.map((r) => <td key={r.id} className="py-2 pr-3 text-primary">{r.q}</td>)}</Row>

@@ -8,11 +8,12 @@ const SECTIONS: { key: SectionKey; title: string; sub: string; tone: string }[] 
   { key: 'face', title: 'Face', sub: 'Cleansers, actives, treatments and care made for the face.', tone: 'zone-face' },
   { key: 'both', title: 'Face + body', sub: 'Categories where face and body products sit side by side — split them with the Face / Body control inside.', tone: 'zone-both' },
   { key: 'body', title: 'Body', sub: 'Below the neck: washes, lotions and rough-skin care.', tone: 'zone-body' },
+  { key: 'hair', title: 'Hair & scalp', sub: 'Shampoos, scalp treatments, conditioners, masks, oils, serums, leave-in creams, heat protectants and styling — split with the Scalp / Lengths control inside; scored on the published INCI, not the promise on the bottle.', tone: 'zone-hair' },
   { key: 'protocol', title: 'Protocols', sub: 'Multi-step plans with the products for each step, plus the honest timeline.', tone: 'text-accent' },
 ];
 const sectionOf = (c: CategoryMeta): SectionKey => (c.kicker === 'PROTOCOL' ? 'protocol' : c.zone);
 
-/** Category hub grouped by where the product goes — face, face + body, body — so nothing is one big dump. */
+/** Category hub grouped by where the product goes — face, face + body, body, hair — so nothing is one big dump. */
 export function CategorySections({ categories, compact }: { categories: CategoryMeta[]; compact?: boolean }) {
   return (
     <div className="space-y-12">

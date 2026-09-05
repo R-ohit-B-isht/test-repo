@@ -17,13 +17,16 @@ export default function ProductsHubPage() {
   if (manifest.status === 'error') return <StatusBlock title="Could not load the product index" body={manifest.error} />;
   if (manifest.status === 'loading') return <StatusBlock title="Loading product categories…" />;
   const m = manifest.data;
-  const byScope = m.categories.reduce((a, c) => ({ face: a.face + c.byScope.face, body: a.body + c.byScope.body, both: a.both + c.byScope.both }), { face: 0, body: 0, both: 0 });
+  // Skin placement counts only come from `scope` categories; hair listings are counted on their own, never folded into face / body.
+  const skin = m.categories.filter((c) => c.scopeGroup === 'scope').reduce((a, c) => ({ face: a.face + (c.byScope.face ?? 0), body: a.body + (c.byScope.body ?? 0), both: a.both + (c.byScope.both ?? 0) }), { face: 0, body: 0, both: 0 });
+  const hair = m.categories.filter((c) => c.zone === 'hair').reduce((n, c) => n + c.count, 0);
+  const fmt = (n: number) => n.toLocaleString('en-IN');
   return (
     <div className="pb-16">
       <Hero kicker="Product rankings · India"
-        title="Every skincare category, ranked from real listings."
+        title={hair > 0 ? 'Every skincare and hair category, ranked from real listings.' : 'Every skincare category, ranked from real listings.'}
         lede="Captured live from Flipkart and Amazon.in product pages, scored from the published ingredient list, the accountable maker and real buyer ratings — seller marketing counts for nothing. Fields the seller never stated are shown as exactly that."
-        proofs={[`${m.total.toLocaleString('en-IN')} listings · ${m.categories.length} categories`, `${byScope.face.toLocaleString('en-IN')} face · ${byScope.both.toLocaleString('en-IN')} face + body · ${byScope.body.toLocaleString('en-IN')} body`, 'Price and seller claims never scored']}
+        proofs={[`${fmt(m.total)} listings · ${m.categories.length} categories`, `${fmt(skin.face)} face · ${fmt(skin.both)} face + body · ${fmt(skin.body)} body${hair > 0 ? ` · ${fmt(hair)} hair` : ''}`, 'Price and seller claims never scored']}
         aside={
           <div className="card p-5">
             <div className="flex items-start justify-between gap-3">

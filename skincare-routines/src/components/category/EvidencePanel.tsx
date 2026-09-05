@@ -1,9 +1,9 @@
 import { ExternalLink } from 'lucide-react';
 import { clsx } from 'clsx';
-import type { Evidence, SourceRef } from '../../lib/types';
-import { INCI_META, INCI_SOURCE_META } from '../../domain/scoreMeta';
+import type { Evidence, SourceRef, Zone } from '../../lib/types';
+import { INCI_META, INCI_SOURCE_META, scoreMetaFor } from '../../domain/scoreMeta';
 
-interface Props { evidence: Evidence; sources: Record<string, SourceRef> }
+interface Props { evidence: Evidence; zone: Zone; sources: Record<string, SourceRef> }
 
 const GRADE = { A: 'RCT / systematic-review evidence', B: 'Controlled clinical studies', C: 'Mechanistic or small studies' } as const;
 
@@ -19,7 +19,8 @@ function Cite({ src, sources }: { src: string; sources: Record<string, SourceRef
 
 /** What the score was actually read from — INCI list, cited actives and irritants, verified maker, buyer ratings.
  *  Anything not available is shown as unscored; seller adjectives never appear here. */
-export function EvidencePanel({ evidence: ev, sources }: Props) {
+export function EvidencePanel({ evidence: ev, zone, sources }: Props) {
+  const safetyLabel = scoreMetaFor(zone).find((m) => m.key === 'skin')?.label ?? 'Skin safety';
   const meta = INCI_META[ev.inci];
   const verified = ev.inci === 'full';
   const kind = ev.inciSourceKind ?? 'listing';
@@ -83,7 +84,7 @@ export function EvidencePanel({ evidence: ev, sources }: Props) {
         </div>
 
         <div>
-          <p className="label">Skin safety · named irritants on the list</p>
+          <p className="label">{safetyLabel} · named irritants on the list</p>
           {!verified ? <p className="mt-1 text-muted">Unscored — no verified INCI list.</p>
             : ev.flags.length === 0 ? <p className="mt-1 text-success">No flagged fragrance, allergen, drying alcohol or harsh surfactant on the list.</p>
             : (

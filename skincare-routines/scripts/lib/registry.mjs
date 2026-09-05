@@ -5,9 +5,19 @@
 const FACE = 'face';
 const BODY = 'body';
 const BOTH = 'both';
+const HAIR = 'hair';
 
 const CORE_FACETS = ['inci', 'scope', 'format', 'ing', 'claim', 'free', 'skin', 'aud', 'size', 'rating', 'store'];
 const SUN_FACETS = ['inci', 'scope', 'spf', 'pa', 'sun', 'format', 'ing', 'claim', 'free', 'skin', 'aud', 'size', 'rating', 'store'];
+// Hair pages swap face/body scope for scalp/lengths, skin type for hair type, and benefit claims for hair concerns.
+const HAIR_FACETS = ['inci', 'area', 'format', 'ing', 'concern', 'free', 'hair', 'aud', 'size', 'rating', 'store'];
+
+/** The segmented "where does it go" control on a category page reads this group; hair uses `area`, skincare `scope`. */
+export const SCOPE_KEYS = {
+  scope: ['face', 'both', 'body', 'unstated'],
+  area: ['scalp', 'both', 'lengths', 'unstated'],
+};
+export const scopeGroupOf = (cat) => (cat.zone === HAIR ? 'area' : 'scope');
 
 export const CATEGORIES = [
   {
@@ -118,16 +128,76 @@ export const CATEGORIES = [
     file: 'pg-data.js', global: 'PIGPRODUCTS', facets: ['step', ...SUN_FACETS],
     featured: ['step:exfoliate', 'step:treat', 'step:moisturize', 'step:protect', 'scope:face', 'scope:body', 'ing:glycolic-acid', 'ing:kojic-acid', 'ing:alpha-arbutin', 'ing:tranexamic-acid', 'ing:vitamin-c', 'ing:niacinamide'],
   },
+  {
+    id: 'shampoo', label: 'Shampoo', kicker: 'WASH', zone: HAIR,
+    blurb: 'Everyday shampoos — sulfate-free, mild, keratin, volumising and colour-safe cleansers for the scalp.',
+    file: 'hr-data-shampoo.js', global: 'HAIRPRODUCTS', facets: HAIR_FACETS,
+    featured: ['free:sulfate', 'free:paraben', 'free:silicone', 'ing:keratin', 'ing:onion', 'ing:hydrolysed-protein', 'concern:dryness', 'concern:frizz', 'concern:volume', 'concern:colour-protect', 'hair:dry', 'hair:oily', 'hair:curly', 'hair:coloured'],
+  },
+  {
+    id: 'antidandruff', label: 'Anti-dandruff', kicker: 'SCALP', zone: HAIR,
+    blurb: 'Antifungal and keratolytic shampoos, lotions and scalp scrubs — ketoconazole, zinc pyrithione, piroctone olamine.',
+    file: 'hr-data-antidandruff.js', global: 'HAIRPRODUCTS', facets: HAIR_FACETS,
+    featured: ['ing:ketoconazole', 'ing:zinc-pyrithione', 'ing:piroctone-olamine', 'ing:selenium-sulfide', 'ing:salicylic-acid-bha', 'ing:tea-tree', 'concern:dandruff', 'concern:scalp-itch', 'concern:scalp-buildup', 'format:shampoo', 'format:scrub'],
+  },
+  {
+    id: 'hairfall', label: 'Hair fall & growth', kicker: 'SCALP', zone: HAIR,
+    blurb: 'Scalp serums, tonics and minoxidil solutions marketed for shedding and density — claims kept separate from formula evidence.',
+    file: 'hr-data-hairfall.js', global: 'HAIRPRODUCTS', facets: HAIR_FACETS,
+    featured: ['ing:minoxidil', 'ing:redensyl', 'ing:procapil', 'ing:anagain', 'ing:capixyl', 'ing:caffeine', 'ing:rosemary', 'ing:peptides', 'concern:hair-fall', 'concern:hair-growth', 'concern:thinning', 'format:serum', 'format:solution', 'format:shampoo'],
+  },
+  {
+    id: 'conditioner', label: 'Conditioner', kicker: 'CONDITION', zone: HAIR,
+    blurb: 'Rinse-out and leave-in conditioners — the detangling, friction-reducing step after every wash.',
+    file: 'hr-data-conditioner.js', global: 'HAIRPRODUCTS', facets: HAIR_FACETS,
+    featured: ['format:leave-in', 'ing:keratin', 'ing:hydrolysed-protein', 'ing:amino-acids', 'ing:argan-oil', 'concern:frizz', 'concern:damage-repair', 'concern:smoothing', 'concern:curl-definition', 'free:sulfate', 'free:silicone', 'hair:curly', 'hair:coloured'],
+  },
+  {
+    id: 'hairmask', label: 'Hair mask', kicker: 'TREAT', zone: HAIR,
+    blurb: 'Deep-conditioning masks, hair spa creams and bond-repair treatments — the weekly lengths treatment.',
+    file: 'hr-data-hairmask.js', global: 'HAIRPRODUCTS', facets: HAIR_FACETS,
+    featured: ['ing:keratin', 'ing:bond-builder', 'ing:hydrolysed-protein', 'ing:argan-oil', 'ing:shea-butter', 'concern:damage-repair', 'concern:split-ends', 'concern:frizz', 'concern:dryness', 'hair:damaged', 'hair:coloured', 'hair:curly'],
+  },
+  {
+    id: 'hairoil', label: 'Hair oil', kicker: 'OIL', zone: HAIR,
+    blurb: 'Pre-wash and scalp oils — coconut, almond, argan, onion and ayurvedic bhringraj / amla blends.',
+    file: 'hr-data-hairoil.js', global: 'HAIRPRODUCTS', facets: HAIR_FACETS,
+    featured: ['ing:coconut', 'ing:almond', 'ing:argan-oil', 'ing:onion', 'ing:bhringraj', 'ing:amla', 'ing:rosemary', 'ing:castor-oil', 'ing:hibiscus', 'concern:hair-fall', 'concern:dryness', 'concern:dandruff', 'concern:greying'],
+  },
+  {
+    id: 'hairserum', label: 'Hair serum', kicker: 'FINISH', zone: HAIR,
+    blurb: 'Leave-in serums for the lengths — frizz, shine and smoothing, usually silicone- or oil-based.',
+    file: 'hr-data-hairserum.js', global: 'HAIRPRODUCTS', facets: HAIR_FACETS,
+    featured: ['format:leave-in', 'format:mist', 'ing:argan-oil', 'ing:keratin', 'ing:squalane', 'ing:dimethicone-silicones', 'concern:frizz', 'concern:shine', 'concern:smoothing', 'concern:split-ends', 'hair:curly', 'hair:damaged', 'free:silicone'],
+  },
+  {
+    id: 'haircream', label: 'Hair cream & moisturiser', kicker: 'FINISH', zone: HAIR,
+    blurb: 'Leave-in creams, lotions, butters and curl creams that moisturise the lengths between washes — no rinse, no hold.',
+    file: 'hr-data-haircream.js', global: 'HAIRPRODUCTS', facets: HAIR_FACETS,
+    featured: ['format:leave-in', 'format:cream', 'ing:shea-butter', 'ing:argan-oil', 'ing:coconut', 'ing:glycerin', 'ing:aloe-vera', 'concern:dryness', 'concern:frizz', 'concern:curl-definition', 'concern:smoothing', 'hair:curly', 'hair:dry', 'hair:damaged'],
+  },
+  {
+    id: 'heatprotect', label: 'Heat protectant', kicker: 'BEFORE HEAT', zone: HAIR,
+    blurb: 'Sprays, serums and creams applied before a dryer, straightener or curler — film-formers that slow heat damage to the shaft.',
+    file: 'hr-data-heatprotect.js', global: 'HAIRPRODUCTS', facets: HAIR_FACETS,
+    featured: ['format:heat-protectant', 'format:mist', 'format:serum', 'format:cream', 'ing:dimethicone-silicones', 'ing:hydrolysed-protein', 'ing:keratin', 'ing:argan-oil', 'concern:heat-protection', 'concern:frizz', 'concern:damage-repair', 'hair:damaged', 'hair:coloured'],
+  },
+  {
+    id: 'hairstyling', label: 'Hair wax, clay & gel', kicker: 'STYLE', zone: HAIR,
+    blurb: 'Hold and texture for the lengths — wax, clay, pomade, gel, spray, mousse and powder. Scored on formula and safety, not on hold claims.',
+    file: 'hr-data-hairstyling.js', global: 'HAIRPRODUCTS', facets: HAIR_FACETS,
+    featured: ['format:wax', 'format:clay', 'format:pomade', 'format:gel', 'format:hair-spray', 'format:mousse', 'format:powder', 'concern:hold', 'concern:matte-finish', 'concern:volume', 'free:alcohol', 'free:paraben', 'aud:men'],
+  },
 ];
 
-export const ZONE_LABELS = { face: 'FACE', body: 'BODY', both: 'FACE + BODY' };
+export const ZONE_LABELS = { face: 'FACE', body: 'BODY', both: 'FACE + BODY', hair: 'HAIR' };
 
 // Evidence-first: formula and skin-safety are read only from a verified full INCI list, trust from the
 // accountable maker + ingredient transparency, experience from real buyer ratings. Seller claims score 0.
 export const WEIGHTS = { ingredients: 0.40, skin: 0.25, trust: 0.20, experience: 0.15 };
 export const CRITERIA = {
   ingredients: 'Formula (verified INCI)',
-  skin: 'Skin safety (verified INCI)',
+  skin: 'Skin & scalp safety (verified INCI)',
   trust: 'Maker accountability & transparency',
   experience: 'Buyer evidence',
 };

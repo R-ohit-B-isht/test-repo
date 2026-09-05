@@ -1,10 +1,11 @@
 import { useEffect, useRef, useState } from 'react';
 import { useWindowVirtualizer } from '@tanstack/react-virtual';
-import type { CategoryIndex } from '../../domain/index';
-import { ProductCard, type ScopeKey } from './ProductCard';
+import { placeResolver, type CategoryIndex } from '../../domain/index';
+import type { ScopeGroup } from '../../lib/types';
+import { ProductCard } from './ProductCard';
 
 interface Props {
-  idx: CategoryIndex; positions: Uint32Array; compare: string[]; compareMax: number;
+  idx: CategoryIndex; scopeGroup: ScopeGroup; positions: Uint32Array; compare: string[]; compareMax: number;
   onOpen: (id: string) => void; onCompare: (id: string) => void;
 }
 
@@ -12,7 +13,7 @@ const ROW_ESTIMATE = 128;
 const GAP = 8;
 
 /** Windowed ranked list: one row per listing, only the rows in (and just around) the viewport exist in the DOM. */
-export function ProductList({ idx, positions, compare, compareMax, onOpen, onCompare }: Props) {
+export function ProductList({ idx, scopeGroup, positions, compare, compareMax, onOpen, onCompare }: Props) {
   const wrap = useRef<HTMLOListElement>(null);
   const [margin, setMargin] = useState(0);
   useEffect(() => {
@@ -24,9 +25,7 @@ export function ProductList({ idx, positions, compare, compareMax, onOpen, onCom
   }, [positions.length]);
 
   const v = useWindowVirtualizer({ count: positions.length, estimateSize: () => ROW_ESTIMATE, overscan: 6, scrollMargin: margin, gap: GAP });
-  const scopeTags = new Map<number, ScopeKey>();
-  for (const s of ['face', 'body', 'both', 'unstated'] as ScopeKey[]) { const p = idx.tagPos.get(`scope:${s}`); if (p !== undefined) scopeTags.set(p, s); }
-  const scopeOf = (t: number[]): ScopeKey => { for (const x of t) { const s = scopeTags.get(x); if (s) return s; } return 'unstated'; };
+  const scopeOf = placeResolver(idx, scopeGroup);
 
   return (
     <ol ref={wrap} className="relative w-full list-none p-0" style={{ height: v.getTotalSize() }} aria-label="Ranked listings">

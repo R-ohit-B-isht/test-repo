@@ -8,6 +8,7 @@ const slug = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)
 const GROUPS = {
   inci: { label: 'Evidence', hint: 'What the score is actually based on', mode: 'and' },
   scope: { label: 'Face / body', hint: 'Where the listing says to use it', mode: 'or' },
+  area: { label: 'Scalp / lengths', hint: 'Where on the hair the listing says to use it', mode: 'or' },
   format: { label: 'Format', hint: 'Texture / form stated in the listing', mode: 'or' },
   spf: { label: 'SPF', hint: 'Sun protection factor stated', mode: 'or' },
   pa: { label: 'PA rating', hint: 'UVA rating stated', mode: 'or' },
@@ -16,6 +17,8 @@ const GROUPS = {
   claim: { label: 'Benefit claims', hint: "Seller's own claims, not tested", mode: 'or' },
   free: { label: 'Free-from & safety', hint: 'Claims stated in the listing', mode: 'and' },
   skin: { label: 'Skin type', hint: 'As stated in the listing', mode: 'or' },
+  hair: { label: 'Hair type', hint: 'As stated in the listing', mode: 'or' },
+  concern: { label: 'Hair concern', hint: "Seller's own claims, not tested", mode: 'or' },
   aud: { label: 'Audience', hint: 'Marketing audience', mode: 'or' },
   size: { label: 'Pack size', hint: 'From the stated quantity', mode: 'or' },
   rating: { label: 'Buyer rating', hint: 'Marketplace rating', mode: 'or' },
@@ -27,6 +30,90 @@ const SCOPE = {
   body: /\bbody\b|\bhands?\b|\blegs?\b|\barms?\b|\bfeet\b|\bfoot\b|\bneck\b|underarms?|elbows?|knees?|\bback\s*acne|bikini/,
   face: /\bface\b|facial|under[\s-]*eye|\beyes?\b|\blips?\b|cheeks?|t[\s-]*zone/,
 };
+
+// Hair products are used on the scalp, along the lengths, or both — the hair equivalent of face / body.
+const AREA = {
+  scalp: /\bscalp\b|dandruff|\broots?\b|hair\s*fall|hair\s*loss|hair\s*(?:re)?growth|follicl|seborrh|\bflakes?\b|flaking|itch/,
+  lengths: /\blengths?\b|split\s*ends|\bhair\s*ends?\b|\bshaft\b|\bstrands?\b|mid[\s-]*length|frizz|\bcuticle\b/,
+};
+
+// Formats that only exist in hair care; kept out of the skincare tag pass so those pages are untouched.
+const HAIR_FORMATS = [
+  ['shampoo', 'Shampoo', /shampoo/],
+  ['dry-shampoo', 'Dry shampoo', /dry\s*shampoo/],
+  ['conditioner', 'Conditioner', /conditioner/],
+  ['leave-in', 'Leave-in', /leave[\s-]*in/],
+  ['hair-mask', 'Hair mask / spa', /hair\s*(?:mask|spa|pack)|deep\s*conditioning\s*mask/],
+  ['heat-protectant', 'Heat protectant', /heat\s*protect/],
+  ['solution', 'Topical solution', /topical\s*solution/],
+  ['hair-tonic', 'Hair / scalp tonic', /(?:hair|scalp)\s*tonic/],
+  ['wax', 'Wax', /\bwax\b/],
+  ['clay', 'Clay', /\bclay\b/],
+  ['pomade', 'Pomade', /pomade/],
+  ['hair-spray', 'Hair spray / setting spray', /hair\s*spray|setting\s*spray|hold\s*spray|hairspray/],
+  ['mousse', 'Mousse', /mousse/],
+  ['paste', 'Paste / putty / fibre', /\bpaste\b|\bputty\b|\bfib(?:re|er)\b/],
+  ['texture-spray', 'Texturising / sea-salt spray', /textur|sea\s*salt/],
+];
+/** Skincare formats that never describe a hair product (a hair "clay" is a styler, not a mud mask). */
+const SKIN_ONLY_FORMATS = new Set(['sheet-mask', 'clay-mask', 'peel-off', 'sleeping-mask', 'pack', 'micellar', 'patch', 'pads', 'peel', 'bar', 'capsule']);
+const SKIN_ONLY_INGREDIENTS = new Set(['clay']);
+
+// Hair-relevant ingredients named on listings, on top of the shared skincare list.
+const HAIR_INGREDIENTS = [
+  ['Ketoconazole', /ketoconazole/], ['Zinc pyrithione', /pyrithione|\bzpto\b/], ['Piroctone olamine', /piroctone/],
+  ['Selenium sulfide', /selenium\s*sulph?ide/], ['Climbazole', /climbazole/], ['Coal tar', /coal\s*tar/],
+  ['Minoxidil', /minoxidil/], ['Redensyl', /redensyl/], ['Procapil', /procapil/], ['Anagain', /anagain/],
+  ['Capixyl', /capixyl/], ['Baicapil', /baicapil/], ['Rosemary', /rosemary/], ['Onion', /\bonion\b|\bpyaz\b/],
+  ['Bhringraj', /bhringraj|bhringadi|eclipta/], ['Amla', /\bamla\b|emblica/], ['Hibiscus', /hibiscus|\bjaba\b/],
+  ['Brahmi', /brahmi|bacopa/], ['Jaborandi', /jaborandi/], ['Fenugreek', /fenugreek|\bmethi\b/],
+  ['Curry leaf', /curry\s*lea/], ['Castor oil', /castor/], ['Keratin', /keratin/], ['Biotin', /biotin/],
+  ['Hydrolysed protein', /hydroly[sz]ed\s*(?:wheat|soy|rice|silk|keratin|protein)|wheat\s*protein|silk\s*protein/],
+  ['Amino acids', /amino\s*acids?/], ['Apple cider vinegar', /apple\s*cider|\bacv\b/],
+  ['Henna', /\bhenna\b|lawsonia/], ['Bond builder', /bond\s*(?:build|repair|plex)|\bolaplex\b/],
+  ['Rice water', /rice\s*water/], ['Moringa', /moringa/], ['Sesame oil', /sesame|\btil\b/],
+  ['Mustard oil', /mustard|sarson/], ['Batana oil', /batana/], ['Marula oil', /marula/],
+  ['Dimethicone / silicones', /dimethicone|silicone(?![\s-]*free)|cyclopentasiloxane|amodimethicone/],
+  ['Panthenol', /panthenol|pro[\s-]*vitamin\s*b5|\bb5\b/], ['Ceramides', /ceramide/], ['Beeswax', /beeswax|cera\s*alba/],
+];
+
+// Hair concerns — seller claims, exactly as with skincare benefit claims: never treated as proof.
+const HAIR_CONCERNS = [
+  ['dandruff', 'Dandruff / flakes', /dandruff|\bflakes?\b|flaking|seborrh|\bmalassezia\b/],
+  ['scalp-itch', 'Itchy scalp', /itch|\birritated\s*scalp\b/],
+  ['scalp-buildup', 'Scalp build-up / clarifying', /build[\s-]*up|clarify|product\s*residue|detox\s*scalp|scalp\s*scrub/],
+  ['oily-scalp', 'Oily scalp / greasiness', /oily\s*(?:scalp|hair|roots)|greasy|excess\s*(?:oil|sebum)|sebum/],
+  ['hair-fall', 'Hair fall / shedding', /hair\s*fall|hair\s*loss|shedding|\bfall[\s-]*control\b/],
+  ['hair-growth', 'Hair growth (claim)', /hair\s*(?:re)?growth|regrow|\bgrow(?:th|s)?\s*hair\b/],
+  ['thinning', 'Thinning / density', /thinning|\bdensity\b|thicker\s*hair|thickening|\bbald/],
+  ['frizz', 'Frizz control', /frizz|\bfly[\s-]*aways?\b|unmanageable/],
+  ['damage-repair', 'Damage repair', /\bdamaged?\b|\brepair\b|\bbreakage\b|\bbrittle\b/],
+  ['split-ends', 'Split ends', /split\s*ends/],
+  ['dryness', 'Dryness / hydration', /\bdry\b|dryness|hydrat|moistur|nourish/],
+  ['smoothing', 'Smoothing / straightening', /smooth|straighten|\bsleek\b|anti[\s-]*frizz/],
+  ['shine', 'Shine / gloss', /\bshine\b|glossy|\bgloss\b|lustre|luster|\bshiny\b/],
+  ['volume', 'Volume / body', /volumi[sz]|\bvolume\b|\bbouncy\b|\blift\b/],
+  ['curl-definition', 'Curl definition', /curl\s*(?:defin|enhanc|cream)|\bcurls?\b|\bcoils?\b/],
+  ['colour-protect', 'Colour protection', /colou?r\s*(?:protect|safe|care|lock)|after[\s-]*colou?r/],
+  ['greying', 'Premature greying (claim)', /grey|gray|white\s*hair|pigmentation\s*of\s*hair/],
+  ['heat-protection', 'Heat protection', /heat\s*protect|thermal\s*protect|blow[\s-]*dry\s*protect/],
+  ['scalp-health', 'Scalp health', /scalp\s*(?:health|care|barrier|microbiome|soothing)/],
+  ['hold', 'Hold (styling)', /\bhold\b|\bholding\b/],
+  ['matte-finish', 'Matte finish', /\bmatte\b|no\s*shine|natural\s*finish/],
+  ['restyle', 'Restylable / no flakes', /re[\s-]*styl|no\s*flak|non[\s-]*flak|no\s*residue|non[\s-]*sticky/],
+  ['wash-out', 'Washes out easily', /wash(?:es)?\s*out\s*easily|water[\s-]*(?:based|soluble)/],
+];
+
+const HAIR_TYPES = [
+  ['dry', 'Dry hair', /\bdry\s*(?:hair|scalp)\b|for\s*dry\b/], ['oily', 'Oily hair / scalp', /\boily\b/],
+  ['curly', 'Curly hair', /\bcurly\b|\bcurls?\b|\bcoily\b/], ['wavy', 'Wavy hair', /\bwavy\b|\bwaves\b/],
+  ['straight', 'Straight hair', /\bstraight\s*hair\b/], ['damaged', 'Damaged hair', /\bdamaged\b|\bbrittle\b|\bbreakage\b/],
+  ['coloured', 'Coloured / chemically treated', /colou?r(?:ed|[\s-]*treated)|chemically\s*treated|bleached|keratin[\s-]*treated/],
+  ['fine', 'Fine / thin hair', /\bfine\s*hair\b|\bthin\s*hair\b|\blimp\b/],
+  ['thick', 'Thick / coarse hair', /\bthick\s*hair\b|\bcoarse\b|\bfrizzy\s*thick\b/],
+  ['textured', 'Textured / afro hair', /\btextured\b|\bafro\b|\bkinky\b/],
+  ['all', 'All hair types', /all\s*hair\s*types?/],
+];
 
 const FORMATS = [
   ['gel', 'Gel', /\bgel\b|gel[\s-]*cr[eè]me|gel[\s-]*cream/],
@@ -191,20 +278,42 @@ for (const [name] of INGREDIENTS) (LABELS.ing ||= {})[slug(name)] = name;
 for (const [id, label] of CLAIMS) (LABELS.claim ||= {})[id] = label;
 for (const [id, label] of FREE) (LABELS.free ||= {})[id] = label;
 for (const [id, label] of SKIN) (LABELS.skin ||= {})[id] = label;
+for (const [id, label] of HAIR_FORMATS) (LABELS.format ||= {})[id] = label;
+for (const [name] of HAIR_INGREDIENTS) (LABELS.ing ||= {})[slug(name)] = name;
+for (const [id, label] of HAIR_CONCERNS) (LABELS.concern ||= {})[id] = label;
+for (const [id, label] of HAIR_TYPES) (LABELS.hair ||= {})[id] = label;
+LABELS.area = { scalp: 'Scalp', lengths: 'Lengths & ends', both: 'Scalp + lengths', unstated: 'Area not stated' };
 for (let i = 1; i <= 4; i++) (LABELS.pa ||= {})['+'.repeat(i)] = 'PA' + '+'.repeat(i);
 
-/** @returns {string[]} tags like 'scope:face', 'ing:niacinamide', 'spf:50' */
-function tagsOf({ title, blob = '', qty = null, rating = null, store = null, step = null }) {
+/**
+ * @param {{family?: 'skin'|'hair'}} input `family` picks the tag vocabulary: skincare pages keep face/body scope,
+ *   skin types and benefit claims; hair pages get scalp/lengths area, hair types and hair concerns instead.
+ * @returns {string[]} tags like 'scope:face', 'area:scalp', 'ing:niacinamide', 'spf:50'
+ */
+function tagsOf({ title, blob = '', qty = null, rating = null, store = null, step = null, family = 'skin' }) {
   const t = (title + ' ' + blob).toLowerCase();
   const out = [];
-  const body = SCOPE.body.test(t), face = SCOPE.face.test(t);
-  out.push('scope:' + (body && face ? 'both' : body ? 'body' : face ? 'face' : 'unstated'));
-  for (const [id, , re] of FORMATS) if (re.test(t)) out.push('format:' + id);
+  const hair = family === 'hair';
+  if (hair) {
+    const scalp = AREA.scalp.test(t), lengths = AREA.lengths.test(t);
+    out.push('area:' + (scalp && lengths ? 'both' : scalp ? 'scalp' : lengths ? 'lengths' : 'unstated'));
+  } else {
+    const body = SCOPE.body.test(t), face = SCOPE.face.test(t);
+    out.push('scope:' + (body && face ? 'both' : body ? 'body' : face ? 'face' : 'unstated'));
+  }
+  for (const [id, , re] of FORMATS) if (re.test(t) && !(hair && SKIN_ONLY_FORMATS.has(id))) out.push('format:' + id);
+  if (hair) for (const [id, , re] of HAIR_FORMATS) if (re.test(t)) out.push('format:' + id);
   spfTags(t, out);
-  for (const [name, re] of INGREDIENTS) if (re.test(t)) out.push('ing:' + slug(name));
-  for (const [id, , re] of CLAIMS) if (re.test(t)) out.push('claim:' + id);
+  for (const [name, re] of INGREDIENTS) if (re.test(t) && !(hair && SKIN_ONLY_INGREDIENTS.has(slug(name)))) out.push('ing:' + slug(name));
+  if (hair) for (const [name, re] of HAIR_INGREDIENTS) if (re.test(t)) out.push('ing:' + slug(name));
+  if (hair) {
+    for (const [id, , re] of HAIR_CONCERNS) if (re.test(t)) out.push('concern:' + id);
+    for (const [id, , re] of HAIR_TYPES) if (re.test(t)) out.push('hair:' + id);
+  } else {
+    for (const [id, , re] of CLAIMS) if (re.test(t)) out.push('claim:' + id);
+    for (const [id, , re] of SKIN) if (re.test(t)) out.push('skin:' + id);
+  }
   for (const [id, , re] of FREE) if (re.test(t)) out.push('free:' + id);
-  for (const [id, , re] of SKIN) if (re.test(t)) out.push('skin:' + id);
   const men = /\bmen\b|for\s*men|\bmale\b|\bhim\b/.test(t) && !/women/.test(t);
   const women = /women|\bher\b|\bgirls?\b/.test(t) && !men;
   const kids = /\bkids?\b|\bbaby\b|babies|children|toddler/.test(t);

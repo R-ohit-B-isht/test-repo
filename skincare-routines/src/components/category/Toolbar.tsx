@@ -1,12 +1,11 @@
 import { ArrowDownUp, Check, ChevronDown, Link2, Search, SlidersHorizontal, X } from 'lucide-react';
-import { useEffect, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { clsx } from 'clsx';
-import { SORT_KEYS, SORT_STRATEGIES, type SortKey } from '../../domain/sort';
+import { sortOptionsFor, type SortKey } from '../../domain/sort';
 import type { CategoryIndex } from '../../domain/index';
+import type { Zone } from '../../lib/types';
 import { RadioMenu } from '../ui/RadioMenu';
 import { toast } from '../../state/toastStore';
-
-const SORT_OPTIONS = SORT_KEYS.map((k) => ({ value: k, label: SORT_STRATEGIES[k].label, hint: SORT_STRATEGIES[k].hint }));
 
 /** Copies the current URL (filters, sort and search all live in it) so a filtered view can be shared. */
 async function copyView(): Promise<boolean> {
@@ -14,13 +13,15 @@ async function copyView(): Promise<boolean> {
 }
 
 interface Props {
-  idx: CategoryIndex; featured: string[]; selected: string[]; live: { base: Uint32Array; byGroup: Map<string, Uint32Array> };
+  idx: CategoryIndex; zone: Zone; featured: string[]; selected: string[]; live: { base: Uint32Array; byGroup: Map<string, Uint32Array> };
   sort: SortKey; onSort: (k: SortKey) => void; query: string; onQuery: (q: string) => void;
   onToggle: (tag: string) => void; onOpenFilters: () => void; activeCount: number; resultCount: number;
 }
 
 /** Search + featured chips (Etsy / Kayak), an IMDb-style "N results · Sorted by ▾" line with a Booking-style single-choice sort menu, and a copy-link action. Only tags that exist in the data appear. */
-export function Toolbar({ idx, featured, selected, live, sort, onSort, query, onQuery, onToggle, onOpenFilters, activeCount, resultCount }: Props) {
+export function Toolbar({ idx, zone, featured, selected, live, sort, onSort, query, onQuery, onToggle, onOpenFilters, activeCount, resultCount }: Props) {
+  const sortOptions = useMemo(() => sortOptionsFor(zone), [zone]);
+  const sortLabel = sortOptions.find((o) => o.value === sort)?.label ?? sort;
   const [q, setQ] = useState(query);
   const [seen, setSeen] = useState(query);
   if (query !== seen) { setSeen(query); setQ(query); }
@@ -61,13 +62,13 @@ export function Toolbar({ idx, featured, selected, live, sort, onSort, query, on
           <span className="mono font-extrabold text-display">{resultCount.toLocaleString('en-IN')}</span> of {idx.items.length.toLocaleString('en-IN')} listings
         </p>
         <div className="flex items-center gap-1">
-          <RadioMenu<SortKey> value={sort} options={SORT_OPTIONS} onChange={onSort} triggerLabel="Sort by" heading="Sort by"
+          <RadioMenu<SortKey> value={sort} options={sortOptions} onChange={onSort} triggerLabel="Sort by" heading="Sort by"
             triggerClassName="press flex h-9 items-center gap-1.5 rounded-full px-2 text-[14px] text-secondary hover:bg-raised"
             trigger={(open) => (
               <>
                 <ArrowDownUp size={14} aria-hidden />
                 <span className="hidden sm:inline">Sorted by</span>
-                <span className="font-extrabold text-display">{SORT_STRATEGIES[sort].label}</span>
+                <span className="font-extrabold text-display">{sortLabel}</span>
                 <ChevronDown size={14} className={clsx('text-display transition-transform duration-200', open && 'rotate-180')} aria-hidden />
               </>
             )} />

@@ -1,16 +1,16 @@
 import { useEffect, useRef, useState, type ReactNode } from 'react';
 import { clsx } from 'clsx';
 import { ShieldAlert, ShieldCheck } from 'lucide-react';
-import type { InciSourceKind, InciStatus, Zone } from '../../lib/types';
+import type { InciSourceKind, InciStatus, PlaceTag, Zone } from '../../lib/types';
 import { scoreClass, usePrefersReducedMotion, verdict } from '../../lib/format';
-import { INCI_META, INCI_SOURCE_META } from '../../domain/scoreMeta';
+import { INCI_META, INCI_SOURCE_META, PLACE_META } from '../../domain/scoreMeta';
 
-export function ZoneBadge({ zone, className }: { zone: Zone | 'unstated'; className?: string }) {
-  const label = { face: 'Face', body: 'Body', both: 'Face + body', unstated: 'Scope not stated' }[zone];
+export function ZoneBadge({ zone, className }: { zone: Zone | PlaceTag; className?: string }) {
+  const meta = PLACE_META[zone];
   return (
-    <span className={clsx('label inline-flex items-center gap-1.5', zone !== 'unstated' ? `zone-${zone}` : 'text-muted', className)}>
+    <span className={clsx('label inline-flex items-center gap-1.5', meta.tone, className)}>
       <span className="h-2 w-2 rounded-full bg-current" aria-hidden />
-      {label}
+      {meta.label}
     </span>
   );
 }

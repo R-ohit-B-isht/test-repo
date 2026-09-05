@@ -1,4 +1,5 @@
-import type { ProductRow } from '../lib/types';
+import type { ProductRow, Zone } from '../lib/types';
+import { scoreMetaFor } from './scoreMeta';
 
 export type SortKey = 'score' | 'trust' | 'skin' | 'ingredients' | 'experience' | 'rating' | 'reviews' | 'priceAsc' | 'priceDesc';
 
@@ -21,6 +22,17 @@ export const SORT_STRATEGIES: Record<SortKey, { label: string; hint: string; cmp
 };
 
 export const SORT_KEYS = Object.keys(SORT_STRATEGIES) as SortKey[];
+
+export interface SortOption { value: SortKey; label: string; hint: string }
+
+/** Sort options with the safety dimension named for the zone ("Skin safety" on skincare pages, "Scalp & hair safety" on hair pages). */
+export function sortOptionsFor(zone: Zone): SortOption[] {
+  const safety = scoreMetaFor(zone).find((m) => m.key === 'skin');
+  return SORT_KEYS.map((k) => {
+    const s = SORT_STRATEGIES[k];
+    return k === 'skin' && safety ? { value: k, label: `${safety.label} (verified INCI)`, hint: s.hint } : { value: k, label: s.label, hint: s.hint };
+  });
+}
 export const isSortKey = (s: string | null): s is SortKey => !!s && s in SORT_STRATEGIES;
 
 export function sortPositions(items: ProductRow[], positions: Uint32Array, key: SortKey): Uint32Array {

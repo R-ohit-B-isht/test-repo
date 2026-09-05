@@ -11,7 +11,7 @@ import path from 'node:path';
 import vm from 'node:vm';
 import { createRequire } from 'node:module';
 import { fileURLToPath } from 'node:url';
-import { CATEGORIES, WEIGHTS, CRITERIA, ROUTINE_WEIGHTS, ROUTINE_CRITERIA, PHASES, phaseOf, ROUTINE_CATEGORY_LABELS, ZONE_LABELS } from './lib/registry.mjs';
+import { CATEGORIES, WEIGHTS, CRITERIA, ROUTINE_WEIGHTS, ROUTINE_CRITERIA, PHASES, phaseOf, ROUTINE_CATEGORY_LABELS, ZONE_LABELS, SCOPE_KEYS, scopeGroupOf } from './lib/registry.mjs';
 import { assertBenchmarkSet, matchBenchmark, publicBenchmark } from './lib/benchmarks.mjs';
 
 const require = createRequire(import.meta.url);
@@ -90,7 +90,8 @@ for (const cat of CATEGORIES) {
   const tagCount = new Map();
   const items = [];
   const details = Array.from({ length: SHARDS }, () => ({}));
-  const byScope = { face: 0, body: 0, both: 0, unstated: 0 };
+  const scopeGroup = scopeGroupOf(cat);
+  const byScope = Object.fromEntries(SCOPE_KEYS[scopeGroup].map((k) => [k, 0]));
   for (const rec of raw) {
     assertReal(rec, cat.file);
     if (seen.has(rec.id)) continue;
@@ -100,7 +101,7 @@ for (const cat of CATEGORIES) {
       tagCount.set(tag, (tagCount.get(tag) || 0) + 1);
       return tagPos.get(tag);
     });
-    const scope = rec.tags.find((x) => x.startsWith('scope:'))?.slice(6) || 'unstated';
+    const scope = rec.tags.find((x) => x.startsWith(scopeGroup + ':'))?.slice(scopeGroup.length + 1) || 'unstated';
     byScope[scope] = (byScope[scope] || 0) + 1;
     const { r, rc } = parseRating(rec.fullSpec?.rating);
     items.push({
@@ -125,7 +126,7 @@ for (const cat of CATEGORIES) {
   fs.writeFileSync(path.join(OUT, `${cat.id}.json`), JSON.stringify({ id: cat.id, count: items.length, tagIndex, facets, items }));
   details.forEach((d, i) => fs.writeFileSync(path.join(OUT, `${cat.id}.d${i}.json`), JSON.stringify(d)));
   manifest.categories.push({
-    id: cat.id, label: cat.label, kicker: cat.kicker, zone: cat.zone, blurb: cat.blurb, facets: cat.facets,
+    id: cat.id, label: cat.label, kicker: cat.kicker, zone: cat.zone, blurb: cat.blurb, facets: cat.facets, scopeGroup,
     featured: cat.featured.filter((tag) => tagCount.has(tag)), count: items.length, byScope,
     stores: { flipkart: tagCount.get('store:flipkart') || 0, amazon: tagCount.get('store:amazon') || 0 },
     priceMax: Math.max(...items.map((x) => x.p)),
@@ -135,7 +136,8 @@ for (const cat of CATEGORIES) {
   const market = matchBenchmark(bench, items);
   manifest.benchmarks.push(publicBenchmark(bench, market));
   const marketLine = market.status === 'not-found' ? 'no listing' : `${market.status} #${market.rank}/${market.of} ${market.title.slice(0, 50)}`;
-  console.log(`${cat.id.padEnd(13)} ${String(items.length).padStart(5)}  facets=${Object.keys(facets).length}  tags=${tagIndex.length}  face/body/both/unstated=${byScope.face}/${byScope.body}/${byScope.both}/${byScope.unstated}  benchmark=${bench.brand} ${bench.name} → ${marketLine}`);
+  const scopeLine = SCOPE_KEYS[scopeGroup].map((k) => `${k} ${byScope[k]}`).join(' / ');
+  console.log(`${cat.id.padEnd(13)} ${String(items.length).padStart(5)}  facets=${Object.keys(facets).length}  tags=${tagIndex.length}  ${scopeLine}  benchmark=${bench.brand} ${bench.name} → ${marketLine}`);
 }
 
 // Routines (data.js .. data4.js push into one ROUTINES array)

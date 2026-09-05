@@ -1,14 +1,17 @@
 // Formula + skin-safety scores computed ONLY from a verified (status 'full') INCI list.
 // Position on the list is the concentration proxy the law gives us: ingredients are declared in descending
 // order down to 1%, and anything after the first preservative-type marker is ≤1% (EU 1223/2009 Art. 19).
-const { ACTIVES, MILD_SURFACTANTS, ONE_PERCENT_MARKERS } = require('./inci-kb.cjs');
+const { ACTIVES, HAIR_ACTIVES, MILD_SURFACTANTS, ONE_PERCENT_MARKERS } = require('./inci-kb.cjs');
 const { FLAGS } = require('./inci-flags.cjs');
 
 const GRADE_PTS = { A: 2.0, B: 1.2, C: 0.4 };
-const RINSE_OFF = new Set(['facewash', 'bodywash', 'exfoliator', 'facemask']);
+// Hair: shampoos, conditioners and masks are rinsed; oils, serums and the hair-fall page (mostly leave-on scalp
+// serums / minoxidil, shampoos only a minority) are judged as leave-on — the stricter, honest default.
+const HAIR = new Set(['shampoo', 'antidandruff', 'hairfall', 'conditioner', 'hairmask', 'hairoil', 'hairserum', 'haircream', 'heatprotect', 'hairstyling']);
+const RINSE_OFF = new Set(['facewash', 'bodywash', 'exfoliator', 'facemask', 'shampoo', 'antidandruff', 'conditioner', 'hairmask']);
 const FACE = new Set(['facewash', 'toner', 'essence', 'vitaminc', 'niacinamide', 'retinol', 'exfoliator', 'salicylic',
   'moisturizer', 'sunscreen', 'facemask', 'eyecream', 'faceoil', 'detan', 'pigmentation']);
-const WASH = new Set(['facewash', 'bodywash']);
+const WASH = new Set(['facewash', 'bodywash', 'shampoo', 'antidandruff']);
 const UVA_FILTERS = new Set(['zinc oxide', 'butyl methoxydibenzoylmethane', 'avobenzone', 'bis-ethylhexyloxyphenol methoxyphenyl triazine',
   'methylene bis-benzotriazolyl tetramethylbutylphenol', 'diethylamino hydroxybenzoyl hexyl benzoate', 'terephthalylidene dicamphor sulfonic acid',
   'drometrizole trisiloxane', 'methoxypropylamino cyclohexenylidene ethoxyethylcyanoacetate', 'tris-biphenyl triazine']);
@@ -16,7 +19,9 @@ const STABILISERS = new Set(['octocrylene', 'bis-ethylhexyloxyphenol methoxyphen
 const HUMECTANTS = new Set(['glycerin', 'sodium hyaluronate', 'hyaluronic acid', 'hydrolyzed hyaluronic acid', 'panthenol', 'urea', 'sodium pca', 'betaine', 'propanediol', 'butylene glycol']);
 const BARRIER = new Set(['ceramide np', 'ceramide ap', 'ceramide eop', 'ceramide ns', 'ceramide eos', 'cholesterol', 'squalane', 'petrolatum', 'dimethicone', 'shea butter', 'butyrospermum parkii butter', 'niacinamide']);
 
-const ACTIVE_BY_NAME = new Map(ACTIVES.map(([name, grade, src, roles]) => [name, { name, grade, src, roles: new Set(roles) }]));
+const toMap = (list) => new Map(list.map(([name, grade, src, roles]) => [name, { name, grade, src, roles: new Set(roles) }]));
+const ACTIVE_BY_NAME = toMap(ACTIVES);
+const HAIR_ACTIVE_BY_NAME = toMap(HAIR_ACTIVES);
 const r1 = (v) => Math.round(v * 10) / 10;
 const clamp = (v, lo, hi) => Math.min(hi, Math.max(lo, v));
 
@@ -39,10 +44,11 @@ function formulaScore(category, known) {
   const support = new Set();
   const seen = new Set();
   let core = 0, other = 0;
+  const table = HAIR.has(category) ? HAIR_ACTIVE_BY_NAME : ACTIVE_BY_NAME;
   known.forEach((k, i) => {
     if (!k || seen.has(k)) return;                  // a name declared twice counts once, at its first (highest) position
     seen.add(k);
-    const a = ACTIVE_BY_NAME.get(k);
+    const a = table.get(k);
     const w = positionWeight(i, marker);
     if (a) {
       const isCore = a.roles.has(category);
@@ -88,4 +94,4 @@ function safetyScore(category, known, tokens) {
   return { score: r1(clamp(10 - penalty, 1, 10)), flags };
 }
 
-module.exports = { formulaScore, safetyScore, RINSE_OFF, FACE };
+module.exports = { formulaScore, safetyScore, RINSE_OFF, FACE, HAIR };

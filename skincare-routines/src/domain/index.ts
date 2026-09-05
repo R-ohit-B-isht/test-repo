@@ -1,4 +1,4 @@
-import type { CategoryData, FacetRow, ProductRow } from '../lib/types';
+import type { CategoryData, FacetRow, PlaceTag, ProductRow, ScopeGroup } from '../lib/types';
 
 /** Inverted index: tag → sorted item positions. Built once per category load. */
 export interface CategoryIndex {
@@ -32,3 +32,13 @@ export function buildIndex(data: CategoryData): CategoryIndex {
 }
 
 export const groupOf = (tag: string) => tag.slice(0, tag.indexOf(':'));
+
+const PLACE_KEYS: Record<ScopeGroup, readonly string[]> = { scope: ['face', 'body', 'both', 'unstated'], area: ['scalp', 'lengths', 'both', 'unstated'] };
+
+/** Resolver for a listing's placement tag in the category's configured group (`scope:*` for skincare, `area:*` for hair). */
+export function placeResolver(idx: CategoryIndex, group: ScopeGroup): (t: number[]) => PlaceTag {
+  const byPos = new Map<number, PlaceTag>();
+  for (const k of PLACE_KEYS[group]) { const tag = `${group}:${k}` as PlaceTag; const p = idx.tagPos.get(tag); if (p !== undefined) byPos.set(p, tag); }
+  const fallback = `${group}:unstated` as PlaceTag;
+  return (t) => { for (const x of t) { const tag = byPos.get(x); if (tag) return tag; } return fallback; };
+}
