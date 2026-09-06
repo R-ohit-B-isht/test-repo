@@ -99,9 +99,9 @@ function CategoryView({ id }: { id: string }) {
       <header className="pt-6 sm:pt-8">
         <div className="flex flex-wrap items-center justify-between gap-3">
           <AppLink to="/products" className="inline-flex items-center gap-1 text-[13px] font-bold text-secondary no-underline hover:text-display"><ChevronLeft size={14} />All categories</AppLink>
-          <label className="flex items-center gap-2">
-            <span className="label">Jump to</span>
-            <select className="field" value={id} aria-label="Switch category" onChange={(e) => navigate(`/c/${e.target.value}${isDev ? '?dev=1' : ''}`)}>
+          <label className="flex min-w-0 max-w-full items-center gap-2">
+            <span className="label shrink-0">Jump to</span>
+            <select className="field min-w-0 max-w-[min(70vw,320px)] truncate" value={id} aria-label="Switch category" onChange={(e) => navigate(`/c/${e.target.value}${isDev ? '?dev=1' : ''}`)}>
               {m.categories.map((c) => <option key={c.id} value={c.id}>{c.label}</option>)}
             </select>
           </label>

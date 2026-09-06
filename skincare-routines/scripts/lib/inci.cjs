@@ -78,6 +78,10 @@ function resolve(tok) {
     'castor oil': 'ricinus communis seed oil', 'rosemary oil': 'rosmarinus officinalis leaf oil', 'rosemary leaf oil': 'rosmarinus officinalis leaf oil',
     'rosemary extract': 'rosmarinus officinalis leaf extract', 'onion extract': 'allium cepa bulb extract', 'onion oil': 'allium cepa bulb oil',
     'allium cepa (onion) bulb extract': 'allium cepa bulb extract', 'sesame oil': 'sesamum indicum seed oil', 'sesamum indicum oil': 'sesamum indicum seed oil',
+    'olive oil': 'olea europaea fruit oil', 'extra virgin olive oil': 'olea europaea fruit oil', 'rosehip oil': 'rosa canina fruit oil', 'rosehip seed oil': 'rosa canina seed oil',
+    'moringa oil': 'moringa oleifera seed oil', 'grapeseed oil': 'vitis vinifera seed oil', 'grape seed oil': 'vitis vinifera seed oil', 'avocado oil': 'persea gratissima oil',
+    'apricot kernel oil': 'prunus armeniaca kernel oil', 'apricot oil': 'prunus armeniaca kernel oil', 'wheat germ oil': 'triticum vulgare germ oil', 'neem oil': 'melia azadirachta seed oil',
+    'bhringraj oil': 'eclipta prostrata extract', 'kalonji oil': 'nigella sativa seed oil', 'black seed oil': 'nigella sativa seed oil', 'flaxseed oil': 'linum usitatissimum seed oil',
     'sweet almond oil': 'prunus amygdalus dulcis oil', 'almond oil': 'prunus amygdalus dulcis oil', 'argan oil': 'argania spinosa kernel oil',
     'jojoba oil': 'simmondsia chinensis seed oil', 'sunflower oil': 'helianthus annuus seed oil', 'liquid paraffin': 'paraffinum liquidum',
     'light liquid paraffin': 'paraffinum liquidum', 'zpto': 'zinc pyrithione', 'zinc pyrithione (zpto)': 'zinc pyrithione', 'pyrithione zinc': 'zinc pyrithione',
@@ -179,12 +183,14 @@ function classify(text, opts = {}) {
   const ratio = n ? rec / n : 0;
   const strict = n ? strictN / n : 0;
   const firstOk = known[0] && WATER_FIRST.includes(known[0]);
-  const isOilProduct = opts.category === 'faceoil' || opts.category === 'hairoil';
+  const isOilProduct = ['faceoil', 'hairoil', 'bodyoil', 'beard'].includes(opts.category);
   const multi = isMultiProduct(text);
   let status = 'partial';
   let reason = null;
   if ((n >= 8 && ratio >= 0.75 && strict >= 0.5) || (n >= 6 && ratio >= 0.85 && strict >= 0.4 && firstOk)) status = 'full';
-  else if (isOilProduct && n >= 1 && n <= 5 && ratio === 1 && tokens.every((t) => /oil|squalane|tocopher|extract|butter/.test(t))) status = 'full';
+  // A pure oil may legitimately declare 1–5 ingredients, but every one must resolve to a named ingredient (INCI or a
+  // mapped common name). "Body oil" / "Honey & Almond Body Oil" are product names, not declarations.
+  else if (isOilProduct && n >= 1 && n <= 5 && ratio === 1 && known.every(Boolean) && tokens.every((t) => /oil|squalane|tocopher|extract|butter/.test(t))) status = 'full';
   else if (n >= 6 && ratio < 0.5) {
     // Mostly unrecognised: corrupt text (codes / typo-repaired names) is garbled; a clean list of common names
     // ("Cucumber, Lemon, Kiwi, Green Tea") is a seller summary — readable, just not an INCI declaration.

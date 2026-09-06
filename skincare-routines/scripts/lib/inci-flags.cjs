@@ -36,6 +36,10 @@ const FLAGS = [
     'prunus amygdalus dulcis shell powder', 'pumice', 'polyethylene'],
     faceOnly: true, label: 'Hard abrasive particles (face)', leaveOn: 0.8, rinseOff: 0.8, src: 'aadScrub' },
   { id: 'hydroquinone', names: ['hydroquinone'], label: 'Hydroquinone — prescription-only depigmenting drug', leaveOn: 1.0, rinseOff: 1.0, src: 'cdscoHq' },
+  { id: 'formaldehyde', names: ['formaldehyde', 'methylene glycol', 'formalin', 'paraformaldehyde', 'methanediol'],
+    label: 'Formaldehyde / methylene glycol (hair-smoothing carcinogen, banned in EU cosmetics)', leaveOn: 3.0, rinseOff: 3.0, src: 'fdaFormaldehyde' },
+  { id: 'colophony', names: ['colophonium', 'colophony', 'rosin', 'glyceryl rosinate', 'pentaerythrityl rosinate', 'hydrogenated rosin', 'glyceryl hydrogenated rosinate'],
+    label: 'Colophony / rosin (wax-strip contact allergen)', leaveOn: 0.8, rinseOff: 0.5, src: 'colophony' },
 ];
 
 // Deliberately NOT penalised (marketing "free-from" claims that regulators consider safe at permitted limits):

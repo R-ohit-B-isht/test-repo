@@ -33,7 +33,7 @@ export function buildIndex(data: CategoryData): CategoryIndex {
 
 export const groupOf = (tag: string) => tag.slice(0, tag.indexOf(':'));
 
-const PLACE_KEYS: Record<ScopeGroup, readonly string[]> = { scope: ['face', 'body', 'both', 'unstated'], area: ['scalp', 'lengths', 'both', 'unstated'] };
+const PLACE_KEYS: Record<ScopeGroup, readonly string[]> = { scope: ['face', 'body', 'both', 'unstated'], area: ['scalp', 'lengths', 'both', 'beard', 'unstated'] };
 
 /** Resolver for a listing's placement tag in the category's configured group (`scope:*` for skincare, `area:*` for hair). */
 export function placeResolver(idx: CategoryIndex, group: ScopeGroup): (t: number[]) => PlaceTag {

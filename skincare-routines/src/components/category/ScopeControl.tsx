@@ -11,8 +11,8 @@ const SEGMENTS: Record<ScopeGroup, { order: string[]; tone: Record<string, strin
     aria: 'Where the listing says to use it: face or body',
   },
   area: {
-    order: ['area:scalp', 'area:both', 'area:lengths', 'area:unstated'],
-    tone: { 'area:scalp': 'bg-hair', 'area:both': 'bg-hair', 'area:lengths': 'bg-hair', 'area:unstated': 'bg-muted' },
+    order: ['area:scalp', 'area:both', 'area:lengths', 'area:beard', 'area:unstated'],
+    tone: { 'area:scalp': 'bg-hair', 'area:both': 'bg-hair', 'area:lengths': 'bg-hair', 'area:beard': 'bg-hair', 'area:unstated': 'bg-muted' },
     aria: 'Where the listing says to use it: scalp or lengths',
   },
 };

@@ -53,6 +53,16 @@ const SOURCES = {
   thermalProtect: { label: 'Zhou et al. 2011, J Cosmet Sci — cosmetic pre-treatments (silicones, conditioning polymers, hydrolysed proteins) protecting hair from thermal damage by hot flat ironing', url: 'https://pubmed.ncbi.nlm.nih.gov/21635853/' },
   stylingPolymers: { label: 'Gavazzoni Dias 2015, Int J Trichology — hair cosmetics: fixatives / film-forming polymers (PVP, VP/VA, acrylates) in gels, waxes and sprays', url: 'https://doi.org/10.4103/0974-7753.153450' },
   hairOils: { label: 'Rele & Mohile 2003, J Cosmet Sci — mineral, sunflower and coconut oil on prevention of hair damage (coconut oil penetrates the shaft, reduces protein loss)', url: 'https://pubmed.ncbi.nlm.nih.gov/12715094/' },
+  hairCleansing: { label: 'Draelos 2010, Int J Trichology — essentials of hair care often neglected: hair cleansing (dry shampoo powders absorb sebum; no cleaning action)', url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3002407/' },
+  fdaFormaldehyde: { label: 'US FDA — hair-smoothing products that release formaldehyde when heated (proposed ban on formaldehyde / methylene glycol in hair smoothing products)', url: 'https://www.fda.gov/cosmetics/cosmetic-products/hair-smoothing-products-release-formaldehyde-when-heated' },
+  // Spot treatment, body & personal care
+  hydrocolloid: { label: 'Chao et al. 2006, J Cosmet Sci — hydrocolloid acne dressing, randomised double-blind pilot trial', url: 'https://pubmed.ncbi.nlm.nih.gov/16688373/' },
+  fdaAntiperspirant: { label: 'US FDA 21 CFR Part 350 — antiperspirant drug products for OTC human use (aluminium chlorohydrate / zirconium salts monograph)', url: 'https://www.ecfr.gov/current/title-21/chapter-I/subchapter-D/part-350' },
+  deodorants: { label: 'Teerasumran et al. 2023, Int J Cosmet Sci — deodorants and antiperspirants: active agents and testing methods (review)', url: 'https://doi.org/10.1111/ics.12852' },
+  intimate: { label: 'Chen et al. 2017, Womens Health (Lond) — role of female intimate hygiene in vulvovaginal health (pH-matched, mild cleansers; lactic acid)', url: 'https://doi.org/10.1177/1745505717731011' },
+  striae: { label: 'Ud-Din, McGeorge & Bayat 2016, J Eur Acad Dermatol Venereol — topical management of striae distensae (tretinoin, centella; cocoa butter / oils not shown to prevent)', url: 'https://doi.org/10.1111/jdv.13223' },
+  depilatory: { label: 'EU Cosmetics Regulation 1223/2009 Annex III — thioglycolic acid and its salts permitted in depilatories at ≤5%', url: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009R1223-20240424' },
+  colophony: { label: 'Downs & Sansom 1999, Contact Dermatitis — colophony (rosin) allergy: a review', url: 'https://doi.org/10.1111/j.1600-0536.1999.tb06178.x' },
 };
 
 // Evidence grade: A = multiple RCTs / regulatory monograph, B = clinical studies, C = in-vitro / traditional use.
@@ -188,7 +198,65 @@ const ACTIVES = [
   ['helianthus annuus seed oil', 'B', 'squalane', ['faceoil', 'bodylotion', 'moisturizer']],
   ['cocos nucifera oil', 'C', 'squalane', ['bodylotion']],
   ['crocus sativus flower extract', 'C', 'pigment', ['faceoil', 'detan']],
+  // Spot treatment & patches
+  ['hydrocolloid', 'B', 'hydrocolloid', ['acnespot']],
+  ['clindamycin', 'A', 'bha', ['acnespot']],
+  ['clindamycin phosphate', 'A', 'bha', ['acnespot']],
+  // Body & personal care (occlusives / humectants already listed above carry the new roles via ROLE_EXTRA below)
+  ['lanolin', 'B', 'petrolatum', ['handfoot', 'bodylotion', 'stretchmark']],
+  ['paraffinum liquidum', 'B', 'petrolatum', ['bodyoil', 'handfoot', 'stretchmark']],
+  ['mineral oil', 'B', 'petrolatum', ['bodyoil', 'handfoot', 'stretchmark']],
+  ['theobroma cacao seed butter', 'C', 'striae', ['bodyoil', 'stretchmark', 'handfoot', 'bodylotion']],
+  ['cocoa butter', 'C', 'striae', ['bodyoil', 'stretchmark', 'handfoot', 'bodylotion']],
+  ['aluminum chlorohydrate', 'A', 'fdaAntiperspirant', ['deodorant']],
+  ['aluminium chlorohydrate', 'A', 'fdaAntiperspirant', ['deodorant']],
+  ['aluminum zirconium tetrachlorohydrex gly', 'A', 'fdaAntiperspirant', ['deodorant']],
+  ['aluminum zirconium trichlorohydrex gly', 'A', 'fdaAntiperspirant', ['deodorant']],
+  ['aluminum zirconium pentachlorohydrex gly', 'A', 'fdaAntiperspirant', ['deodorant']],
+  ['aluminum zirconium octachlorohydrex gly', 'A', 'fdaAntiperspirant', ['deodorant']],
+  ['aluminum sesquichlorohydrate', 'A', 'fdaAntiperspirant', ['deodorant']],
+  ['aluminum chloride', 'A', 'fdaAntiperspirant', ['deodorant']],
+  ['potassium alum', 'C', 'deodorants', ['deodorant']],
+  ['ammonium alum', 'C', 'deodorants', ['deodorant']],
+  ['sodium bicarbonate', 'C', 'deodorants', ['deodorant']],
+  ['magnesium hydroxide', 'C', 'deodorants', ['deodorant']],
+  ['zinc ricinoleate', 'C', 'deodorants', ['deodorant']],
+  ['triethyl citrate', 'C', 'deodorants', ['deodorant']],
+  ['potassium thioglycolate', 'A', 'depilatory', ['hairremoval']],
+  ['calcium thioglycolate', 'A', 'depilatory', ['hairremoval']],
+  ['thioglycolic acid', 'A', 'depilatory', ['hairremoval']],
+  // Physical exfoliant particles: cosmetic function only (grade C); on the face they are also a safety flag.
+  ['sucrose', 'C', 'aadScrub', ['bodyscrub', 'scalpscrub']],
+  ['sodium chloride', 'C', 'aadScrub', ['bodyscrub', 'scalpscrub']],
+  ['maris sal', 'C', 'aadScrub', ['bodyscrub', 'scalpscrub']],
+  ['sea salt', 'C', 'aadScrub', ['bodyscrub', 'scalpscrub']],
+  ['coffea arabica seed powder', 'C', 'aadScrub', ['bodyscrub']],
+  ['juglans regia shell powder', 'C', 'aadScrub', ['bodyscrub']],
+  ['walnut shell powder', 'C', 'aadScrub', ['bodyscrub']],
+  ['prunus armeniaca seed powder', 'C', 'aadScrub', ['bodyscrub']],
+  ['pumice', 'C', 'aadScrub', ['bodyscrub', 'handfoot']],
 ];
+
+// Extra category roles for actives already listed above — the new face / body pages reuse the same graded entries
+// instead of duplicating them. Applied once when the tables are built (see ROLE_EXTRA use in inci-score.cjs).
+const ROLE_EXTRA = {
+  acnespot: ['benzoyl peroxide', 'salicylic acid', 'adapalene', 'azelaic acid', 'sulfur', 'niacinamide', 'zinc pca', 'melaleuca alternifolia leaf oil', 'tretinoin', 'retinol', 'centella asiatica extract'],
+  facemist: ['glycerin', 'sodium hyaluronate', 'hyaluronic acid', 'hydrolyzed hyaluronic acid', 'panthenol', 'allantoin', 'aloe barbadensis leaf juice', 'aloe barbadensis leaf extract', 'centella asiatica extract', 'bisabolol', 'niacinamide', 'camellia sinensis leaf extract', 'beta-glucan'],
+  barriercream: ['ceramide np', 'ceramide ap', 'ceramide eop', 'ceramide ns', 'ceramide eos', 'cholesterol', 'petrolatum', 'dimethicone', 'shea butter', 'butyrospermum parkii butter', 'niacinamide', 'panthenol', 'glycerin', 'squalane', 'centella asiatica extract', 'madecassoside', 'asiaticoside', 'colloidal oatmeal', 'avena sativa kernel flour', 'avena sativa kernel extract', 'allantoin', 'bisabolol', 'sodium hyaluronate', 'hyaluronic acid', 'urea'],
+  peptideserum: ['palmitoyl tripeptide-1', 'palmitoyl tetrapeptide-7', 'palmitoyl pentapeptide-4', 'acetyl hexapeptide-8', 'copper tripeptide-1', 'adenosine', 'niacinamide', 'sodium hyaluronate', 'hyaluronic acid', 'hydrolyzed hyaluronic acid', 'retinol', 'bakuchiol', 'ascorbic acid', 'tocopherol', 'resveratrol', 'ubiquinone'],
+  azelaic: ['azelaic acid', 'niacinamide', 'salicylic acid', 'tranexamic acid', 'alpha-arbutin', 'arbutin', 'glycolic acid', 'lactic acid', 'mandelic acid', 'zinc pca'],
+  sheetmask: ['sodium hyaluronate', 'hyaluronic acid', 'hydrolyzed hyaluronic acid', 'glycerin', 'niacinamide', 'centella asiatica extract', 'madecassoside', 'snail secretion filtrate', 'camellia sinensis leaf extract', 'aloe barbadensis leaf juice', 'aloe barbadensis leaf extract', 'panthenol', 'allantoin', 'ceramide np', 'ascorbic acid', 'ascorbyl glucoside', '3-o-ethyl ascorbic acid', 'beta-glucan', 'galactomyces ferment filtrate', 'oryza sativa extract', 'adenosine', 'bisabolol'],
+  bodyscrub: ['glycolic acid', 'lactic acid', 'salicylic acid', 'urea', 'mandelic acid', 'glycerin', 'kaolin', 'charcoal powder', 'curcuma longa root extract', 'shea butter', 'butyrospermum parkii butter', 'cocos nucifera oil', 'prunus amygdalus dulcis oil'],
+  bodyoil: ['squalane', 'rosa canina fruit oil', 'simmondsia chinensis seed oil', 'argania spinosa kernel oil', 'prunus amygdalus dulcis oil', 'helianthus annuus seed oil', 'cocos nucifera oil', 'tocopherol', 'tocopheryl acetate', 'shea butter', 'butyrospermum parkii butter', 'ascorbyl tetraisopalmitate', 'tetrahexyldecyl ascorbate', 'crocus sativus flower extract'],
+  handfoot: ['urea', 'glycerin', 'petrolatum', 'dimethicone', 'shea butter', 'butyrospermum parkii butter', 'lactic acid', 'salicylic acid', 'glycolic acid', 'allantoin', 'panthenol', 'ceramide np', 'ceramide ap', 'ceramide eop', 'cholesterol', 'squalane', 'colloidal oatmeal', 'avena sativa kernel flour', 'ammonium lactate', 'tocopherol', 'tocopheryl acetate', 'sodium hyaluronate'],
+  deodorant: ['glycerin', 'aloe barbadensis leaf juice', 'aloe barbadensis leaf extract'],
+  intimatewash: ['lactic acid', 'glycerin', 'melaleuca alternifolia leaf oil', 'aloe barbadensis leaf juice', 'aloe barbadensis leaf extract', 'panthenol', 'centella asiatica extract', 'bisabolol'],
+  stretchmark: ['tretinoin', 'centella asiatica extract', 'madecassoside', 'asiaticoside', 'sodium hyaluronate', 'hyaluronic acid', 'glycerin', 'retinol', 'retinyl palmitate', 'tocopherol', 'tocopheryl acetate', 'shea butter', 'butyrospermum parkii butter', 'squalane', 'rosa canina fruit oil', 'petrolatum', 'dimethicone', 'panthenol', 'allantoin', 'urea', 'niacinamide', 'palmitoyl tripeptide-1', 'palmitoyl tetrapeptide-7'],
+  hairremoval: ['glycerin', 'aloe barbadensis leaf juice', 'aloe barbadensis leaf extract', 'allantoin', 'panthenol', 'bisabolol', 'urea', 'petrolatum'],
+};
+for (const [role, names] of Object.entries(ROLE_EXTRA)) {
+  for (const a of ACTIVES) if (names.includes(a[0]) && !a[3].includes(role)) a[3].push(role);
+}
 
 // Hair-care actives, kept separate so skincare grades never change. Same evidence grades: A = RCTs / OTC monograph,
 // B = clinical studies, C = in-vitro, animal or manufacturer data. Trade-name blends (Redensyl, Procapil, Anagain,
@@ -261,9 +329,36 @@ const HAIR_ACTIVES = [
   ['polyquaternium-11', 'C', 'stylingPolymers', ['hairstyling', 'heatprotect']],
   ['polyquaternium-55', 'C', 'stylingPolymers', ['hairstyling', 'heatprotect']],
   ['vp/methacrylamide/vinyl imidazole copolymer', 'C', 'stylingPolymers', ['hairstyling']],
-  ['cera alba', 'C', 'hairCosmetics', ['hairstyling']],
-  ['beeswax', 'C', 'hairCosmetics', ['hairstyling']],
+  ['cera alba', 'C', 'hairCosmetics', ['hairstyling', 'beard']],
+  ['beeswax', 'C', 'hairCosmetics', ['hairstyling', 'beard']],
+  // Dry shampoo: sebum-absorbing powders — cosmetic function only (grade C).
+  ['oryza sativa starch', 'C', 'hairCleansing', ['dryshampoo']],
+  ['rice starch', 'C', 'hairCleansing', ['dryshampoo']],
+  ['zea mays starch', 'C', 'hairCleansing', ['dryshampoo']],
+  ['corn starch', 'C', 'hairCleansing', ['dryshampoo']],
+  ['tapioca starch', 'C', 'hairCleansing', ['dryshampoo']],
+  ['manihot esculenta root starch', 'C', 'hairCleansing', ['dryshampoo']],
+  ['aluminum starch octenylsuccinate', 'C', 'hairCleansing', ['dryshampoo']],
+  ['maranta arundinacea root powder', 'C', 'hairCleansing', ['dryshampoo']],
+  ['silica', 'C', 'hairCleansing', ['dryshampoo']],
+  ['kaolin', 'C', 'hairCleansing', ['dryshampoo', 'scalpscrub']],
+  // Scalp scrub: exfoliant particles / keratolytics (salicylic acid is graded above under dandruff).
+  ['charcoal powder', 'C', 'hairCleansing', ['scalpscrub']],
+  ['glycolic acid', 'C', 'hairCleansing', ['scalpscrub']],
+  ['sucrose', 'C', 'hairCleansing', ['scalpscrub']],
+  ['sodium chloride', 'C', 'hairCleansing', ['scalpscrub']],
+  ['maris sal', 'C', 'hairCleansing', ['scalpscrub']],
+  ['sea salt', 'C', 'hairCleansing', ['scalpscrub']],
 ];
+// Hair roles reused by the new hair pages (same graded entries, no duplication).
+const HAIR_ROLE_EXTRA = {
+  scalpscrub: ['salicylic acid', 'melaleuca alternifolia leaf oil', 'piroctone olamine', 'zinc pyrithione', 'pyrithione zinc', 'rosmarinus officinalis leaf oil', 'glycerin', 'panthenol'],
+  keratinkit: ['hydrolyzed keratin', 'hydrolyzed wheat protein', 'hydrolyzed silk', 'amodimethicone', 'dimethicone', 'cyclopentasiloxane', 'dimethiconol', 'cetrimonium chloride', 'behentrimonium chloride', 'behentrimonium methosulfate', 'panthenol', 'argania spinosa kernel oil', 'cocos nucifera oil', 'butyrospermum parkii butter', 'shea butter'],
+  beard: ['argania spinosa kernel oil', 'simmondsia chinensis seed oil', 'prunus amygdalus dulcis oil', 'ricinus communis seed oil', 'cocos nucifera oil', 'helianthus annuus seed oil', 'sesamum indicum seed oil', 'butyrospermum parkii butter', 'shea butter', 'glycerin', 'panthenol', 'polyquaternium-10', 'polyquaternium-7', 'guar hydroxypropyltrimonium chloride'],
+};
+for (const [role, names] of Object.entries(HAIR_ROLE_EXTRA)) {
+  for (const a of HAIR_ACTIVES) if (names.includes(a[0]) && !a[3].includes(role)) a[3].push(role);
+}
 
 // Mild surfactants preferred by the cleansing literature (core actives for wash categories).
 const MILD_SURFACTANTS = ['sodium cocoyl isethionate', 'cocamidopropyl betaine', 'coco-glucoside', 'decyl glucoside',

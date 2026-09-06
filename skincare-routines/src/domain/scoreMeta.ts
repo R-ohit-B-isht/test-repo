@@ -13,6 +13,7 @@ export const PLACE_META: Record<Zone | PlaceTag, { label: string; tone: string }
   'area:scalp': { label: 'Scalp', tone: 'zone-hair' },
   'area:lengths': { label: 'Lengths & ends', tone: 'zone-hair' },
   'area:both': { label: 'Scalp + lengths', tone: 'zone-hair' },
+  'area:beard': { label: 'Beard', tone: 'zone-hair' },
   'area:unstated': { label: 'Area not stated', tone: 'text-muted' },
 };
 

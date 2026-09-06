@@ -9,7 +9,7 @@ const BAND: Record<CategoryMeta['zone'], string> = { face: 'bg-face/10', both: '
 /** Placement strip segments per group; hair uses one hue at three opacities so scalp / lengths read as one family, not face / body. */
 const STRIP: Record<CategoryMeta['scopeGroup'], { key: string; label: string; cls: string }[]> = {
   scope: [{ key: 'face', label: 'face', cls: 'bg-face' }, { key: 'both', label: 'face and body', cls: 'bg-both' }, { key: 'body', label: 'body', cls: 'bg-body' }],
-  area: [{ key: 'scalp', label: 'scalp', cls: 'bg-hair' }, { key: 'both', label: 'scalp and lengths', cls: 'bg-hair/60' }, { key: 'lengths', label: 'lengths', cls: 'bg-hair/30' }],
+  area: [{ key: 'scalp', label: 'scalp', cls: 'bg-hair' }, { key: 'both', label: 'scalp and lengths', cls: 'bg-hair/60' }, { key: 'lengths', label: 'lengths', cls: 'bg-hair/30' }, { key: 'beard', label: 'beard', cls: 'bg-hair' }],
 };
 
 export function CategoryCard({ cat }: { cat: CategoryMeta }) {

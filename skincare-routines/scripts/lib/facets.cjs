@@ -27,7 +27,7 @@ const GROUPS = {
 };
 
 const SCOPE = {
-  body: /\bbody\b|\bhands?\b|\blegs?\b|\barms?\b|\bfeet\b|\bfoot\b|\bneck\b|underarms?|elbows?|knees?|\bback\s*acne|bikini/,
+  body: /\bbody\b|\bhands?\b|\blegs?\b|\barms?\b|\bfeet\b|\bfoot\b|\bneck\b|underarms?|armpits?|elbows?|knees?|heels?\b|\bback\s*acne|bikini|intimate|vagin|private\s*(?:parts?|area)|pubic|\bbelly\b|\btummy\b|\bthighs?\b/,
   face: /\bface\b|facial|under[\s-]*eye|\beyes?\b|\blips?\b|cheeks?|t[\s-]*zone/,
 };
 
@@ -54,9 +54,16 @@ const HAIR_FORMATS = [
   ['mousse', 'Mousse', /mousse/],
   ['paste', 'Paste / putty / fibre', /\bpaste\b|\bputty\b|\bfib(?:re|er)\b/],
   ['texture-spray', 'Texturising / sea-salt spray', /textur|sea\s*salt/],
+  ['scalp-scrub', 'Scalp scrub', /scalp\s*(?:scrub|exfoliat)|scrub[^]{0,20}scalp/],
+  ['keratin-treatment', 'Keratin / smoothing treatment', /keratin\s*(?:treatment|therapy|kit)|smooth(?:en)?ing\s*(?:treatment|kit|cream)|hair\s*botox|nanoplast|rebonding|brazilian\s*(?:blowout|keratin)|straightening\s*(?:cream|treatment|kit)/],
+  ['hair-perfume', 'Hair perfume / mist', /hair\s*(?:perfume|mist|fragrance|scent|parfum)|hair\s*(?:&|and)\s*body\s*mist/],
+  ['beard-oil', 'Beard oil', /beard\s*(?:growth\s*)?oil/],
+  ['beard-wash', 'Beard wash', /beard\s*(?:wash|shampoo|cleanser)/],
+  ['beard-balm', 'Beard balm / softener', /beard\s*(?:balm|butter|softener|cream|wax|serum)/],
 ];
 /** Skincare formats that never describe a hair product (a hair "clay" is a styler, not a mud mask). */
-const SKIN_ONLY_FORMATS = new Set(['sheet-mask', 'clay-mask', 'peel-off', 'sleeping-mask', 'pack', 'micellar', 'patch', 'pads', 'peel', 'bar', 'capsule']);
+const SKIN_ONLY_FORMATS = new Set(['sheet-mask', 'clay-mask', 'peel-off', 'sleeping-mask', 'pack', 'micellar', 'patch', 'pads', 'peel', 'bar', 'capsule',
+  'wax-strip', 'depilatory', 'body-wax', 'foot-peel', 'aerosol']);
 const SKIN_ONLY_INGREDIENTS = new Set(['clay']);
 
 // Hair-relevant ingredients named on listings, on top of the shared skincare list.
@@ -75,6 +82,9 @@ const HAIR_INGREDIENTS = [
   ['Mustard oil', /mustard|sarson/], ['Batana oil', /batana/], ['Marula oil', /marula/],
   ['Dimethicone / silicones', /dimethicone|silicone(?![\s-]*free)|cyclopentasiloxane|amodimethicone/],
   ['Panthenol', /panthenol|pro[\s-]*vitamin\s*b5|\bb5\b/], ['Ceramides', /ceramide/], ['Beeswax', /beeswax|cera\s*alba/],
+  ['Starch / rice powder', /\bstarch\b|tapioca|arrowroot|rice\s*powder/], ['Formaldehyde', /formaldehyde(?![\s-]*free)|methylene\s*glycol|\bformalin\b(?![\s-]*free)/],
+  ['Glyoxylic acid', /glyoxylic/], ['Cysteine', /cystein/], ['Peppermint / menthol', /peppermint|\bmint\b|menthol/], ['Cedarwood', /cedar\s*wood|\bcedar\b/],
+  ['Vetiver', /vetiver/], ['Oud', /\boudh?\b|agarwood/], ['Musk', /\bmusk\b/],
 ];
 
 // Hair concerns — seller claims, exactly as with skincare benefit claims: never treated as proof.
@@ -89,7 +99,7 @@ const HAIR_CONCERNS = [
   ['frizz', 'Frizz control', /frizz|\bfly[\s-]*aways?\b|unmanageable/],
   ['damage-repair', 'Damage repair', /\bdamaged?\b|\brepair\b|\bbreakage\b|\bbrittle\b/],
   ['split-ends', 'Split ends', /split\s*ends/],
-  ['dryness', 'Dryness / hydration', /\bdry\b|dryness|hydrat|moistur|nourish/],
+  ['dryness', 'Dryness / hydration', /\bdry\b(?!\s*shampoo)|dryness|hydrat|moistur|nourish/],
   ['smoothing', 'Smoothing / straightening', /smooth|straighten|\bsleek\b|anti[\s-]*frizz/],
   ['shine', 'Shine / gloss', /\bshine\b|glossy|\bgloss\b|lustre|luster|\bshiny\b/],
   ['volume', 'Volume / body', /volumi[sz]|\bvolume\b|\bbouncy\b|\blift\b/],
@@ -102,6 +112,12 @@ const HAIR_CONCERNS = [
   ['matte-finish', 'Matte finish', /\bmatte\b|no\s*shine|natural\s*finish/],
   ['restyle', 'Restylable / no flakes', /re[\s-]*styl|no\s*flak|non[\s-]*flak|no\s*residue|non[\s-]*sticky/],
   ['wash-out', 'Washes out easily', /wash(?:es)?\s*out\s*easily|water[\s-]*(?:based|soluble)/],
+  ['beard-growth', 'Beard growth (claim)', /beard\s*(?:growth|grow)|patchy\s*beard|thicker\s*beard/],
+  ['beard-itch', 'Beard itch / beardruff / softening', /beard\s*(?:itch|dandruff)|beardruff|beard\s*soften|softer\s*beard/],
+  ['odour', 'Odour / fragrance / freshness', /odou?r|\bsmell\b|\bfreshness\b|long[\s-]*lasting\s*(?:fragrance|scent|smell)/],
+  ['oil-absorbing', 'Absorbs oil / between washes', /absorb|between\s*washes|no\s*water|waterless|instant\s*refresh/],
+  ['detangling', 'Detangling', /detangl|tangle/],
+  ['humidity', 'Humidity resistant', /humidity/],
 ];
 
 const HAIR_TYPES = [
@@ -126,7 +142,7 @@ const FORMATS = [
   ['toner', 'Toner / tonic', /\btoner\b|\btonic\b/],
   ['mist', 'Mist / spray', /\bmist\b|\bspray\b/],
   ['stick', 'Stick', /\bstick\b/],
-  ['oil', 'Oil', /\boil\b(?![\s-]*(?:free|control|balanc|absorb))|tailam|\bhuile\b/],
+  ['oil', 'Oil', /(?<!absorbs?\s)(?<!excess\s)\boil\b(?![\s-]*(?:free|control|balanc|absorb))|tailam|\bhuile\b/],
   ['balm', 'Balm / butter', /\bbalm\b|\bbaume\b|butter\b/],
   ['emulsion', 'Emulsion / fluid', /emulsion|\bfluid\b/],
   ['sheet-mask', 'Sheet mask', /sheet\s*mask/],
@@ -145,6 +161,11 @@ const FORMATS = [
   ['roll-on', 'Roll-on', /roll[\s-]*on/],
   ['capsule', 'Capsules', /capsules?\b/],
   ['kit', 'Kit / combo / multipack', /\bkit\b|\bcombo\b|pack\s*of\s*\d|\bset\b/],
+  ['wax-strip', 'Wax strips', /wax\s*strips?|strips?\s*wax|cold\s*wax\s*strips?|ready[\s-]*to[\s-]*use\s*wax/],
+  ['depilatory', 'Hair-removal cream / spray', /hair\s*remov(?:al|ing|er)\s*(?:cream|lotion|spray|gel|foam|mousse)|depilator|hair\s*removal\s*cream/],
+  ['body-wax', 'Body wax (hot / cold / sugar)', /\bwax\b(?![\s-]*strips?)|\bwaxing\b/],
+  ['foot-peel', 'Foot peel mask / socks', /foot\s*(?:peel|mask)|peel(?:ing)?\s*socks?|exfoliating\s*socks?/],
+  ['aerosol', 'Aerosol / body spray', /aerosol|body\s*spray|deo\s*spray|deodorant\s*spray|\bdeo\b/],
 ];
 
 const INGREDIENTS = [
@@ -172,6 +193,12 @@ const INGREDIENTS = [
   ['Ginseng', /ginseng/], ['Yuja / yuzu', /\byuja\b|\byuzu\b/], ['Gold', /\b24k\b|\bgold\b/], ['Pearl', /\bpearl\b/],
   ['Calamine', /calamine/], ['Sulfur', /sulph?ur\b/], ['Alpha lipoic acid', /lipoic/], ['Resveratrol', /resveratrol/],
   ['Ferulic acid', /ferulic/], ['Thiamidol', /thiamidol/], ['Hydroquinone', /hydroquinone/], ['Mineral oil', /mineral\s*oil(?![\s-]*free)/],
+  ['Aluminium salts', /alumin(?:i)?um(?![\s-]*free)|\balcl\b/], ['Alum', /\balum\b|potassium\s*alum/], ['Baking soda', /baking\s*soda|sodium\s*bicarb/],
+  ['Magnesium', /magnesium/], ['Thioglycolate', /thioglycol/], ['Lanolin', /lanolin/], ['Hydrocolloid', /hydrocolloid/],
+  ['Adapalene', /adapalene/], ['Clindamycin', /clindamycin/], ['Tretinoin', /tretinoin/], ['Copper peptide', /copper\s*(?:peptide|tripeptide)|\bghk\b/],
+  ['Matrixyl', /matrixyl/], ['Argireline', /argireline|acetyl\s*hexapeptide/], ['Thermal water', /thermal\s*(?:spring\s*)?water/],
+  ['Sugar', /\bsugar\b|sucrose/], ['Sea salt', /sea\s*salt|epsom|dead\s*sea|himalayan\s*salt/], ['Apricot', /apricot/], ['Pumice', /pumice/],
+  ['Chamomile', /chamomile|bisabolol/], ['Lavender', /lavender/], ['Calendula', /calendula/], ['Bio-oil (PurCellin)', /purcellin/],
 ];
 
 const CLAIMS = [
@@ -200,6 +227,18 @@ const CLAIMS = [
   ['ayurvedic', 'Ayurvedic / herbal', /ayurved|herbal|\bubtan\b/],
   ['spf-claim', 'SPF included', /\bspf\s*\d/],
   ['dry-skin-relief', 'Dry / very dry skin relief', /very\s*dry|extra\s*dry|dryness|\bxerosis\b/],
+  ['antiperspirant', 'Antiperspirant / sweat control', /anti[\s-]*perspirant|sweat\s*(?:control|protect|block|free)|anti[\s-]*sweat/],
+  ['odour', 'Odour control / freshness', /odou?r|\bsmell\b|\bfreshness\b|fresh\s*all\s*day/],
+  ['stretch-marks', 'Stretch marks', /stretch[\s-]*marks?|striae|pregnan|maternity|post[\s-]*partum|postnatal/],
+  ['cracked-heels', 'Cracked heels / rough feet', /cracked\s*heels?|heel\s*(?:repair|cracks?)|rough\s*feet|callus|\bcorns?\b/],
+  ['ingrown', 'Ingrown hair / razor bumps', /ingrown|razor\s*bumps?/],
+  ['intimate-hygiene', 'Intimate hygiene', /intimate|vagin|feminine\s*(?:wash|hygiene)|private\s*parts?|\bv[\s-]*wash\b/],
+  ['scars', 'Scars / marks', /\bscars?\b|(?:acne|pimple)\s*marks/],
+  ['overnight', 'Overnight / while you sleep', /overnight|while\s*you\s*sleep/],
+  ['hair-removal', 'Hair removal', /hair\s*remov|depilat|\bwaxing\b|unwanted\s*hair/],
+  ['painless', 'Painless / gentle (claim)', /pain[\s-]*less|pain[\s-]*free|no\s*pain/],
+  ['cooling', 'Cooling / refreshing', /cooling|refresh/],
+  ['makeup', 'Makeup-related (setting / priming / removing)', /makeup|make[\s-]*up|primer/],
 ];
 
 const FREE = [
@@ -216,8 +255,13 @@ const FREE = [
   ['hypoallergenic', 'Hypoallergenic', /hypo[\s-]*allergenic/],
   ['vegan', 'Vegan / cruelty-free', /\bvegan\b|cruelty[\s-]*free|peta/],
   ['toxin-free', 'Toxin / chemical-free (claim)', /toxin[\s-]*free|chemical[\s-]*free|no\s*(?:harmful\s*)?chemicals/],
-  ['ph-balanced', 'pH balanced', /ph[\s-]*balanc|ph\s*5\.5/],
+  ['ph-balanced', 'pH balanced', /ph[\s-]*balanc|ph\s*5\.5|ph\s*3\.5/],
   ['sensitive-safe', 'Sensitive-skin safe (claim)', /sensitive\s*skin/],
+  ['aluminium', 'Aluminium-free', /alumin(?:i)?um[\s-]*free|no\s*alumin(?:i)?um|zero\s*alumin/],
+  ['baking-soda', 'Baking-soda-free', /baking\s*soda[\s-]*free|no\s*baking\s*soda/],
+  ['formaldehyde', 'Formaldehyde-free', /formaldehyde[\s-]*free|no\s*formaldehyde|formalin[\s-]*free/],
+  ['gynaec', 'Gynaecologist tested', /gyn(?:a)?ecolog(?:ist|ically)[\s-]*(?:tested|approved|recommended)/],
+  ['talc', 'Talc-free', /talc[\s-]*free|no\s*talc/],
 ];
 
 const SKIN = [
@@ -282,19 +326,22 @@ for (const [id, label] of HAIR_FORMATS) (LABELS.format ||= {})[id] = label;
 for (const [name] of HAIR_INGREDIENTS) (LABELS.ing ||= {})[slug(name)] = name;
 for (const [id, label] of HAIR_CONCERNS) (LABELS.concern ||= {})[id] = label;
 for (const [id, label] of HAIR_TYPES) (LABELS.hair ||= {})[id] = label;
-LABELS.area = { scalp: 'Scalp', lengths: 'Lengths & ends', both: 'Scalp + lengths', unstated: 'Area not stated' };
+LABELS.area = { scalp: 'Scalp', lengths: 'Lengths & ends', both: 'Scalp + lengths', beard: 'Beard', unstated: 'Area not stated' };
 for (let i = 1; i <= 4; i++) (LABELS.pa ||= {})['+'.repeat(i)] = 'PA' + '+'.repeat(i);
 
 /**
  * @param {{family?: 'skin'|'hair'}} input `family` picks the tag vocabulary: skincare pages keep face/body scope,
  *   skin types and benefit claims; hair pages get scalp/lengths area, hair types and hair concerns instead.
+ *   `beard` places the listing on the beard ("beard growth" / "beard itch" would otherwise read as scalp).
  * @returns {string[]} tags like 'scope:face', 'area:scalp', 'ing:niacinamide', 'spf:50'
  */
-function tagsOf({ title, blob = '', qty = null, rating = null, store = null, step = null, family = 'skin' }) {
+function tagsOf({ title, blob = '', qty = null, rating = null, store = null, step = null, family = 'skin', beard = false }) {
   const t = (title + ' ' + blob).toLowerCase();
   const out = [];
   const hair = family === 'hair';
-  if (hair) {
+  if (hair && beard) {
+    out.push('area:beard');
+  } else if (hair) {
     const scalp = AREA.scalp.test(t), lengths = AREA.lengths.test(t);
     out.push('area:' + (scalp && lengths ? 'both' : scalp ? 'scalp' : lengths ? 'lengths' : 'unstated'));
   } else {

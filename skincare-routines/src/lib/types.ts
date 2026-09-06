@@ -2,7 +2,7 @@ export type Zone = 'face' | 'body' | 'both' | 'hair';
 /** Tag group that says where a listing goes: skincare uses `scope` (face / body), hair uses `area` (scalp / lengths). */
 export type ScopeGroup = 'scope' | 'area';
 export type SkinScopeKey = 'face' | 'body' | 'both' | 'unstated';
-export type HairAreaKey = 'scalp' | 'lengths' | 'both' | 'unstated';
+export type HairAreaKey = 'scalp' | 'lengths' | 'both' | 'beard' | 'unstated';
 /** A full placement tag, e.g. `scope:face` or `area:scalp` — the card badge and sheet header render from this. */
 export type PlaceTag = `scope:${SkinScopeKey}` | `area:${HairAreaKey}`;
 export type ScoreKey = 'trust' | 'skin' | 'ingredients' | 'experience';

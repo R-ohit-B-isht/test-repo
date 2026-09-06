@@ -15,7 +15,7 @@ const HAIR_FACETS = ['inci', 'area', 'format', 'ing', 'concern', 'free', 'hair',
 /** The segmented "where does it go" control on a category page reads this group; hair uses `area`, skincare `scope`. */
 export const SCOPE_KEYS = {
   scope: ['face', 'both', 'body', 'unstated'],
-  area: ['scalp', 'both', 'lengths', 'unstated'],
+  area: ['scalp', 'both', 'lengths', 'beard', 'unstated'],
 };
 export const scopeGroupOf = (cat) => (cat.zone === HAIR ? 'area' : 'scope');
 
@@ -199,6 +199,141 @@ export const CATEGORIES = [
     blurb: 'Hold and texture for the lengths — wax, clay, pomade, gel, spray, mousse and powder. Scored on formula and safety, not on hold claims.',
     file: 'hr-data-hairstyling.js', global: 'HAIRPRODUCTS', facets: HAIR_FACETS,
     featured: ['format:wax', 'format:clay', 'format:pomade', 'format:gel', 'format:hair-spray', 'format:mousse', 'format:powder', 'concern:hold', 'concern:matte-finish', 'concern:volume', 'free:alcohol', 'free:paraben', 'aud:men'],
+  },
+  // ── Face: spot care, mist, barrier, peptides, azelaic, sheet masks ─────────────────────────────────────────────────
+  {
+    id: 'acnespot', label: 'Acne spot treatment & patches', kicker: 'SPOT', zone: FACE,
+    blurb: 'Hydrocolloid pimple patches, spot gels and drying lotions dabbed on a single pimple — benzoyl peroxide, salicylic, adapalene, sulfur. Not face washes or whole-face serums.',
+    file: 'nx-data-acnespot.js', global: 'NXPRODUCTS', facets: CORE_FACETS,
+    featured: ['format:patch', 'format:gel', 'format:cream', 'ing:hydrocolloid', 'ing:benzoyl-peroxide', 'ing:salicylic-acid-bha', 'ing:adapalene', 'ing:tea-tree', 'ing:sulfur', 'claim:overnight', 'claim:scars', 'skin:acne-prone', 'skin:oily'],
+  },
+  {
+    id: 'facemist', label: 'Face mist / spray', kicker: 'MIST', zone: FACE,
+    blurb: 'Hydrating, soothing and thermal-water face mists for the midday spritz — not body mists, hair mists or makeup setting sprays.',
+    file: 'nx-data-facemist.js', global: 'NXPRODUCTS', facets: CORE_FACETS,
+    featured: ['ing:rose', 'ing:thermal-water', 'ing:hyaluronic-acid', 'ing:aloe-vera', 'ing:green-tea', 'ing:cucumber', 'ing:centella-cica', 'claim:hydrating', 'claim:soothing', 'claim:cooling', 'claim:makeup', 'free:alcohol', 'skin:sensitive'],
+  },
+  {
+    id: 'barriercream', label: 'Barrier / ceramide repair cream', kicker: 'REPAIR', zone: FACE,
+    blurb: 'Ceramide, cica and panthenol creams and balms that rebuild a compromised face barrier — Cicaplast, Cicalfate, Cicabio and their Indian rivals. Body lotions have their own page.',
+    file: 'nx-data-barriercream.js', global: 'NXPRODUCTS', facets: CORE_FACETS,
+    featured: ['ing:ceramides', 'ing:centella-cica', 'ing:vitamin-b5-panthenol', 'ing:niacinamide', 'ing:squalane', 'ing:colloidal-oatmeal', 'format:cream', 'format:balm', 'claim:barrier', 'claim:soothing', 'free:fragrance', 'skin:sensitive', 'skin:dry'],
+  },
+  {
+    id: 'peptideserum', label: 'Peptide & collagen serum', kicker: 'SERUM', zone: FACE,
+    blurb: 'Signal-peptide and collagen serums, ampoules and boosters for firmness and fine lines — Matrixyl, Argireline, copper peptides, multi-peptide blends.',
+    file: 'nx-data-peptideserum.js', global: 'NXPRODUCTS', facets: CORE_FACETS,
+    featured: ['ing:peptides', 'ing:collagen', 'ing:copper-peptide', 'ing:matrixyl', 'ing:argireline', 'ing:hyaluronic-acid', 'ing:niacinamide', 'ing:retinol', 'format:serum', 'format:ampoule', 'claim:anti-aging', 'claim:korean', 'skin:mature'],
+  },
+  {
+    id: 'azelaic', label: 'Azelaic acid', kicker: 'TREAT', zone: FACE,
+    blurb: 'Azelaic acid gels, creams and serums (10–20%) for redness, acne and post-acne marks — the pregnancy-safe active dermatologists reach for.',
+    file: 'nx-data-azelaic.js', global: 'NXPRODUCTS', facets: CORE_FACETS,
+    featured: ['ing:azelaic-acid', 'ing:niacinamide', 'ing:salicylic-acid-bha', 'ing:tranexamic-acid', 'format:gel', 'format:cream', 'format:serum', 'claim:acne', 'claim:dark-spots', 'claim:soothing', 'skin:acne-prone', 'skin:sensitive'],
+  },
+  {
+    id: 'sheetmask', label: 'Sheet masks', kicker: 'MASK', zone: FACE,
+    blurb: 'Single-use fabric, bio-cellulose and hydrogel sheet masks soaked in essence — split out from the wash-off, clay and sleeping masks on the Face mask page.',
+    file: 'nx-data-sheetmask.js', global: 'NXPRODUCTS', facets: CORE_FACETS,
+    featured: ['ing:hyaluronic-acid', 'ing:snail-mucin', 'ing:centella-cica', 'ing:rice-water', 'ing:green-tea', 'ing:vitamin-c', 'ing:collagen', 'ing:aloe-vera', 'claim:korean', 'claim:brightening', 'claim:hydrating', 'claim:soothing', 'format:kit', 'skin:dry', 'skin:oily'],
+  },
+  // ── Body: scrub, oil & butter, hand / foot, deodorant, intimate, body SPF, stretch marks, hair removal ───────────
+  {
+    id: 'bodyscrub', label: 'Body scrub / exfoliator', kicker: 'EXFOLIATE', zone: BODY,
+    blurb: 'Sugar, salt, coffee and walnut body scrubs plus chemical body exfoliants — for the shower, not the face (face scrubs live on the Exfoliator page).',
+    file: 'nx-data-bodyscrub.js', global: 'NXPRODUCTS', facets: CORE_FACETS,
+    featured: ['ing:coffee', 'ing:sugar', 'ing:sea-salt', 'ing:walnut', 'ing:turmeric', 'ing:glycolic-acid', 'ing:salicylic-acid-bha', 'ing:shea-butter', 'claim:de-tan', 'claim:brightening', 'claim:kp', 'claim:ingrown', 'free:paraben', 'aud:men'],
+  },
+  {
+    id: 'bodyoil', label: 'Body oil & body butter', kicker: 'NOURISH', zone: BODY,
+    blurb: 'Body oils, whipped butters and balms for after the shower — almond, coconut, argan, shea, cocoa. Oil-phase formulas are judged on their own INCI rules.',
+    file: 'nx-data-bodyoil.js', global: 'NXPRODUCTS', facets: CORE_FACETS,
+    featured: ['format:oil', 'format:balm', 'ing:shea-butter', 'ing:cocoa-butter', 'ing:almond', 'ing:coconut', 'ing:argan-oil', 'ing:jojoba', 'ing:vitamin-e', 'ing:squalane', 'claim:hydrating', 'claim:dry-skin-relief', 'claim:brightening', 'free:mineral-oil'],
+  },
+  {
+    id: 'handfoot', label: 'Hand cream · foot cream · cracked heels', kicker: 'HANDS & FEET', zone: BODY,
+    blurb: 'Hand creams, foot creams, heel balms and foot peel masks — urea, lactic acid, shea and petrolatum for the driest skin on the body.',
+    file: 'nx-data-handfoot.js', global: 'NXPRODUCTS', facets: CORE_FACETS,
+    featured: ['ing:urea', 'ing:shea-butter', 'ing:glycerin', 'ing:lactic-acid', 'ing:salicylic-acid-bha', 'ing:petrolatum', 'ing:vitamin-e', 'format:cream', 'format:balm', 'format:foot-peel', 'claim:cracked-heels', 'claim:dry-skin-relief', 'claim:hydrating', 'free:paraben'],
+  },
+  {
+    id: 'deodorant', label: 'Deodorant & antiperspirant', kicker: 'UNDERARM', zone: BODY,
+    blurb: 'Roll-ons, sticks, sprays and deo creams. Antiperspirant aluminium salts are the only regulated sweat-blocking actives; everything else is odour control or fragrance, and fragrance is a safety debit here too.',
+    file: 'nx-data-deodorant.js', global: 'NXPRODUCTS', facets: CORE_FACETS,
+    featured: ['format:roll-on', 'format:stick', 'format:aerosol', 'format:cream', 'claim:antiperspirant', 'claim:odour', 'claim:long-lasting', 'ing:aluminium-salts', 'ing:alum', 'ing:baking-soda', 'ing:magnesium', 'free:aluminium', 'free:alcohol', 'free:baking-soda', 'aud:men', 'aud:women'],
+  },
+  {
+    id: 'intimatewash', label: 'Intimate wash', kicker: 'INTIMATE', zone: BODY,
+    blurb: 'pH-matched external intimate washes, foams and wipes — lactic acid, tea tree, aloe. Rinse-off; the claims are the seller\u2019s, the formula is what gets scored.',
+    file: 'nx-data-intimatewash.js', global: 'NXPRODUCTS', facets: CORE_FACETS,
+    featured: ['ing:lactic-acid', 'ing:tea-tree', 'ing:aloe-vera', 'ing:probiotics', 'ing:neem', 'format:foam', 'format:wash', 'format:pads', 'free:ph-balanced', 'free:gynaec', 'free:sulfate', 'free:paraben', 'claim:odour', 'aud:women', 'aud:men'],
+  },
+  {
+    id: 'bodysunscreen', label: 'Body sunscreen', kicker: 'PROTECT', zone: BODY,
+    blurb: 'Sunscreen lotions, sprays and sticks whose own listing names the body, arms, legs or neck — split out from the face-first Sunscreen page. Same UV-filter and UVA checks.',
+    file: 'nx-data-bodysunscreen.js', global: 'NXPRODUCTS', facets: SUN_FACETS,
+    featured: ['spf:50', 'spf:50+', 'pa:++++', 'sun:mineral', 'sun:hybrid', 'format:lotion', 'format:mist', 'format:stick', 'format:gel', 'claim:water-resistant', 'claim:no-white-cast', 'claim:de-tan', 'claim:broad-spectrum', 'free:oxybenzone'],
+  },
+  {
+    id: 'stretchmark', label: 'Stretch-mark cream', kicker: 'MARKS', zone: BODY,
+    blurb: 'Creams, oils and butters marketed for stretch marks and pregnancy skin — centella and retinoids have trial evidence; cocoa butter and oils mostly do not, and are scored accordingly.',
+    file: 'nx-data-stretchmark.js', global: 'NXPRODUCTS', facets: CORE_FACETS,
+    featured: ['ing:centella-cica', 'ing:hyaluronic-acid', 'ing:shea-butter', 'ing:cocoa-butter', 'ing:vitamin-e', 'ing:collagen', 'ing:peptides', 'format:cream', 'format:oil', 'format:balm', 'claim:stretch-marks', 'claim:scars', 'free:paraben'],
+  },
+  {
+    id: 'hairremoval', label: 'Hair-removal cream & wax strips', kicker: 'REMOVE', zone: BODY,
+    blurb: 'Depilatory creams and sprays (thioglycolate), cold-wax strips and body waxes — body care, kept off every hair page. Rosin in wax strips is a declared contact allergen.',
+    file: 'nx-data-hairremoval.js', global: 'NXPRODUCTS', facets: CORE_FACETS,
+    featured: ['format:depilatory', 'format:wax-strip', 'format:body-wax', 'format:mist', 'format:powder', 'ing:aloe-vera', 'ing:shea-butter', 'claim:painless', 'claim:ingrown', 'claim:soothing', 'skin:sensitive', 'scope:body', 'scope:both', 'aud:men', 'aud:women'],
+  },
+  // ── Hair: dry shampoo, scalp scrub, scalp tonic, leave-in, hair spray, keratin kits, hair perfume, beard ────────
+  {
+    id: 'dryshampoo', label: 'Dry shampoo', kicker: 'REFRESH', zone: HAIR,
+    blurb: 'Starch and powder sprays that absorb scalp oil between washes — a refresh, not a clean. Split out from the Shampoo page.',
+    file: 'nx-data-dryshampoo.js', global: 'NXPRODUCTS', facets: HAIR_FACETS,
+    featured: ['format:dry-shampoo', 'format:powder', 'format:mist', 'ing:starch-rice-powder', 'ing:charcoal', 'ing:rice-water', 'concern:oil-absorbing', 'concern:oily-scalp', 'concern:volume', 'free:talc', 'free:sulfate', 'hair:oily', 'concern:odour'],
+  },
+  {
+    id: 'scalpscrub', label: 'Scalp scrub / exfoliator', kicker: 'SCALP', zone: HAIR,
+    blurb: 'Sugar, salt and charcoal scalp scrubs plus salicylic / glycolic scalp exfoliants used before shampoo to lift build-up and flakes.',
+    file: 'nx-data-scalpscrub.js', global: 'NXPRODUCTS', facets: HAIR_FACETS,
+    featured: ['format:scalp-scrub', 'format:scrub', 'ing:salicylic-acid-bha', 'ing:charcoal', 'ing:sea-salt', 'ing:sugar', 'ing:tea-tree', 'ing:apple-cider-vinegar', 'concern:scalp-buildup', 'concern:dandruff', 'concern:oily-scalp', 'concern:scalp-itch', 'free:sulfate', 'hair:oily'],
+  },
+  {
+    id: 'scalptonic', label: 'Scalp tonic & growth lotion', kicker: 'GROWTH', zone: HAIR,
+    blurb: 'Leave-on scalp tonics, topical solutions and growth serums — minoxidil, redensyl, procapil, rosemary, peptides. Split out from the hair-fall shampoos; minoxidil is the only grade-A active.',
+    file: 'nx-data-scalptonic.js', global: 'NXPRODUCTS', facets: HAIR_FACETS,
+    featured: ['format:solution', 'format:hair-tonic', 'format:serum', 'format:mist', 'ing:minoxidil', 'ing:redensyl', 'ing:procapil', 'ing:anagain', 'ing:rosemary', 'ing:caffeine', 'ing:biotin', 'ing:peptides', 'concern:hair-fall', 'concern:hair-growth', 'concern:thinning', 'aud:men', 'aud:women'],
+  },
+  {
+    id: 'leavein', label: 'Leave-in conditioner', kicker: 'LEAVE-IN', zone: HAIR,
+    blurb: 'Leave-in conditioners, detangling sprays and conditioning milks that stay in the lengths — split out from the styling-first Hair cream page.',
+    file: 'nx-data-leavein.js', global: 'NXPRODUCTS', facets: HAIR_FACETS,
+    featured: ['format:leave-in', 'format:mist', 'format:cream', 'format:lotion', 'ing:argan-oil', 'ing:shea-butter', 'ing:keratin', 'ing:dimethicone-silicones', 'ing:coconut', 'concern:detangling', 'concern:frizz', 'concern:dryness', 'concern:curl-definition', 'hair:curly', 'hair:dry', 'free:silicone'],
+  },
+  {
+    id: 'hairspray', label: 'Hair spray / setting spray', kicker: 'HOLD', zone: HAIR,
+    blurb: 'Aerosol and pump hair sprays that fix a finished style — film-forming polymers in alcohol. Split out from the wax / clay / gel page; makeup setting sprays and heat protectants are excluded.',
+    file: 'nx-data-hairspray.js', global: 'NXPRODUCTS', facets: HAIR_FACETS,
+    featured: ['format:hair-spray', 'format:mist', 'concern:hold', 'concern:humidity', 'concern:frizz', 'concern:shine', 'concern:volume', 'concern:restyle', 'free:alcohol', 'free:paraben', 'aud:men', 'aud:women'],
+  },
+  {
+    id: 'keratinkit', label: 'Keratin / smoothening treatment kits', kicker: 'SMOOTH', zone: HAIR,
+    blurb: 'At-home keratin, smoothening, "hair botox" and nanoplastia treatments sealed in with heat. Formaldehyde / methylene glycol on the INCI is the heaviest safety debit on the site.',
+    file: 'nx-data-keratinkit.js', global: 'NXPRODUCTS', facets: HAIR_FACETS,
+    featured: ['format:keratin-treatment', 'format:kit', 'format:cream', 'ing:keratin', 'ing:hydrolysed-protein', 'ing:formaldehyde', 'ing:cysteine', 'concern:smoothing', 'concern:shine', 'concern:dryness', 'concern:frizz', 'concern:damage-repair', 'free:formaldehyde', 'hair:curly', 'hair:damaged'],
+  },
+  {
+    id: 'hairperfume', label: 'Hair perfume / mist', kicker: 'SCENT', zone: HAIR,
+    blurb: 'Hair perfumes and scented hair mists. Every one is a fragrance product by design, so the fragrance and EU-allergen debits apply to all of them — the ranking separates the rest of the formula.',
+    file: 'nx-data-hairperfume.js', global: 'NXPRODUCTS', facets: HAIR_FACETS,
+    featured: ['format:hair-perfume', 'format:mist', 'ing:musk', 'ing:rose', 'ing:niacinamide', 'ing:rosemary', 'concern:odour', 'concern:shine', 'concern:frizz', 'concern:dryness', 'free:alcohol', 'free:vegan', 'free:paraben', 'aud:women', 'aud:unisex'],
+  },
+  {
+    id: 'beard', label: 'Beard oil, wash & balm', kicker: 'BEARD', zone: HAIR,
+    blurb: 'Beard oils, washes, balms and softeners — kept off every scalp and lengths page. Oils are judged on the anhydrous-oil INCI rules; washes on surfactant mildness.',
+    file: 'nx-data-beard.js', global: 'NXPRODUCTS', facets: HAIR_FACETS,
+    featured: ['format:beard-oil', 'format:beard-wash', 'format:beard-balm', 'format:oil', 'ing:argan-oil', 'ing:jojoba', 'ing:almond', 'ing:castor-oil', 'ing:cedarwood', 'ing:vitamin-e', 'concern:beard-growth', 'concern:beard-itch', 'concern:dryness', 'free:sulfate', 'free:paraben'],
   },
 ];
 

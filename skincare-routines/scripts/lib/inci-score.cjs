@@ -7,14 +7,21 @@ const { FLAGS } = require('./inci-flags.cjs');
 const GRADE_PTS = { A: 2.0, B: 1.2, C: 0.4 };
 // Hair: shampoos, conditioners and masks are rinsed; oils, serums and the hair-fall page (mostly leave-on scalp
 // serums / minoxidil, shampoos only a minority) are judged as leave-on — the stricter, honest default.
-const HAIR = new Set(['shampoo', 'antidandruff', 'hairfall', 'conditioner', 'hairmask', 'hairoil', 'hairserum', 'haircream', 'heatprotect', 'hairstyling', 'hydratingcream', 'hydratingserum']);
-// Hydration pages are the leave-in cream / serum forms judged on the same core actives, plus humectants as core.
-const ROLE_ALIAS = { hydratingcream: 'haircream', hydratingserum: 'hairserum' };
+const HAIR = new Set(['shampoo', 'antidandruff', 'hairfall', 'conditioner', 'hairmask', 'hairoil', 'hairserum', 'haircream', 'heatprotect', 'hairstyling', 'hydratingcream', 'hydratingserum',
+  'dryshampoo', 'scalpscrub', 'scalptonic', 'leavein', 'hairspray', 'keratinkit', 'hairperfume', 'beard']);
+// Pages judged on another page's core-active roles: hydration pages are the leave-in cream / serum forms (plus humectants
+// as core); scalp tonics are the hair-fall actives (minoxidil …); leave-in conditioner the conditioning agents of hair
+// cream; hair spray the styling fixatives; body sunscreen the same UV filters (and the same UVA check) as face sunscreen.
+const ROLE_ALIAS = { hydratingcream: 'haircream', hydratingserum: 'hairserum', scalptonic: 'hairfall', leavein: 'haircream', hairspray: 'hairstyling', bodysunscreen: 'sunscreen' };
 const HYDRATION = new Set(['hydratingcream', 'hydratingserum']);
-const RINSE_OFF = new Set(['facewash', 'bodywash', 'exfoliator', 'facemask', 'shampoo', 'antidandruff', 'conditioner', 'hairmask']);
+// Sheet masks, depilatory creams and scalp scrubs are on the skin for minutes and rinsed / peeled off; keratin kits are
+// sealed into the hair and beard products are mostly leave-on oils / balms — those keep the stricter leave-on default.
+const RINSE_OFF = new Set(['facewash', 'bodywash', 'exfoliator', 'facemask', 'shampoo', 'antidandruff', 'conditioner', 'hairmask',
+  'bodyscrub', 'intimatewash', 'hairremoval', 'scalpscrub']);
 const FACE = new Set(['facewash', 'toner', 'essence', 'vitaminc', 'niacinamide', 'retinol', 'exfoliator', 'salicylic',
-  'moisturizer', 'sunscreen', 'facemask', 'eyecream', 'faceoil', 'detan', 'pigmentation']);
-const WASH = new Set(['facewash', 'bodywash', 'shampoo', 'antidandruff']);
+  'moisturizer', 'sunscreen', 'facemask', 'eyecream', 'faceoil', 'detan', 'pigmentation',
+  'acnespot', 'facemist', 'barriercream', 'peptideserum', 'azelaic', 'sheetmask']);
+const WASH = new Set(['facewash', 'bodywash', 'shampoo', 'antidandruff', 'intimatewash', 'beard']);
 const UVA_FILTERS = new Set(['zinc oxide', 'butyl methoxydibenzoylmethane', 'avobenzone', 'bis-ethylhexyloxyphenol methoxyphenyl triazine',
   'methylene bis-benzotriazolyl tetramethylbutylphenol', 'diethylamino hydroxybenzoyl hexyl benzoate', 'terephthalylidene dicamphor sulfonic acid',
   'drometrizole trisiloxane', 'methoxypropylamino cyclohexenylidene ethoxyethylcyanoacetate', 'tris-biphenyl triazine']);
@@ -66,7 +73,7 @@ function formulaScore(category, known) {
   });
   let s = 3.0 + clamp(core, 0, 5.0) + clamp(other, 0, 1.0) + clamp(support.size * 0.25, 0, 1.0);
   const notes = [];
-  if (category === 'sunscreen') {
+  if (role === 'sunscreen') {
     const hasUVA = known.some((k) => UVA_FILTERS.has(k));
     const stable = known.some((k) => STABILISERS.has(k));
     if (!hasUVA) { s -= 2.5; notes.push('No recognised UVA filter on the list'); }
@@ -91,7 +98,7 @@ function safetyScore(category, known, tokens) {
     });
     if (!hits.length) continue;
     let base = rinse ? f.rinseOff : f.leaveOn;
-    if (f.sunscreen !== undefined && category === 'sunscreen') base = f.sunscreen;
+    if (f.sunscreen !== undefined && (ROLE_ALIAS[category] || category) === 'sunscreen') base = f.sunscreen;
     const p = f.perItem ? Math.min(f.cap, base * hits.length) : base;
     penalty += p;
     flags.push({ id: f.id, label: f.label, names: [...new Set(hits)], penalty: r1(p), src: f.src });
@@ -99,4 +106,4 @@ function safetyScore(category, known, tokens) {
   return { score: r1(clamp(10 - penalty, 1, 10)), flags };
 }
 
-module.exports = { formulaScore, safetyScore, RINSE_OFF, FACE, HAIR };
+module.exports = { formulaScore, safetyScore, RINSE_OFF, FACE, HAIR, ROLE_ALIAS };
