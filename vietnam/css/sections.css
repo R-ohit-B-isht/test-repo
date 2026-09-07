@@ -49,6 +49,13 @@
 .map .dot-end { fill: var(--lantern); stroke: var(--lantern); }
 .map .lbl { font: 600 13px var(--font-ui); fill: var(--fg); }
 .map .lbl-sub { font: 500 11px var(--font-mono); fill: var(--fg-3); }
+.map .day-badge { cursor: pointer; outline: none; }
+.map .day-badge rect { fill: var(--card); stroke: var(--fg-2); stroke-width: 1.5; transition: fill var(--t-fast) var(--ease-out), stroke var(--t-fast) var(--ease-out); }
+.map .day-badge text { font: 600 11px var(--font-mono); fill: var(--fg); pointer-events: none; transition: fill var(--t-fast) var(--ease-out); }
+.map .day-badge:hover rect { stroke: var(--lantern); }
+.map .day-badge.is-now rect { fill: var(--lantern); stroke: var(--lantern); }
+.map .day-badge.is-now text { fill: #fff; }
+.map .day-badge:focus-visible rect { stroke: var(--lantern); stroke-width: 3; }
 .map .rain-zone { fill: var(--rain); opacity: 0.08; }
 .map .rain-lbl { font: 500 11px var(--font-mono); fill: var(--rain); letter-spacing: 0.04em; }
 

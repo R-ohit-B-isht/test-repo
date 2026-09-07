@@ -1,6 +1,7 @@
 import { $, html } from '../dom.js';
 import { MAP } from '../data/map.js';
 import { STOPS } from '../data/trip.js';
+import { DAYS } from '../data/days.js';
 
 // Vietnam outline (Natural Earth) with the chosen route drawn on it, south to north.
 // Delhi sits off-canvas to the west, so both international legs are arcs from the left edge.
@@ -16,10 +17,37 @@ const arc = (a, b) => {
   return `M${a[0]} ${a[1]} Q${mx - dy * 0.25} ${my + dx * 0.25} ${b[0]} ${b[1]}`;
 };
 
+// Days spent at each stop, e.g. { hoian: [1, 2], hanoi: [5, 8] }.
+const DAYS_AT = DAYS.reduce((m, d) => ({ ...m, [d.stop]: [...(m[d.stop] || []), d.n] }), {});
+const dayText = (ns) => (ns.length > 1 && ns[ns.length - 1] - ns[0] === ns.length - 1 ? `${ns[0]}–${ns[ns.length - 1]}` : ns.join('·'));
+let currentDay = 1;
+
+const badge = (id) => {
+  const ns = DAYS_AT[id]; if (!ns) return '';
+  const [x, y0] = P[id]; const [side, dy] = LABEL[id]; const y = y0 + dy;
+  const nameW = STOPS.find((s) => s.id === id).name.length * 7;
+  const text = dayText(ns); const w = 10 + text.length * 7;
+  const bx = x + side * (12 + nameW + 8 + w / 2);
+  return html`<g class="day-badge ${ns.includes(currentDay) ? 'is-now' : ''}" data-days="${ns.join()}" role="button" tabindex="0" aria-label="Go to day ${text}">
+    <rect x="${bx - w / 2}" y="${y - 9}" width="${w}" height="18" rx="9"/>
+    <text x="${bx}" y="${y + 3.5}" text-anchor="middle">${text}</text>
+  </g>`;
+};
+
 const label = (id) => {
   const s = STOPS.find((x) => x.id === id); const [x, y] = P[id]; const [side, dy] = LABEL[id];
   return html`<text class="lbl" x="${x + side * 12}" y="${y + 4 + dy}" text-anchor="${side < 0 ? 'end' : 'start'}">${s.name}</text>`;
 };
+
+export function mountMap() {
+  document.addEventListener('day:current', (e) => {
+    currentDay = e.detail;
+    document.querySelectorAll('#map .day-badge').forEach((g) => g.classList.toggle('is-now', g.dataset.days.split(',').map(Number).includes(currentDay)));
+  });
+  const go = (g) => document.dispatchEvent(new CustomEvent('day:go', { detail: Number(g.dataset.days.split(',')[0]) }));
+  $('#map').addEventListener('click', (e) => { const g = e.target.closest('.day-badge'); if (g) go(g); });
+  $('#map').addEventListener('keydown', (e) => { const g = e.target.closest('.day-badge'); if (g && (e.key === 'Enter' || e.key === ' ')) { e.preventDefault(); go(g); } });
+}
 
 export function renderMap(strategy) {
   const [hx, hy] = P.hanoi;
@@ -35,7 +63,7 @@ export function renderMap(strategy) {
   const dayTrips = ['ninhbinh', 'halong'].map((id) => html`<path class="path" d="${arc(P.hanoi, P[id])}" stroke-dasharray="2 4"/>`);
 
   $('#map').innerHTML = html`
-    <svg viewBox="${MAP.viewBox}" role="img" aria-label="Map of Vietnam showing the route from Hoi An and Da Nang up to Hue and Hanoi, with day trips to Ninh Binh and Ha Long Bay">
+    <svg viewBox="${MAP.viewBox}" role="group" aria-label="Map of Vietnam showing the route from Hoi An and Da Nang up to Hue and Hanoi, with day trips to Ninh Binh and Ha Long Bay">
       <path class="land" d="${MAP.outline}"/>
       <rect class="rain-zone" x="0" y="${P.hue[1] - 40}" width="400" height="120" rx="12"/>
       <text class="rain-lbl" x="20" y="${P.hue[1] - 20}">TYPHOON WINDOW · OCT</text>
@@ -44,6 +72,7 @@ export function renderMap(strategy) {
       ${dayTrips}${segs}
       ${Object.keys(P).map((id) => html`<circle class="dot ${id === 'hanoi' || id === 'danang' ? 'dot-end' : ''}" cx="${P[id][0]}" cy="${P[id][1]}" r="${id === 'ninhbinh' || id === 'halong' ? 4 : 6}"/>`)}
       ${Object.keys(P).map(label)}
+      ${Object.keys(P).map(badge)}
       <text class="lbl-sub" x="14" y="${hy - 96}">${roundTrip ? 'DEL ✈ HAN ✈ DAD · HAN ✈ DEL' : 'HAN ✈ DEL'}</text>
       ${roundTrip ? '' : html`<text class="lbl-sub" x="14" y="${dy + 52}">DEL ✈ DAD</text>`}
     </svg>`;

@@ -4,7 +4,7 @@ import { STRATEGIES, REJECTED } from '../strategies.js';
 import { compareStrategies } from '../budget.js';
 import { PRICES, KIND_LABEL, CHECKED } from '../data/prices.js';
 import { SOURCES } from '../data/sources.js';
-import { renderMap } from './map.js';
+import { renderMap, mountMap } from './map.js';
 
 // Route picker: every strategy is the same card shape (Citymapper), so the eye
 // compares price, modes and one line of "why". Legs list = the selected ticket.
@@ -56,6 +56,7 @@ export function mountRoute(store) {
   $('#routes').innerHTML = STRATEGIES.map((s) => card(s, s.legs(PRICES, state))).join('');
   $('#routes').addEventListener('change', (e) => { if (e.target.name === 'strategy') store.set({ strategy: e.target.value }); });
   $('#berth-seg').addEventListener('change', (e) => { if (e.target.name === 'berth') store.set({ berth: e.target.value }); });
+  mountMap();
 }
 
 const renderBerth = (state, show) => {

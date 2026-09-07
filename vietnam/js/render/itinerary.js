@@ -93,22 +93,34 @@ const dayCard = (day, state, transit) => {
 const setCurrent = (n) => {
   $$('.day').forEach((el) => el.classList.toggle('is-current', Number(el.dataset.day) === n));
   $$('#day-dots button').forEach((b) => b.setAttribute('aria-current', Number(b.dataset.day) === n ? 'true' : 'false'));
+  document.dispatchEvent(new CustomEvent('day:current', { detail: n }));
 };
 
 export function mountItinerary() {
   const shelf = $('#shelf');
   $('#day-dots').innerHTML = DAYS.map((d) => html`<button type="button" data-day="${d.n}" aria-label="Day ${d.n}"></button>`).join('');
+  let pending = null;
   const go = (n) => {
     const target = $(`.day[data-day="${n}"]`, shelf);
-    if (target) shelf.scrollTo({ left: target.offsetLeft - shelf.offsetLeft, behavior: 'smooth' });
+    if (!target) return;
+    pending = n;
+    shelf.scrollTo({ left: target.offsetLeft - shelf.offsetLeft, behavior: 'smooth' });
   };
   const current = () => Number($$('.day').find((el) => el.classList.contains('is-current'))?.dataset.day || 1);
   $('#day-dots').addEventListener('click', (e) => { const b = e.target.closest('button'); if (b) go(Number(b.dataset.day)); });
   $('#day-prev').addEventListener('click', () => go(Math.max(1, current() - 1)));
   $('#day-next').addEventListener('click', () => go(Math.min(DAYS.length, current() + 1)));
+  document.addEventListener('day:go', (e) => {
+    $('#days').scrollIntoView({ behavior: 'smooth', block: 'start' });
+    go(e.detail);
+  });
 
   const io = new IntersectionObserver((entries) => {
-    const best = entries.filter((e) => e.isIntersecting).sort((a, b) => b.intersectionRatio - a.intersectionRatio)[0];
+    if (pending !== null) {
+      const r = $(`.day[data-day="${pending}"]`, shelf).getBoundingClientRect(); const s = shelf.getBoundingClientRect();
+      if (r.left >= s.left - 8 && r.right <= s.right + 8) { setCurrent(pending); pending = null; return; }
+    }
+    const best = entries.filter((e) => e.isIntersecting).sort((a, b) => b.intersectionRatio - a.intersectionRatio || a.target.dataset.day - b.target.dataset.day)[0];
     if (best) setCurrent(Number(best.target.dataset.day));
   }, { root: shelf, threshold: [0.6] });
   shelf.addEventListener('rendered', () => $$('.day', shelf).forEach((el) => io.observe(el)));
