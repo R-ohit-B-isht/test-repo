@@ -2,12 +2,14 @@
 // Credit + licence for every record are rendered in Sources.
 import { TRIP_PHOTOS } from './photos/trip.js';
 import { ITEM_PHOTO_RECORDS } from './photos/items.js';
+import { WEB_PHOTO_RECORDS, WEB_ITEM_PHOTOS } from './photos/web.js';
 
-export const PHOTOS = { ...TRIP_PHOTOS, ...ITEM_PHOTO_RECORDS };
+// Web records last so a same-id trip shot (kochi, ship) is replaced by the stronger one.
+export const PHOTOS = { ...TRIP_PHOTOS, ...ITEM_PHOTO_RECORDS, ...WEB_PHOTO_RECORDS };
 
-// Catalogue item id → photo ids. Only photos whose Commons page names the exact
-// island / landmark / activity are listed; items with no such photo are absent.
-export const ITEM_PHOTOS = {
+// Catalogue item id → photo ids. Only photos whose source names the exact island /
+// landmark / activity are listed; items with no such photo are absent.
+const COMMONS_ITEM_PHOTOS = {
   agatti: ['agatti', 'agatti_1', 'agatti_2', 'boat'],
   kavaratti: ['kavaratti', 'kavaratti_1', 'kavaratti_2', 'kavaratti_3'],
   minicoy: ['minicoy_1', 'minicoy_2', 'minicoy_3'],
@@ -26,6 +28,12 @@ export const ITEM_PHOTOS = {
   fishing: ['fishing_1', 'fishing_2'],
   glassBottom: ['glassBottom_1'],
 };
+
+// Web shots lead (they're the exciting ones), Commons set follows.
+export const ITEM_PHOTOS = Object.fromEntries(
+  [...new Set([...Object.keys(WEB_ITEM_PHOTOS), ...Object.keys(COMMONS_ITEM_PHOTOS)])]
+    .map((id) => [id, [...(WEB_ITEM_PHOTOS[id] || []), ...(COMMONS_ITEM_PHOTOS[id] || [])]])
+);
 
 export const itemPhotos = (id) => (ITEM_PHOTOS[id] || []).map((k) => ({ id: k, ...PHOTOS[k] }));
 export const photoSize = (p) => ({ w: p.w || 960, h: p.h || 640 });
