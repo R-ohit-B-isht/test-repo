@@ -11,6 +11,7 @@ import { mountChecklist, renderChecklist } from './render/checklist.js';
 import { mountSources } from './render/sources.js';
 import { mountGallery } from './render/gallery.js';
 import { mountDaySheet } from './render/daySheet.js';
+import { mountPlanner } from './render/planner.js';
 import { mountTheme } from './chrome/theme.js';
 import { mountClock, mountProgress, mountRail, mountReveal } from './chrome/status.js';
 import { mountShortcuts } from './chrome/shortcuts.js';
@@ -26,6 +27,7 @@ mountChecklist(store);
 mountSources();
 mountGallery();
 mountDaySheet(store);
+const planner = mountPlanner(store);
 
 store.subscribe((state) => {
   renderRoute(state);
@@ -42,6 +44,6 @@ mountProgress();
 mountRail();
 mountReveal();
 
-const dev = mountDev(store);
+const dev = mountDev(store, planner);
 mountShortcuts(store, { onDev: dev.toggle, onRoute: () => store.set((s) => ({ strategy: nextStrategy(s) })) });
 if (IS_DEV) dev.toggle();

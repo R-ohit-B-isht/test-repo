@@ -180,8 +180,7 @@ input[type='range']:active::-webkit-slider-thumb { transform: scale(0.9); }
   border-bottom: var(--hair);
 }
 .source__n { color: var(--mist); font-variant-numeric: tabular-nums; }
-.source__body { display: grid; gap: 0.25rem; min-width: 0; }
-.source__body a { overflow-wrap: anywhere; }
+.source__body { display: grid; gap: 0.25rem; min-width: 0; overflow-wrap: anywhere; }
 .source__note { color: var(--mist); grid-column: 2; }
 .sources--credits .source__body a { font: italic 400 1.25rem/1.5rem var(--serif); text-decoration: none; }
 .sources--credits .source__body a:hover { text-decoration: underline; }

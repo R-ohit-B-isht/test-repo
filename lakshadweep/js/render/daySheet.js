@@ -60,9 +60,14 @@ export function openDaySheet(n, from = null) {
   if (!m) return;
   current = m.day.n;
   if (from) opener = from;
-  render(m, state);
   const dlg = $('#daysheet');
+  const step = document.activeElement?.closest('#daysheet [data-sheet-step]')?.dataset.sheetStep;
+  render(m, state);
   if (!dlg.open) dlg.showModal();
+  else if (!dlg.contains(document.activeElement)) {
+    // Re-render drops the focused node; keep keyboard control inside the sheet.
+    (step && $(`[data-sheet-step="${step}"]:not([disabled])`, dlg) || dlg).focus();
+  }
   dlg.scrollTop = 0;
 }
 

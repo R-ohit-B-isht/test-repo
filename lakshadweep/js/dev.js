@@ -4,6 +4,7 @@ import { CHECKLIST } from './data/trip.js';
 import { STRATEGIES } from './strategies.js';
 import { computeBudget, compareStrategies } from './budget.js';
 import { CATALOGUE, DEFAULT_PICKS } from './data/catalogue.js';
+import { systemPrompt, userPrompt } from './ai/context.js';
 
 const pickSet = (on) => Object.fromEntries(CATALOGUE.map((c) => [c.id, on]));
 const ALL_ON = pickSet(true);
@@ -31,10 +32,12 @@ const ACTIONS = [
   { id: 'dump', label: 'Dump budget JSON' },
   { id: 'plan', label: 'Dump day grouping' },
   { id: 'compare', label: 'Dump all strategies' },
+  { id: 'askFill', label: 'Planner · fill a sample ask' },
+  { id: 'askDump', label: 'Planner · dump prompt sent to Gemini' },
   { id: 'reset', label: 'Reset saved state' },
 ];
 
-function run(id, store, out) {
+function run(id, store, out, planner) {
   if (PRESETS[id]) return store.set({ ...PRESETS[id], picks: { ...PRESETS[id].picks } });
   if (id === 'allOn') return store.set({ picks: { ...ALL_ON } });
   if (id === 'allOff') return store.set({ picks: { ...ALL_OFF } });
@@ -56,13 +59,18 @@ function run(id, store, out) {
     const skipped = plan.skipped.map((s) => `${s.item.id}: ${s.why}`);
     out.textContent = JSON.stringify({ placed: plan.placedCount, days, skipped }, null, 1);
   }
+  if (id === 'askFill') return planner.fill('Three of us, more diving, cheaper stay');
+  if (id === 'askDump') {
+    const s = store.get();
+    out.textContent = `${systemPrompt(s)}\n\n---\n\n${userPrompt(s, computeBudget(s), '<your ask>')}`;
+  }
   if (id === 'compare') {
     const rows = compareStrategies(store.get()).map((r) => ({ id: r.strategy.id, days: r.plan.length, transport: r.transport, essentials: r.essentials, perPerson: r.perPerson }));
     out.textContent = JSON.stringify(rows, null, 1);
   }
 }
 
-export function mountDev(store) {
+export function mountDev(store, planner) {
   const panel = $('#dev');
   panel.innerHTML = html`
     <div class="dev__head"><span>Developer mode</span><button type="button" class="chip" data-dev-close aria-label="Close developer mode">Esc</button></div>
@@ -71,7 +79,7 @@ export function mountDev(store) {
   const out = $('#dev-out');
   panel.addEventListener('click', (e) => {
     const btn = e.target.closest('[data-dev]');
-    if (btn) run(btn.dataset.dev, store, out);
+    if (btn) run(btn.dataset.dev, store, out, planner);
     if (e.target.closest('[data-dev-close]')) panel.hidden = true;
   });
   store.subscribe((s) => {

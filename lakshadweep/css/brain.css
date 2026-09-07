@@ -1,0 +1,88 @@
+/* Section 02 head: Gemini planner. Ask bar + quick chips + key sheet + ticked
+   suggestions with per-change deltas. Same hairlines, mono labels, serif numbers. */
+
+.brain { display: grid; gap: var(--s2); margin-bottom: var(--s6); border: var(--hair); padding: var(--s2); background: var(--card); }
+.brain__ask { display: grid; grid-template-columns: auto minmax(0, 1fr) auto auto; align-items: center; gap: var(--s1); }
+.brain__spark { display: grid; place-items: center; width: 1.5rem; height: 1.5rem; color: var(--forest); }
+.brain[data-busy='true'] .brain__spark { color: var(--lagoon); }
+.brain__in {
+  min-width: 0;
+  height: 2.5rem;
+  padding: 0 var(--s1);
+  border: 0;
+  border-bottom: var(--hair);
+  background: transparent;
+  font: italic 400 1.25rem/1.5rem var(--serif);
+}
+.brain__in::placeholder { color: var(--mist); }
+.brain__in:focus-visible { outline: none; border-bottom-color: var(--forest); box-shadow: 0 1px 0 var(--forest); }
+.cta--sm { padding: 0.25rem var(--s2); }
+.brain__keychip { position: relative; }
+.brain__keychip::before {
+  content: '';
+  width: 0.375rem;
+  height: 0.375rem;
+  border-radius: 50%;
+  margin-right: 0.375rem;
+  background: var(--coral);
+  transition: background-color var(--dur-fast) var(--ease-out);
+}
+.brain__keychip[data-has-key='true']::before { background: var(--lagoon); }
+.brain__keychip[aria-expanded='true'] { background: var(--ink); color: var(--paper); }
+
+.brain__chips { display: flex; flex-wrap: wrap; gap: var(--s1); }
+.brain__chips .chip { text-transform: none; letter-spacing: 0; font: italic 400 var(--fs-body)/1 var(--serif); height: 1.75rem; padding: 0 var(--s2); }
+
+.brain__key[hidden] { display: none; }
+.brain__key { display: grid; grid-template-columns: minmax(0, 1fr) auto auto auto; align-items: center; gap: var(--s1); padding-top: var(--s1); border-top: var(--hair); }
+.brain__key input { min-width: 0; height: 2rem; padding: 0 var(--s1); border: var(--hair); border-radius: var(--radius); background: var(--paper); font-size: var(--fs-label); letter-spacing: 0.04em; }
+.brain__key input:focus-visible { outline: 1.5px solid var(--forest); outline-offset: 1px; }
+.brain__getkey { font-size: var(--fs-label); color: var(--mist); white-space: nowrap; }
+
+.brain__out:empty { display: none; }
+.brain__note { color: var(--mist); font-size: var(--fs-label); line-height: 1rem; display: flex; gap: var(--s1); align-items: center; }
+.brain__note.is-error { color: var(--coral); }
+.brain__dots { display: inline-flex; gap: 0.25rem; }
+.brain__dots i { width: 0.375rem; height: 0.375rem; border-radius: 50%; background: var(--forest); animation: brain-dot 0.4s var(--ease-io) infinite alternate; }
+.brain__dots i:nth-child(2) { animation-delay: 0.13s; }
+.brain__dots i:nth-child(3) { animation-delay: 0.26s; }
+@keyframes brain-dot { to { opacity: 0.25; transform: translateY(-0.125rem); } }
+
+.brain__sum { font: italic 400 1.25rem/1.5rem var(--serif); }
+.brain__list { list-style: none; display: grid; border-top: var(--hair); }
+.sug { border-bottom: var(--hair); }
+.sug label { display: grid; grid-template-columns: auto auto minmax(0, 1fr) auto; align-items: center; gap: var(--s1); min-height: 2.5rem; padding: 0.375rem 0; cursor: pointer; }
+.sug label:hover { background: var(--faint); }
+.sug input { accent-color: var(--forest); width: 1rem; height: 1rem; margin: 0; }
+.sug input:focus-visible { outline: 1.5px solid var(--forest); outline-offset: 2px; }
+.sug .ic { width: 1rem; height: 1rem; color: var(--mist); }
+.sug__name { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.sug__name b { font-weight: 400; color: var(--mist); font-size: var(--fs-label); letter-spacing: 0.08em; text-transform: uppercase; margin-right: var(--s1); }
+.sug small { grid-column: 3; color: var(--mist); font-size: var(--fs-label); line-height: 1rem; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.sug__delta { grid-column: 4; grid-row: 1 / span 2; font: italic 400 1.25rem/1.5rem var(--serif); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.sug__delta[data-neg='true'], .brain__total em[data-neg='true'] { color: var(--forest); }
+.sug__delta[data-neg='false'], .brain__total em[data-neg='false'] { color: var(--coral); }
+.sug input:not(:checked) ~ .sug__name, .sug input:not(:checked) ~ small, .sug input:not(:checked) ~ .sug__delta { opacity: 0.4; }
+.sug--no { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; align-items: center; gap: var(--s1); min-height: 2.5rem; color: var(--mist); }
+.sug--no small { font-size: var(--fs-label); white-space: nowrap; }
+
+.brain__foot { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: var(--s1) var(--s2); }
+.brain__total { font: italic 400 1.25rem/1.5rem var(--serif); font-variant-numeric: tabular-nums; }
+.brain__total b { font-weight: 400; }
+.brain__total em { font-style: normal; }
+.sug input:disabled ~ * { opacity: 0.6; }
+
+@media (max-width: 599px) {
+  .brain__ask { grid-template-columns: auto minmax(0, 1fr) auto; }
+  .brain__in { grid-column: 2 / span 2; }
+  .brain__ask .cta--sm { grid-column: 1 / span 2; grid-row: 2; justify-self: stretch; justify-content: center; }
+  .brain__keychip { grid-column: 3; grid-row: 2; }
+  .brain__key { grid-template-columns: minmax(0, 1fr) auto auto; }
+  .brain__getkey { grid-column: 1 / -1; }
+  .sug label { grid-template-columns: auto auto minmax(0, 1fr); }
+  .sug__delta { grid-column: 3; grid-row: 3; justify-self: start; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .brain__dots i { animation: none; opacity: 0.6; }
+}
