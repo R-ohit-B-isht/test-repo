@@ -6,6 +6,7 @@ import { mountDayBoard, renderDayBoard } from './render/dayboard.js';
 import { mountPicker, renderPicker } from './render/picker.js';
 import { mountBudget, renderBudget } from './render/budget.js';
 import { mountChecklist, renderChecklist } from './render/checklist.js';
+import { mountBrain } from './render/brain.js';
 import { renderSources } from './render/sources.js';
 import { mountTheme } from './chrome/theme.js';
 import { mountScroll } from './chrome/scroll.js';
@@ -24,6 +25,7 @@ mountDayBoard(store);
 mountPicker(store);
 mountBudget(store);
 mountChecklist(store);
+const brain = mountBrain(store);
 renderSources();
 
 store.subscribe((state) => {
@@ -38,6 +40,6 @@ store.subscribe((state) => {
 
 mountTheme(store);
 mountScroll();
-mountKeys(store, { toggleDev: mountDev(store) });
+mountKeys(store, { toggleDev: mountDev(store), brain });
 
 window.__planner = store;

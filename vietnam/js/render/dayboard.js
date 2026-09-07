@@ -8,6 +8,7 @@ import { findStrategy } from '../strategies.js';
 import { planTrip } from '../plan.js';
 import { tile, pickHandler } from './tile.js';
 import { mountGalleries } from './gallery.js';
+import { brainCta } from './brain.js';
 
 // Day board: tap a day card → full-screen dialog with that day as a photo grid,
 // grouped Do / Get there / Eat / Sleep / Also see / Nearby. Every tile is the
@@ -85,7 +86,7 @@ const board = (day, state, transit, plan) => {
       <div class="bhero-txt">
         <span class="eyebrow">Day ${day.n} · ${dateOf(day.n)} · ${whereFor(day, transit) || stop.name}</span>
         <h3 id="board-title">${day.title}</h3>
-        <span class="chip ${wx.icon === 'sun' ? 'chip-sun' : 'chip-rain'}" title="${wx.note}">${icon(wx.icon)} ${wx.temp}</span>
+        <div class="row"><span class="chip ${wx.icon === 'sun' ? 'chip-sun' : 'chip-rain'}" title="${wx.note}">${icon(wx.icon)} ${wx.temp}</span>${brainCta(`Day ${day.n} (${day.title}): make this day more fun. Only change picks that land on day ${day.n} or nearby at the same stop.`, 'Improve this day')}</div>
       </div>
       <div class="bnav">
         <button class="btn-icon" type="button" data-board-go="-1" ${day.n === 1 ? 'disabled' : ''} aria-label="Previous day">‹</button>

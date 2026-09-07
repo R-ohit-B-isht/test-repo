@@ -18,6 +18,7 @@
   <link rel="stylesheet" href="css/sections.css" />
   <link rel="stylesheet" href="css/picker.css" />
   <link rel="stylesheet" href="css/board.css" />
+  <link rel="stylesheet" href="css/brain.css" />
 </head>
 <body>
   <a class="skip" href="#route">Skip to the route</a>
@@ -38,6 +39,7 @@
         <a href="#sources">Sources</a>
       </nav>
       <div class="topbar-actions">
+        <button class="btn brain-btn" id="brain-btn" type="button" aria-label="Plan brain (Gemini)" title="Plan brain (G)"><svg class="ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l2 6 6 2-6 2-2 6-2-6-6-2 6-2zM19 15l1 2 2 1-2 1-1 2-1-2-2-1 2-1z" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/></svg><span>Brain</span></button>
         <button class="btn-icon" id="theme-btn" type="button" aria-label="Theme: auto" title="Theme (T)"></button>
         <button class="btn-icon" id="help-btn" type="button" aria-label="Keyboard shortcuts" title="Shortcuts (?)">?</button>
       </div>
@@ -173,6 +175,7 @@
         <kbd>2</kbd><span>Sleeper bus route</span>
         <kbd>3</kbd><span>Fly south route</span>
         <kbd>4</kbd><span>Return via Hanoi</span>
+        <kbd>G</kbd><span>Plan brain (Gemini)</span>
         <kbd>T</kbd><span>Cycle theme</span>
         <kbd>D</kbd><span>Developer bar</span>
         <kbd>?</kbd><span>This panel</span>
@@ -183,6 +186,8 @@
   <div class="overlay board" id="board" data-open="false" role="dialog" aria-modal="true" aria-labelledby="board-title" aria-hidden="true">
     <div class="card"></div>
   </div>
+
+  <div class="overlay brain" id="brain" data-open="false" role="dialog" aria-modal="true" aria-labelledby="brain-title" aria-hidden="true"></div>
 
   <div class="devbar" id="devbar" data-open="false" aria-label="Developer bar"></div>
 

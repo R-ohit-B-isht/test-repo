@@ -1,10 +1,12 @@
 import { $, $$, html, inr } from '../dom.js';
 import { icon } from '../icons.js';
 import { computeBudget } from '../budget.js';
+import { dayOf } from '../plan.js';
 import { PRICES } from '../data/prices.js';
 import { TRIP } from '../data/trip.js';
 import { srcPill } from './route.js';
 import { activityInr } from '../data/activities.js';
+import { brainCta } from './brain.js';
 
 // Budget: sliders for the four things you control, the tickets your picks add
 // up to, and a ledger with dotted leaders + a stacked bar. Sliders are built once.
@@ -28,7 +30,7 @@ const sliderRow = (s) => html`
 
 const ticketLine = (x, plan, travellers) => html`
   <div class="ledger-line">
-    <span class="lbl">${icon(x.icon)} ${x.name} <span class="chip chip-ink num">D${plan.placed.get(x.id)}</span></span><span class="lead"></span><span class="amt num">${inr(activityInr(x, travellers))}</span>
+    <span class="lbl">${icon(x.icon)} ${x.name} <span class="chip chip-ink num">D${dayOf(plan, x.id)}</span></span><span class="lead"></span><span class="amt num">${inr(activityInr(x, travellers))}</span>
   </div>`;
 
 const ticketsCard = (b, state) => html`
@@ -76,5 +78,6 @@ export function renderBudget(state) {
       <div class="ledger-line ledger-total"><span class="lbl">${TRIP.days} days, all in</span><span class="lead"></span><span class="amt num">${inr(b.total)}</span></div>
     </div>
     <div class="grp"><span>${state.travellers} ${state.travellers === 1 ? 'traveller' : 'travellers'}</span><b class="num">${inr(b.group)}</b></div>
+    <div class="mode-chips" style="margin-top:16px">${brainCta(`My total is ${inr(b.total)} per person. Make it cheaper without touching flights, and keep the trip fun.`, 'Make it cheaper')}${brainCta('I have a bit more budget. Upgrade the two or three things that would make this trip noticeably better.', 'Splurge smart')}</div>
     <p class="small muted" style="margin-top:16px">Flights: ${TRIP.observedWindow}, one adult, taxes and fees in, 7 kg cabin bag only. Fares move daily; not live seats.</p>`;
 }

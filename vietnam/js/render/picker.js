@@ -1,12 +1,13 @@
 import { $, $$, html, inr } from '../dom.js';
 import { icon } from '../icons.js';
-import { ACTIVITIES, EXTRA_STOPS, isExtra, isFun, activityInr } from '../data/activities.js';
+import { EXTRA_STOPS, catalogOf, isExtra, isFun, activityInr } from '../data/activities.js';
 import { STOPS } from '../data/trip.js';
 import { SOURCES } from '../data/sources.js';
 import { findStrategy } from '../strategies.js';
 import { planTrip, MAX_PER_DAY, dayOf } from '../plan.js';
 import { tile, pickHandler } from './tile.js';
 import { mountGalleries } from './gallery.js';
+import { brainCta } from './brain.js';
 
 // Picker: one tab per stop, a tile per activity. Tap = on/off; the day cards
 // re-pack themselves. Tiles show where they landed (D3) or why they did not
@@ -25,10 +26,10 @@ const tileOrder = (p, q) => (isFun(q) - isFun(p)) || (!!q.must - !!p.must);
 
 // Off-route picks are a wishlist: they never enter the 8-day cards or the budget,
 // but each card totals what its picks would add if you stretched the trip.
-const extraPicked = (state) => ACTIVITIES.filter((x) => isExtra(x) && state.picks[x.id] && !x.closed);
+const extraPicked = (state) => catalogOf(state).filter((x) => isExtra(x) && state.picks[x.id] && !x.closed);
 
 const extraCard = (stop, state, plan) => {
-  const items = ACTIVITIES.filter((x) => x.stop === stop.id);
+  const items = catalogOf(state).filter((x) => x.stop === stop.id);
   const on = items.filter((x) => state.picks[x.id] && !x.closed);
   const cost = on.reduce((s, x) => s + (activityInr(x, state.travellers) || 0), 0);
   const s = SOURCES[stop.src];
@@ -45,7 +46,7 @@ const extraCard = (stop, state, plan) => {
 };
 
 const tabs = (state, plan) => ROUTE_ORDER.map((id) => {
-  const mine = ACTIVITIES.filter((x) => x.stop === id);
+  const mine = catalogOf(state).filter((x) => x.stop === id);
   const on = mine.filter((x) => dayOf(plan, x.id) != null).length;
   return html`<label><input type="radio" name="picker-tab" value="${id}" ${tab === id ? 'checked' : ''} aria-label="${stopName(id)}" /><span>${stopName(id)}<span class="cnt num">${on}/${mine.length}</span></span></label>`;
 }).join('');
@@ -77,7 +78,8 @@ export function mountPicker(store) {
 
 export function renderPicker(state) {
   const plan = planTrip(state, findStrategy(state.strategy).transit);
-  const onRoute = ACTIVITIES.filter((x) => !isExtra(x));
+  const all = catalogOf(state);
+  const onRoute = all.filter((x) => !isExtra(x));
   const picked = onRoute.filter((x) => state.picks[x.id] && !x.closed).length;
   const extra = extraPicked(state);
   $('#picker-sum').innerHTML = html`
@@ -86,10 +88,11 @@ export function renderPicker(state) {
     <span class="chip num">${inr(plan.cost)} pp</span>
     ${plan.noRoom.length ? html`<span class="chip chip-sun num">${plan.noRoom.length} no room</span>` : ''}
     ${extra.length ? html`<a class="chip chip-lantern num" href="#picker-extra">${extra.length} need extra days</a>` : ''}
+    ${brainCta(plan.noRoom.length ? 'Some of my picks have no room. Rebalance: drop the least fun ones so everything I care about fits, and tell me what you dropped.' : 'Look at my picks and suggest what to switch on or off for a more fun, well-paced trip.', 'Tidy my picks')}
     <span class="sub">${picked}/${onRoute.length} picked · max ${MAX_PER_DAY} fun a day · sights ride along</span>`;
   $('#picker-tabs').innerHTML = tabs(state, plan);
   $('#picker-kind').innerHTML = kindTabs();
-  const tiles = ACTIVITIES.filter((x) => x.stop === tab && byKind(x)).sort(tileOrder);
+  const tiles = all.filter((x) => x.stop === tab && byKind(x)).sort(tileOrder);
   $('#picker-grid').innerHTML = tiles.length ? tiles.map((x) => tile(x, state, plan)).join('') : html`<p class="sub empty">Nothing of that kind here.</p>`;
   $('#picker-extra').innerHTML = html`
     <span class="eyebrow">Not on this route · needs extra days</span>

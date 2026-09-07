@@ -107,14 +107,20 @@ export const EXTRA_STOPS = [
 ];
 
 export const BY_ID = Object.fromEntries(ACTIVITIES.map((x) => [x.id, x]));
+
+// The catalog plus anything the plan brain added (`state.custom`, `est: true`,
+// rupee estimates rather than sourced list prices).
+export const catalogOf = (state) => (state.custom?.length ? [...ACTIVITIES, ...state.custom] : ACTIVITIES);
+export const lookup = (state, id) => BY_ID[id] || state.custom?.find((x) => x.id === id);
+
 export const isExtra = (x) => EXTRA_STOPS.some((s) => s.id === x.stop);
 export const isFun = (x) => x.kind !== 'see';
 
 // Rupees per person for one activity, or null when there is nothing to pay
 // (free, or covered by a switched-on tour). `travellers` splits per-group prices.
 export const activityInr = (x, travellers = 1) => {
-  if (x.free || (!x.vnd && !x.usd)) return null;
-  const amt = x.vnd ? inrFromVnd(x.vnd) : inrFromUsd(x.usd);
+  if (x.free || (!x.vnd && !x.usd && !x.inr)) return null;
+  const amt = x.inr || (x.vnd ? inrFromVnd(x.vnd) : inrFromUsd(x.usd));
   return x.per === 'group' ? Math.ceil(amt / travellers) : amt;
 };
 

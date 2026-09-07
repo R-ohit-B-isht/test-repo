@@ -15,6 +15,12 @@ export const DEFAULT_STATE = {
   local: 300,
   buffer: 10,
   picks: DEFAULT_PICKS,
+  custom: [],
   checklist: {},
   theme: 'auto',
 };
+
+// Gemini key lives in its own localStorage slot: never in state, never in the
+// dev dump, never sent anywhere but generativelanguage.googleapis.com.
+export const GEMINI_KEY_SLOT = 'vietnam-gemini-key';
+export const GEMINI_MODELS = ['gemini-2.5-flash', 'gemini-2.5-pro'];

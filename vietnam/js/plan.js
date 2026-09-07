@@ -1,4 +1,4 @@
-import { ACTIVITIES, BY_ID, activityInr, isExtra, isFun } from './data/activities.js';
+import { catalogOf, lookup, activityInr, isExtra, isFun } from './data/activities.js';
 import { DAYS, SLOTS, slotFor } from './data/days.js';
 
 // Packs the switched-on activities into the open slots of the eight days.
@@ -106,16 +106,17 @@ const attachSee = (days, x, seen) => {
 
 // Nearby for a day: things at that day's stops that are not on the cards.
 // Fun first (that is what the slots are for), then sights, closed last.
-const nearbyFor = (d, placed, seen, bundled, noRoom) => {
+const nearbyFor = (d, all, placed, seen, bundled, noRoom) => {
   const stops = dayStops(d);
-  return ACTIVITIES
+  return all
     .filter((x) => stops.has(x.stop) && !placed.has(x.id) && !seen.has(x.id) && !bundled.has(x.id) && !isExtra(x))
     .sort((p, q) => (noRoom.includes(q.id) - noRoom.includes(p.id)) || (isFun(q) - isFun(p)) || mustFirst(p, q) || (!!p.closed - !!q.closed))
     .map((x) => ({ x, status: x.closed ? 'closed' : noRoom.includes(x.id) ? 'noroom' : 'off' }));
 };
 
 export function planTrip(state, transit) {
-  const on = ACTIVITIES.filter((x) => state.picks[x.id] && !x.closed && !isExtra(x));
+  const all = catalogOf(state);
+  const on = all.filter((x) => state.picks[x.id] && !x.closed && !isExtra(x));
   const bundled = new Set(on.flatMap((x) => x.includes || []));
   const wanted = on.filter((x) => !bundled.has(x.id) && isFun(x)).sort(mustFirst);
   const days = DAYS.map((d) => emptyDay(d, transit));
@@ -130,8 +131,8 @@ export function planTrip(state, transit) {
   on.filter((x) => !bundled.has(x.id) && !isFun(x)).forEach((x) => attachSee(days, x, seen));
 
   const noRoom = wanted.filter((x) => !placed.has(x.id)).map((x) => x.id);
-  const nearby = days.map((d) => nearbyFor(d, placed, seen, bundled, noRoom));
-  const paid = [...placed.keys(), ...seen.keys()].map((id) => BY_ID[id]).filter((x) => !x.food && activityInr(x, state.travellers) != null);
+  const nearby = days.map((d) => nearbyFor(d, all, placed, seen, bundled, noRoom));
+  const paid = [...placed.keys(), ...seen.keys()].map((id) => lookup(state, id)).filter((x) => !x.food && activityInr(x, state.travellers) != null);
   const cost = paid.reduce((s, x) => s + activityInr(x, state.travellers), 0);
 
   return { days, placed, seen, bundled, noRoom, nearby, paid, cost };

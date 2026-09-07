@@ -25,6 +25,8 @@ export function mountDev(store) {
     'No picks': () => store.setPicks({}),
     'Default picks': () => store.setPicks({ ...DEFAULT_PICKS }),
     'Parks + cruise': () => store.setPicks(Object.fromEntries(ACTIVITIES.filter((x) => x.tag === 'park' || x.id === 'halongOvernight').map((x) => [x.id, true]))),
+    'Brain: cheaper': () => document.dispatchEvent(new CustomEvent('brain:open', { detail: { prompt: 'Make the whole trip cheaper without touching flights.' } })),
+    'Drop Gemini spots': () => store.set((s) => ({ custom: [], picks: Object.fromEntries(Object.entries(s.picks).filter(([k]) => !k.startsWith('ai-'))) })),
     'Tick all': () => store.set({ checklist: allChecks(true) }),
     'Untick all': () => store.set({ checklist: {} }),
     'Dump budget': () => { $('pre', bar).hidden = !$('pre', bar).hidden; },

@@ -10,8 +10,8 @@ export const priceTag = (x, travellers) => {
   if (x.closed) return html`<span class="tag tag-off">closed</span>`;
   const amt = activityInr(x, travellers);
   if (amt == null) return html`<span class="tag tag-free">${x.free ? 'free' : 'in tour'}</span>`;
-  const title = [x.range, x.per === 'group' ? `split ${travellers} ways` : '', x.food ? 'comes out of the food dial' : ''].filter(Boolean).join(' · ');
-  return html`<span class="tag ${x.food ? 'tag-food' : ''}" title="${title}">${inr(amt)}${x.per === 'group' ? '/pp' : ''}</span>`;
+  const title = [x.est ? 'Gemini estimate, not a sourced price' : x.range, x.per === 'group' ? `split ${travellers} ways` : '', x.food ? 'comes out of the food dial' : ''].filter(Boolean).join(' · ');
+  return html`<span class="tag ${x.food ? 'tag-food' : ''} ${x.est ? 'tag-est' : ''}" title="${title}">${x.est ? '≈' : ''}${inr(amt)}${x.per === 'group' ? '/pp' : ''}</span>`;
 };
 
 export const srcIcon = (x) => {
