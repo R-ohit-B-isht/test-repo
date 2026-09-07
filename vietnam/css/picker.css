@@ -45,9 +45,26 @@
 .picker-sum { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s-2); }
 .picker-sum .sub { color: var(--fg-3); font-size: var(--fs-1); }
 .picker-sum a.chip { text-decoration: none; }
-.picker-tabs { display: flex; flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; margin-bottom: var(--s-4); max-width: 100%; }
+.picker-bar { display: flex; flex-wrap: wrap; gap: var(--s-2); align-items: center; margin-bottom: var(--s-4); }
+.picker-tabs { display: flex; flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; max-width: 100%; }
 .picker-tabs::-webkit-scrollbar { display: none; }
 .picker-tabs label { flex: none; }
+.picker-kind span { padding: 0 12px; }
+.picker-kind .ic { width: 14px; height: 14px; }
+.picker-sum .chip .ic { width: 13px; height: 13px; margin-right: 4px; }
+.picker .empty { grid-column: 1 / -1; color: var(--fg-3); font-style: italic; padding: var(--s-3) 0; }
+
+/* ★ must-do and "see" (a sight that rides along without a slot) */
+.ic.must { width: 13px; height: 13px; margin-left: 5px; vertical-align: -1px; color: var(--lantern); fill: var(--lantern); }
+.tile .kind { position: absolute; z-index: 1; top: var(--s-3); right: var(--s-3); display: inline-flex; align-items: center; gap: 3px; padding: 2px 7px 2px 5px; border-radius: var(--r-pill); font: 500 11px var(--font-mono); background: rgb(0 0 0 / 0.45); color: #fff; pointer-events: none; }
+.tile:not(:has(.pics)) .kind { background: var(--bg-2); color: var(--fg-2); }
+.tile .kind .ic { width: 12px; height: 12px; }
+.tile.is-see.is-on { border-color: var(--fg-2); box-shadow: inset 0 0 0 1px var(--fg-2); }
+.tile.is-see.is-on .ic-wrap { background: var(--fg); color: var(--bg); }
+.chip.pick.is-see[aria-pressed='true'] { border-color: var(--fg-2); background: var(--bg-2); color: var(--fg); }
+.day .also .when .ic { width: 16px; height: 16px; margin-top: -1px; color: var(--fg-3); }
+.day .block .picks.around { display: flex; flex-wrap: wrap; gap: 6px; }
+.day .around .chip.is-see[aria-pressed='true'] { border-style: solid; }
 .picker-tabs .cnt { margin-left: 6px; font: 500 11px var(--font-mono); color: var(--fg-3); }
 .picker-tabs input:checked + span .cnt { color: var(--fg-2); }
 .picker { display: grid; gap: var(--s-2); }

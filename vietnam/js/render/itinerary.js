@@ -1,26 +1,21 @@
 import { $, $$, html, inr } from '../dom.js';
 import { icon } from '../icons.js';
 import { DAYS, SLOTS, SLOT_LABEL, sleepFor, mealsFor, whereFor } from '../data/days.js';
-import { STOPS, WEATHER, TRIP, inrFromVnd, inrFromUsd } from '../data/trip.js';
+import { STOPS, WEATHER, dateOf, inrFromVnd, inrFromUsd } from '../data/trip.js';
 import { SOURCES } from '../data/sources.js';
 import { findStrategy } from '../strategies.js';
 import { PHOTOS } from '../data/photos.js';
 import { planTrip } from '../plan.js';
-import { priceTag, pickChip, includesText } from './picks.js';
+import { priceTag, pickChip, includesText, mustMark } from './picks.js';
 import { thumb } from './gallery.js';
 
 // Horizontal photo shelf (Airbnb). One card per day, four rows in the same order
 // every time — Do / Eat / Sleep / Nearby — so the eye learns the card once.
-// "Do" is AM / PM / Night: fixed transit lines plus whatever plan.js packed in;
+// "Do" is AM / PM / Night: fixed transit lines plus whatever plan.js packed in,
+// then an "also see" line of switched-on sights that ride along without a slot;
 // "Nearby" is everything else at that day's stops, tap to add.
 
 const NEARBY_SHOWN = 6;
-
-const dateOf = (n) => {
-  const d = new Date(`${TRIP.start}T00:00:00`);
-  d.setDate(d.getDate() + n - 1);
-  return d.toLocaleDateString('en-IN', { weekday: 'short', day: 'numeric', month: 'short' });
-};
 
 const MEAL = ['B', 'L', 'D'];
 
@@ -32,7 +27,7 @@ const srcLink = (key, label) => {
 const pickRow = (x, travellers) => html`
   <div class="pk ${x.cont ? 'is-cont' : ''}">
     ${x.cont ? icon(x.icon) : thumb(x) || icon(x.icon)}
-    <span class="txt">${x.name}${x.cont ? '' : priceTag(x, travellers)}${!x.cont && x.includes ? html`<span class="sub">${includesText(x)}</span>` : ''}</span>
+    <span class="txt">${x.name}${x.cont ? '' : mustMark(x)}${x.cont ? '' : priceTag(x, travellers)}${!x.cont && x.includes ? html`<span class="sub">${includesText(x)}</span>` : ''}${x.hint ? html`<span class="sub">${x.hint}</span>` : ''}</span>
     ${x.cont ? '' : html`<button class="x" type="button" data-pick="${x.id}" aria-label="Take ${x.name} off">${icon('x')}</button>`}
   </div>`;
 
@@ -51,6 +46,12 @@ const slotRow = (key, slot, travellers) => {
       </span>
     </div>`;
 };
+
+const seeRow = (see, travellers) => (see.length ? html`
+  <div class="block also">
+    <span class="when">${icon('eye')}</span>
+    <span class="picks around">${see.map((x) => pickChip(x, 'on', travellers))}</span>
+  </div>` : '');
 
 const nearbyRow = (near, tips, travellers) => {
   const shown = near.slice(0, NEARBY_SHOWN);
@@ -89,6 +90,7 @@ const dayCard = (day, state, transit, plan) => {
         <img src="assets/photos/${day.photo}.jpg" alt="${photo.alt}" width="${photo.w}" height="${photo.h}" loading="lazy" decoding="async" />
         <span class="n num" aria-hidden="true">${day.n}</span>
         <span class="wx chip ${wx.icon === 'sun' ? 'chip-sun' : 'chip-rain'}" title="${wx.note}">${icon(wx.icon)} ${wx.temp}</span>
+        <button class="open" type="button" data-open-day="${day.n}" aria-haspopup="dialog" aria-label="Open day ${day.n} board">${icon('grid')}</button>
       </div>
       <div class="body">
         <div>
@@ -97,7 +99,7 @@ const dayCard = (day, state, transit, plan) => {
         </div>
         <section class="row-do" aria-label="Do">
           <span class="lbl">Do</span>
-          <div class="blocks">${SLOTS.map((k) => slotRow(k, planned.slots[k], state.travellers))}</div>
+          <div class="blocks">${SLOTS.map((k) => slotRow(k, planned.slots[k], state.travellers))}${seeRow(planned.see, state.travellers)}</div>
         </section>
         <section class="row-eat" aria-label="Eat">
           <span class="lbl">Eat</span>
@@ -139,11 +141,15 @@ export function mountItinerary(store) {
     $('#days').scrollIntoView({ behavior: 'smooth', block: 'start' });
     go(e.detail);
   });
+  // Tap a card (anywhere that is not a control) to open its day board.
   shelf.addEventListener('click', (e) => {
     const pick = e.target.closest('[data-pick]');
     if (pick) { store.togglePick(pick.dataset.pick); return; }
     const more = e.target.closest('[data-more]');
-    if (more) document.dispatchEvent(new CustomEvent('picker:show', { detail: more.dataset.more }));
+    if (more) { document.dispatchEvent(new CustomEvent('picker:show', { detail: more.dataset.more })); return; }
+    if (!e.target.closest('[data-open-day]') && e.target.closest('a, button, input')) return;
+    const day = e.target.closest('.day');
+    if (day) document.dispatchEvent(new CustomEvent('day:open', { detail: Number(day.dataset.day) }));
   });
 
   const io = new IntersectionObserver((entries) => {

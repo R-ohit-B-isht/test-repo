@@ -1,6 +1,6 @@
 import { html, inr } from '../dom.js';
 import { icon } from '../icons.js';
-import { BY_ID, activityInr } from '../data/activities.js';
+import { BY_ID, activityInr, isFun } from '../data/activities.js';
 import { SOURCES } from '../data/sources.js';
 
 // Shared bits for one activity: its price tag, its source link, a toggle chip.
@@ -21,6 +21,9 @@ export const srcIcon = (x) => {
 
 export const includesText = (x) => (x.includes || []).map((id) => BY_ID[id]?.name).filter(Boolean).join(' · ');
 
+// ★ on must-dos — pre-ticked and packed first, still one tap to drop.
+export const mustMark = (x) => (x.must ? icon('star', 'must') : '');
+
 // One toggle chip. `status`: 'on' | 'off' | 'noroom' | 'closed' | 'bundled'.
 // data-pick carries the id; the section listener flips it in the store.
 export const pickChip = (x, status, travellers, dayN) => {
@@ -29,8 +32,8 @@ export const pickChip = (x, status, travellers, dayN) => {
   const on = status === 'on' || status === 'noroom';
   const hint = status === 'noroom' ? 'on, but no room on these days — take something off' : x.note || '';
   return html`
-    <button class="chip pick ${status === 'noroom' ? 'is-noroom' : ''}" type="button" data-pick="${x.id}" aria-pressed="${on}" title="${hint}">
-      ${icon(x.icon)}<span class="nm">${x.name}</span>
+    <button class="chip pick ${status === 'noroom' ? 'is-noroom' : ''} ${on ? 'is-on' : ''} ${isFun(x) ? '' : 'is-see'}" type="button" data-pick="${x.id}" aria-pressed="${String(on)}" title="${hint}">
+      ${icon(on ? 'check' : x.icon)}<span class="nm">${x.name}</span>${mustMark(x)}
       ${dayN ? html`<span class="d num">D${dayN}</span>` : ''}
       ${priceTag(x, travellers)}
     </button>`;

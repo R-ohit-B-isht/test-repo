@@ -19,6 +19,12 @@ export const FX = {
   inrPerUsd: 95.7,
 };
 
+export const dateOf = (n) => {
+  const d = new Date(`${TRIP.start}T00:00:00`);
+  d.setDate(d.getDate() + n - 1);
+  return d.toLocaleDateString('en-IN', { weekday: 'short', day: 'numeric', month: 'short' });
+};
+
 export const inrFromVnd = (vnd) => Math.round(vnd / FX.vndPerInr);
 export const inrFromUsd = (usd) => Math.round(usd * FX.inrPerUsd);
 

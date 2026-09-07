@@ -1,56 +1,27 @@
 import { $, $$, html, inr } from '../dom.js';
 import { icon } from '../icons.js';
-import { ACTIVITIES, EXTRA_STOPS, isExtra, activityInr } from '../data/activities.js';
+import { ACTIVITIES, EXTRA_STOPS, isExtra, isFun, activityInr } from '../data/activities.js';
 import { STOPS } from '../data/trip.js';
 import { SOURCES } from '../data/sources.js';
 import { findStrategy } from '../strategies.js';
-import { planTrip, MAX_PER_DAY } from '../plan.js';
-import { priceTag, srcIcon, includesText } from './picks.js';
-import { strip, galleryClick, mountGalleries } from './gallery.js';
+import { planTrip, MAX_PER_DAY, dayOf } from '../plan.js';
+import { tile, pickHandler } from './tile.js';
+import { mountGalleries } from './gallery.js';
 
 // Picker: one tab per stop, a tile per activity. Tap = on/off; the day cards
 // re-pack themselves. Tiles show where they landed (D3) or why they did not
-// (no room / closed / in a tour). Off-route stops get their own "+days" strip.
+// (no room / closed / in a tour). Fun tiles first, then sights ("see" — they
+// never take a slot). Off-route stops get their own "+days" strip.
 
 const ROUTE_ORDER = ['hoian', 'danang', 'hue', 'hanoi', 'ninhbinh', 'halong'];
+const KINDS = [['all', 'All'], ['fun', 'Fun'], ['see', 'See']];
 const stopName = (id) => STOPS.find((s) => s.id === id)?.name || EXTRA_STOPS.find((s) => s.id === id)?.name || id;
 
 let tab = ROUTE_ORDER[0];
+let kind = 'all';
 
-// Off-route picks never enter the plan, so for them "on" just means wished for.
-const statusOf = (x, state, plan) => {
-  if (x.closed) return 'closed';
-  if (plan.bundled.has(x.id)) return 'bundled';
-  if (!state.picks[x.id]) return 'off';
-  return isExtra(x) || plan.placed.has(x.id) ? 'on' : 'noroom';
-};
-
-const badge = (x, status, plan) => {
-  if (status === 'on') return plan.placed.has(x.id) ? html`<span class="chip chip-ink num">D${plan.placed.get(x.id)}</span>` : '';
-  if (status === 'noroom') return html`<span class="chip chip-sun">no room</span>`;
-  if (status === 'bundled') return html`<span class="chip chip-jade">in tour</span>`;
-  if (status === 'closed') return html`<span class="chip">closed</span>`;
-  return '';
-};
-
-const tile = (x, state, plan) => {
-  const status = statusOf(x, state, plan);
-  const dead = status === 'closed' || status === 'bundled';
-  // The card is a div with a full-bleed <button class="hit"> underneath, so the
-  // photo strip and source <a> can sit on top without nesting interactive content.
-  return html`
-    <div class="tile ${status === 'on' ? 'is-on' : ''} ${status === 'noroom' ? 'is-noroom' : ''} ${dead ? 'is-dead' : ''}">
-      <button class="hit" type="button" data-pick="${x.id}" aria-pressed="${String(status === 'on' || status === 'noroom')}" ${dead ? 'disabled' : ''}
-        aria-label="${x.name}" title="${x.closed || x.note || ''}"></button>
-      ${strip(x)}
-      <span class="ic-wrap">${icon(status === 'on' ? 'check' : x.icon)}</span>
-      <span class="body">
-        <span class="nm">${x.name}</span>
-        <span class="sub">${x.closed || x.note || ''}${x.includes ? html` · incl. ${includesText(x)}` : ''}</span>
-      </span>
-      <span class="meta">${badge(x, status, plan)}${priceTag(x, state.travellers)}${srcIcon(x)}</span>
-    </div>`;
-};
+const byKind = (x) => kind === 'all' || (kind === 'fun') === isFun(x);
+const tileOrder = (p, q) => (isFun(q) - isFun(p)) || (!!q.must - !!p.must);
 
 // Off-route picks are a wishlist: they never enter the 8-day cards or the budget,
 // but each card totals what its picks would add if you stretched the trip.
@@ -69,15 +40,17 @@ const extraCard = (stop, state, plan) => {
         <span class="sub">${stop.how}${s ? html` <a class="src" href="${s.url}" target="_blank" rel="noopener" aria-label="Source: ${s.name}">${icon('link')}</a>` : ''}</span>
         ${on.length ? html`<span class="chip chip-jade num">${on.length} picked · ${cost ? `+${inr(cost)} pp` : 'free'}</span>` : ''}
       </div>
-      <div class="extra-list">${items.map((x) => tile(x, state, plan))}</div>
+      <div class="extra-list">${[...items].sort(tileOrder).map((x) => tile(x, state, plan))}</div>
     </div>`;
 };
 
 const tabs = (state, plan) => ROUTE_ORDER.map((id) => {
   const mine = ACTIVITIES.filter((x) => x.stop === id);
-  const on = mine.filter((x) => plan.placed.has(x.id)).length;
+  const on = mine.filter((x) => dayOf(plan, x.id) != null).length;
   return html`<label><input type="radio" name="picker-tab" value="${id}" ${tab === id ? 'checked' : ''} aria-label="${stopName(id)}" /><span>${stopName(id)}<span class="cnt num">${on}/${mine.length}</span></span></label>`;
 }).join('');
+
+const kindTabs = () => KINDS.map(([id, label]) => html`<label><input type="radio" name="picker-kind" value="${id}" ${kind === id ? 'checked' : ''} aria-label="${label}" />${id === 'fun' ? icon('sparkle') : id === 'see' ? icon('eye') : ''}<span>${label}</span></label>`).join('');
 
 export function mountPicker(store) {
   $('#picker-tabs').addEventListener('change', (e) => {
@@ -85,13 +58,12 @@ export function mountPicker(store) {
     tab = e.target.value;
     renderPicker(store.get());
   });
-  // Tap anywhere on the card — photo included — flips the pick; arrows and
-  // source links are the only parts that do their own thing.
-  const onPick = (e) => {
-    if (galleryClick(e) || e.target.closest('a')) return;
-    const b = e.target.closest('[data-pick]') || e.target.closest('.tile')?.querySelector('[data-pick]');
-    if (b && !b.disabled) store.togglePick(b.dataset.pick);
-  };
+  $('#picker-kind').addEventListener('change', (e) => {
+    if (e.target.name !== 'picker-kind') return;
+    kind = e.target.value;
+    renderPicker(store.get());
+  });
+  const onPick = pickHandler(store);
   ['#picker-grid', '#picker-extra'].forEach((sel) => {
     $(sel).addEventListener('click', onPick);
     mountGalleries($(sel));
@@ -109,13 +81,16 @@ export function renderPicker(state) {
   const picked = onRoute.filter((x) => state.picks[x.id] && !x.closed).length;
   const extra = extraPicked(state);
   $('#picker-sum').innerHTML = html`
-    <span class="chip chip-ink num">${plan.placed.size} on the cards</span>
+    <span class="chip chip-ink num">${icon('sparkle')}${plan.placed.size} fun</span>
+    <span class="chip num">${icon('eye')}${plan.seen.size} see</span>
     <span class="chip num">${inr(plan.cost)} pp</span>
     ${plan.noRoom.length ? html`<span class="chip chip-sun num">${plan.noRoom.length} no room</span>` : ''}
     ${extra.length ? html`<a class="chip chip-lantern num" href="#picker-extra">${extra.length} need extra days</a>` : ''}
-    <span class="sub">${picked}/${onRoute.length} picked · max ${MAX_PER_DAY} a day</span>`;
+    <span class="sub">${picked}/${onRoute.length} picked · max ${MAX_PER_DAY} fun a day · sights ride along</span>`;
   $('#picker-tabs').innerHTML = tabs(state, plan);
-  $('#picker-grid').innerHTML = ACTIVITIES.filter((x) => x.stop === tab).map((x) => tile(x, state, plan)).join('');
+  $('#picker-kind').innerHTML = kindTabs();
+  const tiles = ACTIVITIES.filter((x) => x.stop === tab && byKind(x)).sort(tileOrder);
+  $('#picker-grid').innerHTML = tiles.length ? tiles.map((x) => tile(x, state, plan)).join('') : html`<p class="sub empty">Nothing of that kind here.</p>`;
   $('#picker-extra').innerHTML = html`
     <span class="eyebrow">Not on this route · needs extra days</span>
     <div class="extra-grid">${EXTRA_STOPS.map((s) => extraCard(s, state, plan))}</div>`;

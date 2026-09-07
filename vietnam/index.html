@@ -17,6 +17,7 @@
   <link rel="stylesheet" href="css/chrome.css" />
   <link rel="stylesheet" href="css/sections.css" />
   <link rel="stylesheet" href="css/picker.css" />
+  <link rel="stylesheet" href="css/board.css" />
 </head>
 <body>
   <a class="skip" href="#route">Skip to the route</a>
@@ -100,7 +101,10 @@
           </div>
           <div class="picker-sum" id="picker-sum" aria-live="polite"></div>
         </div>
-        <div class="seg picker-tabs reveal" id="picker-tabs" role="tablist" aria-label="Stop"></div>
+        <div class="picker-bar reveal">
+          <div class="seg picker-tabs" id="picker-tabs" role="tablist" aria-label="Stop"></div>
+          <div class="seg picker-kind" id="picker-kind" role="tablist" aria-label="Fun or see"></div>
+        </div>
         <div class="picker reveal" id="picker-grid"></div>
         <div class="picker-extra reveal" id="picker-extra"></div>
       </div>
@@ -174,6 +178,10 @@
         <kbd>?</kbd><span>This panel</span>
       </div>
     </div>
+  </div>
+
+  <div class="overlay board" id="board" data-open="false" role="dialog" aria-modal="true" aria-labelledby="board-title" aria-hidden="true">
+    <div class="card"></div>
   </div>
 
   <div class="devbar" id="devbar" data-open="false" aria-label="Developer bar"></div>

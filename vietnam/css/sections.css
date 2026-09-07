@@ -112,13 +112,16 @@
   scrollbar-width: none; -webkit-overflow-scrolling: touch;
 }
 .shelf::-webkit-scrollbar { display: none; }
-.day { scroll-snap-align: start; padding: 0; overflow: clip; display: grid; }
-.day .photo { position: relative; aspect-ratio: 3 / 2; }
+/* Rows: photo, then body takes the stretch — otherwise the shelf's equal-height
+   cards pour their spare height into the 3:2 photo, which grows sideways. */
+.day { scroll-snap-align: start; padding: 0; overflow: clip; display: grid; grid-template-rows: auto 1fr; }
+.day .photo { position: relative; aspect-ratio: 3 / 2; min-width: 0; }
 .day .photo img { width: 100%; height: 100%; object-fit: cover; }
 .day .photo .n { position: absolute; left: var(--s-3); top: var(--s-3); width: 40px; height: 40px; border-radius: 50%; display: grid; place-items: center; background: var(--card); color: var(--fg); font: 600 var(--fs-2) var(--font-display); }
 .day .photo .wx { position: absolute; right: var(--s-3); top: var(--s-3); }
 .day .body { padding: var(--s-3) var(--s-4) var(--s-4); display: grid; gap: var(--s-3); align-content: start; }
-.day .body .eyebrow { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.day .body > * { min-width: 0; }
+.day .body .eyebrow { display: block; line-height: 1.4; }
 /* Four fixed rows — Do / Eat / Sleep / Nearby — each a mono label over its list. */
 .day section { display: grid; gap: var(--s-2); padding-top: var(--s-3); border-top: 1px dashed var(--line); min-width: 0; }
 .day .lbl { font: 500 11px var(--font-mono); color: var(--fg-3); letter-spacing: 0.08em; text-transform: uppercase; }
