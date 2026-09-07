@@ -3,6 +3,7 @@ import { IS_DEV } from './config.js';
 import { STRATEGIES } from './strategies.js';
 import { computeBudget } from './budget.js';
 import { CHECKLIST } from './data/checklist.js';
+import { ACTIVITIES, DEFAULT_PICKS } from './data/activities.js';
 
 // Developer bar (Command pattern: each button is a named action on the store).
 // Opens with ?dev=1, localStorage.IS_DEV='true', or the D key.
@@ -20,7 +21,10 @@ export function mountDev(store) {
 
   const ACTIONS = {
     'Cycle route': () => store.set((s) => ({ strategy: STRATEGIES[(STRATEGIES.findIndex((x) => x.id === s.strategy) + 1) % STRATEGIES.length].id })),
-    'All activities': () => store.set((s) => ({ activities: Object.fromEntries(Object.keys(s.activities).map((k) => [k, true])) })),
+    'All picks': () => store.setPicks(Object.fromEntries(ACTIVITIES.map((x) => [x.id, true]))),
+    'No picks': () => store.setPicks({}),
+    'Default picks': () => store.setPicks({ ...DEFAULT_PICKS }),
+    'Parks + cruise': () => store.setPicks(Object.fromEntries(ACTIVITIES.filter((x) => x.tag === 'park' || x.id === 'halongOvernight').map((x) => [x.id, true]))),
     'Tick all': () => store.set({ checklist: allChecks(true) }),
     'Untick all': () => store.set({ checklist: {} }),
     'Dump budget': () => { $('pre', bar).hidden = !$('pre', bar).hidden; },
@@ -37,7 +41,8 @@ export function mountDev(store) {
   const paint = () => { bar.dataset.open = String(open); localStorage.setItem('IS_DEV', String(open)); };
   store.subscribe((s) => {
     const b = computeBudget(s);
-    $('pre', bar).textContent = JSON.stringify({ state: s, total: b.total, group: b.group, lines: Object.fromEntries(b.lines.map((l) => [l.id, l.amount])) }, null, 1);
+    const placed = Object.fromEntries(b.plan.placed);
+    $('pre', bar).textContent = JSON.stringify({ state: s, total: b.total, group: b.group, lines: Object.fromEntries(b.lines.map((l) => [l.id, l.amount])), placed, noRoom: b.plan.noRoom }, null, 1);
   });
   paint();
   return () => { open = !open; paint(); };

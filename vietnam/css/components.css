@@ -66,24 +66,6 @@
 .slider input { grid-column: 1 / -1; width: 100%; accent-color: var(--lantern); height: 32px; margin: 0; }
 .slider .hint { grid-column: 1 / -1; font-size: var(--fs-1); color: var(--fg-3); margin-top: -4px; }
 
-/* Switch (activity toggles) */
-.switch {
-  display: flex; align-items: center; gap: var(--s-3); width: 100%; text-align: left;
-  padding: var(--s-2); border-radius: var(--r-card); border: 1px solid var(--line); background: var(--card);
-  transition: border-color var(--t-fast) var(--ease-out), transform var(--t-fast) var(--ease-out), opacity var(--t-fast) var(--ease-out);
-}
-.switch:active { transform: scale(0.98); }
-.switch img { width: 56px; height: 56px; object-fit: cover; border-radius: var(--r-ctl); }
-.switch .txt { flex: 1; min-width: 0; }
-.switch .txt b { display: block; font-weight: 600; }
-.switch .txt span { font-size: var(--fs-1); color: var(--fg-2); }
-.switch .knob { width: 40px; height: 24px; border-radius: var(--r-pill); background: var(--line); position: relative; flex: none; transition: background-color var(--t-fast) var(--ease-out); }
-.switch .knob::after { content: ''; position: absolute; top: 3px; left: 3px; width: 18px; height: 18px; border-radius: 50%; background: var(--card); transition: translate var(--t-fast) var(--ease-out); }
-.switch[aria-pressed='true'] { border-color: var(--jade); }
-.switch[aria-pressed='true'] .knob { background: var(--jade); }
-.switch[aria-pressed='true'] .knob::after { translate: 16px 0; }
-.switch[aria-pressed='false'] img { filter: grayscale(1); opacity: 0.7; }
-
 /* Ledger line with dotted leader */
 .ledger { display: grid; gap: var(--s-2); }
 .ledger-line { display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: var(--s-2); }

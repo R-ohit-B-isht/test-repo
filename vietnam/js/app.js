@@ -2,6 +2,7 @@ import { createStore } from './store.js';
 import { mountHero, renderHero } from './render/hero.js';
 import { mountRoute, renderRoute } from './render/route.js';
 import { mountItinerary, renderItinerary } from './render/itinerary.js';
+import { mountPicker, renderPicker } from './render/picker.js';
 import { mountBudget, renderBudget } from './render/budget.js';
 import { mountChecklist, renderChecklist } from './render/checklist.js';
 import { renderSources } from './render/sources.js';
@@ -17,7 +18,8 @@ const store = createStore();
 
 mountHero(store);
 mountRoute(store);
-mountItinerary();
+mountItinerary(store);
+mountPicker(store);
 mountBudget(store);
 mountChecklist(store);
 renderSources();
@@ -26,6 +28,7 @@ store.subscribe((state) => {
   renderHero(state);
   renderRoute(state);
   renderItinerary(state);
+  renderPicker(state);
   renderBudget(state);
   renderChecklist(state);
 });

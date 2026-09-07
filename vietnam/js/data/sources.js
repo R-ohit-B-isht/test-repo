@@ -91,9 +91,189 @@ export const SOURCES = {
     note: 'Flat 45,000 ₫, every 25–30 min, ~45 min from the railway station / Old Quarter.',
   },
   halongDay: {
-    name: 'Vietnam Discoveries · Ha Long Bay day trip ex-Hanoi',
-    url: 'https://vietnamdiscoveries.com/hanoi-halong-bay-day-trip-with-titop-island-cave-kayak/',
-    note: 'From US$40 incl. Hanoi pickup, seafood lunch, Sung Sot cave, kayak at Luon cove, Titop climb. 08:20 → 20:30.',
+    name: 'The Sinh Tour · Diamond Era day cruise 2026',
+    url: 'https://thesinhtour.com/en/diamond-era-cruise-halong-1-day/',
+    note: 'US$40 at Ha Long port, US$46 with the Old Quarter shuttle. Buffet lunch, Sung Sot cave, Titop island, kayak or bamboo boat at Luon cave. Indian set menu +US$2.',
+  },
+  halongOvernight: {
+    name: 'Ava Travel · budget Ha Long overnight cruises 2026',
+    url: 'https://avastravelagency.com/halong-bay-cruise-budget/',
+    note: '2D1N from US$78 (Garden Bay), US$85 Apricot, US$92 Aphrodite, all-in with Hanoi transfer, meals, kayak, cave. Avoid the US$59 no-name deals.',
+  },
+  lanHa: {
+    name: 'Good Morning Cat Ba · Lan Ha Bay day tour 2026',
+    url: 'https://goodmorningcatba.com/day-trip-ha-long-lan-ha-bay/',
+    note: 'US$32–35 group day tour from Cat Ba town; luxury boats 750,000 ₫ in low season (Oct–Mar). Needs a night on Cat Ba.',
+  },
+  sunWorldHalong: {
+    name: 'Sun World Ha Long · bảng giá vé 2026',
+    url: 'https://sunworldhalong.com/gia-ve/',
+    note: 'Queen cable car 380,000 ₫ adult / 280,000 ₫ child, weekends 09:00–20:00, weekdays from 14:00. Dragon Park stopped operating 16 Aug 2026; water park 350,000 ₫.',
+  },
+  banaHills: {
+    name: 'Sun World · Ba Na Hills ticket prices 2026',
+    url: 'https://sunworld.vn/en/banahills/travel-guide/price-list-tickets-services-sun-world-ba-na-hills-year-2026-19796',
+    note: 'Basic ticket (return cable car, Golden Bridge, Fantasy Park): non-residents 1,000,000 ₫ adult, 800,000 ₫ child 1–1.4 m. Buffet combo 1,050,000 ₫ nights.',
+  },
+  asiaPark: {
+    name: 'Da Nang Downtown · giá vé & tiến độ 2026',
+    url: 'https://danangsundowntown.vn/gia-ve-da-nang-downtown-huong-dan-chi-tiet-2026/',
+    note: 'The old Asia Park closed on 3 Sep 2025 for a redevelopment; reopening in a new form is only "expected late 2026". No tickets on sale.',
+  },
+  vinNamHoian: {
+    name: 'VinWonders Nam Hoi An · ticket prices',
+    url: 'https://vinwonders.com/en/offers/vinwonders-nam-hoi-an-ticket-prices/',
+    note: 'Adult 650,000 ₫, after 14:00 450,000 ₫; child / senior 490,000 ₫. 17 km south of Hoi An.',
+  },
+  vinVuYen: {
+    name: 'VinWonders Vũ Yên (Hải Phòng) · giá vé 2026',
+    url: 'https://vinwonders.com/vi/wonderpedia/news/gia-ve-vinwonders-vu-yen/',
+    note: 'Single zone from 200,000 ₫ (water park) / 300,000 ₫ (zoo or rides), after 17:00 flat 250,000 ₫, combos 450,000–520,000 ₫.',
+  },
+  baoSon: {
+    name: 'Bảo Sơn Paradise · giá vé hè 2026',
+    url: 'https://baosonparadise.vn/gia-ve-he-2026-tai-cong-vien-thien-duong-bao-son',
+    note: 'Summer full ticket 450,000 ₫ over 1.3 m, 350,000 ₫ for 1–1.3 m; April price list was 200,000 ₫. Closed Mondays. Re-check the October list.',
+  },
+  hoaLo: {
+    name: 'Hoa Lo Prison Relic · tickets',
+    url: 'https://hoalo.vn/EN/Home/Ve',
+    note: 'Adult 50,000 ₫, students 25,000 ₫, open 08:00–17:00 daily. Night tours are separate and book out.',
+  },
+  waterPuppets: {
+    name: 'Asia Travel Links · Hanoi water puppet guide 2026',
+    url: 'https://asiatravellinksdmc.com/travel-guide/hanoi-water-puppet-show-guide-theaters-seats-tickets',
+    note: 'Thang Long theatre, 57B Dinh Tien Hoang: several 50-min shows daily, tickets ~100,000–200,000 ₫ by seat (nhahatmuaroithanglong.vn to book).',
+  },
+  trainStreet: {
+    name: 'Vietnam Unlock · Train Street 2026',
+    url: 'https://vietnamunlock.com/hanoi-train-street/',
+    note: 'Le Duan section free; Phung Hung cafés want one drink, 50,000–100,000 ₫. Access varies by section and day; trains ~15:00 and ~19:00.',
+  },
+  ethnology: {
+    name: 'Origin Vietnam · Museum of Ethnology',
+    url: 'https://www.originvietnam.com/destinations/vietnam-museum-of-ethnology/',
+    note: 'Entry 40,000 ₫, English-speaking guide 100,000 ₫ per group; photo permit 50,000 ₫.',
+  },
+  trangTien: {
+    name: 'Vinpearl · Tràng Tiền ice cream',
+    url: 'https://vinpearl.com/en/trang-tien-ice-cream-hanoi',
+    note: 'Cones 15,000 ₫, sticks 10,000–15,000 ₫ at 35 Tràng Tiền.',
+  },
+  tamCoc: {
+    name: 'Ninh Binh Tourism Dept · Tam Coc – Bich Dong fees',
+    url: 'https://dulichninhbinh.com.vn/en/item/1801',
+    note: 'Adult boat + entrance 250,000 ₫ (350,000 ₫ with the electric car). Hoa Lu 20,000 ₫ adult on the same page.',
+  },
+  trangAn: {
+    name: 'Viet Flame Tours · Trang An boat ticket 2026',
+    url: 'https://vietflametours.com/trang-an-boat-tour-ticket-2026/',
+    note: 'Adult 300,000 ₫ incl. boat (4–5 per boat), private boat 1,200,000 ₫, guide 300,000 ₫ a route.',
+  },
+  muaCave: {
+    name: 'vietnam.vn · Mua Cave raises entrance fee from 1 Apr 2026',
+    url: 'https://www.vietnam.vn/en/hang-mua-ninh-binh-tang-gia-ve-tu-1-4',
+    note: 'From 100,000 ₫ to 150,000 ₫ per person, children under 1 m free.',
+  },
+  hoaLu: {
+    name: 'Ninh Binh Booking · Hoa Lu ticket 2026',
+    url: 'https://ninhbinhbooking.com/en/hoa-lu-ancient-capital/ticket-price',
+    note: 'Adults 20,000 ₫, children 10,000 ₫.',
+  },
+  khaiDinh: {
+    name: 'Hue Top Tours · Khai Dinh tomb fee 2026',
+    url: 'https://huetoptours.com/khai-dinh-tomb-entrance-fee/',
+    note: 'Adult 150,000 ₫, child 7–12 30,000 ₫. Citadel + two tombs combo 420,000 ₫ (hoiandaytrip.com).',
+  },
+  perfumeRiver: {
+    name: 'Danang Motorbike Adventure · Perfume River dragon boat prices',
+    url: 'https://danangmotorbikeadventure.com/price-list-of-dragon-boat-tickets-on-huong-river-hue/',
+    note: 'Single dragon boat 300,000 ₫ first hour, 200,000 ₫ each hour after. Toa Kham → Thien Mu one way 250,000 ₫ per boat.',
+  },
+  hoThuyTien: {
+    name: 'Hue Day Tour · Thuy Tien lake abandoned water park',
+    url: 'https://huedaytour.com/guide/thuy-tien-lake-the-abandoned-water-park/',
+    note: 'Technically closed; guards let you in for an informal 20,000–50,000 ₫ "parking" fee. Trip.com (Jun 2026) reports it clean and accessible.',
+  },
+  dragonBridge: {
+    name: 'Hoi An IT · Dragon Bridge fire show',
+    url: 'https://hoianit.com/dragon-bridge-da-nang/',
+    note: 'Fire and water at 21:00 Fri–Sun, free; the bridge closes to traffic at 20:45. 27 km from Hoi An.',
+  },
+  sonTra: {
+    name: 'Day Trips Vietnam · Son Tra peninsula 2026',
+    url: 'https://daytripsvietnam.com/destinations/da-nang/day-trips/son-tra-peninsula-day-trip/',
+    note: 'No entry fee. Motorbike 120,000–150,000 ₫ a day + 50,000–70,000 ₫ fuel; Grab to Linh Ung 80,000–120,000 ₫ one way. Steep ridge roads.',
+  },
+  mySon: {
+    name: 'Hoi An Wonders · My Son entrance fee 2026',
+    url: 'https://hoianwonders.vn/en/my-son-sanctuary-entrance-fee/',
+    note: 'International adults 150,000 ₫, under 1.4 m free, audio guide 50,000 ₫. Sunrise minibus tours from Hoi An are the cheap way in.',
+  },
+  bayMau: {
+    name: 'Danang to Hoi An · Bay Mau basket boat price 2026',
+    url: 'https://danangtohoian.com/bay-mau-coconut-forest-basket-boat-price-2026-hoi-an-guide/',
+    note: '100,000 ₫ per guest: 30,000 ₫ entrance + 70,000 ₫ boat. Avoid the roadside touts.',
+  },
+  tailor: {
+    name: 'Tailor Suit Hoi An · 2026 price comparison',
+    url: 'https://tailorsuithoian.com/tailor-price-comparison-in-hoi-an-2026-what-you-should-expect-to-pay',
+    note: 'Suits US$120–200 at budget tailors, US$250–400 mid-range. Allow two fittings over two days.',
+  },
+  hoianBoat: {
+    name: 'Your Vietnam Travel · Hoi An lantern boat 2026',
+    url: 'https://www.yourvietnamtravel.com/hoi-an-lantern-boat-ride',
+    note: 'Official tickets: 150,000 ₫ per boat for 1–3 people, 200,000 ₫ for 4–5. Night market on Nguyen Hoang is free to walk.',
+  },
+  hoianMemories: {
+    name: 'Hoi An Memories Show · tickets',
+    url: 'https://hoianmemoriesshow.com/',
+    note: 'Eco 600,000 ₫, High 750,000 ₫, VIP 1,200,000 ₫; kids 1–1.4 m 300,000 ₫. Closed Tuesdays.',
+  },
+  fansipan: {
+    name: 'Thaiest · Fansipan cable car price 2026',
+    url: 'https://thaiest.com/vietnam/travel/fansipan-cable-car-ticket-price',
+    note: 'Return cable car 850,000 ₫ adult; Muong Hoa monorail 200,000 ₫; summit funicular 170,000 ₫ up / 150,000 ₫ down.',
+  },
+  catCat: {
+    name: 'Fly Sapa · Cat Cat village',
+    url: 'https://www.flysapa.com/en/post/cat-cat-sapa',
+    note: 'Entrance about 150,000 ₫ adult, open 07:00–17:30, 3 km walk from Sapa town.',
+  },
+  sapaBus: {
+    name: '12Go · Hanoi → Sapa buses',
+    url: 'https://12go.asia/en/bus/hanoi/sapa/',
+    note: 'Sleepers US$6.84–7.22, VIP cabins US$12–19; 5.5–6.5 h. Night departures land you in Sapa at dawn.',
+  },
+  sapaTour: {
+    name: 'Vietnam Discoveries · 2-day Sapa + Fansipan from Hanoi',
+    url: 'https://vietnamdiscoveries.com/from-hanoi-2-day-sapa-fansipan-and-muong-hoa-valley-tour/',
+    note: 'US$169 packaged: return bus, Fansipan cable car, 3-star night, guide, Muong Hoa valley walk. DIY is cheaper.',
+  },
+  phongNhaFees: {
+    name: 'Phong Nha Taxi · attraction fees 2026',
+    url: 'https://phongnhataxi.com/phong-nha-attractions-entrance-fee/',
+    note: 'Paradise Cave 250,000 ₫ (buggy 20,000 ₫), Phong Nha Cave 150,000 ₫ + boat 700,000 ₫ per 12, Tien Son 80,000 ₫.',
+  },
+  darkCave: {
+    name: 'Phong Nha Private Cars · Dark Cave guide 2026',
+    url: 'https://phongnhaprivatecars.com/dark-cave-travel-guide/',
+    note: 'Full adventure (zipline, mud bath, kayak) 450,000 ₫ adult; standard 250,000 ₫. 08:00–16:00.',
+  },
+  sonDoong: {
+    name: 'Oxalis Adventure · Son Doong expedition',
+    url: 'https://oxalisadventure.com/tour/son-doong-cave-expedition-4d3n/',
+    note: 'US$3,000 per person, 4 days 3 nights, sole operator. 2027 departures already fully booked.',
+  },
+  phongNhaBus: {
+    name: 'CheckMyBus · Hue → Phong Nha',
+    url: 'https://www.checkmybus.com/hue/phong-nha',
+    note: 'US$8–11, 3.5–4.5 h, afternoon departures from the Pham Ngu Lao strip.',
+  },
+  hpTrain: {
+    name: 'Vexere · Hanoi → Hai Phong trains',
+    url: 'https://vexere.com/vn/trains/from-ha-noi-to-ga-hai-phong-ngo-quyen-hai-phong.24.171653.en',
+    note: 'Four trains a day, 2 h 25 min, from 128,000 ₫.',
   },
   ninhbinhTour: {
     name: 'Ninh Binh One Day Tours · Hoa Lu · Mua Cave · Tam Coc',

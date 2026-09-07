@@ -35,16 +35,6 @@ export const PRICES = {
   grabToStation: p(inrFromVnd(125000), 'marbleMountains', 'estimate', '100,000–150,000 ₫ per car, Marble Mountains → Da Nang', { perGroup: true }),
   bus86: p(inrFromVnd(45000), 'bus86', 'listed', 'flat 45,000 ₫'),
 
-  // Days out
-  halong: p(inrFromUsd(40), 'halongDay', 'listed', 'US$40–45 day cruise ex-Hanoi'),
-  ninhbinh: p(inrFromVnd(1000000), 'ninhbinhTour', 'listed', '1,000,000 ₫ bus tour'),
-  hueCitadel: p(inrFromVnd(200000), 'hueCitadel', 'listed', '200,000 ₫ adult'),
-  hueTomb: p(inrFromVnd(150000), 'hueTombs', 'listed', '150,000 ₫ Tu Duc tomb'),
-  hoianTicket: p(inrFromVnd(120000), 'hoianTicket', 'listed', '120,000 ₫ five sites'),
-  marble: p(inrFromVnd(40000), 'marbleMountains', 'listed', '40,000 ₫ · lift 15,000 each way'),
-  ngocSon: p(inrFromVnd(50000), 'hanoiSights', 'listed', '50,000 ₫ Ngoc Son temple'),
-  literature: p(inrFromVnd(70000), 'hanoiSights', 'listed', '70,000 ₫ Temple of Literature'),
-
   // Daily rates — sliders start here, you decide the comfort
   bed: p(inrFromUsd(9), 'hostels', 'estimate', 'dorm US$5–16/night'),
   food: p(inrFromUsd(10.5), 'foodBudget', 'estimate', 'US$6–10 street · US$10–18 mixed'),

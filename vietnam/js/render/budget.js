@@ -2,27 +2,18 @@ import { $, $$, html, inr } from '../dom.js';
 import { icon } from '../icons.js';
 import { computeBudget } from '../budget.js';
 import { PRICES } from '../data/prices.js';
-import { PHOTOS } from '../data/photos.js';
 import { TRIP } from '../data/trip.js';
 import { srcPill } from './route.js';
+import { activityInr } from '../data/activities.js';
 
-// Budget: sliders for the four things you control, photo switches for the days
-// out, and a ledger with dotted leaders + a stacked bar. Controls are built once.
+// Budget: sliders for the four things you control, the tickets your picks add
+// up to, and a ledger with dotted leaders + a stacked bar. Sliders are built once.
 
 const SLIDERS = [
   { id: 'bed', label: 'Bed / night', icon: 'bed', min: 400, max: 3000, step: 50, hint: (v) => (v < 900 ? 'dorm bed' : v < 1800 ? 'private room, shared' : 'private ensuite'), src: PRICES.bed },
   { id: 'food', label: 'Food / day', icon: 'bowl', min: 500, max: 2500, step: 50, hint: (v) => (v < 900 ? 'street food only' : v < 1600 ? 'street + local restaurants' : 'restaurants, drinks'), src: PRICES.food },
   { id: 'local', label: 'Getting around / day', icon: 'moto', min: 100, max: 1000, step: 50, hint: (v) => (v < 250 ? 'walk + one GrabBike' : v < 600 ? '2–3 GrabBike hops' : 'GrabCar most hops'), src: PRICES.local },
   { id: 'buffer', label: 'Buffer', icon: 'shield', min: 0, max: 25, step: 5, unit: '%', hint: (v) => (v < 10 ? 'tight' : v <= 15 ? 'sensible' : 'relaxed') },
-];
-
-const ACTIVITIES = [
-  { id: 'hoianTicket', name: 'Hoi An Old Town ticket', photo: 'hoian', day: 2 },
-  { id: 'marble', name: 'Marble Mountains', photo: 'danang', day: 3 },
-  { id: 'hueCitadel', name: 'Hue Imperial City', photo: 'hue', day: 4 },
-  { id: 'hueTomb', name: 'Tu Duc tomb', photo: 'haivan', day: 4 },
-  { id: 'ninhbinh', name: 'Ninh Binh day tour', photo: 'ninhbinh', day: 6 },
-  { id: 'halong', name: 'Ha Long day cruise', photo: 'halong', day: 7 },
 ];
 
 const COLORS = { flights: 'var(--lantern)', ground: 'var(--indigo)', stay: 'var(--jade)', food: 'var(--sun)', activities: 'var(--rain)', local: 'var(--fg-3)', admin: 'var(--line)', buffer: 'var(--bg-2)' };
@@ -35,19 +26,24 @@ const sliderRow = (s) => html`
     <span class="hint" data-hint="${s.id}"></span>
   </div>`;
 
-const activityBtn = (a) => html`
-  <button class="switch" type="button" data-activity="${a.id}" aria-pressed="false">
-    <img src="assets/photos/${a.photo}.jpg" alt="" width="56" height="56" loading="lazy" />
-    <span class="txt"><b>${a.name}</b><span>Day ${a.day} · <span class="num">${inr(PRICES[a.id].amount)}</span> ${srcPill(PRICES[a.id])}</span></span>
-    <span class="knob" aria-hidden="true"></span>
-  </button>`;
+const ticketLine = (x, plan, travellers) => html`
+  <div class="ledger-line">
+    <span class="lbl">${icon(x.icon)} ${x.name} <span class="chip chip-ink num">D${plan.placed.get(x.id)}</span></span><span class="lead"></span><span class="amt num">${inr(activityInr(x, travellers))}</span>
+  </div>`;
+
+const ticketsCard = (b, state) => html`
+  <div class="card"><span class="eyebrow">Days out · from your picks</span>
+    <div class="ledger" style="margin-top:16px">
+      ${b.plan.paid.length ? b.plan.paid.map((x) => ticketLine(x, b.plan, state.travellers)) : html`<span class="muted small">Nothing ticketed yet — everything on the cards is free.</span>`}
+    </div>
+    <a class="btn-link" href="#picker">${icon('sparkle')} Change picks</a>
+  </div>`;
 
 export function mountBudget(store) {
   $('#controls').innerHTML = html`
     <div class="card"><span class="eyebrow">Comfort dials</span><div class="ledger" style="margin-top:16px">${SLIDERS.map(sliderRow)}</div></div>
-    <div><span class="eyebrow">Days out · tap to include</span><div class="activities" style="margin-top:16px">${ACTIVITIES.map(activityBtn)}</div></div>`;
+    <div id="tickets"></div>`;
   $('#controls').addEventListener('input', (e) => { if (e.target.type === 'range') store.set({ [e.target.name]: Number(e.target.value) }); });
-  $('#controls').addEventListener('click', (e) => { const b = e.target.closest('[data-activity]'); if (b) store.toggleActivity(b.dataset.activity); });
   $('#travellers-seg').innerHTML = html`<div class="seg" role="radiogroup" aria-label="Travellers">${[1, 2, 3, 4].map((n) => html`<label><input type="radio" name="travellers" value="${n}" aria-label="${n} ${n === 1 ? 'traveller' : 'travellers'}" /><span>${icon('users')} ${n}</span></label>`)}</div>`;
   $('#travellers-seg').addEventListener('change', (e) => { if (e.target.name === 'travellers') store.set({ travellers: Number(e.target.value) }); });
 }
@@ -65,7 +61,7 @@ export function renderBudget(state) {
     $(`[data-out="${s.id}"]`).textContent = s.unit ? `${v}${s.unit}` : inr(v);
     $(`[data-hint="${s.id}"]`).textContent = s.hint(v);
   });
-  $$('[data-activity]').forEach((el) => el.setAttribute('aria-pressed', String(!!state.activities[el.dataset.activity])));
+  $('#tickets').innerHTML = ticketsCard(b, state);
   $$('input[name="travellers"]').forEach((el) => { el.checked = Number(el.value) === state.travellers; });
 
   $('#ledger').innerHTML = html`

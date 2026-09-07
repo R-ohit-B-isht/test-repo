@@ -16,6 +16,7 @@
   <link rel="stylesheet" href="css/components.css" />
   <link rel="stylesheet" href="css/chrome.css" />
   <link rel="stylesheet" href="css/sections.css" />
+  <link rel="stylesheet" href="css/picker.css" />
 </head>
 <body>
   <a class="skip" href="#route">Skip to the route</a>
@@ -30,6 +31,7 @@
       <nav class="topnav" aria-label="Sections">
         <a href="#route">Route</a>
         <a href="#days">Days</a>
+        <a href="#picker">Picks</a>
         <a href="#budget">Budget</a>
         <a href="#checklist">Book</a>
         <a href="#sources">Sources</a>
@@ -75,7 +77,7 @@
         <div class="section-head reveal">
           <div>
             <span class="eyebrow">03 · Eight days</span>
-            <h2 id="days-title">North first, while it's dry.</h2>
+            <h2 id="days-title">Middle first, then north.</h2>
           </div>
           <div class="days-head">
             <div class="dots" id="day-dots" aria-label="Jump to day"></div>
@@ -89,11 +91,26 @@
       </div>
     </section>
 
+    <section class="section" id="picker" aria-labelledby="picker-title">
+      <div class="wrap">
+        <div class="section-head reveal">
+          <div>
+            <span class="eyebrow">04 · Pick your stuff</span>
+            <h2 id="picker-title">Tap it on. We slot it in.</h2>
+          </div>
+          <div class="picker-sum" id="picker-sum" aria-live="polite"></div>
+        </div>
+        <div class="seg picker-tabs reveal" id="picker-tabs" role="tablist" aria-label="Stop"></div>
+        <div class="picker reveal" id="picker-grid"></div>
+        <div class="picker-extra reveal" id="picker-extra"></div>
+      </div>
+    </section>
+
     <section class="section" id="budget" aria-labelledby="budget-title">
       <div class="wrap">
         <div class="section-head reveal">
           <div>
-            <span class="eyebrow">04 · Budget</span>
+            <span class="eyebrow">05 · Budget</span>
             <h2 id="budget-title">Your comfort, your number.</h2>
           </div>
           <div id="travellers-seg"></div>
@@ -109,7 +126,7 @@
       <div class="wrap">
         <div class="section-head reveal">
           <div>
-            <span class="eyebrow">05 · Book it</span>
+            <span class="eyebrow">06 · Book it</span>
             <h2 id="checklist-title">In this order.</h2>
           </div>
           <span class="chip" id="date-chip"></span>
@@ -125,7 +142,7 @@
       <div class="wrap">
         <div class="section-head reveal">
           <div>
-            <span class="eyebrow">06 · Receipts</span>
+            <span class="eyebrow">07 · Receipts</span>
             <h2 id="sources-title">Every number, sourced.</h2>
           </div>
         </div>

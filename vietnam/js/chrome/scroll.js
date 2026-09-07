@@ -2,7 +2,7 @@ import { $, $$, html } from '../dom.js';
 
 // Scroll chrome: progress bar, section rail + top nav current state, reveal-on-scroll.
 
-const SECTIONS = ['hero', 'route', 'days', 'budget', 'checklist', 'sources'];
+const SECTIONS = ['hero', 'route', 'days', 'picker', 'budget', 'checklist', 'sources'];
 
 export function mountScroll() {
   const bar = $('#progress');

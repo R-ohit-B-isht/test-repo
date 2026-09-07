@@ -7,7 +7,7 @@ const load = () => {
   try {
     const saved = JSON.parse(localStorage.getItem(STORAGE_KEY) || 'null');
     if (!saved) return structuredClone(DEFAULT_STATE);
-    return { ...structuredClone(DEFAULT_STATE), ...saved, activities: { ...DEFAULT_STATE.activities, ...(saved.activities || {}) } };
+    return { ...structuredClone(DEFAULT_STATE), ...saved, picks: { ...DEFAULT_STATE.picks, ...(saved.picks || {}) } };
   } catch {
     return structuredClone(DEFAULT_STATE);
   }
@@ -28,8 +28,11 @@ export function createStore() {
       state = { ...state, ...(typeof patch === 'function' ? patch(state) : patch) };
       emit();
     },
-    toggleActivity(id) {
-      this.set((s) => ({ activities: { ...s.activities, [id]: !s.activities[id] } }));
+    togglePick(id) {
+      this.set((s) => ({ picks: { ...s.picks, [id]: !s.picks[id] } }));
+    },
+    setPicks(picks) {
+      this.set({ picks });
     },
     toggleCheck(id) {
       this.set((s) => ({ checklist: { ...s.checklist, [id]: !s.checklist[id] } }));

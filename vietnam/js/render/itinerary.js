@@ -1,15 +1,19 @@
 import { $, $$, html, inr } from '../dom.js';
 import { icon } from '../icons.js';
-import { DAYS, sleepFor, blockText, mealsFor, whereFor } from '../data/days.js';
+import { DAYS, SLOTS, SLOT_LABEL, sleepFor, mealsFor, whereFor } from '../data/days.js';
 import { STOPS, WEATHER, TRIP, inrFromVnd, inrFromUsd } from '../data/trip.js';
-import { PRICES } from '../data/prices.js';
 import { SOURCES } from '../data/sources.js';
 import { findStrategy } from '../strategies.js';
 import { PHOTOS } from '../data/photos.js';
+import { planTrip } from '../plan.js';
+import { priceTag, pickChip, includesText } from './picks.js';
 
 // Horizontal photo shelf (Airbnb). One card per day, four rows in the same order
-// every time — Do / Eat / Sleep / Around — so the eye learns the card once.
-// Transit-dependent lines and the budget toggles swap without rebuilding the shelf.
+// every time — Do / Eat / Sleep / Nearby — so the eye learns the card once.
+// "Do" is AM / PM / Night: fixed transit lines plus whatever plan.js packed in;
+// "Nearby" is everything else at that day's stops, tap to add.
+
+const NEARBY_SHOWN = 6;
 
 const dateOf = (n) => {
   const d = new Date(`${TRIP.start}T00:00:00`);
@@ -24,20 +28,39 @@ const srcLink = (key, label) => {
   return s ? html`<a class="src" href="${s.url}" target="_blank" rel="noopener" title="${s.name}">${label} ${icon('link')}</a>` : '';
 };
 
-// Price tag on a "Do" line: free, or the listed entry fee, dimmed when the
-// matching budget switch is off.
-const doPrice = (block, state) => {
-  if (!block.price) return '';
-  if (block.price === 'free') return html`<span class="tag tag-free">free</span>`;
-  const off = block.toggle && !state.activities[block.toggle];
-  return html`<span class="tag ${off ? 'tag-off' : ''}" title="${PRICES[block.price].range}">${inr(PRICES[block.price].amount)}${off ? ' · off' : ''}</span>`;
+const pickRow = (x, travellers) => html`
+  <div class="pk ${x.cont ? 'is-cont' : ''}">
+    ${icon(x.icon)}
+    <span class="txt">${x.name}${x.cont ? '' : priceTag(x, travellers)}${!x.cont && x.includes ? html`<span class="sub">${includesText(x)}</span>` : ''}</span>
+    ${x.cont ? '' : html`<button class="x" type="button" data-pick="${x.id}" aria-label="Take ${x.name} off">${icon('x')}</button>`}
+  </div>`;
+
+const slotRow = (key, slot, travellers) => {
+  if (slot.fixed) return html`
+    <div class="block">
+      <span class="when">${SLOT_LABEL[key]}</span>${icon(slot.icon)}
+      <span class="txt">${slot.text}</span>
+    </div>`;
+  return html`
+    <div class="block">
+      <span class="when">${SLOT_LABEL[key]}</span>
+      <span class="picks">
+        ${slot.lead ? html`<span class="lead">${slot.lead}</span>` : ''}
+        ${slot.items.length ? slot.items.map((x) => pickRow(x, travellers)) : html`<span class="open">open · tap a nearby pick</span>`}
+      </span>
+    </div>`;
 };
 
-const doRow = (block, state, transit) => html`
-  <div class="block">
-    <span class="when">${block.when}</span>${icon(block.icon)}
-    <span class="txt">${blockText(block, transit)} ${doPrice(block, state)}</span>
-  </div>`;
+const nearbyRow = (near, tips, travellers) => {
+  const shown = near.slice(0, NEARBY_SHOWN);
+  const more = near.length - shown.length;
+  return html`
+    <div class="around">
+      ${shown.map(({ x, status }) => pickChip(x, status, travellers))}
+      ${more > 0 ? html`<button class="chip pick more" type="button" data-more="${near[NEARBY_SHOWN].x.stop}">+${more} more</button>` : ''}
+      ${tips.map((t) => html`<span class="chip tip">${t}</span>`)}
+    </div>`;
+};
 
 const mealRow = (m, i) => html`
   <div class="meal">
@@ -53,10 +76,12 @@ const stayRow = (s) => html`
     <span class="amt num">${s.usd ? html`≈${inr(inrFromUsd(s.usd))}` : ''}${srcLink(s.src, '')}</span>
   </div>`;
 
-const dayCard = (day, state, transit) => {
+const dayCard = (day, state, transit, plan) => {
   const stop = STOPS.find((s) => s.id === day.stop);
   const wx = WEATHER[day.weather];
   const photo = PHOTOS[day.photo];
+  const planned = plan.days[day.n - 1];
+  const near = plan.nearby[day.n - 1];
   return html`
     <article class="card day" data-day="${day.n}" aria-label="Day ${day.n}: ${day.title}">
       <div class="photo">
@@ -71,7 +96,7 @@ const dayCard = (day, state, transit) => {
         </div>
         <section class="row-do" aria-label="Do">
           <span class="lbl">Do</span>
-          <div class="blocks">${day.blocks.map((b) => doRow(b, state, transit))}</div>
+          <div class="blocks">${SLOTS.map((k) => slotRow(k, planned.slots[k], state.travellers))}</div>
         </section>
         <section class="row-eat" aria-label="Eat">
           <span class="lbl">Eat</span>
@@ -81,11 +106,10 @@ const dayCard = (day, state, transit) => {
           <span class="lbl">Sleep</span>
           ${stayRow(sleepFor(day, transit))}
         </section>
-        ${day.around.length ? html`
-        <section class="row-around" aria-label="Around">
-          <span class="lbl">Around</span>
-          <div class="around">${day.around.map((a) => html`<span class="chip">${a}</span>`)}</div>
-        </section>` : ''}
+        <section class="row-around" aria-label="Nearby">
+          <span class="lbl">Nearby</span>
+          ${nearbyRow(near, day.tips, state.travellers)}
+        </section>
       </div>
     </article>`;
 };
@@ -96,7 +120,7 @@ const setCurrent = (n) => {
   document.dispatchEvent(new CustomEvent('day:current', { detail: n }));
 };
 
-export function mountItinerary() {
+export function mountItinerary(store) {
   const shelf = $('#shelf');
   $('#day-dots').innerHTML = DAYS.map((d) => html`<button type="button" data-day="${d.n}" aria-label="Day ${d.n}"></button>`).join('');
   let pending = null;
@@ -114,6 +138,12 @@ export function mountItinerary() {
     $('#days').scrollIntoView({ behavior: 'smooth', block: 'start' });
     go(e.detail);
   });
+  shelf.addEventListener('click', (e) => {
+    const pick = e.target.closest('[data-pick]');
+    if (pick) { store.togglePick(pick.dataset.pick); return; }
+    const more = e.target.closest('[data-more]');
+    if (more) document.dispatchEvent(new CustomEvent('picker:show', { detail: more.dataset.more }));
+  });
 
   const io = new IntersectionObserver((entries) => {
     if (pending !== null) {
@@ -128,10 +158,11 @@ export function mountItinerary() {
 
 export function renderItinerary(state) {
   const transit = findStrategy(state.strategy).transit;
+  const plan = planTrip(state, transit);
   const shelf = $('#shelf');
   const scroll = shelf.scrollLeft;
   const cur = Number($$('.day').find((el) => el.classList.contains('is-current'))?.dataset.day || 1);
-  shelf.innerHTML = DAYS.map((d) => dayCard(d, state, transit)).join('');
+  shelf.innerHTML = DAYS.map((d) => dayCard(d, state, transit, plan)).join('');
   shelf.scrollLeft = scroll;
   setCurrent(cur);
   shelf.dispatchEvent(new Event('rendered'));
