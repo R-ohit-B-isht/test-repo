@@ -87,7 +87,7 @@ const dayCard = (day, state, transit, plan) => {
   return html`
     <article class="card day" data-day="${day.n}" aria-label="Day ${day.n}: ${day.title}">
       <div class="photo">
-        <img src="assets/photos/${day.photo}.jpg" alt="${photo.alt}" width="${photo.w}" height="${photo.h}" loading="lazy" decoding="async" />
+        <img src="assets/photos/${day.photo}.jpg" alt="${photo.alt}" width="${photo.w}" height="${photo.h}" style="object-position: ${photo.pos || "50% 50%"}" loading="lazy" decoding="async" />
         <span class="n num" aria-hidden="true">${day.n}</span>
         <span class="wx chip ${wx.icon === 'sun' ? 'chip-sun' : 'chip-rain'}" title="${wx.note}">${icon(wx.icon)} ${wx.temp}</span>
         <button class="open" type="button" data-open-day="${day.n}" aria-haspopup="dialog" aria-label="Open day ${day.n} board">${icon('grid')}</button>

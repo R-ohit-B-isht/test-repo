@@ -37,7 +37,7 @@ export const DAYS = [
     tips: ['Fuse Old Town Hoi An · dorm US$9.28', 'Shuttle US$6 · Grab ~350,000 ₫'],
   },
   {
-    n: 2, stop: 'hoian', photo: 'food', title: 'Hoi An, slowly.', weather: 'central',
+    n: 2, stop: 'hoian', photo: 'golden', title: 'Hands in the clouds.', weather: 'central',
     slots: {
       am: open(['hoian', 'danang']),
       pm: open(['hoian', 'danang']),

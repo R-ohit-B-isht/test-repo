@@ -8,27 +8,34 @@ import { PICS } from '../data/pics.js';
 
 export const picsOf = (id) => PICS[id] || [];
 
-const small = (u) => u.replace('/500px-', '/120px-');
+// Commons thumbs are re-sizable by rewriting the `NNNpx-` segment of the URL,
+// but hotlinks only work for the standard steps (250/330/500/960/1280…).
+const STEPS = [500, 960, 1280];
+const sized = (u, px) => u.replace(/\/\d+px-/, `/${px}px-`);
+const srcset = (im) => STEPS.filter((s) => s < im.w).map((s) => `${sized(im.u, s)} ${s}w`).concat(`${im.u} ${im.w}w`).join(', ');
+const SIZES = '(min-width: 1100px) 400px, (min-width: 600px) 50vw, 100vw';
 
-export const strip = (x) => {
+// `extra` is trusted markup layered over the strip (the reel play chip).
+export const strip = (x, extra = '') => {
   const p = picsOf(x.id);
   if (!p.length) return '';
   const many = p.length > 1;
   return html`
     <div class="pics" data-n="${p.length}">
       <div class="pics-track" role="group" aria-label="${p.length} photo${many ? 's' : ''} of ${x.name}" tabindex="${many ? 0 : -1}">
-        ${p.map((im) => html`<img src="${im.u}" alt="${im.alt}" width="${im.w}" height="${im.h}" loading="lazy" decoding="async" title="${im.by} · ${im.lic}" />`)}
+        ${p.map((im) => html`<img src="${im.u}" srcset="${srcset(im)}" sizes="${SIZES}" alt="${im.alt}" width="${im.w}" height="${im.h}" loading="lazy" decoding="async" title="${im.by} · ${im.lic}" />`)}
       </div>
       ${many ? html`
         <button class="pv pv-l" type="button" data-dir="-1" aria-label="Previous photo" tabindex="-1">‹</button>
         <button class="pv pv-r" type="button" data-dir="1" aria-label="Next photo" tabindex="-1">›</button>
         <span class="pics-dots" aria-hidden="true">${p.map((_, i) => html`<i class="${i === 0 ? 'is-cur' : ''}"></i>`)}</span>` : ''}
+      ${extra}
     </div>`;
 };
 
 export const thumb = (x) => {
   const im = picsOf(x.id)[0];
-  return im ? html`<img class="th" src="${small(im.u)}" alt="" width="120" height="${Math.round((120 * im.h) / im.w)}" loading="lazy" decoding="async" />` : '';
+  return im ? html`<img class="th" src="${sized(im.u, 250)}" alt="" width="120" height="${Math.round((120 * im.h) / im.w)}" loading="lazy" decoding="async" />` : '';
 };
 
 const frameOf = (track) => Math.round(track.scrollLeft / Math.max(1, track.clientWidth));

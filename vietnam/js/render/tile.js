@@ -4,6 +4,7 @@ import { isExtra, isFun } from '../data/activities.js';
 import { dayOf } from '../plan.js';
 import { priceTag, srcIcon, includesText, mustMark } from './picks.js';
 import { strip, galleryClick } from './gallery.js';
+import { reelChip, reelClick } from './reel.js';
 
 // One activity tile: photo strip, name, note, status badge, price, source.
 // Shared by the picker grid, the "+days" cards and the day board.
@@ -33,7 +34,7 @@ export const tile = (x, state, plan) => {
     <div class="tile ${status === 'on' ? 'is-on' : ''} ${status === 'noroom' ? 'is-noroom' : ''} ${dead ? 'is-dead' : ''} ${isFun(x) ? '' : 'is-see'}">
       <button class="hit" type="button" data-pick="${x.id}" aria-pressed="${String(status === 'on' || status === 'noroom')}" ${dead ? 'disabled' : ''}
         aria-label="${x.name}${x.must ? ' (must-do)' : ''}${isFun(x) ? '' : ' (sight, no slot)'}" title="${x.closed || x.note || ''}"></button>
-      ${strip(x)}
+      ${strip(x, reelChip(x)) || reelChip(x)}
       <span class="ic-wrap">${icon(status === 'on' ? 'check' : x.icon)}</span>
       ${isFun(x) ? '' : html`<span class="kind" title="a sight — rides along, never takes a slot">${icon('eye')}see</span>`}
       <span class="body">
@@ -44,10 +45,10 @@ export const tile = (x, state, plan) => {
     </div>`;
 };
 
-// Tap anywhere on the card — photo included — flips the pick; gallery arrows
-// and source links are the only parts that do their own thing.
+// Tap anywhere on the card — photo included — flips the pick; gallery arrows,
+// the reel chip and source links are the only parts that do their own thing.
 export const pickHandler = (store) => (e) => {
-  if (galleryClick(e) || e.target.closest('a')) return false;
+  if (galleryClick(e) || reelClick(e) || e.target.closest('a')) return false;
   const b = e.target.closest('[data-pick]') || e.target.closest('.tile')?.querySelector('[data-pick]');
   if (!b || b.disabled) return false;
   store.togglePick(b.dataset.pick);

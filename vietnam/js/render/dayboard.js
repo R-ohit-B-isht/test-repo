@@ -82,7 +82,7 @@ const board = (day, state, transit, plan) => {
   const near = plan.nearby[day.n - 1].map((n) => n.x);
   return html`
     <div class="bhero">
-      <img src="assets/photos/${day.photo}.jpg" alt="${photo.alt}" width="${photo.w}" height="${photo.h}" decoding="async" />
+      <img src="assets/photos/${day.photo}.jpg" alt="${photo.alt}" width="${photo.w}" height="${photo.h}" style="object-position: ${photo.pos || "50% 50%"}" decoding="async" />
       <div class="bhero-txt">
         <span class="eyebrow">Day ${day.n} · ${dateOf(day.n)} · ${whereFor(day, transit) || stop.name}</span>
         <h3 id="board-title">${day.title}</h3>

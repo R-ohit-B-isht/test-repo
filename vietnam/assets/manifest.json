@@ -87,20 +87,6 @@
       "processing": "downscaled to max 1200px, re-encoded JPEG q82"
     },
     {
-      "file": "photos/food.jpg",
-      "key": "food",
-      "title": "bun cha hanoi",
-      "creator": "stu_spivack",
-      "license": "CC BY-SA 2.0",
-      "provider": "flickr",
-      "page": "https://www.flickr.com/photos/35034346243@N01/3853098028",
-      "original": "https://live.staticflickr.com/3093/3853098028_de56aac751_b.jpg",
-      "width": 1021,
-      "height": 680,
-      "alt": "A bowl of bun cha with grilled pork, herbs and noodles in Hanoi",
-      "processing": "downscaled to max 1200px, re-encoded JPEG q82"
-    },
-    {
       "file": "photos/halong.jpg",
       "key": "halong",
       "title": "Ha Long bay weather",
@@ -146,6 +132,20 @@
       "license": "generated",
       "provider": "screenroom",
       "note": "POST /api/v1/patterns/generate"
+    },
+    {
+      "file": "photos/golden.jpg",
+      "key": "golden",
+      "title": "Golden Bridge at Ba Na Hills 20250718",
+      "creator": "DvTor8303",
+      "license": "CC0",
+      "provider": "wikimedia",
+      "page": "https://commons.wikimedia.org/wiki/File:Golden_Bridge_at_Ba_Na_Hills_20250718.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Golden_Bridge_at_Ba_Na_Hills_20250718.jpg/1280px-Golden_Bridge_at_Ba_Na_Hills_20250718.jpg",
+      "width": 1280,
+      "height": 828,
+      "alt": "Giant stone hands holding up the Golden Bridge above the clouds at Sun World Ba Na Hills",
+      "processing": "1280px Commons thumb, re-encoded JPEG q76"
     }
   ]
 }

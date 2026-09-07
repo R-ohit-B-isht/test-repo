@@ -1,0 +1,57 @@
+/* Reels — a play chip on a tile's photo strip opens a lightbox with the clip
+   (YouTube no-cookie embed, nothing loads until tapped). Same .overlay/.card
+   idiom as help / board / brain. */
+
+.reel {
+  position: absolute; z-index: 2; left: var(--s-3); bottom: var(--s-3);
+  display: inline-flex; align-items: center; gap: 4px; min-height: 28px; padding: 0 10px 0 8px;
+  border-radius: var(--r-pill); font: 500 11px var(--font-mono); letter-spacing: 0.02em;
+  background: var(--lantern); color: #1a1410; box-shadow: var(--shadow-1);
+  transition: transform var(--t-fast) var(--ease-out), background-color var(--t-fast) var(--ease-out);
+}
+.reel .ic { width: 12px; height: 12px; fill: currentColor; stroke: none; }
+.reel:hover { background: color-mix(in srgb, var(--lantern) 85%, #fff); }
+.reel:active { transform: scale(0.94); }
+.reel:focus-visible { outline: 2px solid var(--fg); outline-offset: 2px; }
+.tile > .reel { position: relative; z-index: 1; left: auto; bottom: auto; grid-column: 2; justify-self: start; box-shadow: none; }
+.tile.is-dead .reel { display: none; }
+
+.overlay.reel-box { z-index: 60; align-items: end; padding: 0; background: color-mix(in srgb, var(--indigo) 80%, transparent); }
+.overlay.reel-box .card {
+  max-width: 560px; width: 100%; max-height: 94dvh; overflow-y: auto; overscroll-behavior: contain;
+  border-radius: var(--r-card) var(--r-card) 0 0; translate: 0 24px; display: grid; gap: var(--s-3); align-content: start;
+}
+.overlay.reel-box[data-open='true'] .card { translate: 0 0; }
+.overlay.reel-box .card-head { margin-bottom: 0; gap: var(--s-2); }
+.overlay.reel-box .card-head h3 { font: 600 var(--fs-3)/1.1 var(--font-display); min-width: 0; overflow-wrap: anywhere; }
+
+.rframe { position: relative; aspect-ratio: 16 / 9; border-radius: var(--r-ctl); overflow: hidden; background: #000; }
+.rframe.is-short { aspect-ratio: 9 / 16; max-height: 62dvh; justify-self: center; width: auto; }
+.rframe iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; display: block; }
+.rmeta { color: var(--fg-3); font-size: var(--fs-1); overflow-wrap: anywhere; }
+.rmeta b { color: var(--fg); font-weight: 500; }
+.rmeta a { color: var(--lantern); }
+
+.rclips { display: grid; gap: var(--s-1); }
+.rclip {
+  display: grid; grid-template-columns: 72px 1fr; gap: var(--s-2); align-items: center; text-align: left;
+  padding: var(--s-1); border-radius: var(--r-ctl); border: 1px solid transparent; background: var(--bg-2);
+  transition: border-color var(--t-fast) var(--ease-out), transform var(--t-fast) var(--ease-out);
+}
+.rclip img { width: 72px; height: 54px; object-fit: cover; border-radius: calc(var(--r-ctl) - 2px); background: #000; display: block; }
+.rclip .txt { display: grid; gap: 2px; min-width: 0; }
+.rclip b { font-weight: 500; font-size: var(--fs-1); line-height: 1.3; overflow-wrap: anywhere; }
+.rclip .sub { color: var(--fg-3); font-size: 12px; }
+.rclip:hover { border-color: var(--line); }
+.rclip:active { transform: scale(0.98); }
+.rclip.is-cur { border-color: var(--lantern); box-shadow: inset 0 0 0 1px var(--lantern); }
+
+@media (min-width: 720px) {
+  .overlay.reel-box { align-items: center; padding: var(--s-4); }
+  .overlay.reel-box .card { border-radius: var(--r-card); }
+  .rclips { grid-template-columns: 1fr 1fr; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .overlay.reel-box .card, .reel, .rclip { transition: none; translate: 0 0; }
+}
