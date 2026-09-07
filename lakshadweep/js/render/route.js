@@ -1,4 +1,5 @@
-// Section 01: strategy comparison cards, journey strip, class pickers.
+// Section 01: islands map card, strategy radio cards, legs card with fare
+// statuses and sources, class pickers. Selection flows through the store.
 import { SOURCES } from '../data/sources.js';
 import { FARE_STATUS } from '../data/prices.js';
 import { TRIP } from '../data/trip.js';
@@ -7,60 +8,51 @@ import { compareStrategies, cheapest, fmt, fmtK } from '../budget.js';
 import { html, raw, $, fmtDate } from '../dom.js';
 import { icon } from '../icons.js';
 import { bindRadios, syncChecked } from './segmented.js';
+import { routeMap } from './map.js';
 
-function card(row, max, badge, best, checked) {
+const vs = (transport) => {
+  const diff = TRIP.quotedRoundTrip - transport;
+  return diff >= 0
+    ? html`<span class="vs is-good">${fmtK(diff)} under the ₹40k ticket</span>`
+    : html`<span class="vs is-over">${fmtK(-diff)} over the ₹40k ticket</span>`;
+};
+
+function card(row, max, badge, checked) {
   const { strategy: s, plan } = row;
-  const pct = Math.round((row.essentials / max) * 100);
   return html`
-    <button type="button" class="card ${best ? 'card--best' : ''}" role="radio" data-id="${s.id}" aria-checked="${checked}" tabindex="${checked ? 0 : -1}">
-      <span class="card__badge">${badge || s.badge}</span>
-      <span class="card__icons">${raw(plan.legs.map((l) => icon(l.icon)).join(''))}</span>
-      <span class="card__name">${s.name}</span>
-      <span class="card__num">${fmt(row.essentials)}</span>
-      <span class="card__bar" aria-hidden="true"><i style="width:${pct}%"></i></span>
-      <span class="card__meta">${plan.length} days · ${plan.islandNights} island nights · ${Math.round(plan.travelHours)} h moving</span>
+    <button type="button" class="route-card" role="radio" data-id="${s.id}" aria-checked="${checked}" tabindex="${checked ? 0 : -1}">
+      <span class="radio" aria-hidden="true"></span>
+      <span class="name">${s.name}${badge ? raw(html`<span class="badge badge-jade">${badge}</span>`) : ''}</span>
+      <span class="price">${fmt(row.essentials)}<small>all-in / person</small></span>
+      <span class="sub"><span class="mode-chips">${raw(plan.legs.map((l) => icon(l.icon)).join(''))}</span><span>${plan.length} days · ${plan.islandNights} island nights</span>${raw(vs(row.transport))}</span>
+      <span class="bar" aria-hidden="true"><i style="width:${Math.round((row.essentials / max) * 100)}%"></i></span>
     </button>`;
 }
 
-function legNode(name, i) {
-  return html`<li class="jn" style="--i:${i}"><span class="jn__dot"></span><span class="jn__name">${name}</span></li>`;
-}
+const price = (p) => (p.status === 'unavailable' ? 'quote' : fmt(p.amount));
+const hours = (h) => (h >= 24 ? `${Math.round(h / 24)} d` : `${h} h`);
 
-const price = (p) => (p.status === 'unavailable' ? 'price n/a' : fmt(p.amount));
-
-function legEdge(leg, i) {
-  const p = leg.price;
+function leg(l) {
+  const p = l.price;
   const src = SOURCES[p.source];
-  const to = leg.via ? `${leg.via.join(' · ')}` : '';
   const status = FARE_STATUS[p.status];
-  const when = leg.date ? fmtDate(leg.date) + (p.tbc ? ' TBC' : '') : '';
   return html`
-    <li class="je" style="--i:${i}" data-mode="${leg.icon}" data-status="${p.status}">
-      <span class="je__line" aria-hidden="true"></span>
-      <span class="je__icon">${raw(icon(leg.icon))}</span>
-      <span class="je__mode">${leg.mode}${to ? raw(html`<br />${to}`) : ''}</span>
-      <span class="je__price">${price(p)}</span>
-      <span class="je__hours">${when}${when ? ' · ' : ''}${leg.hours >= 24 ? `${Math.round(leg.hours / 24)} d` : `${leg.hours} h`}</span>
-      <details class="je__more"><summary aria-label="Fare details for ${leg.from} to ${leg.to}" title="${status.hint}">${status.label}</summary>
-        <span>${p.label}${p.date ? ` · ${fmtDate(p.date)}` : ''} · ${p.range} · ${p.unit} · <a href="${src.url}" target="_blank" rel="noopener">source</a></span></details>
+    <li class="leg" data-status="${p.status}">
+      ${raw(icon(l.icon))}
+      <span><span class="where">${l.from} → ${l.to}</span>
+        <span class="mode">${l.mode}${l.via ? ` · via ${l.via.join(', ')}` : ''} · ${hours(l.hours)}${l.date ? raw(html` · <time datetime="${l.date}">${fmtDate(l.date)}</time>`) : ''}</span></span>
+      <span class="fare">${l.package ? 'in package' : price(p)}<small>${status.label}${p.tbc ? ' · TBC' : ''}</small></span>
+      <details><summary title="${status.hint}">${raw(icon('right'))}${p.label}</summary>
+        <p>${p.date ? `Seen for ${fmtDate(p.date)} · ` : ''}${p.range} · ${p.unit} · ${status.hint} <a class="src" href="${src.url}" target="_blank" rel="noopener">${src.name} ↗</a></p></details>
     </li>`;
-}
-
-function vsQuote(transport) {
-  const diff = TRIP.quotedRoundTrip - transport;
-  return diff >= 0
-    ? html`<span class="is-good">${fmtK(diff)} under the ${fmtK(TRIP.quotedRoundTrip)} ticket</span>`
-    : html`<span class="is-over">${fmtK(-diff)} over the ${fmtK(TRIP.quotedRoundTrip)} ticket</span>`;
 }
 
 function classGroup(id, label, options, checked) {
   return html`
-    <fieldset class="field" role="radiogroup" aria-label="${label}" data-group="${id}">
-      <legend class="label">${label}</legend>
-      <div class="segmented segmented--small">${raw(options.map((o) => html`
-        <button type="button" class="seg" role="radio" data-group="${id}" data-id="${o.id}" aria-checked="${o.id === checked}" tabindex="${o.id === checked ? 0 : -1}">
-          <span class="seg__name">${o.name}</span><span class="seg__price">${o.hint}</span>
-        </button>`).join(''))}</div>
+    <fieldset role="radiogroup" aria-label="${label}" data-group="${id}">
+      <legend class="eyebrow">${label}</legend>
+      <div class="seg">${raw(options.map((o) => html`
+        <button type="button" role="radio" data-group="${id}" data-id="${o.id}" aria-checked="${o.id === checked}" tabindex="${o.id === checked ? 0 : -1}">${o.name}<small>${o.hint}</small></button>`).join(''))}</div>
     </fieldset>`;
 }
 
@@ -70,7 +62,8 @@ export function mountRoute(store) {
 }
 
 let cardsKey = '';
-let journeyKey = '';
+let legsKey = '';
+let mapKey = '';
 
 export function renderRoute(state) {
   const rows = compareStrategies(state);
@@ -80,32 +73,34 @@ export function renderRoute(state) {
   const key = rows.map((r) => r.essentials).join(',');
   if (key !== cardsKey) {
     cardsKey = key;
-    const badgeFor = (r) => (r === best ? 'Cheapest overall' : r === bestTen ? 'Cheapest 10 days' : '');
-    $('#strategy-picker').innerHTML = rows.map((r) => card(r, max, badgeFor(r), r === best, r.strategy.id === state.strategy)).join('');
+    const badgeFor = (r) => (r === best ? 'Cheapest' : r === bestTen ? 'Cheapest 10 days' : '');
+    $('#strategy-picker').innerHTML = rows.map((r) => card(r, max, badgeFor(r), r.strategy.id === state.strategy)).join('');
   }
   syncChecked($('#strategy-picker'), state.strategy);
 
   const row = rows.find((r) => r.strategy.id === state.strategy);
-  const jKey = `${state.strategy}:${state.shipClass}:${state.trainClass}`;
-  if (jKey !== journeyKey) {
-    journeyKey = jKey;
-    const legs = row.plan.legs;
-    const items = legs.flatMap((l, i) => [legNode(l.from, i), legEdge(l, i)]);
-    items.push(legNode(legs[legs.length - 1].to, legs.length));
+  const { plan } = row;
+  const lKey = `${state.strategy}:${state.shipClass}:${state.trainClass}`;
+  if (lKey !== legsKey) {
+    legsKey = lKey;
     $('#route-view').innerHTML = html`
-      <ol class="journey__strip">${raw(items.join(''))}</ol>
-      <p class="journey__total"><strong>${fmt(row.transport)}</strong> to get there and back${row.plan.legs.some((l) => l.package) ? ', cabin and meals included' : ''} · ${raw(vsQuote(row.transport))}</p>`;
-
-    const hasShip = legs.some((l) => l.icon === 'ship' && !l.package);
-    const hasTrain = legs.some((l) => l.icon === 'train');
+      <div class="card-head"><h3>${plan.strategy.name}</h3><span class="chip">${plan.legs.length} legs · ${Math.round(plan.travelHours)} h moving</span></div>
+      <ol class="legs">${raw(plan.legs.map(leg).join(''))}</ol>
+      <p class="legs-total"><span>Getting there &amp; back${plan.legs.some((l) => l.package) ? ', cabin and meals in' : ''}</span><b>${fmt(row.transport)}</b>${raw(vs(row.transport))}</p>`;
+    const hasShip = plan.legs.some((l) => l.icon === 'ship' && !l.package);
+    const hasTrain = plan.legs.some((l) => l.icon === 'train');
     $('#class-picker').innerHTML = [
       hasShip ? classGroup('ship', 'Ship class', SHIP_CLASSES, state.shipClass) : '',
       hasTrain ? classGroup('train', 'Train class', TRAIN_CLASSES, state.trainClass) : '',
     ].join('');
   }
-  $('#class-picker').querySelectorAll('[data-group]').forEach((g) => {
-    if (g.getAttribute('role') === 'radiogroup') syncChecked(g, g.dataset.group === 'ship' ? state.shipClass : state.trainClass);
-  });
+  $('#class-picker').querySelectorAll('[role="radiogroup"]').forEach((g) => syncChecked(g, g.dataset.group === 'ship' ? state.shipClass : state.trainClass));
+
+  const mKey = `${lKey}:${JSON.stringify(state.picks)}`;
+  if (mKey !== mapKey) {
+    mapKey = mKey;
+    $('#route-map').innerHTML = routeMap(plan) + html`<figcaption class="map__cap">To scale · D1, D2… where each day is spent · ○ picked, off route · tap a day</figcaption>`;
+  }
 }
 
 export function nextStrategy(state) {

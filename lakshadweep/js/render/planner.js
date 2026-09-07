@@ -1,4 +1,4 @@
-// Section 02 head: the Gemini planner. Mediates between the ask bar, the key
+// Brain overlay: the Gemini planner. Mediates between the ask bar, the key
 // sheet, the facade (ai/planner.js) and the store; the model only ever reaches
 // the store through validated changes the traveller ticked and applied.
 import { $, $$ } from '../dom.js';
@@ -19,7 +19,7 @@ const ERROR_COPY = {
 
 export function mountPlanner(store) {
   const root = $('#brain');
-  root.insertAdjacentHTML('beforeend', shell(keyStore.has()));
+  $('.card', root).insertAdjacentHTML('beforeend', shell(keyStore.has()));
   const out = $('#brain-out');
   const promptEl = $('#brain-prompt');
   const keyChip = $('#brain-key-toggle');

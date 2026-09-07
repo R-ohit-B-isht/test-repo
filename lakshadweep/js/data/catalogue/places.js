@@ -54,7 +54,7 @@ export const LANDMARKS = [
   mark('agattiBeach', 'Agatti Lagoon Beach', 'Agatti', 'sun', 'West shore · sunset side', { source: 'dreamtrip' }),
   mark('ujra', 'Ujra Mosque', 'Kavaratti', 'mosque', 'Driftwood ceiling · dress modestly'),
   mark('aquarium', 'Kavaratti Marine Aquarium', 'Kavaratti', 'aquarium', 'Near the jetty · small entry fee'),
-  mark('thundi', 'Thundi Beach', 'Kavaratti', 'sun', 'Kavaratti’s white-sand lagoon beach'),
+  mark('thundi', 'Thundi Beach', 'Minicoy', 'sun', 'Blue Flag beach · Minicoy’s lagoon side', { source: 'wikiLakshadweep' }),
   mark('minicoyLight', 'Minicoy Lighthouse', 'Minicoy', 'light', '1885 · climb for the atoll view'),
   {
     id: 'pittiReefs', name: 'Pitti Bird Sanctuary reefs', group: 'landmark', icon: 'snorkel', at: 'Pitti', bases: ['Kavaratti'],

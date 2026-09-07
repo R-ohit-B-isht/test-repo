@@ -1,58 +1,83 @@
-// Section 02a: the catalogue as toggles, grouped, with a live "where it lands"
-// badge per item. Nothing is hidden: items the route cannot reach stay visible
-// with the reason, so switching route shows what opens up.
-import { CATALOGUE, CATALOGUE_GROUPS, REACH } from '../data/catalogue.js';
+// Section 03: the catalogue as photo tiles. Every item stays visible; the tile
+// shows where it lands (Day n), why it can't (off route…), its price and its
+// exact photos (swipe strip → lightbox). Filter chips narrow by kind / island.
+import { CATALOGUE, REACH, isExtra } from '../data/catalogue.js';
 import { PRICES } from '../data/prices.js';
 import { itemPhotos, photoSize } from '../data/photos.js';
+import { itemReels } from '../data/reels.js';
 import { SKIP_REASON } from '../grouping.js';
 import { buildPlan } from '../plan.js';
 import { fmt } from '../budget.js';
-import { html, raw, $ } from '../dom.js';
+import { html, raw, $, $$ } from '../dom.js';
 import { icon } from '../icons.js';
 
+const KINDS = [
+  { id: 'all', name: 'All' },
+  { id: 'fun', name: 'Fun', ic: 'kayak', test: (c) => c.group === 'experience' && !isExtra(c) },
+  { id: 'see', name: 'See', ic: 'camera', test: (c) => c.group === 'landmark' || (c.group === 'experience' && isExtra(c)) },
+  { id: 'islands', name: 'Islands', ic: 'island', test: (c) => c.group === 'inhabited' || c.group === 'uninhabited' },
+];
+const WHERE = ['Agatti', 'Kavaratti', 'Kalpeni', 'Minicoy'];
+const filter = { kind: 'all', where: '' };
+
 function priceTag(item) {
-  if (!item.key) return '';
+  if (!item.key) return isExtra(item) ? 'free' : '';
   const p = PRICES[item.key];
   return p.status === 'unavailable' ? 'quote locally' : fmt(p.amount);
 }
 
-// Leading visual: the first exact photo of the item, or its icon in a dashed
-// box when no photo of that exact place/activity exists.
-function thumb(item, photos) {
-  if (!photos.length) return html`<span class="pick__thumb pick__thumb--none" title="No exact photo found">${raw(icon(item.icon))}</span>`;
-  const p = photos[0];
-  const { w, h } = photoSize(p);
-  return html`<span class="pick__thumb"><img src="${p.src}" alt="" width="${w}" height="${h}" loading="lazy" decoding="async">${raw(icon(item.icon))}</span>`;
+function media(item, photos) {
+  if (!photos.length) return html`<span class="tile__none" title="No exact photo found">${raw(icon(item.icon))}<small>no exact photo</small></span>`;
+  const shots = photos.slice(0, 4).map((p, i) => {
+    const { w, h } = photoSize(p);
+    return html`<button type="button" class="tile__shot" data-gallery="${item.id}" data-gallery-i="${i}" aria-label="Photo ${i + 1} of ${photos.length}: ${item.name}"><img src="${p.src}" alt="" width="${w}" height="${h}" loading="lazy" decoding="async"></button>`;
+  });
+  return html`<div class="tile__scroll">${raw(shots.join(''))}</div>
+    <button type="button" class="tile__pics" data-gallery="${item.id}" aria-label="All ${photos.length} photos of ${item.name}">${raw(icon('camera'))}${photos.length}</button>`;
 }
 
-function pick(item) {
+function reelChip(item) {
+  const n = itemReels(item.id).length;
+  if (!n) return '';
+  return html`<button type="button" class="tile__reel" data-reel="${item.id}" aria-haspopup="dialog" aria-controls="reel">${raw(icon('play'))}${n} clip${n > 1 ? 's' : ''}</button>`;
+}
+
+function tile(item) {
   const photos = itemPhotos(item.id);
-  const pics = photos.length
-    ? html`<button type="button" class="pick__pics" data-gallery="${item.id}" aria-label="${photos.length} photo${photos.length > 1 ? 's' : ''} of ${item.name}" title="${item.hint}">${raw(icon('camera'))}<span>${photos.length}</span></button>`
-    : html`<span class="pick__pics pick__pics--none" title="No exact photo found" aria-hidden="true">${raw(icon('camera'))}<span>–</span></span>`;
+  const kind = KINDS.find((k) => k.test && k.test(item)).id;
   return html`
-    <div class="pickrow">
-      <button type="button" class="pick" data-pick="${item.id}" aria-pressed="false" title="${item.hint} · ${item.note || REACH[item.reach].hint}">
-        ${raw(thumb(item, photos))}
-        <span class="pick__name"><span>${item.name}</span><small class="pick__meta"><span class="pick__tag" data-pick-tag></span><span class="pick__price">${priceTag(item)}</span></small></span>
+    <article class="tile card" data-tile="${item.id}" data-kind="${kind}" data-bases="${item.bases.join(' ')}" data-state="off">
+      <div class="tile__media">${raw(media(item, photos))}<span class="tile__day" data-pick-tag></span></div>
+      <button type="button" class="tile__toggle" data-pick="${item.id}" aria-pressed="false" title="${item.hint} · ${item.note || REACH[item.reach].hint}">
+        <span class="tile__check" aria-hidden="true">${raw(icon('check'))}</span>
+        <span class="tile__name">${item.name}<small>${item.hint}</small></span>
+        <span class="tile__price">${priceTag(item)}</span>
       </button>
-      ${raw(pics)}
-    </div>`;
+      ${raw(reelChip(item))}
+    </article>`;
 }
 
-function group(g) {
-  const items = CATALOGUE.filter((c) => c.group === g.id);
-  return html`
-    <details class="fold picks__group" open data-group="${g.id}">
-      <summary class="fold__sum"><span>${g.name} <small class="picks__hint">${g.hint}</small></span><span class="picks__count" data-group-count></span></summary>
-      <div class="picks__grid">${raw(items.map(pick).join(''))}</div>
-    </details>`;
+const chip = (group, id, name, ic) => html`<button type="button" class="chip" data-filter="${group}" data-value="${id}" aria-pressed="false">${ic ? raw(icon(ic)) : ''}${name}</button>`;
+
+function applyFilter() {
+  const kind = KINDS.find((k) => k.id === filter.kind);
+  for (const t of $$('[data-tile]')) {
+    const okKind = !kind.test || t.dataset.kind === filter.kind;
+    const okWhere = !filter.where || t.dataset.bases.split(' ').includes(filter.where);
+    t.hidden = !(okKind && okWhere);
+  }
+  $$('[data-filter]').forEach((b) => b.setAttribute('aria-pressed', String(filter[b.dataset.filter] === b.dataset.value)));
 }
 
 export function mountPicks(store) {
-  const root = $('#picks');
-  root.innerHTML = CATALOGUE_GROUPS.map(group).join('');
-  root.addEventListener('click', (e) => {
+  $('#picks-grid').innerHTML = CATALOGUE.map(tile).join('');
+  $('#picks-bar').innerHTML = html`
+    <div class="mode-chips" role="group" aria-label="Kind">${raw(KINDS.map((k) => chip('kind', k.id, k.name, k.ic)).join(''))}</div>
+    <div class="mode-chips" role="group" aria-label="Island">${raw([chip('where', '', 'Anywhere'), ...WHERE.map((w) => chip('where', w, w))].join(''))}</div>`;
+  applyFilter();
+  $('#picks').addEventListener('click', (e) => {
+    const f = e.target.closest('[data-filter]');
+    if (f) { filter[f.dataset.filter] = f.dataset.value; applyFilter(); return; }
     const btn = e.target.closest('[data-pick]');
     if (!btn) return;
     store.set((s) => ({ picks: { ...s.picks, [btn.dataset.pick]: !s.picks[btn.dataset.pick] } }));
@@ -72,19 +97,13 @@ function status(item, plan, picks) {
 
 export function renderPicks(state) {
   const plan = buildPlan(state);
-  const counts = {};
   for (const item of CATALOGUE) {
-    const btn = $(`[data-pick="${item.id}"]`);
+    const t = $(`[data-tile="${item.id}"]`);
     const s = status(item, plan, state.picks);
-    btn.setAttribute('aria-pressed', String(s.on));
-    btn.dataset.state = s.state;
-    $('[data-pick-tag]', btn).textContent = s.text;
-    if (s.state === 'day') counts[item.group] = (counts[item.group] || 0) + 1;
+    $('[data-pick]', t).setAttribute('aria-pressed', String(s.on));
+    t.dataset.state = s.state;
+    $('[data-pick-tag]', t).textContent = s.text;
   }
-  for (const g of CATALOGUE_GROUPS) {
-    const n = counts[g.id] || 0;
-    $(`[data-group="${g.id}"] [data-group-count]`).textContent = n ? `${n} on the plan` : '';
-  }
-  const skipped = plan.skipped.length;
-  $('#picks-note').textContent = `${plan.activityCount} activities + ${plan.placedCount - plan.activityCount} strolls · ${plan.length} days · ≤4 activities a day, strolls ride along` + (skipped ? ` · ${skipped} off route` : '');
+  const strolls = plan.placedCount - plan.activityCount;
+  $('#picks-note').innerHTML = html`<span class="chip chip-coral">${raw(icon('spark'))}${plan.activityCount} activities</span><span class="chip chip-jade">${raw(icon('walk'))}${strolls} strolls</span>${plan.skipped.length ? raw(html`<span class="chip chip-ghost">${plan.skipped.length} off route</span>`) : ''}`;
 }

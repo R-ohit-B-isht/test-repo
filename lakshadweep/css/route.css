@@ -1,146 +1,30 @@
-/* Section 01: strategy cards, journey strip, class pickers, and the SVG map. */
+/* Section 01: the islands SVG map inside its card. Route cards/legs live in sections.css. */
 
-/* Comparison cards (Skyscanner-style: price first, cheapest marked) */
-.compare {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(9.5rem, 1fr));
-  gap: var(--s1);
-  margin-bottom: var(--s6);
-}
-.card {
-  position: relative;
-  display: grid;
-  gap: var(--s1);
-  align-content: start;
-  padding: var(--s2);
-  border: var(--hair);
-  text-align: left;
-  min-width: 0;
-  transition: background-color var(--dur-fast) var(--ease-out), color var(--dur-fast) var(--ease-out), transform var(--dur-fast) var(--ease-out);
-}
-.card:hover { background: var(--faint); }
-.card:active { transform: scale(0.97); }
-.card[aria-checked='true'] { background: var(--ink); color: var(--paper); }
-.card__badge {
-  justify-self: start;
-  font-size: var(--fs-label);
-  line-height: 1rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--mist);
-}
-.card--best .card__badge { color: #191919; background: var(--lagoon); padding: 0 var(--s1); }
-.card[aria-checked='true'] .card__badge { color: var(--paper); opacity: 0.7; }
-.card--best[aria-checked='true'] .card__badge { color: #191919; opacity: 1; }
-.card__icons { display: flex; gap: 0.25rem; color: var(--mist); }
-.card[aria-checked='true'] .card__icons { color: var(--paper); opacity: 0.7; }
-.card__icons .ic { width: 1rem; height: 1rem; }
-.card__name { font: italic 400 1.25rem/1.5rem var(--serif); }
-.card__num { font: 400 1.75rem/2rem var(--serif); font-variant-numeric: tabular-nums; }
-.card__bar { display: block; height: 0.375rem; border: 0.5px solid currentColor; opacity: 0.8; }
-.card__bar i { display: block; height: 100%; background: currentColor; transition: width var(--dur) var(--ease-io); }
-.card__meta { font-size: var(--fs-label); line-height: 1rem; color: var(--mist); }
-.card[aria-checked='true'] .card__meta { color: var(--paper); opacity: 0.7; }
+.map-card { padding: var(--s-3); display: grid; gap: var(--s-2); background: linear-gradient(180deg, var(--lagoon) 0%, var(--card) 100%); }
+.map__cap { font-size: var(--fs-1); color: var(--fg-3); text-align: center; }
 
-/* Journey strip (Citymapper-style node → edge → node) */
-.journey { margin-bottom: var(--s6); }
-.journey__strip { display: grid; gap: 0; }
-.jn { display: grid; grid-template-columns: 1.5rem 1fr; gap: var(--s2); align-items: center; }
-.jn__dot { width: 0.75rem; height: 0.75rem; margin: 0 auto; border-radius: 50%; background: var(--ink); }
-.jn__name { font: italic 400 1.5rem/1.75rem var(--serif); }
-.je {
-  position: relative;
-  display: grid;
-  grid-template-columns: 1.5rem 1fr auto;
-  grid-template-areas: 'line icon price' 'line mode hours' 'line more more';
-  column-gap: var(--s2);
-  row-gap: 0.25rem;
-  padding: var(--s2) 0;
-}
-.je__line { grid-area: line; justify-self: center; width: 0; border-left: 1.5px solid var(--ink); }
-.je[data-mode='ship'] .je__line { border-left-style: dashed; }
-.je[data-mode='boat'] .je__line { border-left-style: dotted; }
-.je[data-mode='train'] .je__line { border-left-style: dotted; border-left-width: 3px; }
-.je__icon { grid-area: icon; display: flex; align-items: center; gap: var(--s1); }
-.je__mode { grid-area: mode; color: var(--mist); font-size: var(--fs-label); line-height: 1rem; letter-spacing: 0.04em; text-transform: uppercase; }
-.je__price { grid-area: price; font-variant-numeric: tabular-nums; text-align: right; }
-.je__hours { grid-area: hours; color: var(--mist); font-size: var(--fs-label); line-height: 1rem; text-align: right; }
-.je__more { grid-area: more; font-size: var(--fs-label); line-height: 1rem; color: var(--mist); }
-.je__more summary {
-  display: inline-flex;
-  align-items: center;
-  height: 1.25rem;
-  padding: 0 var(--s1);
-  border: var(--hair);
-  border-radius: 999px;
-  cursor: pointer;
-  list-style: none;
-  font-size: var(--fs-label);
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-}
-.je[data-status='seen'] .je__more summary { border-color: var(--forest); color: var(--forest); }
-.je[data-status='nearby'] .je__more summary { border-color: var(--forest); color: var(--forest); border-style: dashed; }
-.je[data-status='estimate'] .je__more summary, .je[data-status='unavailable'] .je__more summary { border-style: dashed; }
-.je[data-status='unavailable'] .je__price { color: var(--mist); font-style: italic; }
-.je__more summary::-webkit-details-marker { display: none; }
-.je__more[open] summary { background: var(--ink); color: var(--paper); }
-.je__more span { display: block; margin-top: 0.25rem; max-width: 34rem; }
-.journey__total { margin-top: var(--s3); padding-top: var(--s2); border-top: var(--hair); }
-.journey__total strong { font: 400 1.75rem/2rem var(--serif); font-variant-numeric: tabular-nums; }
-.is-good { color: var(--forest); }
-.is-over { color: var(--coral); }
-
-@media (min-width: 900px) {
-  .journey__strip { display: flex; align-items: start; }
-  .jn { grid-template-columns: 1fr; grid-template-rows: 1.5rem auto; gap: var(--s1); flex: none; width: 6.5rem; text-align: center; justify-items: center; }
-  .jn__name { font-size: 1.25rem; line-height: 1.5rem; }
-  .je {
-    flex: 1 1 0;
-    min-width: 0;
-    grid-template-columns: 1fr;
-    grid-template-rows: 1.5rem auto auto auto auto;
-    grid-template-areas: 'line' 'icon' 'mode' 'price' 'more';
-    padding: 0 var(--s1);
-    row-gap: 0.25rem;
-    text-align: center;
-    justify-items: center;
-  }
-  .je__line { width: 100%; height: 0; border-left: 0; border-top: 1.5px solid var(--ink); align-self: center; justify-self: stretch; }
-  .je[data-mode='ship'] .je__line { border-top-style: dashed; }
-  .je[data-mode='boat'] .je__line { border-top-style: dotted; }
-  .je[data-mode='train'] .je__line { border-top-style: dotted; border-top-width: 3px; }
-  .je__price { text-align: center; }
-  .je__hours { grid-area: price; text-align: center; margin-top: 1.5rem; }
-  .je__price { margin-bottom: 1rem; }
-  .je__more span { text-align: left; }
-}
-
-.classes { display: flex; flex-wrap: wrap; gap: var(--s4) var(--s8); }
-
-/* Map */
-.map { display: block; overflow: visible; font: 400 9px/1 var(--mono); }
-.map__grid { stroke: var(--ink); stroke-opacity: 0.12; stroke-width: 0.5; }
-.map__gridlbl { fill: var(--mist); font-size: 7.5px; letter-spacing: 0.08em; }
-.map__scale line { stroke: var(--ink); stroke-width: 1; }
-.map__scale text { fill: var(--mist); font-size: 7.5px; }
-.map__leg { fill: none; stroke: var(--ink); stroke-width: 1.25; stroke-linecap: round; }
-.map__mode circle { fill: var(--paper); stroke: var(--ink); stroke-width: 0.75; }
-.map__mode use { stroke: var(--ink); fill: none; stroke-width: 1.75; stroke-linecap: round; stroke-linejoin: round; }
-.map__node circle { fill: var(--ink); }
-.map__node text { paint-order: stroke; stroke: var(--paper); stroke-width: 2.5px; stroke-linejoin: round; fill: var(--ink); font-size: 9px; }
-.map__code { fill: var(--mist); font-size: 7.5px; letter-spacing: 0.08em; }
-.map__lensbg { fill: var(--paper); stroke: var(--ink); stroke-width: 0.75; }
-.map__lensline { stroke: var(--ink); stroke-width: 0.5; stroke-dasharray: 2 2; }
-.map__isle { fill: var(--lagoon); stroke: var(--forest); stroke-width: 0.5; }
+.map { display: block; width: 100%; height: auto; overflow: visible; font: 500 9px/1 var(--font-ui); }
+.map__grid { stroke: var(--fg); stroke-opacity: 0.1; stroke-width: 0.5; }
+.map__gridlbl { fill: var(--fg-3); font-size: 7.5px; letter-spacing: 0.06em; font-family: var(--font-mono); }
+.map__scale line { stroke: var(--fg-2); stroke-width: 1; }
+.map__scale text { fill: var(--fg-3); font-size: 7.5px; font-family: var(--font-mono); }
+.map__leg { fill: none; stroke: var(--fg); stroke-width: 1.25; stroke-linecap: round; }
+.map__mode circle { fill: var(--card); stroke: var(--fg); stroke-width: 0.75; }
+.map__mode use { stroke: var(--fg); fill: none; stroke-width: 1.75; stroke-linecap: round; stroke-linejoin: round; }
+.map__node circle { fill: var(--fg); }
+.map__node text { paint-order: stroke; stroke: var(--card); stroke-width: 2.5px; stroke-linejoin: round; fill: var(--fg); font-size: 9px; font-weight: 600; }
+.map__code { fill: var(--fg-3); font-size: 7.5px; letter-spacing: 0.06em; font-weight: 500; }
+.map__lensbg { fill: var(--card); stroke: var(--line); stroke-width: 0.75; }
+.map__lensline { stroke: var(--fg-3); stroke-width: 0.5; stroke-dasharray: 2 2; }
+.map__isle { fill: var(--lagoon); stroke: var(--jade); stroke-width: 0.5; }
 .map__node--lens text { font-size: 9px; }
-.map__node--lens.is-off circle { fill: var(--paper); stroke: var(--ink); stroke-width: 0.75; }
-.map__node--lens.is-off text { fill: var(--mist); }
+.map__node--lens.is-off circle { fill: var(--card); stroke: var(--fg-3); stroke-width: 0.75; }
+.map__node--lens.is-off text { fill: var(--fg-3); font-weight: 500; }
 .map__node--lens.is-ghost circle { fill: none; stroke: var(--coral); stroke-width: 0.75; stroke-dasharray: 1.5 1.5; }
-.map__node--edge path { fill: none; stroke: var(--ink); stroke-width: 1.25; stroke-linecap: round; stroke-linejoin: round; }
+.map__node--edge path { fill: none; stroke: var(--fg-2); stroke-width: 1.25; stroke-linecap: round; stroke-linejoin: round; }
 .map__day { cursor: pointer; outline: none; }
-.map__day rect { fill: var(--ink); stroke: var(--forest); stroke-width: 0; transition: stroke-width var(--dur-fast) var(--ease-out); }
-.map__day:hover rect, .map__day:focus-visible rect { stroke-width: 1.5; }
-.map__day text { fill: var(--paper); font-size: 7.5px; letter-spacing: 0.06em; }
-.map__acts use { stroke: var(--forest); fill: none; stroke-width: 1.75; stroke-linecap: round; stroke-linejoin: round; }
+.map__day rect { fill: var(--coral); stroke: var(--card); stroke-width: 0; transition: stroke-width var(--t-fast) var(--ease-out), fill var(--t-fast) var(--ease-out); }
+.map__day:hover rect, .map__day:focus-visible rect { stroke-width: 1.5; fill: var(--fg); }
+.map__day text { fill: var(--coral-ink); font-size: 7.5px; letter-spacing: 0.04em; font-weight: 600; }
+.map__acts use { stroke: var(--jade); fill: none; stroke-width: 1.75; stroke-linecap: round; stroke-linejoin: round; }
 .map__ghost { fill: none; stroke: var(--coral); stroke-width: 0.75; stroke-dasharray: 1.5 1.5; }

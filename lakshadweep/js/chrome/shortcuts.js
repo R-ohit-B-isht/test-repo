@@ -1,9 +1,10 @@
-// Keyboard shortcuts + help overlay. Documented in the `?` overlay and footer.
-import { $, $$ } from '../dom.js';
+// Keyboard shortcuts. Documented in the `?` overlay and footer.
+import { $ } from '../dom.js';
 import { cycleTheme } from './theme.js';
+import { toggleOverlay, isOpen } from './overlay.js';
 import { stepDay } from '../render/itinerary.js';
 
-const SECTIONS = ['#route', '#days', '#budget', '#booking', '#sources'];
+const SECTIONS = ['#route', '#days', '#picks', '#budget', '#booking', '#sources'];
 
 function isTyping(e) {
   const t = e.target;
@@ -11,26 +12,16 @@ function isTyping(e) {
   return t instanceof HTMLInputElement && !['checkbox', 'radio', 'range', 'button'].includes(t.type);
 }
 
-export function toggleHelp(force) {
-  const help = $('#help');
-  const open = force ?? help.hidden;
-  help.hidden = !open;
-  $('#help-toggle').setAttribute('aria-expanded', String(open));
-  if (open) $('[data-close-help]').focus();
-  else $('#help-toggle').focus();
-}
+const anyOverlay = () => ['#help', '#brain', '#reel'].some(isOpen);
 
 export function mountShortcuts(store, { onDev, onRoute }) {
-  $('#help-toggle').addEventListener('click', () => toggleHelp());
-  $$('[data-close-help]').forEach((b) => b.addEventListener('click', () => toggleHelp(false)));
-  $('#help').addEventListener('click', (e) => { if (e.target === e.currentTarget) toggleHelp(false); });
-
   addEventListener('keydown', (e) => {
     if (e.metaKey || e.ctrlKey || e.altKey || isTyping(e) || $('dialog[open]')) return;
-    if (e.key === 'Escape' && !$('#help').hidden) return toggleHelp(false);
     const k = e.key.toLowerCase();
+    if (k === '?') return toggleOverlay('#help', $('#help-toggle'));
+    if (k === 'g') return toggleOverlay('#brain', $('#brain-open'));
+    if (anyOverlay()) return;
     if (k === 't') return cycleTheme(store);
-    if (k === '?') return toggleHelp();
     if (k === 'd') return onDev();
     if (k === 'r') return onRoute();
     if (k === 'j') return stepDay(1);

@@ -1,4 +1,4 @@
-// Live IST clock, scroll-progress hairline, section rail active state, scroll reveal.
+// Live IST clock, scroll-progress hairline, rail + topnav active state, scroll reveal.
 import { $, $$ } from '../dom.js';
 
 const IST = new Intl.DateTimeFormat('en-IN', { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false, timeZone: 'Asia/Kolkata' });
@@ -28,7 +28,7 @@ export function mountProgress() {
 }
 
 export function mountRail() {
-  const links = $$('.rail a');
+  const links = [...$$('.rail a'), ...$$('.topnav a')];
   const targets = links.map((a) => $(a.getAttribute('href'))).filter(Boolean);
   const io = new IntersectionObserver((entries) => {
     const hit = entries.find((e) => e.isIntersecting);

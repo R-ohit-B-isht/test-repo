@@ -13,20 +13,20 @@ let opener = null;
 let current = 0;
 
 function tile(t) {
-  const photo = t.photo ? raw(img(t.photo, 'tile__photo')) : raw(html`<span class="tile__ic">${raw(icon(t.icon))}</span>`);
-  const count = t.count > 1 ? html`<span class="tile__n">${raw(icon('camera'))}${t.count}</span>` : '';
+  const photo = t.photo ? raw(img(t.photo, 'dtile__photo')) : raw(html`<span class="dtile__ic">${raw(icon(t.icon))}</span>`);
+  const count = t.count > 1 ? html`<span class="dtile__n">${raw(icon('camera'))}${t.count}</span>` : '';
   const body = html`
       ${photo}${raw(count)}
-      <span class="tile__text">
-        ${t.slot ? raw(html`<b class="tile__slot">${t.slot}</b>`) : ''}
-        <span class="tile__name">${t.name}</span>
-        ${t.sub ? raw(html`<small class="tile__sub">${t.sub}</small>`) : ''}
-        ${t.tag ? raw(html`<small class="tile__tag">${t.tag}</small>`) : ''}
-        ${t.note ? raw(html`<small class="tile__note">${t.note}</small>`) : ''}
+      <span class="dtile__text">
+        ${t.slot ? raw(html`<b class="dtile__slot">${t.slot}</b>`) : ''}
+        <span class="dtile__name">${t.name}</span>
+        ${t.sub ? raw(html`<small class="dtile__sub">${t.sub}</small>`) : ''}
+        ${t.tag ? raw(html`<small class="dtile__tag">${t.tag}</small>`) : ''}
+        ${t.note ? raw(html`<small class="dtile__note">${t.note}</small>`) : ''}
       </span>`;
   return t.gallery && t.photo
-    ? html`<li><button type="button" class="tile tile--photo" data-gallery="${t.gallery}" aria-label="${t.count} photos of ${t.name}">${raw(body)}</button></li>`
-    : html`<li><span class="tile ${t.photo ? 'tile--photo' : ''}">${raw(body)}</span></li>`;
+    ? html`<li><button type="button" class="dtile dtile--photo" data-gallery="${t.gallery}" aria-label="${t.count} photos of ${t.name}">${raw(body)}</button></li>`
+    : html`<li><span class="dtile ${t.photo ? 'dtile--photo' : ''}">${raw(body)}</span></li>`;
 }
 
 function render(m, state) {
@@ -44,7 +44,7 @@ function render(m, state) {
     <div class="sheet__body">${raw(m.cats.map((c) => html`
       <section class="sheet__cat" data-cat="${c.id}">
         <h4 class="label">${c.label}<small>${c.tiles.length}</small></h4>
-        <ul class="tiles">${raw(c.tiles.map(tile).join(''))}</ul>
+        <ul class="dtiles">${raw(c.tiles.map(tile).join(''))}</ul>
       </section>`).join(''))}
     </div>
     <footer class="sheet__foot">

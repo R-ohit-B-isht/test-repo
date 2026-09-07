@@ -22,8 +22,8 @@ export function shell(hasKey) {
   return html`
     <form class="brain__ask" id="brain-form" autocomplete="off">
       <span class="brain__spark" aria-hidden="true">${raw(icon('spark'))}</span>
-      <input class="brain__in" id="brain-prompt" type="text" maxlength="240" placeholder="Tell the plan what you want…" aria-label="Ask Gemini to change the plan" />
-      <button type="submit" class="cta cta--sm" id="brain-go">Ask</button>
+      <input class="brain__in" id="brain-prompt" type="text" maxlength="240" placeholder="Cheaper, more diving, three of us…" aria-label="Ask Gemini to change the plan" />
+      <button type="submit" class="btn btn-sm" id="brain-go">Ask</button>
       <button type="button" class="chip brain__keychip" id="brain-key-toggle" aria-expanded="false" aria-controls="brain-key" data-has-key="${hasKey}">Key</button>
     </form>
     <div class="brain__chips" role="group" aria-label="Quick asks">
@@ -31,8 +31,8 @@ export function shell(hasKey) {
     </div>
     <form class="brain__key" id="brain-key" hidden>
       <input type="password" id="brain-key-in" autocomplete="off" spellcheck="false" placeholder="Paste your Gemini key · stays in this browser" aria-label="Gemini API key" />
-      <button type="submit" class="chip">Save</button>
-      <button type="button" class="chip" data-key-clear>Clear</button>
+      <button type="submit" class="btn btn-sm">Save</button>
+      <button type="button" class="btn btn-ghost btn-sm" data-key-clear>Clear</button>
       <a class="brain__getkey" href="https://aistudio.google.com/apikey" target="_blank" rel="noopener">Get a key</a>
     </form>
     <div class="brain__out" id="brain-out" aria-live="polite"></div>`;
@@ -74,9 +74,9 @@ export function suggestionsHtml(result, state) {
 }
 
 export function footHtml(p, applied) {
-  if (applied) return html`<span class="brain__total">Applied · ${fmt(p.before)} all-in / person</span><button type="button" class="chip" data-undo>Undo</button>`;
+  if (applied) return html`<span class="brain__total">Applied · ${fmt(p.before)} all-in / person</span><button type="button" class="btn btn-ghost btn-sm" data-undo>Undo</button>`;
   if (!p.count) return html`<span class="brain__total">Tick what you want</span>`;
   return html`
     <span class="brain__total">${fmt(p.before)} → <b>${fmt(p.after)}</b> <em data-neg="${p.delta < 0}">${signed(p.delta)}</em> all-in / person · ${p.days} days${p.skipped > 0 ? ` · ${p.skipped} won’t fit` : ''}</span>
-    <button type="button" class="cta cta--sm" data-apply>Apply ${p.count}</button>`;
+    <button type="button" class="btn btn-sm" data-apply>Apply ${p.count}</button>`;
 }

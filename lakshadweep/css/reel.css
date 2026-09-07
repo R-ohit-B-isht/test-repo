@@ -1,0 +1,20 @@
+/* Reel overlay: 16:9 player + clip list. Loads only when opened. */
+.reel-box > .reel__card { max-width: 760px; padding: var(--s-3); display: grid; gap: var(--s-3); max-height: calc(100dvh - 2 * var(--s-4)); overflow: auto; }
+.reel__card .card-head h3 { display: inline-flex; align-items: center; gap: var(--s-2); }
+.reel__card .card-head h3 .ic { width: 20px; height: 20px; color: var(--coral); }
+.reel__frame { position: relative; aspect-ratio: 16 / 9; border-radius: var(--r-ctl); overflow: hidden; background: var(--indigo); }
+.reel__frame iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.reel__credit { margin: 0; font-size: var(--fs-1); color: var(--fg-3); }
+.reel__list { display: grid; gap: var(--s-1); }
+@media (min-width: 640px) { .reel__list { grid-template-columns: 1fr 1fr; } }
+.reel__clip {
+  display: grid; grid-template-columns: 96px minmax(0, 1fr); gap: var(--s-2); align-items: center; padding: 6px;
+  border: 1px solid var(--line); border-radius: var(--r-ctl); background: var(--card); color: var(--fg); text-align: left; cursor: pointer; font: inherit;
+  transition: border-color var(--t-fast) var(--ease-out), background-color var(--t-fast) var(--ease-out);
+}
+.reel__clip:hover { background: var(--bg-2); }
+.reel__clip[aria-pressed='true'] { border-color: var(--coral); box-shadow: 0 0 0 1px var(--coral); }
+.reel__clip img { width: 96px; height: 54px; object-fit: cover; border-radius: 4px; display: block; background: var(--bg-2); }
+.reel__meta { display: grid; min-width: 0; font-size: var(--fs-1); }
+.reel__title { font-weight: 500; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.reel__meta small { color: var(--fg-3); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }

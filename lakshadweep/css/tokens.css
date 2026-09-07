@@ -1,83 +1,110 @@
-/* Design tokens. Palette and rhythm traced from Tierra Ignota (Awwwards):
-   sand paper on near-black ink, mint/lagoon accents, 0.5px hairlines,
-   6rem section margins, cubic-bezier(.645,.045,.355,1) transitions. */
+/* Lakshadweep planner — tokens. Same design language as the Vietnam planner
+   (vietnam-shhwidzo.devinapps.com): warm paper (60) · ink (30) · coral (10);
+   jade, rain and sun are semantic only. Fraunces display + Inter UI, 12/8 radii,
+   8-pt spacing, ease-out motion under 300 ms. */
 
 :root {
-  --paper: #f2f0e9;
-  --ink: #191919;
-  --mist: rgba(25, 25, 25, 0.56);
-  --faint: rgba(25, 25, 25, 0.08);
-  --line: var(--ink);
-  --card: #ffffff;
-  --lagoon: #cbeedc;
-  --mint: #d8eabe;
-  --sun: #f2de7e;
-  --coral: #d66f58;
-  --forest: #43493a;
-  --wet-sand: #d7d2ba;
-  --land: #ae8e86;
+  --paper: #f7f2e8;
+  --paper-2: #efe7d8;
+  --card: #fffdf8;
+  --ink: #17201c;
+  --ink-2: #4a544f;
+  --ink-3: #8a938e;
+  --line: #d9d0c0;
+  --coral: #e2532c;
+  --coral-ink: #fff4ee;
+  --jade: #1f7a5c;
+  --jade-soft: #dcefe6;
+  --indigo: #10233a;
+  --rain: #3f6fa8;
+  --rain-soft: #dfe9f5;
+  --sun: #d9a441;
+  --sun-soft: #f8ecd2;
+  --lagoon: #cfe9e4;
 
-  --serif: 'Instrument Serif', 'Times New Roman', Georgia, serif;
-  --mono: 'IBM Plex Mono', 'SFMono-Regular', Menlo, Consolas, monospace;
+  --bg: var(--paper);
+  --bg-2: var(--paper-2);
+  --fg: var(--ink);
+  --fg-2: var(--ink-2);
+  --fg-3: var(--ink-3);
 
-  /* 4 sizes, 2 weights */
-  --fs-label: 0.75rem;
-  --fs-body: 0.9375rem;
-  --fs-h2: clamp(2rem, 4.5vw, 3.5rem);
-  --fs-display: clamp(3rem, 10.5vw, 11rem);
-  --lh-body: 1.5rem;
+  --font-display: 'Fraunces', 'Iowan Old Style', Georgia, serif;
+  --font-ui: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-mono: ui-monospace, 'SF Mono', Menlo, monospace;
 
-  /* 8-pt rhythm */
-  --s1: 0.5rem;
-  --s2: 1rem;
-  --s3: 1.5rem;
-  --s4: 2rem;
-  --s6: 3rem;
-  --s8: 4rem;
-  --s12: 6rem;
-  --margin: clamp(1rem, 4vw, 3rem);
-  --measure: 38rem;
+  --fs-1: 0.8125rem; /* 13 — labels, meta */
+  --fs-2: 0.9375rem; /* 15 — body */
+  --fs-3: 1.375rem;  /* 22 — card titles, numbers */
+  --fs-4: clamp(2.25rem, 6vw, 4.5rem); /* display */
+  --lh: 1.45;
 
-  --hair: 0.5px solid var(--line);
-  --radius: 0.25rem;
+  --s-1: 4px;
+  --s-2: 8px;
+  --s-3: 16px;
+  --s-4: 24px;
+  --s-5: 32px;
+  --s-6: 48px;
+  --s-7: 80px;
 
-  --ease-io: cubic-bezier(0.645, 0.045, 0.355, 1);
+  --r-card: 12px;
+  --r-ctl: 8px;
+  --r-pill: 999px;
+
+  --shadow-1: 0 1px 2px rgb(23 32 28 / 0.06), 0 8px 24px -12px rgb(23 32 28 / 0.18);
+  --shadow-2: 0 2px 4px rgb(23 32 28 / 0.08), 0 20px 40px -16px rgb(23 32 28 / 0.28);
+
   --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
-  --dur: 0.42s;
-  --dur-fast: 0.16s;
-  --dur-reveal: 0.28s;
+  --t-fast: 160ms;
+  --t-base: 260ms;
+  --t-slow: 420ms;
 
-  --status-h: 3rem;
+  --wrap: 1180px;
+  --topbar-h: 57px;
+  color-scheme: light;
 }
 
-:root[data-theme='dark'] {
-  --paper: #191919;
-  --ink: #f2f0e9;
-  --mist: rgba(242, 240, 233, 0.56);
-  --faint: rgba(242, 240, 233, 0.1);
-  --card: #222220;
-  --lagoon: #6fb894;
-  --mint: #8fae6b;
-  --sun: #d9c15b;
-  --wet-sand: #3a3a36;
-  --forest: #cbeedc;
+[data-theme='dark'] {
+  --paper: #121a17;
+  --paper-2: #0d1412;
+  --card: #1a241f;
+  --ink: #f1ebdf;
+  --ink-2: #b9b2a4;
+  --ink-3: #7f8a84;
+  --line: #2b3831;
+  --coral: #ff7a52;
+  --coral-ink: #2a1109;
+  --jade: #5fc39c;
+  --jade-soft: #173328;
+  --rain: #7fb0ea;
+  --rain-soft: #16273b;
+  --sun: #f0c46a;
+  --sun-soft: #3a2f16;
+  --lagoon: #1d3a3a;
+  --shadow-1: 0 1px 2px rgb(0 0 0 / 0.4), 0 8px 24px -12px rgb(0 0 0 / 0.6);
+  --shadow-2: 0 2px 4px rgb(0 0 0 / 0.5), 0 20px 40px -16px rgb(0 0 0 / 0.7);
+  color-scheme: dark;
 }
 
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme='light']) {
-    --paper: #191919;
-    --ink: #f2f0e9;
-    --mist: rgba(242, 240, 233, 0.56);
-    --faint: rgba(242, 240, 233, 0.1);
-    --card: #222220;
-    --lagoon: #6fb894;
-    --mint: #8fae6b;
-    --sun: #d9c15b;
-    --wet-sand: #3a3a36;
-    --forest: #cbeedc;
+    --paper: #121a17;
+    --paper-2: #0d1412;
+    --card: #1a241f;
+    --ink: #f1ebdf;
+    --ink-2: #b9b2a4;
+    --ink-3: #7f8a84;
+    --line: #2b3831;
+    --coral: #ff7a52;
+    --coral-ink: #2a1109;
+    --jade: #5fc39c;
+    --jade-soft: #173328;
+    --rain: #7fb0ea;
+    --rain-soft: #16273b;
+    --sun: #f0c46a;
+    --sun-soft: #3a2f16;
+    --lagoon: #1d3a3a;
+    --shadow-1: 0 1px 2px rgb(0 0 0 / 0.4), 0 8px 24px -12px rgb(0 0 0 / 0.6);
+    --shadow-2: 0 2px 4px rgb(0 0 0 / 0.5), 0 20px 40px -16px rgb(0 0 0 / 0.7);
+    color-scheme: dark;
   }
-}
-
-@media (-webkit-max-device-pixel-ratio: 1), (max-resolution: 1dppx) {
-  :root { --hair: 1px solid var(--line); }
 }

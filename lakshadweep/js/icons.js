@@ -38,6 +38,8 @@ const PATHS = {
   right: 'M9 5l7 7-7 7',
   close: 'M6 6l12 12M18 6L6 18',
   grid: 'M4 4h6v6H4zM14 4h6v6h-6zM4 14h6v6H4zM14 14h6v6h-6z',
+  play: 'M8 5v14l11-7z',
+  external: 'M14 4h6v6M20 4l-9 9M18 13v7H4V6h7',
 };
 
 export const ICON_NAMES = Object.keys(PATHS);

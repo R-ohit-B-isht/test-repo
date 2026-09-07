@@ -1,0 +1,68 @@
+/* Section 03 — catalogue as photo tiles: swipe strip, tick row, day badge,
+   state tints (day / skip / off), filter bar. */
+.picks-bar { display: grid; gap: var(--s-2); margin-bottom: var(--s-4); }
+@media (min-width: 720px) { .picks-bar { grid-template-columns: auto 1fr; justify-content: space-between; align-items: center; } .picks-bar .mode-chips:last-child { justify-content: end; } }
+.picks-bar .chip[aria-pressed='true'] { background: var(--fg); color: var(--bg); }
+.picks-bar .chip[aria-pressed='true'] .ic { color: inherit; }
+.picks-note { display: flex; flex-wrap: wrap; gap: var(--s-2); margin: 0 0 var(--s-3); }
+
+.picker { display: grid; gap: var(--s-3); grid-template-columns: repeat(auto-fill, minmax(min(100%, 240px), 1fr)); }
+@media (min-width: 720px) { .picker { gap: var(--s-4); } }
+
+.tile { padding: 0; overflow: hidden; display: grid; grid-template-rows: auto 1fr auto; transition: box-shadow var(--t-base) var(--ease-out), border-color var(--t-fast) var(--ease-out), opacity var(--t-base) var(--ease-out); }
+.tile[hidden] { display: none; }
+.tile[data-state='skip'] { opacity: 0.72; }
+.tile[data-state='day'] { border-color: color-mix(in srgb, var(--coral) 45%, var(--line)); }
+.tile:hover { box-shadow: var(--shadow-2); }
+
+/* Media: swipeable strip of the exact photos + count chip + day badge */
+.tile__media { position: relative; aspect-ratio: 4 / 3; background: var(--bg-2); overflow: hidden; }
+.tile__scroll { display: flex; height: 100%; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; }
+.tile__scroll::-webkit-scrollbar { display: none; }
+.tile__shot { flex: 0 0 100%; scroll-snap-align: start; padding: 0; border: 0; background: none; cursor: zoom-in; line-height: 0; }
+.tile__shot img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform var(--t-slow) var(--ease-out); }
+.tile:hover .tile__shot img { transform: scale(1.03); }
+.tile__shot:focus-visible { outline: 2px solid var(--coral); outline-offset: -4px; }
+.tile__none { position: absolute; inset: 0; display: grid; place-content: center; justify-items: center; gap: var(--s-1); color: var(--fg-3); background: repeating-linear-gradient(135deg, var(--bg-2) 0 10px, var(--card) 10px 20px); }
+.tile__none .ic { width: 32px; height: 32px; }
+.tile__none small { font-size: 11px; }
+.tile__pics, .tile__day {
+  position: absolute; top: var(--s-2); display: inline-flex; align-items: center; gap: 4px; height: 24px; padding: 0 8px;
+  border-radius: var(--r-pill); font: 600 11px/1 var(--font-ui);
+}
+.tile__pics { right: var(--s-2); border: 0; background: rgb(16 35 58 / 0.72); color: #fff; cursor: pointer; }
+.tile__pics .ic { width: 12px; height: 12px; }
+.tile__pics:hover { background: rgb(16 35 58 / 0.8); }
+.tile__day { left: var(--s-2); background: rgb(255 253 248 / 0.9); color: var(--ink); }
+.tile__day:empty { display: none; }
+.tile[data-state='day'] .tile__day { background: var(--coral); color: var(--coral-ink); }
+.tile[data-state='skip'] .tile__day { background: var(--sun-soft); color: color-mix(in srgb, var(--sun) 55%, var(--fg)); }
+[data-theme='dark'] .tile__day { background: rgb(26 36 31 / 0.9); color: var(--fg); }
+.tile[data-state='day'] .tile__media::after { content: ''; position: absolute; inset: 0; box-shadow: inset 0 0 0 3px var(--coral); pointer-events: none; }
+
+/* Toggle row */
+.tile__toggle {
+  display: grid; grid-template-columns: 24px minmax(0, 1fr) auto; gap: var(--s-2); align-items: center;
+  width: 100%; padding: var(--s-3); border: 0; background: none; color: var(--fg); text-align: left; cursor: pointer; font: inherit;
+}
+.tile__toggle:hover { background: var(--bg-2); }
+.tile__toggle:focus-visible { outline: 2px solid var(--coral); outline-offset: -4px; border-radius: var(--r-card); }
+.tile__toggle:active .tile__check { transform: scale(0.9); }
+.tile__check { width: 24px; height: 24px; border-radius: 50%; border: 2px solid var(--line); display: grid; place-items: center; color: transparent; transition: background-color var(--t-fast) var(--ease-out), border-color var(--t-fast) var(--ease-out), color var(--t-fast) var(--ease-out), transform var(--t-fast) var(--ease-out); }
+.tile__check .ic { width: 14px; height: 14px; }
+.tile__toggle[aria-pressed='true'] .tile__check { background: var(--coral); border-color: var(--coral); color: var(--coral-ink); }
+.tile[data-state='skip'] .tile__toggle[aria-pressed='true'] .tile__check { background: var(--sun); border-color: var(--sun); color: var(--fg); }
+.tile__name { display: grid; min-width: 0; font-weight: 600; font-size: var(--fs-2); line-height: 1.25; }
+.tile__name small { font-weight: 400; color: var(--fg-2); font-size: var(--fs-1); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.tile__price { font-size: var(--fs-1); font-weight: 600; color: var(--fg-2); white-space: nowrap; font-variant-numeric: tabular-nums; }
+.tile__price:empty { display: none; }
+
+/* Reel chip in the toggle row's footer */
+.tile__reel { display: inline-flex; align-items: center; gap: 4px; margin: 0 var(--s-3) var(--s-3); padding: 0 10px; height: 26px; border: 0; border-radius: var(--r-pill); background: var(--rain-soft); color: var(--rain); font: 600 11px/1 var(--font-ui); cursor: pointer; justify-self: start; }
+.tile__reel .ic { width: 12px; height: 12px; }
+.tile__reel:hover { background: var(--rain); color: #fff; }
+
+@media (prefers-reduced-motion: reduce) {
+  .tile, .tile__shot img, .tile__check { transition: none; }
+  .tile:hover .tile__shot img { transform: none; }
+}
