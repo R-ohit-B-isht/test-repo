@@ -26,7 +26,7 @@ const pickChanges = (ids, want, state, out, ignored) => {
   (Array.isArray(ids) ? ids : []).forEach((id) => {
     const x = lookup(state, id);
     if (!x) return ignored.push(`unknown id "${id}"`);
-    if (x.closed) return ignored.push(`${x.name} is closed in Oct`);
+    if (x.closed) return ignored.push(`${x.name} · ${x.closed}`);
     if (!!state.picks[id] === want) return;
     out.push(change(want ? 'on' : 'off', `${want ? 'on' : 'off'}:${id}`, x.name, `${STOP_NAME[x.stop] || x.stop} · ${isFun(x) ? 'fun' : 'see'}`, (s) => ({ picks: { ...s.picks, [id]: want } })));
   });

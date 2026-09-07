@@ -1,0 +1,52 @@
+/* Calendar page: Mon-first month grid, trip days are photo cells. */
+.cal-actions { display: flex; gap: var(--s-2); }
+.cal { display: grid; gap: var(--s-2); }
+.crow { display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); gap: var(--s-2); }
+.chead span { font: 500 11px var(--font-mono); text-transform: uppercase; letter-spacing: 0.08em; color: var(--fg-3); padding: 0 var(--s-1); }
+.ccell {
+  position: relative; display: grid; grid-template-columns: minmax(0, 1fr); align-content: start; gap: var(--s-1); min-height: 84px; min-width: 0; padding: var(--s-2);
+  border-radius: var(--r-card); border: 1px solid var(--line); background: var(--bg-2); color: var(--fg-3); text-align: left; overflow: hidden;
+}
+.ccell .cdate { display: flex; align-items: baseline; gap: 6px; font: 600 var(--fs-2) var(--font-display); position: relative; z-index: 1; }
+.ccell .cdate em { font: 500 10px var(--font-mono); font-style: normal; letter-spacing: 0.06em; opacity: 0.85; }
+.ccell.is-trip {
+  min-height: 168px; color: #fff; background: var(--card); border-color: transparent; cursor: pointer;
+  transition: transform var(--t-fast) var(--ease-out), box-shadow var(--t-fast) var(--ease-out);
+}
+.ccell.is-trip img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.ccell.is-trip::after {
+  content: ''; position: absolute; inset: 0;
+  background: linear-gradient(180deg, rgb(0 0 0 / 0.35) 0%, rgb(0 0 0 / 0.15) 35%, rgb(0 0 0 / 0.75) 100%);
+}
+.ccell.is-trip > *:not(img) { position: relative; z-index: 1; }
+.ccell.is-trip:hover { transform: translateY(-2px); box-shadow: var(--shadow-2); }
+.ccell.is-trip:active { transform: scale(0.98); }
+.ccell.is-trip:focus-visible { outline: 2px solid var(--lantern); outline-offset: 2px; }
+.ccell.is-trip .cdate em { color: var(--lantern); background: var(--lantern-ink); padding: 1px 6px; border-radius: var(--r-pill); opacity: 1; }
+.ccell.is-fly { background: var(--fg); color: var(--bg); border-color: var(--fg); min-height: 168px; }
+.ccell.is-fly .cdate em { color: var(--lantern); }
+.cwhere { font: 500 11px var(--font-mono); text-transform: uppercase; letter-spacing: 0.06em; opacity: 0.9; }
+.cchips { display: grid; gap: 4px; margin-top: auto; min-width: 0; justify-items: start; }
+.cchip {
+  display: inline-flex; align-items: center; gap: 4px; max-width: 100%; padding: 2px 8px; border-radius: var(--r-pill);
+  font-size: 11px; font-weight: 500; line-height: 1.5; background: rgb(255 255 255 / 0.18); backdrop-filter: blur(6px); color: #fff;
+  min-width: 0;
+}
+.cchip > span, .cbed > span { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.cchip .ic { width: 11px; height: 11px; flex: none; }
+.cchip.cfix { background: var(--lantern); color: var(--lantern-ink); }
+.cbed { display: inline-flex; align-items: center; gap: 4px; font-size: 11px; opacity: 0.85; min-width: 0; max-width: 100%; }
+.cbed .ic { width: 12px; height: 12px; flex: none; }
+.cal-legend { display: flex; flex-wrap: wrap; align-items: center; gap: var(--s-2); margin-top: var(--s-3); }
+.cal-legend .cchip { background: var(--bg-2); color: var(--fg-2); border: 1px solid var(--line); }
+.cal-legend .cchip.cfix { background: var(--lantern); color: var(--lantern-ink); border-color: transparent; }
+.cal-legend .sub { margin-left: auto; }
+
+/* Phones: a single column list of the trip days; blank days collapse to a strip. */
+@media (max-width: 720px) {
+  .chead { display: none; }
+  .crow { grid-template-columns: 1fr; }
+  .ccell:not(.is-trip):not(.is-fly) { display: none; }
+  .ccell.is-trip, .ccell.is-fly { min-height: 132px; }
+  .cal-legend .sub { margin-left: 0; flex-basis: 100%; }
+}

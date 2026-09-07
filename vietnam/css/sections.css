@@ -2,7 +2,7 @@
 
 .section { padding: var(--s-7) 0; }
 .section-head { display: flex; flex-wrap: wrap; align-items: end; justify-content: space-between; gap: var(--s-3); margin-bottom: var(--s-5); }
-.section-head h2 { max-width: 20ch; }
+.section-head h2, .section-head .page-title { max-width: 20ch; }
 .section-head .eyebrow { margin-bottom: var(--s-2); }
 
 /* 01 Hero — photo-led with title overlay (Tripadvisor) + calculator card (Wise). */

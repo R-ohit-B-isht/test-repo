@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <title>Vietnam, middle then north: 8 days from Delhi, cheaper than ₹40k</title>
-  <meta name="description" content="A visual planner for eight days in northern and central Vietnam from Delhi in late October: route trade-offs, sourced prices, a per-person budget and a booking checklist." />
+  <title>Days · Vietnam planner</title>
+  <meta name="description" content="Eight day cards: what you do, eat and where you sleep, with an hour-by-hour view of each day." />
   <meta name="color-scheme" content="light dark" />
   <meta name="theme-color" content="#f7f2e8" />
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
@@ -15,7 +15,7 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" />
   <link rel="stylesheet" href="css/app.css" />
 </head>
-<body data-page="route">
+<body data-page="days">
   <a class="skip" href="#main">Skip to content</a>
   <div class="progress" id="progress" aria-hidden="true"></div>
 
@@ -24,31 +24,22 @@
   </header>
 
   <main id="main">
-    <section class="hero" id="hero" aria-labelledby="hero-title">
-      <div class="hero-bg" id="hero-bg"></div>
-      <div class="wrap">
-        <div id="hero-copy"></div>
-        <div class="card calc" id="calc" aria-live="polite"></div>
-      </div>
-    </section>
-
-    <section class="section" id="route" aria-labelledby="route-title">
+    <section class="section page-top" id="days" aria-labelledby="days-title">
       <div class="wrap">
         <div class="section-head reveal">
           <div>
-            <span class="eyebrow">02 · Route</span>
-            <h2 id="route-title">Two one-ways beat one return.</h2>
+            <span class="eyebrow">03 · Eight days</span>
+            <h1 class="page-title" id="days-title">Middle first, then north.</h1>
           </div>
-          <div id="berth-seg"></div>
-        </div>
-        <div class="route-grid">
-          <div class="map reveal" id="map"></div>
-          <div class="reveal">
-            <div class="routes" id="routes" role="radiogroup" aria-label="Route options"></div>
-            <div class="card legs" id="legs"></div>
-            <details class="rejected" id="rejected"></details>
+          <div class="days-head">
+            <div class="dots" id="day-dots" aria-label="Jump to day"></div>
+            <button class="btn-icon" id="day-prev" type="button" aria-label="Previous day">‹</button>
+            <button class="btn-icon" id="day-next" type="button" aria-label="Next day">›</button>
           </div>
         </div>
+      </div>
+      <div class="wrap">
+        <div class="shelf reveal" id="shelf"></div>
       </div>
     </section>
     <div class="wrap">

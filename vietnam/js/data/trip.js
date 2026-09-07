@@ -19,11 +19,15 @@ export const FX = {
   inrPerUsd: 95.7,
 };
 
-export const dateOf = (n) => {
+// Calendar date of trip day `n` (day 0 = the night you fly out of Delhi).
+export const dayDate = (n) => {
   const d = new Date(`${TRIP.start}T00:00:00`);
   d.setDate(d.getDate() + n - 1);
-  return d.toLocaleDateString('en-IN', { weekday: 'short', day: 'numeric', month: 'short' });
+  return d;
 };
+const pad = (x) => String(x).padStart(2, '0');
+export const isoOf = (n) => { const d = dayDate(n); return `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}`; };
+export const dateOf = (n) => dayDate(n).toLocaleDateString('en-IN', { weekday: 'short', day: 'numeric', month: 'short' });
 
 export const inrFromVnd = (vnd) => Math.round(vnd / FX.vndPerInr);
 export const inrFromUsd = (usd) => Math.round(usd * FX.inrPerUsd);

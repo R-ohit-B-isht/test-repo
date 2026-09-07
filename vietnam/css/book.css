@@ -1,0 +1,42 @@
+/* Book page: steps with a tick + provider chips, stays card, share / export grid. */
+.step { cursor: default; }
+.step .tick { width: 32px; height: 32px; padding: 0; background: none; border: 0; border-radius: 50%; cursor: pointer; }
+.step .tick:focus-visible { outline: 2px solid var(--lantern); outline-offset: 2px; }
+.step .tick:active .box { transform: scale(0.9); }
+.step.is-done .box { background: var(--jade); border-color: var(--jade); }
+.step.is-done .box .ic { scale: 1; }
+.step.is-done .txt b { text-decoration: line-through; color: var(--fg-3); }
+.step { grid-template-columns: 32px minmax(0, 1fr) auto; }
+.step .txt { min-width: 0; }
+@media (max-width: 560px) {
+  .step { grid-template-columns: 32px minmax(0, 1fr); row-gap: 0; }
+  .step .when { grid-column: 2; padding-top: 2px; }
+}
+.step .txt .links { margin-top: var(--s-2); }
+.step.is-done .links { opacity: 0.6; }
+.links a[data-official] { border-color: var(--jade); color: var(--jade); }
+.links a[data-official]:hover { background: var(--jade-soft); }
+
+.stays-card { margin-top: var(--s-4); }
+.stays-card h3 { font-family: var(--font-display); font-size: var(--fs-3); margin-bottom: var(--s-3); }
+.stay-list { list-style: none; margin: 0; padding: 0; display: grid; gap: var(--s-3); }
+.stay-list li { display: grid; grid-template-columns: 32px 1fr; gap: var(--s-3); align-items: start; }
+.stay-list .ic-wrap { width: 32px; height: 32px; border-radius: 50%; background: var(--bg-2); display: grid; place-items: center; color: var(--fg-2); }
+.stay-list b { display: block; }
+.stay-list .muted { display: block; font-size: var(--fs-1); margin-bottom: var(--s-2); }
+.tile .src.book { color: var(--jade); }
+
+/* Share / export */
+.export-grid { display: grid; gap: var(--s-3); }
+@media (min-width: 720px) { .export-grid { grid-template-columns: repeat(3, 1fr); } }
+.xcard { display: grid; gap: var(--s-3); align-content: start; }
+.xcard .ic-wrap { width: 44px; height: 44px; border-radius: 50%; display: grid; place-items: center; background: var(--bg-2); color: var(--fg); }
+.xcard .ic-wrap .ic { width: 22px; height: 22px; }
+.xcard h3 { font-family: var(--font-display); font-size: var(--fs-3); }
+.xcard p { color: var(--fg-2); font-size: var(--fs-1); }
+.xcard .row { display: flex; flex-wrap: wrap; gap: var(--s-2); align-items: center; }
+.xcard output { font: 500 var(--fs-1) var(--font-mono); color: var(--jade); }
+.xcard .url { font: 500 11px var(--font-mono); color: var(--fg-3); overflow-wrap: anywhere; }
+.xcard.is-off { opacity: 0.6; }
+.xcard label { display: flex; align-items: center; gap: var(--s-2); font-size: var(--fs-1); color: var(--fg-2); }
+.xcard input[type='checkbox'] { accent-color: var(--jade); width: 16px; height: 16px; }

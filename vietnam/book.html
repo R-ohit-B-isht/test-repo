@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <title>Vietnam, middle then north: 8 days from Delhi, cheaper than ₹40k</title>
-  <meta name="description" content="A visual planner for eight days in northern and central Vietnam from Delhi in late October: route trade-offs, sourced prices, a per-person budget and a booking checklist." />
+  <title>Book · Vietnam planner</title>
+  <meta name="description" content="Booking order with dates, one-tap provider links, and share / export of your plan." />
   <meta name="color-scheme" content="light dark" />
   <meta name="theme-color" content="#f7f2e8" />
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
@@ -15,7 +15,7 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" />
   <link rel="stylesheet" href="css/app.css" />
 </head>
-<body data-page="route">
+<body data-page="book">
   <a class="skip" href="#main">Skip to content</a>
   <div class="progress" id="progress" aria-hidden="true"></div>
 
@@ -24,31 +24,34 @@
   </header>
 
   <main id="main">
-    <section class="hero" id="hero" aria-labelledby="hero-title">
-      <div class="hero-bg" id="hero-bg"></div>
-      <div class="wrap">
-        <div id="hero-copy"></div>
-        <div class="card calc" id="calc" aria-live="polite"></div>
-      </div>
-    </section>
-
-    <section class="section" id="route" aria-labelledby="route-title">
+    <section class="section page-top" id="checklist" aria-labelledby="checklist-title">
       <div class="wrap">
         <div class="section-head reveal">
           <div>
-            <span class="eyebrow">02 · Route</span>
-            <h2 id="route-title">Two one-ways beat one return.</h2>
+            <span class="eyebrow">07 · Book it</span>
+            <h1 class="page-title" id="checklist-title">In this order.</h1>
           </div>
-          <div id="berth-seg"></div>
+          <span class="chip" id="date-chip"></span>
         </div>
-        <div class="route-grid">
-          <div class="map reveal" id="map"></div>
+        <div class="check-grid">
+          <div class="card steps reveal" id="steps"></div>
           <div class="reveal">
-            <div class="routes" id="routes" role="radiogroup" aria-label="Route options"></div>
-            <div class="card legs" id="legs"></div>
-            <details class="rejected" id="rejected"></details>
+            <div class="card done-card" id="done"></div>
+            <div class="card stays-card" id="stays"></div>
           </div>
         </div>
+      </div>
+    </section>
+
+    <section class="section" id="share" aria-labelledby="share-title">
+      <div class="wrap">
+        <div class="section-head reveal">
+          <div>
+            <span class="eyebrow">08 · Take it with you</span>
+            <h2 id="share-title">Share it. Print it. Calendar it.</h2>
+          </div>
+        </div>
+        <div class="export-grid reveal" id="export"></div>
       </div>
     </section>
     <div class="wrap">

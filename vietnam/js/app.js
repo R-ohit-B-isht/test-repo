@@ -1,4 +1,5 @@
 import { createStore } from './store.js';
+import { currentPage } from './pages.js';
 import { mountHero, renderHero } from './render/hero.js';
 import { mountRoute, renderRoute } from './render/route.js';
 import { mountItinerary, renderItinerary } from './render/itinerary.js';
@@ -6,42 +7,53 @@ import { mountDayBoard, renderDayBoard } from './render/dayboard.js';
 import { mountPicker, renderPicker } from './render/picker.js';
 import { mountBudget, renderBudget } from './render/budget.js';
 import { mountChecklist, renderChecklist } from './render/checklist.js';
+import { mountCalendar, renderCalendar } from './render/calendar.js';
+import { mountExport, renderExport } from './render/export.js';
 import { mountBrain } from './render/brain.js';
 import { mountReel } from './render/reel.js';
-import { renderSources } from './render/sources.js';
+import { renderSources, renderFooter } from './render/sources.js';
+import { mountShell } from './chrome/shell.js';
 import { mountTheme } from './chrome/theme.js';
 import { mountScroll } from './chrome/scroll.js';
 import { mountKeys } from './chrome/keys.js';
+import { mountNet } from './chrome/net.js';
+import { restoreShared } from './share.js';
 import { mountDev } from './dev.js';
 
-// Bootstrap: mount once (static markup + listeners), then every renderer
-// subscribes to the store (Observer) and repaints from state.
+// Bootstrap. Every page shares the store (localStorage), the chrome and the
+// overlays; only the renderers listed for <body data-page> mount here, so a
+// renderer never looks for markup that lives on another page.
+
+const PAGE = {
+  route: [[mountHero, renderHero], [mountRoute, renderRoute]],
+  days: [[mountItinerary, renderItinerary]],
+  picks: [[mountPicker, renderPicker]],
+  budget: [[mountBudget, renderBudget]],
+  calendar: [[mountCalendar, renderCalendar]],
+  book: [[mountChecklist, renderChecklist], [mountExport, renderExport]],
+  sources: [[renderSources, null]],
+};
 
 const store = createStore();
+const shared = restoreShared(store);
+mountShell();
 
-mountHero(store);
-mountRoute(store);
-mountItinerary(store);
+const renderers = (PAGE[currentPage()] || []).map(([mount, render]) => { mount(store); return render; }).filter(Boolean);
 mountDayBoard(store);
-mountPicker(store);
-mountBudget(store);
-mountChecklist(store);
 const brain = mountBrain(store);
 const reel = mountReel(store);
-renderSources();
+renderFooter();
 
 store.subscribe((state) => {
-  renderHero(state);
-  renderRoute(state);
-  renderItinerary(state);
+  renderers.forEach((render) => render(state));
   renderDayBoard(state);
-  renderPicker(state);
-  renderBudget(state);
-  renderChecklist(state);
 });
 
 mountTheme(store);
 mountScroll();
+mountNet(shared);
 mountKeys(store, { toggleDev: mountDev(store), brain, reel });
+
+if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
 
 window.__planner = store;

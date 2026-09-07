@@ -15,13 +15,13 @@ import { brainCta } from './brain.js';
 // never take a slot). Off-route stops get their own "+days" strip.
 
 const ROUTE_ORDER = ['hoian', 'danang', 'hue', 'hanoi', 'ninhbinh', 'halong'];
-const KINDS = [['all', 'All'], ['fun', 'Fun'], ['see', 'See']];
+const KINDS = [['all', 'All', ''], ['fun', 'Fun', 'sparkle'], ['see', 'See', 'eye'], ['night', 'Nights', 'moon']];
 const stopName = (id) => STOPS.find((s) => s.id === id)?.name || EXTRA_STOPS.find((s) => s.id === id)?.name || id;
 
 let tab = ROUTE_ORDER[0];
 let kind = 'all';
 
-const byKind = (x) => kind === 'all' || (kind === 'fun') === isFun(x);
+const byKind = (x) => kind === 'all' || (kind === 'night' ? x.slot === 'night' : (kind === 'fun') === isFun(x));
 const tileOrder = (p, q) => (isFun(q) - isFun(p)) || (!!q.must - !!p.must);
 
 // Off-route picks are a wishlist: they never enter the 8-day cards or the budget,
@@ -51,7 +51,7 @@ const tabs = (state, plan) => ROUTE_ORDER.map((id) => {
   return html`<label><input type="radio" name="picker-tab" value="${id}" ${tab === id ? 'checked' : ''} aria-label="${stopName(id)}" /><span>${stopName(id)}<span class="cnt num">${on}/${mine.length}</span></span></label>`;
 }).join('');
 
-const kindTabs = () => KINDS.map(([id, label]) => html`<label><input type="radio" name="picker-kind" value="${id}" ${kind === id ? 'checked' : ''} aria-label="${label}" />${id === 'fun' ? icon('sparkle') : id === 'see' ? icon('eye') : ''}<span>${label}</span></label>`).join('');
+const kindTabs = () => KINDS.map(([id, label, ic]) => html`<label><input type="radio" name="picker-kind" value="${id}" ${kind === id ? 'checked' : ''} aria-label="${label}" />${ic ? icon(ic) : ''}<span>${label}</span></label>`).join('');
 
 export function mountPicker(store) {
   $('#picker-tabs').addEventListener('change', (e) => {

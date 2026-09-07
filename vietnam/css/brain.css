@@ -36,6 +36,25 @@
 .bquick .chip:hover { background: var(--bg-2); }
 .bquick .chip:active { transform: scale(0.97); }
 
+/* three-tap vibe onboarding */
+.vibe { display: grid; gap: var(--s-2); padding: var(--s-3); border-radius: var(--r-ctl); border: 1px dashed var(--line); }
+.vibe summary { display: flex; align-items: center; gap: var(--s-2); cursor: pointer; list-style: none; min-height: 32px; }
+.vibe summary::-webkit-details-marker { display: none; }
+.vibe summary .ic { width: 16px; height: 16px; color: var(--lantern); }
+.vibe summary .sub { margin-left: auto; font-variant-numeric: tabular-nums; }
+.vibe:not([open]) { gap: 0; }
+.vrow { display: grid; grid-template-columns: 56px 1fr; align-items: center; gap: var(--s-2); }
+.vlabel { font: 500 11px/1 var(--font-mono); letter-spacing: 0.04em; text-transform: uppercase; color: var(--fg-2); }
+.vchips { display: flex; flex-wrap: wrap; gap: var(--s-1); min-width: 0; }
+.vchip { flex: none; min-height: 36px; padding: 0 12px; cursor: pointer; border: 1px solid var(--line); background: var(--card); color: var(--fg); transition: background-color var(--t-fast) var(--ease-out), border-color var(--t-fast) var(--ease-out); }
+.vchip .ic { width: 14px; height: 14px; color: var(--fg-2); }
+.vchip:hover { background: var(--bg-2); }
+.vchip:active { transform: scale(0.97); }
+.vchip[aria-checked="true"] { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+.vchip[aria-checked="true"] .ic { color: inherit; }
+.vgo { justify-content: space-between; }
+.vgo .btn:disabled { opacity: 0.5; cursor: not-allowed; }
+
 .bask { display: grid; gap: var(--s-2); }
 .bask textarea {
   width: 100%; min-height: 64px; max-height: 32dvh; padding: var(--s-3); border-radius: var(--r-card); resize: vertical; field-sizing: content;

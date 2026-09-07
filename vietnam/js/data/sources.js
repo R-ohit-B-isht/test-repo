@@ -385,4 +385,66 @@ export const SOURCES = {
     url: 'https://vietnamkb.com/seasonal/typhoon-avoidance-central-coast',
     note: 'Mid-Oct to mid-Nov is peak exposure. Da Nang 300–400 mm in October, 20+ wet days; Hoi An floods most years.',
   },
+
+  // ── Nights out ────────────────────────────────────────────────────────────
+  hoianFoodTour: {
+    name: 'Explorevia · Hoi An evening food tour, folk games & lantern boat',
+    url: 'https://www.explorevia.com/vietnam/hoi-an-evening-food-tour-folk-games-lantern-boat-ride_p-303085',
+    note: 'From US$39 per person, 4 h, English guide. Jolie Cooking Class runs a similar 4-h evening tour at US$41.',
+  },
+  tigerTiger: {
+    name: 'Wanderlog · Tiger Tiger Bar, 35 Nguyen Phuc Chu, Hoi An',
+    url: 'https://wanderlog.com/place/details/12898517/tiger-tiger-bar',
+    note: 'Open daily until 05:00; happy hour 19:30–22:00; free shisha for groups of 3+. Drink prices change through the night — confirm before ordering.',
+  },
+  sonTraMarket: {
+    name: 'Da Nang Wander · Son Tra night market 2026',
+    url: 'https://danangwander.com/en/diem-den/cho-dem-son-tra-en/',
+    note: 'Mai Hac De / Ly Nam De, at the Dragon Bridge. Mon–Fri 17:30–23:45, Sat 17:00–23:59, Sun 17:30–23:59. Free entry; busiest 19:00–21:30.',
+  },
+  helio: {
+    name: 'Helio Center · Helio Night Market, 2 Thang 9 street',
+    url: 'https://helio.vn/vi/news/helio-night-market-da-nang-a-super-hot-shopping-and-dining-paradise-at-night.html',
+    note: 'Open every day 17:00/17:30–22:30, no entry fee. Food court, beer garden, live stage.',
+  },
+  sky36: {
+    name: 'Sky36 · Novotel Premier Han River, 36 Bach Dang',
+    url: 'https://sky36.vn/',
+    note: 'Open 18:00–02:00 daily; DJ 21:00–01:30. Drink and cover prices are not published — budget ~250,000 ₫ a drink and ask at the door.',
+  },
+  anThuong: {
+    name: 'Da Nang Wander · An Thuong tourist street guide 2026',
+    url: 'https://danangwander.com/en/diem-den/khu-pho-du-lich-an-thuong-en/',
+    note: 'Bar and café grid behind My Khe beach around 298 Vo Nguyen Giap; no tickets, walk in. Drink budget is our estimate from bar menus, not a listed price.',
+  },
+  dmzBar: {
+    name: 'DMZ Bar · 60 Le Loi, Hue',
+    url: 'https://dmz.com.vn/',
+    note: 'Open 07:00–24:00 every day; acoustic and DJ nights. Menu: DMZ pizza 189,000 ₫, cube beef 175,000 ₫. Drink budget is our estimate.',
+  },
+  hueWalkingStreet: {
+    name: 'Vietnam Airlines · Hue Night Walking Street',
+    url: 'https://www.vietnamairlines.com/be/en/plan-book/travel/travel-guide/hue-night-walking-street',
+    note: 'Pham Ngu Lao, Chu Van An, Vo Thi Sau. Fri–Sat 18:00–02:00, Sun 18:00–24:00 only. Our Hue night (Tue 27 Oct) misses it — kept for reference.',
+  },
+  taHien: {
+    name: 'Asia Travel Links · Ta Hien beer street 2026 prices',
+    url: 'https://asiatravellinksdmc.com/travel-guide/ta-hien-beer-street-hanoi-prices-etiquette-alternatives',
+    note: 'Bia hơi 10,000–20,000 ₫ a glass, bottles 25,000–45,000 ₫, cocktails 80,000–120,000 ₫, towers 250,000–400,000 ₫. Happy hour ~17:00–20:00.',
+  },
+  hanoiFoodWalk: {
+    name: 'byFood · Hanoi evening street-food walk, 8 dishes + local drink',
+    url: 'https://www.byfood.com/experiences/tasting-8-different-street-foods-local-drink-at-evening-time-by-walking-30529',
+    note: 'US$27.48 per person, 3 h, meets 78A Tran Nhat Duat near O Quan Chuong gate. Includes egg coffee and bia hơi.',
+  },
+  minhJazz: {
+    name: 'Minh Jazz Vietnam · Binh Minh Jazz Club, 1A Trang Tien',
+    url: 'https://minhjazzvietnam.com/',
+    note: 'Live jazz nightly 21:00–23:15; cover 100,000–150,000 ₫ per guest. Beer from 80,000 ₫, cocktails 150,000–200,000 ₫ (The Discreet Gentleman, Feb 2026).',
+  },
+  hanoiNightMarket: {
+    name: 'Vietnam Airlines · Hanoi weekend night market',
+    url: 'https://www.vietnamairlines.com/mo/en/plan-book/travel/travel-guide/hanoi-night-market',
+    note: 'Hang Dao → Dong Xuan market, Fri–Sun 18:00–24:00, free. Pedestrian-only while it runs; Grab drops you on a side street.',
+  },
 };

@@ -7,7 +7,7 @@ import { SOURCES } from '../data/sources.js';
 // Used by the day cards (Do / Nearby rows) and by the picker grid.
 
 export const priceTag = (x, travellers) => {
-  if (x.closed) return html`<span class="tag tag-off">closed</span>`;
+  if (x.closed) return html`<span class="tag tag-off" title="${x.closed}">${x.closedTag || 'closed'}</span>`;
   const amt = activityInr(x, travellers);
   if (amt == null) return html`<span class="tag tag-free">${x.free ? 'free' : 'in tour'}</span>`;
   const title = [x.est ? 'Gemini estimate, not a sourced price' : x.range, x.per === 'group' ? `split ${travellers} ways` : '', x.food ? 'comes out of the food dial' : ''].filter(Boolean).join(' · ');

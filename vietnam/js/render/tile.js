@@ -5,6 +5,7 @@ import { dayOf } from '../plan.js';
 import { priceTag, srcIcon, includesText, mustMark } from './picks.js';
 import { strip, galleryClick } from './gallery.js';
 import { reelChip, reelClick } from './reel.js';
+import { ticketLinks } from '../book.js';
 
 // One activity tile: photo strip, name, note, status badge, price, source.
 // Shared by the picker grid, the "+days" cards and the day board.
@@ -21,8 +22,15 @@ const badge = (x, status, plan) => {
   if (status === 'on') return dayOf(plan, x.id) != null ? html`<span class="chip chip-ink num">D${dayOf(plan, x.id)}</span>` : '';
   if (status === 'noroom') return html`<span class="chip chip-sun">no room</span>`;
   if (status === 'bundled') return html`<span class="chip chip-jade">in tour</span>`;
-  if (status === 'closed') return html`<span class="chip">closed</span>`;
+  if (status === 'closed') return html`<span class="chip">${x.closedTag || 'closed'}</span>`;
   return '';
+};
+
+// Paid picks get a ticket-search link (Klook, then GetYourGuide for the day).
+const bookIcon = (x, plan, status) => {
+  if (status !== 'on' || !(x.vnd || x.usd) || x.food) return '';
+  const l = ticketLinks(x, dayOf(plan, x.id)).find((k) => !k.official);
+  return l ? html`<a class="src book" href="${l.url}" target="_blank" rel="noopener noreferrer" aria-label="Find tickets on ${l.name}" title="Tickets · ${l.name}">${icon('ticket')}</a>` : '';
 };
 
 export const tile = (x, state, plan) => {
@@ -41,7 +49,7 @@ export const tile = (x, state, plan) => {
         <span class="nm">${x.name}${mustMark(x)}</span>
         <span class="sub">${x.closed || x.note || ''}${x.includes ? html` · incl. ${includesText(x)}` : ''}</span>
       </span>
-      <span class="meta">${badge(x, status, plan)}${priceTag(x, state.travellers)}${srcIcon(x)}</span>
+      <span class="meta">${badge(x, status, plan)}${priceTag(x, state.travellers)}${bookIcon(x, plan, status)}${srcIcon(x)}</span>
     </div>`;
 };
 

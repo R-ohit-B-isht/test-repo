@@ -1,0 +1,28 @@
+/* Print / save as PDF: paper-friendly, chrome gone, everything revealed. */
+@media print {
+  :root { --bg: #fff; --bg-2: #f4f4f4; --card: #fff; --fg: #111; --fg-2: #444; --fg-3: #777; --line: #ccc; }
+  @page { margin: 14mm; }
+  html, body { background: #fff !important; color: #111 !important; }
+  body { font-size: 11pt; }
+  .skip, .progress, .topbar, .tabbar, .netbar, .pager, .rail, .devbar, .footer, .overlay, #board, #brain, #reel, #help, #devbar,
+  .btn, .btn-icon, .btn-primary, .brain-btn, .chip-brain, .seg, .stepper, .controls, .reel-chip, .pics-nav, .cal-actions, #export,
+  .day .x, .tile .hit, .tile .src.book, .pics-dots { display: none !important; }
+  .reveal { opacity: 1 !important; transform: none !important; transition: none !important; }
+  .section { padding: 0 0 10mm; break-inside: auto; }
+  .section-head { margin-bottom: 4mm; }
+  .card, .day, .tile, .route-card, .step, .ccell { box-shadow: none !important; border: 1px solid var(--line) !important; break-inside: avoid; }
+  .shelf { display: grid !important; grid-template-columns: 1fr 1fr; gap: 6mm; overflow: visible !important; scroll-snap-type: none !important; }
+  .day { min-width: 0 !important; width: auto !important; }
+  .hero-bg, .bhero img { filter: none; }
+  img { max-width: 100%; }
+  a { color: inherit; text-decoration: none; }
+  .links a { border: 1px solid var(--line); }
+  .links a::after, .source a::after { content: ' (' attr(href) ')'; font-size: 8pt; color: var(--fg-3); overflow-wrap: anywhere; }
+  .step .txt .links a::after { display: none; }
+  .ccell.is-trip::after { background: linear-gradient(180deg, rgb(0 0 0 / 0.2), rgb(0 0 0 / 0.75)); }
+  .picker { display: grid; grid-template-columns: repeat(3, 1fr); gap: 4mm; }
+  .tile .pics { max-height: 32mm; }
+  .trow::before { background: #ccc; }
+  .twarn li { border: 1px solid var(--line); background: none; }
+  .map { break-inside: avoid; }
+}

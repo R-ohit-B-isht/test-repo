@@ -1,7 +1,9 @@
 import { DEFAULT_STATE, STORAGE_KEY } from './config.js';
 
 // Observer pattern: one state object, subscribers re-render on every change.
-// Persists to localStorage so a refresh keeps your route and sliders.
+// Persists to localStorage so a refresh keeps your route and sliders, and every
+// page (or tab) of the site reads the same plan — a change in one tab repaints
+// the others through the `storage` event.
 
 const load = () => {
   try {
@@ -21,6 +23,11 @@ export function createStore() {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
     subs.forEach((fn) => fn(state));
   };
+  addEventListener('storage', (e) => {
+    if (e.key !== STORAGE_KEY || e.newValue === JSON.stringify(state)) return;
+    state = load();
+    subs.forEach((fn) => fn(state));
+  });
 
   return {
     get: () => state,

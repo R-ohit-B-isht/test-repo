@@ -9,6 +9,7 @@ import { planTrip } from '../plan.js';
 import { tile, pickHandler } from './tile.js';
 import { mountGalleries } from './gallery.js';
 import { brainCta } from './brain.js';
+import { timelineView } from './timeline.js';
 
 // Day board: tap a day card → full-screen dialog with that day as a photo grid,
 // grouped Do / Get there / Eat / Sleep / Also see / Nearby. Every tile is the
@@ -18,6 +19,7 @@ const MEAL = ['Breakfast', 'Lunch', 'Dinner'];
 
 let open = null;
 let lastFocus = null;
+let view = 'grid'; // 'grid' (categories) | 'hours' (timeline)
 
 const src = (key) => {
   const s = key && SOURCES[key];
@@ -74,6 +76,22 @@ const grid = (id, ic, label, items, state, plan) => (items.length
   ? sec(id, ic, label, items.length, html`<div class="picker">${items.map((x) => tile(x, state, plan))}</div>`)
   : '');
 
+const viewSwitch = () => html`
+  <div class="seg bview" role="tablist" aria-label="Day view">
+    <button type="button" role="tab" data-view="grid" aria-selected="${String(view === 'grid')}">${icon('grid')}Grid</button>
+    <button type="button" role="tab" data-view="hours" aria-selected="${String(view === 'hours')}">${icon('clock')}Hours</button>
+  </div>`;
+
+const body = (day, state, transit, plan, planned, near) => (view === 'hours'
+  ? html`${timelineView(day, planned, transit)}${grid('near', 'pin', 'Nearby · tap to add', near, state, plan)}`
+  : html`
+      ${doSec(planned, state, plan)}
+      ${goSec(planned)}
+      ${eatSec(day, transit)}
+      ${sleepSec(day, transit)}
+      ${grid('see', 'eye', 'Also see', planned.see, state, plan)}
+      ${grid('near', 'pin', 'Nearby · tap to add', near, state, plan)}`);
+
 const board = (day, state, transit, plan) => {
   const stop = STOPS.find((s) => s.id === day.stop);
   const wx = WEATHER[day.weather];
@@ -95,12 +113,8 @@ const board = (day, state, transit, plan) => {
       </div>
     </div>
     <div class="bbody">
-      ${doSec(planned, state, plan)}
-      ${goSec(planned)}
-      ${eatSec(day, transit)}
-      ${sleepSec(day, transit)}
-      ${grid('see', 'eye', 'Also see', planned.see, state, plan)}
-      ${grid('near', 'pin', 'Nearby · tap to add', near, state, plan)}
+      ${viewSwitch()}
+      ${body(day, state, transit, plan, planned, near)}
     </div>`;
 };
 
@@ -128,6 +142,8 @@ export function mountDayBoard(store) {
     if (e.target === root || e.target.closest('[data-close]')) return close();
     const go = e.target.closest('[data-board-go]');
     if (go) return show(Math.min(DAYS.length, Math.max(1, open + Number(go.dataset.boardGo))));
+    const v = e.target.closest('[data-view]');
+    if (v) { view = v.dataset.view; return renderDayBoard(store.get()); }
     return onPick(e);
   });
   root.addEventListener('keydown', (e) => {

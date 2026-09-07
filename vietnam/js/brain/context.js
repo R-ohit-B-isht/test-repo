@@ -16,7 +16,7 @@ const flag = (on, label) => (on ? label : '');
 const actLine = (x, state, plan) => {
   const inr = activityInr(x, state.travellers);
   const where = x.closed ? 'closed' : isExtra(x) ? `needs +${EXTRA_STOPS.find((s) => s.id === x.stop).days}d` : dayOf(plan, x.id) != null ? `D${dayOf(plan, x.id)}` : plan.noRoom.includes(x.id) ? 'ON-NO-ROOM' : plan.bundled.has(x.id) ? 'in-tour' : 'off';
-  return [x.id, x.name, x.stop, isFun(x) ? 'fun' : 'see', `${x.slot}/${x.h}h`, inr == null ? 'free' : `₹${inr}${x.est ? '~' : ''}`, state.picks[x.id] ? 'ON' : 'off', where, flag(x.must, '★must'), flag(x.est, 'gemini-added'), x.note || ''].filter(Boolean).join(' | ');
+  return [x.id, x.name, x.stop, isFun(x) ? 'fun' : 'see', `${x.slot}/${x.h}h`, inr == null ? 'free' : `₹${inr}${x.est ? '~' : ''}`, state.picks[x.id] ? 'ON' : 'off', where, flag(x.must, '★must'), flag(x.tag, `#${x.tag}`), flag(x.est, 'gemini-added'), x.note || ''].filter(Boolean).join(' | ');
 };
 
 const dayLine = (d, transit) => {

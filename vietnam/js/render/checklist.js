@@ -4,9 +4,13 @@ import { TRIP } from '../data/trip.js';
 import { stepsFor } from '../data/checklist.js';
 import { PRICES } from '../data/prices.js';
 import { findStrategy } from '../strategies.js';
+import { stepLinks, stays } from '../book.js';
+import { fmtDate } from '../export/dates.js';
+import { linkChips } from './links.js';
 
-// Booking order with "by when" dates, and the end state: a ring that fills
-// and a lantern that lights when every step is ticked (peak-end).
+// Booking order with "by when" dates and provider links per step, the stays
+// you need to book, and the end state: a ring that fills and a lantern that
+// lights when every step is ticked (peak-end).
 
 const byWhen = (lead) => {
   const d = new Date(`${TRIP.start}T00:00:00`);
@@ -14,12 +18,17 @@ const byWhen = (lead) => {
   return d.toLocaleDateString('en-IN', { day: 'numeric', month: 'short' });
 };
 
-const step = (c, done) => html`
-  <button class="step" type="button" data-check="${c.id}" aria-pressed="${done ? 'true' : 'false'}">
-    <span class="box">${icon('check')}</span>
-    <span class="txt"><b>${c.title}</b><span>${c.hint}</span></span>
+const step = (c, links) => html`
+  <div class="step" data-step="${c.id}">
+    <button class="tick" type="button" data-check="${c.id}" aria-pressed="false" aria-label="Done: ${c.title}">
+      <span class="box">${icon('check')}</span>
+    </button>
+    <div class="txt">
+      <b>${c.title}</b><span>${c.hint}</span>
+      ${links.length ? html`<div class="links">${linkChips(links)}</div>` : ''}
+    </div>
     <span class="when">by ${byWhen(c.lead)}</span>
-  </button>`;
+  </div>`;
 
 const R = 52; const C = 2 * Math.PI * R;
 
@@ -29,6 +38,16 @@ const ring = (done, total) => html`
     <circle class="fill" cx="60" cy="60" r="${R}" stroke-dasharray="${C}" stroke-dashoffset="${C * (1 - done / total)}"/>
     <text x="60" y="68" text-anchor="middle">${done}/${total}</text>
   </svg>`;
+
+const stayRow = (r) => html`
+  <li>
+    <span class="ic-wrap">${icon('bed')}</span>
+    <div>
+      <b>${r.name}</b>
+      <span class="muted">${r.city} · ${r.nights} night${r.nights > 1 ? 's' : ''} · ${fmtDate(r.from)} → ${fmtDate(r.to)}</span>
+      <div class="links">${linkChips(r.links)}</div>
+    </div>
+  </li>`;
 
 export function mountChecklist(store) {
   $('#steps').addEventListener('click', (e) => { const b = e.target.closest('[data-check]'); if (b) store.toggleCheck(b.dataset.check); });
@@ -47,12 +66,18 @@ export function renderChecklist(state) {
   $('#date-chip').innerHTML = html`${icon('plane')} ${flightDates(state)}`;
   const done = steps.filter((c) => state.checklist[c.id]).length;
   const host = $('#steps');
-  const ids = steps.map((c) => c.id).join();
-  if (host.dataset.ids !== ids) { host.innerHTML = steps.map((c) => step(c, false)).join(''); host.dataset.ids = ids; }
-  $$('[data-check]', host).forEach((el) => el.setAttribute('aria-pressed', String(!!state.checklist[el.dataset.check])));
+  const key = `${state.strategy}:${state.travellers}`;
+  if (host.dataset.key !== key) { host.innerHTML = steps.map((c) => step(c, stepLinks(c, state))).join(''); host.dataset.key = key; }
+  $$('[data-step]', host).forEach((el) => {
+    const on = !!state.checklist[el.dataset.step];
+    el.classList.toggle('is-done', on);
+    $('[data-check]', el).setAttribute('aria-pressed', String(on));
+  });
   const all = done === steps.length;
   $('#done').innerHTML = html`
     ${all ? html`<div class="lantern-glow">${icon('lantern')}</div>` : ring(done, steps.length)}
     <h3>${all ? 'Packed. Go.' : done ? `${steps.length - done} to go` : 'Flights first'}</h3>
     <p class="muted" style="margin-top:8px">${all ? 'Xin chào, Hà Nội.' : 'Tick things off as you book. Saved on this device.'}</p>`;
+  const beds = $('#stays');
+  if (beds) beds.innerHTML = html`<h3>Beds · ${state.travellers} ${state.travellers > 1 ? 'people' : 'person'}</h3><ul class="stay-list">${stays(state).map(stayRow)}</ul>`;
 }
