@@ -6,8 +6,9 @@
 .day .block .picks { display: grid; gap: 6px; min-width: 0; grid-column: 2 / -1; }
 .day .block .lead { color: var(--fg-3); font-size: 12px; }
 .day .block .open { color: var(--fg-3); font-size: 12px; font-style: italic; }
-.day .pk { display: grid; grid-template-columns: 20px 1fr auto; gap: var(--s-2); align-items: start; min-width: 0; }
-.day .pk .ic { color: var(--fg-2); width: 20px; height: 20px; }
+.day .pk { display: grid; grid-template-columns: 44px 1fr auto; gap: var(--s-2); align-items: start; min-width: 0; }
+.day .pk > .ic { color: var(--fg-2); width: 20px; height: 20px; justify-self: center; }
+.day .pk .th { width: 44px; height: 44px; object-fit: cover; border-radius: var(--r-ctl); background: var(--bg-2); display: block; }
 .day .pk .txt { min-width: 0; overflow-wrap: anywhere; }
 .day .pk .txt .sub { display: block; }
 .day .pk.is-cont { color: var(--fg-3); }
@@ -56,11 +57,11 @@
 /* Card = div + a full-bleed .hit button underneath; the source link floats above it. */
 .hit { position: absolute; inset: 0; border-radius: inherit; background: transparent; cursor: pointer; }
 .hit:disabled { cursor: not-allowed; }
-.tile .src, .xl .src { position: relative; z-index: 1; }
+.tile .src { position: relative; z-index: 1; }
 
 .tile {
   position: relative; display: grid; grid-template-columns: 40px 1fr; gap: var(--s-2) var(--s-3); align-items: start; text-align: left; width: 100%;
-  padding: var(--s-3); border-radius: var(--r-card); border: 1px solid var(--line); background: var(--card);
+  padding: var(--s-3); border-radius: var(--r-card); border: 1px solid var(--line); background: var(--card); overflow: hidden;
   transition: border-color var(--t-fast) var(--ease-out), box-shadow var(--t-fast) var(--ease-out), transform var(--t-fast) var(--ease-out), opacity var(--t-fast) var(--ease-out);
 }
 .tile:has(.hit:hover) { border-color: var(--fg-2); }
@@ -68,7 +69,7 @@
 .tile.is-on { border-color: var(--jade); box-shadow: inset 0 0 0 1px var(--jade); }
 .tile.is-noroom { border-color: var(--sun); box-shadow: inset 0 0 0 1px var(--sun); }
 .tile.is-dead { opacity: 0.55; }
-.tile .ic-wrap { width: 40px; height: 40px; border-radius: var(--r-ctl); display: grid; place-items: center; background: var(--bg-2); color: var(--fg-2); grid-row: 1 / 3; transition: background-color var(--t-fast) var(--ease-out), color var(--t-fast) var(--ease-out); }
+.tile .ic-wrap { width: 40px; height: 40px; border-radius: var(--r-ctl); display: grid; place-items: center; background: var(--bg-2); color: var(--fg-2); grid-row: span 2; transition: background-color var(--t-fast) var(--ease-out), color var(--t-fast) var(--ease-out); }
 .tile .ic-wrap .ic { width: 22px; height: 22px; }
 .tile.is-on .ic-wrap { background: var(--jade); color: #fff; }
 .tile.is-noroom .ic-wrap { background: var(--sun-soft); color: color-mix(in srgb, var(--sun) 60%, var(--fg)); }
@@ -83,6 +84,29 @@
 .tile .meta .chip { min-height: 22px; padding: 0 8px; font-size: 11px; }
 .tile .meta .src { padding: 2px 5px; }
 
+/* Photo strip: swipe / arrows / ← → between frames. Sits above .hit so it can
+   scroll; a plain tap on it still flips the pick (picker.js). */
+.pics { position: relative; z-index: 1; grid-column: 1 / -1; margin: calc(-1 * var(--s-3)) calc(-1 * var(--s-3)) 0; aspect-ratio: 16 / 9; background: var(--bg-2); overflow: hidden; }
+.pics-track { display: flex; height: 100%; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; overscroll-behavior-x: contain; -webkit-overflow-scrolling: touch; }
+.pics-track::-webkit-scrollbar { display: none; }
+.pics-track:focus-visible { outline: 2px solid var(--lantern); outline-offset: -2px; }
+.pics-track img { flex: 0 0 100%; width: 100%; height: 100%; object-fit: cover; scroll-snap-align: start; scroll-snap-stop: always; display: block; background: var(--bg-2); color: transparent; }
+.tile.is-dead .pics { filter: saturate(0.2); }
+.pics-dots { position: absolute; left: 50%; bottom: 8px; transform: translateX(-50%); display: flex; gap: 5px; padding: 4px 6px; border-radius: var(--r-pill); background: rgb(0 0 0 / 0.35); pointer-events: none; }
+.pics-dots i { width: 5px; height: 5px; border-radius: 50%; background: rgb(255 255 255 / 0.55); transition: background-color var(--t-fast) var(--ease-out), transform var(--t-fast) var(--ease-out); }
+.pics-dots i.is-cur { background: #fff; transform: scale(1.3); }
+.pv {
+  position: absolute; top: 50%; translate: 0 -50%; width: 28px; height: 28px; border-radius: 50%; display: grid; place-items: center;
+  background: rgb(0 0 0 / 0.45); color: #fff; font-size: 18px; line-height: 1; padding-bottom: 2px; opacity: 0;
+  transition: opacity var(--t-fast) var(--ease-out), background-color var(--t-fast) var(--ease-out), transform var(--t-fast) var(--ease-out);
+}
+.pv-l { left: 8px; }
+.pv-r { right: 8px; }
+.pv:hover { background: rgb(0 0 0 / 0.7); }
+.pv:active { transform: scale(0.94); }
+@media (hover: hover) { .pics:hover .pv, .pics:focus-within .pv { opacity: 1; } }
+@media (hover: none) { .pv { display: none; } }
+
 /* Off-route strip */
 .picker-extra { margin-top: var(--s-5); display: grid; gap: var(--s-3); }
 .extra-grid { display: grid; gap: var(--s-2); }
@@ -93,26 +117,9 @@
 .extra-head b { font-family: var(--font-display); font-weight: 500; font-size: var(--fs-3); letter-spacing: -0.01em; }
 .extra-head .sub { color: var(--fg-3); font-size: 12px; line-height: 1.4; display: inline-flex; flex-wrap: wrap; gap: 4px; align-items: center; }
 .extra.is-on { border-style: solid; border-color: var(--lantern); }
-.extra-list { display: grid; gap: var(--s-1); }
-.xl {
-  position: relative; display: grid; grid-template-columns: 22px 1fr auto; gap: var(--s-2); align-items: start; font-size: var(--fs-1);
-  padding: 6px var(--s-2); margin: 0 calc(-1 * var(--s-2)); border-radius: var(--r-ctl);
-  transition: background-color var(--t-fast) var(--ease-out), transform var(--t-fast) var(--ease-out);
-}
-.xl:has(.hit:hover) { background: var(--bg-2); }
-.xl:has(.hit:active) { transform: scale(0.98); }
-.xl .dot { width: 22px; height: 22px; border-radius: 50%; display: grid; place-items: center; background: var(--bg-2); color: var(--fg-2); }
-.xl .dot .ic { width: 14px; height: 14px; }
-.xl.is-on .dot { background: var(--lantern); color: var(--lantern-ink); }
-.xl.is-on .nm { font-weight: 600; }
-.xl .nm { min-width: 0; display: grid; overflow-wrap: anywhere; }
-.xl .sub { color: var(--fg-3); font-size: 12px; }
-.xl .meta { display: inline-flex; flex-wrap: wrap; justify-content: flex-end; gap: 4px; align-items: center; }
-.xl .meta .tag { padding: 1px 7px; border-radius: var(--r-pill); font: 500 11px var(--font-mono); background: var(--jade-soft); color: var(--jade); white-space: nowrap; }
-.xl .meta .tag-free { background: var(--bg-2); color: var(--fg-2); }
-.xl .meta .tag-off { background: var(--bg-2); color: var(--fg-3); }
-.xl .meta .src { padding: 1px 5px; }
-.xl.is-dead { opacity: 0.55; }
+.extra-list { display: grid; gap: var(--s-2); }
+.extra .tile.is-on { border-color: var(--lantern); box-shadow: inset 0 0 0 1px var(--lantern); }
+.extra .tile.is-on .ic-wrap { background: var(--lantern); color: var(--lantern-ink); }
 
 /* Budget: tickets card link */
 .btn-link { display: inline-flex; align-items: center; gap: 6px; margin-top: var(--s-3); font-size: var(--fs-1); font-weight: 500; color: var(--lantern); text-decoration: none; }
@@ -121,6 +128,7 @@
 .ledger-line .lbl .chip { min-height: 20px; padding: 0 7px; font-size: 11px; margin-left: 4px; }
 
 @media (prefers-reduced-motion: reduce) {
-  .tile, .xl, .chip.pick, .day .pk .x { transition: none; }
-  .tile:has(.hit:active), .xl:has(.hit:active), .chip.pick:active { transform: none; }
+  .tile, .chip.pick, .day .pk .x, .pv, .pics-dots i { transition: none; }
+  .tile:has(.hit:active), .chip.pick:active, .pv:active { transform: none; }
+  .pics-track { scroll-behavior: auto; }
 }

@@ -7,6 +7,7 @@ import { findStrategy } from '../strategies.js';
 import { PHOTOS } from '../data/photos.js';
 import { planTrip } from '../plan.js';
 import { priceTag, pickChip, includesText } from './picks.js';
+import { thumb } from './gallery.js';
 
 // Horizontal photo shelf (Airbnb). One card per day, four rows in the same order
 // every time — Do / Eat / Sleep / Nearby — so the eye learns the card once.
@@ -30,7 +31,7 @@ const srcLink = (key, label) => {
 
 const pickRow = (x, travellers) => html`
   <div class="pk ${x.cont ? 'is-cont' : ''}">
-    ${icon(x.icon)}
+    ${x.cont ? icon(x.icon) : thumb(x) || icon(x.icon)}
     <span class="txt">${x.name}${x.cont ? '' : priceTag(x, travellers)}${!x.cont && x.includes ? html`<span class="sub">${includesText(x)}</span>` : ''}</span>
     ${x.cont ? '' : html`<button class="x" type="button" data-pick="${x.id}" aria-label="Take ${x.name} off">${icon('x')}</button>`}
   </div>`;
