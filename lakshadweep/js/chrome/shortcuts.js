@@ -20,7 +20,7 @@ export function toggleHelp(force) {
   else $('#help-toggle').focus();
 }
 
-export function mountShortcuts(store, { onDev }) {
+export function mountShortcuts(store, { onDev, onRoute }) {
   $('#help-toggle').addEventListener('click', () => toggleHelp());
   $$('[data-close-help]').forEach((b) => b.addEventListener('click', () => toggleHelp(false)));
   $('#help').addEventListener('click', (e) => { if (e.target === e.currentTarget) toggleHelp(false); });
@@ -32,6 +32,7 @@ export function mountShortcuts(store, { onDev }) {
     if (k === 't') return cycleTheme(store);
     if (k === '?') return toggleHelp();
     if (k === 'd') return onDev();
+    if (k === 'r') return onRoute();
     if (k === 'j') return stepDay(1);
     if (k === 'k') return stepDay(-1);
     const n = Number(e.key);

@@ -1,172 +1,164 @@
-// Day-by-day plan for the recommended strategy (fly in, sail out).
+// Day blocks. A strategy is an ordered list of block ids; dates are assigned
+// from TRIP.start when the plan is built (see ../plan.js).
 // spend[] references PRICES ids. Flags:
-//   transport: counted under the route/strategy, not as ground spend
-//   perRoom:   split across the room's occupants
-//   perCar:    split across the whole party
+//   transport: counted under the route, not as ground spend
+//   package:   an all-inclusive package (ship + cabin + meals)
+//   perRoom:   split across a room's occupants (2 to a room)
 //   optional:  only counted when that activity is switched on
 //   qty:       multiplier
-export const DAYS = [
-  {
-    n: 1, date: '2026-10-06', island: 'Delhi → Kochi',
-    title: 'Fly south, sleep by the fishing nets',
-    moves: 'DEL → COK afternoon flight (≈3h20) · KSRTC AC bus Aluva–Vyttila–Fort Kochi',
-    plan: [
-      'Take a midday or afternoon departure so you land in daylight and can use the bus instead of a cab.',
-      'From the airport, the KSRTC low-floor AC bus runs to Fort Kochi via Vyttila (~1h35). The Kochi Metro from Aluva is the other cheap option.',
-      'Check in at Zostel Fort Kochi. Walk to the Chinese fishing nets for sunset, then dinner on Princess Street.',
-    ],
-    sleep: 'Zostel Fort Kochi, 4-bed AC dorm',
-    spend: [
-      { key: 'delKochi', transport: true },
-      { key: 'kochiBus' },
-      { key: 'hostelKochi' },
-      { key: 'meal', qty: 2 },
-    ],
+export const BLOCKS = {
+  flyDelKochi: {
+    icon: 'plane', place: 'Delhi → Kochi', nav: 'Kochi', photo: 'kochi',
+    title: 'Fly south',
+    plan: ['DEL → COK, ~3h20', 'KSRTC AC bus to Fort Kochi', 'Sunset at the fishing nets'],
+    sleep: 'Zostel dorm, Fort Kochi', sleepIcon: 'bunk',
+    spend: [{ key: 'delKochi', transport: true }, { key: 'kochiBus' }, { key: 'hostelKochi' }, { key: 'meal', qty: 2 }],
   },
-  {
-    n: 2, date: '2026-10-07', island: 'Kochi → Agatti',
-    title: 'The 09:05 to the atoll',
-    moves: 'Cab 05:30 to COK · Alliance Air 9I-505 COK 09:05 → AGX 10:20 · homestay pickup',
-    plan: [
-      'Pre-book a cab for 05:30 — the earliest KSRTC bus from Fort Kochi (07:05–08:00 depending on the day) reaches the airport around 08:40, too late for a 09:05 departure.',
-      'Carry three printouts of the e-permit; it is checked before boarding and again on landing at Agatti.',
-      'Homestay hosts meet the flight. Afternoon: first swim in the lagoon off the airstrip beach, then sunset on the western shore.',
-    ],
-    sleep: 'Agatti homestay (breakfast + dinner included)',
-    spend: [
-      { key: 'kochiCab', perCar: true },
-      { key: 'kochiAgattiAir', transport: true },
-      { key: 'homestayAgattiRoom', perRoom: true },
-      { key: 'meal', qty: 1 },
-    ],
+  trainOut1: {
+    icon: 'train', place: 'Delhi → rails', nav: 'Train',
+    title: 'Kerala Express, 20:10',
+    plan: ['Board at New Delhi', 'Dinner on the platform first', '2,811 km ahead'],
+    sleep: 'Berth on 12626', sleepIcon: 'train',
+    spend: [{ key: 'trainSleeper', transport: true }, { key: 'meal', qty: 1 }],
   },
-  {
-    n: 3, date: '2026-10-08', island: 'Agatti',
-    title: 'Lagoon day one: snorkel, paddle, sandbank',
-    moves: 'On foot and by boat, all inside the Agatti lagoon',
-    plan: [
-      'Morning snorkelling boat over the reef on the lagoon side — turtles are common here.',
-      'Afternoon kayak hire (30–60 min) once the wind drops.',
-      'Low tide: walk out to the Kalpitti islet sandbank at the southern tip of the island.',
-    ],
-    sleep: 'Agatti homestay',
-    spend: [
-      { key: 'homestayAgattiRoom', perRoom: true },
-      { key: 'snorkel', optional: 'snorkel' },
-      { key: 'kayak', optional: 'kayak' },
-      { key: 'meal', qty: 1 },
-    ],
+  trainOut2: {
+    icon: 'train', place: 'Through the Deccan', nav: 'Train',
+    title: 'A whole day of India',
+    plan: ['Bhopal by breakfast, Nagpur by lunch', 'Chai at every stop', 'Sleep second night aboard'],
+    sleep: 'Berth on 12626', sleepIcon: 'train',
+    spend: [{ key: 'meal', qty: 3 }],
   },
-  {
-    n: 4, date: '2026-10-09', island: 'Bangaram · Thinnakara', nav: 'Bangaram',
-    title: 'The resort islands, without the resort bill',
-    moves: 'Shared day boat Agatti → Bangaram → Thinnakara → Agatti (~1 h each way)',
-    plan: [
-      'Bangaram has no budget stays (₹15,000+ a night). The hack: sleep in Agatti, take the shared day boat.',
-      'Snorkel the Bangaram lagoon in the morning, then the Thinnakara sandbank walk — the water here is the clearest of the trip.',
-      'Pack lunch from the homestay; there is nowhere cheap to eat on either island. Back by sunset.',
-    ],
-    sleep: 'Agatti homestay',
-    spend: [
-      { key: 'bangaramBoat', optional: 'bangaram' },
-      { key: 'homestayAgattiRoom', perRoom: true },
-      { key: 'meal', qty: 1 },
-    ],
+  trainOut3: {
+    icon: 'train', place: 'Rails → Kochi', nav: 'Kochi', photo: 'kochi',
+    title: 'Into Kerala by evening',
+    plan: ['Ernakulam Town ~18:00', 'Bus to Fort Kochi', 'Harbour-front dinner'],
+    sleep: 'Zostel dorm, Fort Kochi', sleepIcon: 'bunk',
+    spend: [{ key: 'meal', qty: 2 }, { key: 'kochiBus' }, { key: 'hostelKochi' }],
   },
-  {
-    n: 5, date: '2026-10-10', island: 'Agatti',
-    title: 'Discover Scuba, then walk the whole island',
-    moves: 'Dive school boat, morning · on foot, evening',
-    plan: [
-      'Discover Scuba (2 h, no certification needed) with the Agatti dive school. No flight tomorrow, so no surface-interval worries.',
-      'Rest through the heat, then walk Agatti end to end (~7 km) at golden hour: coconut groves, tuna drying yards, the village.',
-      'Confirm tomorrow\u2019s speed-vessel departure time with your host tonight — it changes with the tide.',
-    ],
-    sleep: 'Agatti homestay',
-    spend: [
-      { key: 'scuba', optional: 'scuba' },
-      { key: 'homestayAgattiRoom', perRoom: true },
-      { key: 'meal', qty: 1 },
-    ],
+  flyKochiAgatti: {
+    icon: 'plane', place: 'Kochi → Agatti', nav: 'Agatti', photo: 'agatti',
+    title: 'Land on the atoll',
+    plan: ['07:05 bus to the airport', 'FLY91 11:00 → 12:15, permit checked twice', 'First swim off the airstrip beach'],
+    sleep: 'Agatti homestay', sleepIcon: 'home',
+    spend: [{ key: 'kochiBus' }, { key: 'kochiAgattiAir', transport: true }, { key: 'homestayAgattiRoom', perRoom: true }, { key: 'meal', qty: 1 }],
   },
-  {
-    n: 6, date: '2026-10-11', island: 'Agatti → Kavaratti',
-    title: 'Two hours across open water to the capital',
-    moves: 'High-speed vessel Agatti → Kavaratti (~2 h; runs 15 Sep – 15 May only)',
-    plan: [
-      'The inter-island vessel is the cheapest hop in the archipelago. Sit on the shaded side; the crossing is choppy after 11:00.',
-      'Check in at the Kavaratti homestay. Evening: the Ujra Mosque\u2019s carved driftwood ceiling and the Marine Aquarium.',
-      'Kavaratti is the administrative capital — the only island with reliable ATMs. Withdraw cash for the rest of the trip.',
-    ],
-    sleep: 'Kavaratti homestay',
-    spend: [
-      { key: 'speedVessel', transport: true },
-      { key: 'homestayKavarattiRoom', perRoom: true },
-      { key: 'meal', qty: 2 },
-    ],
+  sailKochiAgatti: {
+    icon: 'ship', place: 'Kochi → at sea', nav: 'Ship', photo: 'ship',
+    title: 'Board at Willingdon Island',
+    plan: ['Bus to the wharf, permits checked', 'Ship sails afternoon; meals on board', 'Sunset from the aft deck'],
+    sleep: 'On board, seat or berth', sleepIcon: 'ship',
+    spend: [{ key: 'kochiBus' }, { key: 'shipSecond', transport: true }, { key: 'meal', qty: 1 }],
   },
-  {
-    n: 7, date: '2026-10-12', island: 'Kavaratti',
-    title: 'Glass over coral at the Water Sports Centre',
-    moves: 'Government Water Sports Centre, Kavaratti lagoon',
-    plan: [
-      'The government-run centre is the cheapest place in Lakshadweep for water sports. Glass-bottom boat first thing, while the lagoon is glassy.',
-      'Afternoon: kayak or simply float — the Kavaratti lagoon is the largest and calmest you will see.',
-      'Buy the ship ticket if not already done: confirm the vessel, class and boarding time for tomorrow evening.',
-    ],
-    sleep: 'Kavaratti homestay',
-    spend: [
-      { key: 'glassBottom', optional: 'glassBottom' },
-      { key: 'homestayKavarattiRoom', perRoom: true },
-      { key: 'meal', qty: 2 },
-    ],
+  sailArriveAgatti: {
+    icon: 'wave', place: 'At sea → Agatti', nav: 'Agatti', photo: 'agatti',
+    title: 'Wake up in the lagoon',
+    plan: ['Dolphins off the bow, with luck', 'Boat transfer to the jetty', 'Homestay host meets you'],
+    sleep: 'Agatti homestay', sleepIcon: 'home',
+    spend: [{ key: 'homestayAgattiRoom', perRoom: true }, { key: 'meal', qty: 1 }],
   },
-  {
-    n: 8, date: '2026-10-13', island: 'Kavaratti → at sea', nav: 'Ship',
-    title: 'Board the ship at dusk',
-    moves: 'Passenger ship Kavaratti → Kochi, second class, overnight (~16–18 h)',
-    plan: [
-      'Slow morning: last swim, then check out. Homestays will hold bags until boarding.',
-      'Second class is an AC push-back seat, like an overnight Volvo. Bring a shawl, motion-sickness tablets and snacks; the canteen is basic.',
-      'Watch Kavaratti sink into the horizon from the aft deck. Sailing day is set by the schedule — this plan may shift ±1 day.',
-    ],
-    sleep: 'On board, second-class seat',
-    spend: [
-      { key: 'shipSecond', transport: true },
-      { key: 'meal', qty: 2 },
-    ],
+  agattiLagoon: {
+    icon: 'snorkel', place: 'Agatti', nav: 'Agatti', photo: 'lagoon',
+    title: 'Lagoon day',
+    plan: ['Reef snorkel, turtles likely', 'Kayak when the wind drops', 'Low tide: walk to Kalpitti sandbank'],
+    sleep: 'Agatti homestay', sleepIcon: 'home',
+    spend: [{ key: 'homestayAgattiRoom', perRoom: true }, { key: 'snorkel', optional: 'snorkel' }, { key: 'kayak', optional: 'kayak' }, { key: 'meal', qty: 1 }],
   },
-  {
-    n: 9, date: '2026-10-14', island: 'At sea → Kochi', nav: 'Kochi',
-    title: 'A day of blue, then Willingdon Island',
-    moves: 'Ship docks at Willingdon Island by evening · bus/ferry to Fort Kochi',
-    plan: [
-      'Open sea all day. Flying fish off the bow, a chance of dolphins mid-morning.',
-      'From Willingdon Island, take a bus to Thoppumpady and on to Fort Kochi, or a short ferry across the harbour.',
-      'Back at Zostel. Kathakali at a Fort Kochi theatre if you have the energy; otherwise, seafood on the harbour front.',
-    ],
-    sleep: 'Zostel Fort Kochi, 4-bed AC dorm',
-    spend: [
-      { key: 'kochiBus' },
-      { key: 'hostelKochi' },
-      { key: 'meal', qty: 3 },
-    ],
+  bangaram: {
+    icon: 'boat', place: 'Bangaram · Thinnakara', nav: 'Bangaram', photo: 'bangaram',
+    title: 'Resort islands, no resort bill',
+    plan: ['Shared day boat, ~1 h each way', 'Clearest water of the trip', 'Pack lunch; nothing to buy there'],
+    sleep: 'Agatti homestay', sleepIcon: 'home',
+    spend: [{ key: 'bangaramBoat', optional: 'bangaram' }, { key: 'homestayAgattiRoom', perRoom: true }, { key: 'meal', qty: 1 }],
   },
-  {
-    n: 10, date: '2026-10-15', island: 'Kochi → Delhi',
-    title: 'Mattancherry, then home',
-    moves: 'KSRTC AC bus Fort Kochi → COK · COK → DEL afternoon flight',
-    plan: [
-      'Morning in Mattancherry: Dutch Palace murals, Jew Town, the Paradesi Synagogue, spice warehouses.',
-      'The 10:50 or 11:35 KSRTC bus from Fort Kochi reaches the airport in about 1h35 — fine for an afternoon departure.',
-      'Land in Delhi by night. Total: ten days, four islands, one overnight at sea.',
-    ],
-    sleep: 'Home',
-    spend: [
-      { key: 'kochiBus' },
-      { key: 'kochiDel', transport: true },
-      { key: 'meal', qty: 2 },
-    ],
+  agattiScuba: {
+    icon: 'dive', place: 'Agatti', nav: 'Agatti', photo: 'lagoon',
+    title: 'Under, then across',
+    plan: ['Discover Scuba, 2 h, no cert needed', 'Walk the island end to end at golden hour', 'Confirm tomorrow’s vessel time'],
+    sleep: 'Agatti homestay', sleepIcon: 'home',
+    spend: [{ key: 'scuba', optional: 'scuba' }, { key: 'homestayAgattiRoom', perRoom: true }, { key: 'meal', qty: 1 }],
   },
-];
-
+  toKavaratti: {
+    icon: 'boat', place: 'Agatti → Kavaratti', nav: 'Kavaratti', photo: 'boat',
+    title: 'Two hours of open water',
+    plan: ['High-speed vessel, sit shaded side', 'Ujra Mosque driftwood ceiling', 'Only island with ATMs, take cash'],
+    sleep: 'Kavaratti homestay', sleepIcon: 'home',
+    spend: [{ key: 'speedVessel', transport: true }, { key: 'homestayKavarattiRoom', perRoom: true }, { key: 'meal', qty: 2 }],
+  },
+  kavaratti: {
+    icon: 'glass', place: 'Kavaratti', nav: 'Kavaratti', photo: 'kavaratti',
+    title: 'The big calm lagoon',
+    plan: ['Govt Water Sports Centre: cheapest in the islands', 'Glass-bottom boat while it is glassy', 'Float. That is the plan.'],
+    sleep: 'Kavaratti homestay', sleepIcon: 'home',
+    spend: [{ key: 'glassBottom', optional: 'glassBottom' }, { key: 'homestayKavarattiRoom', perRoom: true }, { key: 'meal', qty: 2 }],
+  },
+  sailKavarattiKochi: {
+    icon: 'ship', place: 'Kavaratti → at sea', nav: 'Ship', photo: 'ship',
+    title: 'Board at dusk',
+    plan: ['Last swim, bags held by the homestay', 'Ship ~16–18 h; meals included', 'Shawl + seasickness tablets'],
+    sleep: 'On board, seat or berth', sleepIcon: 'ship',
+    spend: [{ key: 'shipSecond', transport: true }, { key: 'meal', qty: 1 }],
+  },
+  atSeaKochi: {
+    icon: 'wave', place: 'At sea → Kochi', nav: 'Kochi', photo: 'kochi',
+    title: 'A day of blue',
+    plan: ['Open sea until evening', 'Dock at Willingdon Island, bus to Fort Kochi', 'Harbour-front seafood'],
+    sleep: 'Zostel dorm, Fort Kochi', sleepIcon: 'bunk',
+    spend: [{ key: 'kochiBus' }, { key: 'hostelKochi' }, { key: 'meal', qty: 2 }],
+  },
+  vesselBackAgatti: {
+    icon: 'boat', place: 'Kavaratti → Agatti', nav: 'Agatti', photo: 'boat',
+    title: 'Back across the channel',
+    plan: ['Morning vessel to Agatti', 'Spare afternoon in the lagoon', 'Early night for the 09:20 flight'],
+    sleep: 'Agatti homestay', sleepIcon: 'home',
+    spend: [{ key: 'speedVessel', transport: true }, { key: 'homestayAgattiRoom', perRoom: true }, { key: 'meal', qty: 2 }],
+  },
+  flyAgattiKochi: {
+    icon: 'plane', place: 'Agatti → Kochi', nav: 'Kochi', photo: 'agatti',
+    title: 'Atoll from the window seat',
+    plan: ['FLY91 09:20 → 10:35', 'Bus to Fort Kochi', 'Mattancherry: palace, synagogue, spice streets'],
+    sleep: 'Zostel dorm, Fort Kochi', sleepIcon: 'bunk',
+    spend: [{ key: 'agattiKochiAir', transport: true }, { key: 'kochiBus' }, { key: 'hostelKochi' }, { key: 'meal', qty: 3 }],
+  },
+  flyKochiDel: {
+    icon: 'plane', place: 'Kochi → Delhi', nav: 'Delhi',
+    title: 'Home by night',
+    plan: ['Morning in Mattancherry', '10:50 bus to the airport', 'COK → DEL afternoon flight'],
+    sleep: 'Home', sleepIcon: 'moon',
+    spend: [{ key: 'kochiBus' }, { key: 'kochiDel', transport: true }, { key: 'meal', qty: 2 }],
+  },
+  samudramBoard: {
+    icon: 'ship', place: 'Kochi → at sea', nav: 'Ship', photo: 'ship',
+    title: 'Board M.V. Kavaratti',
+    plan: ['SPORTS check-in at the wharf', 'Cabin, meals and every transfer are in the package', 'Sail at dusk'],
+    sleep: 'Cabin on board', sleepIcon: 'ship',
+    spend: [{ key: 'kochiBus' }, { key: 'samudramGold', package: true }, { key: 'meal', qty: 1 }],
+  },
+  samudramMinicoy: {
+    icon: 'snorkel', place: 'Minicoy', nav: 'Minicoy',
+    title: 'Southernmost atoll',
+    plan: ['Lighthouse, lagoon, race boats', 'Back on board by evening', 'Sail north overnight'],
+    sleep: 'Cabin on board', sleepIcon: 'ship',
+    spend: [],
+  },
+  samudramKavaratti: {
+    icon: 'glass', place: 'Kavaratti', nav: 'Kavaratti', photo: 'kavaratti',
+    title: 'Capital for a day',
+    plan: ['Glass-bottom boat, lagoon swim', 'Marine aquarium, Ujra Mosque', 'Sail overnight'],
+    sleep: 'Cabin on board', sleepIcon: 'ship',
+    spend: [],
+  },
+  samudramKalpeni: {
+    icon: 'wave', place: 'Kalpeni', nav: 'Kalpeni',
+    title: 'Three islets, one lagoon',
+    plan: ['Kayak and snorkel the shallow lagoon', 'Storm bank of coral debris', 'Last night at sea'],
+    sleep: 'Cabin on board', sleepIcon: 'ship',
+    spend: [],
+  },
+  samudramReturn: {
+    icon: 'ship', place: 'At sea → Kochi', nav: 'Kochi', photo: 'kochi',
+    title: 'Back to Willingdon Island',
+    plan: ['Dock by morning', 'Bus to Fort Kochi', 'Free afternoon in the old town'],
+    sleep: 'Zostel dorm, Fort Kochi', sleepIcon: 'bunk',
+    spend: [{ key: 'kochiBus' }, { key: 'hostelKochi' }, { key: 'meal', qty: 2 }],
+  },
+};

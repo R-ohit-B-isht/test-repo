@@ -1,94 +1,108 @@
-import { PRICES } from '../data/prices.js';
+// Section 01: strategy comparison cards, journey strip, class pickers.
 import { SOURCES } from '../data/sources.js';
 import { TRIP } from '../data/trip.js';
-import { STRATEGIES, transportTotal } from '../strategies.js';
-import { fmt } from '../budget.js';
-import { html, raw, $, $$ } from '../dom.js';
+import { STRATEGIES, SHIP_CLASSES, TRAIN_CLASSES } from '../strategies.js';
+import { compareStrategies, cheapest, fmt, fmtK } from '../budget.js';
+import { html, raw, $ } from '../dom.js';
+import { icon } from '../icons.js';
+import { bindRadios, syncChecked } from './segmented.js';
 
-const SHIP_CLASSES = [
-  { id: 'second', name: 'Second class', hint: 'AC push-back seat' },
-  { id: 'first', name: 'First class', hint: 'Cabin berth' },
-];
-
-function segButton(id, checked, name, sub, tag) {
+function card(row, max, badge, best, checked) {
+  const { strategy: s, plan } = row;
+  const pct = Math.round((row.essentials / max) * 100);
   return html`
-    <button type="button" class="seg" role="radio" data-id="${id}" aria-checked="${checked}">
-      <span class="seg__name">${name}</span>
-      <span class="seg__price">${sub}</span>
-      ${tag ? raw(html`<span class="seg__tag">${tag}</span>`) : ''}
+    <button type="button" class="card ${best ? 'card--best' : ''}" role="radio" data-id="${s.id}" aria-checked="${checked}" tabindex="${checked ? 0 : -1}">
+      <span class="card__badge">${badge || s.badge}</span>
+      <span class="card__icons">${raw(plan.legs.map((l) => icon(l.icon)).join(''))}</span>
+      <span class="card__name">${s.name}</span>
+      <span class="card__num">${fmt(row.essentials)}</span>
+      <span class="card__bar" aria-hidden="true"><i style="width:${pct}%"></i></span>
+      <span class="card__meta">${plan.length} days · ${plan.islandNights} island nights · ${Math.round(plan.travelHours)} h moving</span>
     </button>`;
 }
 
-function bindRadios(root, onPick) {
-  root.addEventListener('click', (e) => {
-    const btn = e.target.closest('.seg');
-    if (btn) onPick(btn.dataset.id);
-  });
-  root.addEventListener('keydown', (e) => {
-    if (!['ArrowRight', 'ArrowLeft'].includes(e.key)) return;
-    const items = $$('.seg', root);
-    const i = items.indexOf(document.activeElement);
-    if (i < 0) return;
-    const next = items[(i + (e.key === 'ArrowRight' ? 1 : items.length - 1)) % items.length];
-    next.focus();
-    onPick(next.dataset.id);
-  });
+function legNode(name, i) {
+  return html`<li class="jn" style="--i:${i}"><span class="jn__dot"></span><span class="jn__name">${name}</span></li>`;
 }
 
-// Update in place when possible so keyboard focus survives a re-render.
-function syncSegs(root, items) {
-  const existing = $$('.seg', root);
-  if (existing.length !== items.length) {
-    root.innerHTML = items.map((it) => segButton(it.id, it.checked, it.name, it.sub, it.tag)).join('');
-    return;
-  }
-  existing.forEach((btn, i) => {
-    btn.setAttribute('aria-checked', String(items[i].checked));
-    $('.seg__price', btn).textContent = items[i].sub;
-  });
+function legEdge(leg, i) {
+  const src = SOURCES[leg.price.source];
+  const to = leg.via ? `${leg.via.join(' · ')}` : '';
+  return html`
+    <li class="je" style="--i:${i}" data-mode="${leg.icon}">
+      <span class="je__line" aria-hidden="true"></span>
+      <span class="je__icon">${raw(icon(leg.icon))}</span>
+      <span class="je__mode">${leg.mode}${to ? raw(html`<br />${to}`) : ''}</span>
+      <span class="je__price">${fmt(leg.price.amount)}</span>
+      <span class="je__hours">${leg.hours >= 24 ? `${Math.round(leg.hours / 24)} d` : `${leg.hours} h`}</span>
+      <details class="je__more"><summary aria-label="Fare details for ${leg.from} to ${leg.to}">i</summary>
+        <span>${leg.price.range} · <a href="${src.url}" target="_blank" rel="noopener">source</a></span></details>
+    </li>`;
+}
+
+function vsQuote(transport) {
+  const diff = TRIP.quotedRoundTrip - transport;
+  return diff >= 0
+    ? html`<span class="is-good">${fmtK(diff)} under the ${fmtK(TRIP.quotedRoundTrip)} ticket</span>`
+    : html`<span class="is-over">${fmtK(-diff)} over the ${fmtK(TRIP.quotedRoundTrip)} ticket</span>`;
+}
+
+function classGroup(id, label, options, checked) {
+  return html`
+    <fieldset class="field" role="radiogroup" aria-label="${label}" data-group="${id}">
+      <legend class="label">${label}</legend>
+      <div class="segmented segmented--small">${raw(options.map((o) => html`
+        <button type="button" class="seg" role="radio" data-group="${id}" data-id="${o.id}" aria-checked="${o.id === checked}" tabindex="${o.id === checked ? 0 : -1}">
+          <span class="seg__name">${o.name}</span><span class="seg__price">${o.hint}</span>
+        </button>`).join(''))}</div>
+    </fieldset>`;
 }
 
 export function mountRoute(store) {
   bindRadios($('#strategy-picker'), (id) => store.set({ strategy: id }));
-  bindRadios($('#ship-class'), (id) => store.set({ shipClass: id }));
+  bindRadios($('#class-picker'), (id, group) => store.set(group === 'ship' ? { shipClass: id } : { trainClass: id }));
 }
 
-function legRow(leg, i) {
-  const src = SOURCES[leg.price.source];
-  return html`
-    <li class="leg" style="--i:${i}">
-      <span class="leg__n">0${i + 1}</span>
-      <span class="leg__route">
-        <strong>${leg.from} → ${leg.to}</strong>
-        <span class="leg__mode">${leg.mode}</span>
-      </span>
-      <span class="leg__price">${fmt(leg.price.amount)}
-        <small>${leg.price.range} · <a href="${src.url}" target="_blank" rel="noopener">source</a></small>
-      </span>
-    </li>`;
-}
-
-let lastKey = '';
+let cardsKey = '';
+let journeyKey = '';
 
 export function renderRoute(state) {
-  syncSegs($('#strategy-picker'), STRATEGIES.map((s) => ({
-    id: s.id, checked: s.id === state.strategy, name: s.name, sub: fmt(transportTotal(s, PRICES, state)), tag: s.recommended ? 'Recommended' : '',
-  })));
-  syncSegs($('#ship-class'), SHIP_CLASSES.map((c) => ({ id: c.id, checked: c.id === state.shipClass, name: c.name, sub: c.hint, tag: '' })));
+  const rows = compareStrategies(state);
+  const best = cheapest(rows);
+  const bestTen = cheapest(rows.filter((r) => r.plan.length === 10));
+  const max = Math.max(...rows.map((r) => r.essentials));
+  const key = rows.map((r) => r.essentials).join(',');
+  if (key !== cardsKey) {
+    cardsKey = key;
+    const badgeFor = (r) => (r === best ? 'Cheapest overall' : r === bestTen ? 'Cheapest 10 days' : '');
+    $('#strategy-picker').innerHTML = rows.map((r) => card(r, max, badgeFor(r), r === best, r.strategy.id === state.strategy)).join('');
+  }
+  syncChecked($('#strategy-picker'), state.strategy);
 
-  const key = `${state.strategy}:${state.shipClass}`;
-  if (key === lastKey) return;
-  lastKey = key;
+  const row = rows.find((r) => r.strategy.id === state.strategy);
+  const jKey = `${state.strategy}:${state.shipClass}:${state.trainClass}`;
+  if (jKey !== journeyKey) {
+    journeyKey = jKey;
+    const legs = row.plan.legs;
+    const items = legs.flatMap((l, i) => [legNode(l.from, i), legEdge(l, i)]);
+    items.push(legNode(legs[legs.length - 1].to, legs.length));
+    $('#route-view').innerHTML = html`
+      <ol class="journey__strip">${raw(items.join(''))}</ol>
+      <p class="journey__total"><strong>${fmt(row.transport)}</strong> to get there and back${row.plan.legs.some((l) => l.package) ? ', cabin and meals included' : ''} · ${raw(vsQuote(row.transport))}</p>`;
 
-  const strategy = STRATEGIES.find((s) => s.id === state.strategy);
-  const legs = strategy.legs(PRICES, state);
-  const total = legs.reduce((s, l) => s + l.price.amount, 0);
-  const saving = TRIP.quotedRoundTrip - total;
-  $('#route-view').innerHTML = html`
-    <ol>${raw(legs.map(legRow).join(''))}</ol>
-    <div class="route__total">
-      <span>${strategy.summary}</span>
-      <strong>${fmt(total)} <span class="is-good">· ${fmt(saving)} under the quote</span></strong>
-    </div>`;
-  $('#strategy-note').textContent = strategy.itineraryNote;
+    const hasShip = legs.some((l) => l.icon === 'ship' && !l.package);
+    const hasTrain = legs.some((l) => l.icon === 'train');
+    $('#class-picker').innerHTML = [
+      hasShip ? classGroup('ship', 'Ship class', SHIP_CLASSES, state.shipClass) : '',
+      hasTrain ? classGroup('train', 'Train class', TRAIN_CLASSES, state.trainClass) : '',
+    ].join('');
+  }
+  $('#class-picker').querySelectorAll('[data-group]').forEach((g) => {
+    if (g.getAttribute('role') === 'radiogroup') syncChecked(g, g.dataset.group === 'ship' ? state.shipClass : state.trainClass);
+  });
+}
+
+export function nextStrategy(state) {
+  const i = STRATEGIES.findIndex((s) => s.id === state.strategy);
+  return STRATEGIES[(i + 1) % STRATEGIES.length].id;
 }

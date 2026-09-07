@@ -1,13 +1,16 @@
 // Tiny observable store with localStorage persistence.
+// v2 key: v1 state (all activities on, fly-sail) is deliberately not migrated —
+// the budget-first defaults are the point of the second pass.
 
-const STORAGE_KEY = 'lakshadweep-ledger:v1';
+const STORAGE_KEY = 'lakshadweep-ledger:v2';
 
 export const DEFAULT_STATE = {
-  strategy: 'fly-sail',
+  strategy: 'sail-both',
   shipClass: 'second',
+  trainClass: 'sleeper',
   travellers: 2,
   homestayRate: 3000,
-  activities: { scuba: true, bangaram: true, snorkel: true, kayak: true, glassBottom: true },
+  activities: { scuba: false, bangaram: false, snorkel: false, kayak: false, glassBottom: false },
   checked: {},
   theme: 'auto',
 };

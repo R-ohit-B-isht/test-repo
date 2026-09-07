@@ -1,8 +1,10 @@
 import { createStore } from './store.js';
 import { IS_DEV } from './config.js';
-import { renderHeroStatic, renderHero } from './render/hero.js';
-import { mountRoute, renderRoute } from './render/route.js';
-import { mountItinerary, renderItinerary } from './render/itinerary.js';
+import { iconSprite } from './icons.js';
+import { $ } from './dom.js';
+import { renderHero } from './render/hero.js';
+import { mountRoute, renderRoute, nextStrategy } from './render/route.js';
+import { renderItinerary } from './render/itinerary.js';
 import { mountBudget, renderBudget } from './render/budget.js';
 import { mountChecklist, renderChecklist } from './render/checklist.js';
 import { mountSources } from './render/sources.js';
@@ -13,9 +15,8 @@ import { mountDev } from './dev.js';
 
 const store = createStore();
 
-renderHeroStatic();
+$('#sprite').innerHTML = iconSprite();
 mountRoute(store);
-mountItinerary();
 mountBudget(store);
 mountChecklist(store);
 mountSources();
@@ -35,5 +36,5 @@ mountRail();
 mountReveal();
 
 const dev = mountDev(store);
-mountShortcuts(store, { onDev: dev.toggle });
+mountShortcuts(store, { onDev: dev.toggle, onRoute: () => store.set((s) => ({ strategy: nextStrategy(s) })) });
 if (IS_DEV) dev.toggle();

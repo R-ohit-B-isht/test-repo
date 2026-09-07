@@ -1,0 +1,83 @@
+/* Section 02: compact day cards in a grid. */
+
+.days {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 17rem), 1fr));
+  gap: var(--s1);
+}
+.day {
+  display: grid;
+  gap: var(--s2);
+  align-content: start;
+  padding: var(--s2);
+  border: var(--hair);
+  min-width: 0;
+  scroll-margin-top: calc(var(--status-h) + 4rem);
+  transition: border-color var(--dur-fast) var(--ease-out), background-color var(--dur-fast) var(--ease-out);
+}
+.day:target, .day.is-current { background: var(--card); }
+.day__head { display: grid; grid-template-columns: auto 1fr auto; gap: var(--s2); align-items: center; }
+.day__n { font: italic 400 1.75rem/1 var(--serif); }
+.day__mode {
+  display: grid;
+  place-items: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  border: var(--hair);
+  border-radius: 50%;
+  justify-self: end;
+}
+.day__mode .ic { width: 1.25rem; height: 1.25rem; }
+.day__where { display: grid; min-width: 0; }
+.day__place { font-size: var(--fs-label); line-height: 1rem; letter-spacing: 0.12em; text-transform: uppercase; }
+.day__date { color: var(--mist); font-size: var(--fs-label); line-height: 1rem; }
+.day__photo {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+  background: var(--card);
+  filter: saturate(0.85) contrast(1.02);
+  transition: filter var(--dur) var(--ease-out);
+}
+.day:hover .day__photo, .day.is-current .day__photo { filter: none; }
+:root[data-theme='dark'] .day__photo { filter: saturate(0.8) brightness(0.9); }
+.day__title { font: 400 1.5rem/1.75rem var(--serif); letter-spacing: -0.01em; text-wrap: balance; }
+.day__plan { display: grid; gap: 0.25rem; color: var(--mist); }
+.day__plan li { display: grid; grid-template-columns: 0.75rem 1fr; gap: var(--s1); }
+.day__plan li::before { content: '—'; }
+.day__foot { display: grid; grid-template-columns: 1fr auto; gap: var(--s2); align-items: center; padding-top: var(--s2); border-top: var(--hair); margin-top: auto; }
+.day__sleep { display: flex; gap: var(--s1); align-items: center; color: var(--mist); font-size: var(--fs-label); line-height: 1rem; min-width: 0; }
+.day__sleep .ic { width: 1rem; height: 1rem; }
+.day__spend { display: contents; }
+.day__spend summary {
+  display: inline-flex;
+  gap: var(--s1);
+  align-items: baseline;
+  cursor: pointer;
+  list-style: none;
+  font-variant-numeric: tabular-nums;
+}
+.day__spend summary::-webkit-details-marker { display: none; }
+.day__spend summary::after { content: '+'; color: var(--mist); }
+.day__spend[open] summary::after { content: '−'; }
+.day__chips { grid-column: 1 / -1; display: flex; flex-wrap: wrap; gap: 0.25rem; }
+.dc {
+  display: inline-flex;
+  gap: 0.25rem;
+  align-items: center;
+  padding: 0 var(--s1);
+  border: var(--hair);
+  border-radius: 999px;
+  font-size: var(--fs-label);
+  line-height: 1.25rem;
+  font-variant-numeric: tabular-nums;
+}
+.dc .ic { width: 0.75rem; height: 0.75rem; }
+.dc--off { color: var(--mist); border-style: dashed; }
+.dc--none { border: 0; color: var(--mist); padding: 0; }
+
+@media (min-width: 1440px) {
+  .days { grid-template-columns: repeat(auto-fill, minmax(19rem, 1fr)); }
+}

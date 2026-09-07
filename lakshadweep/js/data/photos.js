@@ -1,0 +1,60 @@
+// Wikimedia Commons photographs, cropped 3:2 at 960px. Credit + licence are rendered in Sources.
+// id → { src, alt, artist, license, licenseUrl, page }
+export const PHOTOS = {
+  kochi: {
+    src: 'img/kochi.jpg',
+    alt: 'Chinese fishing nets at Fort Kochi, silhouetted against the sunset',
+    artist: 'Rangan Datta Wiki',
+    license: 'CC BY-SA 4.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0',
+    page: 'https://commons.wikimedia.org/wiki/File:Sunset_with_Chinese_Fishing_Nets,_Fort_Kochi_1.jpg',
+  },
+  ship: {
+    src: 'img/ship.jpg',
+    alt: 'MV Kavaratti, the white passenger ship, alongside the wharf',
+    artist: 'Aswin Krishna Poyil',
+    license: 'CC BY-SA 4.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0',
+    page: 'https://commons.wikimedia.org/wiki/File:MV_Kavaratti.jpg',
+  },
+  agatti: {
+    src: 'img/agatti.jpg',
+    alt: 'Agatti from the air: a thin strip of island and airstrip inside a turquoise lagoon',
+    artist: 'Julio',
+    license: 'CC BY-SA 2.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by-sa/2.0',
+    page: 'https://commons.wikimedia.org/wiki/File:Agatti_Airstrip.jpg',
+  },
+  lagoon: {
+    src: 'img/lagoon.jpg',
+    alt: 'Kayaks pulled up on white sand at Anthan Beach, Agatti',
+    artist: 'Rudolph A. Furtado',
+    license: 'CC BY 4.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by/4.0',
+    page: 'https://commons.wikimedia.org/wiki/File:Anthan_Beach_in_Agatti.jpg',
+  },
+  bangaram: {
+    src: 'img/bangaram.jpg',
+    alt: 'Thatched huts under coconut palms on Bangaram',
+    artist: 'The.chhayachitrakar',
+    license: 'CC BY-SA 4.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by-sa/4.0',
+    page: 'https://commons.wikimedia.org/wiki/File:Bangaram_Island,_Lakshadweep_20160325-_DSC1780.jpg',
+  },
+  boat: {
+    src: 'img/boat.jpg',
+    alt: 'A small wooden boat crossing the lagoon off Agatti',
+    artist: 'Mike Prince',
+    license: 'CC BY 2.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by/2.0',
+    page: 'https://commons.wikimedia.org/wiki/File:Boat_at_Agatti_(5800257582).jpg',
+  },
+  kavaratti: {
+    src: 'img/kavaratti.jpg',
+    alt: 'A leaning palm over the beach at Kavaratti',
+    artist: 'Thejas',
+    license: 'CC BY 2.0',
+    licenseUrl: 'https://creativecommons.org/licenses/by/2.0',
+    page: 'https://commons.wikimedia.org/wiki/File:A_beach_at_Kavaratti,_Lakshadweep.jpg',
+  },
+};

@@ -1,52 +1,76 @@
-// Every rupee figure in this folder is an observed fare/price taken from the
-// linked source (see sources.js) and labelled with the range it was observed in.
+// Every rupee figure here is an observed fare or a published tariff taken from
+// the linked source (see sources.js), labelled with the range it was seen in.
+// Nothing is live. `amount` is the planning figure; `range` is what was observed.
 
-// id → { label, amount, unit, range, source }
+// id → { label, short, amount, unit, range, source, note? }
 export const PRICES = {
   delKochi: {
     label: 'Delhi → Kochi, non-stop economy',
-    amount: 10667,
+    short: 'Flight DEL→COK',
+    amount: 9600,
     unit: 'per person, one way',
-    range: '₹8,646 (Sep low) – ₹12,689 (typical)',
+    range: '₹8,958 – ₹10,667 for Sep–Oct departures',
     source: 'happyfares',
   },
   kochiDel: {
     label: 'Kochi → Delhi, non-stop economy',
-    amount: 10667,
+    short: 'Flight COK→DEL',
+    amount: 9600,
     unit: 'per person, one way',
-    range: '₹8,646 – ₹12,689',
+    range: '₹8,958 – ₹10,667',
     source: 'happyfares',
   },
   kochiAgattiAir: {
-    label: 'Kochi → Agatti, Alliance Air 9I-505 (09:05 → 10:20)',
-    amount: 6100,
-    unit: 'per person, one way',
-    range: '₹5,500 – ₹6,100 observed',
-    source: 'easemytrip',
+    label: 'Kochi → Agatti, FLY91 IC 3102 / 3104 (ATR, ~1h15)',
+    short: 'FLY91 to Agatti',
+    amount: 3500,
+    unit: 'per person, one way, all taxes',
+    range: '₹3,000 (fare bucket 1) – ₹5,600 (bucket 7)',
+    source: 'fly91tariff',
   },
   agattiKochiAir: {
-    label: 'Agatti → Kochi, Alliance Air',
-    amount: 6100,
-    unit: 'per person, one way',
-    range: '₹5,500 – ₹6,100 observed',
-    source: 'easemytrip',
+    label: 'Agatti → Kochi, FLY91 IC 3101 / 3103',
+    short: 'FLY91 to Kochi',
+    amount: 3500,
+    unit: 'per person, one way, all taxes',
+    range: '₹3,000 – ₹5,600 by fare bucket',
+    source: 'fly91tariff',
   },
   shipSecond: {
-    label: 'Ship, second class (push-back seat), Kochi ⇄ islands',
+    label: 'Ship, second / tourist class, Kochi ⇄ islands (meals included)',
+    short: 'Ship berth',
     amount: 2200,
     unit: 'per person, one way',
-    range: '₹2,200 – ₹2,500 by vessel',
+    range: '₹1,750 – ₹2,500 by vessel',
     source: 'shipfares',
   },
   shipFirst: {
-    label: 'Ship, first-class cabin berth, Kochi ⇄ islands',
-    amount: 5000,
+    label: 'Ship, first-class cabin berth, Kochi ⇄ islands (meals included)',
+    short: 'Ship cabin',
+    amount: 4000,
     unit: 'per person, one way',
-    range: '₹3,500 – ₹6,000 by vessel',
+    range: '₹3,000 – ₹6,000 by vessel',
     source: 'shipfares',
+  },
+  trainSleeper: {
+    label: 'Kerala Express 12626, New Delhi → Ernakulam, Sleeper',
+    short: 'Train sleeper',
+    amount: 885,
+    unit: 'per person, one way, ~46 h',
+    range: '₹885 (fixed fare, no dynamic pricing)',
+    source: 'keralaexpress',
+  },
+  train3A: {
+    label: 'Kerala Express 12626, New Delhi → Ernakulam, AC 3-tier',
+    short: 'Train 3AC',
+    amount: 2335,
+    unit: 'per person, one way, ~46 h',
+    range: '₹2,080 – ₹2,335 (fare + reservation + catering)',
+    source: 'keralaexpress',
   },
   speedVessel: {
     label: 'Agatti → Kavaratti high-speed vessel (~2 h)',
+    short: 'Speed vessel',
     amount: 1000,
     unit: 'per person',
     range: 'approx. ₹1,000',
@@ -54,20 +78,23 @@ export const PRICES = {
   },
   bangaramBoat: {
     label: 'Bangaram + Thinnakara shared day boat',
+    short: 'Bangaram boat',
     amount: 2500,
     unit: 'per person',
     range: '₹2,000 – ₹3,000',
     source: 'dreamtrip',
   },
   homestayAgattiRoom: {
-    label: 'Agatti AC homestay, double room, breakfast + dinner',
+    label: 'Agatti homestay, double room, breakfast + dinner',
+    short: 'Agatti homestay',
     amount: 3000,
     unit: 'per room, per night',
-    range: '₹2,500 – ₹4,000',
+    range: '₹2,500 – ₹4,000 (guides) · ₹4,000 – ₹5,000 (listed Oct 2026)',
     source: 'dreamtrip',
   },
   homestayKavarattiRoom: {
     label: 'Kavaratti homestay, double room',
+    short: 'Kavaratti homestay',
     amount: 3000,
     unit: 'per room, per night',
     range: '₹2,500 – ₹3,500',
@@ -75,6 +102,7 @@ export const PRICES = {
   },
   hostelKochi: {
     label: 'Zostel Fort Kochi, 4-bed AC dorm',
+    short: 'Kochi dorm',
     amount: 699,
     unit: 'per bed, per night',
     range: '₹649 – ₹699 (dorm) · ₹2,999 private',
@@ -82,13 +110,15 @@ export const PRICES = {
   },
   kochiBus: {
     label: 'KSRTC AC low-floor bus, airport ⇄ Fort Kochi',
+    short: 'Airport bus',
     amount: 100,
     unit: 'per person, one way',
     range: '₹50 – ₹100',
     source: 'kochitransfer',
   },
   kochiCab: {
-    label: 'Pre-dawn cab, Fort Kochi → airport',
+    label: 'Cab, Fort Kochi ⇄ airport / Ernakulam',
+    short: 'Cab',
     amount: 1000,
     unit: 'per car',
     range: '₹600 – ₹1,200',
@@ -96,6 +126,7 @@ export const PRICES = {
   },
   meal: {
     label: 'Fish curry + rice meal at a local “hotel”',
+    short: 'Meals',
     amount: 200,
     unit: 'per meal',
     range: '₹150 – ₹250',
@@ -103,6 +134,7 @@ export const PRICES = {
   },
   scuba: {
     label: 'Discover Scuba, Agatti (2 h, gear + instructor)',
+    short: 'Scuba',
     amount: 3500,
     unit: 'per person',
     range: '₹3,500 – ₹4,000',
@@ -110,6 +142,7 @@ export const PRICES = {
   },
   snorkel: {
     label: 'Snorkelling boat trip',
+    short: 'Snorkel',
     amount: 1000,
     unit: 'per person',
     range: '₹800 – ₹1,500',
@@ -117,6 +150,7 @@ export const PRICES = {
   },
   kayak: {
     label: 'Kayaking, 30–60 min',
+    short: 'Kayak',
     amount: 800,
     unit: 'per person',
     range: '₹500 – ₹1,000',
@@ -124,17 +158,26 @@ export const PRICES = {
   },
   glassBottom: {
     label: 'Glass-bottom boat, Kavaratti lagoon',
+    short: 'Glass boat',
     amount: 1500,
     unit: 'per person',
     range: '₹1,000 – ₹2,000',
     source: 'watersports',
   },
   permit: {
-    label: 'Lakshadweep e-permit fees + processing',
-    amount: 200,
+    label: 'ePermit: ₹50 application + ₹200 heritage fee (adult)',
+    short: 'ePermit',
+    amount: 250,
     unit: 'per person',
-    range: 'approx. ₹200',
-    source: 'dreamtrip',
+    range: '₹250 adult · ₹150 age 12–18',
+    source: 'epermitfees',
+  },
+  samudramGold: {
+    label: 'SPORTS Samudram cruise, Gold class, 5 days / 4 nights, all meals',
+    short: 'Samudram Gold',
+    amount: 35175,
+    unit: 'per adult, incl. 5% GST',
+    range: '₹35,175 Gold · ₹44,625 Diamond · +10% in Dec',
+    source: 'samudram',
   },
 };
-

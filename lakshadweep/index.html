@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Lakshadweep Ledger — ten days from Delhi, on the cheap</title>
-  <meta name="description" content="A ten-day Lakshadweep itinerary from Delhi with a cost-ledger: fly to Kochi, hop to Agatti, sail home. Every fare sourced." />
+  <title>Lakshadweep Ledger: ten days from Delhi, on the cheap</title>
+  <meta name="description" content="Lakshadweep from Delhi for less than the ₹40,000 flight quote: five routes compared on a real map, a day-by-day plan, and a cost ledger with every fare sourced." />
   <meta name="color-scheme" content="light dark" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -14,16 +14,20 @@
   <link rel="stylesheet" href="css/chrome.css" />
   <link rel="stylesheet" href="css/sections.css" />
   <link rel="stylesheet" href="css/components.css" />
+  <link rel="stylesheet" href="css/route.css" />
+  <link rel="stylesheet" href="css/days.css" />
+  <link rel="stylesheet" href="css/ledger.css" />
   <script>
     // Apply saved theme before first paint to avoid a flash.
     try {
-      const s = JSON.parse(localStorage.getItem('lakshadweep-ledger:v1') || '{}');
+      const s = JSON.parse(localStorage.getItem('lakshadweep-ledger:v2') || '{}');
       if (s.theme && s.theme !== 'auto') document.documentElement.dataset.theme = s.theme;
     } catch {}
   </script>
 </head>
 <body>
   <a class="skip" href="#route">Skip to content</a>
+  <div id="sprite"></div>
 
   <div class="progress" aria-hidden="true"><span id="progress-bar"></span></div>
 
@@ -48,64 +52,57 @@
 
   <main id="top">
     <section class="hero" aria-labelledby="hero-title">
-      <p class="eyebrow reveal">Union Territory of Lakshadweep · 10°N 72°E · <span id="hero-window"></span></p>
-      <h1 class="display reveal" id="hero-title">Ten days<br /><em>in the lagoon.</em><br />Getting there<br />for less than<br />you were quoted.</h1>
-      <p class="lede reveal">The ₹40,000 quote is for flying Delhi → Agatti as one ticket. Break the trip into legs — Delhi to Kochi, Kochi to Agatti, ship back — and the whole ten days, sleeping, eating and diving included, comes in <strong id="hero-vs"></strong>.</p>
-      <dl class="ledger-row reveal" id="hero-stats" aria-live="polite"></dl>
+      <div class="hero__copy">
+        <p class="eyebrow reveal">Lakshadweep from Delhi · <span id="hero-window"></span></p>
+        <h1 class="display reveal" id="hero-title"><span class="display__n" id="hero-total" aria-live="polite"></span><em id="hero-sub"></em></h1>
+        <div class="vs reveal" id="hero-vs" aria-live="polite"></div>
+        <dl class="stats reveal" id="hero-stats"></dl>
+        <a class="cta reveal" href="#route">Pick your route ↓</a>
+      </div>
+      <figure class="hero__map reveal" id="hero-map"></figure>
     </section>
 
     <section class="section" id="route" aria-labelledby="route-title">
       <header class="section__head">
-        <span class="eyebrow">01 · The route</span>
-        <h2 class="h2" id="route-title">Break the ₹40k ticket into legs</h2>
-        <p class="section__intro">Three ways to do Delhi ⇄ islands. Pick one; the ledger and the itinerary notes follow. Prices are per person, one way, observed <span id="route-window"></span> — verify before you pay.</p>
+        <span class="eyebrow">01 · Route</span>
+        <h2 class="h2" id="route-title">Five ways there. One is cheapest.</h2>
       </header>
-      <div class="segmented" role="radiogroup" aria-label="Transport strategy" id="strategy-picker"></div>
-      <div class="route" id="route-view"></div>
-      <div class="field-row">
-        <fieldset class="field">
-          <legend class="label">Ship class</legend>
-          <div class="segmented segmented--small" role="radiogroup" id="ship-class"></div>
-        </fieldset>
-        <p class="note" id="strategy-note"></p>
-      </div>
+      <div class="compare" role="radiogroup" aria-label="Transport strategy" id="strategy-picker"></div>
+      <div class="journey" id="route-view"></div>
+      <div class="classes" id="class-picker"></div>
     </section>
 
     <section class="section" id="days" aria-labelledby="days-title">
       <header class="section__head">
-        <span class="eyebrow">02 · Ten days</span>
-        <h2 class="h2" id="days-title">Kochi, Agatti, Bangaram, Kavaratti, the sea</h2>
-        <p class="section__intro">Written for the recommended route. Nights in homestays include breakfast and dinner; “spend today” is the per-person cash you would actually hand over that day.</p>
+        <span class="eyebrow">02 · Days</span>
+        <h2 class="h2" id="days-title"><span id="days-count"></span> days, drawn out</h2>
       </header>
-      <div class="itinerary">
-        <ol class="daynav" id="day-nav" aria-label="Jump to day"></ol>
-        <ol class="daylist" id="day-list"></ol>
-      </div>
+      <ol class="daynav" id="day-nav" aria-label="Jump to day"></ol>
+      <ol class="days" id="day-list"></ol>
     </section>
 
     <section class="section" id="budget" aria-labelledby="budget-title">
       <header class="section__head">
-        <span class="eyebrow">03 · The ledger</span>
-        <h2 class="h2" id="budget-title">What it costs, per person</h2>
-        <p class="section__intro">Change the party size, the homestay rate, or drop an activity; every line recalculates. Homestay and cab costs are split across the party.</p>
+        <span class="eyebrow">03 · Ledger</span>
+        <h2 class="h2" id="budget-title">Per person, everything counted</h2>
       </header>
       <div class="budget">
         <form class="controls" id="controls" aria-label="Budget controls">
           <div class="field">
-            <label class="label" for="travellers">Travellers</label>
-            <div class="stepper">
+            <span class="label" id="travellers-label">Travellers</span>
+            <div class="stepper" role="group" aria-labelledby="travellers-label">
               <button type="button" class="stepper__btn" data-step="-1" aria-label="Fewer travellers">−</button>
-              <output id="travellers" for="travellers" class="stepper__value">2</output>
+              <output id="travellers" class="stepper__value" aria-live="polite">2</output>
               <button type="button" class="stepper__btn" data-step="1" aria-label="More travellers">+</button>
             </div>
           </div>
           <div class="field">
-            <label class="label" for="homestay-rate">Homestay rate <span class="label__hint">₹2,500 – ₹4,000 / room</span></label>
-            <input type="range" id="homestay-rate" min="2500" max="4000" step="100" />
+            <label class="label" for="homestay-rate">Homestay <span class="label__hint">per room · 2 share</span></label>
+            <input type="range" id="homestay-rate" min="2500" max="5000" step="100" />
             <output for="homestay-rate" id="homestay-rate-out" class="range__out"></output>
           </div>
           <fieldset class="field">
-            <legend class="label">Activities</legend>
+            <legend class="label">Add water sports <span class="label__hint">off by default</span></legend>
             <div class="toggles" id="activity-toggles"></div>
           </fieldset>
         </form>
@@ -115,9 +112,8 @@
 
     <section class="section" id="booking" aria-labelledby="booking-title">
       <header class="section__head">
-        <span class="eyebrow">04 · Booking order</span>
-        <h2 class="h2" id="booking-title">Lock the ship first, then everything else</h2>
-        <p class="section__intro">The ship sails on a schedule, not on demand. Fix that date, then book around it. Deadlines assume a <span id="booking-start"></span> departure.</p>
+        <span class="eyebrow">04 · Booking</span>
+        <h2 class="h2" id="booking-title">In this order</h2>
       </header>
       <ol class="checklist" id="checklist"></ol>
       <p class="checklist__done" id="checklist-done" role="status"></p>
@@ -125,19 +121,28 @@
 
     <section class="section" id="sources" aria-labelledby="sources-title">
       <header class="section__head">
-        <span class="eyebrow">05 · Sources &amp; caveats</span>
-        <h2 class="h2" id="sources-title">Where every number came from</h2>
-        <p class="section__intro">These are observed fares and quoted prices from public pages, not live availability. Flight fares move daily; ship schedules are published a few weeks ahead. Treat the ledger as a planning floor and re-check each link before paying.</p>
+        <span class="eyebrow">05 · Sources</span>
+        <h2 class="h2" id="sources-title">Where every rupee came from</h2>
+        <p class="section__intro">Observed fares and published tariffs, not live availability. Ship dates are published weeks ahead; re-check each link before paying.</p>
       </header>
-      <ol class="sources" id="source-list"></ol>
-      <h3 class="label sources__sub">Design &amp; code lineage</h3>
-      <ol class="sources sources--credits" id="credit-list"></ol>
+      <details class="fold" open>
+        <summary class="fold__sum">Fares &amp; tariffs <span id="source-count"></span></summary>
+        <ol class="sources" id="source-list"></ol>
+      </details>
+      <details class="fold">
+        <summary class="fold__sum">Design &amp; code lineage</summary>
+        <ol class="sources sources--credits" id="credit-list"></ol>
+      </details>
+      <details class="fold">
+        <summary class="fold__sum">Photographs <span id="photo-count"></span></summary>
+        <ol class="sources sources--photos" id="photo-list"></ol>
+      </details>
     </section>
   </main>
 
   <footer class="foot">
-    <p>Planning aid, not a booking service. Permits are issued by the Lakshadweep Administration; entry to any island without one is not possible.</p>
-    <p class="foot__kbd">T theme · ? shortcuts · 1–5 sections · D developer mode</p>
+    <p>Planning aid, not a booking service. Permits are issued by the Lakshadweep Administration; no island can be entered without one.</p>
+    <p class="foot__kbd">T theme · ? shortcuts · 1–5 sections · J/K days · D developer mode</p>
   </footer>
 
   <div class="overlay" id="help" role="dialog" aria-modal="true" aria-labelledby="help-title" hidden>
@@ -149,7 +154,8 @@
       <dl class="kbd">
         <dt><kbd>T</kbd></dt><dd>Cycle theme: auto → light → dark</dd>
         <dt><kbd>1</kbd>–<kbd>5</kbd></dt><dd>Jump to a section</dd>
-        <dt><kbd>J</kbd> / <kbd>K</kbd></dt><dd>Next / previous day in the itinerary</dd>
+        <dt><kbd>J</kbd> / <kbd>K</kbd></dt><dd>Next / previous day</dd>
+        <dt><kbd>R</kbd></dt><dd>Next route</dd>
         <dt><kbd>?</kbd></dt><dd>This overlay</dd>
         <dt><kbd>D</kbd></dt><dd>Developer mode (or <code>?dev=1</code>)</dd>
       </dl>

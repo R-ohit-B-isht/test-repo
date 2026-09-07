@@ -1,41 +1,43 @@
+// Hero: one big number (essentials, per person), like-for-like transport
+// comparison against the ₹40k quote, four stat chips, and the route map.
 import { TRIP } from '../data/trip.js';
-import { computeBudget, fmt } from '../budget.js';
-import { html, $, fmtRange } from '../dom.js';
-import { animateNumber } from '../chrome/counter.js';
+import { computeBudget, fmt, fmtK } from '../budget.js';
+import { html, raw, $, fmtRange } from '../dom.js';
+import { icon } from '../icons.js';
+import { routeMap } from './map.js';
 
-export function renderHeroStatic() {
-  $('#hero-window').textContent = `fares observed ${TRIP.observedWindow}`;
-  $('#route-window').textContent = TRIP.observedWindow;
-  $('#status-dates').textContent = fmtRange(TRIP.start, TRIP.end);
-  $('#booking-start').textContent = fmtRange(TRIP.start, TRIP.end);
-}
+const SHORT = new Intl.DateTimeFormat('en-IN', { day: 'numeric', month: 'short' });
+const stat = (ic, value, label) => html`<div class="stat"><dt>${raw(icon(ic))}<span>${label}</span></dt><dd>${value}</dd></div>`;
 
-let prev = null;
-
-function animateStats(root, values) {
-  root.querySelectorAll('dd[data-count]').forEach((dd, i) => {
-    dd.dataset.prev = String(prev ? prev[i] : values[i]);
-    animateNumber(dd, values[i], fmt);
-  });
-}
+let mapKey = '';
 
 export function renderHero(state) {
   const b = computeBudget(state);
-  const saving = TRIP.quotedRoundTrip - b.transport;
-  const gap = b.perPerson - TRIP.quotedRoundTrip;
-  $('#hero-vs').textContent = gap <= 0
-    ? `at ${fmt(b.perPerson)} a head — ${fmt(-gap)} under the ${fmt(TRIP.quotedRoundTrip)} you were quoted just to get there`
-    : `at ${fmt(b.perPerson)} a head — ${fmt(gap)} more than the ${fmt(TRIP.quotedRoundTrip)} you were quoted just to get there`;
+  const { plan } = b;
+  const quote = TRIP.quotedRoundTrip;
+  const saving = quote - b.transport;
+  const pct = Math.min(100, Math.round((b.transport / quote) * 100));
 
-  $('#hero-stats').innerHTML = html`
-    <div><dt>Dates</dt><dd>${fmtRange(TRIP.start, TRIP.end)}<small>Tue → Thu, post-monsoon</small></dd></div>
-    <div><dt>Islands</dt><dd>${TRIP.islands.length}<small>${TRIP.islands.join(' · ')}</small></dd></div>
-    <div><dt>Delhi ⇄ islands</dt><dd data-count="${b.transport}">${fmt(b.transport)}<small>${b.strategy.name}</small></dd></div>
-    <div><dt>Whole trip, per person</dt><dd data-count="${b.perPerson}">${fmt(b.perPerson)}<small>${state.travellers} travelling · everything below</small></dd></div>
-    <div><dt>vs. the ${fmt(TRIP.quotedRoundTrip)} quote</dt><dd class="is-good" data-count="${saving}">${fmt(saving)}<small>saved on transport alone</small></dd></div>
-  `;
+  $('#hero-window').textContent = fmtRange(plan.start, plan.end);
+  $('#hero-total').textContent = fmt(b.essentials);
+  $('#hero-sub').textContent = `per person · ${plan.length} days · beds, meals, permit and every ticket`;
 
-  const values = [b.transport, b.perPerson, saving];
-  animateStats($('#hero-stats'), values);
-  prev = values;
+  $('#hero-vs').innerHTML = html`
+    <div class="vs__row vs__row--quote"><span class="vs__lbl">Delhi ⇄ Agatti, one ticket</span><span class="vs__bar"><i style="width:100%"></i></span><span class="vs__n">${fmt(quote)}</span></div>
+    <div class="vs__row vs__row--ours"><span class="vs__lbl">${plan.strategy.name}, ${plan.legs.length} legs</span><span class="vs__bar"><i style="width:${pct}%"></i></span><span class="vs__n">${fmt(b.transport)}</span></div>
+    <p class="vs__verdict">${saving > 0 ? raw(html`<strong>${fmtK(saving)}</strong> less to get there and back, Delhi to the atolls and home.`) : raw(html`<strong>${fmtK(-saving)}</strong> more than the ticket, but cabin, meals and three islands are inside that number.`)}</p>`;
+
+  $('#hero-stats').innerHTML = [
+    stat('sun', `${plan.islandNights}`, 'island nights'),
+    stat('moon', `${plan.seaNights}`, 'nights at sea'),
+    stat('clock', `${Math.round(plan.travelHours)} h`, 'in motion'),
+    stat('permit', SHORT.format(new Date(`${plan.permitDue}T00:00:00`)), 'permit by'),
+  ].join('');
+
+  const key = `${state.strategy}:${state.shipClass}:${state.trainClass}`;
+  if (key !== mapKey) {
+    mapKey = key;
+    $('#hero-map').innerHTML = routeMap(plan.legs) + html`<figcaption class="hero__cap">To scale · equirectangular · ${plan.strategy.blurb}</figcaption>`;
+  }
+  $('#status-dates').textContent = `${fmtRange(plan.start, plan.end)} · ${state.travellers} pax`;
 }
