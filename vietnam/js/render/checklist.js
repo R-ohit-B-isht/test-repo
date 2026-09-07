@@ -2,6 +2,8 @@ import { $, $$, html } from '../dom.js';
 import { icon } from '../icons.js';
 import { TRIP } from '../data/trip.js';
 import { stepsFor } from '../data/checklist.js';
+import { PRICES } from '../data/prices.js';
+import { findStrategy } from '../strategies.js';
 
 // Booking order with "by when" dates, and the end state: a ring that fills
 // and a lantern that lights when every step is ticked (peak-end).
@@ -30,11 +32,19 @@ const ring = (done, total) => html`
 
 export function mountChecklist(store) {
   $('#steps').addEventListener('click', (e) => { const b = e.target.closest('[data-check]'); if (b) store.toggleCheck(b.dataset.check); });
-  $('#date-chip').innerHTML = html`${icon('sun')} Assumes ${new Date(`${TRIP.start}T00:00:00`).toLocaleDateString('en-IN', { day: 'numeric', month: 'long' })} departure`;
 }
+
+const flightDates = (state) => {
+  const planes = findStrategy(state.strategy).legs(PRICES, state).filter((l) => l.mode === 'plane' && l.price.date);
+  if (!planes.length) return '';
+  const first = planes[0].price;
+  if (first.range === 'return fare') return `Return ticket, ${first.date}`;
+  return `Out ${first.date}, home ${planes[planes.length - 1].price.date}`;
+};
 
 export function renderChecklist(state) {
   const steps = stepsFor(state.strategy);
+  $('#date-chip').innerHTML = html`${icon('plane')} ${flightDates(state)}`;
   const done = steps.filter((c) => state.checklist[c.id]).length;
   const host = $('#steps');
   const ids = steps.map((c) => c.id).join();

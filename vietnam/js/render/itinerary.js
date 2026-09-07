@@ -1,13 +1,15 @@
 import { $, $$, html, inr } from '../dom.js';
 import { icon } from '../icons.js';
-import { DAYS, sleepFor, blockText } from '../data/days.js';
-import { STOPS, WEATHER, TRIP } from '../data/trip.js';
+import { DAYS, sleepFor, blockText, mealsFor, whereFor } from '../data/days.js';
+import { STOPS, WEATHER, TRIP, inrFromVnd, inrFromUsd } from '../data/trip.js';
 import { PRICES } from '../data/prices.js';
+import { SOURCES } from '../data/sources.js';
 import { findStrategy } from '../strategies.js';
 import { PHOTOS } from '../data/photos.js';
 
-// Horizontal photo shelf (Airbnb). One card per day; the transit-dependent
-// lines swap when the route changes. Dots + arrows + scroll-snap.
+// Horizontal photo shelf (Airbnb). One card per day, four rows in the same order
+// every time — Do / Eat / Sleep / Around — so the eye learns the card once.
+// Transit-dependent lines and the budget toggles swap without rebuilding the shelf.
 
 const dateOf = (n) => {
   const d = new Date(`${TRIP.start}T00:00:00`);
@@ -15,9 +17,41 @@ const dateOf = (n) => {
   return d.toLocaleDateString('en-IN', { weekday: 'short', day: 'numeric', month: 'short' });
 };
 
-const spendChips = (day, state) => day.spend
-  .filter((s) => state.activities[s.toggle])
-  .map((s) => html`<span class="chip chip-jade">${icon('ticket')} ${inr(PRICES[s.key].amount)}</span>`);
+const MEAL = ['B', 'L', 'D'];
+
+const srcLink = (key, label) => {
+  const s = key && SOURCES[key];
+  return s ? html`<a class="src" href="${s.url}" target="_blank" rel="noopener" title="${s.name}">${label} ${icon('link')}</a>` : '';
+};
+
+// Price tag on a "Do" line: free, or the listed entry fee, dimmed when the
+// matching budget switch is off.
+const doPrice = (block, state) => {
+  if (!block.price) return '';
+  if (block.price === 'free') return html`<span class="tag tag-free">free</span>`;
+  const off = block.toggle && !state.activities[block.toggle];
+  return html`<span class="tag ${off ? 'tag-off' : ''}" title="${PRICES[block.price].range}">${inr(PRICES[block.price].amount)}${off ? ' · off' : ''}</span>`;
+};
+
+const doRow = (block, state, transit) => html`
+  <div class="block">
+    <span class="when">${block.when}</span>${icon(block.icon)}
+    <span class="txt">${blockText(block, transit)} ${doPrice(block, state)}</span>
+  </div>`;
+
+const mealRow = (m, i) => html`
+  <div class="meal">
+    <span class="m">${MEAL[i]}</span>
+    <span class="txt"><b>${m.name}</b><span class="sub">${m.dish}</span></span>
+    <span class="amt num">${m.vnd ? html`≈${inr(inrFromVnd(m.vnd))}` : m.src ? 'incl.' : '—'}${srcLink(m.src, '')}</span>
+  </div>`;
+
+const stayRow = (s) => html`
+  <div class="stay">
+    ${icon('bed')}
+    <span class="txt"><b>${s.name}</b><span class="sub">${s.area}</span></span>
+    <span class="amt num">${s.usd ? html`≈${inr(inrFromUsd(s.usd))}` : ''}${srcLink(s.src, '')}</span>
+  </div>`;
 
 const dayCard = (day, state, transit) => {
   const stop = STOPS.find((s) => s.id === day.stop);
@@ -32,16 +66,26 @@ const dayCard = (day, state, transit) => {
       </div>
       <div class="body">
         <div>
-          <span class="eyebrow">Day ${day.n} · ${dateOf(day.n)} · ${stop.name}</span>
+          <span class="eyebrow">Day ${day.n} · ${dateOf(day.n)} · ${whereFor(day, transit) || stop.name}</span>
           <h3 style="margin-top:6px">${day.title}</h3>
         </div>
-        <div class="blocks">
-          ${day.blocks.map((b) => html`<div class="block"><span class="when">${b.when}</span>${icon(b.icon)}<span>${blockText(b, transit)}</span></div>`)}
-        </div>
-        <div class="foot">
-          <span class="chip">${icon('bed')} ${sleepFor(day, transit)}</span>
-          ${spendChips(day, state)}
-        </div>
+        <section class="row-do" aria-label="Do">
+          <span class="lbl">Do</span>
+          <div class="blocks">${day.blocks.map((b) => doRow(b, state, transit))}</div>
+        </section>
+        <section class="row-eat" aria-label="Eat">
+          <span class="lbl">Eat</span>
+          <div class="meals">${mealsFor(day, transit).map(mealRow)}</div>
+        </section>
+        <section class="row-sleep" aria-label="Sleep">
+          <span class="lbl">Sleep</span>
+          ${stayRow(sleepFor(day, transit))}
+        </section>
+        ${day.around.length ? html`
+        <section class="row-around" aria-label="Around">
+          <span class="lbl">Around</span>
+          <div class="around">${day.around.map((a) => html`<span class="chip">${a}</span>`)}</div>
+        </section>` : ''}
       </div>
     </article>`;
 };

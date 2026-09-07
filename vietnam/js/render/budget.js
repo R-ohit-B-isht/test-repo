@@ -17,11 +17,12 @@ const SLIDERS = [
 ];
 
 const ACTIVITIES = [
-  { id: 'ninhbinh', name: 'Ninh Binh tour', photo: 'ninhbinh', day: 2 },
-  { id: 'halong', name: 'Ha Long day cruise', photo: 'halong', day: 3 },
-  { id: 'hueCitadel', name: 'Hue Imperial City', photo: 'hue', day: 5 },
-  { id: 'hoianTicket', name: 'Hoi An Old Town ticket', photo: 'hoian', day: 7 },
-  { id: 'banaHills', name: 'Ba Na Hills · Golden Bridge', photo: 'danang', day: 8 },
+  { id: 'hoianTicket', name: 'Hoi An Old Town ticket', photo: 'hoian', day: 2 },
+  { id: 'marble', name: 'Marble Mountains', photo: 'danang', day: 3 },
+  { id: 'hueCitadel', name: 'Hue Imperial City', photo: 'hue', day: 4 },
+  { id: 'hueTomb', name: 'Tu Duc tomb', photo: 'haivan', day: 4 },
+  { id: 'ninhbinh', name: 'Ninh Binh day tour', photo: 'ninhbinh', day: 6 },
+  { id: 'halong', name: 'Ha Long day cruise', photo: 'halong', day: 7 },
 ];
 
 const COLORS = { flights: 'var(--lantern)', ground: 'var(--indigo)', stay: 'var(--jade)', food: 'var(--sun)', activities: 'var(--rain)', local: 'var(--fg-3)', admin: 'var(--line)', buffer: 'var(--bg-2)' };
@@ -79,5 +80,5 @@ export function renderBudget(state) {
       <div class="ledger-line ledger-total"><span class="lbl">${TRIP.days} days, all in</span><span class="lead"></span><span class="amt num">${inr(b.total)}</span></div>
     </div>
     <div class="grp"><span>${state.travellers} ${state.travellers === 1 ? 'traveller' : 'travellers'}</span><b class="num">${inr(b.group)}</b></div>
-    <p class="small muted" style="margin-top:16px">Flights are base fares seen Aug–Sep 2026. Add 7 kg cabin only, no checked bag. Not live prices.</p>`;
+    <p class="small muted" style="margin-top:16px">Flights: ${TRIP.observedWindow}, one adult, taxes and fees in, 7 kg cabin bag only. Fares move daily; not live seats.</p>`;
 }

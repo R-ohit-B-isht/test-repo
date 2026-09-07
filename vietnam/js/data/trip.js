@@ -1,14 +1,15 @@
-// Trip constants. Dates are an assumption for "late October" — change `start` and
-// everything downstream (checklist deadlines, day labels) recomputes.
+// Trip constants. Day 1 is the morning you land (the Delhi flight leaves the night
+// before). Change `start` and checklist deadlines / day labels recompute; the fares
+// in prices.js were searched for these exact dates, so re-check them if you move it.
 
 export const TRIP = {
-  title: 'Vietnam, north to middle',
-  subtitle: 'Eight days. Delhi return. Cheaper than the ₹40k quote.',
+  title: 'Vietnam, middle then north',
+  subtitle: 'Eight days, 24–31 Oct. Delhi return. Cheaper than the ₹40k quote.',
   start: '2026-10-24',
   days: 8,
   origin: 'Delhi (DEL)',
   quotedRoundTrip: 40000,
-  observedWindow: 'Aug–Sep 2026 fare checks',
+  observedWindow: 'Google Flights fares for 23–31 Oct 2026, checked 7 Sep',
 };
 
 // Mid-market rates observed on xe.com, Sep 2026. Used to convert sourced

@@ -21,7 +21,7 @@ export function renderSources() {
     ${CREDITS.map((c) => html`<span class="chip chip-ink" title="${c.took}">${c.name}</span>`)}
     <a class="chip" href="https://www.naturalearthdata.com/" target="_blank" rel="noopener">map · Natural Earth · public domain</a>`;
   $('#footer').innerHTML = html`
-    <span>${icon('info')} Prices are ${TRIP.observedWindow}, not live. Base fares exclude checked bags.</span>
+    <span>${icon('info')} Flights: ${TRIP.observedWindow}. Taxes in, checked bags out, not live seats. Food and beds are listed prices, not bookings.</span>
     <span>1 USD ≈ ₹${FX.inrPerUsd} · ₹1 ≈ ${FX.vndPerInr} ₫</span>
-    <span>Dates assume ${TRIP.start}. Shift them, the plan holds.</span>`;
+    <span>Fares are for these exact dates. Move the trip, re-check the flights.</span>`;
 }

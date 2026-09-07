@@ -2,7 +2,7 @@ import { $, $$, html, inr } from '../dom.js';
 import { icon } from '../icons.js';
 import { STRATEGIES, REJECTED } from '../strategies.js';
 import { compareStrategies } from '../budget.js';
-import { PRICES, KIND_LABEL } from '../data/prices.js';
+import { PRICES, KIND_LABEL, CHECKED } from '../data/prices.js';
 import { SOURCES } from '../data/sources.js';
 import { renderMap } from './map.js';
 
@@ -82,7 +82,8 @@ export function renderRoute(state) {
   });
 
   const current = results.find((r) => r.id === state.strategy);
-  $('#legs').innerHTML = html`<span class="eyebrow">${current.strategy.summary}</span>${current.legs.map((l) => legRow(l, state.travellers))}`;
+  $('#legs').innerHTML = html`<span class="eyebrow">${current.strategy.summary}</span>${current.legs.map((l) => legRow(l, state.travellers))}
+    <p class="small muted legs-note">${icon('info')} Flights: ${CHECKED}, one adult, taxes in, 7 kg cabin bag only. Grab fares split by ${state.travellers}.</p>`;
   renderBerth(state, current.strategy.transit === 'train');
   $('#rejected').innerHTML = html`<summary>${icon('arrow')} Also checked, and dropped</summary>${REJECTED.map((r) => rejectedRow(r, state))}`;
   renderMap(current.strategy);
