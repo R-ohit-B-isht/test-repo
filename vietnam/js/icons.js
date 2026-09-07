@@ -1,0 +1,37 @@
+import { raw } from './dom.js';
+
+// Hand-drawn 24px stroke icons. One weight (1.75), round caps, so every chip
+// reads as the same family. Flyweight: one path string per name, reused everywhere.
+const PATHS = {
+  plane: 'M3 12h6l4-8h2l-2 8h5l2-2h2l-1 3 1 3h-2l-2-2h-5l2 8h-2l-4-8H3z',
+  train: 'M7 3h10a2 2 0 0 1 2 2v9a3 3 0 0 1-3 3H8a3 3 0 0 1-3-3V5a2 2 0 0 1 2-2zM5 10h14M9 14h.01M15 14h.01M8 17l-2 4M16 17l2 4',
+  bus: 'M5 4h14a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2zM3 10h18M7 17v3M17 17v3M7 13h.01M17 13h.01',
+  car: 'M4 14l2-6h12l2 6M3 14h18v4h-2M3 18h2M7 18a2 2 0 1 0 4 0 2 2 0 1 0-4 0M13 18a2 2 0 1 0 4 0 2 2 0 1 0-4 0',
+  walk: 'M13 4a1.5 1.5 0 1 0 0 .01M12 8l-3 4 2 2v6M12 8l3 3 3-1M9 12l-3 8M12 14l3 2v4',
+  boat: 'M3 16l2 4h14l2-4zM3 16l9-3 9 3M12 3v10M12 4l6 7H12',
+  bowl: 'M3 11h18a9 9 0 0 1-18 0zM7 11l3-7M12 11l3-7M5 20h14',
+  moon: 'M20 15A8 8 0 1 1 9 4a7 7 0 0 0 11 11z',
+  moto: 'M4 17a3 3 0 1 0 6 0 3 3 0 1 0-6 0M14 17a3 3 0 1 0 6 0 3 3 0 1 0-6 0M7 17l4-7h5l3 7M11 10l-2-4h3M16 10V7h3',
+  lantern: 'M9 3h6M12 3v3M8 6h8l2 4v6l-2 3H8l-2-3v-6zM12 19v2M6 10h12M6 16h12',
+  bike: 'M3 17a3 3 0 1 0 6 0 3 3 0 1 0-6 0M15 17a3 3 0 1 0 6 0 3 3 0 1 0-6 0M6 17l4-8h5l3 8M10 9l-1-3h3M15 9l3 8',
+  ticket: 'M4 7h16v3a2 2 0 0 0 0 4v3H4v-3a2 2 0 0 0 0-4zM10 7v10',
+  sun: 'M12 8a4 4 0 1 0 0 8 4 4 0 1 0 0-8zM12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4',
+  rain: 'M7 15a5 5 0 0 1 .5-10 6 6 0 0 1 11 2h.5a4 4 0 0 1 0 8H7zM8 18l-1 3M12 18l-1 3M16 18l-1 3',
+  bed: 'M3 18v-8a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2v8M3 14h18M6 8V6h5v2M13 8V6h5v2M3 18v2M21 18v2',
+  passport: 'M6 3h12a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1zM12 8a3 3 0 1 0 0 6 3 3 0 1 0 0-6zM9 17h6',
+  shield: 'M12 3l8 3v6c0 4.5-3.5 7.5-8 9-4.5-1.5-8-4.5-8-9V6zM9 12l2 2 4-4',
+  check: 'M5 12l4 4L19 6',
+  arrow: 'M5 12h14M13 6l6 6-6 6',
+  info: 'M12 3a9 9 0 1 0 0 18 9 9 0 1 0 0-18zM12 11v5M12 8h.01',
+  link: 'M10 14L20 4M15 4h5v5M18 13v6H5V6h6',
+  pin: 'M12 21s-6-5.5-6-11a6 6 0 0 1 12 0c0 5.5-6 11-6 11zM12 10a2 2 0 1 0 0 .01',
+  x: 'M6 6l12 12M18 6L6 18',
+  users: 'M9 11a3.5 3.5 0 1 0 0-7 3.5 3.5 0 1 0 0 7zM3 20a6 6 0 0 1 12 0M16 4.5a3.5 3.5 0 0 1 0 6.5M18 14a6 6 0 0 1 3 6',
+  sparkle: 'M12 3l2 6 6 2-6 2-2 6-2-6-6-2 6-2zM19 15l1 2 2 1-2 1-1 2-1-2-2-1 2-1z',
+};
+
+export const icon = (name, cls = '') => raw(
+  `<svg class="ic ${cls}" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="${PATHS[name] || PATHS.info}"/></svg>`,
+);
+
+export const ICON_NAMES = Object.keys(PATHS);

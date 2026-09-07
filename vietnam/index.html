@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Vietnam, north to middle: 8 days from Delhi, cheaper than ₹40k</title>
+  <meta name="description" content="A visual planner for eight days in northern and central Vietnam from Delhi in late October: route trade-offs, sourced prices, a per-person budget and a booking checklist." />
+  <meta name="color-scheme" content="light dark" />
+  <meta name="theme-color" content="#f7f2e8" />
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" />
+  <link rel="stylesheet" href="css/tokens.css" />
+  <link rel="stylesheet" href="css/base.css" />
+  <link rel="stylesheet" href="css/components.css" />
+  <link rel="stylesheet" href="css/chrome.css" />
+  <link rel="stylesheet" href="css/sections.css" />
+</head>
+<body>
+  <a class="skip" href="#route">Skip to the route</a>
+  <div class="progress" id="progress" aria-hidden="true"></div>
+
+  <header class="topbar">
+    <div class="wrap">
+      <a class="brand" href="#top" aria-label="Vietnam planner, back to top">
+        <svg class="mark" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 3h6M12 3v3M8 6h8l2 4v6l-2 3H8l-2-3v-6zM12 19v2" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        Vietnam
+      </a>
+      <nav class="topnav" aria-label="Sections">
+        <a href="#route">Route</a>
+        <a href="#days">Days</a>
+        <a href="#budget">Budget</a>
+        <a href="#checklist">Book</a>
+        <a href="#sources">Sources</a>
+      </nav>
+      <div class="topbar-actions">
+        <button class="btn-icon" id="theme-btn" type="button" aria-label="Theme: auto" title="Theme (T)"></button>
+        <button class="btn-icon" id="help-btn" type="button" aria-label="Keyboard shortcuts" title="Shortcuts (?)">?</button>
+      </div>
+    </div>
+  </header>
+
+  <main id="top">
+    <section class="hero" id="hero" aria-labelledby="hero-title">
+      <div class="hero-bg" id="hero-bg"></div>
+      <div class="wrap">
+        <div id="hero-copy"></div>
+        <div class="card calc" id="calc" aria-live="polite"></div>
+      </div>
+    </section>
+
+    <section class="section" id="route" aria-labelledby="route-title">
+      <div class="wrap">
+        <div class="section-head reveal">
+          <div>
+            <span class="eyebrow">02 · Route</span>
+            <h2 id="route-title">Two one-ways beat one return.</h2>
+          </div>
+          <div id="berth-seg"></div>
+        </div>
+        <div class="route-grid">
+          <div class="map reveal" id="map"></div>
+          <div class="reveal">
+            <div class="routes" id="routes" role="radiogroup" aria-label="Route options"></div>
+            <div class="card legs" id="legs"></div>
+            <details class="rejected" id="rejected"></details>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="days" aria-labelledby="days-title">
+      <div class="wrap">
+        <div class="section-head reveal">
+          <div>
+            <span class="eyebrow">03 · Eight days</span>
+            <h2 id="days-title">North first, while it's dry.</h2>
+          </div>
+          <div class="days-head">
+            <div class="dots" id="day-dots" aria-label="Jump to day"></div>
+            <button class="btn-icon" id="day-prev" type="button" aria-label="Previous day">‹</button>
+            <button class="btn-icon" id="day-next" type="button" aria-label="Next day">›</button>
+          </div>
+        </div>
+      </div>
+      <div class="wrap">
+        <div class="shelf reveal" id="shelf"></div>
+      </div>
+    </section>
+
+    <section class="section" id="budget" aria-labelledby="budget-title">
+      <div class="wrap">
+        <div class="section-head reveal">
+          <div>
+            <span class="eyebrow">04 · Budget</span>
+            <h2 id="budget-title">Your comfort, your number.</h2>
+          </div>
+          <div id="travellers-seg"></div>
+        </div>
+        <div class="budget-grid">
+          <div class="controls reveal" id="controls"></div>
+          <div class="card total-card reveal" id="ledger" aria-live="polite"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="checklist" aria-labelledby="checklist-title">
+      <div class="wrap">
+        <div class="section-head reveal">
+          <div>
+            <span class="eyebrow">05 · Book it</span>
+            <h2 id="checklist-title">In this order.</h2>
+          </div>
+          <span class="chip" id="date-chip"></span>
+        </div>
+        <div class="check-grid">
+          <div class="card steps reveal" id="steps"></div>
+          <div class="card done-card reveal" id="done"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="sources" aria-labelledby="sources-title">
+      <div class="wrap">
+        <div class="section-head reveal">
+          <div>
+            <span class="eyebrow">06 · Receipts</span>
+            <h2 id="sources-title">Every number, sourced.</h2>
+          </div>
+        </div>
+        <div class="sources reveal" id="source-list"></div>
+        <div class="credits reveal" id="credits"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap" id="footer"></div>
+  </footer>
+
+  <nav class="rail" id="rail" aria-label="Section index"></nav>
+
+  <div class="overlay" id="help" data-open="false" role="dialog" aria-modal="true" aria-labelledby="help-title" aria-hidden="true">
+    <div class="card">
+      <div class="card-head">
+        <h3 id="help-title">Shortcuts</h3>
+        <button class="btn-icon" type="button" data-close aria-label="Close">×</button>
+      </div>
+      <div class="kbd-list">
+        <kbd>1</kbd><span>Night train route</span>
+        <kbd>2</kbd><span>Sleeper bus route</span>
+        <kbd>3</kbd><span>Fly south route</span>
+        <kbd>4</kbd><span>Return via Hanoi</span>
+        <kbd>T</kbd><span>Cycle theme</span>
+        <kbd>D</kbd><span>Developer bar</span>
+        <kbd>?</kbd><span>This panel</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="devbar" id="devbar" data-open="false" aria-label="Developer bar"></div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>
