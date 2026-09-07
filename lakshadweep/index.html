@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Lakshadweep Ledger — ten days from Delhi, on the cheap</title>
+  <meta name="description" content="A ten-day Lakshadweep itinerary from Delhi with a cost-ledger: fly to Kochi, hop to Agatti, sail home. Every fare sourced." />
+  <meta name="color-scheme" content="light dark" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=IBM+Plex+Mono:wght@400;500&display=swap" />
+  <link rel="stylesheet" href="css/tokens.css" />
+  <link rel="stylesheet" href="css/base.css" />
+  <link rel="stylesheet" href="css/chrome.css" />
+  <link rel="stylesheet" href="css/sections.css" />
+  <link rel="stylesheet" href="css/components.css" />
+  <script>
+    // Apply saved theme before first paint to avoid a flash.
+    try {
+      const s = JSON.parse(localStorage.getItem('lakshadweep-ledger:v1') || '{}');
+      if (s.theme && s.theme !== 'auto') document.documentElement.dataset.theme = s.theme;
+    } catch {}
+  </script>
+</head>
+<body>
+  <a class="skip" href="#route">Skip to content</a>
+
+  <div class="progress" aria-hidden="true"><span id="progress-bar"></span></div>
+
+  <header class="status" role="banner">
+    <a class="status__brand" href="#top">Lakshadweep <em>Ledger</em></a>
+    <span class="status__meta" id="status-dates"></span>
+    <time class="status__clock" id="clock" aria-label="Indian Standard Time" datetime=""></time>
+    <div class="status__actions">
+      <button class="chip" id="theme-toggle" type="button" aria-label="Theme: auto" title="Theme (T)">auto</button>
+      <button class="chip" id="help-toggle" type="button" aria-haspopup="dialog" aria-controls="help" title="Shortcuts (?)">?</button>
+    </div>
+  </header>
+
+  <nav class="rail" aria-label="Sections">
+    <a href="#top" data-rail="top"><span>00</span>Top</a>
+    <a href="#route" data-rail="route"><span>01</span>Route</a>
+    <a href="#days" data-rail="days"><span>02</span>Days</a>
+    <a href="#budget" data-rail="budget"><span>03</span>Ledger</a>
+    <a href="#booking" data-rail="booking"><span>04</span>Booking</a>
+    <a href="#sources" data-rail="sources"><span>05</span>Sources</a>
+  </nav>
+
+  <main id="top">
+    <section class="hero" aria-labelledby="hero-title">
+      <p class="eyebrow reveal">Union Territory of Lakshadweep · 10°N 72°E · <span id="hero-window"></span></p>
+      <h1 class="display reveal" id="hero-title">Ten days<br /><em>in the lagoon.</em><br />Getting there<br />for less than<br />you were quoted.</h1>
+      <p class="lede reveal">The ₹40,000 quote is for flying Delhi → Agatti as one ticket. Break the trip into legs — Delhi to Kochi, Kochi to Agatti, ship back — and the whole ten days, sleeping, eating and diving included, comes in <strong id="hero-vs"></strong>.</p>
+      <dl class="ledger-row reveal" id="hero-stats" aria-live="polite"></dl>
+    </section>
+
+    <section class="section" id="route" aria-labelledby="route-title">
+      <header class="section__head">
+        <span class="eyebrow">01 · The route</span>
+        <h2 class="h2" id="route-title">Break the ₹40k ticket into legs</h2>
+        <p class="section__intro">Three ways to do Delhi ⇄ islands. Pick one; the ledger and the itinerary notes follow. Prices are per person, one way, observed <span id="route-window"></span> — verify before you pay.</p>
+      </header>
+      <div class="segmented" role="radiogroup" aria-label="Transport strategy" id="strategy-picker"></div>
+      <div class="route" id="route-view"></div>
+      <div class="field-row">
+        <fieldset class="field">
+          <legend class="label">Ship class</legend>
+          <div class="segmented segmented--small" role="radiogroup" id="ship-class"></div>
+        </fieldset>
+        <p class="note" id="strategy-note"></p>
+      </div>
+    </section>
+
+    <section class="section" id="days" aria-labelledby="days-title">
+      <header class="section__head">
+        <span class="eyebrow">02 · Ten days</span>
+        <h2 class="h2" id="days-title">Kochi, Agatti, Bangaram, Kavaratti, the sea</h2>
+        <p class="section__intro">Written for the recommended route. Nights in homestays include breakfast and dinner; “spend today” is the per-person cash you would actually hand over that day.</p>
+      </header>
+      <div class="itinerary">
+        <ol class="daynav" id="day-nav" aria-label="Jump to day"></ol>
+        <ol class="daylist" id="day-list"></ol>
+      </div>
+    </section>
+
+    <section class="section" id="budget" aria-labelledby="budget-title">
+      <header class="section__head">
+        <span class="eyebrow">03 · The ledger</span>
+        <h2 class="h2" id="budget-title">What it costs, per person</h2>
+        <p class="section__intro">Change the party size, the homestay rate, or drop an activity; every line recalculates. Homestay and cab costs are split across the party.</p>
+      </header>
+      <div class="budget">
+        <form class="controls" id="controls" aria-label="Budget controls">
+          <div class="field">
+            <label class="label" for="travellers">Travellers</label>
+            <div class="stepper">
+              <button type="button" class="stepper__btn" data-step="-1" aria-label="Fewer travellers">−</button>
+              <output id="travellers" for="travellers" class="stepper__value">2</output>
+              <button type="button" class="stepper__btn" data-step="1" aria-label="More travellers">+</button>
+            </div>
+          </div>
+          <div class="field">
+            <label class="label" for="homestay-rate">Homestay rate <span class="label__hint">₹2,500 – ₹4,000 / room</span></label>
+            <input type="range" id="homestay-rate" min="2500" max="4000" step="100" />
+            <output for="homestay-rate" id="homestay-rate-out" class="range__out"></output>
+          </div>
+          <fieldset class="field">
+            <legend class="label">Activities</legend>
+            <div class="toggles" id="activity-toggles"></div>
+          </fieldset>
+        </form>
+        <div class="ledger" id="ledger" aria-live="polite"></div>
+      </div>
+    </section>
+
+    <section class="section" id="booking" aria-labelledby="booking-title">
+      <header class="section__head">
+        <span class="eyebrow">04 · Booking order</span>
+        <h2 class="h2" id="booking-title">Lock the ship first, then everything else</h2>
+        <p class="section__intro">The ship sails on a schedule, not on demand. Fix that date, then book around it. Deadlines assume a <span id="booking-start"></span> departure.</p>
+      </header>
+      <ol class="checklist" id="checklist"></ol>
+      <p class="checklist__done" id="checklist-done" role="status"></p>
+    </section>
+
+    <section class="section" id="sources" aria-labelledby="sources-title">
+      <header class="section__head">
+        <span class="eyebrow">05 · Sources &amp; caveats</span>
+        <h2 class="h2" id="sources-title">Where every number came from</h2>
+        <p class="section__intro">These are observed fares and quoted prices from public pages, not live availability. Flight fares move daily; ship schedules are published a few weeks ahead. Treat the ledger as a planning floor and re-check each link before paying.</p>
+      </header>
+      <ol class="sources" id="source-list"></ol>
+      <h3 class="label sources__sub">Design &amp; code lineage</h3>
+      <ol class="sources sources--credits" id="credit-list"></ol>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <p>Planning aid, not a booking service. Permits are issued by the Lakshadweep Administration; entry to any island without one is not possible.</p>
+    <p class="foot__kbd">T theme · ? shortcuts · 1–5 sections · D developer mode</p>
+  </footer>
+
+  <div class="overlay" id="help" role="dialog" aria-modal="true" aria-labelledby="help-title" hidden>
+    <div class="overlay__panel">
+      <div class="overlay__head">
+        <h2 class="label" id="help-title">Keyboard</h2>
+        <button class="chip" type="button" data-close-help aria-label="Close">Esc</button>
+      </div>
+      <dl class="kbd">
+        <dt><kbd>T</kbd></dt><dd>Cycle theme: auto → light → dark</dd>
+        <dt><kbd>1</kbd>–<kbd>5</kbd></dt><dd>Jump to a section</dd>
+        <dt><kbd>J</kbd> / <kbd>K</kbd></dt><dd>Next / previous day in the itinerary</dd>
+        <dt><kbd>?</kbd></dt><dd>This overlay</dd>
+        <dt><kbd>D</kbd></dt><dd>Developer mode (or <code>?dev=1</code>)</dd>
+      </dl>
+    </div>
+  </div>
+
+  <aside class="dev" id="dev" hidden aria-label="Developer mode"></aside>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

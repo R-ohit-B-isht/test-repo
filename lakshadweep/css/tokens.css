@@ -1,0 +1,83 @@
+/* Design tokens. Palette and rhythm traced from Tierra Ignota (Awwwards):
+   sand paper on near-black ink, mint/lagoon accents, 0.5px hairlines,
+   6rem section margins, cubic-bezier(.645,.045,.355,1) transitions. */
+
+:root {
+  --paper: #f2f0e9;
+  --ink: #191919;
+  --mist: rgba(25, 25, 25, 0.56);
+  --faint: rgba(25, 25, 25, 0.08);
+  --line: var(--ink);
+  --card: #ffffff;
+  --lagoon: #cbeedc;
+  --mint: #d8eabe;
+  --sun: #f2de7e;
+  --coral: #d66f58;
+  --forest: #43493a;
+  --wet-sand: #d7d2ba;
+  --land: #ae8e86;
+
+  --serif: 'Instrument Serif', 'Times New Roman', Georgia, serif;
+  --mono: 'IBM Plex Mono', 'SFMono-Regular', Menlo, Consolas, monospace;
+
+  /* 4 sizes, 2 weights */
+  --fs-label: 0.75rem;
+  --fs-body: 0.9375rem;
+  --fs-h2: clamp(2rem, 4.5vw, 3.5rem);
+  --fs-display: clamp(3rem, 10.5vw, 11rem);
+  --lh-body: 1.5rem;
+
+  /* 8-pt rhythm */
+  --s1: 0.5rem;
+  --s2: 1rem;
+  --s3: 1.5rem;
+  --s4: 2rem;
+  --s6: 3rem;
+  --s8: 4rem;
+  --s12: 6rem;
+  --margin: clamp(1rem, 4vw, 3rem);
+  --measure: 38rem;
+
+  --hair: 0.5px solid var(--line);
+  --radius: 0.25rem;
+
+  --ease-io: cubic-bezier(0.645, 0.045, 0.355, 1);
+  --ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+  --dur: 0.42s;
+  --dur-fast: 0.16s;
+  --dur-reveal: 0.28s;
+
+  --status-h: 3rem;
+}
+
+:root[data-theme='dark'] {
+  --paper: #191919;
+  --ink: #f2f0e9;
+  --mist: rgba(242, 240, 233, 0.56);
+  --faint: rgba(242, 240, 233, 0.1);
+  --card: #222220;
+  --lagoon: #6fb894;
+  --mint: #8fae6b;
+  --sun: #d9c15b;
+  --wet-sand: #3a3a36;
+  --forest: #cbeedc;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --paper: #191919;
+    --ink: #f2f0e9;
+    --mist: rgba(242, 240, 233, 0.56);
+    --faint: rgba(242, 240, 233, 0.1);
+    --card: #222220;
+    --lagoon: #6fb894;
+    --mint: #8fae6b;
+    --sun: #d9c15b;
+    --wet-sand: #3a3a36;
+    --forest: #cbeedc;
+  }
+}
+
+@media (-webkit-max-device-pixel-ratio: 1), (max-resolution: 1dppx) {
+  :root { --hair: 1px solid var(--line); }
+}

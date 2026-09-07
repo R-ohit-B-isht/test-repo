@@ -1,0 +1,93 @@
+*,
+*::before,
+*::after { box-sizing: border-box; }
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: calc(var(--status-h) + var(--s2));
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font: 400 var(--fs-body) / var(--lh-body) var(--mono);
+  font-feature-settings: 'tnum';
+  -webkit-font-smoothing: antialiased;
+  transition: background-color var(--dur) var(--ease-io), color var(--dur) var(--ease-io);
+  overflow-x: clip;
+}
+
+h1, h2, h3, p, dl, dd, ol, ul, figure { margin: 0; }
+ol, ul { padding: 0; list-style: none; }
+a { color: inherit; text-decoration-color: var(--mist); text-underline-offset: 0.2em; }
+a:hover { text-decoration-color: currentColor; }
+button, input, output { font: inherit; color: inherit; }
+button { background: none; border: 0; padding: 0; cursor: pointer; }
+em { font-style: italic; }
+strong { font-weight: 500; }
+kbd, code { font: inherit; }
+
+:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+:focus:not(:focus-visible) { outline: none; }
+
+::selection { background: var(--lagoon); color: #191919; }
+
+/* Type roles */
+.eyebrow,
+.label {
+  font-size: var(--fs-label);
+  line-height: 1rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--mist);
+}
+.label__hint { text-transform: none; letter-spacing: 0; margin-left: var(--s1); }
+
+.display {
+  font: italic 400 var(--fs-display) / 0.92 var(--serif);
+  letter-spacing: -0.02em;
+  text-wrap: balance;
+}
+.display em { font-style: normal; color: var(--forest); }
+
+.h2 {
+  font: 400 var(--fs-h2) / 1.05 var(--serif);
+  letter-spacing: -0.01em;
+  text-wrap: balance;
+  max-width: 24ch;
+}
+
+.lede { max-width: var(--measure); }
+.note { color: var(--mist); max-width: var(--measure); }
+
+.skip {
+  position: absolute;
+  left: var(--s2);
+  top: -3rem;
+  padding: var(--s1) var(--s2);
+  background: var(--ink);
+  color: var(--paper);
+  z-index: 100;
+}
+.skip:focus { top: var(--s2); }
+
+/* Scroll reveal: opacity + translate only */
+.reveal {
+  opacity: 0;
+  transform: translateY(12px);
+  transition: opacity var(--dur-reveal) var(--ease-out), transform var(--dur-reveal) var(--ease-out);
+  transition-delay: var(--stagger, 0ms);
+}
+.reveal.is-in { opacity: 1; transform: none; }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .reveal { opacity: 1; transform: none; transition: none; }
+  *, *::before, *::after { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; }
+}
