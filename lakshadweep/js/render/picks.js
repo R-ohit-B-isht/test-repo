@@ -86,5 +86,5 @@ export function renderPicks(state) {
     $(`[data-group="${g.id}"] [data-group-count]`).textContent = n ? `${n} on the plan` : '';
   }
   const skipped = plan.skipped.length;
-  $('#picks-note').textContent = `${plan.placedCount} picked · ${plan.length} days · ≤4 a day, by island` + (skipped ? ` · ${skipped} off route` : '');
+  $('#picks-note').textContent = `${plan.activityCount} activities + ${plan.placedCount - plan.activityCount} strolls · ${plan.length} days · ≤4 activities a day, strolls ride along` + (skipped ? ` · ${skipped} off route` : '');
 }

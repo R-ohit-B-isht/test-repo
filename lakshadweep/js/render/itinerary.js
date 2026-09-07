@@ -4,7 +4,7 @@
 import { PRICES } from '../data/prices.js';
 import { STAYS, STAY_CONF } from '../data/stays.js';
 import { EATS } from '../data/eats.js';
-import { REACH, PACKAGE_FREE } from '../data/catalogue.js';
+import { REACH, PACKAGE_FREE, isExtra, extraTag } from '../data/catalogue.js';
 import { buildPlan } from '../plan.js';
 import { dayTotal, itemCost, fmt } from '../budget.js';
 import { html, raw, $, $$, fmtDate } from '../dom.js';
@@ -19,8 +19,9 @@ function pickTag(item, day) {
 
 function planList(day) {
   const fixed = day.fixed.map((f) => html`<li class="dp">${raw(icon(f.ic))}<span>${f.t}</span></li>`);
-  const picks = day.picks.map((p) => html`<li class="dp dp--pick">${raw(icon(p.icon))}<span>${p.name}</span><small>${pickTag(p, day)}</small></li>`);
-  return [...fixed, ...picks].join('');
+  const picks = day.picks.filter((p) => !isExtra(p)).map((p) => html`<li class="dp dp--pick">${raw(icon(p.icon))}<span>${p.name}</span><small>${pickTag(p, day)}</small></li>`);
+  const extras = day.picks.filter(isExtra).map((p) => html`<li class="dp dp--extra">${raw(icon(p.icon))}<span>${p.name}</span><small>${extraTag(p)}</small></li>`);
+  return [...fixed, ...picks, ...extras].join('');
 }
 
 function meals(day) {

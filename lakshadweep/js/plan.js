@@ -7,7 +7,7 @@ import { STAYS } from './data/stays.js';
 import { EATS } from './data/eats.js';
 import { getStrategy } from './strategies.js';
 import { fareFor } from './fares.js';
-import { PACKAGE_FREE } from './data/catalogue.js';
+import { PACKAGE_FREE, isExtra } from './data/catalogue.js';
 import { schedulePicks } from './grouping.js';
 
 export function addDays(iso, n) {
@@ -82,5 +82,6 @@ export function buildPlan(state) {
     seaNights: nights.filter((d) => d.sleepIcon === 'ship').length,
     travelHours: legs.reduce((s, l) => s + (l.package ? 0 : l.hours), 0),
     placedCount: placed.reduce((s, p) => s + p.length, 0),
+    activityCount: placed.reduce((s, p) => s + p.filter((i) => !isExtra(i)).length, 0),
   };
 }

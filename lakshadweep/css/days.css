@@ -124,3 +124,5 @@
 @media (min-width: 1440px) {
   .days { grid-template-columns: repeat(auto-fill, minmax(19rem, 1fr)); }
 }
+.dp--extra { color: var(--mist); }
+.dp--extra .ic { color: var(--mist); }

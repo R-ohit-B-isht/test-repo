@@ -7,9 +7,9 @@ export const CATALOGUE = [...ISLANDS, ...LANDMARKS, ...EXPERIENCES];
 export const CATALOGUE_BY_ID = Object.fromEntries(CATALOGUE.map((c) => [c.id, c]));
 
 export const CATALOGUE_GROUPS = [
-  { id: 'inhabited', name: 'Inhabited islands', hint: 'Ten with villages; four sit on these routes' },
+  { id: 'inhabited', name: 'Inhabited islands', hint: 'Ten with villages; four sit on these routes · village walks ride along' },
   { id: 'uninhabited', name: 'Uninhabited islands & atolls', hint: 'Boat trips from a base island' },
-  { id: 'landmark', name: 'Landmarks', hint: 'Free, on foot' },
+  { id: 'landmark', name: 'Landmarks', hint: 'Free, on foot · ride along, don’t fill the day' },
   { id: 'experience', name: 'Experiences', hint: 'Paid unless noted' },
 ];
 
@@ -27,3 +27,7 @@ export const PACKAGE_FREE = new Set(['kayak', 'snorkel', 'glassBottom']);
 
 export const DEFAULT_PICKS = Object.fromEntries(CATALOGUE.map((c) => [c.id, Boolean(c.on)]));
 export const MAX_PER_DAY = 4;
+// Strolls, look-ins and meals-as-experiences: scheduled next to the day's real activities, never counted.
+export const isExtra = (item) => item.slots === 0;
+// Label for an extra riding along on a day: an inhabited island is its village walk.
+export const extraTag = (item) => (item.group === 'inhabited' ? 'village walk' : 'nearby');

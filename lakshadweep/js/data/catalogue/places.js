@@ -1,9 +1,10 @@
 // Islands and landmarks. Fields:
 //   at     map point (PLACES id)        bases  day bases where this fits
 //   reach  base | excursion | nolanding | portcall | overnight | noaccess
-//   key    PRICES id charged when picked  slots  how much of a day it takes (of 4)
+//   key    PRICES id charged when picked  slots  how much of a day it takes (of 4);
+//          0 = a stroll / look-in that rides along with the day's real activities
 //   on     picked by default             pair   prefer the same day as this item
-const inhabited = (id, name, at, hint, extra = {}) => ({ id, name, group: 'inhabited', icon: 'island', at, bases: [at], reach: 'base', hint, slots: 1, source: 'wikiLakshadweep', ...extra });
+const inhabited = (id, name, at, hint, extra = {}) => ({ id, name, group: 'inhabited', icon: 'island', at, bases: [at], reach: 'base', hint, slots: 0, source: 'wikiLakshadweep', ...extra });
 const portcall = (id, name, at, hint) => inhabited(id, name, at, hint, { reach: 'portcall', on: false, note: 'Only via the ship’s port call or a separate vessel; add nights' });
 
 export const ISLANDS = [
@@ -19,15 +20,15 @@ export const ISLANDS = [
   portcall('bitra', 'Bitra Island', 'Bitra', 'Smallest inhabited'),
   {
     id: 'bangaram', name: 'Bangaram Island', group: 'uninhabited', icon: 'boat', at: 'Bangaram', bases: ['Agatti'],
-    reach: 'excursion', key: 'bangaramBoat', slots: 2, on: false, hint: 'Shared day boat from Agatti, ~1 h', source: 'dreamtrip',
+    reach: 'excursion', key: 'bangaramBoat', slots: 2, on: true, hint: 'Shared day boat from Agatti, ~1 h', source: 'dreamtrip',
   },
   {
     id: 'thinnakara', name: 'Thinnakara Island', group: 'uninhabited', icon: 'island', at: 'Thinnakara', bases: ['Agatti'],
-    reach: 'excursion', key: 'bangaramBoat', pair: 'bangaram', slots: 1, on: false, hint: 'Same boat as Bangaram', source: 'dreamtrip',
+    reach: 'excursion', key: 'bangaramBoat', pair: 'bangaram', slots: 1, on: true, hint: 'Same boat as Bangaram', source: 'dreamtrip',
   },
   {
     id: 'kalpitti', name: 'Kalpitti Island', group: 'uninhabited', icon: 'walk', at: 'Kalpitti', bases: ['Agatti'],
-    reach: 'base', slots: 1, on: true, hint: 'Sandbank off Agatti’s south tip · low tide', source: 'wikiLakshadweep',
+    reach: 'base', slots: 0, on: true, hint: 'Sandbank off Agatti’s south tip · low tide', source: 'wikiLakshadweep',
   },
   {
     id: 'cheriyam', name: 'Cheriyam Island', group: 'uninhabited', icon: 'island', at: 'Cheriyam', bases: ['Kalpeni'],
@@ -47,7 +48,7 @@ export const ISLANDS = [
   },
 ];
 
-const mark = (id, name, at, icon, hint, extra = {}) => ({ id, name, group: 'landmark', icon, at, bases: [at], reach: 'base', slots: 1, on: true, hint, source: 'samudram', ...extra });
+const mark = (id, name, at, icon, hint, extra = {}) => ({ id, name, group: 'landmark', icon, at, bases: [at], reach: 'base', slots: 0, on: true, hint, source: 'samudram', ...extra });
 
 export const LANDMARKS = [
   mark('agattiBeach', 'Agatti Lagoon Beach', 'Agatti', 'sun', 'West shore · sunset side', { source: 'dreamtrip' }),

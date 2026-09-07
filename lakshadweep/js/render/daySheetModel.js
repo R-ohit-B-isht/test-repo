@@ -5,7 +5,7 @@ import { PHOTOS, itemPhotos, photoOwner } from '../data/photos.js';
 import { EATS } from '../data/eats.js';
 import { STAYS, STAY_CONF } from '../data/stays.js';
 import { FARE_STATUS } from '../data/prices.js';
-import { REACH, PACKAGE_FREE } from '../data/catalogue.js';
+import { REACH, PACKAGE_FREE, isExtra, extraTag } from '../data/catalogue.js';
 import { fmt } from '../budget.js';
 
 const TRANSPORT = new Set(['plane', 'train', 'ship', 'boat', 'bus']);
@@ -26,7 +26,7 @@ function legTile(leg) {
 function pickTile(item, day) {
   const photos = itemPhotos(item.id);
   const tag = day.pkg && item.key && PACKAGE_FREE.has(item.key) ? 'in package'
-    : item.reach !== 'base' ? REACH[item.reach].label : item.key ? '' : 'free';
+    : item.reach !== 'base' ? REACH[item.reach].label : isExtra(item) ? extraTag(item) : item.key ? '' : 'free';
   return { icon: item.icon, name: item.name, sub: item.sub || '', tag, photo: photos[0], count: photos.length, gallery: item.id };
 }
 
