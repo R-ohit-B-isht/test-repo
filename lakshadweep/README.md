@@ -29,8 +29,8 @@ for f in $(find js -name '*.js'); do node --check "$f"; done
 - `js/budget.js` — pure budget arithmetic, bucketed into transport / stay / food / local / picks.
 - `js/store.js` — observable localStorage-backed state (Observer pattern).
 - `js/icons.js` — one SVG sprite, referenced by id (Flyweight).
-- `js/render/` — one renderer per section: hero, route map (+ day pills, pick icons, off-route ghosts), strategy cards, picks, day cards, ledger, checklist, sources.
+- `js/render/` — one renderer per section: hero, route map (+ day pills, pick icons, off-route ghosts), strategy cards, picks, day cards, ledger, checklist, sources, photo gallery (`<dialog>`).
 - `js/chrome/` — theme, clock, progress, rail, shortcuts.
-- `img/` — Wikimedia Commons photographs (CC BY / BY-SA), credited in the Sources section.
+- `img/` — photographs of the exact islands, landmarks and activities (Wikimedia Commons CC BY / BY-SA, one NASA public-domain image), several per item, mapped in `js/data/photos.js` (`ITEM_PHOTOS`) and credited in the Sources section. Items with no genuine photo show "No exact photo found" rather than a stand-in.
 
 Fare statuses: `seen` (read for that exact date), `nearby` (read for another date), `tariff` (official rate, sailing date TBC), `estimate`, `unavailable`. Observed Aug–Sep 2026 from the linked sources, not live fares.

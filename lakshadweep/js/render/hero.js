@@ -37,7 +37,7 @@ export function renderHero(state) {
   const key = `${state.strategy}:${state.shipClass}:${state.trainClass}:${JSON.stringify(state.picks)}`;
   if (key !== mapKey) {
     mapKey = key;
-    $('#hero-map').innerHTML = routeMap(plan) + html`<figcaption class="hero__cap">To scale · D1, D2… mark where each day is spent · ${plan.strategy.blurb}</figcaption>`;
+    $('#hero-map').innerHTML = routeMap(plan) + html`<figcaption class="hero__cap">To scale · D1, D2… = where each day is spent · ○ picked, off route</figcaption>`;
   }
   $('#status-dates').textContent = `${fmtRange(plan.start, plan.end)} · ${state.travellers} pax`;
 }

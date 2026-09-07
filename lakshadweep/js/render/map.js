@@ -1,23 +1,21 @@
-// To-scale route map (equirectangular, real coordinates) with a zoom lens for
-// the island cluster. Pure function of plan → SVG string. Day pills and
-// activity icons come from mapDays.js.
+// To-scale map of the archipelago (equirectangular, real coordinates) with a
+// zoom lens for the islets around Agatti. Only toured places are plotted; the
+// mainland legs run to one "Kochi →" anchor on the east edge. Pure function of
+// plan → SVG string. Day pills and activity icons come from mapDays.js.
 import { PLACES } from '../data/geo.js';
 import { esc } from '../dom.js';
-import { W, H, K, LAT0, LON0, LENS, CLUSTER, proj, lens, curve } from './mapProj.js';
+import { W, H, K, LAT0, LON0, LENS, CLUSTER, OFFMAP, EDGE, proj, lens, curve } from './mapProj.js';
 import { dayLayer, ghostLayer } from './mapDays.js';
 
 const DASH = { plane: '', ship: '7 5', boat: '2 4', train: '1 3' };
-// Long overland legs bow east (over land, away from the lens); sea legs bow west.
-const BOW = { plane: [-0.55, 1.25], train: [-0.55, 1.25] };
 
-function legPath(leg, i, n, scope) {
-  const at = scope === 'lens' ? lens : proj;
+// Every arc bows to the right of its travel direction, so the out and back
+// legs of a there-and-back pair fall on opposite sides of the chord.
+function legPath(leg) {
   const stops = [leg.from, ...(leg.via || []), leg.to];
-  const out = i < n / 2;
-  const bow = BOW[leg.icon] ? BOW[leg.icon][out ? 0 : 1] : (out ? 1 : -1);
   let d = '', mid = null;
   for (let s = 0; s < stops.length - 1; s++) {
-    const c = curve(at(stops[s]), at(stops[s + 1]), leg.via ? (s % 2 ? -1 : 1) : bow);
+    const c = curve(proj(stops[s]), proj(stops[s + 1]), s % 2 ? -1 : 1);
     d += c.d;
     if (s === Math.floor((stops.length - 2) / 2)) mid = c.mid;
   }
@@ -25,61 +23,77 @@ function legPath(leg, i, n, scope) {
   return `<path class="map__leg" d="${d}" stroke-dasharray="${DASH[leg.icon] || ''}"/>${badge}`;
 }
 
-function node(name, pt, cls = '') {
+const LABEL = {
+  w: (pt) => `x="${pt.x - 8}" y="${pt.y + 3.5}" text-anchor="end"`,
+  e: (pt) => `x="${pt.x + 8}" y="${pt.y + 3.5}" text-anchor="start"`,
+  n: (pt) => `x="${pt.x}" y="${pt.y - 7}" text-anchor="middle"`,
+};
+
+function node(name, pt, cls = '', side = PLACES[name].side) {
   const code = PLACES[name].code ? ` <tspan class="map__code">${PLACES[name].code}</tspan>` : '';
-  const labelLeft = PLACES[name].side === 'w';
   return `<g class="map__node ${cls}"><circle cx="${pt.x}" cy="${pt.y}" r="3.5"/>
-    <text x="${pt.x + (labelLeft ? -8 : 8)}" y="${pt.y + 3.5}" text-anchor="${labelLeft ? 'end' : 'start'}">${esc(name)}${code}</text></g>`;
+    <text ${LABEL[side](pt)}>${esc(name)}${code}</text></g>`;
+}
+
+// Mainland anchor: the legs from Delhi/Kochi arrive here from off the map.
+function edgeNode() {
+  const { x, y } = EDGE;
+  return `<g class="map__node map__node--edge" aria-label="Kochi, 400 km east, off the map">
+    <path d="M${x - 4} ${y - 4}L${x} ${y}L${x - 4} ${y + 4}"/>
+    <text ${LABEL.w({ x: x - 1, y })}>Kochi <tspan class="map__code">→</tspan></text></g>`;
 }
 
 function graticule() {
   let g = '';
-  for (let lat = 10; lat <= 25; lat += 5) {
+  for (let lat = 9; lat <= 11; lat++) {
     const y = (LAT0 - lat) * K;
     g += `<line class="map__grid" x1="0" y1="${y}" x2="${W}" y2="${y}"/><text class="map__gridlbl" x="4" y="${y - 3}">${lat}°N</text>`;
   }
-  for (let lon = 72; lon <= 78; lon += 3) {
+  for (let lon = 72; lon <= 73; lon++) {
     const x = (lon - LON0) * K;
     g += `<line class="map__grid" x1="${x}" y1="0" x2="${x}" y2="${H}"/><text class="map__gridlbl" x="${x + 3}" y="${H - 6}">${lon}°E</text>`;
   }
-  const km500 = 4.5 * K;
-  g += `<g class="map__scale"><line x1="16" y1="${H - 28}" x2="${16 + km500}" y2="${H - 28}"/><text x="16" y="${H - 34}">500 km</text></g>`;
+  const km100 = 0.9 * K;
+  g += `<g class="map__scale"><line x1="${W - 16 - km100}" y1="${H - 28}" x2="${W - 16}" y2="${H - 28}"/><text x="${W - 16}" y="${H - 34}" text-anchor="end">100 km</text></g>`;
   return g;
 }
 
-function lensLayer(inLens, lensLegs) {
-  const cluster = proj('Agatti');
+// Lens: Agatti and its lagoon islets at ×3. Filled dot = on the plan,
+// dashed = picked but unreachable, plain = not picked.
+function lensLayer(plan) {
+  const agatti = proj('Agatti');
+  const onPlan = new Set(plan.days.flatMap((d) => [d.base, ...d.picks.map((p) => p.at)]));
+  const skipped = new Set(plan.skipped.map((s) => s.item.at));
+  const isles = { Agatti: 9, Bangaram: 5, Thinnakara: 4, Kalpitti: 2.5 };
+  const sides = { Agatti: 'w', Bangaram: 'w', Thinnakara: 'n', Kalpitti: 'w' };
+  const state = (p) => (onPlan.has(p) ? 'is-on' : skipped.has(p) ? 'is-ghost' : 'is-off');
   return `
-    <g class="map__node"><circle cx="${cluster.x}" cy="${cluster.y}" r="3.5"/></g>
     <g class="map__lens">
-      <line class="map__lensline" x1="${cluster.x}" y1="${cluster.y}" x2="${LENS.cx + LENS.r * 0.7}" y2="${LENS.cy + LENS.r * 0.7}"/>
+      <line class="map__lensline" x1="${agatti.x}" y1="${agatti.y}" x2="${LENS.cx}" y2="${LENS.cy - LENS.r}"/>
       <circle class="map__lensbg" cx="${LENS.cx}" cy="${LENS.cy}" r="${LENS.r}"/>
       <clipPath id="lensclip"><circle cx="${LENS.cx}" cy="${LENS.cy}" r="${LENS.r - 1}"/></clipPath>
       <g clip-path="url(#lensclip)">
-        ${['Agatti', 'Bangaram', 'Kavaratti'].map((p) => `<circle class="map__isle" cx="${lens(p).x}" cy="${lens(p).y}" r="${p === 'Bangaram' ? 5 : 7}"/>`).join('')}
-        ${lensLegs.map((l, i) => legPath(l, i, lensLegs.length, 'lens')).join('')}
+        ${Object.entries(isles).map(([p, r]) => `<circle class="map__isle" cx="${lens(p).x}" cy="${lens(p).y}" r="${r}"/>`).join('')}
       </g>
-      ${inLens.map((p) => node(p, lens(p), 'map__node--lens')).join('')}
-      <text class="map__gridlbl" x="${LENS.cx}" y="${LENS.cy + LENS.r + 12}" text-anchor="middle">island cluster ×4</text>
+      ${Object.keys(isles).map((p) => node(p, lens(p), `map__node--lens ${state(p)}`, sides[p])).join('')}
+      <text class="map__gridlbl" x="${LENS.cx}" y="${LENS.cy + LENS.r + 12}" text-anchor="middle">Agatti lagoon ×3</text>
     </g>`;
 }
 
 export function routeMap(plan) {
-  const { legs } = plan;
+  const legs = plan.legs.filter((l) => ![l.from, l.to, ...(l.via || [])].every((p) => OFFMAP.has(p)));
   const places = new Set(legs.flatMap((l) => [l.from, l.to, ...(l.via || [])]));
-  const mainLegs = legs.filter((l) => !(CLUSTER.has(l.from) && CLUSTER.has(l.to)));
-  const lensLegs = legs.filter((l) => CLUSTER.has(l.from) && CLUSTER.has(l.to));
-  const inLens = [...places].filter((p) => CLUSTER.has(p));
-  const showLens = inLens.length > 0;
-  const mainNodes = [...places].filter((p) => !CLUSTER.has(p)).map((p) => node(p, proj(p)));
-  const summary = legs.map((l) => `${l.from} to ${l.to} by ${l.mode}`).join('; ');
+  const islands = [...places].filter((p) => !OFFMAP.has(p));
+  const showLens = islands.some((p) => CLUSTER.has(p));
+  const summary = plan.legs.map((l) => `${l.from} to ${l.to} by ${l.mode}`).join('; ');
 
-  return `<svg class="map" viewBox="0 0 ${W} ${H}" role="img" aria-label="Map of the route: ${esc(summary)}. Day numbers mark each stop.">
+  return `<svg class="map" viewBox="0 0 ${W} ${H}" role="img" aria-label="Map of the islands on this route: ${esc(summary)}. Day numbers mark each stop.">
     ${graticule()}
-    ${mainLegs.map((l, i) => legPath(l, i, mainLegs.length, 'main')).join('')}
-    ${mainNodes.join('')}
-    ${showLens ? lensLayer(inLens, lensLegs) : ''}
-    ${dayLayer(plan, showLens)}
+    ${legs.map(legPath).join('')}
+    ${edgeNode()}
+    ${islands.map((p) => node(p, proj(p))).join('')}
+    ${showLens ? lensLayer(plan) : ''}
+    ${dayLayer(plan)}
     ${ghostLayer(plan, places)}
   </svg>`;
 }

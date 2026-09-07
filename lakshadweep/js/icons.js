@@ -33,6 +33,10 @@ const PATHS = {
   aquarium: 'M3 5h18v13H3zM3 9c3 0 3 2 6 2s3-2 6-2 3 2 6 2M8 14h.01M14 15h.01M12 18v3M8 21h8',
   camp: 'M12 3l10 18H2zM12 3v18M9 21l3-8 3 8',
   ban: 'M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18zM5.5 5.5l13 13',
+  camera: 'M3 8h4l2-3h6l2 3h4v12H3zM12 17a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7z',
+  left: 'M15 5l-7 7 7 7',
+  right: 'M9 5l7 7-7 7',
+  close: 'M6 6l12 12M18 6L6 18',
 };
 
 export const ICON_NAMES = Object.keys(PATHS);

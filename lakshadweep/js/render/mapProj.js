@@ -1,12 +1,17 @@
 // Map geometry shared by map.js and mapDays.js: equirectangular projection of
-// real coordinates, plus a zoom lens for the Agatti–Kavaratti cluster.
-import { PLACES } from '../data/geo.js';
+// the archipelago only, plus a zoom lens for the islets around Agatti. The
+// mainland (Delhi, Kochi) is not toured, so it collapses to one anchor on the
+// east edge that the arrival/departure legs run to.
+import { PLACES, AGATTI_CLUSTER } from '../data/geo.js';
 
-export const W = 260, H = 560, K = 25.5, LON0 = 69.6, LAT0 = 29.7;
-export const LENS = { cx: 78, cy: 300, r: 72, k: 110, lon: 72.41, lat: 10.75 };
-export const CLUSTER = new Set(['Agatti', 'Bangaram', 'Kavaratti']);
+export const W = 260, H = 440, K = 108, LON0 = 71.7, LAT0 = 11.85;
+export const LENS = { cx: 66, cy: 250, r: 56, k: 340, lon: 72.27, lat: 10.865 };
+export const CLUSTER = AGATTI_CLUSTER;
+export const OFFMAP = new Set(['Delhi', 'Kochi']);
+export const EDGE = { x: 246, y: 160 };
 
 export const proj = (name) => {
+  if (OFFMAP.has(name)) return EDGE;
   const p = PLACES[name];
   return { x: (p.lon - LON0) * K, y: (LAT0 - p.lat) * K };
 };
@@ -15,16 +20,14 @@ export const lens = (name) => {
   return { x: LENS.cx + (p.lon - LENS.lon) * LENS.k, y: LENS.cy - (p.lat - LENS.lat) * LENS.k };
 };
 
-// Where a place is drawn given the current lens visibility.
-export const locate = (name, showLens) => (showLens && CLUSTER.has(name) ? lens(name) : proj(name));
-
 // Quadratic arc a→b, bowing perpendicular by `bow`. Badge sits at t=0.5, or offset along
 // short legs so the out/back badges of a there-and-back pair don't stack.
 export function curve(a, b, bow) {
   const mx = (a.x + b.x) / 2, my = (a.y + b.y) / 2;
   const dx = b.x - a.x, dy = b.y - a.y;
   const len = Math.hypot(dx, dy) || 1;
-  const cx = mx - dy * 0.18 * bow, cy = my + dx * 0.18 * bow;
+  const k = len < 140 ? 0.4 : 0.18;
+  const cx = mx - dy * k * bow, cy = my + dx * k * bow;
   const t = len < 140 ? 0.62 : 0.5;
   const u = 1 - t;
   const mid = { x: u * u * a.x + 2 * u * t * cx + t * t * b.x, y: u * u * a.y + 2 * u * t * cy + t * t * b.y };

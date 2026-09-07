@@ -9,6 +9,7 @@ import { mountPicks, renderPicks } from './render/picks.js';
 import { mountBudget, renderBudget } from './render/budget.js';
 import { mountChecklist, renderChecklist } from './render/checklist.js';
 import { mountSources } from './render/sources.js';
+import { mountGallery } from './render/gallery.js';
 import { mountTheme } from './chrome/theme.js';
 import { mountClock, mountProgress, mountRail, mountReveal } from './chrome/status.js';
 import { mountShortcuts } from './chrome/shortcuts.js';
@@ -22,6 +23,7 @@ mountPicks(store);
 mountBudget(store);
 mountChecklist(store);
 mountSources();
+mountGallery();
 
 store.subscribe((state) => {
   renderRoute(state);

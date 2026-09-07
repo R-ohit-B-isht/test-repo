@@ -128,12 +128,16 @@
 .map__mode circle { fill: var(--paper); stroke: var(--ink); stroke-width: 0.75; }
 .map__mode use { stroke: var(--ink); fill: none; stroke-width: 1.75; stroke-linecap: round; stroke-linejoin: round; }
 .map__node circle { fill: var(--ink); }
-.map__node text { fill: var(--ink); font-size: 9px; }
+.map__node text { paint-order: stroke; stroke: var(--paper); stroke-width: 2.5px; stroke-linejoin: round; fill: var(--ink); font-size: 9px; }
 .map__code { fill: var(--mist); font-size: 7.5px; letter-spacing: 0.08em; }
 .map__lensbg { fill: var(--paper); stroke: var(--ink); stroke-width: 0.75; }
 .map__lensline { stroke: var(--ink); stroke-width: 0.5; stroke-dasharray: 2 2; }
 .map__isle { fill: var(--lagoon); stroke: var(--forest); stroke-width: 0.5; }
 .map__node--lens text { font-size: 9px; }
+.map__node--lens.is-off circle { fill: var(--paper); stroke: var(--ink); stroke-width: 0.75; }
+.map__node--lens.is-off text { fill: var(--mist); }
+.map__node--lens.is-ghost circle { fill: none; stroke: var(--coral); stroke-width: 0.75; stroke-dasharray: 1.5 1.5; }
+.map__node--edge path { fill: none; stroke: var(--ink); stroke-width: 1.25; stroke-linecap: round; stroke-linejoin: round; }
 .map__day rect { fill: var(--ink); }
 .map__day text { fill: var(--paper); font-size: 7.5px; letter-spacing: 0.06em; }
 .map__acts use { stroke: var(--forest); fill: none; stroke-width: 1.75; stroke-linecap: round; stroke-linejoin: round; }

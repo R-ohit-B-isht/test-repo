@@ -2,19 +2,55 @@
 // Card shells render once per strategy; the plan list, meals and spend chips
 // re-render on every state change (picks move between days).
 import { PRICES } from '../data/prices.js';
-import { PHOTOS } from '../data/photos.js';
+import { PHOTOS, ITEM_PHOTOS, itemPhotos, photoSize } from '../data/photos.js';
 import { STAYS, STAY_CONF } from '../data/stays.js';
 import { EATS } from '../data/eats.js';
-import { REACH, PACKAGE_FREE } from '../data/catalogue.js';
+import { CATALOGUE, REACH, PACKAGE_FREE } from '../data/catalogue.js';
 import { buildPlan } from '../plan.js';
 import { dayTotal, itemCost, fmt } from '../budget.js';
 import { html, raw, $, $$, fmtDate } from '../dom.js';
 import { icon } from '../icons.js';
 
-function figure(id) {
-  if (!id) return '';
-  const p = PHOTOS[id];
-  return html`<img class="day__photo" src="${p.src}" alt="${p.alt}" width="960" height="640" loading="lazy" decoding="async">`;
+const img = (p, cls) => html`<img class="${cls}" src="${p.src}" alt="${p.alt}" width="${photoSize(p).w}" height="${photoSize(p).h}" loading="lazy" decoding="async">`;
+
+// First photo of an item not already shown on an earlier card, so consecutive
+// days on the same island don't repeat one shot. Falls back to the first.
+function fresh(photos, used) {
+  const i = Math.max(0, photos.findIndex((p) => !used.has(p.id)));
+  used.add(photos[i].id);
+  return i;
+}
+
+const lead = (s, i) => html`
+    <button type="button" class="day__lead" data-gallery="${s.item.id}" data-gallery-i="${i}" aria-label="${s.photos.length} photos of ${s.item.name}">
+      ${raw(img(s.photos[i], 'day__photo'))}
+      <span class="day__lead-tag">${raw(icon('camera'))}${s.photos.length}</span>
+    </button>`;
+
+// A day's fallback photo that belongs to a catalogue item (e.g. the Kavaratti
+// palm) opens that item's gallery; pure transit shots stay plain.
+function fallback(day, used) {
+  if (!day.photo) return '';
+  const id = Object.keys(ITEM_PHOTOS).find((k) => ITEM_PHOTOS[k].includes(day.photo));
+  const item = id && CATALOGUE.find((c) => c.id === id);
+  if (!item) { used.add(day.photo); return img(PHOTOS[day.photo], 'day__photo'); }
+  const s = { item, photos: itemPhotos(id) };
+  return lead(s, fresh(s.photos, used));
+}
+
+// Photo-first: the day's picks that have exact photos lead (tap → lightbox);
+// transit-only days fall back to the strategy's generic photo.
+function media(day, used) {
+  const shot = day.picks.map((p) => ({ item: p, photos: itemPhotos(p.id) })).filter((s) => s.photos.length);
+  if (!shot.length) return fallback(day, used);
+  const [first, ...rest] = shot;
+  const li = fresh(first.photos, used);
+  const strip = rest.slice(0, 3).map((s) => {
+    const i = fresh(s.photos, used);
+    return html`
+    <button type="button" class="day__thumb" data-gallery="${s.item.id}" data-gallery-i="${i}" aria-label="${s.photos.length} photos of ${s.item.name}">${raw(img(s.photos[i], ''))}</button>`;
+  });
+  return lead(first, li) + (strip.length ? html`<span class="day__strip">${raw(strip.join(''))}</span>` : '');
 }
 
 function pickTag(item, day) {
@@ -58,7 +94,7 @@ function dayCard(day) {
         <span class="day__where"><span class="day__place">${day.place}</span><time class="day__date" datetime="${day.date}">${fmtDate(day.date)}</time></span>
         <span class="day__mode" title="${day.nav}">${raw(icon(day.icon))}</span>
       </header>
-      ${raw(figure(day.photo))}
+      <div class="day__media" data-day-media></div>
       <h3 class="day__title">${day.title}</h3>
       <ol class="day__plan" data-day-plan></ol>
       <ul class="day__meals" aria-label="Meals" data-day-meals></ul>
@@ -83,8 +119,11 @@ export function renderItinerary(state) {
     $('#day-list').innerHTML = plan.days.map(dayCard).join('');
     watchActiveDay();
   }
+  const used = new Set();
   for (const day of plan.days) {
     const el = $(`#day-${day.n}`);
+    const m = media(day, used);
+    if (el.dataset.media !== m) { el.dataset.media = m; $('[data-day-media]', el).innerHTML = m; }
     $('[data-day-plan]', el).innerHTML = planList(day);
     $('[data-day-meals]', el).innerHTML = meals(day);
     $('[data-day-total]', el).textContent = fmt(dayTotal(day, state));

@@ -26,7 +26,7 @@ export function mountShortcuts(store, { onDev, onRoute }) {
   $('#help').addEventListener('click', (e) => { if (e.target === e.currentTarget) toggleHelp(false); });
 
   addEventListener('keydown', (e) => {
-    if (e.metaKey || e.ctrlKey || e.altKey || isTyping(e)) return;
+    if (e.metaKey || e.ctrlKey || e.altKey || isTyping(e) || $('dialog[open]')) return;
     if (e.key === 'Escape' && !$('#help').hidden) return toggleHelp(false);
     const k = e.key.toLowerCase();
     if (k === 't') return cycleTheme(store);

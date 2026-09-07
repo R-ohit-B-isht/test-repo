@@ -3,6 +3,7 @@
 // with the reason, so switching route shows what opens up.
 import { CATALOGUE, CATALOGUE_GROUPS, REACH } from '../data/catalogue.js';
 import { PRICES } from '../data/prices.js';
+import { itemPhotos, photoSize } from '../data/photos.js';
 import { SKIP_REASON } from '../grouping.js';
 import { buildPlan } from '../plan.js';
 import { fmt } from '../budget.js';
@@ -15,13 +16,28 @@ function priceTag(item) {
   return p.status === 'unavailable' ? 'quote locally' : fmt(p.amount);
 }
 
+// Leading visual: the first exact photo of the item, or its icon in a dashed
+// box when no photo of that exact place/activity exists.
+function thumb(item, photos) {
+  if (!photos.length) return html`<span class="pick__thumb pick__thumb--none" title="No exact photo found">${raw(icon(item.icon))}</span>`;
+  const p = photos[0];
+  const { w, h } = photoSize(p);
+  return html`<span class="pick__thumb"><img src="${p.src}" alt="" width="${w}" height="${h}" loading="lazy" decoding="async">${raw(icon(item.icon))}</span>`;
+}
+
 function pick(item) {
+  const photos = itemPhotos(item.id);
+  const pics = photos.length
+    ? html`<button type="button" class="pick__pics" data-gallery="${item.id}" aria-label="${photos.length} photo${photos.length > 1 ? 's' : ''} of ${item.name}" title="${item.hint}">${raw(icon('camera'))}<span>${photos.length}</span></button>`
+    : html`<span class="pick__pics pick__pics--none" title="No exact photo found" aria-hidden="true">${raw(icon('camera'))}<span>–</span></span>`;
   return html`
-    <button type="button" class="pick" data-pick="${item.id}" aria-pressed="false" title="${item.note || REACH[item.reach].hint}">
-      ${raw(icon(item.icon))}
-      <span class="pick__name"><span>${item.name}</span><small>${item.hint}</small></span>
-      <span class="pick__meta"><span class="pick__tag" data-pick-tag></span><span class="pick__price">${priceTag(item)}</span></span>
-    </button>`;
+    <div class="pickrow">
+      <button type="button" class="pick" data-pick="${item.id}" aria-pressed="false" title="${item.hint} · ${item.note || REACH[item.reach].hint}">
+        ${raw(thumb(item, photos))}
+        <span class="pick__name"><span>${item.name}</span><small class="pick__meta"><span class="pick__tag" data-pick-tag></span><span class="pick__price">${priceTag(item)}</span></small></span>
+      </button>
+      ${raw(pics)}
+    </div>`;
 }
 
 function group(g) {
@@ -70,5 +86,5 @@ export function renderPicks(state) {
     $(`[data-group="${g.id}"] [data-group-count]`).textContent = n ? `${n} on the plan` : '';
   }
   const skipped = plan.skipped.length;
-  $('#picks-note').textContent = `${plan.placedCount} things across ${plan.length} days, max 4 a day, grouped by island` + (skipped ? ` · ${skipped} picked but not reachable on this route` : '');
+  $('#picks-note').textContent = `${plan.placedCount} picked · ${plan.length} days · ≤4 a day, by island` + (skipped ? ` · ${skipped} off route` : '');
 }
